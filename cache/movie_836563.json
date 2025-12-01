@@ -1,0 +1,253 @@
+{
+  "adult": false,
+  "backdrop_path": "/zUwu2HEq97nIYlRj9wnW0sQegQO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 836563,
+  "imdb_id": "tt14776894",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Evolúció",
+  "overview": "Tracing three generations of a family that is unable to process its past in a society still coping with the wounds of its history, from a surreal memory of World War II to modern-day Berlin.",
+  "popularity": 11.6277,
+  "poster_path": "/bhgBQAeK2G92AjCCkQGLnaTd5Q8.jpg",
+  "production_companies": [
+    {
+      "id": 7306,
+      "logo_path": "/iqCkzLmACmrws2tHO2USRLkJqXY.png",
+      "name": "The Match Factory",
+      "origin_country": "DE"
+    },
+    {
+      "id": 17173,
+      "logo_path": "/ulj78XzGjDOiipXUCKUlJjKnZGf.png",
+      "name": "Proton Cinema",
+      "origin_country": "HU"
+    },
+    {
+      "id": 11237,
+      "logo_path": "/nzPEges9ftjCDQWru0qrIfTX8OR.png",
+      "name": "ZDF/Arte",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2021-08-01",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Evolution",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1036329,
+        "known_for_department": "Acting",
+        "name": "Lili Monori",
+        "original_name": "Lili Monori",
+        "popularity": 0.2731,
+        "profile_path": "/bJbDp2tXrvdYsIHdtAOHBr8Fdzw.jpg",
+        "cast_id": 2,
+        "character": "Éva",
+        "credit_id": "60bdc46e05a533006d9f34ca",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1036395,
+        "known_for_department": "Acting",
+        "name": "Annamária Láng",
+        "original_name": "Láng Annamária",
+        "popularity": 0.0984,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Léna",
+        "credit_id": "60bdc4755b124000590f7acd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3116783,
+        "known_for_department": "Acting",
+        "name": "Goya Rego",
+        "original_name": "Goya Rego",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Jónás",
+        "credit_id": "60bdc47b0d2f53004084d3d4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3116784,
+        "known_for_department": "Acting",
+        "name": "Padmé Hamdemir",
+        "original_name": "Padmé Hamdemir",
+        "popularity": 0.0676,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Yasmin",
+        "credit_id": "60bdc481bb26020078297125",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1032,
+        "known_for_department": "Directing",
+        "name": "Martin Scorsese",
+        "original_name": "Martin Scorsese",
+        "popularity": 2.7614,
+        "profile_path": "/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg",
+        "credit_id": "6209a5757aecc600f8c9e6cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56206,
+        "known_for_department": "Directing",
+        "name": "Kornél Mundruczó",
+        "original_name": "Kornél Mundruczó",
+        "popularity": 0.4451,
+        "profile_path": "/8mCJzduGeaSuibiwcvHZksUWuSW.jpg",
+        "credit_id": "60b8fb8c09dda400408fb356",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4404,
+        "known_for_department": "Camera",
+        "name": "Yorick Le Saux",
+        "original_name": "Yorick Le Saux",
+        "popularity": 0.152,
+        "profile_path": "/sy9xX2FCJB9yzjW8FJSCvBMY4Ya.jpg",
+        "credit_id": "60e4bb4a4ca676005e164b14",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1327893,
+        "known_for_department": "Art",
+        "name": "Judit Varga",
+        "original_name": "Judit Varga",
+        "popularity": 0.1528,
+        "profile_path": null,
+        "credit_id": "60e4bb5e8805510074e1953e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5642,
+        "known_for_department": "Art",
+        "name": "Albrecht Konrad",
+        "original_name": "Albrecht Konrad",
+        "popularity": 0.078,
+        "profile_path": null,
+        "credit_id": "60e4bb6d4ca676007506b3d2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2051326,
+        "known_for_department": "Sound",
+        "name": "Dascha Dauenhauer",
+        "original_name": "Dascha Dauenhauer",
+        "popularity": 0.1029,
+        "profile_path": null,
+        "credit_id": "60e4bb7b27ff990074def934",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037857,
+        "known_for_department": "Editing",
+        "name": "Dávid Jancsó",
+        "original_name": "Dávid Jancsó",
+        "popularity": 1.0941,
+        "profile_path": "/8THxh4KpFHQKo93Uj6yXO5kS37F.jpg",
+        "credit_id": "60e4bb8722e480002df0ca6e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1093082,
+        "known_for_department": "Writing",
+        "name": "Kata Wéber",
+        "original_name": "Kata Wéber",
+        "popularity": 0.5655,
+        "profile_path": "/5suJVgRbczE6dtMiMFjiiywCcF3.jpg",
+        "credit_id": "60e4bb3d880551002d0b5278",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56206,
+        "known_for_department": "Directing",
+        "name": "Kornél Mundruczó",
+        "original_name": "Kornél Mundruczó",
+        "popularity": 0.4451,
+        "profile_path": "/8mCJzduGeaSuibiwcvHZksUWuSW.jpg",
+        "credit_id": "60e4bb2f2811a1005e95e57e",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "adult": false,
+  "backdrop_path": "/jC8ZBsCWiTj4zSr8xQdBcNb08GB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 28360,
+  "imdb_id": "tt0035861",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Falling Hare",
+  "overview": "Relaxing with a carrot at a U.S. Army air field, Bugs is reading \"Victory Through Hare Power\" and scoffs at the notion of mentioned gremlins, little creatures who wreak havoc on planes with their diabolical sabotage.",
+  "popularity": 6.5914,
+  "poster_path": "/kTH9WxOPKAjUHNFQHsOyAeY9AVb.jpg",
+  "production_companies": [
+    {
+      "id": 134798,
+      "logo_path": null,
+      "name": "Leon Schlesinger Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1943-10-30",
+  "revenue": 0,
+  "runtime": 8,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Falling Hare",
+  "video": false,
+  "vote_average": 6.829,
+  "vote_count": 41,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33923,
+        "known_for_department": "Acting",
+        "name": "Mel Blanc",
+        "original_name": "Mel Blanc",
+        "popularity": 0.7183,
+        "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+        "cast_id": 0,
+        "character": "Bugs Bunny / The Gremlin (voice) (uncredited)",
+        "credit_id": "55182c91c3a3686302004254",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121037,
+        "known_for_department": "Directing",
+        "name": "Robert Clampett",
+        "original_name": "Robert Clampett",
+        "popularity": 0.188,
+        "profile_path": "/2x8KjXomM8psGFzNXgsGVbaSm5X.jpg",
+        "cast_id": 1,
+        "character": "Vocal effects (voice) (uncredited)",
+        "credit_id": "55182c9d9251412b6d002a7e",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121037,
+        "known_for_department": "Directing",
+        "name": "Robert Clampett",
+        "original_name": "Robert Clampett",
+        "popularity": 0.188,
+        "profile_path": "/2x8KjXomM8psGFzNXgsGVbaSm5X.jpg",
+        "credit_id": "55182cb29251412b6d002a81",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551674,
+        "known_for_department": "Sound",
+        "name": "Carl W. Stalling",
+        "original_name": "Carl W. Stalling",
+        "popularity": 0.3613,
+        "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+        "credit_id": "5683fbb9925141133400f3c7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149374,
+        "known_for_department": "Production",
+        "name": "Leon Schlesinger",
+        "original_name": "Leon Schlesinger",
+        "popularity": 0.1192,
+        "profile_path": "/is9gdhtLfaCYwWdeACDgAjdDA1w.jpg",
+        "credit_id": "5683fba49251414f630114c3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1110468,
+        "known_for_department": "Visual Effects",
+        "name": "Manny Gould",
+        "original_name": "Manny Gould",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "56c621d99251412449003a20",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149366,
+        "known_for_department": "Writing",
+        "name": "Warren Foster",
+        "original_name": "Warren Foster",
+        "popularity": 0.2031,
+        "profile_path": "/dxwLVoPzik5tR2nbdLg0seYN99X.jpg",
+        "credit_id": "56c621a1925141245400368c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 549357,
+        "known_for_department": "Visual Effects",
+        "name": "Phil Monroe",
+        "original_name": "Phil Monroe",
+        "popularity": 0.4136,
+        "profile_path": null,
+        "credit_id": "56c6220b9251415475001402",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113241,
+        "known_for_department": "Visual Effects",
+        "name": "Rod Scribner",
+        "original_name": "Rod Scribner",
+        "popularity": 0.0493,
+        "profile_path": null,
+        "credit_id": "56c621cfc3a3680d49003980",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223588,
+        "known_for_department": "Visual Effects",
+        "name": "Virgil Ross",
+        "original_name": "Virgil Ross",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "credit_id": "56c62217925141245b0038b3",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.2431,
+        "profile_path": null,
+        "credit_id": "56c621b2c3a3680d5200372a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1126707,
+        "known_for_department": "Visual Effects",
+        "name": "Thomas McKimson",
+        "original_name": "Thomas McKimson",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "56c621f0c3a3680d49003989",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.2431,
+        "profile_path": null,
+        "credit_id": "56c621c1c3a3680d540038c3",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132742,
+        "known_for_department": "Directing",
+        "name": "Robert McKimson",
+        "original_name": "Robert McKimson",
+        "popularity": 0.9129,
+        "profile_path": "/4fgokuTV7tlwekg91WeDZRuLQNc.jpg",
+        "credit_id": "56c621e492514154750013fb",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94011,
+        "known_for_department": "Visual Effects",
+        "name": "Bill Melendez",
+        "original_name": "Bill Melendez",
+        "popularity": 0.9265,
+        "profile_path": "/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg",
+        "credit_id": "56c621fdc3a3680d44003ce1",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  }
+}

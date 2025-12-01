@@ -1,0 +1,235 @@
+{
+  "adult": false,
+  "backdrop_path": "/tzbZyn15GSCgermzm4Wehpbexhj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 48133,
+  "imdb_id": "tt0036621",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Aventure Malgache",
+  "overview": "Backstage before a performance, a French actor recalls his time in Madagascar during World War II, when he secretly ran a Resistance radio station under the watch of a collaborationist police chief. His story unfolds in flashback, revealing espionage, deception, and divided loyalties within the French ranks. Made for Britain’s Ministry of Information, this 1944 French-language propaganda short satirizes Vichy opportunism and wartime hypocrisy, and was shelved for decades before its release in 1993.",
+  "popularity": 6.0234,
+  "poster_path": "/taPsP0LhQ78KdcHWwdduWtO34Yl.jpg",
+  "production_companies": [
+    {
+      "id": 76410,
+      "logo_path": null,
+      "name": "Phoenix",
+      "origin_country": ""
+    },
+    {
+      "id": 6309,
+      "logo_path": null,
+      "name": "Ministry of Information",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1944-01-01",
+  "revenue": 0,
+  "runtime": 31,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Aventure Malgache",
+  "video": false,
+  "vote_average": 5.339,
+  "vote_count": 56,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41716,
+        "known_for_department": "Acting",
+        "name": "Paul Bonifas",
+        "original_name": "Paul Bonifas",
+        "popularity": 0.2561,
+        "profile_path": "/5f64JtplnHJDWpSMEP1EjKjkbDc.jpg",
+        "cast_id": 3,
+        "character": "Michel",
+        "credit_id": "52fe4755c3a36847f812fe97",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 503013,
+        "known_for_department": "Acting",
+        "name": "Paul Clarus",
+        "original_name": "Paul Clarus",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Paul Clarus",
+        "credit_id": "52fe4755c3a36847f812fe9b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 503012,
+        "known_for_department": "Acting",
+        "name": "Jean Dattas",
+        "original_name": "Jean Dattas",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Man behind Michel",
+        "credit_id": "52fe4755c3a36847f812fe9f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 503011,
+        "known_for_department": "Acting",
+        "name": "Andre Frere",
+        "original_name": "Andre Frere",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Pierre",
+        "credit_id": "52fe4755c3a36847f812fea3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 358415,
+        "known_for_department": "Acting",
+        "name": "Guy Le Feuvre",
+        "original_name": "Guy Le Feuvre",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "General",
+        "credit_id": "52fe4755c3a36847f812fea7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 503010,
+        "known_for_department": "Acting",
+        "name": "Paulette Preney",
+        "original_name": "Paulette Preney",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Yvonne",
+        "credit_id": "52fe4755c3a36847f812feab",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2636,
+        "known_for_department": "Directing",
+        "name": "Alfred Hitchcock",
+        "original_name": "Alfred Hitchcock",
+        "popularity": 2.1957,
+        "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+        "credit_id": "52fe4755c3a36847f812fe8d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9837,
+        "known_for_department": "Camera",
+        "name": "Günther Krampf",
+        "original_name": "Günther Krampf",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "credit_id": "54005535c3a36806030011e0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 577730,
+        "known_for_department": "Writing",
+        "name": "Jules Francois Clermont",
+        "original_name": "Jules Francois Clermont",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "577e6755c3a3686b70001f4f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1581376,
+        "known_for_department": "Art",
+        "name": "J. Charles Gilbert",
+        "original_name": "J. Charles Gilbert",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "credit_id": "5b64628c0e0a267eeb0582ba",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88880,
+        "known_for_department": "Writing",
+        "name": "Angus MacPhail",
+        "original_name": "Angus MacPhail",
+        "popularity": 0.8019,
+        "profile_path": "/82CPbrsgSENosZV4wYZlyWEELZx.jpg",
+        "credit_id": "5b64626f925141405404f26f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97450,
+        "known_for_department": "Sound",
+        "name": "Benjamin Frankel",
+        "original_name": "Benjamin Frankel",
+        "popularity": 0.6904,
+        "profile_path": null,
+        "credit_id": "5b64627f925141406a051053",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

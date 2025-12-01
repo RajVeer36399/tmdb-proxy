@@ -1,0 +1,399 @@
+{
+  "adult": false,
+  "backdrop_path": "/tIw0BWPKJSfkEHcj2tT3EIQNwXx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "http://whiteplasticsky.com/",
+  "id": 587384,
+  "imdb_id": "tt8096846",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Műanyag égbolt",
+  "overview": "2123. Faced with diminishing resources, the human race can only survive through a trade-off: at the age of 50, every citizen is gradually turned into a tree. When Stefan discovers that his beloved wife Nora has voluntarily signed up for donating her own body before her time, he sets out on an adventurous journey to save her at all costs.",
+  "popularity": 6.2955,
+  "poster_path": "/qLQh0vlLZSR5VmFlO3AIuuaekei.jpg",
+  "production_companies": [
+    {
+      "id": 115763,
+      "logo_path": "/g9jxB6NTRBi80IM1yb2lwNSMmeN.png",
+      "name": "Artichoke",
+      "origin_country": "SK"
+    },
+    {
+      "id": 11010,
+      "logo_path": "/lNGhXPAxxNSMHgdJLm2Qu0yTJZR.png",
+      "name": "Paprika Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 77167,
+      "logo_path": "/vSolnakj69INaZ6DI2hfEWeZjKp.png",
+      "name": "SALTO",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    },
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "release_date": "2023-03-30",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "White Plastic Sky",
+  "video": false,
+  "vote_average": 6.833,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125434,
+        "known_for_department": "Acting",
+        "name": "Zsófia Szamosi",
+        "original_name": "Zsófia Szamosi",
+        "popularity": 0.5073,
+        "profile_path": "/xBHNfUd8xg2Y5xsinIY49dJwnSG.jpg",
+        "cast_id": 8,
+        "character": "Nóra",
+        "credit_id": "63c94907abdec00094332b27",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1265182,
+        "known_for_department": "Acting",
+        "name": "Tamás Keresztes",
+        "original_name": "Tamás Keresztes",
+        "popularity": 0.0784,
+        "profile_path": "/4UFaT7b5D35F8Ugl0A7ikQYcOWe.jpg",
+        "cast_id": 9,
+        "character": "Stefan",
+        "credit_id": "63c94915abdec0008733967a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1390714,
+        "known_for_department": "Acting",
+        "name": "Géza D. Hegedűs",
+        "original_name": "Géza D. Hegedűs",
+        "popularity": 0.0877,
+        "profile_path": "/owixge0WJGqxHqOicodPTb6KcMc.jpg",
+        "cast_id": 10,
+        "character": "Professor",
+        "credit_id": "63dbbce385702e05753cf58a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125682,
+        "known_for_department": "Acting",
+        "name": "Judit Schell",
+        "original_name": "Judit Schell",
+        "popularity": 0.1322,
+        "profile_path": "/bJTAWapRaZ0ulU7xVsZEX1Szu80.jpg",
+        "cast_id": 11,
+        "character": "Dr. Madu",
+        "credit_id": "63dbbceb3dc31300864d6ed4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 993511,
+        "known_for_department": "Acting",
+        "name": "István Znamenák",
+        "original_name": "István Znamenák",
+        "popularity": 0.1891,
+        "profile_path": "/4seRKiTJNcwCjaS3hxQwPt8yrxx.jpg",
+        "cast_id": 12,
+        "character": "Director",
+        "credit_id": "63dbbcf23dc313007d8169e8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42071,
+        "known_for_department": "Acting",
+        "name": "Zsolt Nagy",
+        "original_name": "Zsolt Nagy",
+        "popularity": 0.3286,
+        "profile_path": "/cslUvzBCq2885Fevu7TvxSbJ6w5.jpg",
+        "cast_id": 13,
+        "character": "Márk",
+        "credit_id": "63dbbcf9a9117f70c73775c6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1832158,
+        "known_for_department": "Acting",
+        "name": "Márton Patkós",
+        "original_name": "Patkós Márton",
+        "popularity": 0.1318,
+        "profile_path": "/mrcgPwHhskXXnrhi6fBmwIKuOX1.jpg",
+        "cast_id": 14,
+        "character": "Captain",
+        "credit_id": "63dbbcffa5743d008eef7a44",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537629,
+        "known_for_department": "Acting",
+        "name": "Renátó Olasz",
+        "original_name": "Olasz Renátó",
+        "popularity": 0.2706,
+        "profile_path": "/iv7kyC6cOdZqCT9Ko1HyjqMuRWC.jpg",
+        "cast_id": 15,
+        "character": "Zoltán",
+        "credit_id": "63dbbd05a5743d00ce382050",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1708141,
+        "known_for_department": "Production",
+        "name": "József Fülöp",
+        "original_name": "József Fülöp",
+        "popularity": 0.0314,
+        "profile_path": null,
+        "credit_id": "63f2a700caaca20085781572",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1130197,
+        "known_for_department": "Editing",
+        "name": "Judit Czakó",
+        "original_name": "Judit Czakó",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "63f2a71bcaaca2007f5f0be9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3931609,
+        "known_for_department": "Editing",
+        "name": "Máté Ternyik",
+        "original_name": "Máté Ternyik",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "63f3ce0dcaaca200892f6f9e",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2110030,
+        "known_for_department": "Crew",
+        "name": "Levente Sipos",
+        "original_name": "Levente Sipos",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63f3ce28a6725400820431dc",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2419005,
+        "known_for_department": "Sound",
+        "name": "Stefan Smith",
+        "original_name": "Stefan Smith",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63f3ce98caaca2007c7d3c9e",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512665,
+        "known_for_department": "Sound",
+        "name": "Heikki Kossi",
+        "original_name": "Heikki Kossi",
+        "popularity": 0.6446,
+        "profile_path": "/6VipnMFz9whg3WKRGld7KJDGTlo.jpg",
+        "credit_id": "644039407e403d04b025b71f",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2262370,
+        "known_for_department": "Directing",
+        "name": "Sarolta Szabó",
+        "original_name": "Sarolta Szabó",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "5c859d2f0e0a2669995a6b3f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1938165,
+        "known_for_department": "Production",
+        "name": "Tibor Bánóczki",
+        "original_name": "Tibor Bánóczki",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "5c859d020e0a2618885bd4ed",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2262370,
+        "known_for_department": "Directing",
+        "name": "Sarolta Szabó",
+        "original_name": "Sarolta Szabó",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "5c859d2ac3a3684e95de54f6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1737468,
+        "known_for_department": "Production",
+        "name": "Pierre-Emmanuel Fleurantin",
+        "original_name": "Pierre-Emmanuel Fleurantin",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "5c859d52c3a3684e89de2135",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166882,
+        "known_for_department": "Production",
+        "name": "Juraj Krasnohorský",
+        "original_name": "Juraj Krasnohorský",
+        "popularity": 0.0543,
+        "profile_path": null,
+        "credit_id": "5c859d47925141277a22166a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2262371,
+        "known_for_department": "Production",
+        "name": "Orsolya Sipos",
+        "original_name": "Orsolya Sipos",
+        "popularity": 0.0437,
+        "profile_path": null,
+        "credit_id": "5c859d3cc3a3685f88d31f5e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1938165,
+        "known_for_department": "Production",
+        "name": "Tibor Bánóczki",
+        "original_name": "Tibor Bánóczki",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "6740f2564a3dc178173d3f3d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1938165,
+        "known_for_department": "Production",
+        "name": "Tibor Bánóczki",
+        "original_name": "Tibor Bánóczki",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "6740f2611cd8c243e6be7885",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2950671,
+        "known_for_department": "Sound",
+        "name": "Christopher White",
+        "original_name": "Christopher White",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6740f27a4a3dc178173d3f56",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

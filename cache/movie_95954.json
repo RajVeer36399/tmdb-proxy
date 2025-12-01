@@ -1,0 +1,408 @@
+{
+  "adult": false,
+  "backdrop_path": "/eYfRRCf0PgRzhvkRF2jRE4NieGS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 95954,
+  "imdb_id": "tt0063646",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La permission",
+  "overview": "Turner, a black American soldier, is given three days leave in Paris. Not knowing what to do with himself, he goes to a nightclub where he meets a French girl named Miriam. Their romance blossoms, but their love affair is darkened by Turner's impending departure and the specter of racial prejudice.",
+  "popularity": 5.9161,
+  "poster_path": "/vWKwTXl75x4DFb5oQdnOLXc2buz.jpg",
+  "production_companies": [
+    {
+      "id": 10634,
+      "logo_path": null,
+      "name": "O.P.E.R.A.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1968-07-08",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Story of a Three-Day Pass",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 184951,
+        "known_for_department": "Acting",
+        "name": "Harry Baird",
+        "original_name": "Harry Baird",
+        "popularity": 0.235,
+        "profile_path": "/uDgl90qZWY65kcVEqcqSFEjN8mm.jpg",
+        "cast_id": 2,
+        "character": "Turner",
+        "credit_id": "52fe49999251416c750cd54d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19269,
+        "known_for_department": "Acting",
+        "name": "Nicole Berger",
+        "original_name": "Nicole Berger",
+        "popularity": 0.6087,
+        "profile_path": "/reT51hjkYj99XOJDN5VMSvLWTcc.jpg",
+        "cast_id": 3,
+        "character": "Miriam Gervase",
+        "credit_id": "52fe49999251416c750cd551",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148301,
+        "known_for_department": "Acting",
+        "name": "Pierre Doris",
+        "original_name": "Pierre Doris",
+        "popularity": 0.2306,
+        "profile_path": "/qAvWwxxGGu8hSuzZUhJawCcqk28.jpg",
+        "cast_id": 4,
+        "character": "Peasant",
+        "credit_id": "52fe49999251416c750cd555",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36316,
+        "known_for_department": "Acting",
+        "name": "Christian Marin",
+        "original_name": "Christian Marin",
+        "popularity": 0.7891,
+        "profile_path": "/a1SvmiagSXyM6YYWrdjqDn8xbgP.jpg",
+        "cast_id": 5,
+        "character": "hotelman",
+        "credit_id": "5e14820f6262080012c5bbe2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1898375,
+        "known_for_department": "Writing",
+        "name": "Hal Brav",
+        "original_name": "Hal Brav",
+        "popularity": 0.0757,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "The Captain",
+        "credit_id": "64c7185141aac40fb3e5b506",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4189201,
+        "known_for_department": "Acting",
+        "name": "Tria French",
+        "original_name": "Tria French",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Madame Abernathy",
+        "credit_id": "64c71869d7a70a011c7802ae",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4189202,
+        "known_for_department": "Acting",
+        "name": "Karell Jonathan Beer",
+        "original_name": "Karell Jonathan Beer",
+        "popularity": 0.0726,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "64c7187beec5b500ff52881a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54405,
+        "known_for_department": "Acting",
+        "name": "George Birt",
+        "original_name": "George Birt",
+        "popularity": 1.082,
+        "profile_path": "/6kPPQxMyvPBttHFjilRH8wrqMqo.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "64c7188beec5b50139005a30",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4189203,
+        "known_for_department": "Acting",
+        "name": "Jon Carlson",
+        "original_name": "Jon Carlson",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "64c718abeec5b500ff52883a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4189204,
+        "known_for_department": "Acting",
+        "name": "Muriel Gaines",
+        "original_name": "Muriel Gaines",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "64c718bfdb8a00013a05d5d3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4189205,
+        "known_for_department": "Acting",
+        "name": "Florita Peres",
+        "original_name": "Florita Peres",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "64c718cd30f79c00ae8df506",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4189206,
+        "known_for_department": "Acting",
+        "name": "Liberto Malsan",
+        "original_name": "Liberto Malsan",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "64c718daeec5b50139005a5d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40970,
+        "known_for_department": "Acting",
+        "name": "Dany Jacquet",
+        "original_name": "Dany Jacquet",
+        "popularity": 0.0788,
+        "profile_path": "/cij8fgnlJwtzNNbOTCOZ3Qu2n43.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "64c718e895ce24011e59aedd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4189207,
+        "known_for_department": "Acting",
+        "name": "Valerie Kovaks",
+        "original_name": "Valerie Kovaks",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "64c718f7d7a70a00c52566bb",
+        "order": 13
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1429795,
+        "known_for_department": "Acting",
+        "name": "Jean Dumaine",
+        "original_name": "Jean Dumaine",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "64c71908d7a70a00c52566c8",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135650,
+        "known_for_department": "Acting",
+        "name": "Melvin Van Peebles",
+        "original_name": "Melvin Van Peebles",
+        "popularity": 0.154,
+        "profile_path": "/oiOxqF64Ik6u9gWWA8WQrA5cW4I.jpg",
+        "credit_id": "52fe49999251416c750cd549",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70855,
+        "known_for_department": "Camera",
+        "name": "Michel Kelber",
+        "original_name": "Michel Kelber",
+        "popularity": 0.0735,
+        "profile_path": null,
+        "credit_id": "60e04b189979d2002949ed6f",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3144465,
+        "known_for_department": "Production",
+        "name": "Gaston Doha",
+        "original_name": "Gaston Doha",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "60e04b0a4544af002d3866e7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2162550,
+        "known_for_department": "Editing",
+        "name": "Liliane Korb",
+        "original_name": "Liliane Korb",
+        "popularity": 0.0452,
+        "profile_path": null,
+        "credit_id": "60e04b4b4544af004723d7cb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135650,
+        "known_for_department": "Acting",
+        "name": "Melvin Van Peebles",
+        "original_name": "Melvin Van Peebles",
+        "popularity": 0.154,
+        "profile_path": "/oiOxqF64Ik6u9gWWA8WQrA5cW4I.jpg",
+        "credit_id": "60e04af00f3655005e09d525",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1002179,
+        "known_for_department": "Production",
+        "name": "Guy Belfond",
+        "original_name": "Guy Belfond",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "60e04afb27ff990074d6b025",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135650,
+        "known_for_department": "Acting",
+        "name": "Melvin Van Peebles",
+        "original_name": "Melvin Van Peebles",
+        "popularity": 0.154,
+        "profile_path": "/oiOxqF64Ik6u9gWWA8WQrA5cW4I.jpg",
+        "credit_id": "60e04b11bdd568002d2f3f8b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2871552,
+        "known_for_department": "Acting",
+        "name": "Mickey Baker",
+        "original_name": "Mickey Baker",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "64c7196aeec5b500ad02c8db",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1902121,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aïda Carange",
+        "original_name": "Aïda Carange",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "64c719be63e6fb00acdcb6a3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4189208,
+        "known_for_department": "Sound",
+        "name": "Gérard Brisseau",
+        "original_name": "Gérard Brisseau",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "64c71a1241aac40fb71407c4",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      }
+    ]
+  }
+}

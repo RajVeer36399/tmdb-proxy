@@ -1,0 +1,226 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 295020,
+  "imdb_id": "tt0047456",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Schützenliesel",
+  "overview": "",
+  "popularity": 6.7509,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 2195,
+      "logo_path": null,
+      "name": "Central-Europa Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1954-10-19",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Schützenliesel",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 51158,
+        "known_for_department": "Acting",
+        "name": "Herta Staal",
+        "original_name": "Herta Staal",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Gretl",
+        "credit_id": "54248e77c3a3681eca002aaa",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46508,
+        "known_for_department": "Acting",
+        "name": "Joe Stöckel",
+        "original_name": "Joe Stöckel",
+        "popularity": 0.3873,
+        "profile_path": "/vh1p4myWkD0fPC9UV2ntbxQcItp.jpg",
+        "cast_id": 2,
+        "character": "Josef Mooshammer",
+        "credit_id": "54248e850e0a263b7e0043de",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39935,
+        "known_for_department": "Acting",
+        "name": "Gunther Philipp",
+        "original_name": "Gunther Philipp",
+        "popularity": 0.2456,
+        "profile_path": "/giiKTzhRkWXxztB1mdXjdn8wZk3.jpg",
+        "cast_id": 3,
+        "character": "Baron von Simmering",
+        "credit_id": "54248e9b0e0a263b770043b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20862,
+        "known_for_department": "Acting",
+        "name": "Susi Nicoletti",
+        "original_name": "Susi Nicoletti",
+        "popularity": 0.1698,
+        "profile_path": "/bqt58JIvxWBPgGLR75LDz8uSkzP.jpg",
+        "cast_id": 4,
+        "character": "Cornelia",
+        "credit_id": "54248ec30e0a263b7400434f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26891,
+        "known_for_department": "Acting",
+        "name": "Willy Reichert",
+        "original_name": "Willy Reichert",
+        "popularity": 0.0511,
+        "profile_path": "/jCF09THzhFADLZpI6lT39JE5DZC.jpg",
+        "cast_id": 5,
+        "character": "Eduard Steinhagen",
+        "credit_id": "54248ed1c3a368087a00435e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29143,
+        "known_for_department": "Acting",
+        "name": "Käthe Haack",
+        "original_name": "Käthe Haack",
+        "popularity": 0.0492,
+        "profile_path": "/moKY8JWgzcjEgZw769d3qyd9S3X.jpg",
+        "cast_id": 6,
+        "character": "Therese Brandner",
+        "credit_id": "54248ee00e0a263b8100431b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1051745,
+        "known_for_department": "Acting",
+        "name": "Edith Schollwer",
+        "original_name": "Edith Schollwer",
+        "popularity": 0.0673,
+        "profile_path": "/zCOPp2t0zBu7wYVjYS3SSbBkXCr.jpg",
+        "cast_id": 7,
+        "character": "Mathilde - Schwester von Steinhagen",
+        "credit_id": "54248ef30e0a263b770043b9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46563,
+        "known_for_department": "Acting",
+        "name": "Rudolf Carl",
+        "original_name": "Rudolf Carl",
+        "popularity": 0.1895,
+        "profile_path": "/dssc7XtL5zSIiGpzOKtuKtIJFFo.jpg",
+        "cast_id": 8,
+        "character": "Hoteldirektor Wurzbach",
+        "credit_id": "54248f04c3a36808760041d7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48338,
+        "known_for_department": "Acting",
+        "name": "Sepp Rist",
+        "original_name": "Sepp Rist",
+        "popularity": 0.1276,
+        "profile_path": "/eZG6Bky1KdPp8AmN9HrE1fGfG1s.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "54248f0ec3a368087a004363",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14120,
+        "known_for_department": "Acting",
+        "name": "Paul Hörbiger",
+        "original_name": "Paul Hörbiger",
+        "popularity": 0.2412,
+        "profile_path": "/jrTXAidwAiHz5xW5M96uzvkTcDN.jpg",
+        "cast_id": 10,
+        "character": "Kaspar",
+        "credit_id": "54248f200e0a263b710043fd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26439,
+        "known_for_department": "Acting",
+        "name": "Helmuth Schneider",
+        "original_name": "Helmuth Schneider",
+        "popularity": 0.2442,
+        "profile_path": "/h531j6drTaftNjwU6UQ0GeHK4ni.jpg",
+        "cast_id": 11,
+        "character": "Stefan Brandner",
+        "credit_id": "5cb3991b0e0a2626c5c8fd82",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26600,
+        "known_for_department": "Acting",
+        "name": "Rudolf Schündler",
+        "original_name": "Rudolf Schündler",
+        "popularity": 0.6924,
+        "profile_path": "/pCMgzBPLU4CpAVckCiTkAjEM8ca.jpg",
+        "credit_id": "54248e640e0a263b6e00436a",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

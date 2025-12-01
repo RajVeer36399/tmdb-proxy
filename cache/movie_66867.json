@@ -1,0 +1,221 @@
+{
+  "adult": false,
+  "backdrop_path": "/cXUVDM3CSSb34MBiEWyD34hvpfW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 66867,
+  "imdb_id": "tt0041421",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Goofy Gymnastics",
+  "overview": "Inspired by a magazine ad, Goofy sends for a mail order body building course. First is weight lifting; after Goofy finally gets the weights up, a fly lands and sends him crashing through several floors in the apartment building. Chinups: the bar itself goes up and down. Then a rubber-band stretch device, which Goofy quickly tangles up in, sending him crashing through the building and several other pieces of equipment.",
+  "popularity": 5.4574,
+  "poster_path": "/p22koUwPj9fhGSAYiCig3MZN0xs.jpg",
+  "production_companies": [
+    {
+      "id": 3166,
+      "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+      "name": "Walt Disney Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1949-09-23",
+  "revenue": 0,
+  "runtime": 6,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Goofy enlists the aid of an instructional record in an effort to become fit.",
+  "title": "Goofy Gymnastics",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 67,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5462,
+        "known_for_department": "Acting",
+        "name": "Pinto Colvig",
+        "original_name": "Pinto Colvig",
+        "popularity": 0.3885,
+        "profile_path": "/jslBLHuV1cOKsyx763CA1RqsrQU.jpg",
+        "cast_id": 4,
+        "character": "Goofy (voice)",
+        "credit_id": "564fc2b3925141645f00150a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69136,
+        "known_for_department": "Acting",
+        "name": "John McLeish",
+        "original_name": "John McLeish",
+        "popularity": 0.4483,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Narrator (voice)",
+        "credit_id": "564fc2c6c3a368070d005535",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74565,
+        "known_for_department": "Directing",
+        "name": "Jack Kinney",
+        "original_name": "Jack Kinney",
+        "popularity": 0.5158,
+        "profile_path": null,
+        "credit_id": "52fe474dc3a368484e0bf8f5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 149217,
+        "known_for_department": "Art",
+        "name": "Merle Cox",
+        "original_name": "Merle Cox",
+        "popularity": 1.5418,
+        "profile_path": null,
+        "credit_id": "564fc29cc3a36807080055f3",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115757,
+        "known_for_department": "Writing",
+        "name": "Dick Kinney",
+        "original_name": "Dick Kinney",
+        "popularity": 0.08,
+        "profile_path": null,
+        "credit_id": "564fc29392514164c0001479",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 149976,
+        "known_for_department": "Visual Effects",
+        "name": "John Sibley",
+        "original_name": "John Sibley",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "credit_id": "571647bdc3a3680d62004684",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 148823,
+        "known_for_department": "Visual Effects",
+        "name": "Edwin Aardal",
+        "original_name": "Edwin Aardal",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "571647cf92514146c8004584",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 148244,
+        "known_for_department": "Visual Effects",
+        "name": "Dan MacManus",
+        "original_name": "Dan MacManus",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "571647ee9251414b4100344d",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57314,
+        "known_for_department": "Visual Effects",
+        "name": "Wolfgang Reitherman",
+        "original_name": "Wolfgang Reitherman",
+        "popularity": 0.2963,
+        "profile_path": "/biIAk3hrc7Ed2ZnjadMiMS1EswM.jpg",
+        "credit_id": "571647c4c3a3682f45004305",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64868,
+        "known_for_department": "Sound",
+        "name": "Oliver Wallace",
+        "original_name": "Oliver Wallace",
+        "popularity": 0.1435,
+        "profile_path": null,
+        "credit_id": "5716480ec3a368673d00f33d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482031,
+        "known_for_department": "Directing",
+        "name": "Al Zinnen",
+        "original_name": "Al Zinnen",
+        "popularity": 1.0535,
+        "profile_path": null,
+        "credit_id": "57164800c3a3682f4500432d",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2106,
+        "known_for_department": "Production",
+        "name": "Walt Disney",
+        "original_name": "Walt Disney",
+        "popularity": 0.9755,
+        "profile_path": "/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg",
+        "credit_id": "64c11e91df86a800c8e873a1",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

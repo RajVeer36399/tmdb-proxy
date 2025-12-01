@@ -1,0 +1,142 @@
+{
+  "adult": false,
+  "backdrop_path": "/ibpjFkCB4klvDOmmFhgmLnPNqAF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.vivamax.net/link?contentId=T99946&contentType=Movie&territory=PH",
+  "id": 1337395,
+  "imdb_id": "tt33269451",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Kiskisan",
+  "overview": "A steamy tale of love, lust, and betrayal. When Adele's sister Bea returns with her girlfriend Cheska, a secret affair begins between Cheska and Adele's boyfriend, Rener, leading to a climactic ending when they're caught.",
+  "popularity": 7.8313,
+  "poster_path": "/2gavNjAvERUxLUEHDn8XJKFkRvy.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2024-09-27",
+  "revenue": 0,
+  "runtime": 60,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "Isang dakot, tatlong takal…",
+  "title": "Kiskisan",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4012042,
+        "known_for_department": "Acting",
+        "name": "Apple Dy",
+        "original_name": "Apple Dy",
+        "popularity": 6.4198,
+        "profile_path": "/QMETB1ypQs7rGgdCDwcTW0hCxR.jpg",
+        "cast_id": 3,
+        "character": "Bea",
+        "credit_id": "66c7292219afb4a7d0eab7d9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4866792,
+        "known_for_department": "Acting",
+        "name": "Skye Gonzaga",
+        "original_name": "Skye Gonzaga",
+        "popularity": 4.051,
+        "profile_path": "/sU8yAC7mptg5argRh46ccaZAz2B.jpg",
+        "cast_id": 8,
+        "character": "Cheska",
+        "credit_id": "670a82f64111be4f02743679",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3603443,
+        "known_for_department": "Acting",
+        "name": "Juan Calma",
+        "original_name": "Juan Calma",
+        "popularity": 0.774,
+        "profile_path": "/kdgXU6b3cQ6dDgjn2bfIztyloyA.jpg",
+        "cast_id": 5,
+        "character": "Rener",
+        "credit_id": "66c7293e4fa825103db2e34c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3371806,
+        "known_for_department": "Acting",
+        "name": "Robb Guinto",
+        "original_name": "Robb Guinto",
+        "popularity": 2.5568,
+        "profile_path": "/dtqU7iZ3QouBCAkRARiOtFGcFab.jpg",
+        "cast_id": 2,
+        "character": "Adelle",
+        "credit_id": "66c7291da402abcb395850d5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1588844,
+        "known_for_department": "Acting",
+        "name": "Tabs Sumulong",
+        "original_name": "Tabs Sumulong",
+        "popularity": 0.2998,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Tita Luring",
+        "credit_id": "66ee37dec237258e4c25d048",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2144356,
+        "known_for_department": "Directing",
+        "name": "Bobby Bonifacio",
+        "original_name": "Bobby Bonifacio",
+        "popularity": 0.5774,
+        "profile_path": "/ilVvkXRj4On7lPslEIDaUD8PuxM.jpg",
+        "credit_id": "66c7284fcee2511d11158a1d",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

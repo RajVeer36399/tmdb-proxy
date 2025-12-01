@@ -1,0 +1,337 @@
+{
+  "adult": false,
+  "backdrop_path": "/nD04Z5asl6q1koc7rvDrmU08XyA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 52327,
+  "imdb_id": "tt0092004",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Stammheim",
+  "overview": "Based on the research for his non-fiction book \"Der Baader-Meinhoff-Komplex\", \"Spiegel\" journalist Stefan Aust wrote the screen play to Reinhard Hauff’s controversial feature film that re-narrates the startling trial against the RAF terrorists Baader, Meinhoff, Ensslin, and Raspe. The trial that started in May 1975 in the Stammheim maximum-security prison extended over 192 days and ended with a lifetime sentence for all defendants.",
+  "popularity": 7.06,
+  "poster_path": "/neFrkGrwWYGUvIG5bGmd9UIx3Jr.jpg",
+  "production_companies": [
+    {
+      "id": 403,
+      "logo_path": "/h2nyRbglJy4d6TN6UDycqpdsLpr.png",
+      "name": "Neue Bioskop Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1986-01-30",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Baader-Meinhof Gang on Trial",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8198,
+        "known_for_department": "Acting",
+        "name": "Ulrich Tukur",
+        "original_name": "Ulrich Tukur",
+        "popularity": 0.8943,
+        "profile_path": "/8cRioOXiW0FSN0eWysHWdl4leEf.jpg",
+        "cast_id": 2,
+        "character": "Andreas Baader",
+        "credit_id": "53657bd70e0a2647cb001d15",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1186876,
+        "known_for_department": "Acting",
+        "name": "Therese Affolter",
+        "original_name": "Therese Affolter",
+        "popularity": 0.5939,
+        "profile_path": "/srPjoY8cAwVlfqdpzuKVOBgX5AO.jpg",
+        "cast_id": 3,
+        "character": "Ulrike Meinhof",
+        "credit_id": "53657be90e0a2647cb001d17",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37105,
+        "known_for_department": "Acting",
+        "name": "Ulrich Pleitgen",
+        "original_name": "Ulrich Pleitgen",
+        "popularity": 0.1149,
+        "profile_path": "/2WwTb7vam8qrMkhd2nElf9dpVKi.jpg",
+        "cast_id": 4,
+        "character": "Theodor Prinzing",
+        "credit_id": "53657bf90e0a2647c8001dd9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35263,
+        "known_for_department": "Acting",
+        "name": "Hans-Michael Rehberg",
+        "original_name": "Hans-Michael Rehberg",
+        "popularity": 0.2669,
+        "profile_path": "/10VtnxsW6h8hsKYmPc2qimiBQiz.jpg",
+        "cast_id": 5,
+        "character": "Siegfried Buback",
+        "credit_id": "53657c150e0a2647c4001da6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39251,
+        "known_for_department": "Acting",
+        "name": "Dominique Horwitz",
+        "original_name": "Dominique Horwitz",
+        "popularity": 0.6355,
+        "profile_path": "/3YuwwLvwuDjl6R9RnBQ03A6vp3R.jpg",
+        "cast_id": 6,
+        "character": "Zeuge",
+        "credit_id": "53657c2b0e0a2647d4001bf5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71123,
+        "known_for_department": "Acting",
+        "name": "Sabine Wegner",
+        "original_name": "Sabine Wegner",
+        "popularity": 0.0595,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Gudrun Ensslin",
+        "credit_id": "579a0985c3a3680e4300228b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49057,
+        "known_for_department": "Acting",
+        "name": "Hans Kremer",
+        "original_name": "Hans Kremer",
+        "popularity": 0.06,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Jan-Carl Raspe",
+        "credit_id": "579a0991c3a36821d3003ca4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1353184,
+        "known_for_department": "Acting",
+        "name": "Peter Danzeisen",
+        "original_name": "Peter Danzeisen",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Verteidiger",
+        "credit_id": "579a09aec3a3680ee30021b1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28766,
+        "known_for_department": "Acting",
+        "name": "Holger Mahlich",
+        "original_name": "Holger Mahlich",
+        "popularity": 0.1179,
+        "profile_path": "/24ckcgfrWrVVdk1Ex32vuysdAmv.jpg",
+        "cast_id": 15,
+        "character": "Verteidiger",
+        "credit_id": "579a09b8c3a368251b003de6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18409,
+        "known_for_department": "Acting",
+        "name": "Horst Mendroch",
+        "original_name": "Horst Mendroch",
+        "popularity": 0.07,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Bundesanwalt",
+        "credit_id": "579a09d1c3a3680ee30021c2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37481,
+        "known_for_department": "Acting",
+        "name": "Alexander Duda",
+        "original_name": "Alexander Duda",
+        "popularity": 0.4179,
+        "profile_path": "/sZW4tprl6D6VuRf1HhCxw6r91PO.jpg",
+        "cast_id": 17,
+        "character": "Reporter",
+        "credit_id": "580fcd769251416b7500de4e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2225228,
+        "known_for_department": "Acting",
+        "name": "Hans Christian Rudolph",
+        "original_name": "Hans Christian Rudolph",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Verteidiger",
+        "credit_id": "5c49a98bc3a368478c8b1cec",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1495571,
+        "known_for_department": "Acting",
+        "name": "Peter Maertens",
+        "original_name": "Peter Maertens",
+        "popularity": 0.0427,
+        "profile_path": "/81ecut0tbXOTj8JjQGj1TXpAwNv.jpg",
+        "cast_id": 19,
+        "character": "Verteidiger",
+        "credit_id": "5c49a9a29251410e0a555d29",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234362,
+        "known_for_department": "Directing",
+        "name": "Reinhard Hauff",
+        "original_name": "Reinhard Hauff",
+        "popularity": 0.1023,
+        "profile_path": "/TCNZfVcChxJ36ex7lLSqcnI9cH.jpg",
+        "credit_id": "52fe4825c3a36847f8159de9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16806,
+        "known_for_department": "Production",
+        "name": "Eberhard Junkersdorf",
+        "original_name": "Eberhard Junkersdorf",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "579a0951c3a368251b003dc0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23663,
+        "known_for_department": "Editing",
+        "name": "Heidi Handorf",
+        "original_name": "Heidi Handorf",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "579a093e9251413f150040ca",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26305,
+        "known_for_department": "Directing",
+        "name": "Jürgen Flimm",
+        "original_name": "Jürgen Flimm",
+        "popularity": 0.4787,
+        "profile_path": "/sup1Y4OPkV8v3HW9OFFj9Cotu0l.jpg",
+        "credit_id": "579a096192514112fb0021f9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53022,
+        "known_for_department": "Writing",
+        "name": "Stefan Aust",
+        "original_name": "Stefan Aust",
+        "popularity": 0.1893,
+        "profile_path": "/2OiyXh40hWdVHyh456ofkMvvzut.jpg",
+        "credit_id": "579a091e9251411296001ee0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32936,
+        "known_for_department": "Camera",
+        "name": "Frank Brühne",
+        "original_name": "Frank Brühne",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "680cf3a410d1e453d2eab30f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

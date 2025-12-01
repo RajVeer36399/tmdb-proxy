@@ -1,0 +1,523 @@
+{
+  "adult": false,
+  "backdrop_path": "/3kVs61IJyxD8zctQ8tOBX7a5aJz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 187731,
+  "imdb_id": "tt0055080",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Legge di guerra",
+  "overview": "During WW2, in a Nazi-occupied country, a local partisan blows-up a German military train, prompting the Germans to take civilian hostages to be shot if the culprit doesn't surrender before a deadline.",
+  "popularity": 7.3236,
+  "poster_path": "/sGYw2ABqC3FCOmZkdog3Oqt7Tda.jpg",
+  "production_companies": [
+    {
+      "id": 119156,
+      "logo_path": null,
+      "name": "Star Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1328,
+      "logo_path": null,
+      "name": "Eichberg-Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 5779,
+      "logo_path": "/tGITNHYaqbnnqM8u5QK6Aw9lnWg.png",
+      "name": "Comptoir Français du Film Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1961-05-08",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Laws of War",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3754,
+        "known_for_department": "Acting",
+        "name": "Mel Ferrer",
+        "original_name": "Mel Ferrer",
+        "popularity": 1.2159,
+        "profile_path": "/hWYjmKZ5uk1PLxfgedTNnTa6tP9.jpg",
+        "cast_id": 1,
+        "character": "Marco",
+        "credit_id": "52fe4d249251416c7513156b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2567,
+        "known_for_department": "Acting",
+        "name": "Peter van Eyck",
+        "original_name": "Peter van Eyck",
+        "popularity": 0.3282,
+        "profile_path": "/rv26j7mnV32X4mKxFY1pAquvfrX.jpg",
+        "cast_id": 3,
+        "character": "Hauptmann Paul Langenau",
+        "credit_id": "52fe4d249251416c75131573",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5963,
+        "known_for_department": "Acting",
+        "name": "Magali Noël",
+        "original_name": "Magali Noël",
+        "popularity": 0.357,
+        "profile_path": "/mEFJnEVJ3MVOFrQLD40a8HMPr4O.jpg",
+        "cast_id": 2,
+        "character": "Olga",
+        "credit_id": "52fe4d249251416c7513156f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18559,
+        "known_for_department": "Acting",
+        "name": "Jean Desailly",
+        "original_name": "Jean Desailly",
+        "popularity": 0.2922,
+        "profile_path": "/fMR14DvAHQE0Ruv34alWv49VNKV.jpg",
+        "cast_id": 4,
+        "character": "Uhrmacher Rede",
+        "credit_id": "52fe4d249251416c75131577",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36028,
+        "known_for_department": "Acting",
+        "name": "Michael Hinz",
+        "original_name": "Michael Hinz",
+        "popularity": 0.1069,
+        "profile_path": "/r30Q9eY8fowg0HAIKfCBAv53iuP.jpg",
+        "cast_id": 9,
+        "character": "Jossip",
+        "credit_id": "57a79c8cc3a36808ba00164e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46557,
+        "known_for_department": "Acting",
+        "name": "Franz Muxeneder",
+        "original_name": "Franz Muxeneder",
+        "popularity": 0.125,
+        "profile_path": "/nBJSWzQ1prFQIaTKe37SYJUUR30.jpg",
+        "cast_id": 10,
+        "character": "Deutscher Feldwebel",
+        "credit_id": "57a79cadc3a36822b400340f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5969,
+        "known_for_department": "Acting",
+        "name": "Ida Galli",
+        "original_name": "Ida Galli",
+        "popularity": 0.748,
+        "profile_path": "/9iUgC8Z10IIxGUd1ozoNcy7zYvp.jpg",
+        "cast_id": 11,
+        "character": "Danica",
+        "credit_id": "5b720a5e0e0a267ee519067e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4426,
+        "known_for_department": "Acting",
+        "name": "Maria Michi",
+        "original_name": "Maria Michi",
+        "popularity": 0.1684,
+        "profile_path": "/z4IJay0SUTnTzwkvK29fwQ8n1RV.jpg",
+        "cast_id": 14,
+        "character": "signora Macusar",
+        "credit_id": "62d55d5ae6d3cc004dfb9183",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101549,
+        "known_for_department": "Acting",
+        "name": "Paul Müller",
+        "original_name": "Paul Müller",
+        "popularity": 0.9586,
+        "profile_path": "/sOtKH3ouYaWH6EzNdfxNqCT6zUY.jpg",
+        "cast_id": 15,
+        "character": "interprete",
+        "credit_id": "62d55d9ed1a893005007cd69",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 545547,
+        "known_for_department": "Acting",
+        "name": "André Jocelyn",
+        "original_name": "André Jocelyn",
+        "popularity": 0.0071,
+        "profile_path": "/uHuXDpnbIZnMoyZWw5reTGZeJKS.jpg",
+        "cast_id": 16,
+        "character": "studente",
+        "credit_id": "62d55dc3e6d3cc0055c468ce",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570223,
+        "known_for_department": "Directing",
+        "name": "Bruno Paolinelli",
+        "original_name": "Bruno Paolinelli",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "52fe4d249251416c7513157d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570223,
+        "known_for_department": "Directing",
+        "name": "Bruno Paolinelli",
+        "original_name": "Bruno Paolinelli",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "52fe4d249251416c75131583",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33216,
+        "known_for_department": "Sound",
+        "name": "Mario Nascimbene",
+        "original_name": "Mario Nascimbene",
+        "popularity": 0.5823,
+        "profile_path": "/nb0wjhOnWPw4WgkpaqocgBh0Izy.jpg",
+        "credit_id": "52fe4d249251416c7513158f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628574,
+        "known_for_department": "Production",
+        "name": "Gilberto Rossini",
+        "original_name": "Gilberto Rossini",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62d55ce2d1a893004dbca49f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628575,
+        "known_for_department": "Production",
+        "name": "Federico M. Topel",
+        "original_name": "Federico M. Topel",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "62d55d0272c13e062fedd083",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570223,
+        "known_for_department": "Directing",
+        "name": "Bruno Paolinelli",
+        "original_name": "Bruno Paolinelli",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "62d55e1be6d3cc0055c46915",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1177275,
+        "known_for_department": "Writing",
+        "name": "Giuseppe Berto",
+        "original_name": "Giuseppe Berto",
+        "popularity": 0.4036,
+        "profile_path": "/c6BbzxhxqBrJje1mIzqldliMwgl.jpg",
+        "credit_id": "62d55e35e93e950067b149a2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27861,
+        "known_for_department": "Camera",
+        "name": "Aldo Scavarda",
+        "original_name": "Aldo Scavarda",
+        "popularity": 0.0666,
+        "profile_path": null,
+        "credit_id": "62d55e4cd1a893005007cdd9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 37812,
+        "known_for_department": "Editing",
+        "name": "Nella Nannuzzi",
+        "original_name": "Nella Nannuzzi",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "62d55e595aba320067c1df6c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1502720,
+        "known_for_department": "Directing",
+        "name": "Albino Cocco",
+        "original_name": "Albino Cocco",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "62d55e645aba32004cd68237",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1580988,
+        "known_for_department": "Directing",
+        "name": "Vanda Tuzzi",
+        "original_name": "Vanda Tuzzi",
+        "popularity": 0.1015,
+        "profile_path": null,
+        "credit_id": "62d55e6e5aba32004f8ec26e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1127100,
+        "known_for_department": "Production",
+        "name": "Aurelio Serafinelli",
+        "original_name": "Aurelio Serafinelli",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "62d55e852ac499053e15d46b",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53195,
+        "known_for_department": "Production",
+        "name": "Ugo Tucci",
+        "original_name": "Ugo Tucci",
+        "popularity": 0.1053,
+        "profile_path": null,
+        "credit_id": "62d55e8d2ac499053cb5d47f",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91800,
+        "known_for_department": "Production",
+        "name": "Luciano Volpato",
+        "original_name": "Luciano Volpato",
+        "popularity": 0.0628,
+        "profile_path": null,
+        "credit_id": "62d55e9604b596004cf70fba",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1130134,
+        "known_for_department": "Art",
+        "name": "Massimiliano Capriccioli",
+        "original_name": "Massimiliano Capriccioli",
+        "popularity": 0.0728,
+        "profile_path": null,
+        "credit_id": "62d55eac2ac499053e15d486",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1561047,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giuseppe Banchelli",
+        "original_name": "Giuseppe Banchelli",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "62d55ebb5aba32004cd6826f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628579,
+        "known_for_department": "Camera",
+        "name": "Guglielmo Coluzzi",
+        "original_name": "Guglielmo Coluzzi",
+        "popularity": 0.0814,
+        "profile_path": null,
+        "credit_id": "62d55ed0e6d3cc0055c4698d",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281680,
+        "known_for_department": "Sound",
+        "name": "Pietro Ortolani",
+        "original_name": "Pietro Ortolani",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "62d55ed9e6d3cc005095e9e5",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236755,
+        "known_for_department": "Camera",
+        "name": "Camillo Bazzoni",
+        "original_name": "Camillo Bazzoni",
+        "popularity": 0.1431,
+        "profile_path": null,
+        "credit_id": "62d55ef10486380053772029",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51431,
+        "known_for_department": "Camera",
+        "name": "Arturo Zavattini",
+        "original_name": "Arturo Zavattini",
+        "popularity": 0.0461,
+        "profile_path": "/4Q3H01PLGOIhAOPorsyaOAqOUuu.jpg",
+        "credit_id": "62d55f015aba320067c1dfc4",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7202,
+        "known_for_department": "Camera",
+        "name": "Vittorio Storaro",
+        "original_name": "Vittorio Storaro",
+        "popularity": 0.2015,
+        "profile_path": "/yRljsVWZwoTepSiUJOgPh2pN8d3.jpg",
+        "credit_id": "62d55f101f3e60004b9044f1",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628580,
+        "known_for_department": "Sound",
+        "name": "Dino Franzetti",
+        "original_name": "Dino Franzetti",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62d55f5ce6d3cc004dfb932b",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  }
+}

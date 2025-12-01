@@ -1,0 +1,187 @@
+{
+  "adult": false,
+  "backdrop_path": "/2WS24nK70vwyGk1LGYRLyT87OJK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1209772,
+  "imdb_id": "tt30691232",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Karinyo Brutal",
+  "overview": "When a battered mistress meets her neighbor, she knows he will be her perfect escape plan. But things turn chaotic when their plan backfires.",
+  "popularity": 9.2819,
+  "poster_path": "/r8721AzEqr59kFtJBig4zd3bFJR.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2024-01-12",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Karinyo Brutal",
+  "video": false,
+  "vote_average": 3.5,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4012042,
+        "known_for_department": "Acting",
+        "name": "Apple Dy",
+        "original_name": "Apple Dy",
+        "popularity": 6.4198,
+        "profile_path": "/QMETB1ypQs7rGgdCDwcTW0hCxR.jpg",
+        "cast_id": 1,
+        "character": "Christine",
+        "credit_id": "656206df7dfda6593264ec02",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1496209,
+        "known_for_department": "Acting",
+        "name": "Benz Sangalang",
+        "original_name": "Benz Sangalang",
+        "popularity": 1.0582,
+        "profile_path": "/9sEDlH32QXpvTmMXNszLlWFgEGu.jpg",
+        "cast_id": 11,
+        "character": "Edmund",
+        "credit_id": "659f684a39549a012339233b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4095699,
+        "known_for_department": "Acting",
+        "name": "Armani Hector",
+        "original_name": "Armani Hector",
+        "popularity": 2.9572,
+        "profile_path": "/fDrhynQZe8VJk62CCXLKMu6HWxN.jpg",
+        "cast_id": 10,
+        "character": "Ariel",
+        "credit_id": "659f681de24e3a01306e68ec",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2959347,
+        "known_for_department": "Acting",
+        "name": "Maebelle Medina",
+        "original_name": "Maebelle Medina",
+        "popularity": 1.1429,
+        "profile_path": "/u1tga0ZNFrEzxUp9jyNU1CK0MBt.jpg",
+        "cast_id": 12,
+        "character": "Lilibeth",
+        "credit_id": "659f687358efd301308f6872",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2097966,
+        "known_for_department": "Acting",
+        "name": "Aries Go",
+        "original_name": "Aries Go",
+        "popularity": 0.0855,
+        "profile_path": "/5HZLVrLQrKpJL3Gk0smtVVB17Gx.jpg",
+        "cast_id": 15,
+        "character": "Eman",
+        "credit_id": "65b9707190fca3017b074098",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4279036,
+        "known_for_department": "Acting",
+        "name": "Caira Lee",
+        "original_name": "Caira Lee",
+        "popularity": 1.8709,
+        "profile_path": "/gTVSHzbCvaUM2WuaI6UF4mNCgc2.jpg",
+        "cast_id": 13,
+        "character": "Marla",
+        "credit_id": "659f68b23679a10122abbf07",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4475099,
+        "known_for_department": "Acting",
+        "name": "Ghion Layug",
+        "original_name": "Ghion Espinosa",
+        "popularity": 1.0458,
+        "profile_path": "/s3FMVqDXZ7lbEXDXh6HWBN0VEUy.jpg",
+        "cast_id": 14,
+        "character": "Quito",
+        "credit_id": "659f690aed96bc01304f2acb",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227353,
+        "known_for_department": "Writing",
+        "name": "Jose Javier Reyes",
+        "original_name": "Jose Javier Reyes",
+        "popularity": 0.5942,
+        "profile_path": "/mjOAYnSVsHliTPGVZlPnaF5gekb.jpg",
+        "credit_id": "659f67cda843c1012d718960",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227353,
+        "known_for_department": "Writing",
+        "name": "Jose Javier Reyes",
+        "original_name": "Jose Javier Reyes",
+        "popularity": 0.5942,
+        "profile_path": "/mjOAYnSVsHliTPGVZlPnaF5gekb.jpg",
+        "credit_id": "65c3d6392476f20149fe4504",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

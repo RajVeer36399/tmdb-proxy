@@ -1,0 +1,286 @@
+{
+  "adult": false,
+  "backdrop_path": "/tZ3MhHh7HkMMNIGiYf4N9LTYO8A.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1104102,
+  "imdb_id": "tt29381709",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Swing Into Romance",
+  "overview": "The former dancer Christine Sims when she temporarily returns to her hometown for the Fall Festival and learns that her family's General Store is struggling. In order to help save the business, Christine will need to dust off her dancing shoes and face her ex-fiancé — and she may even find love in the process.",
+  "popularity": 6.832,
+  "poster_path": "/bGjcWn55YmVsDn1SORwqnHYPTLo.jpg",
+  "production_companies": [
+    {
+      "id": 20068,
+      "logo_path": "/6CEIvevd5R8yNG1nd7zuPd4Y9DT.png",
+      "name": "Hideaway Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2090,
+      "logo_path": "/jYlUttNqcN5u1pzMQrh5AEhZ27t.png",
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    },
+    {
+      "id": 64216,
+      "logo_path": "/Eg9VjIFt743LPYaK8Ag0fuhWGo.png",
+      "name": "Brad Krevoy Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-07",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Swing Into Romance",
+  "video": false,
+  "vote_average": 7.34,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65220,
+        "known_for_department": "Acting",
+        "name": "Danica McKellar",
+        "original_name": "Danica McKellar",
+        "popularity": 2.0111,
+        "profile_path": "/qVasJ8uKtvrntIXaPylneLW3ykf.jpg",
+        "cast_id": 1,
+        "character": "Christine Sims",
+        "credit_id": "641da2658de0ae00839a9784",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559280,
+        "known_for_department": "Acting",
+        "name": "David Haydn-Jones",
+        "original_name": "David Haydn-Jones",
+        "popularity": 1.7419,
+        "profile_path": "/6ozF5cpWaFwlt124yz66NOGhu5t.jpg",
+        "cast_id": 3,
+        "character": "Matthew Russell",
+        "credit_id": "64b028bac4904800c506fe4f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2384934,
+        "known_for_department": "Acting",
+        "name": "Gleb Savchenko",
+        "original_name": "Gleb Savchenko",
+        "popularity": 0.1248,
+        "profile_path": "/ratSpe5jEjLMefX2D0vOw0U0yUA.jpg",
+        "cast_id": 4,
+        "character": "Alex Ivanov",
+        "credit_id": "64b028c66a344800ea8f8825",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 166442,
+        "known_for_department": "Acting",
+        "name": "Brenda Bazinet",
+        "original_name": "Brenda Bazinet",
+        "popularity": 0.2313,
+        "profile_path": "/eSL8PgkG4l3Z5JMFgmwjZdCFEQY.jpg",
+        "cast_id": 11,
+        "character": "Jennifer Sims",
+        "credit_id": "6749e854f458fea16128dcad",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1752079,
+        "known_for_department": "Acting",
+        "name": "Valerie Boyle",
+        "original_name": "Valerie Boyle",
+        "popularity": 0.0899,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Mrs. Gregory",
+        "credit_id": "6749e8710da52e277ef42437",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3760348,
+        "known_for_department": "Acting",
+        "name": "Taya Messier",
+        "original_name": "Taya Messier",
+        "popularity": 0.0723,
+        "profile_path": "/A21BNZHDIbpas75OihgOTEFRSTD.jpg",
+        "cast_id": 13,
+        "character": "Taylor",
+        "credit_id": "6749e8886a3f5d05a7dc8a28",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2500801,
+        "known_for_department": "Acting",
+        "name": "Michelle Jackett-Webster",
+        "original_name": "Michelle Jackett-Webster",
+        "popularity": 0.0839,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Candace",
+        "credit_id": "6749e89c0da52e277ef42473",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1735625,
+        "known_for_department": "Acting",
+        "name": "Ipsita Paul",
+        "original_name": "Ipsita Paul",
+        "popularity": 0.1886,
+        "profile_path": "/u02f9gAa4ABGXfoIhkkR4FkkHUk.jpg",
+        "cast_id": 15,
+        "character": "Amanda",
+        "credit_id": "6749e8b1f458fea16128dcf2",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65220,
+        "known_for_department": "Acting",
+        "name": "Danica McKellar",
+        "original_name": "Danica McKellar",
+        "popularity": 2.0111,
+        "profile_path": "/qVasJ8uKtvrntIXaPylneLW3ykf.jpg",
+        "credit_id": "641da26c344a8e00d9e47752",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79580,
+        "known_for_department": "Production",
+        "name": "David Anselmo",
+        "original_name": "David Anselmo",
+        "popularity": 1.4062,
+        "profile_path": "/gieOMDVqEtmUvYqZlTf4mBFq5Wz.jpg",
+        "credit_id": "64b0295ce24b935b30a30442",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 934326,
+        "known_for_department": "Writing",
+        "name": "Marcy Holland",
+        "original_name": "Marcy Holland",
+        "popularity": 0.8799,
+        "profile_path": null,
+        "credit_id": "64b02914d40d4c00c704102e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 127499,
+        "known_for_department": "Production",
+        "name": "Amy Krell",
+        "original_name": "Amy Krell",
+        "popularity": 0.2715,
+        "profile_path": "/fn0hUhQ9ZhS4eH6XZmQZKulWAQS.jpg",
+        "credit_id": "64b02974e24b935b30a3044a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1781006,
+        "known_for_department": "Writing",
+        "name": "Scott Sveslosky",
+        "original_name": "Scott Sveslosky",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "64b02909e24b935b2e5b09b1",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 221723,
+        "known_for_department": "Directing",
+        "name": "Bradley Walsh",
+        "original_name": "Bradley Walsh",
+        "popularity": 0.3068,
+        "profile_path": null,
+        "credit_id": "64b029278a0e9b00adad0cb3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51702,
+        "known_for_department": "Production",
+        "name": "Brad Krevoy",
+        "original_name": "Brad Krevoy",
+        "popularity": 0.2284,
+        "profile_path": "/fSGnlsFaIv2XismPpVOmJ9pHANi.jpg",
+        "credit_id": "64b0296ee24b935b32b075c2",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

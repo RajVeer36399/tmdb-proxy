@@ -1,0 +1,184 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 277600,
+  "imdb_id": "tt0202146",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "zh",
+  "original_title": "Mi zong Huo Yuan Jia",
+  "overview": "A gang of thugs led by a ruthless bully (Hwang Jang Lee) has been terrorizing the residents of a small Japanese town for years, and the townspeople have finally had enough. But they won't stand a chance without the help of a local man's son who's been secretly studying kung fu. Now, it's a classic battle between good and evil, with warring factions throwing punches, kicks -- and insults -- with impressive skill.",
+  "popularity": 6.4795,
+  "poster_path": "/wbSb1FLGmTRvev497N0kO2qXGnH.jpg",
+  "production_companies": [
+    {
+      "id": 37612,
+      "logo_path": null,
+      "name": "Jia's Motion Picture (H.K.) Co.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1980-01-01",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Young Hero",
+  "video": false,
+  "vote_average": 4,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68677,
+        "known_for_department": "Acting",
+        "name": "Hwang Jang-Lee",
+        "original_name": "황정리",
+        "popularity": 1.4102,
+        "profile_path": "/wlLkdDWBj7KeAVzc7byDAqOR9ok.jpg",
+        "cast_id": 1,
+        "character": "Leader of Japanese invaders",
+        "credit_id": "5bcbbeeac3a368238c008399",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4541181,
+        "known_for_department": "Acting",
+        "name": "Best Kwon Yeong-Moon",
+        "original_name": "Best Kwon Yeong-Moon",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "65d0680a1d31430184b9b9bb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166104,
+        "known_for_department": "Acting",
+        "name": "Tino Wong",
+        "original_name": "Tino Wong",
+        "popularity": 0.545,
+        "profile_path": "/d6z2HPsLNi5LwR1U5bsl5sKR00w.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "6611c3cf8c0a48017e048504",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136492,
+        "known_for_department": "Acting",
+        "name": "Chan Lau",
+        "original_name": "Chan Lau",
+        "popularity": 0.398,
+        "profile_path": "/jIHIu2ngG0RJ3h8nMscBbrjqZRX.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "65d06827c8f3c4017cee9349",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134684,
+        "known_for_department": "Acting",
+        "name": "Chiang Kam",
+        "original_name": "蔣金",
+        "popularity": 0.8241,
+        "profile_path": "/cPtAtgjpIFnvVKhhuMEp4NvJwIT.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "65d068401d31430184b9ba30",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119452,
+        "known_for_department": "Acting",
+        "name": "Yuen Miu",
+        "original_name": "元武",
+        "popularity": 0.9442,
+        "profile_path": "/lzpCy5dif52Nh3kOrw5CGscVf5O.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "65d06853fd63000163c9cc29",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166565,
+        "known_for_department": "Acting",
+        "name": "Lee Chun-Wa",
+        "original_name": "李春華",
+        "popularity": 0.7142,
+        "profile_path": "/4GPSXwK4sQZAJBGaX5rMCbI9hn5.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "65d0685df2cf25017ae160ed",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1396577,
+        "known_for_department": "Acting",
+        "name": "Wang Sha",
+        "original_name": "Wang Sha",
+        "popularity": 0.2871,
+        "profile_path": "/8Z6Ivn0phcr8vequ8VgBApqTuyG.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "65d068652dda890162dc66fe",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4541179,
+        "known_for_department": "Directing",
+        "name": "Law Ka-Po",
+        "original_name": "Law Ka-Po",
+        "popularity": 0.0873,
+        "profile_path": null,
+        "credit_id": "65d067cb20ecaf01492ea620",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

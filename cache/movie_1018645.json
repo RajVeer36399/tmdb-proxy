@@ -1,0 +1,305 @@
+{
+  "adult": false,
+  "backdrop_path": "/uJKLjMCLSNfQCiw6WFmnSJcPg29.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81410405",
+  "id": 1018645,
+  "imdb_id": "tt21439528",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Volcano: Rescue from Whakaari",
+  "overview": "A close examination of the Whakaari / White Island volcanic eruption of 2019 in which 22 lives were lost, the film viscerally recounts a day when ordinary people were called upon to do extraordinary things, placing this tragic event within the larger context of nature, resilience, and the power of our shared humanity.",
+  "popularity": 6.1921,
+  "poster_path": "/7LQUp64Ub9JfnLVuzyhEHdc7DBg.jpg",
+  "production_companies": [
+    {
+      "id": 121427,
+      "logo_path": "/rOvuUb2UaKDahx7OqQ1hD4B8Ljk.png",
+      "name": "Imagine Documentaries",
+      "origin_country": "US"
+    },
+    {
+      "id": 562,
+      "logo_path": "/azANEzu3H3Kztzt63sdjvlzxhuB.png",
+      "name": "Appian Way",
+      "origin_country": "US"
+    },
+    {
+      "id": 170137,
+      "logo_path": "/rRLKtEZOEDNSTjdjTNDuoeKaQNv.png",
+      "name": "Moxie Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 23,
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-03",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Volcano: Rescue from Whakaari",
+  "video": false,
+  "vote_average": 7.265,
+  "vote_count": 164,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1037308,
+        "known_for_department": "Directing",
+        "name": "Rory Kennedy",
+        "original_name": "Rory Kennedy",
+        "popularity": 0.4179,
+        "profile_path": "/e7Sy1VCnQq5dFEozkTbSXO8U3uU.jpg",
+        "credit_id": "630e15c923bcf400926b19ca",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153667,
+        "known_for_department": "Writing",
+        "name": "Mark Bailey",
+        "original_name": "Mark Bailey",
+        "popularity": 0.1192,
+        "profile_path": null,
+        "credit_id": "630e8d0f0231f2007dbd8b0e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153667,
+        "known_for_department": "Writing",
+        "name": "Mark Bailey",
+        "original_name": "Mark Bailey",
+        "popularity": 0.1192,
+        "profile_path": null,
+        "credit_id": "63898b6b1b722c007c157c18",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2671907,
+        "known_for_department": "Production",
+        "name": "Dallas Brennan",
+        "original_name": "Dallas Brennan",
+        "popularity": 0.1056,
+        "profile_path": null,
+        "credit_id": "63898b7570b44400963a0bf7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1005766,
+        "known_for_department": "Writing",
+        "name": "Jawad Metni",
+        "original_name": "Jawad Metni",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63898ba01b722c00c16b60c7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1178962,
+        "known_for_department": "Sound",
+        "name": "Steve Mazzaro",
+        "original_name": "Steve Mazzaro",
+        "popularity": 1.637,
+        "profile_path": "/xCgeVr7bG2fZTmUiSoHOVZ9CEOv.jpg",
+        "credit_id": "63898baaf3b49a00842df917",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 947,
+        "known_for_department": "Sound",
+        "name": "Hans Zimmer",
+        "original_name": "Hans Zimmer",
+        "popularity": 1.6947,
+        "profile_path": "/tpQnDeHY15szIXvpnhlprufz4d.jpg",
+        "credit_id": "63898bbc1b722c00c16b60d8",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1037308,
+        "known_for_department": "Directing",
+        "name": "Rory Kennedy",
+        "original_name": "Rory Kennedy",
+        "popularity": 0.4179,
+        "profile_path": "/e7Sy1VCnQq5dFEozkTbSXO8U3uU.jpg",
+        "credit_id": "63898bc8f706de007f4e2274",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2671907,
+        "known_for_department": "Production",
+        "name": "Dallas Brennan",
+        "original_name": "Dallas Brennan",
+        "popularity": 0.1056,
+        "profile_path": null,
+        "credit_id": "63898bd0f3b49a00c1bb632f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81150,
+        "known_for_department": "Production",
+        "name": "Sara Bernstein",
+        "original_name": "Sara Bernstein",
+        "popularity": 0.2126,
+        "profile_path": "/lHxgVjuHFdionBpk8BdQMf3Q95z.jpg",
+        "credit_id": "63898bda69eb9000862f6de5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111406,
+        "known_for_department": "Production",
+        "name": "Justin Wilkes",
+        "original_name": "Justin Wilkes",
+        "popularity": 0.1111,
+        "profile_path": "/aeMYv3qHqk1XUXuLAprSEbIm6dm.jpg",
+        "credit_id": "63898bedf706de007f4e2287",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 339,
+        "known_for_department": "Production",
+        "name": "Brian Grazer",
+        "original_name": "Brian Grazer",
+        "popularity": 0.494,
+        "profile_path": "/rNFUflKlpTEbnWDHd2Of293E4lx.jpg",
+        "credit_id": "63898bf5f706de009d5bcaf9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6159,
+        "known_for_department": "Directing",
+        "name": "Ron Howard",
+        "original_name": "Ron Howard",
+        "popularity": 3.2867,
+        "profile_path": "/g3n8qduLaPO2l4kJZsV6xNMXozn.jpg",
+        "credit_id": "63898bfe3f8ede0086e9953b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1128184,
+        "known_for_department": "Production",
+        "name": "Jennifer Davisson",
+        "original_name": "Jennifer Davisson",
+        "popularity": 0.6707,
+        "profile_path": "/hydoM1RxHl1xgcWE4WbBbeOA9dH.jpg",
+        "credit_id": "63898c0969eb9000b8284261",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6193,
+        "known_for_department": "Acting",
+        "name": "Leonardo DiCaprio",
+        "original_name": "Leonardo DiCaprio",
+        "popularity": 9.213,
+        "profile_path": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
+        "credit_id": "63898c113f8ede009c0ac445",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2172194,
+        "known_for_department": "Production",
+        "name": "Phillip Watson",
+        "original_name": "Phillip Watson",
+        "popularity": 1.1101,
+        "profile_path": null,
+        "credit_id": "63898c1af3b49a007fe20f2d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3811324,
+        "known_for_department": "Production",
+        "name": "Alex Perry",
+        "original_name": "Alex Perry",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "63898c4369eb9000b828427d",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      }
+    ]
+  }
+}

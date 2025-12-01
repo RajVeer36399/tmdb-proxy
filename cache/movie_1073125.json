@@ -1,0 +1,367 @@
+{
+  "adult": false,
+  "backdrop_path": "/o9uMF84ZAGBqRxbliFCTgw0vQYv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1073125,
+  "imdb_id": "tt21308736",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Rüyanda Görürsün",
+  "overview": "You know the feeling. It feels like time slows down as your eyes meet a stranger’s. Then you walk pass each other, neither of you looking back. That’s what happened with Pelin and Engin. Lo and behold, they open their eyes in the same bed. And you may want to brace yourself for this one, as a two-year married couple! It must be a dream. No, a nightmare. But now, to wake up they must fall in love.",
+  "popularity": 7.3,
+  "poster_path": "/rZe2lT3G9C7JrwB7Avu22mVhqFw.jpg",
+  "production_companies": [
+    {
+      "id": 137006,
+      "logo_path": "/3kWHIeqSfjoIVErLYTzJMlHimwn.png",
+      "name": "Lanistar Media",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2023-02-03",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "In Your Dreams",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 96,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1442343,
+        "known_for_department": "Acting",
+        "name": "Murat Boz",
+        "original_name": "Murat Boz",
+        "popularity": 0.354,
+        "profile_path": "/5iYoKEHVpOdu9y0YkVvGVfS0T8.jpg",
+        "cast_id": 1,
+        "character": "Engin",
+        "credit_id": "63c04f3223be46009808b35d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1522700,
+        "known_for_department": "Acting",
+        "name": "Burcu Özberk",
+        "original_name": "Burcu Özberk",
+        "popularity": 2.2356,
+        "profile_path": "/wDhKUUR7pRzgVolACed0YnSozbL.jpg",
+        "cast_id": 2,
+        "character": "Pelin",
+        "credit_id": "63c04f3a05a533007c7e4153",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1651018,
+        "known_for_department": "Acting",
+        "name": "Ekin Mert Daymaz",
+        "original_name": "Ekin Mert Daymaz",
+        "popularity": 1.515,
+        "profile_path": "/A3TWFxfkgnfeHZ6Y7JV1OBxp5Nw.jpg",
+        "cast_id": 3,
+        "character": "Emre",
+        "credit_id": "63c04f42e16e5a00d402fe57",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1452408,
+        "known_for_department": "Acting",
+        "name": "Devrim Yakut",
+        "original_name": "Devrim Yakut",
+        "popularity": 0.8224,
+        "profile_path": "/i7WGKyvlDluHkXx4Tkqn3WsILZi.jpg",
+        "cast_id": 4,
+        "character": "Pelin's Mother",
+        "credit_id": "63c04f4adf857c009f43930f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1255747,
+        "known_for_department": "Acting",
+        "name": "Şerif Erol",
+        "original_name": "Şerif Erol",
+        "popularity": 0.4698,
+        "profile_path": "/87O1WMjMjJRSIMzCVeKAWOEB8v5.jpg",
+        "cast_id": 5,
+        "character": "Engin's Father",
+        "credit_id": "63c04f53ed96bc00828083fe",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1246725,
+        "known_for_department": "Acting",
+        "name": "Feridun Düzağaç",
+        "original_name": "Feridun Düzağaç",
+        "popularity": 0.0955,
+        "profile_path": "/zaGC10W3rrm5SR5HkgH5AEBg10y.jpg",
+        "cast_id": 6,
+        "character": "Psikolog",
+        "credit_id": "63c04f5b8efe7300c83f2e56",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2470909,
+        "known_for_department": "Acting",
+        "name": "Kubilay Karslıoğlu",
+        "original_name": "Kubilay Karslıoğlu",
+        "popularity": 0.1408,
+        "profile_path": "/bkSMNhkIYvtSTyfmHZAjJ9U6a16.jpg",
+        "cast_id": 11,
+        "character": "Pelin's Father",
+        "credit_id": "6484f4fdd2b209010c19331d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1997023,
+        "known_for_department": "Acting",
+        "name": "Hivda Zizan Alp",
+        "original_name": "Hivda Zizan Alp",
+        "popularity": 0.6068,
+        "profile_path": "/rbuO2JNHfu1pjsBStUIbXZdEUbh.jpg",
+        "cast_id": 12,
+        "character": "Merve",
+        "credit_id": "648d7123559d2200ff108224",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1256304,
+        "known_for_department": "Acting",
+        "name": "Selen Soyder",
+        "original_name": "Selen Soyder",
+        "popularity": 0.6152,
+        "profile_path": "/mY5HwgMrvsrne6ut3IDoQdklYRi.jpg",
+        "cast_id": 13,
+        "character": "Eda",
+        "credit_id": "6495f469976a2300c7a6681b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1425009,
+        "known_for_department": "Acting",
+        "name": "Uğur Uzunel",
+        "original_name": "Uğur Uzunel",
+        "popularity": 0.2954,
+        "profile_path": "/ajOgrYh7KmNraGnVXCnHTlgjhOx.jpg",
+        "cast_id": 14,
+        "character": "Cihan",
+        "credit_id": "6495f4bd976a2300c7a6683a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1490575,
+        "known_for_department": "Acting",
+        "name": "Ezgi Tombul",
+        "original_name": "Ezgi Tombul",
+        "popularity": 0.2086,
+        "profile_path": "/bxbdeMDPw26A9S3ULRRhYP6ZLgZ.jpg",
+        "cast_id": 15,
+        "character": "Pelin's Boss",
+        "credit_id": "6495f55615794a0126e987af",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3824341,
+        "known_for_department": "Acting",
+        "name": "Nilüfer Gürkonak",
+        "original_name": "Nilüfer Gürkonak",
+        "popularity": 0.0918,
+        "profile_path": "/tsuqKjNKR6Y2zNJUnEQETc6EMAk.jpg",
+        "cast_id": 16,
+        "character": "House Owner",
+        "credit_id": "65e43c23a672540185aafa92",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1794534,
+        "known_for_department": "Acting",
+        "name": "Kirkor Dinçkayıkçı",
+        "original_name": "Kirkor Dinçkayıkçı",
+        "popularity": 0.0626,
+        "profile_path": "/6hVvm3rX1tXSl41mv8KYY3St27q.jpg",
+        "cast_id": 17,
+        "character": "Doorman",
+        "credit_id": "65e43c7c278d8a0185c08242",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4570112,
+        "known_for_department": "Acting",
+        "name": "Yaren Vera Salma",
+        "original_name": "Yaren Vera Salma",
+        "popularity": 0.0521,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Zeynep",
+        "credit_id": "65e43d069ee0ef01626f6f1a",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3869533,
+        "known_for_department": "Writing",
+        "name": "Umut Açıkalın",
+        "original_name": "Umut Açıkalın",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63c04fc7a5743d00890fd449",
+        "department": "Writing",
+        "job": "Scenario Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2104072,
+        "known_for_department": "Editing",
+        "name": "Serhat Solmaz",
+        "original_name": "Serhat Solmaz",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "credit_id": "63c050d1ed96bc0082808459",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151700,
+        "known_for_department": "Art",
+        "name": "Cemal Alpan",
+        "original_name": "Cemal Alpan",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "63c04f908efe7300c83f2e62",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3869542,
+        "known_for_department": "Writing",
+        "name": "Ferhat Ergün",
+        "original_name": "Ferhat Ergün",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "63c050c223be46007cba14a0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4376585,
+        "known_for_department": "Directing",
+        "name": "Reyhan Yildirim",
+        "original_name": "Reyhan Yıldırım",
+        "popularity": 0.0994,
+        "profile_path": null,
+        "credit_id": "6756efd59e12fa25e8fbe1c4",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4974995,
+        "known_for_department": "Sound",
+        "name": "Aytaç Bayladı",
+        "original_name": "Aytaç Bayladı",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67d19463434c98c8ec8171be",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5299751,
+        "known_for_department": "Sound",
+        "name": "Özgür Buldum",
+        "original_name": "Özgür Buldum",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67d1946fd4f7413732609ef4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2274332,
+        "known_for_department": "Camera",
+        "name": "Muratcan Gökçe",
+        "original_name": "Muratcan Gökçe",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "67d1947e7761a3a68f60d37e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

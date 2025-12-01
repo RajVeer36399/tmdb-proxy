@@ -1,0 +1,217 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 489607,
+  "imdb_id": "tt1628045",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Red Shirley",
+  "overview": "Lou Reed interviews his cousin, Shirley Novick (Shulamit Rabinowitz), on the eve of her 100th birthday. Shirley recalls growing up in a small village in Poland during World War I; fleeing to the United States by way of Canada during World War II and losing her parents to the Nazis; toiling for 47 years in New York City's garment district, where she became a labor activist; reuniting with her sisters, who had emigrated to Palestine; and taking part in the March on Washington for Jobs and Freedom in 1963.",
+  "popularity": 17.7829,
+  "poster_path": "/f5rcu97GbYTA6lWsLzXNwcLJu6S.jpg",
+  "production_companies": [
+    {
+      "id": 97888,
+      "logo_path": null,
+      "name": "Snag Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-04-20",
+  "revenue": 0,
+  "runtime": 28,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Red Shirley",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1931227,
+        "known_for_department": "Acting",
+        "name": "Shirley Novick",
+        "original_name": "Shirley Novick",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 0,
+        "character": "",
+        "credit_id": "5a1d2d42c3a3680b8d062cec",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46392,
+        "known_for_department": "Acting",
+        "name": "Lou Reed",
+        "original_name": "Lou Reed",
+        "popularity": 5.8376,
+        "profile_path": "/lWFiXdQtYHqr2EXnk5nhDFm36XF.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "5a1d2d4b0e0a264cbe061417",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46392,
+        "known_for_department": "Acting",
+        "name": "Lou Reed",
+        "original_name": "Lou Reed",
+        "popularity": 5.8376,
+        "profile_path": "/lWFiXdQtYHqr2EXnk5nhDFm36XF.jpg",
+        "credit_id": "5a1d2d60c3a3680b8d062d05",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1931228,
+        "known_for_department": "Directing",
+        "name": "Ralph Gibson",
+        "original_name": "Ralph Gibson",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5a1d2d71c3a3680b88063fc4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1931228,
+        "known_for_department": "Directing",
+        "name": "Ralph Gibson",
+        "original_name": "Ralph Gibson",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5a1d2db1925141032406187b",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46392,
+        "known_for_department": "Acting",
+        "name": "Lou Reed",
+        "original_name": "Lou Reed",
+        "popularity": 5.8376,
+        "profile_path": "/lWFiXdQtYHqr2EXnk5nhDFm36XF.jpg",
+        "credit_id": "5a1d2dfac3a3680b930635f9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1931229,
+        "known_for_department": "Production",
+        "name": "Tom Sarig",
+        "original_name": "Tom Sarig",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a1d2e060e0a264cc4060595",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1931230,
+        "known_for_department": "Editing",
+        "name": "Benjamin Flaherty",
+        "original_name": "Benjamin Flaherty",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5a1d2e24c3a3680b93063629",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1931231,
+        "known_for_department": "Sound",
+        "name": "Eric Kramer",
+        "original_name": "Eric Kramer",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5a1d2e460e0a264cc40605c8",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1931233,
+        "known_for_department": "Production",
+        "name": "Cat Celebrezze",
+        "original_name": "Cat Celebrezze",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a1d2e819251410339062a5f",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1931234,
+        "known_for_department": "Production",
+        "name": "Jill Allison Opell",
+        "original_name": "Jill Allison Opell",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a1d2e9a9251410339062a72",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1425021,
+        "known_for_department": "Production",
+        "name": "Lara Day",
+        "original_name": "Lara Day",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a1d2eb4c3a3680b9a067ba8",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      }
+    ]
+  }
+}

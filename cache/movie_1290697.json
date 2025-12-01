@@ -1,0 +1,382 @@
+{
+  "adult": false,
+  "backdrop_path": "/5CB1O52TIYCqYuftPQNraWLmMEh.jpg",
+  "belongs_to_collection": {
+    "id": 1406745,
+    "name": "Kongekabale / Mørkeland (samling)",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1290697,
+  "imdb_id": "tt27587529",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Mørkeland",
+  "overview": "Ulrik Torp, once a fearless investigative journalist who is now tackling unemployment and a midlife crisis. He finds himself in the middle of a new political conspiracy.",
+  "popularity": 6.9028,
+  "poster_path": "/1KCiUkHlRUAzWnYtlHvtWLyeSq0.jpg",
+  "production_companies": [
+    {
+      "id": 45461,
+      "logo_path": "/gKKOrXKD2FEemp9CkvjNy0dLWX6.png",
+      "name": "Meta Film",
+      "origin_country": "DK"
+    },
+    {
+      "id": 108004,
+      "logo_path": "/kvJMq7yPzXlbC6a6p3TELDfcTRD.png",
+      "name": "Meta Film Stockholm",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2024-08-06",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kingmaker",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1184,
+        "known_for_department": "Acting",
+        "name": "Anders W. Berthelsen",
+        "original_name": "Anders W. Berthelsen",
+        "popularity": 0.4317,
+        "profile_path": "/yEaRQLSOTcGsVHCkKEusb6PfUCE.jpg",
+        "cast_id": 3,
+        "character": "Ulrik Torp",
+        "credit_id": "664479e9c7ceaa95da3d2e3e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 82352,
+        "known_for_department": "Acting",
+        "name": "Lene Maria Christensen",
+        "original_name": "Lene Maria Christensen",
+        "popularity": 1.1959,
+        "profile_path": "/rTHz4YxAbgiasgsWhRC4DP6LQ3A.jpg",
+        "cast_id": 1,
+        "character": "Anne-Grethe Hulsig",
+        "credit_id": "664479c323358b1a943abdc3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15086,
+        "known_for_department": "Acting",
+        "name": "Nicolas Bro",
+        "original_name": "Nicolas Bro",
+        "popularity": 1.1713,
+        "profile_path": "/sWmsxndhY7vsHBQWdO3UITrQ0Mr.jpg",
+        "cast_id": 2,
+        "character": "Henrik Moll",
+        "credit_id": "664479d70475358ff95bcb5d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3096731,
+        "known_for_department": "Acting",
+        "name": "Patrick A. Hansen",
+        "original_name": "Patrick A. Hansen",
+        "popularity": 0.0526,
+        "profile_path": "/r1BwJnZ2E4TrDmR2CEVEJjnHhUH.jpg",
+        "cast_id": 20,
+        "character": "Simon",
+        "credit_id": "66bca694266bafef148c8159",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2986668,
+        "known_for_department": "Acting",
+        "name": "Mathilde Arcel Fock",
+        "original_name": "Mathilde Arcel Fock",
+        "popularity": 0.4202,
+        "profile_path": "/ev7ShFvkPttMVlCfQU6dvNEEzmk.jpg",
+        "cast_id": 8,
+        "character": "Emma",
+        "credit_id": "66447a46609d6aec31c53b0e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77525,
+        "known_for_department": "Acting",
+        "name": "Charlotte Munck",
+        "original_name": "Charlotte Munck",
+        "popularity": 0.6127,
+        "profile_path": "/z2MkloSO514bLRfzxclgxZpyqFh.jpg",
+        "cast_id": 5,
+        "character": "Mette Torp",
+        "credit_id": "66447a1054cf1cbc7fee9e5d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88544,
+        "known_for_department": "Acting",
+        "name": "Tommy Kenter",
+        "original_name": "Tommy Kenter",
+        "popularity": 0.21,
+        "profile_path": "/8qwneHejPuDxYcGzHWOjtyGKqYQ.jpg",
+        "cast_id": 17,
+        "character": "Otto Brathenberg",
+        "credit_id": "66bca6616c209960b6e11249",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1034338,
+        "known_for_department": "Acting",
+        "name": "Ina-Miriam Rosenbaum",
+        "original_name": "Ina-Miriam Rosenbaum",
+        "popularity": 0.2189,
+        "profile_path": "/ef257VTWuYrFSN7z94Pl8kfkox1.jpg",
+        "cast_id": 4,
+        "character": "Bente",
+        "credit_id": "664479f8f2d19144f2cf9143",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2189732,
+        "known_for_department": "Acting",
+        "name": "Brian Hjulmann",
+        "original_name": "Brian Hjulmann",
+        "popularity": 0.6262,
+        "profile_path": "/rHxYA6LtvTIAoLIlWMas9pBsVEQ.jpg",
+        "cast_id": 19,
+        "character": "Asbjørn",
+        "credit_id": "66bca6837a5b02800fe11713",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6145,
+        "known_for_department": "Acting",
+        "name": "Marina Bouras",
+        "original_name": "Marina Bouras",
+        "popularity": 0.2097,
+        "profile_path": "/rt1AiHFalbqdzJl5AmawndZYzn3.jpg",
+        "cast_id": 6,
+        "character": "Kriminalbetjent",
+        "credit_id": "66447a2739a681446b77f3f3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2986674,
+        "known_for_department": "Acting",
+        "name": "Ellaha Lack",
+        "original_name": "Ellaha Lack",
+        "popularity": 0.1197,
+        "profile_path": "/iEq17unlw4vYFohItZR9Mfu1cG3.jpg",
+        "cast_id": 7,
+        "character": "Sara Yassin",
+        "credit_id": "66447a35609d6aec31c53b0b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2895212,
+        "known_for_department": "Acting",
+        "name": "Mathilde Eusebius",
+        "original_name": "Mathilde Eusebius",
+        "popularity": 0.1238,
+        "profile_path": "/AcEncAVNlatlUg53K76GM3vrB2N.jpg",
+        "cast_id": 9,
+        "character": "Julie Torp",
+        "credit_id": "66447a60855bea90f21c7d8f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2134894,
+        "known_for_department": "Acting",
+        "name": "Amira Jensen",
+        "original_name": "Amira Jensen",
+        "popularity": 0.099,
+        "profile_path": "/3uh26VswDiCqF1GymHKntZ2vAPE.jpg",
+        "cast_id": 14,
+        "character": "Social og sundhedshjælper",
+        "credit_id": "66bca60d76dc68580da45dad",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2595279,
+        "known_for_department": "Acting",
+        "name": "Mohamed Djeziri",
+        "original_name": "Mohamed Djeziri",
+        "popularity": 0.1935,
+        "profile_path": "/khni9qEWRo3O8UhBqfoRw8eoAF9.jpg",
+        "cast_id": 15,
+        "character": "Abdel Yassi",
+        "credit_id": "66bca63d27a56f3f3488f47d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1491453,
+        "known_for_department": "Acting",
+        "name": "Sofia Nolsøe Mikkelsen",
+        "original_name": "Sofia Nolsøe Mikkelsen",
+        "popularity": 0.1041,
+        "profile_path": "/IMldTVq89JOUO0J0vNPmnBUjUK.jpg",
+        "cast_id": 16,
+        "character": "Katrine Tabor-Nielsen",
+        "credit_id": "66bca652d8c7f08612d0549d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2847036,
+        "known_for_department": "Acting",
+        "name": "Sara Fanta Traore",
+        "original_name": "Sara Fanta Traore",
+        "popularity": 0.4933,
+        "profile_path": "/oiF49QXbeigudK7agvFAlAAgP5B.jpg",
+        "cast_id": 18,
+        "character": "Jobkonsulent",
+        "credit_id": "66bca674f2a73e0b6bb55bee",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122833,
+        "known_for_department": "Acting",
+        "name": "Jan Tjerrild",
+        "original_name": "Jan Tjerrild",
+        "popularity": 0.0513,
+        "profile_path": "/qyOnhRC3lNaBmpBc6UYsOfsaiuf.jpg",
+        "cast_id": 21,
+        "character": "Ministersekretær",
+        "credit_id": "66bca6a46c209960b6e11250",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1158298,
+        "known_for_department": "Acting",
+        "name": "Lane Lind",
+        "original_name": "Lane Lind",
+        "popularity": 0.3923,
+        "profile_path": "/54nYLEB6g1g6QE41uvo2tXuZjLd.jpg",
+        "cast_id": 22,
+        "character": "Marta Spang-Johansen",
+        "credit_id": "66bca6b23923cef83ad052ba",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1365201,
+        "known_for_department": "Production",
+        "name": "Morten Kjems Juhl",
+        "original_name": "Morten Kjems Juhl",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "66447a9e609d6aec31c53b19",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212907,
+        "known_for_department": "Directing",
+        "name": "Mikkel Serup",
+        "original_name": "Mikkel Serup",
+        "popularity": 0.1144,
+        "profile_path": "/teRnEFDAcjUkinKWvDjI2pBYBro.jpg",
+        "credit_id": "66447a720c18fad384241c31",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1874685,
+        "known_for_department": "Production",
+        "name": "Sara Namer",
+        "original_name": "Sara Namer",
+        "popularity": 0.0776,
+        "profile_path": "/n2eVGIPPru6MWXMYwSnG5mb0BzP.jpg",
+        "credit_id": "66447a9154cf1cbc7fee9e61",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1114057,
+        "known_for_department": "Writing",
+        "name": "Marie Østerbye",
+        "original_name": "Marie Østerbye",
+        "popularity": 0.088,
+        "profile_path": "/cefmfKQYX4B3T219WdSrzrbY4rJ.jpg",
+        "credit_id": "66447a80232243b484584209",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 224566,
+  "imdb_id": "tt0252385",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "दो गज़ ज़मीन के नीचे",
+  "overview": "A gold-digger murders her wealthy husband, but he returns as a disfigured spectre, intent on revenge.",
+  "popularity": 6.6345,
+  "poster_path": "/ft4zjDtFTtEhM0gwmj7GiykSjIA.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1972-12-30",
+  "revenue": 0,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Do Gaz Zameen Ke Neeche",
+  "video": false,
+  "vote_average": 3.5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526602,
+        "known_for_department": "Acting",
+        "name": "Surendra Kumar",
+        "original_name": "Surendra Kumar",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 0,
+        "character": "Rajvansh",
+        "credit_id": "562bcef6c3a3681b6100582e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526603,
+        "known_for_department": "Acting",
+        "name": "Pooja",
+        "original_name": "Pooja",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Meena",
+        "credit_id": "562bcf02c3a3681b4b005095",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027311,
+        "known_for_department": "Acting",
+        "name": "Imtiaz Khan",
+        "original_name": "Imtiaz Khan",
+        "popularity": 0.5931,
+        "profile_path": "/66RkasJeRid6UlTad7XVcIYBWrh.jpg",
+        "cast_id": 10,
+        "character": "Anand (as Imtiaz)",
+        "credit_id": "59e90bbbc3a3681a01006b8e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526605,
+        "known_for_department": "Acting",
+        "name": "Shobhna",
+        "original_name": "Shobhna",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Anjili",
+        "credit_id": "562bcf1b9251410a22000dad",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526606,
+        "known_for_department": "Acting",
+        "name": "Habib",
+        "original_name": "Habib",
+        "popularity": 0.0521,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Joseph",
+        "credit_id": "562bcf24c3a3681b5e005384",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110102,
+        "known_for_department": "Acting",
+        "name": "Helen",
+        "original_name": "Helen",
+        "popularity": 0.5877,
+        "profile_path": "/tNQWTzBtvDn7fpYrqCW2lekuYhH.jpg",
+        "cast_id": 9,
+        "character": "Bar Dancer (uncredited)",
+        "credit_id": "59e90ae392514156d3006ab4",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526607,
+        "known_for_department": "Crew",
+        "name": "F.U. Ramsay",
+        "original_name": "F.U. Ramsay",
+        "popularity": 0.0754,
+        "profile_path": null,
+        "credit_id": "562bcf43c3a3681b4d0062fd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1019956,
+        "known_for_department": "Directing",
+        "name": "Tulsi Ramsay",
+        "original_name": "Tulsi Ramsay",
+        "popularity": 0.0957,
+        "profile_path": "/gPE2qk75532UWQR4sHZbfhxbtbH.jpg",
+        "credit_id": "562bcf37c3a3681b5e005389",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526608,
+        "known_for_department": "Camera",
+        "name": "Gangu Ramsay",
+        "original_name": "Gangu Ramsay",
+        "popularity": 0.125,
+        "profile_path": null,
+        "credit_id": "660ad78435818f01623910cd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1055362,
+        "known_for_department": "Directing",
+        "name": "Keshu Ramsay",
+        "original_name": "Keshu Ramsay",
+        "popularity": 0.1408,
+        "profile_path": null,
+        "credit_id": "660ad78e9c97bd017ca3d050",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "adult": false,
+  "backdrop_path": "/14sGKb6Sey0SmFpjLUgt64Lv7VZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.audrieanddaisy.com/",
+  "id": 376228,
+  "imdb_id": "tt5278460",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Audrie & Daisy",
+  "overview": "A documentary film about three cases of rape, that includes the stories of two American high school students, Audrie Pott and Daisy Coleman. At the time of the sexual assaults, Pott was 15 and Coleman was 14 years old. After the assaults, the victims and their families were subjected to abuse and cyberbullying.",
+  "popularity": 13.4889,
+  "poster_path": "/4AsrmTmKMVs8PmBnu6jNpMekoBj.jpg",
+  "production_companies": [
+    {
+      "id": 18073,
+      "logo_path": "/msY1GzVwakR0e8jhwMbStV6LsKt.png",
+      "name": "Actual Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 14909,
+      "logo_path": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+      "name": "Impact Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-09-23",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Shame is trending",
+  "title": "Audrie & Daisy",
+  "video": false,
+  "vote_average": 7.142,
+  "vote_count": 194,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1682311,
+        "known_for_department": "Acting",
+        "name": "Daisy Coleman",
+        "original_name": "Daisy Coleman",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "57e07317c3a368540200058f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1682312,
+        "known_for_department": "Acting",
+        "name": "Jim Fall",
+        "original_name": "Jim Fall",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self - Mayor, City of Maryville",
+        "credit_id": "57e0732dc3a36853e30005f0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1682313,
+        "known_for_department": "Acting",
+        "name": "Delaney Henderson",
+        "original_name": "Delaney Henderson",
+        "popularity": 0.0957,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "57e0733b9251410453000564",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1682314,
+        "known_for_department": "Acting",
+        "name": "Darren White",
+        "original_name": "Darren White",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "57e0734ec3a36853e900058b",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933761,
+        "known_for_department": "Directing",
+        "name": "Jon Shenk",
+        "original_name": "Jon Shenk",
+        "popularity": 0.1501,
+        "profile_path": "/aGdsR325pYw4Bor1JjHxVcKPWa9.jpg",
+        "credit_id": "5693a52392514165570021a4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1260119,
+        "known_for_department": "Directing",
+        "name": "Bonni Cohen",
+        "original_name": "Bonni Cohen",
+        "popularity": 0.2299,
+        "profile_path": "/wjujeUIHiNxN5cWJANVlmJEOJ3d.jpg",
+        "credit_id": "5693a53c9251417095002134",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1028796,
+        "known_for_department": "Production",
+        "name": "Richard Berge",
+        "original_name": "Richard Berge",
+        "popularity": 0.0922,
+        "profile_path": null,
+        "credit_id": "5693a563c3a3684cf8004acb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1260119,
+        "known_for_department": "Directing",
+        "name": "Bonni Cohen",
+        "original_name": "Bonni Cohen",
+        "popularity": 0.2299,
+        "profile_path": "/wjujeUIHiNxN5cWJANVlmJEOJ3d.jpg",
+        "credit_id": "5693a56ac3a36813d00024b8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349268,
+        "known_for_department": "Directing",
+        "name": "Sara Dosa",
+        "original_name": "Sara Dosa",
+        "popularity": 0.0798,
+        "profile_path": "/tF5eNhayoaQP852ZdvYxRFQjmBL.jpg",
+        "credit_id": "5693a57392514115ce004fac",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1168883,
+        "known_for_department": "Editing",
+        "name": "Don Bernier",
+        "original_name": "Don Bernier",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "5693a58c92514165570021b8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933761,
+        "known_for_department": "Directing",
+        "name": "Jon Shenk",
+        "original_name": "Jon Shenk",
+        "popularity": 0.1501,
+        "profile_path": "/aGdsR325pYw4Bor1JjHxVcKPWa9.jpg",
+        "credit_id": "5b5940830e0a2611f90058fc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1732823,
+        "known_for_department": "Sound",
+        "name": "Judy Karp",
+        "original_name": "Judy Karp",
+        "popularity": 0.7878,
+        "profile_path": null,
+        "credit_id": "5b5940d09251414d28004e9e",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2092478,
+        "known_for_department": "Sound",
+        "name": "Patrick Kollman",
+        "original_name": "Patrick Kollman",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "5b5940d99251414d2e004f72",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1915710,
+        "known_for_department": "Sound",
+        "name": "Douglas Dunderdale",
+        "original_name": "Douglas Dunderdale",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5b5941180e0a2611f30056b5",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2092478,
+        "known_for_department": "Sound",
+        "name": "Patrick Kollman",
+        "original_name": "Patrick Kollman",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "5cfcf60c9251416f8ebcb6d6",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117841,
+        "known_for_department": "Directing",
+        "name": "Kirsten Johnson",
+        "original_name": "Kirsten Johnson",
+        "popularity": 0.5093,
+        "profile_path": "/9h1DYSYLnPujVBtM4mklFDnZByj.jpg",
+        "credit_id": "5f77bf4a58efd30037b93728",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1161763,
+        "known_for_department": "Production",
+        "name": "Jenny Raskin",
+        "original_name": "Jenny Raskin",
+        "popularity": 0.6369,
+        "profile_path": "/o3EMS1cNq7dHpQSpp9o5fj2tggA.jpg",
+        "credit_id": "5f9eea1c63501300325abccc",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1851191,
+        "known_for_department": "Production",
+        "name": "Barbara Dobkin",
+        "original_name": "Barbara Dobkin",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "5f9eea2d271671003772bc6f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2839470,
+        "known_for_department": "Production",
+        "name": "Eric Dobkin",
+        "original_name": "Eric Dobkin",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "5f9eea36a2423200356685a4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147955,
+        "known_for_department": "Production",
+        "name": "Regina K. Scully",
+        "original_name": "Regina K. Scully",
+        "popularity": 0.2763,
+        "profile_path": "/dZPx8pJ9mi6UYLPZHZUgcyhy5Jf.jpg",
+        "credit_id": "5f9eea4aa2423200356685d4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1373056,
+        "known_for_department": "Production",
+        "name": "Lisa Nishimura",
+        "original_name": "Lisa Nishimura",
+        "popularity": 0.5285,
+        "profile_path": null,
+        "credit_id": "5f9eea51a24232003467295d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1484588,
+        "known_for_department": "Sound",
+        "name": "Tyler Strickland",
+        "original_name": "Tyler Strickland",
+        "popularity": 0.6722,
+        "profile_path": null,
+        "credit_id": "5fe0f28e5b370d00404509ae",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

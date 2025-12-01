@@ -1,0 +1,397 @@
+{
+  "adult": false,
+  "backdrop_path": "/xavGLwGIDyVzPI5szwgjjTWqSj8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 458443,
+  "imdb_id": "tt6604334",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Bob the Builder: Mega Machines - The Movie",
+  "overview": "Bob's team just got BIGGER with the most mega build EVER! Meet new team members Thud, Crunch, and former TV star Ace. They help Scoop, Muck, and Lofty clear the quarry to make room for an exciting new dam and reservoir. However, a rival contractor tries to undermine Bob and it's up to the team to save Spring City. Will they be up to this mega challenge or will it all end up washed away?",
+  "popularity": 6.0975,
+  "poster_path": "/5gi2BzunveBprK7A8U0sJUovhuN.jpg",
+  "production_companies": [
+    {
+      "id": 102897,
+      "logo_path": "/ackYRJXIse2uoLDawNVs1HzEJgm.png",
+      "name": "Rainmaker Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 87780,
+      "logo_path": "/w49KeBngvSfC9Qd7zk8FljT1EFB.png",
+      "name": "Mattel Creations",
+      "origin_country": "US"
+    },
+    {
+      "id": 6220,
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+      "name": "Mattel",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-05-27",
+  "revenue": 409712,
+  "runtime": 59,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bob the Builder: Mega Machines - The Movie",
+  "video": false,
+  "vote_average": 8.3,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229672,
+        "known_for_department": "Acting",
+        "name": "Lee Ingleby",
+        "original_name": "Lee Ingleby",
+        "popularity": 1.1938,
+        "profile_path": "/vgLBNxTIC9DjfIJZVS83bbyzQOU.jpg",
+        "cast_id": 2,
+        "character": "Bob (voice)",
+        "credit_id": "5a552549c3a3685ec70158a7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130977,
+        "known_for_department": "Acting",
+        "name": "Joanne Froggatt",
+        "original_name": "Joanne Froggatt",
+        "popularity": 1.1005,
+        "profile_path": "/eL6B9OTjeRALm5uUfMmy74Wu9Sr.jpg",
+        "cast_id": 3,
+        "character": "Wendy (voice)",
+        "credit_id": "5a5525750e0a2607e0016cb6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1248,
+        "known_for_department": "Acting",
+        "name": "Brian Cox",
+        "original_name": "Brian Cox",
+        "popularity": 2.8215,
+        "profile_path": "/scSjbFCTRngXlkJRoKptM5kQGw7.jpg",
+        "cast_id": 4,
+        "character": "Conrad / Crunch (voice)",
+        "credit_id": "5a5525ab0e0a2607e0016cfd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1308934,
+        "known_for_department": "Acting",
+        "name": "Dustin Demri-Burns",
+        "original_name": "Dustin Demri-Burns",
+        "popularity": 0.9671,
+        "profile_path": "/m0yBhBOqO9HSvsBxj9JzdPfMf3d.jpg",
+        "cast_id": 7,
+        "character": "Tread / Thud (voice)",
+        "credit_id": "5e85952e3344c6001340944f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222068,
+        "known_for_department": "Acting",
+        "name": "Blake Harrison",
+        "original_name": "Blake Harrison",
+        "popularity": 0.7232,
+        "profile_path": "/nySNwcX863hwevtLbJPOdlTLftf.jpg",
+        "cast_id": 8,
+        "character": "Scoop (voice)",
+        "credit_id": "5e85954b5294e700114a7be2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1238575,
+        "known_for_department": "Acting",
+        "name": "Steven Kynman",
+        "original_name": "Steven Kynman",
+        "popularity": 1.1626,
+        "profile_path": "/woTrv2jyagh5P9Hz6Y0Gsgtzsyj.jpg",
+        "cast_id": 9,
+        "character": "Lofty (voice)",
+        "credit_id": "5e85955dda10f00016edfa87",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1261338,
+        "known_for_department": "Acting",
+        "name": "Iain Lauchlan",
+        "original_name": "Iain Lauchlan",
+        "popularity": 0.0749,
+        "profile_path": "/l8cBAOLjvPGHH2LRpAJGMiO9qiH.jpg",
+        "cast_id": 10,
+        "character": "Chef Tattie (voice)",
+        "credit_id": "5e85957b98f1f10012aab40c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2304521,
+        "known_for_department": "Acting",
+        "name": "Nick Mercer",
+        "original_name": "Nick Mercer",
+        "popularity": 0.6557,
+        "profile_path": "/9jNDZ0d4PbpkblyfmqkolPo6stE.jpg",
+        "cast_id": 11,
+        "character": "Mr. Bentley (voice)",
+        "credit_id": "5e859590691cd5001458df3f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11280,
+        "known_for_department": "Acting",
+        "name": "Ben Miles",
+        "original_name": "Ben Miles",
+        "popularity": 1.7193,
+        "profile_path": "/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg",
+        "cast_id": 12,
+        "character": "Ace (voice)",
+        "credit_id": "5e8595a35294e700114a7c70",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1222239,
+        "known_for_department": "Acting",
+        "name": "Lucy Montgomery",
+        "original_name": "Lucy Montgomery",
+        "popularity": 0.653,
+        "profile_path": "/xF6lY41BTfOgatqvroTsHLy2wes.jpg",
+        "cast_id": 13,
+        "character": "Mayor Madison (voice)",
+        "credit_id": "5e8595e498f1f10016aa96ce",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370826,
+        "known_for_department": "Acting",
+        "name": "Terry Mynott",
+        "original_name": "Terry Mynott",
+        "popularity": 0.5417,
+        "profile_path": "/33y58dNeu5pRz5keZvxJIvKhOSx.jpg",
+        "cast_id": 14,
+        "character": "Tiny / Two-Tonne (voice)",
+        "credit_id": "5e8595fe98f1f10012aab4d2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1713571,
+        "known_for_department": "Acting",
+        "name": "Paul Panting",
+        "original_name": "Paul Panting",
+        "popularity": 0.1374,
+        "profile_path": "/1DRiIGtf2SMk4Dq0nIoxGNE1qsn.jpg",
+        "cast_id": 15,
+        "character": "Muck (voice)",
+        "credit_id": "5e859610e38bd80013ad277b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2256312,
+        "known_for_department": "Acting",
+        "name": "Jacob Scipio",
+        "original_name": "Jacob Scipio",
+        "popularity": 2.5447,
+        "profile_path": "/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg",
+        "cast_id": 16,
+        "character": "Leo (voice)",
+        "credit_id": "5e8596205294e700154a6440",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1447223,
+        "known_for_department": "Acting",
+        "name": "Sam Swann",
+        "original_name": "Sam Swann",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Stretch (voice)",
+        "credit_id": "5e85962fda10f00018edd8a0",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1683335,
+        "known_for_department": "Directing",
+        "name": "Fred De Bradeny",
+        "original_name": "Fred De Bradeny",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64043fad383df200a955018d",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1529932,
+        "known_for_department": "Directing",
+        "name": "Stuart Evans",
+        "original_name": "Stuart Evans",
+        "popularity": 0.8772,
+        "profile_path": null,
+        "credit_id": "5920a8fe9251414ab1048d36",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327912,
+        "known_for_department": "Art",
+        "name": "Kevin Chai",
+        "original_name": "Kevin Chai",
+        "popularity": 0.1962,
+        "profile_path": null,
+        "credit_id": "64129265e18e3f08403c727b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1890414,
+        "known_for_department": "Art",
+        "name": "Ken Henderson",
+        "original_name": "Ken Henderson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64129366323eba00c5eca2cf",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1683335,
+        "known_for_department": "Directing",
+        "name": "Fred De Bradeny",
+        "original_name": "Fred De Bradeny",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "643ab891b6c26404c039e300",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1210161,
+        "known_for_department": "Sound",
+        "name": "David Schweitzer",
+        "original_name": "David Schweitzer",
+        "popularity": 0.996,
+        "profile_path": null,
+        "credit_id": "64809392e272600107203c0f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1242988,
+        "known_for_department": "Creator",
+        "name": "Keith Chapman",
+        "original_name": "Keith Chapman",
+        "popularity": 0.1861,
+        "profile_path": null,
+        "credit_id": "5e72557be7414600176783c4",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1368940,
+        "known_for_department": "Writing",
+        "name": "Chris Parker",
+        "original_name": "Chris Parker",
+        "popularity": 0.0831,
+        "profile_path": null,
+        "credit_id": "5e725597b1f68d0012dd2d4e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2586711,
+        "known_for_department": "Writing",
+        "name": "James Mason",
+        "original_name": "James Mason",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "5e85968cda10f00014ee0af7",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 1102522,
+  "imdb_id": "tt0325473",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Go-Get-Em Garringer",
+  "overview": "The Parsons Land Reclamation Company hires \"Drive\" Garringer to rid the Arizona-Mexican border area of the Triple Arrow gang, who have been attacking their workmen. In Puma City, he discovers that the sheriff and leading citizens protect the outlaws. Meanwhile, Wilma Wharton, the daughter of an aged prospector, hoping to put an end to the advances of the gang leader, agrees to go through a fake marriage ceremony with another gang member, but later discovers that the marriage was performed by a authentic minister.",
+  "popularity": 4.9975,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 170515,
+      "logo_path": null,
+      "name": "Astra Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1919-03-23",
+  "revenue": 0,
+  "runtime": 50,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Go-Get-Em Garringer",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 975597,
+        "known_for_department": "Acting",
+        "name": "Franklyn Farnum",
+        "original_name": "Franklyn Farnum",
+        "popularity": 0.2185,
+        "profile_path": "/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg",
+        "cast_id": 2,
+        "character": "Garringer",
+        "credit_id": "6418985d310325007c0adbd8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1058890,
+        "known_for_department": "Acting",
+        "name": "Helene Chadwick",
+        "original_name": "Helene Chadwick",
+        "popularity": 10.7054,
+        "profile_path": "/hQ6wcUWMxCRed2DLRTpfutPtnuD.jpg",
+        "cast_id": 3,
+        "character": "Wilma Wharton",
+        "credit_id": "6418986ce7414600b96bef57",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1350563,
+        "known_for_department": "Acting",
+        "name": "Joe Rickson",
+        "original_name": "Joe Rickson",
+        "popularity": 0.1291,
+        "profile_path": "/pUblEMsk66Gx6Z7JiOP1RfUNU6Q.jpg",
+        "cast_id": 4,
+        "character": "'Bull' Ross",
+        "credit_id": "6418987c6a22270085f0e7fa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1273780,
+        "known_for_department": "Acting",
+        "name": "Dick La Reno",
+        "original_name": "Dick La Reno",
+        "popularity": 0.0456,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "'Red' McCarty",
+        "credit_id": "6418988a31032500e8a2e55b",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3970720,
+        "known_for_department": "Directing",
+        "name": "Ernest Traxler",
+        "original_name": "Ernest Traxler",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6418984c6a2227007d73e7ed",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

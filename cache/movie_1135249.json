@@ -1,0 +1,338 @@
+{
+  "adult": false,
+  "backdrop_path": "/aZFy0f85E0R0vdM6t4zp1wn8cft.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1135249,
+  "imdb_id": null,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Cirkus Rydberg",
+  "overview": "Stage show featuring songs and comedy bits with Eva Rydberg & Ewa Roos",
+  "popularity": 6.0144,
+  "poster_path": "/xjnc7x6DOINZAvCMFRyMpAekkoE.jpg",
+  "production_companies": [
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1980-01-18",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cirkus Rydberg",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 933745,
+        "known_for_department": "Acting",
+        "name": "Eva Rydberg",
+        "original_name": "Eva Rydberg",
+        "popularity": 0.5268,
+        "profile_path": "/ipLfjPCJtF8wy1pYqMFc4c2xiCg.jpg",
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "647a02ad93828e0133770b38",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1309635,
+        "known_for_department": "Acting",
+        "name": "Ewa Roos",
+        "original_name": "Ewa Roos",
+        "popularity": 0.0239,
+        "profile_path": "/saDhuE9kBH2h7lZq7LpHyw9Vvh3.jpg",
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "647a02b8caef2d00c2998f81",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3244090,
+        "known_for_department": "Production",
+        "name": "Bengt Roslund",
+        "original_name": "Bengt Roslund",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "647a005d0e29a200a65fb764",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236540,
+        "known_for_department": "Directing",
+        "name": "Mikael Ekman",
+        "original_name": "Mikael Ekman",
+        "popularity": 0.509,
+        "profile_path": "/gI3XeLAit9dGyI08P1kib8uQo0.jpg",
+        "credit_id": "647a00e8caef2d00fce500a0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2668268,
+        "known_for_department": "Crew",
+        "name": "Gordon Marsh",
+        "original_name": "Gordon Marsh",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "647a00f3cf4b8b00e2d52136",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4093614,
+        "known_for_department": "Sound",
+        "name": "Anders Åhlin",
+        "original_name": "Anders Åhlin",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "647a010fcaef2d0119bef13a",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4093614,
+        "known_for_department": "Sound",
+        "name": "Anders Åhlin",
+        "original_name": "Anders Åhlin",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "647a0116cf4b8b00c3d191f5",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1429271,
+        "known_for_department": "Directing",
+        "name": "Åke Arenhill",
+        "original_name": "Åke Arenhill",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "647a01310e29a20133c2ecf1",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4093615,
+        "known_for_department": "Writing",
+        "name": "Gertrud Hemmel",
+        "original_name": "Gertrud Hemmel",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "647a013acf4b8b01418e7816",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1244020,
+        "known_for_department": "Acting",
+        "name": "Östen Warnerbring",
+        "original_name": "Östen Warnerbring",
+        "popularity": 0.0214,
+        "profile_path": "/6RMTKKm9zz9S7kSMyd2VVArjeVI.jpg",
+        "credit_id": "647a0155caef2d00aa41f611",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4093617,
+        "known_for_department": "Writing",
+        "name": "Lotta Winberg",
+        "original_name": "Lotta Winberg",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "647a0160e323f300a7d5049b",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3551023,
+        "known_for_department": "Sound",
+        "name": "Ingvar Hagström",
+        "original_name": "Ingvar Hagström",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "647a0177e323f300c4295ef1",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3256288,
+        "known_for_department": "Lighting",
+        "name": "Christer Cantner",
+        "original_name": "Christer Cantner",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "647a01820e29a200a65fb7e7",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4093618,
+        "known_for_department": "Lighting",
+        "name": "Bo Öhman",
+        "original_name": "Bo Öhman",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "647a018e93828e0133770ac5",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3884045,
+        "known_for_department": "Crew",
+        "name": "Lars-Erik Lorentzon",
+        "original_name": "Lars-Erik Lorentzon",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "647a01c0e323f300a7d504b8",
+        "department": "Crew",
+        "job": "Technical Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2900758,
+        "known_for_department": "Camera",
+        "name": "Lennarth Mårthenzon",
+        "original_name": "Lennarth Mårthenzon",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "647a01dacaef2d00df87e35b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3256267,
+        "known_for_department": "Camera",
+        "name": "Ingrid Förster",
+        "original_name": "Ingrid Förster",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "647a01e8cf4b8b01031db286",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3827676,
+        "known_for_department": "Crew",
+        "name": "Lars Lindskog",
+        "original_name": "Lars Lindskog",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "647a01ffcaef2d01362a6e3f",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2900759,
+        "known_for_department": "Camera",
+        "name": "Bo Mörnhov",
+        "original_name": "Bo Mörnhov",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "647a0209e323f300c4295f26",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4093623,
+        "known_for_department": "Crew",
+        "name": "Kurt Nilsson",
+        "original_name": "Kurt Nilsson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "647a021d0e29a200bf1e3e77",
+        "department": "Crew",
+        "job": "Mix Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4093625,
+        "known_for_department": "Directing",
+        "name": "Anneli Högberg",
+        "original_name": "Anneli Högberg",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "647a0228e323f300c4295f3b",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  }
+}

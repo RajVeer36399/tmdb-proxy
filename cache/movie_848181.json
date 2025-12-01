@@ -1,0 +1,251 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Edq4Y8Ii6y63rgZiuTRddumgSp.jpg",
+  "belongs_to_collection": null,
+  "budget": 1620000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 848181,
+  "imdb_id": "tt14994296",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Superposition",
+  "overview": "A couple and their young son leave their urban life in Copenhagen and move to an isolated forest in Sweden, hoping to reignite the spark in their relationship.",
+  "popularity": 8.8545,
+  "poster_path": "/x8zvrxaaKXBWRVThWMFMjOToJLO.jpg",
+  "production_companies": [
+    {
+      "id": 8666,
+      "logo_path": "/ivI7Rdt2gaH8VNeoIGtks3oRlzR.png",
+      "name": "Beofilm",
+      "origin_country": "DK"
+    },
+    {
+      "id": 63987,
+      "logo_path": "/kI8wyKmKkvIi0Kvyz1aECQVAzr.png",
+      "name": "Citizen Jane Productions",
+      "origin_country": "FI"
+    },
+    {
+      "id": 16498,
+      "logo_path": "/4p72Dk6ljlkVDCaHZgCtsIrZWgO.png",
+      "name": "Way Creative Films",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2023-03-23",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Superposition",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 17,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1178382,
+        "known_for_department": "Acting",
+        "name": "Marie Bach Hansen",
+        "original_name": "Marie Bach Hansen",
+        "popularity": 1.8156,
+        "profile_path": "/1KTyptA7fCfMOUmr5v1QiS1anNX.jpg",
+        "cast_id": 7,
+        "character": "Stine",
+        "credit_id": "631e03c9e55937007ad9b3df",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1013156,
+        "known_for_department": "Acting",
+        "name": "Mikkel Boe Følsgaard",
+        "original_name": "Mikkel Boe Følsgaard",
+        "popularity": 0.7579,
+        "profile_path": "/oKC5KLsbj0npfRJA3j9nEIMglmg.jpg",
+        "cast_id": 8,
+        "character": "Teit",
+        "credit_id": "631e03d10102c9007e3fe2e1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3971236,
+        "known_for_department": "Acting",
+        "name": "Mihlo Olsen",
+        "original_name": "Mihlo Olsen",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Nemo",
+        "credit_id": "6418d8aaa14bef00d70a5d27",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1617380,
+        "known_for_department": "Directing",
+        "name": "Karoline Lyngbye",
+        "original_name": "Karoline Lyngbye",
+        "popularity": 0.1261,
+        "profile_path": "/tm8SwnogXUqtOY9434rC5zCbOTe.jpg",
+        "credit_id": "60e444dfdb154f0074ca084d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1616225,
+        "known_for_department": "Camera",
+        "name": "Sine Vadstrup Brooker",
+        "original_name": "Sine Vadstrup Brooker",
+        "popularity": 0.0357,
+        "profile_path": "/jwwVHUR6Hvtbv0CRKidHTSG2IDG.jpg",
+        "credit_id": "652888c1df857c0120c03630",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1617380,
+        "known_for_department": "Directing",
+        "name": "Karoline Lyngbye",
+        "original_name": "Karoline Lyngbye",
+        "popularity": 0.1261,
+        "profile_path": "/tm8SwnogXUqtOY9434rC5zCbOTe.jpg",
+        "credit_id": "6162e57e53866e0048a2382d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1616159,
+        "known_for_department": "Writing",
+        "name": "Mikkel Bak Sørensen",
+        "original_name": "Mikkel Bak Sørensen",
+        "popularity": 0.0703,
+        "profile_path": "/sERhIb6AEnMG2hHUdRjb6J1nU8f.jpg",
+        "credit_id": "6162e58950733c008bd63a54",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2365661,
+        "known_for_department": "Production",
+        "name": "Julia Gebauer",
+        "original_name": "Julia Gebauer",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "6162eaa491745b009329a3d9",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1616164,
+        "known_for_department": "Production",
+        "name": "Amalie Lyngbo Hjort",
+        "original_name": "Amalie Lyngbo Hjort",
+        "popularity": 0.0586,
+        "profile_path": null,
+        "credit_id": "6162ea789d592c00898556e4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1426716,
+        "known_for_department": "Production",
+        "name": "Leila Lyytikäinen",
+        "original_name": "Leila Lyytikäinen",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "6162ea949d592c0089855709",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3081387,
+        "known_for_department": "Editing",
+        "name": "Jakob Juul Toldam",
+        "original_name": "Jakob Juul Toldam",
+        "popularity": 0.0256,
+        "profile_path": "/aXLft2uExFe14WMFINMSFU9jhVr.jpg",
+        "credit_id": "631e04014350110082869566",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1454140,
+        "known_for_department": "Sound",
+        "name": "Tapio Liukkonen",
+        "original_name": "Tapio Liukkonen",
+        "popularity": 0.4674,
+        "profile_path": "/u4GIvS9DZzrB83VrXMF81vbU6KO.jpg",
+        "credit_id": "6474d340be2d4900bf9ec7e9",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1380789,
+        "known_for_department": "Sound",
+        "name": "Pessi Levanto",
+        "original_name": "Pessi Levanto",
+        "popularity": 0.1125,
+        "profile_path": null,
+        "credit_id": "67a558cebf36040c5d85e399",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

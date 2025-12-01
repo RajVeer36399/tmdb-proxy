@@ -1,0 +1,381 @@
+{
+  "adult": false,
+  "backdrop_path": "/8SDBDtxwvhr4bwcxbBuvk6Phk8m.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 151583,
+  "imdb_id": "tt0073469",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La novizia",
+  "overview": "A young man comes back to his provincial home town to visit his dying uncle who is being attended to by a night nurse and novice nun. Before long, the young man develops a deep longing for the young, beautiful nun.",
+  "popularity": 6.3449,
+  "poster_path": "/9U2RzK1cjfYyssPQRm7rl7kbIl2.jpg",
+  "production_companies": [
+    {
+      "id": 76370,
+      "logo_path": null,
+      "name": "Bi-Pa",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1975-01-01",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Novice",
+  "video": false,
+  "vote_average": 2.611,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 227317,
+        "known_for_department": "Acting",
+        "name": "Gloria Guida",
+        "original_name": "Gloria Guida",
+        "popularity": 2.2243,
+        "profile_path": "/3h6Qwrp1OOhtUWTka4MhclTOvTa.jpg",
+        "cast_id": 2,
+        "character": "Maria, Sister Immacolata",
+        "credit_id": "52fe4b069251416c910cd725",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1040091,
+        "known_for_department": "Acting",
+        "name": "Gino Milli",
+        "original_name": "Gino Milli",
+        "popularity": 0.0616,
+        "profile_path": "/mRBzK1bKTHWCRgd26c7sg269mVp.jpg",
+        "cast_id": 4,
+        "character": "Vittorio",
+        "credit_id": "52fe4b069251416c910cd72d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24493,
+        "known_for_department": "Acting",
+        "name": "Femi Benussi",
+        "original_name": "Femi Benussi",
+        "popularity": 0.648,
+        "profile_path": "/3U2YGjGjvto79xk5LVFtZvfqnYv.jpg",
+        "cast_id": 1,
+        "character": "Nunziatina",
+        "credit_id": "52fe4b069251416c910cd721",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 586944,
+        "known_for_department": "Acting",
+        "name": "Fiore Altoviti",
+        "original_name": "Fiore Altoviti",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Rodolfo",
+        "credit_id": "52fe4b069251416c910cd731",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1457953,
+        "known_for_department": "Acting",
+        "name": "Beppe Loparco",
+        "original_name": "Beppe Loparco",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Saretto",
+        "credit_id": "57299d819251414e100019fc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 101127,
+        "known_for_department": "Acting",
+        "name": "Maria Pia Conte",
+        "original_name": "Maria Pia Conte",
+        "popularity": 0.3742,
+        "profile_path": "/3f9GtCWJGrBptaXX9pITHCjvHCc.jpg",
+        "cast_id": 10,
+        "character": "Franca",
+        "credit_id": "57299d939251415d6700188c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107280,
+        "known_for_department": "Acting",
+        "name": "Vera Drudi",
+        "original_name": "Vera Drudi",
+        "popularity": 0.1373,
+        "profile_path": "/uXtECPKRI3BnIXKnOmtm0lJSw05.jpg",
+        "cast_id": 11,
+        "character": "Agatha",
+        "credit_id": "57299da69251415d67001891",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1615039,
+        "known_for_department": "Acting",
+        "name": "Pino Sciacqua",
+        "original_name": "Pino Sciacqua",
+        "popularity": 0.1053,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "57299db8c3a3682aa6000527",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4969,
+        "known_for_department": "Acting",
+        "name": "Lionel Stander",
+        "original_name": "Lionel Stander",
+        "popularity": 1.0053,
+        "profile_path": "/AatXdvOQx9BEGSqHqL2eeoTNvCb.jpg",
+        "cast_id": 3,
+        "character": "Don Nini",
+        "credit_id": "52fe4b069251416c910cd729",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1207139,
+        "known_for_department": "Acting",
+        "name": "Sofia Lusy",
+        "original_name": "Sofia Lusy",
+        "popularity": 0.0799,
+        "profile_path": "/d9HxrPTcoV4l4SqeNQmC5KZQwa8.jpg",
+        "cast_id": 13,
+        "character": "Old Prostitute",
+        "credit_id": "57299dfe9251416595000010",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1606424,
+        "known_for_department": "Acting",
+        "name": "Luciano Zanussi",
+        "original_name": "Luciano Zanussi",
+        "popularity": 0.0999,
+        "profile_path": "/gGeJtSS8qfp7ke50NN8yhswl9S.jpg",
+        "cast_id": 19,
+        "character": "Singing Man in Church",
+        "credit_id": "65f2d66c2fe2fa0185eea0ae",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1692864,
+        "known_for_department": "Acting",
+        "name": "Anna Maria Perego",
+        "original_name": "Anna Maria Perego",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Woman in Church",
+        "credit_id": "65f2d67d2fdec60189238d64",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1496297,
+        "known_for_department": "Acting",
+        "name": "Lina Franchi",
+        "original_name": "Lina Franchi",
+        "popularity": 0.8026,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Woman in House of Nunziata",
+        "credit_id": "65f2d68b5a7884014ad71c48",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1599296,
+        "known_for_department": "Acting",
+        "name": "Umberto Amambrini",
+        "original_name": "Umberto Amambrini",
+        "popularity": 0.0502,
+        "profile_path": "/8OwPqXKslU5VGyCGeZ3oLm320HS.jpg",
+        "cast_id": 22,
+        "character": "Man in Church",
+        "credit_id": "65f2d69e2fe2fa0162edbd86",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092989,
+        "known_for_department": "Directing",
+        "name": "Giuliano Biagetti",
+        "original_name": "Giuliano Biagetti",
+        "popularity": 0.1076,
+        "profile_path": null,
+        "credit_id": "52fe4b069251416c910cd737",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092989,
+        "known_for_department": "Directing",
+        "name": "Giuliano Biagetti",
+        "original_name": "Giuliano Biagetti",
+        "popularity": 0.1076,
+        "profile_path": null,
+        "credit_id": "52fe4b069251416c910cd73d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84301,
+        "known_for_department": "Writing",
+        "name": "Giorgio Mariuzzo",
+        "original_name": "Giorgio Mariuzzo",
+        "popularity": 0.1952,
+        "profile_path": "/hWsdqEFAmTCpZP9oOXjVxuXM01a.jpg",
+        "credit_id": "52fe4b079251416c910cd743",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44505,
+        "known_for_department": "Sound",
+        "name": "Berto Pisano",
+        "original_name": "Berto Pisano",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "57299e349251414e15001963",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1140925,
+        "known_for_department": "Art",
+        "name": "Tellino Tellini",
+        "original_name": "Tellino Tellini",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "57299e539251414e15001969",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1615041,
+        "known_for_department": "Production",
+        "name": "Enzo De Punta",
+        "original_name": "Enzo De Punta",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "57299e289251414b850004e6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1140925,
+        "known_for_department": "Art",
+        "name": "Tellino Tellini",
+        "original_name": "Tellino Tellini",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "65f87fb328723c017cba82cf",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38590,
+        "known_for_department": "Editing",
+        "name": "Alberto Moriani",
+        "original_name": "Alberto Moriani",
+        "popularity": 0.0565,
+        "profile_path": null,
+        "credit_id": "65f87fd3ae3843017d4cbd33",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 41065,
+        "known_for_department": "Camera",
+        "name": "Franco Villa",
+        "original_name": "Franco Villa",
+        "popularity": 0.0928,
+        "profile_path": null,
+        "credit_id": "5ef2ba7a967cc7003645a140",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

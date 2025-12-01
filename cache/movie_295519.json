@@ -1,0 +1,380 @@
+{
+  "adult": false,
+  "backdrop_path": "/pbV8eqyoqEBKvt5VkAmE2iliskV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 295519,
+  "imdb_id": "tt3606838",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Verbotene Filme",
+  "overview": "Between 1933 and 1945 roughly 1200 films were made in Germany, of which 300 were banned by the Allied forces. Today, around 40 films, called \"Vorbehaltsfilme\", are locked away from the public with an uncertain future. Should they be re-released, destroyed, or continue to be neglected? Verbotene Filme takes a closer look at some of these forbidden films.",
+  "popularity": 6.2543,
+  "poster_path": "/222oQXMu8G7kDqW6gVPv8OksuA7.jpg",
+  "production_companies": [
+    {
+      "id": 587,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    },
+    {
+      "id": 47325,
+      "logo_path": null,
+      "name": "Blueprint Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2067,
+      "logo_path": "/y5knLIUjYsKBIlM4W0dLruWwYaC.png",
+      "name": "RBB",
+      "origin_country": "DE"
+    },
+    {
+      "id": 9291,
+      "logo_path": "/g6GYZXQrjB86Z5ocVliUZF1i3Tz.png",
+      "name": "HR",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2014-03-06",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The hidden legacy of Nazi Film",
+  "title": "Forbidden Films",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1313854,
+        "known_for_department": "Acting",
+        "name": "Johanna Liebeneiner",
+        "original_name": "Johanna Liebeneiner",
+        "popularity": 0.1484,
+        "profile_path": "/qLtE1jSTYKaC3eYphjNCNHFILzA.jpg",
+        "cast_id": 3,
+        "character": "Herself",
+        "credit_id": "542993c80e0a260a35000143",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39298,
+        "known_for_department": "Directing",
+        "name": "Margarethe von Trotta",
+        "original_name": "Margarethe von Trotta",
+        "popularity": 0.1303,
+        "profile_path": "/rxFG8ZBtXRt0iRzMKiFOq579GD.jpg",
+        "cast_id": 5,
+        "character": "Herself",
+        "credit_id": "542993efc3a3682d6c00015e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 672,
+        "known_for_department": "Directing",
+        "name": "Oskar Roehler",
+        "original_name": "Oskar Roehler",
+        "popularity": 0.1783,
+        "profile_path": "/jqAQDH19vOQU5crqqTn3OY6mWa6.jpg",
+        "cast_id": 6,
+        "character": "Himself",
+        "credit_id": "55520da592514152eb002443",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1466287,
+        "known_for_department": "Acting",
+        "name": "Moshe Zimmermann",
+        "original_name": "Moshe Zimmermann",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Himself",
+        "credit_id": "55520db6c3a3683d3b000f43",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1368733,
+        "known_for_department": "Acting",
+        "name": "Ernst Szebedits",
+        "original_name": "Ernst Szebedits",
+        "popularity": 0.8741,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Himself",
+        "credit_id": "542993db0e0a260a30000128",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368731,
+        "known_for_department": "Acting",
+        "name": "Stefan Drößler",
+        "original_name": "Stefan Drößler",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Himself",
+        "credit_id": "542993820e0a260a21000116",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1466288,
+        "known_for_department": "Acting",
+        "name": "Götz Aly",
+        "original_name": "Götz Aly",
+        "popularity": 0.5574,
+        "profile_path": "/eoxtBT0OxNgieXn2Hi2Jcbrks21.jpg",
+        "cast_id": 8,
+        "character": "Himself",
+        "credit_id": "55520dc1c3a36834e1004a43",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1466290,
+        "known_for_department": "Acting",
+        "name": "Jörg Jannings",
+        "original_name": "Jörg Jannings",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Himself",
+        "credit_id": "55520dd092514154c9004be9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1466292,
+        "known_for_department": "Acting",
+        "name": "Rainer Rother",
+        "original_name": "Rainer Rother",
+        "popularity": 0.0507,
+        "profile_path": "/pRlaOCXACZB0bVg3Rwbh18UPtT.jpg",
+        "cast_id": 10,
+        "character": "Himself",
+        "credit_id": "55520ddd9251416a930064bd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1466294,
+        "known_for_department": "Acting",
+        "name": "Sonja M. Schultz",
+        "original_name": "Sonja M. Schultz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Herself",
+        "credit_id": "55520decc3a368426f004392",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1466296,
+        "known_for_department": "Acting",
+        "name": "Thomas Koebner",
+        "original_name": "Thomas Koebner",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Himself",
+        "credit_id": "55520dfdc3a368436d003488",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1466298,
+        "known_for_department": "Acting",
+        "name": "Christiane von Wahlert",
+        "original_name": "Christiane von Wahlert",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Herself",
+        "credit_id": "55520e189251414dd900308c",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1926962,
+        "known_for_department": "Camera",
+        "name": "Aline László",
+        "original_name": "Aline László",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "613d9286a6ddcb0042bf051a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1926961,
+        "known_for_department": "Camera",
+        "name": "Isabelle Casez",
+        "original_name": "Isabelle Casez",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "613d928ec68b690061f17961",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1926963,
+        "known_for_department": "Camera",
+        "name": "Ludolph Weyer",
+        "original_name": "Ludolph Weyer",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "credit_id": "613d9297f96a390029081c38",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938202,
+        "known_for_department": "Directing",
+        "name": "Felix Moeller",
+        "original_name": "Felix Moeller",
+        "popularity": 0.797,
+        "profile_path": "/hm2LXqM9c9ycXloX3sXBeXbNCpu.jpg",
+        "credit_id": "542993580e0a260a30000117",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938202,
+        "known_for_department": "Directing",
+        "name": "Felix Moeller",
+        "original_name": "Felix Moeller",
+        "popularity": 0.797,
+        "profile_path": "/hm2LXqM9c9ycXloX3sXBeXbNCpu.jpg",
+        "credit_id": "55520e319251417175001b8a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1527421,
+        "known_for_department": "Editing",
+        "name": "Annette Muff",
+        "original_name": "Annette Muff",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a13231892514138e4074660",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1377495,
+        "known_for_department": "Sound",
+        "name": "Björn Wiese",
+        "original_name": "Björn Wiese",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "5e2eaa59326c1900141b8925",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938202,
+        "known_for_department": "Directing",
+        "name": "Felix Moeller",
+        "original_name": "Felix Moeller",
+        "popularity": 0.797,
+        "profile_path": "/hm2LXqM9c9ycXloX3sXBeXbNCpu.jpg",
+        "credit_id": "5e2eaa6e4ca67600174a09cc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2516875,
+        "known_for_department": "Production",
+        "name": "Amelie Latscha",
+        "original_name": "Amelie Latscha",
+        "popularity": 0.0268,
+        "profile_path": null,
+        "credit_id": "5e2eaa79326c1900141b895f",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 275000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.sfi.se/en-GB/Swedish-film-database/Item/?itemid=4969&type=MOVIE&iv=Basic",
+  "id": 370378,
+  "imdb_id": "tt0074561",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Förvandlingen",
+  "overview": "A Swedish adaptation of the Franz Kafka novella. Gregor Samsa, wakes one morning to find himself transformed  into a large, monstrous beetle.",
+  "popularity": 5.4093,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1976-01-12",
+  "revenue": 60000,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Metamorphosis",
+  "video": false,
+  "vote_average": 8,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46868,
+        "known_for_department": "Acting",
+        "name": "Gunn Wållgren",
+        "original_name": "Gunn Wållgren",
+        "popularity": 0.1544,
+        "profile_path": "/4kZzWGj7avObRin7drWAiE0AnQ9.jpg",
+        "cast_id": 3,
+        "character": "Gregor's Mother",
+        "credit_id": "565a0a2992514161b4000b1f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113538,
+        "known_for_department": "Acting",
+        "name": "Peter Schildt",
+        "original_name": "Peter Schildt",
+        "popularity": 0.4639,
+        "profile_path": "/8KpHcLU6mefP2iJe0qH3ht7PMSb.jpg",
+        "cast_id": 4,
+        "character": "Gregor Samsa",
+        "credit_id": "59d3588c92514140af00cd92",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112866,
+        "known_for_department": "Acting",
+        "name": "Ernst Günther",
+        "original_name": "Ernst Günther",
+        "popularity": 0.6857,
+        "profile_path": "/ovBFo195urOrEgseWKnJqX4pSVH.jpg",
+        "cast_id": 5,
+        "character": "The father",
+        "credit_id": "59d358a9925141408d00c324",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131075,
+        "known_for_department": "Acting",
+        "name": "Grynet Molvig",
+        "original_name": "Grynet Molvig",
+        "popularity": 0.3468,
+        "profile_path": "/bJzG27vGs6hyyhfAtMfGNBz0bub.jpg",
+        "cast_id": 6,
+        "character": "The singer",
+        "credit_id": "59d358bc925141405f00bd5a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3855,
+        "known_for_department": "Acting",
+        "name": "Per Oscarsson",
+        "original_name": "Per Oscarsson",
+        "popularity": 0.3512,
+        "profile_path": "/i4FaiiFHlJoYg0HzmQKEqazOdQX.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "59d358cc92514140af00cde4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5309323,
+        "known_for_department": "Acting",
+        "name": "Inga-Lill Carlsson",
+        "original_name": "Inga-Lill Carlsson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Gregor's Sister",
+        "credit_id": "67d767735addf20955f14bc8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122740,
+        "known_for_department": "Acting",
+        "name": "Jan Blomberg",
+        "original_name": "Jan Blomberg",
+        "popularity": 0.6715,
+        "profile_path": "/uRGHCIZEgL53w5WMdiZWsGMafYb.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "67d7678a25f01d54167c066b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2633037,
+        "known_for_department": "Crew",
+        "name": "Per-Arne Ehlin",
+        "original_name": "Per-Arne Ehlin",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "67d767a1ebc30a0b48014acf",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134377,
+        "known_for_department": "Acting",
+        "name": "Sture Ericson",
+        "original_name": "Sture Ericson",
+        "popularity": 0.5112,
+        "profile_path": "/9OIJ5aCkisOQuqujd0MNRLRStOf.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "67d767abb19f983ad17b97c6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 133473,
+        "known_for_department": "Acting",
+        "name": "Chris Wahlström",
+        "original_name": "Chris Wahlström",
+        "popularity": 0.1187,
+        "profile_path": "/oufsdsiOX2Sv3yHobLny7rf2HhR.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "67d767bbebc30a0b48014adf",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83885,
+        "known_for_department": "Acting",
+        "name": "Claire Wikholm",
+        "original_name": "Claire Wikholm",
+        "popularity": 0.3532,
+        "profile_path": "/xrqdBEPYCAZ0lmX5dvlnp21dsJr.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "67d767c8ebc30a0b48014aed",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58302,
+        "known_for_department": "Production",
+        "name": "Bengt Forslund",
+        "original_name": "Bengt Forslund",
+        "popularity": 0.0516,
+        "profile_path": "/8gJF5Uhs8u90UDgT3Ol2huVqWuN.jpg",
+        "credit_id": "565a0a1992514161c1000b20",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1441129,
+        "known_for_department": "Camera",
+        "name": "George Tirl",
+        "original_name": "George Tirl",
+        "popularity": 0.0832,
+        "profile_path": null,
+        "credit_id": "565a09fdc3a3680abe000bae",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1542059,
+        "known_for_department": "Writing",
+        "name": "Ivo Dvorák",
+        "original_name": "Ivo Dvorák",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "565a09eac3a3680ac5000bb8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30717,
+        "known_for_department": "Writing",
+        "name": "Franz Kafka",
+        "original_name": "Franz Kafka",
+        "popularity": 1.8264,
+        "profile_path": "/rzPF8tt8tmlgnVI1tm06pYuLBd0.jpg",
+        "credit_id": "59fcc5ea925141137f033673",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1542059,
+        "known_for_department": "Writing",
+        "name": "Ivo Dvorák",
+        "original_name": "Ivo Dvorák",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "59fcc5f4c3a3681abb0321ce",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

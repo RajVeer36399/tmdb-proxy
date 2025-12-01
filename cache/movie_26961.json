@@ -1,0 +1,446 @@
+{
+  "adult": false,
+  "backdrop_path": "/9GxJCQLzxD7tud9lz0fYyiWiV61.jpg",
+  "belongs_to_collection": {
+    "id": 107949,
+    "name": "Puppet Master Collection",
+    "poster_path": "/qXDKe9xqEpJckT6UWghk3T0d4pd.jpg",
+    "backdrop_path": "/Wbd5xjXhZLDFKWK7wMPnoIJe3B.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 26961,
+  "imdb_id": "tt0390393",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Puppet Master: The Legacy",
+  "overview": "A rogue agent named Maclain breaks into the lab of Eric Weiss, who has spent his entire life fascinated by Andre Toulon's supernatural ability to breathe life into his carefully crafted figurines.",
+  "popularity": 7.5433,
+  "poster_path": "/gMmSStLICth9rhfi697yzflmPWV.jpg",
+  "production_companies": [
+    {
+      "id": 4703,
+      "logo_path": null,
+      "name": "Shadow Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 4867,
+      "logo_path": "/ifNDQE2NMX3QAJgX0517FZMkLq5.png",
+      "name": "Full Moon Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-12-16",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Now The Legacy Can Be Told",
+  "title": "Puppet Master: The Legacy",
+  "video": false,
+  "vote_average": 3.552,
+  "vote_count": 86,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63210,
+        "known_for_department": "Acting",
+        "name": "Jacob Witkin",
+        "original_name": "Jacob Witkin",
+        "popularity": 0.0923,
+        "profile_path": "/go3UKZvFNA13NDNWhwVfsnoGT1n.jpg",
+        "cast_id": 1,
+        "character": "Eric Weiss",
+        "credit_id": "52fe4525c3a368484e04af0d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 101024,
+        "known_for_department": "Acting",
+        "name": "Kate Orsini",
+        "original_name": "Kate Orsini",
+        "popularity": 0.5049,
+        "profile_path": "/uRGuIwOB1aGQoMpJ4oCgok9Wb09.jpg",
+        "cast_id": 2,
+        "character": "Maclain",
+        "credit_id": "52fe4525c3a368484e04af11",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11764,
+        "known_for_department": "Acting",
+        "name": "Ian Abercrombie",
+        "original_name": "Ian Abercrombie",
+        "popularity": 0.6314,
+        "profile_path": "/fKAYk2Fp5GzKizw4wlUgNPIt136.jpg",
+        "cast_id": 10,
+        "character": "Dr. Hess (archive footage)",
+        "credit_id": "5ae0236d925141106c00c54c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1232170,
+        "known_for_department": "Acting",
+        "name": "Sage Allen",
+        "original_name": "Sage Allen",
+        "popularity": 0.3008,
+        "profile_path": "/jnWAAI2G2D4Bi6LtUtFFpA4YjSQ.jpg",
+        "cast_id": 11,
+        "character": "Martha (archive footage)",
+        "credit_id": "5ae024680e0a26156f00cd28",
+        "order": 3
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 97698,
+        "known_for_department": "Acting",
+        "name": "Michelle Bauer",
+        "original_name": "Michelle Bauer",
+        "popularity": 1.363,
+        "profile_path": "/p5s7WpTaGnMWgstpyXzGvRXP6dm.jpg",
+        "cast_id": 16,
+        "character": "Lili (archive footage)",
+        "credit_id": "5c19e07e92514129e5d85792",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85096,
+        "known_for_department": "Acting",
+        "name": "Stephen Blackehart",
+        "original_name": "Stephen Blackehart",
+        "popularity": 0.2993,
+        "profile_path": "/v5niazocH1HjyCIxrnbrf93P1dK.jpg",
+        "cast_id": 12,
+        "character": "First Servant (archive footage)",
+        "credit_id": "5ae024ae925141106900c84f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51539,
+        "known_for_department": "Acting",
+        "name": "Gordon Currie",
+        "original_name": "Gordon Currie",
+        "popularity": 0.3159,
+        "profile_path": "/jdqJXtCukVT2X42wxeqnslkenxC.jpg",
+        "cast_id": 13,
+        "character": "Rick Myers (archive footage)",
+        "credit_id": "5ae0259d0e0a26156900e178",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 135407,
+        "known_for_department": "Acting",
+        "name": "Brigitta Dau",
+        "original_name": "Brigitta Dau",
+        "popularity": 0.287,
+        "profile_path": "/bkePGDeiEdR1FvsodQizwHH6TfV.jpg",
+        "cast_id": 14,
+        "character": "Ilsa (archive footage)",
+        "credit_id": "5ae025f6c3a3683dcf00dd7f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54564,
+        "known_for_department": "Acting",
+        "name": "George Buck Flower",
+        "original_name": "George Buck Flower",
+        "popularity": 0.4751,
+        "profile_path": "/9qmc0d452N45uSTuCGEaUg8sKQK.jpg",
+        "cast_id": 17,
+        "character": "Matthew (archive footage)",
+        "credit_id": "5c19e0920e0a266188e64e9f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6610,
+        "known_for_department": "Acting",
+        "name": "Walter Gotell",
+        "original_name": "Walter Gotell",
+        "popularity": 0.6536,
+        "profile_path": "/3pz9faSRNXyXB74t9VaJlw8IR4Q.jpg",
+        "cast_id": 15,
+        "character": "General Mueller (archive footage)",
+        "credit_id": "5c19e070c3a368187d23b54f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97878,
+        "known_for_department": "Acting",
+        "name": "Richard Lynch",
+        "original_name": "Richard Lynch",
+        "popularity": 0.5562,
+        "profile_path": "/wkiyBuMdRAOMnTwQgRquWss3HhS.jpg",
+        "cast_id": 19,
+        "character": "Major Kraus (archive footage)",
+        "credit_id": "5c19e0cb92514129ead850a7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44883,
+        "known_for_department": "Acting",
+        "name": "Guy Rolfe",
+        "original_name": "Guy Rolfe",
+        "popularity": 0.3314,
+        "profile_path": "/u9hAhsWEo6gX8pVmp9LJE5zk57Z.jpg",
+        "cast_id": 18,
+        "character": "Andre Toulon (archive footage)",
+        "credit_id": "5c19e0be0e0a266188e64eae",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81918,
+        "known_for_department": "Acting",
+        "name": "Greg Sestero",
+        "original_name": "Greg Sestero",
+        "popularity": 0.4188,
+        "profile_path": "/ySLUoDUVQB1IjgsaX9ktPaz58Rh.jpg",
+        "cast_id": 21,
+        "character": "Young Andre Toulon (Archive Footage)",
+        "credit_id": "60c9843c12197e00292a3b6b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21282,
+        "known_for_department": "Acting",
+        "name": "William Hickey",
+        "original_name": "William Hickey",
+        "popularity": 2.1287,
+        "profile_path": "/sqqmvSkDK6vDNrmEgUAjzWztg9c.jpg",
+        "cast_id": 22,
+        "character": "Elderly Andre Toulon (Archive Footage)",
+        "credit_id": "60c98bc4665408006ca9fb45",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83436,
+        "known_for_department": "Acting",
+        "name": "Nita Talbot",
+        "original_name": "Nita Talbot",
+        "popularity": 1.3253,
+        "profile_path": "/nktDWY3Bpz8u9ScqC2YOPRTzMjl.jpg",
+        "cast_id": 23,
+        "character": "Camille (Archive Footage)",
+        "credit_id": "60c98c2999259c007922c146",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31364,
+        "known_for_department": "Acting",
+        "name": "Sarah Douglas",
+        "original_name": "Sarah Douglas",
+        "popularity": 1.3784,
+        "profile_path": "/76YfRJyQodMIBiuO33slvSYEQhS.jpg",
+        "cast_id": 24,
+        "character": "Elsa Toulon (Archive Footage)",
+        "credit_id": "60c98c51283ed9006faa825f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44042,
+        "known_for_department": "Acting",
+        "name": "Felton Perry",
+        "original_name": "Felton Perry",
+        "popularity": 0.4581,
+        "profile_path": "/vHH6ciuv8Wc03iKqYTmz4TcWcnv.jpg",
+        "cast_id": 25,
+        "character": "Dr. Carl Baker (Archive Footage)",
+        "credit_id": "60c990042fccee0028a1762a",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19707,
+        "known_for_department": "Production",
+        "name": "Charles Band",
+        "original_name": "Charles Band",
+        "popularity": 1.1057,
+        "profile_path": "/mfTZ5yBOLqxdJ4YG0kHaA5rY0G4.jpg",
+        "credit_id": "52fe4525c3a368484e04af17",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1019711,
+        "known_for_department": "Production",
+        "name": "Kurt Iswarienko",
+        "original_name": "Kurt Iswarienko",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "52fe4525c3a368484e04af1d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 61281,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gina Hendrix",
+        "original_name": "Gina Hendrix",
+        "popularity": 0.2005,
+        "profile_path": null,
+        "credit_id": "52fe4525c3a368484e04af23",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262168,
+        "known_for_department": "Art",
+        "name": "Elvis Strange",
+        "original_name": "Elvis Strange",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "52fe4525c3a368484e04af29",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 52276,
+        "known_for_department": "Editing",
+        "name": "Steven Nielson",
+        "original_name": "Steven Nielson",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "52fe4525c3a368484e04af2f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4614,
+        "known_for_department": "Camera",
+        "name": "Mac Ahlberg",
+        "original_name": "Mac Ahlberg",
+        "popularity": 0.1379,
+        "profile_path": "/a1BF9YiCGQ66Mncin2UmYi1g2iN.jpg",
+        "credit_id": "52fe4525c3a368484e04af35",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19713,
+        "known_for_department": "Writing",
+        "name": "C. Courtney Joyner",
+        "original_name": "C. Courtney Joyner",
+        "popularity": 0.5418,
+        "profile_path": null,
+        "credit_id": "52fe4525c3a368484e04af3b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19707,
+        "known_for_department": "Production",
+        "name": "Charles Band",
+        "original_name": "Charles Band",
+        "popularity": 1.1057,
+        "profile_path": "/mfTZ5yBOLqxdJ4YG0kHaA5rY0G4.jpg",
+        "credit_id": "650f0216a3e4ba011bb6da94",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19711,
+        "known_for_department": "Sound",
+        "name": "Richard Band",
+        "original_name": "Richard Band",
+        "popularity": 0.0966,
+        "profile_path": "/bKffnBSYOlfG0e38E1S2L9J4eo2.jpg",
+        "credit_id": "665bd89838826bbeea71b60c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52268,
+        "known_for_department": "Directing",
+        "name": "David Schmoeller",
+        "original_name": "David Schmoeller",
+        "popularity": 0.3055,
+        "profile_path": "/qXfp7TR5E0nFpKBpoL41rOOP3MK.jpg",
+        "credit_id": "5ef8a6e6e93e950035b8d9b7",
+        "department": "Writing",
+        "job": "Characters"
+      }
+    ]
+  }
+}

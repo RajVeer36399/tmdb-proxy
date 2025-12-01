@@ -1,0 +1,327 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.nationaltheatre.org.uk/productions/people-places-and-things/",
+  "id": 1340575,
+  "imdb_id": null,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "National Theatre Live: People, Places and Things",
+  "overview": "Emma was having the time of her life. Now she’s in rehab. Her first step is to admit that she has a problem. But the problem isn’t with Emma, it’s with everything else. She needs to tell the truth. But she’s smart enough to know that there’s no such thing. When intoxication feels like the only way to survive the modern world, how can she ever sober up?",
+  "popularity": 6.1762,
+  "poster_path": "/fJzZ64LvYcHXdM5ppFqfoddBQem.jpg",
+  "production_companies": [
+    {
+      "id": 16355,
+      "logo_path": "/tWuPpLrD2urqKPXIit4VLTHWvgK.png",
+      "name": "National Theatre",
+      "origin_country": "GB"
+    },
+    {
+      "id": 237596,
+      "logo_path": null,
+      "name": "Gavin Kalin Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 145654,
+      "logo_path": "/zZr7YqJIHaBSnvjaxmi7Vzo7w9k.png",
+      "name": "Seaview Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 237597,
+      "logo_path": null,
+      "name": "Second Half Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 237599,
+      "logo_path": null,
+      "name": "Headlong",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-05-03",
+  "revenue": 0,
+  "runtime": 132,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "National Theatre Live: People, Places and Things",
+  "video": false,
+  "vote_average": 10,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1182597,
+        "known_for_department": "Acting",
+        "name": "Denise Gough",
+        "original_name": "Denise Gough",
+        "popularity": 2.1423,
+        "profile_path": "/wWcby4ARYqr8d92ZdjyQcfaiJBW.jpg",
+        "cast_id": 1,
+        "character": "Emma",
+        "credit_id": "66d0994b45fd22555396241f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11281,
+        "known_for_department": "Acting",
+        "name": "Sinéad Cusack",
+        "original_name": "Sinéad Cusack",
+        "popularity": 2.4702,
+        "profile_path": "/sEYOT1L4t32QDPpRlzYqWBrsXco.jpg",
+        "cast_id": 2,
+        "character": "Doctor/Thrapist/Mum",
+        "credit_id": "66d099684c75b46479789513",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1145665,
+        "known_for_department": "Acting",
+        "name": "Malachi Kirby",
+        "original_name": "Malachi Kirby",
+        "popularity": 0.9372,
+        "profile_path": "/8v1anxRcmDRDaVS7Cpk4KCoGPK4.jpg",
+        "cast_id": 3,
+        "character": "Mark",
+        "credit_id": "66d0997d2a757e1048789509",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355191,
+        "known_for_department": "Acting",
+        "name": "Danny Kirrane",
+        "original_name": "Danny Kirrane",
+        "popularity": 0.5189,
+        "profile_path": "/yfui1GBLB2UBktBi9WRuxJoJqcs.jpg",
+        "cast_id": 4,
+        "character": "Foster",
+        "credit_id": "66d0998b4d1c3e4c89962415",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110584,
+        "known_for_department": "Acting",
+        "name": "Kevin McMonagle",
+        "original_name": "Kevin McMonagle",
+        "popularity": 0.4221,
+        "profile_path": "/j3vzyemdF6elx1uezzh5CxJ9BeI.jpg",
+        "cast_id": 5,
+        "character": "Dad/Paul",
+        "credit_id": "66d09998ea22ad562c9416f9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 182111,
+        "known_for_department": "Acting",
+        "name": "Holly Atkins",
+        "original_name": "Holly Atkins",
+        "popularity": 0.2011,
+        "profile_path": "/btN5NqDQOLHABURMmHEY5My3Wvl.jpg",
+        "cast_id": 6,
+        "character": "Charlotte",
+        "credit_id": "66d099aaf84785b5d06de0c5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662807,
+        "known_for_department": "Acting",
+        "name": "Paksie Vernon",
+        "original_name": "Paksie Vernon",
+        "popularity": 0.0629,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Jodi",
+        "credit_id": "66d099bd7c1bb47a11a7cd1b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3640390,
+        "known_for_department": "Acting",
+        "name": "Ryan Hutton",
+        "original_name": "Ryan Hutton",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Shaun",
+        "credit_id": "66d099cb7751478868157335",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4911558,
+        "known_for_department": "Acting",
+        "name": "Ayọ̀ Owóyẹmi-Peters",
+        "original_name": "Ayọ̀ Owóyẹmi-Peters",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Laura",
+        "credit_id": "66d099e30229c4941e789517",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2572717,
+        "known_for_department": "Acting",
+        "name": "Dillon Scott-Lewis",
+        "original_name": "Dillon Scott-Lewis",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "T",
+        "credit_id": "66d099f038adc2a72c0015d8",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1301330,
+        "known_for_department": "Production",
+        "name": "Jessica Ronane",
+        "original_name": "Jessica Ronane",
+        "popularity": 0.9026,
+        "profile_path": null,
+        "credit_id": "66d09adb98b5f591690fb7e6",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1194420,
+        "known_for_department": "Directing",
+        "name": "Jeremy Herrin",
+        "original_name": "Jeremy Herrin",
+        "popularity": 0.2949,
+        "profile_path": "/oid2a6ZLKEMEyOHZzjHA0j4HNR1.jpg",
+        "credit_id": "66d09a1d4c2f4ec787c09c36",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1897717,
+        "known_for_department": "Lighting",
+        "name": "James Farncombe",
+        "original_name": "James Farncombe",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "66d09a979e03eaf2d2157341",
+        "department": "Lighting",
+        "job": "Lighting Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2261898,
+        "known_for_department": "Sound",
+        "name": "Tom Gibbons",
+        "original_name": "Tom Gibbons",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "66d09ab9cae259a34278951c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2261895,
+        "known_for_department": "Art",
+        "name": "Bunny Christie",
+        "original_name": "Bunny Christie",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66d09a79b72e71fece0c062f",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1882339,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christina Cunningham",
+        "original_name": "Christina Cunningham",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "66d09a894d1c3e4c8996241f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1017009,
+        "known_for_department": "Sound",
+        "name": "Matthew Herbert",
+        "original_name": "Matthew Herbert",
+        "popularity": 0.1004,
+        "profile_path": "/yB02UVI932rFbzT6qRgNclzkXcC.jpg",
+        "credit_id": "66d09aa719a3aa3458b133d7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2412617,
+        "known_for_department": "Writing",
+        "name": "Duncan Macmillan",
+        "original_name": "Duncan Macmillan",
+        "popularity": 0.0889,
+        "profile_path": null,
+        "credit_id": "67688cf3ec271832605cd0b4",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

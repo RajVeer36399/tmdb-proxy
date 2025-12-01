@@ -1,0 +1,335 @@
+{
+  "adult": false,
+  "backdrop_path": "/sR4Dpt2T0Zo0U9fFj0pT2H1XiFn.jpg",
+  "belongs_to_collection": null,
+  "budget": 250000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 412471,
+  "imdb_id": "tt4951834",
+  "origin_country": [
+    "CA",
+    "IT"
+  ],
+  "original_language": "en",
+  "original_title": "Dark Silence",
+  "overview": "Craig moves with his daughter, Jennifer, into a new home after the death of his wife. It’s not long before the pair discover the house is haunted by a dark presence that wants to take over the child. One day Jennifer disappears and Craig must face a terrible truth in order to find his daughter.",
+  "popularity": 8.2787,
+  "poster_path": "/pBP8eWb66SGbWtDMAMYghrqrJId.jpg",
+  "production_companies": [
+    {
+      "id": 84174,
+      "logo_path": null,
+      "name": "Quizam Media",
+      "origin_country": ""
+    },
+    {
+      "id": 15303,
+      "logo_path": null,
+      "name": "Extreme Video Snc",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2016-10-14",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Kneel down to his will",
+  "title": "Dark Silence",
+  "video": false,
+  "vote_average": 3.9,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1036299,
+        "known_for_department": "Acting",
+        "name": "Aaron Stielstra",
+        "original_name": "Aaron Stielstra",
+        "popularity": 0.3343,
+        "profile_path": "/y87E6AwNzXAqqyr6T3cFKdOg3d7.jpg",
+        "cast_id": 3,
+        "character": "Craig",
+        "credit_id": "57bc6818c3a368227c006d83",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1093213,
+        "known_for_department": "Acting",
+        "name": "Désirée Giorgetti",
+        "original_name": "Désirée Giorgetti",
+        "popularity": 0.7003,
+        "profile_path": "/vDoGIUjB4472uMRtif1cQPGtMNU.jpg",
+        "cast_id": 4,
+        "character": "Susan",
+        "credit_id": "57bc6825c3a3682eac009cc5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1038306,
+        "known_for_department": "Acting",
+        "name": "David White",
+        "original_name": "David White",
+        "popularity": 0.5841,
+        "profile_path": "/aP41bhkZDp3NtRa9hBNeGgy5KCh.jpg",
+        "cast_id": 5,
+        "character": "The Blind King",
+        "credit_id": "57bc68309251412dae0061af",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1669508,
+        "known_for_department": "Acting",
+        "name": "Eleonora Marianelli",
+        "original_name": "Eleonora Marianelli",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Jennifer",
+        "credit_id": "57bc68619251412d550067e4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1669509,
+        "known_for_department": "Acting",
+        "name": "Sofia Pauly",
+        "original_name": "Sofia Pauly",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Helen",
+        "credit_id": "57bc686a9251410ed000dd44",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093206,
+        "known_for_department": "Writing",
+        "name": "Raffaele Picchio",
+        "original_name": "Raffaele Picchio",
+        "popularity": 0.0547,
+        "profile_path": null,
+        "credit_id": "57bc67f4c3a3682e2700a2b1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093206,
+        "known_for_department": "Writing",
+        "name": "Raffaele Picchio",
+        "original_name": "Raffaele Picchio",
+        "popularity": 0.0547,
+        "profile_path": null,
+        "credit_id": "57bc68009251412d230063bb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1669507,
+        "known_for_department": "Writing",
+        "name": "Lorenzo Paviano",
+        "original_name": "Lorenzo Paviano",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "57bc680b9251412dba006514",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1468073,
+        "known_for_department": "Production",
+        "name": "Russ Rossi",
+        "original_name": "Russ Rossi",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "584813cc92514119b30081cd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719312,
+        "known_for_department": "Writing",
+        "name": "Alberto Viavattene",
+        "original_name": "Alberto Viavattene",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "584813dec3a36814080072c7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 556954,
+        "known_for_department": "Production",
+        "name": "Luca Boni",
+        "original_name": "Luca Boni",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "584813f192514119bf0081c4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719313,
+        "known_for_department": "Editing",
+        "name": "Ryan De Sylvester",
+        "original_name": "Ryan De Sylvester",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5848140192514119b90084c5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093206,
+        "known_for_department": "Writing",
+        "name": "Raffaele Picchio",
+        "original_name": "Raffaele Picchio",
+        "popularity": 0.0547,
+        "profile_path": null,
+        "credit_id": "5848141492514119c2008650",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719314,
+        "known_for_department": "Camera",
+        "name": "Samuele Valente",
+        "original_name": "Samuele Valente",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "credit_id": "5848142592514119bc0083bd",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719315,
+        "known_for_department": "Camera",
+        "name": "Marco Dardari",
+        "original_name": "Marco Dardari",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5848143a92514119bc0083c4",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719316,
+        "known_for_department": "Sound",
+        "name": "Andrea Pasqualetti",
+        "original_name": "Andrea Pasqualetti",
+        "popularity": 0.1564,
+        "profile_path": null,
+        "credit_id": "5848144d92514119ad008447",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2465071,
+        "known_for_department": "Writing",
+        "name": "Riccardo De Flaviis",
+        "original_name": "Riccardo De Flaviis",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5dd92fc33faba00015fb9b23",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 556954,
+        "known_for_department": "Production",
+        "name": "Luca Boni",
+        "original_name": "Luca Boni",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "688011103855a70164245339",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5580705,
+        "known_for_department": "Production",
+        "name": "Marco Ristori",
+        "original_name": "Marco Ristori",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "688011406585bd4edbd999e3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719316,
+        "known_for_department": "Sound",
+        "name": "Andrea Pasqualetti",
+        "original_name": "Andrea Pasqualetti",
+        "popularity": 0.1564,
+        "profile_path": null,
+        "credit_id": "6880115b7e0188d5cb72d47d",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

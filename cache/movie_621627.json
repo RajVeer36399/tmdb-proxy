@@ -1,0 +1,289 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 621627,
+  "imdb_id": null,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "de",
+  "original_title": "Royal Opera House: Fidelio",
+  "overview": "Beethoven’s only opera is a masterpiece, an uplifting story of risk and triumph. In this new production, conducted by Antonio Pappano, Jonas Kaufmann plays the political prisoner Florestan, and Lise Davidsen his wife Leonore (disguised as ‘Fidelio’) who daringly sets out to rescue him. Set in strong counterpoint are the ingredients of domestic intrigue, determined love and the cruelty of an oppressive regime. The music is transcendent throughout and includes the famous Act I Quartet, the Prisoners’ Chorus and Florestan’s impassioned Act II cry in the darkness and vision of hope. Tobias Kratzer’s new staging brings together the dark reality of the French Revolutionary ‘Terror’ and our own time to illuminate Fidelio’s inspiring message of shared humanity.",
+  "popularity": 5.9094,
+  "poster_path": "/zrDau7WmLEJk3tbqoOXvEaYvEpR.jpg",
+  "production_companies": [
+    {
+      "id": 11514,
+      "logo_path": "/uC4LtXWXfuDleivpGYSOsl8veXN.png",
+      "name": "Royal Opera House",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2020-03-09",
+  "revenue": 0,
+  "runtime": 135,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fidelio at the Royal Opera House",
+  "title": "Royal Opera House: Fidelio",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1006158,
+        "known_for_department": "Acting",
+        "name": "Jonas Kaufmann",
+        "original_name": "Jonas Kaufmann",
+        "popularity": 0.5733,
+        "profile_path": "/phtOzy9kcTClC9mU7N6Mr2q1yFV.jpg",
+        "cast_id": 1,
+        "character": "Florestán",
+        "credit_id": "5d4bb8eb4dc34a00146295eb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1430108,
+        "known_for_department": "Acting",
+        "name": "Lise Davidsen",
+        "original_name": "Lise Davidsen",
+        "popularity": 0.1049,
+        "profile_path": "/swuH78pwTmLY2BOoQul9ubalvjS.jpg",
+        "cast_id": 2,
+        "character": "Leonore",
+        "credit_id": "5d4bb90cc68b6900130e6611",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1559109,
+        "known_for_department": "Acting",
+        "name": "Georg Zeppenfeld",
+        "original_name": "Georg Zeppenfeld",
+        "popularity": 0.0214,
+        "profile_path": "/k8Nd6GsmwGirrDUIK51aC0SNRQB.jpg",
+        "cast_id": 3,
+        "character": "Rocco",
+        "credit_id": "5d4bb9230021340015274583",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2381379,
+        "known_for_department": "Acting",
+        "name": "Simon Neal",
+        "original_name": "Simon Neal",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Don Pizarro",
+        "credit_id": "5d4bb9394dc34a0014629648",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1923787,
+        "known_for_department": "Acting",
+        "name": "Amanda Forsythe",
+        "original_name": "Amanda Forsythe",
+        "popularity": 0.0239,
+        "profile_path": "/wHBO3k1f1uY3CydfpKy4yArlzSc.jpg",
+        "cast_id": 5,
+        "character": "Marzelline",
+        "credit_id": "5d4bb94fc68b6900120e5aec",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2728036,
+        "known_for_department": "Acting",
+        "name": "Robin Tritschler",
+        "original_name": "Robin Tritschler",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Jaquino",
+        "credit_id": "5f247cf2dfaae900349ea135",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1742967,
+        "known_for_department": "Acting",
+        "name": "Egils Silins",
+        "original_name": "Egils Silins",
+        "popularity": 0.0387,
+        "profile_path": "/vHxhkCGvqUlwW7xBpnwWP2EC2sq.jpg",
+        "cast_id": 12,
+        "character": "Don Fernando",
+        "credit_id": "5f247cfef0647c0033225b6a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2728037,
+        "known_for_department": "Acting",
+        "name": "Filipe Manu",
+        "original_name": "Filipe Manu",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "First Prisoner",
+        "credit_id": "5f247d0adfaae900369e76ee",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2728038,
+        "known_for_department": "Acting",
+        "name": "ByeongMin Gil",
+        "original_name": "ByeongMin Gil",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Second Prisoner",
+        "credit_id": "5f247d136f31af0038994b95",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2922366,
+        "known_for_department": "Acting",
+        "name": "Orchestra of the Royal Opera House",
+        "original_name": "Orchestra of the Royal Opera House",
+        "popularity": 0.4441,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5ff577e1d38b580041cb722d",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564280,
+        "known_for_department": "Directing",
+        "name": "Tobias Kratzer",
+        "original_name": "Tobias Kratzer",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "609e80ba22f5d7006ff05ba7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629975,
+        "known_for_department": "Writing",
+        "name": "Joseph von Sonnleithner",
+        "original_name": "Joseph von Sonnleithner",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "609e80ebe18e3f00405224d8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564280,
+        "known_for_department": "Directing",
+        "name": "Tobias Kratzer",
+        "original_name": "Tobias Kratzer",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5d4bb9784dc34a0013627f12",
+        "department": "Directing",
+        "job": "Stage Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2381380,
+        "known_for_department": "Art",
+        "name": "Rainer Sellmaier",
+        "original_name": "Rainer Sellmaier",
+        "popularity": 0.083,
+        "profile_path": null,
+        "credit_id": "5d4bb9f300213400152746ce",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2381381,
+        "known_for_department": "Lighting",
+        "name": "Michael Bauer",
+        "original_name": "Michael Bauer",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5d4bba2100213400122746ab",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2381382,
+        "known_for_department": "Crew",
+        "name": "Bettina Bartz",
+        "original_name": "Bettina Bartz",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "5d4bba42c68b694baf0e57fa",
+        "department": "Crew",
+        "job": "Dramaturgy"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1006168,
+        "known_for_department": "Sound",
+        "name": "Antonio Pappano",
+        "original_name": "Antonio Pappano",
+        "popularity": 0.073,
+        "profile_path": "/sUQ9lJlOJVBXm1DtWaqNaxUyOIa.jpg",
+        "credit_id": "5d4bba550021340016274fd0",
+        "department": "Sound",
+        "job": "Conductor"
+      }
+    ]
+  }
+}

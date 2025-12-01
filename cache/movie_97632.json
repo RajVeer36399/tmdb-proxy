@@ -1,0 +1,387 @@
+{
+  "adult": false,
+  "backdrop_path": "/AXcfJ15igJ5UKQQM9fmsBrqHxA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 97632,
+  "imdb_id": "tt2175927",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Warships",
+  "overview": "When an alien force wages war on Earth, only the crew of the USS Iowa - the last American battleship, stands in their way.",
+  "popularity": 10.23,
+  "poster_path": "/2um206PiWGGckB6mXcXDNOlcO7b.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-05-15",
+  "revenue": 1000000,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "American Warships",
+  "video": false,
+  "vote_average": 3.5,
+  "vote_count": 63,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16214,
+        "known_for_department": "Acting",
+        "name": "Mario Van Peebles",
+        "original_name": "Mario Van Peebles",
+        "popularity": 0.6888,
+        "profile_path": "/fiExKjVttfePRwmfVvMHPjC7F9n.jpg",
+        "cast_id": 3,
+        "character": "Captain Winston",
+        "credit_id": "52fe49e89251416c750d74c3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1101,
+        "known_for_department": "Acting",
+        "name": "Carl Weathers",
+        "original_name": "Carl Weathers",
+        "popularity": 1.2309,
+        "profile_path": "/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg",
+        "cast_id": 4,
+        "character": "General McKraken",
+        "credit_id": "52fe49e89251416c750d74c7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 168931,
+        "known_for_department": "Acting",
+        "name": "Johanna Watts",
+        "original_name": "Johanna Watts",
+        "popularity": 0.4737,
+        "profile_path": "/jROKrkYslotkvrRlXjpUaKYxJvJ.jpg",
+        "cast_id": 5,
+        "character": "Lt. Caroline Bradley",
+        "credit_id": "52fe49e89251416c750d74cb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 206756,
+        "known_for_department": "Acting",
+        "name": "Nikki McCauley",
+        "original_name": "Nikki McCauley",
+        "popularity": 0.6683,
+        "profile_path": "/zEZSxiI2QKsYfo780CjQXnU0FSS.jpg",
+        "cast_id": 6,
+        "character": "Dr. Julia Flynn",
+        "credit_id": "52fe49e89251416c750d74cf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1021528,
+        "known_for_department": "Acting",
+        "name": "Devin McGee",
+        "original_name": "Devin McGee",
+        "popularity": 0.178,
+        "profile_path": "/9IQDr7P4IEClsgMnUEJhsmJyS7S.jpg",
+        "cast_id": 7,
+        "character": "Lt. Cmdr. Juarez",
+        "credit_id": "52fe49e89251416c750d74d3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001736,
+        "known_for_department": "Acting",
+        "name": "Mandela Van Peebles",
+        "original_name": "Mandela Van Peebles",
+        "popularity": 0.6198,
+        "profile_path": "/uwf0seONzZ3lRkj9mBAtEvSrEVZ.jpg",
+        "cast_id": 8,
+        "character": "Lookout Dunbar",
+        "credit_id": "52fe49e89251416c750d74d7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1021529,
+        "known_for_department": "Acting",
+        "name": "Chris Hayes",
+        "original_name": "Chris Hayes",
+        "popularity": 0.0722,
+        "profile_path": "/kpFFYFxb1dKRjRLfdEjKekYjAFr.jpg",
+        "cast_id": 9,
+        "character": "Lt. Anders",
+        "credit_id": "52fe49e89251416c750d74db",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1298267,
+        "known_for_department": "Acting",
+        "name": "Gray Hawks",
+        "original_name": "Gray Hawks",
+        "popularity": 0.1674,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Communications Officer Wexler",
+        "credit_id": "5ebdbcb56d675a001f7a4fba",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1479965,
+        "known_for_department": "Acting",
+        "name": "Rodney Roldan",
+        "original_name": "Rodney Roldan",
+        "popularity": 0.0928,
+        "profile_path": "/3HzZX34KOuAuRYF2VfK9g0tG2g9.jpg",
+        "cast_id": 11,
+        "character": "2nd Lookout",
+        "credit_id": "5ebdbcc31283e9001ecce167",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2242722,
+        "known_for_department": "Acting",
+        "name": "April Ezell Wilson",
+        "original_name": "April Ezell Wilson",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Dr. Erica Billman",
+        "credit_id": "5ebdbccf325a51001dc36027",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2638874,
+        "known_for_department": "Acting",
+        "name": "David Polinsky",
+        "original_name": "David Polinsky",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Admiral Hollis",
+        "credit_id": "5ebdbcdcbc8abc0022c2638e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1761534,
+        "known_for_department": "Acting",
+        "name": "Elijah Chester",
+        "original_name": "Elijah Chester",
+        "popularity": 0.0981,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Secretary Of Defense Alter",
+        "credit_id": "5ebdbcec15a4a1001c9cac04",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102389,
+        "known_for_department": "Writing",
+        "name": "Thunder Levin",
+        "original_name": "Thunder Levin",
+        "popularity": 0.2788,
+        "profile_path": null,
+        "credit_id": "52fe49e89251416c750d74b9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102389,
+        "known_for_department": "Writing",
+        "name": "Thunder Levin",
+        "original_name": "Thunder Levin",
+        "popularity": 0.2788,
+        "profile_path": null,
+        "credit_id": "52fe49e89251416c750d74bf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 113779,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Valerie K. Garcia",
+        "original_name": "Valerie K. Garcia",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "5ebdbd8b1283e90020cc0d07",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30053,
+        "known_for_department": "Production",
+        "name": "David Michael Latt",
+        "original_name": "David Michael Latt",
+        "popularity": 0.147,
+        "profile_path": "/cBkmGgFkGFFyyE6aWDYovvaHL0g.jpg",
+        "credit_id": "5ebdbd0b076ce800217785ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1079561,
+        "known_for_department": "Editing",
+        "name": "Karl Armstrong",
+        "original_name": "Karl Armstrong",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "credit_id": "5ebdbd378586780021e5828a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2638877,
+        "known_for_department": "Art",
+        "name": "Matt Payne",
+        "original_name": "Matt Payne",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5ebdbd611283e90020cc0ce9",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128763,
+        "known_for_department": "Sound",
+        "name": "Chris Ridenhour",
+        "original_name": "Chris Ridenhour",
+        "popularity": 0.9868,
+        "profile_path": "/7tDpp0CuTMr6EV03oCDZvJW4s9b.jpg",
+        "credit_id": "5ebdbd1fbc8abc0022c26443",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236844,
+        "known_for_department": "Production",
+        "name": "David Rimawi",
+        "original_name": "David Rimawi",
+        "popularity": 0.0952,
+        "profile_path": "/uGrN7upcJHt4qEx6H89qKWS1dmI.jpg",
+        "credit_id": "5ebdbd15076ce80020762d3c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043649,
+        "known_for_department": "Camera",
+        "name": "Stuart Brereton",
+        "original_name": "Stuart Brereton",
+        "popularity": 0.1242,
+        "profile_path": null,
+        "credit_id": "5ebdbd273d3557001edea8df",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2318729,
+        "known_for_department": "Production",
+        "name": "Ashley Crist",
+        "original_name": "Ashley Crist",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5ebdbd80c50ad20024878e89",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2638875,
+        "known_for_department": "Art",
+        "name": "Cathy Meriam",
+        "original_name": "Cathy Meriam",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5ebdbd40325a51001cc358d8",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  }
+}

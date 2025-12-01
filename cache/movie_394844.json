@@ -1,0 +1,319 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 394844,
+  "imdb_id": "tt0112358",
+  "origin_country": [
+    "HR"
+  ],
+  "original_language": "hr",
+  "original_title": "Anđele moj dragi",
+  "overview": "Dramatic tale of 7 year old Jerko who witnesses the destruction of family and village in 1991 during a Serbian attack of a peaceful Croatian village. He manages to escape and ends up in a war orphanage.",
+  "popularity": 5.4761,
+  "poster_path": "/2g60ce6n8wKzW5yT6mmAZl0wOFt.jpg",
+  "production_companies": [
+    {
+      "id": 66076,
+      "logo_path": null,
+      "name": "Korugva",
+      "origin_country": "HR"
+    },
+    {
+      "id": 20915,
+      "logo_path": "/g0ZgDi0m0RubOnoUFYaHsa8M5To.png",
+      "name": "Hrvatska Radiotelevizija",
+      "origin_country": "HR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HR",
+      "name": "Croatia"
+    }
+  ],
+  "release_date": "1996-11-04",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "My Dear Angel",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1611726,
+        "known_for_department": "Acting",
+        "name": "Milan Grabovac",
+        "original_name": "Milan Grabovac",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Jerko",
+        "credit_id": "5720e382925141422e0003ce",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349418,
+        "known_for_department": "Acting",
+        "name": "Dubravka Ostojić",
+        "original_name": "Dubravka Ostojić",
+        "popularity": 0.0731,
+        "profile_path": "/yO1gobeiIJdvbZEMbNIkPGZg5HL.jpg",
+        "cast_id": 3,
+        "character": "Jerkova majka Ika",
+        "credit_id": "5720e390c3a368118e0003de",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1156502,
+        "known_for_department": "Acting",
+        "name": "Matko Raguž",
+        "original_name": "Matko Raguž",
+        "popularity": 0.3491,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Jerkov otac Mato",
+        "credit_id": "5720e39ec3a368117a000435",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1611727,
+        "known_for_department": "Acting",
+        "name": "Silvia Fink",
+        "original_name": "Silvia Fink",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Michaela",
+        "credit_id": "5720e3aec3a368117e000466",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 256725,
+        "known_for_department": "Acting",
+        "name": "Ivo Gregurević",
+        "original_name": "Ivo Gregurević",
+        "popularity": 0.2147,
+        "profile_path": "/3OdYvAaLiuNN6UCMvMb28zTDrpu.jpg",
+        "cast_id": 6,
+        "character": "Jozo",
+        "credit_id": "598a11b09251414bac01bd01",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1866198,
+        "known_for_department": "Acting",
+        "name": "Sunčana Zelenika",
+        "original_name": "Sunčana Zelenika",
+        "popularity": 0.0481,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Bernarda",
+        "credit_id": "598a11c1c3a36824e200ce5e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1209550,
+        "known_for_department": "Acting",
+        "name": "Vjekoslav Janković",
+        "original_name": "Vjekoslav Janković",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Gardist Vjeko",
+        "credit_id": "598a11cac3a368755f01c44d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1520707,
+        "known_for_department": "Acting",
+        "name": "Iva Marjanović",
+        "original_name": "Iva Marjanović",
+        "popularity": 0.0818,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Jerkova baka",
+        "credit_id": "598a11d4c3a36875260179df",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192880,
+        "known_for_department": "Acting",
+        "name": "Damir Lončar",
+        "original_name": "Damir Lončar",
+        "popularity": 0.1911,
+        "profile_path": "/slhg7iNiBkgbuBV83xUau1urAB7.jpg",
+        "cast_id": 10,
+        "character": "Srpski časnik",
+        "credit_id": "598a11e09251414bb401b287",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1314550,
+        "known_for_department": "Acting",
+        "name": "Nada Abruš",
+        "original_name": "Nada Abruš",
+        "popularity": 0.0805,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Liječnica",
+        "credit_id": "598a11ea9251414bdd01a8eb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1206350,
+        "known_for_department": "Acting",
+        "name": "Inge Appelt",
+        "original_name": "Inge Appelt",
+        "popularity": 0.5201,
+        "profile_path": "/qcTgHEjQYZM589b4hbkjrAevlyC.jpg",
+        "cast_id": 12,
+        "character": "Gardistova majka",
+        "credit_id": "598a11f59251414bb401b2a3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1866199,
+        "known_for_department": "Acting",
+        "name": "Marija Geml",
+        "original_name": "Marija Geml",
+        "popularity": 0.0732,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Gardistova baka",
+        "credit_id": "598a1200c3a36874ff018c97",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1579672,
+        "known_for_department": "Acting",
+        "name": "Zoran Pokupec",
+        "original_name": "Zoran Pokupec",
+        "popularity": 0.0626,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Europski promatrač #1",
+        "credit_id": "598a121ac3a36824e200ceb0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1866201,
+        "known_for_department": "Acting",
+        "name": "Bruno Nacinovich",
+        "original_name": "Bruno Nacinovich",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Europski promatrač #2",
+        "credit_id": "598a12259251414bdd01a934",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1866202,
+        "known_for_department": "Acting",
+        "name": "Giulio Marini",
+        "original_name": "Giulio Marini",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Europski promatrač #3",
+        "credit_id": "598a12339251416b50018b8b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1496481,
+        "known_for_department": "Acting",
+        "name": "Sandra Lončarić",
+        "original_name": "Sandra Lončarić",
+        "popularity": 0.1412,
+        "profile_path": "/A2a8jMV65vRHiZC0jHteSE4wJIz.jpg",
+        "cast_id": 18,
+        "character": "Redovnica",
+        "credit_id": "5a20f31b0e0a264cd009ea9b",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1314598,
+        "known_for_department": "Directing",
+        "name": "Tomislav Radić",
+        "original_name": "Tomislav Radić",
+        "popularity": 0.5022,
+        "profile_path": null,
+        "credit_id": "5720e345c3a368119300038f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1314598,
+        "known_for_department": "Directing",
+        "name": "Tomislav Radić",
+        "original_name": "Tomislav Radić",
+        "popularity": 0.5022,
+        "profile_path": null,
+        "credit_id": "5720e34bc3a368117e000458",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

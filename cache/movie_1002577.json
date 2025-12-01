@@ -1,0 +1,392 @@
+{
+  "adult": false,
+  "backdrop_path": "/dky9v3e7evYgvMhWlT5Q2RoiHai.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1002577,
+  "imdb_id": "tt15410936",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Love Crime",
+  "overview": "Jodi struggles with her inner demons and a destructive obsession toward her boyfriend Travis which leads to a horrific conclusion. Based on a true crime story.",
+  "popularity": 3.7457,
+  "poster_path": "/uKqB8gTFCpsNCpEK0J9RQUVyiVT.jpg",
+  "production_companies": [
+    {
+      "id": 136676,
+      "logo_path": null,
+      "name": "CineRidge Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2513,
+      "logo_path": null,
+      "name": "Cinema Epoch",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-04-29",
+  "revenue": 0,
+  "runtime": 66,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Crime",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1199285,
+        "known_for_department": "Acting",
+        "name": "Nicole D'Angelo",
+        "original_name": "Nicole D'Angelo",
+        "popularity": 0.7838,
+        "profile_path": "/60axsT8mND8i42NLcMhKgWEanjC.jpg",
+        "cast_id": 2,
+        "character": "Jodi",
+        "credit_id": "62d98c358258fc07d66d1e9c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 144496,
+        "known_for_department": "Production",
+        "name": "Shane Ryan-Reid",
+        "original_name": "Shane Ryan-Reid",
+        "popularity": 0.1404,
+        "profile_path": "/45hLioopDxwZBKpOHZFbIhy94mt.jpg",
+        "cast_id": 3,
+        "character": "Travis",
+        "credit_id": "62d98c5835818f04d24f7b81",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60152,
+        "known_for_department": "Acting",
+        "name": "Lisa London",
+        "original_name": "Lisa London",
+        "popularity": 0.537,
+        "profile_path": "/usx86aa47muVpEDZv48foShbhrW.jpg",
+        "cast_id": 4,
+        "character": "Detective Mace",
+        "credit_id": "62d98c778258fc07d7175a5c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1561127,
+        "known_for_department": "Acting",
+        "name": "Sam Dobbins",
+        "original_name": "Sam Dobbins",
+        "popularity": 0.6303,
+        "profile_path": "/3z9DDMs02DziHWgUczoONgXzufA.jpg",
+        "cast_id": 5,
+        "character": "Detective Ross",
+        "credit_id": "62d98cdb8258fc07d8b65f78",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2325759,
+        "known_for_department": "Production",
+        "name": "Louis DeStefano",
+        "original_name": "Louis DeStefano",
+        "popularity": 0.0958,
+        "profile_path": "/z8VmCS0Q46nvIArQU0to1cmCtJE.jpg",
+        "cast_id": 7,
+        "character": "Rick",
+        "credit_id": "630779abb7d3520083aa202d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2731556,
+        "known_for_department": "Acting",
+        "name": "Shoko Rice",
+        "original_name": "Shoko Rice",
+        "popularity": 0.1867,
+        "profile_path": "/a8WvAhisIOGlCrquXXxFFfGSVEO.jpg",
+        "cast_id": 8,
+        "character": "Lily",
+        "credit_id": "630779d318864b0080e38ffd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3334499,
+        "known_for_department": "Acting",
+        "name": "Raven Miles",
+        "original_name": "Raven Miles",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Lauren",
+        "credit_id": "63077a4b65c26c0082547df2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2471804,
+        "known_for_department": "Acting",
+        "name": "Linda S. Wong",
+        "original_name": "Linda S. Wong",
+        "popularity": 0.0706,
+        "profile_path": "/seQIf2fEMXZTteIGXLe8XPXeSh6.jpg",
+        "cast_id": 10,
+        "character": "Defense Attorney",
+        "credit_id": "63077a8b3dd12600839d6ac0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2630651,
+        "known_for_department": "Acting",
+        "name": "Johnny Avila",
+        "original_name": "Johnny Avila",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Prosecutor",
+        "credit_id": "63077aa065c26c007fe564bb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1286710,
+        "known_for_department": "Acting",
+        "name": "Johnny Mask",
+        "original_name": "Johnny Mask",
+        "popularity": 0.6835,
+        "profile_path": "/aA0iQtqgkzDWdfszvs6bVtNF4oF.jpg",
+        "cast_id": 12,
+        "character": "Judge",
+        "credit_id": "63077acfa2750200923bede2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3334503,
+        "known_for_department": "Acting",
+        "name": "Frank Paras Jr.",
+        "original_name": "Frank Paras Jr.",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Nelson",
+        "credit_id": "63077b20b042280082ea2dd4",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 144496,
+        "known_for_department": "Production",
+        "name": "Shane Ryan-Reid",
+        "original_name": "Shane Ryan-Reid",
+        "popularity": 0.1404,
+        "profile_path": "/45hLioopDxwZBKpOHZFbIhy94mt.jpg",
+        "credit_id": "64d8b9a0d100b600c5d1dd64",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1199285,
+        "known_for_department": "Acting",
+        "name": "Nicole D'Angelo",
+        "original_name": "Nicole D'Angelo",
+        "popularity": 0.7838,
+        "profile_path": "/60axsT8mND8i42NLcMhKgWEanjC.jpg",
+        "credit_id": "62d98c24cb5c8e012c9aa806",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1733936,
+        "known_for_department": "Writing",
+        "name": "Jamie Grefe",
+        "original_name": "Jamie Grefe",
+        "popularity": 0.1051,
+        "profile_path": "/rRJGFenP6hoJsUnXeL9COayjLae.jpg",
+        "credit_id": "630779190398ab007d7609ba",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2700166,
+        "known_for_department": "Production",
+        "name": "Kelley Daniel",
+        "original_name": "Kelley Daniel",
+        "popularity": 0.1009,
+        "profile_path": null,
+        "credit_id": "6339e44f175051007c4190a1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3580001,
+        "known_for_department": "Acting",
+        "name": "Brett C. Persson",
+        "original_name": "Brett C. Persson",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "6339e47123bcf4007abbedaa",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213357,
+        "known_for_department": "Production",
+        "name": "Gregory Hatanaka",
+        "original_name": "Gregory Hatanaka",
+        "popularity": 0.2611,
+        "profile_path": "/w0YBj3TTEid5q2BZ6cwQLI2bQeq.jpg",
+        "credit_id": "6339e44687f3f20082870f39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1199285,
+        "known_for_department": "Acting",
+        "name": "Nicole D'Angelo",
+        "original_name": "Nicole D'Angelo",
+        "popularity": 0.7838,
+        "profile_path": "/60axsT8mND8i42NLcMhKgWEanjC.jpg",
+        "credit_id": "6339e4574f33ad0085ace115",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 210849,
+        "known_for_department": "Acting",
+        "name": "Chris Spinelli",
+        "original_name": "Chris Spinelli",
+        "popularity": 0.7147,
+        "profile_path": "/r8fBUNXZp4ffG5SIZcyjSjM0eRS.jpg",
+        "credit_id": "6339e464960cde007fc823b2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1704734,
+        "known_for_department": "Acting",
+        "name": "Benny Tjandra",
+        "original_name": "Benny Tjandra",
+        "popularity": 0.5821,
+        "profile_path": "/q5ls8yFudTn5N5LJnnNqDW3EjFh.jpg",
+        "credit_id": "6339e481c2ff3d007ad58e28",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2213556,
+        "known_for_department": "Editing",
+        "name": "Michael Tang",
+        "original_name": "Michael Tang",
+        "popularity": 0.0717,
+        "profile_path": null,
+        "credit_id": "6339e4ab2cefc20082cf5852",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213357,
+        "known_for_department": "Production",
+        "name": "Gregory Hatanaka",
+        "original_name": "Gregory Hatanaka",
+        "popularity": 0.2611,
+        "profile_path": "/w0YBj3TTEid5q2BZ6cwQLI2bQeq.jpg",
+        "credit_id": "6339e48a42d837007d5b31f4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 995468,
+        "known_for_department": "Sound",
+        "name": "Maui Holcomb",
+        "original_name": "Maui Holcomb",
+        "popularity": 0.1708,
+        "profile_path": "/5ip4197iq6pfxmao6xsdSeDBEb3.jpg",
+        "credit_id": "6339e4a32b113d0082d94363",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2471804,
+        "known_for_department": "Acting",
+        "name": "Linda S. Wong",
+        "original_name": "Linda S. Wong",
+        "popularity": 0.0706,
+        "profile_path": "/seQIf2fEMXZTteIGXLe8XPXeSh6.jpg",
+        "credit_id": "6339e49b4cbe120079a26657",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  }
+}

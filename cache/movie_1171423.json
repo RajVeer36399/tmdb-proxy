@@ -1,0 +1,508 @@
+{
+  "adult": false,
+  "backdrop_path": "/9soME6xONQnG0gVo0qgNjSp3gJZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "https://www.peacocktv.com/watch-online/movies/lego-jurassic-park-the-unofficial-retelling/fbcdb901-9694-34e0-9688-891fd9a824e1",
+  "id": 1171423,
+  "imdb_id": "tt29380429",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "LEGO Jurassic Park: The Unofficial Retelling",
+  "overview": "After finding his journal, Chaos Mathematician Dr. Ian Malcolm recalls the mishaps and mayhem from 30 years ago about the island amusement park filled with prehistoric dinosaurs who escape and run amok...",
+  "popularity": 6.8137,
+  "poster_path": "/xSq8TrEqz8NRyWJSviteKE1t249.jpg",
+  "production_companies": [
+    {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    },
+    {
+      "id": 33,
+      "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-10",
+  "revenue": 0,
+  "runtime": 22,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "That is one big pile of bricks.",
+  "title": "LEGO Jurassic Park: The Unofficial Retelling",
+  "video": false,
+  "vote_average": 6.833,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1154275,
+        "known_for_department": "Acting",
+        "name": "Bradley Duffy",
+        "original_name": "Bradley Duffy",
+        "popularity": 0.0982,
+        "profile_path": "/tBLY7lluvQEhXWEjUphNBZ6oEfF.jpg",
+        "cast_id": 9,
+        "character": "Ian Malcom / Lawyer / Scientist (voice)",
+        "credit_id": "652591b6ea84c7012d6d58d4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72092,
+        "known_for_department": "Acting",
+        "name": "Jewel Staite",
+        "original_name": "Jewel Staite",
+        "popularity": 2.0428,
+        "profile_path": "/ztxDIZvuPreUixO6ZPxwkCg2UlO.jpg",
+        "cast_id": 10,
+        "character": "Ellie Sattler (voice)",
+        "credit_id": "652591d3629b2c00ac5e5a19",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37698,
+        "known_for_department": "Acting",
+        "name": "Mackenzie Gray",
+        "original_name": "Mackenzie Gray",
+        "popularity": 0.8762,
+        "profile_path": "/yGU7RTVvI9fR9BpCt5TePYOpx7W.jpg",
+        "cast_id": 11,
+        "character": "John Hammond (voice)",
+        "credit_id": "652591ec3a4a1201006a5c93",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11828,
+        "known_for_department": "Acting",
+        "name": "Adrian Hough",
+        "original_name": "Adrian Hough",
+        "popularity": 0.8446,
+        "profile_path": "/58REQAaSAbiAnCptqrhx6bDhTQc.jpg",
+        "cast_id": 12,
+        "character": "Alan Grant (voice)",
+        "credit_id": "652591f9447f9c00e3f6e706",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1599433,
+        "known_for_department": "Acting",
+        "name": "Ian Hanlin",
+        "original_name": "Ian Hanlin",
+        "popularity": 0.5533,
+        "profile_path": "/o7uOuKMH7FN3kUnvfGW7LAdcZaz.jpg",
+        "cast_id": 13,
+        "character": "Robert Muldoon / Mr. DNA (voice)",
+        "credit_id": "6525920fd399e600c6769c11",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368783,
+        "known_for_department": "Acting",
+        "name": "Alex Barima",
+        "original_name": "Alex Barima",
+        "popularity": 0.6757,
+        "profile_path": "/7J2tCCoSaemBiEwljev6U9oTx6p.jpg",
+        "cast_id": 14,
+        "character": "Ray Arnold (voice)",
+        "credit_id": "6525921dfd630000ffccecde",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3294169,
+        "known_for_department": "Acting",
+        "name": "William Kuklis",
+        "original_name": "William Kuklis",
+        "popularity": 0.0311,
+        "profile_path": "/wWS6t4NZqFRIlCHPFrmAvMtrxCi.jpg",
+        "cast_id": 15,
+        "character": "Dennis Nedry (voice)",
+        "credit_id": "652592333a4a1201006a5cb3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4314981,
+        "known_for_department": "Acting",
+        "name": "Ayla Rose Evans",
+        "original_name": "Ayla Rose Evans",
+        "popularity": 0.0582,
+        "profile_path": "/haKHdQpCLUVi491mGri1VFo8RGD.jpg",
+        "cast_id": 16,
+        "character": "Lex Murphy (voice)",
+        "credit_id": "6525924b07216645b91a8194",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2324819,
+        "known_for_department": "Acting",
+        "name": "Dominic Good",
+        "original_name": "Dominic Good",
+        "popularity": 0.0957,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Tim Murphy (voice)",
+        "credit_id": "6525925e07216645b91a819b",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2741073,
+        "known_for_department": "Directing",
+        "name": "Ken Cunningham",
+        "original_name": "Ken Cunningham",
+        "popularity": 0.8236,
+        "profile_path": "/8e2qCGzpDXvAsLdPpzrUyDamyqD.jpg",
+        "credit_id": "65255f73629b2c0139a6e662",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3222796,
+        "known_for_department": "Production",
+        "name": "Dylan Innes",
+        "original_name": "Dylan Innes",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "652593503a4a12011d21c5e4",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1093160,
+        "known_for_department": "Production",
+        "name": "Jennifer Twiner McCarron",
+        "original_name": "Jennifer Twiner McCarron",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "credit_id": "6525915807216645b6da95d1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3432746,
+        "known_for_department": "Production",
+        "name": "Peter Morry",
+        "original_name": "Peter Morry",
+        "popularity": 0.0722,
+        "profile_path": null,
+        "credit_id": "652592df07216645b91a81c6",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110643,
+        "known_for_department": "Production",
+        "name": "Jill Wilfert",
+        "original_name": "Jill Wilfert",
+        "popularity": 0.0733,
+        "profile_path": null,
+        "credit_id": "65259131ca7ec600ada69f44",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674791,
+        "known_for_department": "Writing",
+        "name": "Jeremy Adams",
+        "original_name": "Jeremy Adams",
+        "popularity": 0.7469,
+        "profile_path": null,
+        "credit_id": "652590e63a4a1200e3ec1724",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2186894,
+        "known_for_department": "Sound",
+        "name": "James Corrigall",
+        "original_name": "James Corrigall",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "652592780cb33516fd472b74",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4314996,
+        "known_for_department": "Production",
+        "name": "Tyler Woll",
+        "original_name": "Tyler Woll",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "652593753a4a1200addb248c",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4315002,
+        "known_for_department": "Production",
+        "name": "Mairin Macdonald",
+        "original_name": "Mairin Macdonald",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "652593d8629b2c00c59c4edc",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2186890,
+        "known_for_department": "Production",
+        "name": "Steven L. Grover",
+        "original_name": "Steven L. Grover",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "6525916dca7ec600c6e135fd",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2186972,
+        "known_for_department": "Crew",
+        "name": "Troy Sitter",
+        "original_name": "Troy Sitter",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "6525944a447f9c00ad7158fa",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1289421,
+        "known_for_department": "Production",
+        "name": "Keith Malone",
+        "original_name": "Keith Malone",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "6525914307216645b8bfaebc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2860125,
+        "known_for_department": "Production",
+        "name": "Dan Langlois",
+        "original_name": "Dan Langlois",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6525917fcedac400ace3caf3",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2186894,
+        "known_for_department": "Sound",
+        "name": "James Corrigall",
+        "original_name": "James Corrigall",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65259283629b2c00c59c4e53",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2913771,
+        "known_for_department": "Camera",
+        "name": "Chase Ashbaugh",
+        "original_name": "Chase Ashbaugh",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "652593383a4a1201006a5d0a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4315001,
+        "known_for_department": "Production",
+        "name": "Carrie Kiesewetter",
+        "original_name": "Carrie Kiesewetter",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "652593bbfd63000139e58595",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1535346,
+        "known_for_department": "Production",
+        "name": "Jason Cosler",
+        "original_name": "Jason Cosler",
+        "popularity": 0.1209,
+        "profile_path": null,
+        "credit_id": "652590fffd630000c56a397c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327912,
+        "known_for_department": "Art",
+        "name": "Kevin Chai",
+        "original_name": "Kevin Chai",
+        "popularity": 0.1962,
+        "profile_path": null,
+        "credit_id": "652592ab447f9c010048b5c1",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3256648,
+        "known_for_department": "Editing",
+        "name": "Damon Fulford",
+        "original_name": "Damon Fulford",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "652592ef447f9c00c6bd24a0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4320372,
+        "known_for_department": "Production",
+        "name": "Alex Harrison",
+        "original_name": "Alex Harrison",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "652ac3d1ea84c700aef27aa9",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2087770,
+        "known_for_department": "Sound",
+        "name": "Steffan Andrews",
+        "original_name": "Steffan Andrews",
+        "popularity": 0.0686,
+        "profile_path": null,
+        "credit_id": "652ac3750cb33516f882fd6b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4320381,
+        "known_for_department": "Production",
+        "name": "Brandon Tuck",
+        "original_name": "Brandon Tuck",
+        "popularity": 0.0522,
+        "profile_path": null,
+        "credit_id": "652ac56f358da700c6f10ce9",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4320373,
+        "known_for_department": "Production",
+        "name": "Mark MacKay",
+        "original_name": "Mark MacKay",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "652ac431f2883802a00a487c",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  }
+}

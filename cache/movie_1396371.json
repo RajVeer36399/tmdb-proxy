@@ -1,0 +1,306 @@
+{
+  "adult": false,
+  "backdrop_path": "/d8rFsRuL5uDmlPg9gTBpe2pwCyw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1396371,
+  "imdb_id": "tt34865331",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_title": "Les irresponsables",
+  "overview": "Núria, Lila and Andrea are preparing to spend a weekend together, out of town, in a smart, luxurious house full of works of art that a friend of Núria's has left her. Their WhatsApp group is ablaze with good intentions, but the reality is that the three of them are too lazy...Everything changes when an innocent question pushes them to break free and let their impulses take over.",
+  "popularity": 27.235,
+  "poster_path": "/kq48E5i40mGlIZU2pc5Q4E9jEAs.jpg",
+  "production_companies": [
+    {
+      "id": 7543,
+      "logo_path": "/sPBVpVQf44rVP65TVTFgsn9ZVwE.png",
+      "name": "Arcadia Motion Pictures",
+      "origin_country": "ES"
+    },
+    {
+      "id": 10069,
+      "logo_path": null,
+      "name": "Afrodita Audiovisual, A.I.E.",
+      "origin_country": ""
+    },
+    {
+      "id": 211922,
+      "logo_path": "/jXI0xZEJabWaYtfqWxXyKuJJxzX.png",
+      "name": "3Cat",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-07-24",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How far would you go to help a friend?",
+  "title": "Les irresponsables",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16974,
+        "known_for_department": "Acting",
+        "name": "Laia Marull",
+        "original_name": "Laia Marull",
+        "popularity": 0.2535,
+        "profile_path": "/9UCGtbwtrgXuQSgznmXvVgKIEmQ.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "674da12cebb92e4a7e048003",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1621789,
+        "known_for_department": "Acting",
+        "name": "Betsy Túrnez",
+        "original_name": "Betsy Túrnez",
+        "popularity": 0.6674,
+        "profile_path": "/oLrguHu0Er29T8QyhZ2R0mCGSQ0.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "674da136ebb92e4a7e048014",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1032556,
+        "known_for_department": "Acting",
+        "name": "Àgata Roca",
+        "original_name": "Àgata Roca",
+        "popularity": 0.1816,
+        "profile_path": "/2Mc7AyIrr8hhhxLhTYRsJF7jM4S.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "674da13e75cd01706a7ce677",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560254,
+        "known_for_department": "Acting",
+        "name": "Jordi Sánchez",
+        "original_name": "Jordi Sánchez",
+        "popularity": 0.7078,
+        "profile_path": "/mNB7etSWQng4c4AyycnNb5HC7a6.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "674da155ebb92e4a7e048035",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5094775,
+        "known_for_department": "Acting",
+        "name": "Rut Llopis",
+        "original_name": "Rut Llopis",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "674da15debb92e4a7e048049",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1283862,
+        "known_for_department": "Acting",
+        "name": "Berto Romero",
+        "original_name": "Berto Romero",
+        "popularity": 0.273,
+        "profile_path": "/7HEPcRtF8G77K4zepmSdPuNy9CP.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "674da165f313bac2f7a976ed",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1156976,
+        "known_for_department": "Acting",
+        "name": "Joan Manuel Gurillo",
+        "original_name": "Joan Manuel Gurillo",
+        "popularity": 0.1176,
+        "profile_path": "/mzPE6yXUjJxVgIsA9MVORtrTjlq.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "688b4bce433f5b35ad2a5e72",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23676,
+        "known_for_department": "Acting",
+        "name": "Eric Bonicatto",
+        "original_name": "Eric Bonicatto",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "688b4bda2c09e1830dad2a89",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 133526,
+        "known_for_department": "Directing",
+        "name": "Laura Mañá",
+        "original_name": "Laura Mañá",
+        "popularity": 0.6835,
+        "profile_path": "/8pk6C12ceYhWh1vwgiYOb3X6MYH.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "688b4bf288d6fe6f5aad2b59",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3302975,
+        "known_for_department": "Acting",
+        "name": "Mauro Vélez Díaz",
+        "original_name": "Mauro Vélez Díaz",
+        "popularity": 0.0377,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "688b4c1633c5cbc36f767efc",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 133526,
+        "known_for_department": "Directing",
+        "name": "Laura Mañá",
+        "original_name": "Laura Mañá",
+        "popularity": 0.6835,
+        "profile_path": "/8pk6C12ceYhWh1vwgiYOb3X6MYH.jpg",
+        "credit_id": "674da0f7ddab5156126337d6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2766371,
+        "known_for_department": "Writing",
+        "name": "Javier Daulte",
+        "original_name": "Javier Daulte",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "674ed5931222adbb63df1494",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 133526,
+        "known_for_department": "Directing",
+        "name": "Laura Mañá",
+        "original_name": "Laura Mañá",
+        "popularity": 0.6835,
+        "profile_path": "/8pk6C12ceYhWh1vwgiYOb3X6MYH.jpg",
+        "credit_id": "674ed59bd27dcf00523f3fe0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1541697,
+        "known_for_department": "Writing",
+        "name": "Marta Buchaca",
+        "original_name": "Marta Buchaca",
+        "popularity": 0.2946,
+        "profile_path": null,
+        "credit_id": "674ed5a31222adbb63df1499",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 69412,
+        "known_for_department": "Sound",
+        "name": "Xavier Capellas",
+        "original_name": "Xavier Capellas",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "67fa9b277b43bdce20aed100",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3538412,
+        "known_for_department": "Editing",
+        "name": "Ana Benzal",
+        "original_name": "Ana Benzal",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "67fa9b361bc639566adab410",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092539,
+        "known_for_department": "Camera",
+        "name": "Sergi Gallardo",
+        "original_name": "Sergi Gallardo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "688b4c3041a6fb643e9489fc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

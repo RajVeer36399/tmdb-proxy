@@ -1,0 +1,225 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1458686,
+  "imdb_id": null,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il presente",
+  "overview": "Stella, a former film star now in decline, proposes a surrogate pregnancy with Monica to her son Giovanni and his husband, Jonathan. Stella hides behind this proposal the plan to make a comeback.",
+  "popularity": 6.1211,
+  "poster_path": "/i1WYWjlqUQH99NNCT8dHLnshXX2.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-04-13",
+  "revenue": 0,
+  "runtime": 13,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Gift",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2864040,
+        "known_for_department": "Acting",
+        "name": "Massimiliano Caiazzo",
+        "original_name": "Massimiliano Caiazzo",
+        "popularity": 0.5665,
+        "profile_path": "/8PSa1mIEOtgamzQEYNireuKADlp.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "67eeabc71d1ccf5f4f62b51d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1901421,
+        "known_for_department": "Acting",
+        "name": "Barbara Chichiarelli",
+        "original_name": "Barbara Chichiarelli",
+        "popularity": 1.0273,
+        "profile_path": "/hTaARRojE5OQjivkQTzTx3xHSwz.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "67eeabd0cf06190cbae1bc11",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68166,
+        "known_for_department": "Acting",
+        "name": "Iaia Forte",
+        "original_name": "Iaia Forte",
+        "popularity": 1.3121,
+        "profile_path": "/xJPwCODM1Onk0iSeffseIpUBe0k.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "67eeabd94909e25b07a7ae74",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2544804,
+        "known_for_department": "Acting",
+        "name": "Alberto Boubakar Malanchino",
+        "original_name": "Alberto Boubakar Malanchino",
+        "popularity": 0.5816,
+        "profile_path": "/8ANRNv7UnIO4Qh44cfJtE8oinYB.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "67eeabe04909e25b07a7ae78",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2650703,
+        "known_for_department": "Writing",
+        "name": "Francesca Romana Zanni",
+        "original_name": "Francesca Zanni",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "67eeab584680f26bf3a7bbb8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2650703,
+        "known_for_department": "Writing",
+        "name": "Francesca Romana Zanni",
+        "original_name": "Francesca Zanni",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "67eeab694909e25b07a7ae35",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2572532,
+        "known_for_department": "Writing",
+        "name": "Armando Maria Trotta",
+        "original_name": "Armando Maria Trotta",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "67eeab7503540cf8e562c3dc",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2863189,
+        "known_for_department": "Editing",
+        "name": "Marco Signoretti",
+        "original_name": "Marco Signoretti",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67eeab8115f6ba86f1e1a62a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1530093,
+        "known_for_department": "Camera",
+        "name": "Edoardo Carlo Bolli",
+        "original_name": "Edoardo Carlo Bolli",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67eeab8c9c68504cf262a7e8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2805328,
+        "known_for_department": "Crew",
+        "name": "Paolo Tepatti",
+        "original_name": "Paolo Tepatti",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67eeab9815f6ba86f1e1a642",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3262017,
+        "known_for_department": "Sound",
+        "name": "Andrea Sileo",
+        "original_name": "Andrea Sileo",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67eeaba215f6ba86f1e1a645",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4465595,
+        "known_for_department": "Acting",
+        "name": "Valerio Piccolo",
+        "original_name": "Valerio Piccolo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67eeabae9c68504cf262a7f8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5346969,
+        "known_for_department": "Sound",
+        "name": "Pino Pecorelli",
+        "original_name": "Pino Pecorelli",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67eeabbc4909e25b07a7ae65",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

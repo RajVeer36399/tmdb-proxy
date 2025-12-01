@@ -1,0 +1,313 @@
+{
+  "adult": false,
+  "backdrop_path": "/8EaRjow0QCrYJC9BmPu3RnZg5SL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 869793,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_title": "Tricicle: HITS",
+  "overview": "Tricicle presents the last of their shows, the culmination of decades of work and inexhaustible humor: the best of the best of the best.",
+  "popularity": 6.666,
+  "poster_path": "/r6dHUQBNEKoNeVJIfxZzr9ZRpZI.jpg",
+  "production_companies": [
+    {
+      "id": 67406,
+      "logo_path": null,
+      "name": "Tricicle Companyia Teatral",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2021-06-28",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tricicle: HITS",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 576228,
+        "known_for_department": "Acting",
+        "name": "Joan Gràcia",
+        "original_name": "Joan Gràcia",
+        "popularity": 0.0598,
+        "profile_path": "/7jEpD8DmgxNNL2BoXb6lMI0Zc97.jpg",
+        "cast_id": 2,
+        "character": "Various Roles",
+        "credit_id": "6130a7d4d207f300649cba3d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 265434,
+        "known_for_department": "Acting",
+        "name": "Paco Mir",
+        "original_name": "Paco Mir",
+        "popularity": 0.075,
+        "profile_path": "/nX4YU0R8tFsevd697k6aqcYYXfA.jpg",
+        "cast_id": 1,
+        "character": "Various Roles",
+        "credit_id": "6130a7bdfac502006463028b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 538139,
+        "known_for_department": "Acting",
+        "name": "Carles Sans",
+        "original_name": "Carles Sans",
+        "popularity": 0.7285,
+        "profile_path": "/AmzZVvPLvMIOHNVI87LpG5r1Lnk.jpg",
+        "cast_id": 3,
+        "character": "Various Roles",
+        "credit_id": "6130a7e0357c00002c5d2ae0",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726258,
+        "known_for_department": "Production",
+        "name": "Quique Camín",
+        "original_name": "Quique Camín",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "65224ac7ab5e340138d927d2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 265434,
+        "known_for_department": "Acting",
+        "name": "Paco Mir",
+        "original_name": "Paco Mir",
+        "popularity": 0.075,
+        "profile_path": "/nX4YU0R8tFsevd697k6aqcYYXfA.jpg",
+        "credit_id": "65224adec50ad200eac2c9a5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 576228,
+        "known_for_department": "Acting",
+        "name": "Joan Gràcia",
+        "original_name": "Joan Gràcia",
+        "popularity": 0.0598,
+        "profile_path": "/7jEpD8DmgxNNL2BoXb6lMI0Zc97.jpg",
+        "credit_id": "65224af10cb33516fd4561a9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 538139,
+        "known_for_department": "Acting",
+        "name": "Carles Sans",
+        "original_name": "Carles Sans",
+        "popularity": 0.7285,
+        "profile_path": "/AmzZVvPLvMIOHNVI87LpG5r1Lnk.jpg",
+        "credit_id": "65224b020cb33516f5c4bc27",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4312314,
+        "known_for_department": "Production",
+        "name": "Óscar Vallés",
+        "original_name": "Óscar Vallés",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6523a788ab5e3400c47d11c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4312317,
+        "known_for_department": "Camera",
+        "name": "Alejandro Piulats",
+        "original_name": "Alejandro Piulats",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6523a7ae07216645b4ff2cb1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4312321,
+        "known_for_department": "Camera",
+        "name": "Denis Calvaraons",
+        "original_name": "Denis Calvaraons",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6523a7cd0cb33516f63ac5d5",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4312324,
+        "known_for_department": "Camera",
+        "name": "Fernando Cantero",
+        "original_name": "Fernando Cantero",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6523a7e8ea84c7014e0146b3",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2417794,
+        "known_for_department": "Directing",
+        "name": "Isaac Lupiáñez",
+        "original_name": "Isaac Lupiáñez",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6523a807ea84c7014e0146d8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4312332,
+        "known_for_department": "Editing",
+        "name": "Pepe «Pepit» Rodríguez",
+        "original_name": "Pepe «Pepit» Rodríguez",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6523a834ab5e3400abe4c3b7",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726268,
+        "known_for_department": "Sound",
+        "name": "Marçal Cruz",
+        "original_name": "Marçal Cruz",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6523a852fd630000ad9f0913",
+        "department": "Sound",
+        "job": "Sound Post Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544163,
+        "known_for_department": "Sound",
+        "name": "Ignasi Nogueras",
+        "original_name": "Ignasi Nogueras",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6523a867ab5e3400fe334c6f",
+        "department": "Sound",
+        "job": "Sound Post Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4312336,
+        "known_for_department": "Production",
+        "name": "Max Calderón",
+        "original_name": "Max Calderón",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6523a88fab5e3400abe4c41b",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 538139,
+        "known_for_department": "Acting",
+        "name": "Carles Sans",
+        "original_name": "Carles Sans",
+        "popularity": 0.7285,
+        "profile_path": "/AmzZVvPLvMIOHNVI87LpG5r1Lnk.jpg",
+        "credit_id": "6523a8bcfd630000c5690d24",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 576228,
+        "known_for_department": "Acting",
+        "name": "Joan Gràcia",
+        "original_name": "Joan Gràcia",
+        "popularity": 0.0598,
+        "profile_path": "/7jEpD8DmgxNNL2BoXb6lMI0Zc97.jpg",
+        "credit_id": "6523a8ca74507d00ac4ac715",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 265434,
+        "known_for_department": "Acting",
+        "name": "Paco Mir",
+        "original_name": "Paco Mir",
+        "popularity": 0.075,
+        "profile_path": "/nX4YU0R8tFsevd697k6aqcYYXfA.jpg",
+        "credit_id": "6523a8d607216645b6d987a1",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

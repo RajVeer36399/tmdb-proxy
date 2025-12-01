@@ -1,0 +1,286 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1447287,
+  "imdb_id": "tt33087658",
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_title": "Donde tú quieras",
+  "overview": "Ramiro Guerrero, a successful professional, is wrongly accused of a devastating crime. With his life in shambles, he fights to prove his innocence while facing a web of corruption and danger.",
+  "popularity": 5.5659,
+  "poster_path": "/32kwv7gWBcIcI9mi5h5CwwLxZVw.jpg",
+  "production_companies": [
+    {
+      "id": 251954,
+      "logo_path": null,
+      "name": "Valencia Producciones FX",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "release_date": "2025-03-20",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Donde tú quieras",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2851847,
+        "known_for_department": "Acting",
+        "name": "Diana Hoyos",
+        "original_name": "Diana Hoyos",
+        "popularity": 0.3817,
+        "profile_path": "/fjyHzQHJb9O43vXagG4WVzzPtK7.jpg",
+        "cast_id": 1,
+        "character": "Julia",
+        "credit_id": "67d1cb6966892bad62817c05",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1241666,
+        "known_for_department": "Acting",
+        "name": "Juan A. Baptista",
+        "original_name": "Juan A. Baptista",
+        "popularity": 0.1459,
+        "profile_path": "/nXlaqQWT7nzLYhoE08VAJBX5XJ6.jpg",
+        "cast_id": 2,
+        "character": "Ramiro",
+        "credit_id": "67d1cb7f2ea1389f9f606ca1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2521623,
+        "known_for_department": "Acting",
+        "name": "Juliana Galvis",
+        "original_name": "Juliana Galvis",
+        "popularity": 0.2178,
+        "profile_path": "/4rqyXzwu2xt5z517KAg3qCig5aW.jpg",
+        "cast_id": 3,
+        "character": "Francy",
+        "credit_id": "67d1cba1a1f36ecddc1dcd1f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251536,
+        "known_for_department": "Acting",
+        "name": "Carlos-Manuel Vesga",
+        "original_name": "Carlos-Manuel Vesga",
+        "popularity": 1.8114,
+        "profile_path": "/crm5YcUTtb5pXhZbJsATA8EAoPD.jpg",
+        "cast_id": 4,
+        "character": "Agustín",
+        "credit_id": "67d1cbc9a1f36ecddc1dcd37",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 839684,
+        "known_for_department": "Acting",
+        "name": "Andrés Castañeda",
+        "original_name": "Andrés Castañeda",
+        "popularity": 0.1317,
+        "profile_path": "/epQCqExic4Jqp3DONrkfbL2tpXe.jpg",
+        "cast_id": 5,
+        "character": "Oscar",
+        "credit_id": "67d1cc37434c98c8ec81823a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1524495,
+        "known_for_department": "Acting",
+        "name": "Marilyn Patiño",
+        "original_name": "Marilyn Patiño",
+        "popularity": 0.119,
+        "profile_path": "/lCsCHdQZKnzSZcVJPnv8pUnfMb0.jpg",
+        "cast_id": 6,
+        "character": "Paulina",
+        "credit_id": "67d1cc4e434c98c8ec81824b",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4479608,
+        "known_for_department": "Directing",
+        "name": "Andrés Valencia",
+        "original_name": "Andrés Valencia",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "67d1d351325e62b3d1606bd4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2477076,
+        "known_for_department": "Acting",
+        "name": "Guillermo Barragán",
+        "original_name": "Guillermo Barragán",
+        "popularity": 0.045,
+        "profile_path": null,
+        "credit_id": "67d1d364325e62b3d1606bd8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5300427,
+        "known_for_department": "Production",
+        "name": "Luisa Fernanda Bendeck Alejo",
+        "original_name": "Luisa Fernanda Bendeck Alejo",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67d1e646434c98c8ec8189ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3729299,
+        "known_for_department": "Camera",
+        "name": "Dayron Pérez",
+        "original_name": "Dayron Pérez",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67d1e66ca1f36ecddc1dd91e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5300432,
+        "known_for_department": "Editing",
+        "name": "Edwin De La Rue",
+        "original_name": "Edwin De La Rue",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67d1e68a36020269068171d0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5300434,
+        "known_for_department": "Art",
+        "name": "Erika Fonseca",
+        "original_name": "Erika Fonseca",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67d1e6e9360202690681721a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5300436,
+        "known_for_department": "Sound",
+        "name": "Diego Alejandro Arias",
+        "original_name": "Diego Alejandro Arias",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67d1e709d4f741373260ab77",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5232572,
+        "known_for_department": "Sound",
+        "name": "Juan Pablo Saavedra",
+        "original_name": "Juan Pablo Saavedra",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67d1e71dd4f741373260ab83",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5300440,
+        "known_for_department": "Editing",
+        "name": "Freddy Mejía",
+        "original_name": "Freddy Mejía",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67d1e72c3602026906817231",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5300499,
+        "known_for_department": "Production",
+        "name": "Mario Zamora S.",
+        "original_name": "Mario Zamora S.",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "67d1ee853fa0a67cdf1dcd1a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5300499,
+        "known_for_department": "Production",
+        "name": "Mario Zamora S.",
+        "original_name": "Mario Zamora S.",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "67d1eeb22575f01b3a6071d2",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

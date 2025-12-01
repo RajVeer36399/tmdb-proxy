@@ -1,0 +1,380 @@
+{
+  "adult": false,
+  "backdrop_path": "/f09MivmjBTgJptNc8fIilVS3ZBY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 333884,
+  "imdb_id": "tt2580658",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La scelta",
+  "overview": "A childless couple struggle in the aftermath of a sexual assault leaves the woman pregnant.",
+  "popularity": 7.3853,
+  "poster_path": "/f9Wy1mZ6ObLqV0Qq6fPtNsq0275.jpg",
+  "production_companies": [
+    {
+      "id": 112624,
+      "logo_path": null,
+      "name": "Charlot",
+      "origin_country": ""
+    },
+    {
+      "id": 112625,
+      "logo_path": null,
+      "name": "Goldenart Production",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2015-04-02",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Choice",
+  "video": false,
+  "vote_average": 5.377,
+  "vote_count": 69,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88710,
+        "known_for_department": "Acting",
+        "name": "Ambra Angiolini",
+        "original_name": "Ambra Angiolini",
+        "popularity": 0.5555,
+        "profile_path": "/wNUCviAu6EPNJ328xRoFzjdzl2W.jpg",
+        "cast_id": 10,
+        "character": "Laura",
+        "credit_id": "551d0110c3a3684a200020c9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5412,
+        "known_for_department": "Acting",
+        "name": "Raoul Bova",
+        "original_name": "Raoul Bova",
+        "popularity": 1.6296,
+        "profile_path": "/hJQCTTCB6mCspjjhOkXQ5u0ekWj.jpg",
+        "cast_id": 8,
+        "character": "Giorgio",
+        "credit_id": "551d0101c3a3680a1d001419",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67178,
+        "known_for_department": "Acting",
+        "name": "Valeria Solarino",
+        "original_name": "Valeria Solarino",
+        "popularity": 1.0383,
+        "profile_path": "/nTZR4KxmY0EPVc7ZphdvtyiNGQC.jpg",
+        "cast_id": 9,
+        "character": "Francesca",
+        "credit_id": "551d0109c3a3680a1d00141b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25819,
+        "known_for_department": "Acting",
+        "name": "Michele Placido",
+        "original_name": "Michele Placido",
+        "popularity": 0.5444,
+        "profile_path": "/vXDSKdLcTcXFebUEgR61djSzXBQ.jpg",
+        "cast_id": 2,
+        "character": "Emilio Nicotri",
+        "credit_id": "551d00c1c3a36837e80019da",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1016415,
+        "known_for_department": "Acting",
+        "name": "Manrico Gammarota",
+        "original_name": "Manrico Gammarota",
+        "popularity": 0.6848,
+        "profile_path": "/xCxL3WONOorQu3FDoo3ruOU9hL6.jpg",
+        "cast_id": 11,
+        "character": "Bennie",
+        "credit_id": "551d01199251411895001b4c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25092,
+        "known_for_department": "Acting",
+        "name": "Monica Contini",
+        "original_name": "Monica Contini",
+        "popularity": 0.135,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Caterina",
+        "credit_id": "56cb7566c3a3684e20000904",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127015,
+        "known_for_department": "Acting",
+        "name": "Gennaro Diana",
+        "original_name": "Gennaro Diana",
+        "popularity": 0.8694,
+        "profile_path": "/zNdQlaQnf5Y9XPrZWHEOOYANRc2.jpg",
+        "cast_id": 12,
+        "character": "Vice Nicotri",
+        "credit_id": "551d011f9251411895001b4f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553180,
+        "known_for_department": "Acting",
+        "name": "Marcello Catalano",
+        "original_name": "Marcello Catalano",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Fabrizio",
+        "credit_id": "551d0126925141691b001855",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2200321,
+        "known_for_department": "Acting",
+        "name": "Mejdi El Euchi",
+        "original_name": "Mejdi El Euchi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Samir",
+        "credit_id": "5c1f72a7c3a3686fffea16ed",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1448593,
+        "known_for_department": "Acting",
+        "name": "Vito Signorile",
+        "original_name": "Vito Signorile",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Ivan Bonollo",
+        "credit_id": "5c1f72b39251411abcbf8075",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448592,
+        "known_for_department": "Acting",
+        "name": "Tina Tempesta",
+        "original_name": "Tina Tempesta",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Signora Bonollo",
+        "credit_id": "551d012dc3a3684a1e002034",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2200324,
+        "known_for_department": "Acting",
+        "name": "Vito Lopriore",
+        "original_name": "Vito Lopriore",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Filippo",
+        "credit_id": "5c1f72d49251411abcbf8087",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2200325,
+        "known_for_department": "Acting",
+        "name": "Enzo Marchetti",
+        "original_name": "Enzo Marchetti",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Medico",
+        "credit_id": "5c1f72dcc3a3686ff9ea05bb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2200326,
+        "known_for_department": "Acting",
+        "name": "Greta Amoruso",
+        "original_name": "Greta Amoruso",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Viola",
+        "credit_id": "5c1f72e492514167fdbfd1eb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2200327,
+        "known_for_department": "Acting",
+        "name": "Anna Castellaneta",
+        "original_name": "Anna Castellaneta",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Giulia",
+        "credit_id": "5c1f72f0c3a3686fffea1716",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2200328,
+        "known_for_department": "Acting",
+        "name": "Antonello Marini",
+        "original_name": "Antonello Marini",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Cosimino",
+        "credit_id": "5c1f72fb0e0a264de1ebf3e8",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25819,
+        "known_for_department": "Acting",
+        "name": "Michele Placido",
+        "original_name": "Michele Placido",
+        "popularity": 0.5444,
+        "profile_path": "/vXDSKdLcTcXFebUEgR61djSzXBQ.jpg",
+        "credit_id": "551d00b592514147b9000495",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25819,
+        "known_for_department": "Acting",
+        "name": "Michele Placido",
+        "original_name": "Michele Placido",
+        "popularity": 0.5444,
+        "profile_path": "/vXDSKdLcTcXFebUEgR61djSzXBQ.jpg",
+        "credit_id": "551d00bcc3a3680bad0010e9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1202096,
+        "known_for_department": "Writing",
+        "name": "Luigi Pirandello",
+        "original_name": "Luigi Pirandello",
+        "popularity": 0.6099,
+        "profile_path": "/rEPJ29mNyv5x8BEs2okMz6loail.jpg",
+        "credit_id": "551d00cf9251416a210021cb",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1180568,
+        "known_for_department": "Writing",
+        "name": "Giulia Calenda",
+        "original_name": "Giulia Calenda",
+        "popularity": 0.8716,
+        "profile_path": "/j4siOqWtk3b8h6sXMpc8M1wBop1.jpg",
+        "credit_id": "551d00d9c3a3680bad0010f0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 144273,
+        "known_for_department": "Acting",
+        "name": "Federica Vincenti",
+        "original_name": "Federica Vincenti",
+        "popularity": 1.0552,
+        "profile_path": "/541ub7gIHRZNlSavYzhAxA1kxWB.jpg",
+        "credit_id": "551d00e5c3a3684a280022db",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448591,
+        "known_for_department": "Sound",
+        "name": "Luca D'Alberto",
+        "original_name": "Luca D'Alberto",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "551d00ee9251411895001b42",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67169,
+        "known_for_department": "Camera",
+        "name": "Arnaldo Catinari",
+        "original_name": "Arnaldo Catinari",
+        "popularity": 0.0887,
+        "profile_path": "/5oRxhAs35NPQIQ72sD40lPdamdy.jpg",
+        "credit_id": "551d00f7c3a3680cc00013e8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

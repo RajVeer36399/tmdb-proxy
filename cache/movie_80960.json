@@ -1,0 +1,369 @@
+{
+  "adult": false,
+  "backdrop_path": "/2KqmxE0n52Y1GbqfsBTY5hV5JrZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 80960,
+  "imdb_id": "tt0025478",
+  "origin_country": [
+    "AT"
+  ],
+  "original_language": "de",
+  "original_title": "Maskerade",
+  "overview": "After a masked carnival ball, Gerda Harrandt, wife of the surgeon Carl Ludwig Harrandt, allows the fashionable artist Ferdinand von Heidenick to paint a portrait of her wearing only a mask and a muff. This muff however belongs to Anita Keller, in secret the painter's lover but also the fiancée of the court orchestra director Paul Harrandt.  The picture is then published in the newspaper. When Paul sees it and asks von Heidenick some questions about the identity of the model, the artist is forced to improvise a story and on the spur of the moment invents a woman called Leopoldine Dur as the alleged model. Leopoldine Dur however turns out to be a real woman whose acquaintance Heidenick makes shortly afterwards.",
+  "popularity": 6.2746,
+  "poster_path": "/aMMP9Czm2upB34AEjoRxwTEZCDn.jpg",
+  "production_companies": [
+    {
+      "id": 7448,
+      "logo_path": null,
+      "name": "Tobis Filmkunst",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1586,
+      "logo_path": null,
+      "name": "Sascha-Verleih",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "1934-09-27",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Masquerade in Vienna",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 590775,
+        "known_for_department": "Acting",
+        "name": "Paula Wessely",
+        "original_name": "Paula Wessely",
+        "popularity": 0.3101,
+        "profile_path": "/nVKlKI1egcfMXGZOGHqidky28zz.jpg",
+        "cast_id": 5,
+        "character": "Leopoldine Dur",
+        "credit_id": "52fe47ec9251416c9107a1e1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88935,
+        "known_for_department": "Acting",
+        "name": "Anton Walbrook",
+        "original_name": "Adolf Wohlbrück",
+        "popularity": 0.1674,
+        "profile_path": "/pPgjEr1LlE75zQ6Zi9cpZbMbMo3.jpg",
+        "cast_id": 6,
+        "character": "Heideneck",
+        "credit_id": "52fe47ec9251416c9107a1e5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 590776,
+        "known_for_department": "Acting",
+        "name": "Peter Petersen",
+        "original_name": "Peter Petersen",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Carl Ludwig Harrandt",
+        "credit_id": "52fe47ec9251416c9107a1e9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49252,
+        "known_for_department": "Acting",
+        "name": "Walter Janssen",
+        "original_name": "Walter Janssen",
+        "popularity": 0.2313,
+        "profile_path": "/knqJnMk3L75sHsqdLp75N14oKWj.jpg",
+        "cast_id": 8,
+        "character": "Paul Harrandt",
+        "credit_id": "52fe47ec9251416c9107a1ed",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13897,
+        "known_for_department": "Acting",
+        "name": "Olga Tschechowa",
+        "original_name": "Olga Tschechowa",
+        "popularity": 0.4015,
+        "profile_path": "/3ZltpEEbWAc9noJPioXRwB3h6Hc.jpg",
+        "cast_id": 9,
+        "character": "Anita Keller",
+        "credit_id": "52fe47ec9251416c9107a1f1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47131,
+        "known_for_department": "Acting",
+        "name": "Hilde von Stolz",
+        "original_name": "Hilde von Stolz",
+        "popularity": 0.1948,
+        "profile_path": "/pRArFogDHJzidlVmPQmTqOKLvWw.jpg",
+        "cast_id": 10,
+        "character": "Gerda",
+        "credit_id": "52fe47ec9251416c9107a1f5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14125,
+        "known_for_department": "Acting",
+        "name": "Julia Serda",
+        "original_name": "Julia Serda",
+        "popularity": 0.063,
+        "profile_path": "/yge6rsRwy7KfxQqfznLUn5vsXa9.jpg",
+        "cast_id": 11,
+        "character": "M.",
+        "credit_id": "52fe47ec9251416c9107a1f9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47301,
+        "known_for_department": "Acting",
+        "name": "Hans Moser",
+        "original_name": "Hans Moser",
+        "popularity": 0.3617,
+        "profile_path": "/xnUAqGWMQZaFTEB9ikoP9vrUq8M.jpg",
+        "cast_id": 12,
+        "character": "Zacharias",
+        "credit_id": "52fe47ec9251416c9107a1fd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51138,
+        "known_for_department": "Acting",
+        "name": "Fritz Imhoff",
+        "original_name": "Fritz Imhoff",
+        "popularity": 0.2723,
+        "profile_path": "/tdHjJ9ZiIygE53VeJY25dP7VTiT.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "52fe47ec9251416c9107a201",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 590777,
+        "known_for_department": "Acting",
+        "name": "Poldi Dur",
+        "original_name": "Poldi Dur",
+        "popularity": 0.1429,
+        "profile_path": "/ph8BxRS3TrwLcPK1rqSmbsOcNM8.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "52fe47ec9251416c9107a205",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 590712,
+        "known_for_department": "Acting",
+        "name": "Grete Natzler",
+        "original_name": "Grete Natzler",
+        "popularity": 0.0702,
+        "profile_path": "/hSTQmiZvY2m5w5M4ONJCrze4VT8.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "52fe47ec9251416c9107a209",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2253602,
+        "known_for_department": "Acting",
+        "name": "Liesl Handl",
+        "original_name": "Liesl Handl",
+        "popularity": 0.084,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "(uncredited)",
+        "credit_id": "68cf96e54d9f637b84d4164b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5701809,
+        "known_for_department": "Acting",
+        "name": "Josephine Rudiger",
+        "original_name": "Josephine Rudiger",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Krankenschwester (uncredited)",
+        "credit_id": "68cf970f90c8310f66cec0a0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1262073,
+        "known_for_department": "Acting",
+        "name": "Enrico Caruso",
+        "original_name": "Enrico Caruso",
+        "popularity": 0.0404,
+        "profile_path": "/qQ3OWNGcAlBZdVqMtDBHaSrSClz.jpg",
+        "cast_id": 25,
+        "character": "Self (archive sound) (voice)",
+        "credit_id": "68cf974c65f7a745d2cc3205",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37461,
+        "known_for_department": "Acting",
+        "name": "Willi Forst",
+        "original_name": "Willi Forst",
+        "popularity": 0.6299,
+        "profile_path": "/4F3ih8zuogR2d7GrL5Uye10UFH4.jpg",
+        "credit_id": "52fe47eb9251416c9107a1cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590774,
+        "known_for_department": "Production",
+        "name": "Karl Julius Fritzsche",
+        "original_name": "Karl Julius Fritzsche",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe47eb9251416c9107a1d1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4321520,
+        "known_for_department": "Sound",
+        "name": "Martin Müller",
+        "original_name": "Martin Müller",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "credit_id": "652c03830cb33516f88397b4",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29120,
+        "known_for_department": "Sound",
+        "name": "Willy Schmidt-Gentner",
+        "original_name": "Willy Schmidt-Gentner",
+        "popularity": 0.0502,
+        "profile_path": null,
+        "credit_id": "6186a23addd52d0026ba56ca",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1940,
+        "known_for_department": "Camera",
+        "name": "Franz Planer",
+        "original_name": "Franz Planer",
+        "popularity": 0.6272,
+        "profile_path": null,
+        "credit_id": "6186a2310752880063ccc845",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6248,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gerdago",
+        "original_name": "Gerdago",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "61cd6b5bb6cff10042d17642",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37461,
+        "known_for_department": "Acting",
+        "name": "Willi Forst",
+        "original_name": "Willi Forst",
+        "popularity": 0.6299,
+        "profile_path": "/4F3ih8zuogR2d7GrL5Uye10UFH4.jpg",
+        "credit_id": "5af85ce7c3a3682ac200e8fe",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12362,
+        "known_for_department": "Writing",
+        "name": "Walter Reisch",
+        "original_name": "Walter Reisch",
+        "popularity": 0.3854,
+        "profile_path": "/iLV9AhnkUUchlfjujSIB8q5y2TH.jpg",
+        "credit_id": "5af85cfe0e0a2655af00c3d3",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

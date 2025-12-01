@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 310832,
+  "imdb_id": "tt0133188",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Rustom Sohrab",
+  "overview": "In the year 720B.C., Rustom, who reigned in Iran- Persia and was known for superhuman strength, married Tehminia, Princess of Samangan. When he moved to Samangan, Iran's enemies took advantage, attacked and imprisoned the king. As he heard the news of this rebellion, he began planning his own revolt- to free the king from his captors.",
+  "popularity": 7.7801,
+  "poster_path": "/fcB7NnB17ueJIhgb4Us0hIcVyQs.jpg",
+  "production_companies": [
+    {
+      "id": 9259,
+      "logo_path": null,
+      "name": "Ramsay Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1967-06-21",
+  "revenue": 0,
+  "runtime": 144,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Greatest Hit in Entertainment History!",
+  "title": "Rustom Sohrab",
+  "video": false,
+  "vote_average": 8,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121863,
+        "known_for_department": "Acting",
+        "name": "Prithviraj Kapoor",
+        "original_name": "Prithviraj Kapoor",
+        "popularity": 0.655,
+        "profile_path": "/g8GvSAZJULFTRfGjRp8bcxxi3MB.jpg",
+        "cast_id": 0,
+        "character": "Rustom",
+        "credit_id": "5a137c9cc3a368114b0014cb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110722,
+        "known_for_department": "Acting",
+        "name": "Premnath Malhotra",
+        "original_name": "Premnath Malhotra",
+        "popularity": 0.5375,
+        "profile_path": "/hmRBnDA0dBQLfLKynHC6uBmac7R.jpg",
+        "cast_id": 1,
+        "character": "Sohrab",
+        "credit_id": "5a137cac9251410f990016b1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1428739,
+        "known_for_department": "Acting",
+        "name": "Suraiya",
+        "original_name": "Suraiya",
+        "popularity": 0.2609,
+        "profile_path": "/zmGhDfbkZYViYCmfUxEune2kaRu.jpg",
+        "cast_id": 2,
+        "character": "Shehzadi Tehmina",
+        "credit_id": "5a137cc19251410f9c0015f8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1034146,
+        "known_for_department": "Acting",
+        "name": "Mumtaz Ali",
+        "original_name": "Mumtaz Ali",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Shehroo",
+        "credit_id": "5a137cd79251410f9c001623",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 927855,
+        "known_for_department": "Acting",
+        "name": "Murad",
+        "original_name": "Murad",
+        "popularity": 0.519,
+        "profile_path": "/3pEKkELCA58BmbHCX6GVhllunnE.jpg",
+        "cast_id": 8,
+        "character": "Mazadan",
+        "credit_id": "5a137e7d9251410f9c00189d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1927127,
+        "known_for_department": "Acting",
+        "name": "Lilian",
+        "original_name": "Lilian",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Homa",
+        "credit_id": "5a137e95c3a368114e0017c2",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526607,
+        "known_for_department": "Crew",
+        "name": "F.U. Ramsay",
+        "original_name": "F.U. Ramsay",
+        "popularity": 0.0754,
+        "profile_path": null,
+        "credit_id": "5a137d36c3a368114b0015a9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1330680,
+        "known_for_department": "Writing",
+        "name": "Vishram Bedekar",
+        "original_name": "Vishram Bedekar",
+        "popularity": 0.0897,
+        "profile_path": null,
+        "credit_id": "5a137d11c3a368114b00157f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1076779,
+        "known_for_department": "Writing",
+        "name": "Kumar Ramsay",
+        "original_name": "Kumar Ramsay",
+        "popularity": 0.1285,
+        "profile_path": null,
+        "credit_id": "5a137d249251410f9f001752",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 110110,
+        "known_for_department": "Production",
+        "name": "Nariman A. Irani",
+        "original_name": "Nariman A. Irani",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "5a137d639251410f8d00163e",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1315380,
+  "imdb_id": "tt14391406",
+  "origin_country": [
+    "MA"
+  ],
+  "original_language": "ar",
+  "original_title": "La perle noire",
+  "overview": "A young engineer's dream of becoming a fighter pilot for the Royal Moroccan Air Force is put on hold until he unravels the mystery of his missing parents.",
+  "popularity": 5.151,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 52343,
+      "logo_path": "/ySixgqfYc94KEXJyUQ0w6I6kNjf.png",
+      "name": "Transient Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 233522,
+      "logo_path": null,
+      "name": "Hypothèse Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MA",
+      "name": "Morocco"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-11-06",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Post Production",
+  "tagline": "",
+  "title": "The Black Pearl",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4476228,
+        "known_for_department": "Acting",
+        "name": "Sairi Salma",
+        "original_name": "Sairi Salma",
+        "popularity": 0.2483,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Sara",
+        "credit_id": "668ef41dc7c7a6c70d8faa2f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663651,
+        "known_for_department": "Acting",
+        "name": "Abderahmen Oukour",
+        "original_name": "Abderahmen Oukour",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Salah",
+        "credit_id": "668ef43192ceec326ab85be3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1199611,
+        "known_for_department": "Acting",
+        "name": "Abdenbi El Beniwi",
+        "original_name": "Abdenbi El Beniwi",
+        "popularity": 0.1231,
+        "profile_path": "/4JhsObPXZDGKHuc7RcDCtgIv7oU.jpg",
+        "cast_id": 8,
+        "character": "Youssef",
+        "credit_id": "668ef45a72e1cb8094dcde9c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1922210,
+        "known_for_department": "Acting",
+        "name": "Fatima Zahra Bennacer",
+        "original_name": "Fatima Zahra Bennacer",
+        "popularity": 0.3152,
+        "profile_path": "/5slwk71Bkq6VDWLfA5BhS1z3ZdE.jpg",
+        "cast_id": 9,
+        "character": "President El Ouazzani",
+        "credit_id": "6848c50e65bf58234d3fd0a4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3746077,
+        "known_for_department": "Acting",
+        "name": "Nabil Atif",
+        "original_name": "Nabil Atif",
+        "popularity": 0.0475,
+        "profile_path": "/4L4eCi1aTTux59Riz0SAEp3ioiv.jpg",
+        "cast_id": 10,
+        "character": "Minister of Defense",
+        "credit_id": "6848c51cf0993891e43fd0e0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2249319,
+        "known_for_department": "Acting",
+        "name": "Bachir Ouakine",
+        "original_name": "Bachir Ouakine",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Officer El Moussaoui",
+        "credit_id": "6848c52a2f516dfa281eb2be",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3748676,
+        "known_for_department": "Directing",
+        "name": "Ayoub Qanir",
+        "original_name": "Ayoub Qanir",
+        "popularity": 0.1325,
+        "profile_path": null,
+        "credit_id": "668ef39b0de46be1148faa21",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3748676,
+        "known_for_department": "Directing",
+        "name": "Ayoub Qanir",
+        "original_name": "Ayoub Qanir",
+        "popularity": 0.1325,
+        "profile_path": null,
+        "credit_id": "668ef3a5df52dce6d83dc5c0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3748676,
+        "known_for_department": "Directing",
+        "name": "Ayoub Qanir",
+        "original_name": "Ayoub Qanir",
+        "popularity": 0.1325,
+        "profile_path": null,
+        "credit_id": "668ef3b89ca4843f99e24eec",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2489860,
+        "known_for_department": "Sound",
+        "name": "Scott Buckley",
+        "original_name": "Scott Buckley",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "668ef3ed9c275ac936281ab4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3224297,
+        "known_for_department": "Camera",
+        "name": "Dmitry Gerasimuk",
+        "original_name": "Дмитрий Герасимук",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "668ef40858c42fd8e43dc5d7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5805406,
+        "known_for_department": "Production",
+        "name": "Youssef El Mouddhakir",
+        "original_name": "Youssef El Mouddhakir",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "691026211c6955a1a5ce8461",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5805407,
+        "known_for_department": "Art",
+        "name": "Rachid El Arabi",
+        "original_name": "Rachid El Arabi",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "69102642439ec46d719abcd8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5805408,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Leila Oumami",
+        "original_name": "Leila Oumami",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "6910264f1265c9afcad25494",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5805409,
+        "known_for_department": "Sound",
+        "name": "El Mehdi Jermouni",
+        "original_name": "El Mehdi Jermouni",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6910265da473cfb67d31af2c",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  }
+}

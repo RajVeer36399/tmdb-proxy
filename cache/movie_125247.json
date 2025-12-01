@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 350000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 125247,
+  "imdb_id": "tt0115887",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Chinese Chocolate",
+  "overview": "Searching for love abroad, two very different Chinese women, a dancer and a doctor, follow their dreams and journey west to Canada. They quickly learn that the paths of heart are rocky as the men in their lives reveal dark, unsettling secrets which change the lives of everyone forever. Intimately and honestly exploring for the first time the sexuality of Chinese women living in a foreign culture, this award-winning study of love and relationship makes for a unforgettable treat.",
+  "popularity": 6.9134,
+  "poster_path": "/A3E8WnZyzqxeq19gPheRtwlwq7y.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1995-09-14",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Bitter and delicious...",
+  "title": "Chinese Chocolate",
+  "video": false,
+  "vote_average": 2.9,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74495,
+        "known_for_department": "Acting",
+        "name": "Yan Cui",
+        "original_name": "Yan Cui",
+        "popularity": 0.5168,
+        "profile_path": "/h52ZfVpHarummZwXUFpDNhFnBtQ.jpg",
+        "cast_id": 1,
+        "character": "Camille (as Shirley Cui)",
+        "credit_id": "52fe4abfc3a368484e164df7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1081095,
+        "known_for_department": "Acting",
+        "name": "Diana Pang Dan",
+        "original_name": "彭丹",
+        "popularity": 2.3143,
+        "profile_path": "/bQ42z63uG3Y9G5VPdipo7iL3sSC.jpg",
+        "cast_id": 2,
+        "character": "Jesse (as Diana Peng)",
+        "credit_id": "52fe4abfc3a368484e164dfb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2040625,
+        "known_for_department": "Acting",
+        "name": "Wang Bozhao",
+        "original_name": "王伯昭",
+        "popularity": 0.8935,
+        "profile_path": "/98Wy06sUZD6Bo2bTrLMTi9TuQQg.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "5e98041dd14443001450c5a3",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74495,
+        "known_for_department": "Acting",
+        "name": "Yan Cui",
+        "original_name": "Yan Cui",
+        "popularity": 0.5168,
+        "profile_path": "/h52ZfVpHarummZwXUFpDNhFnBtQ.jpg",
+        "credit_id": "52fe4abfc3a368484e164e01",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1081096,
+        "known_for_department": "Writing",
+        "name": "Qi Chang",
+        "original_name": "Qi Chang",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4abfc3a368484e164e07",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

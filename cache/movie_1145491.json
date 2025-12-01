@@ -1,0 +1,272 @@
+{
+  "adult": false,
+  "backdrop_path": "/bEJyUUygNSLhe4BPykEHf3hPnsh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.uncorkedentertainment.com/film/operation-black-ops/",
+  "id": 1145491,
+  "imdb_id": "tt27635178",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Operation Black Ops",
+  "overview": "A group of mercenaries are hired to overthrow a Neo-Nazi stronghold nestled deep in the heart of Texas, only to discover they are protecting nuclear codes that could ignite World War III.",
+  "popularity": 5.8953,
+  "poster_path": "/vMgkjQM2fHirExilsTZWJTqL33G.jpg",
+  "production_companies": [
+    {
+      "id": 160870,
+      "logo_path": null,
+      "name": "Elite Filmes",
+      "origin_country": ""
+    },
+    {
+      "id": 69987,
+      "logo_path": null,
+      "name": "Uncork'd Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2023-07-11",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He will finish the mission.",
+  "title": "Operation Black Ops",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 52,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83522,
+        "known_for_department": "Acting",
+        "name": "Tito Ortiz",
+        "original_name": "Tito Ortiz",
+        "popularity": 0.394,
+        "profile_path": "/ivG0rCc5FE1XWdh6CIBTWfeIgBk.jpg",
+        "cast_id": 3,
+        "character": "Noah",
+        "credit_id": "649c016677c01f00ebe17d7f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123604,
+        "known_for_department": "Acting",
+        "name": "Cristiane Justino",
+        "original_name": "Cristiane Justino",
+        "popularity": 0.1917,
+        "profile_path": "/gbHhIXul6LhOE8P91nom5lANxNS.jpg",
+        "cast_id": 4,
+        "character": "Chicago",
+        "credit_id": "649c017596386400c671919d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1928557,
+        "known_for_department": "Acting",
+        "name": "Kelsey Johnson",
+        "original_name": "Kelsey Johnson",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Venona",
+        "credit_id": "649c01ecb1f68d013be77b9d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2091809,
+        "known_for_department": "Acting",
+        "name": "Mike Ferguson",
+        "original_name": "Mike Ferguson",
+        "popularity": 0.833,
+        "profile_path": "/20R1lPw9vqfiv9iyegYoI7ifofW.jpg",
+        "cast_id": 5,
+        "character": "Schroder",
+        "credit_id": "649c01b7af58cb011cf1fbcf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99224,
+        "known_for_department": "Acting",
+        "name": "Mike Markoff",
+        "original_name": "Mike Markoff",
+        "popularity": 0.3651,
+        "profile_path": "/d7Z0hSmCOleHt1BycaAbU9doKMR.jpg",
+        "cast_id": 7,
+        "character": "Parker",
+        "credit_id": "649c0232af58cb00e2a811f3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4135289,
+        "known_for_department": "Acting",
+        "name": "Paul Bikbili",
+        "original_name": "Paul Bikbili",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Eric",
+        "credit_id": "649c024996386400c6719222",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4135290,
+        "known_for_department": "Acting",
+        "name": "Alicia Gakima",
+        "original_name": "Alicia Gakima",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Cody",
+        "credit_id": "649c0260fd4f80014f97bc1c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4135292,
+        "known_for_department": "Acting",
+        "name": "Rafael Cansino",
+        "original_name": "Rafael Cansino",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Georg Doerfflinger",
+        "credit_id": "649c026caf58cb00adc55f8c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1948978,
+        "known_for_department": "Acting",
+        "name": "Joseph Daniel Ellis",
+        "original_name": "Joseph Daniel Ellis",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "White Ice",
+        "credit_id": "649c0256c3926600ac668cea",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4135293,
+        "known_for_department": "Acting",
+        "name": "J.R. Orva",
+        "original_name": "J.R. Orva",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "649c027ab1f68d0101ceec87",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4135294,
+        "known_for_department": "Acting",
+        "name": "Jenna Pena",
+        "original_name": "Jenna Pena",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Starr",
+        "credit_id": "649c0281c392660125bf9386",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1502825,
+        "known_for_department": "Acting",
+        "name": "Johnny Llanes",
+        "original_name": "Johnny Llanes",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Ivory",
+        "credit_id": "67840fa378cfcd77ed4ec1fa",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5002898,
+        "known_for_department": "Acting",
+        "name": "David Cazares",
+        "original_name": "David Cazares",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Eddie",
+        "credit_id": "67840fb9c5d2e96e267b9bf0",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2165026,
+        "known_for_department": "Directing",
+        "name": "Jamaal Burden",
+        "original_name": "Jamaal Burden",
+        "popularity": 0.4742,
+        "profile_path": null,
+        "credit_id": "649c00c8b1f68d00e46b7064",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2165026,
+        "known_for_department": "Directing",
+        "name": "Jamaal Burden",
+        "original_name": "Jamaal Burden",
+        "popularity": 0.4742,
+        "profile_path": null,
+        "credit_id": "649c0146c3926600e73e2db7",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

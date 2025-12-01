@@ -1,0 +1,164 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 166216,
+  "imdb_id": "tt0024179",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Industrial Britain",
+  "overview": "Grierson set out to make \"propaganda,\" and this film--with it's voice-over proclaiming the great value of the British industrial worker, without a hint of ambiguity or doubt--fits that category well. The authoritatarian narrator feels out-of-date and unsophisticated, but the footage is well shot and interesting, and the transparency of the propaganda aspect is almost a reflief at a time when so many films have hidden agendas.",
+  "popularity": 5.1143,
+  "poster_path": "/in4cHke3NQ7zffInq8bscaH34qO.jpg",
+  "production_companies": [
+    {
+      "id": 23226,
+      "logo_path": null,
+      "name": "Empire Marketing Board",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1931-12-31",
+  "revenue": 0,
+  "runtime": 21,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Industrial Britain",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7384,
+        "known_for_department": "Acting",
+        "name": "Donald Calthrop",
+        "original_name": "Donald Calthrop",
+        "popularity": 0.2185,
+        "profile_path": "/5BHyPFH0n1zgLCOu4HWqo040CNo.jpg",
+        "cast_id": 4,
+        "character": "Self - Commentator (uncredited)",
+        "credit_id": "52fe4c99c3a36847f8235f41",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10092,
+        "known_for_department": "Directing",
+        "name": "Robert Flaherty",
+        "original_name": "Robert Flaherty",
+        "popularity": 0.5222,
+        "profile_path": "/xbQPv5sgBA72gKb57YGpjE1RKfW.jpg",
+        "credit_id": "52fe4c99c3a36847f8235f37",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1095442,
+        "known_for_department": "Directing",
+        "name": "Basil Wright",
+        "original_name": "Basil Wright",
+        "popularity": 0.3414,
+        "profile_path": null,
+        "credit_id": "62b3da5a93bd690091802af2",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1086491,
+        "known_for_department": "Directing",
+        "name": "Arthur Elton",
+        "original_name": "Arthur Elton",
+        "popularity": 0.0261,
+        "profile_path": "/eE3mqNoIR82ANVGViwm3NQKvB6q.jpg",
+        "credit_id": "62b3da403e6f2b00938d37c2",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10092,
+        "known_for_department": "Directing",
+        "name": "Robert Flaherty",
+        "original_name": "Robert Flaherty",
+        "popularity": 0.5222,
+        "profile_path": "/xbQPv5sgBA72gKb57YGpjE1RKfW.jpg",
+        "credit_id": "53e3e1d10e0a262b86004eab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1086468,
+        "known_for_department": "Production",
+        "name": "John Grierson",
+        "original_name": "John Grierson",
+        "popularity": 0.2378,
+        "profile_path": "/fVn3DN0fuvw7N4neRs1QxOqBH5F.jpg",
+        "credit_id": "578b9df29251413f98000ed8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1086467,
+        "known_for_department": "Production",
+        "name": "Edgar Anstey",
+        "original_name": "Edgar Anstey",
+        "popularity": 0.0713,
+        "profile_path": "/eJdn6dkMbySMdMXfj2dMGAECgRH.jpg",
+        "credit_id": "5ce25243c3a368469d2322c9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10092,
+        "known_for_department": "Directing",
+        "name": "Robert Flaherty",
+        "original_name": "Robert Flaherty",
+        "popularity": 0.5222,
+        "profile_path": "/xbQPv5sgBA72gKb57YGpjE1RKfW.jpg",
+        "credit_id": "5f532605904f6d00353834e5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

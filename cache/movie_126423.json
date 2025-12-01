@@ -1,0 +1,432 @@
+{
+  "adult": false,
+  "backdrop_path": "/mIRrXqGHdjd6cqTk7wMJ0s95UFF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 126423,
+  "imdb_id": "tt0424359",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Poem Is a Naked Person",
+  "overview": "Les Blank's first feature-length documentary captures music and other events at Leon Russell's Oklahoma recording studio during a three-year period (1972-1974).",
+  "popularity": 6.3232,
+  "poster_path": "/1IOclW0WUDAQobUg7rPZ22saHtQ.jpg",
+  "production_companies": [
+    {
+      "id": 103759,
+      "logo_path": null,
+      "name": "Les Blank Films",
+      "origin_country": ""
+    },
+    {
+      "id": 201001,
+      "logo_path": null,
+      "name": "Skyhill Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1974-05-09",
+  "revenue": 96774,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Poem Is a Naked Person",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84914,
+        "known_for_department": "Acting",
+        "name": "Leon Russell",
+        "original_name": "Leon Russell",
+        "popularity": 0.2628,
+        "profile_path": "/v1KgMLesGMVUWsZBujqHdA6aju3.jpg",
+        "cast_id": 0,
+        "character": "Self",
+        "credit_id": "551473ac925141045c003cdb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1017169,
+        "known_for_department": "Acting",
+        "name": "George Jones",
+        "original_name": "George Jones",
+        "popularity": 0.8149,
+        "profile_path": "/x88f98QTnvoulrIjdvRLZ5HDWtg.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "58654b5ec3a36852c0023540",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8261,
+        "known_for_department": "Acting",
+        "name": "Willie Nelson",
+        "original_name": "Willie Nelson",
+        "popularity": 0.6405,
+        "profile_path": "/e5rXc3fn4v642bIDVFWUr6UlVM3.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "58654b77c3a3680ab601b2ec",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1729523,
+        "known_for_department": "Acting",
+        "name": "Malissa Bates",
+        "original_name": "Malissa Bates",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "58654b859251412b8d01f92b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1637482,
+        "known_for_department": "Production",
+        "name": "David Briggs",
+        "original_name": "David Briggs",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "58654b959251412b8a01f2f8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2325713,
+        "known_for_department": "Acting",
+        "name": "Eric Andersen",
+        "original_name": "Eric Andersen",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "5d242da46d4c9700107a71b4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1949663,
+        "known_for_department": "Acting",
+        "name": "Ambrose Campbell",
+        "original_name": "Ambrose Campbell",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "5d242dc46d4c97000d7a8035",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2110149,
+        "known_for_department": "Acting",
+        "name": "Charlie McCoy",
+        "original_name": "Charlie McCoy",
+        "popularity": 0.089,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "5d242e2469d2802add00b6cd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1074148,
+        "known_for_department": "Acting",
+        "name": "Chuck Blackwell",
+        "original_name": "Chuck Blackwell",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "6243667d97a4e60047a9e201",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142594,
+        "known_for_department": "Directing",
+        "name": "Les Blank",
+        "original_name": "Les Blank",
+        "popularity": 0.527,
+        "profile_path": "/i0qT8dEUIR2tgqZLCx6avfqNx11.jpg",
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "6243667e3e09f30047ffb219",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1086991,
+        "known_for_department": "Acting",
+        "name": "J.J. Cale",
+        "original_name": "J.J. Cale",
+        "popularity": 0.1056,
+        "profile_path": "/eHYyuRJNaJHLAwGxZCJhwsLRY1D.jpg",
+        "cast_id": 18,
+        "character": "Self - Musician",
+        "credit_id": "6243667ed100b6005c4c9fff",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4660856,
+        "known_for_department": "Sound",
+        "name": "Weldon Myrick",
+        "original_name": "Weldon Myrick",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Self - Musician",
+        "credit_id": "6621783d78570e017e1091ca",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142594,
+        "known_for_department": "Directing",
+        "name": "Les Blank",
+        "original_name": "Les Blank",
+        "popularity": 0.527,
+        "profile_path": "/i0qT8dEUIR2tgqZLCx6avfqNx11.jpg",
+        "credit_id": "551473bc9251412be4001953",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1393079,
+        "known_for_department": "Writing",
+        "name": "Howard Chesley",
+        "original_name": "Howard Chesley",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "credit_id": "64740487cc277c01161c7bd6",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1649696,
+        "known_for_department": "Sound",
+        "name": "Wally Heider",
+        "original_name": "Wally Heider",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "647404985cd16e00f9af8eaa",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4086077,
+        "known_for_department": "Sound",
+        "name": "John Lemay",
+        "original_name": "John Lemay",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "647404ab5cd16e00bf11cbd4",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355370,
+        "known_for_department": "Camera",
+        "name": "Baird Bryant",
+        "original_name": "Baird Bryant",
+        "popularity": 0.4822,
+        "profile_path": null,
+        "credit_id": "647404bdbe2d4900f9946b7f",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116791,
+        "known_for_department": "Camera",
+        "name": "Joan Churchill",
+        "original_name": "Joan Churchill",
+        "popularity": 0.3412,
+        "profile_path": null,
+        "credit_id": "647404cf5cd16e00f9af8eca",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4086078,
+        "known_for_department": "Camera",
+        "name": "Dan Dominy",
+        "original_name": "Dan Dominy",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "647404e1dd731b2d762ba8fa",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 980944,
+        "known_for_department": "Directing",
+        "name": "Maureen Gosling",
+        "original_name": "Maureen Gosling",
+        "popularity": 1.2409,
+        "profile_path": "/mGgojlTTDbeRluc63rCQQDp8Ztc.jpg",
+        "credit_id": "647404f6a199a600dc4cff32",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4086079,
+        "known_for_department": "Camera",
+        "name": "Jim Sellman",
+        "original_name": "Jim Sellman",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64740508dd731b2d79d1ce2b",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142594,
+        "known_for_department": "Directing",
+        "name": "Les Blank",
+        "original_name": "Les Blank",
+        "popularity": 0.527,
+        "profile_path": "/i0qT8dEUIR2tgqZLCx6avfqNx11.jpg",
+        "credit_id": "5d242cf769d2803209006cf2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84914,
+        "known_for_department": "Acting",
+        "name": "Leon Russell",
+        "original_name": "Leon Russell",
+        "popularity": 0.2628,
+        "profile_path": "/v1KgMLesGMVUWsZBujqHdA6aju3.jpg",
+        "credit_id": "5d242d086d4c97465c74a5aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2264484,
+        "known_for_department": "Acting",
+        "name": "Denny Cordell",
+        "original_name": "Denny Cordell",
+        "popularity": 0.1191,
+        "profile_path": null,
+        "credit_id": "5d242d23a698cf6258a7614f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 320973,
+        "known_for_department": "Directing",
+        "name": "Harrod Blank",
+        "original_name": "Harrod Blank",
+        "popularity": 0.0707,
+        "profile_path": "/ff3Eq3CU5HZaKFAxJ3133jimhu7.jpg",
+        "credit_id": "5d242d356d4c97000d7a7ec8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142594,
+        "known_for_department": "Directing",
+        "name": "Les Blank",
+        "original_name": "Les Blank",
+        "popularity": 0.527,
+        "profile_path": "/i0qT8dEUIR2tgqZLCx6avfqNx11.jpg",
+        "credit_id": "5d242d4a69d2801be00070b4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142594,
+        "known_for_department": "Directing",
+        "name": "Les Blank",
+        "original_name": "Les Blank",
+        "popularity": 0.527,
+        "profile_path": "/i0qT8dEUIR2tgqZLCx6avfqNx11.jpg",
+        "credit_id": "5ec8941c8e2e00002020f6a3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

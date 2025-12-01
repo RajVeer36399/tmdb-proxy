@@ -1,0 +1,340 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 249546,
+  "imdb_id": "tt0318441",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Meu Compadre, Zé Ketti",
+  "overview": "Short musical film paying a tribute to samba composer Zé Ketti, one of the greatest popular artists of Brazilian music. In a jam session, in the late composer's house in Inhaúma, a neighborhood of Rio de Janeiro, a group of friends get together to play his music while a \"feijoada\" (typical Brazilian food with black beans)is being cooked in the kitchen. The samba-players, first-rate samba stars themselves, remember Ketti's great hits in a homage to the man who was best known as \"a voz do morro\" (\"the hill's voice\" - but hill as a metaphor for a place where poor people build their shacks in slums, in opposition to city, where middle-class people live in Rio). Among the guests, names of the traditional \"samba-school\" Portela and ex-partners. Also, the presence of a black hat on an empty chair, represents the composer himself, who died in 1999, after a life of many accomplishments in music, and appearance in three of Dos Santos's films: \"Rio, 40 Graus\", \"Rio Zona Norte\" and \"Boca de Ouro\".",
+  "popularity": 6.2536,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 76566,
+      "logo_path": null,
+      "name": "Regina Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 346,
+      "logo_path": "/ymwuRMQkrQojx55MeMO861Rdecz.png",
+      "name": "VideoFilmes",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2001-08-20",
+  "revenue": 0,
+  "runtime": 12,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Meu Compadre, Zé Ketti",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2423155,
+        "known_for_department": "Acting",
+        "name": "Walter Alfaiate",
+        "original_name": "Walter Alfaiate",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "5d93e7e021c4ca001d7ec3a5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2423156,
+        "known_for_department": "Acting",
+        "name": "Délcio Carvalho",
+        "original_name": "Délcio Carvalho",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "5d93e7eaa06efe0012599b19",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2423157,
+        "known_for_department": "Acting",
+        "name": "Colombo",
+        "original_name": "Colombo",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "5d93e81787ae7b0014a33b82",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2423158,
+        "known_for_department": "Acting",
+        "name": "Zé Cruz",
+        "original_name": "Zé Cruz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "5d93e825a097dc0022230a4d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2423160,
+        "known_for_department": "Acting",
+        "name": "Noca da Portela",
+        "original_name": "Noca da Portela",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "5d93e83087ae7b0024a36ea7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2305096,
+        "known_for_department": "Acting",
+        "name": "Guilherme de Brito",
+        "original_name": "Guilherme de Brito",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "5d93e83e21c4ca00277e4c6c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2423161,
+        "known_for_department": "Acting",
+        "name": "Jair do Cavaquinho",
+        "original_name": "Jair do Cavaquinho",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "5d93e849a097dc001222ba63",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1293591,
+        "known_for_department": "Acting",
+        "name": "Elton Medeiros",
+        "original_name": "Elton Medeiros",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "5d93e85da06efe0012599bc3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1293592,
+        "known_for_department": "Acting",
+        "name": "Hildmar Diniz",
+        "original_name": "Monarco",
+        "popularity": 0.0286,
+        "profile_path": "/oN2Qu8OhEc1nfx64kVlR8naTZeo.jpg",
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "5d93e867d2b209002412be89",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2423163,
+        "known_for_department": "Acting",
+        "name": "Wilson Moreira",
+        "original_name": "Wilson Moreira",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "5d93e87087ae7b001ca34602",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1803592,
+        "known_for_department": "Acting",
+        "name": "Nelson Sargento",
+        "original_name": "Nelson Sargento",
+        "popularity": 0.0566,
+        "profile_path": "/fjYooTCQrb2Eanys5QI7bmqEmcO.jpg",
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "5d93e878a06efe0012599bdc",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12386,
+        "known_for_department": "Directing",
+        "name": "Nelson Pereira dos Santos",
+        "original_name": "Nelson Pereira dos Santos",
+        "popularity": 0.4414,
+        "profile_path": "/aSmM21qsqWz8YNrmKBtkq80ST7h.jpg",
+        "credit_id": "52fe4f46c3a36847f82ca0b9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1506151,
+        "known_for_department": "Acting",
+        "name": "Zé Keti",
+        "original_name": "Zé Keti",
+        "popularity": 0.0705,
+        "profile_path": "/nfbWLJc4o55Key3mSURsbg0Cbjq.jpg",
+        "credit_id": "55ecd16cc3a368090c001d39",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1819451,
+        "known_for_department": "Camera",
+        "name": "Flávio Zangrandi",
+        "original_name": "Flávio Zangrandi",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5da88ce9b7b69d0011e8ee45",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2434874,
+        "known_for_department": "Production",
+        "name": "Mila Chaseliov",
+        "original_name": "Mila Chaseliov",
+        "popularity": 0.0143,
+        "profile_path": "/fZH5s0H1JKGgeFFHTAXDgODggXv.jpg",
+        "credit_id": "5da88d3eb7b69d0015e94048",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1117964,
+        "known_for_department": "Production",
+        "name": "Raquel Freire Zangrandi",
+        "original_name": "Raquel Freire Zangrandi",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "5da88cdcb7b69d0013e929b6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8563,
+        "known_for_department": "Production",
+        "name": "Mauricio Andrade Ramos",
+        "original_name": "Mauricio Andrade Ramos",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "5da88ccda2423200177bee04",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2434872,
+        "known_for_department": "Editing",
+        "name": "Júlio Souto",
+        "original_name": "Júlio Souto",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5da88d1dc3c8910015163bbb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1479687,
+        "known_for_department": "Camera",
+        "name": "Reynaldo Zangrandi",
+        "original_name": "Reynaldo Zangrandi",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "5da88cf7c3c8910015163b8c",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1671240,
+        "known_for_department": "Sound",
+        "name": "Juarez Dagoberto Costa",
+        "original_name": "Juarez Dagoberto Costa",
+        "popularity": 0.1126,
+        "profile_path": null,
+        "credit_id": "5da88d30c3c89100181641c3",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  }
+}

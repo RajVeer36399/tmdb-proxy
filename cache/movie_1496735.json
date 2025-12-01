@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/bQ05oe6OJYCPlqIvldDg45PsiKH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.youtube.com/watch?v=zxAubNf3EQQ",
+  "id": 1496735,
+  "imdb_id": null,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "原神：尘间星旅",
+  "overview": "Looking up, she could see the night sky embracing all that is. In that moment, a thousand emotions crystallized into questions. Where hang the sun and moon? What canvas depicts the stars? The infinite universe and breadth of time question the smallness of man. Yet it is these small specimens of mortality who may embark on long voyages, the power to create miracles firmly within their grasp.",
+  "popularity": 17.6004,
+  "poster_path": "/iBsKv6W5gaEnpYf3LBvwaybrnAX.jpg",
+  "production_companies": [
+    {
+      "id": 158305,
+      "logo_path": "/gkZoRcfGMBLd9RnkahB0hm3cUFo.png",
+      "name": "miHoYo Anime",
+      "origin_country": "CN"
+    },
+    {
+      "id": 161996,
+      "logo_path": null,
+      "name": "HOYO-MiX",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-06-12",
+  "revenue": 0,
+  "runtime": 3,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Genshin Impact: Star Odyssey",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114299,
+        "known_for_department": "Acting",
+        "name": "Ryohei Kimura",
+        "original_name": "木村良平",
+        "popularity": 1.0066,
+        "profile_path": "/m4GktFKhjrVTewsZtqTusInHZqT.jpg",
+        "cast_id": 1,
+        "character": "Tartaglia",
+        "credit_id": "684a563aebd7244e6e302849",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1325949,
+        "known_for_department": "Acting",
+        "name": "Inori Minase",
+        "original_name": "水瀬いのり",
+        "popularity": 1.4967,
+        "profile_path": "/lKc1xtRCLW18O0xaJCL5mJ6ii2.jpg",
+        "cast_id": 2,
+        "character": "Furina",
+        "credit_id": "684a565970e868b880b0d2dc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 101913,
+        "known_for_department": "Acting",
+        "name": "Kikuko Inoue",
+        "original_name": "井上喜久子",
+        "popularity": 1.0503,
+        "profile_path": "/pPxGWy53FgYSC79zmxblmHe0gI3.jpg",
+        "cast_id": 3,
+        "character": "Alice",
+        "credit_id": "684a566d72276fc73bbb3f82",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89903,
+        "known_for_department": "Acting",
+        "name": "Mamiko Noto",
+        "original_name": "能登麻美子",
+        "popularity": 1.6217,
+        "profile_path": "/wCSD7Umgzc66p8VGXrrMZtSLSuS.jpg",
+        "cast_id": 4,
+        "character": "Skirk",
+        "credit_id": "684a56867a1db9c21a293cd5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468251,
+        "known_for_department": "Acting",
+        "name": "Ryota Takeuchi",
+        "original_name": "竹内良太",
+        "popularity": 0.4663,
+        "profile_path": "/1PZIIKxOAgn6YexksH6weYnzzhh.jpg",
+        "cast_id": 5,
+        "character": "Surtalogi",
+        "credit_id": "684a56a5640159de78293ea3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135524,
+        "known_for_department": "Acting",
+        "name": "Kenjiro Tsuda",
+        "original_name": "津田健次郎",
+        "popularity": 2.5411,
+        "profile_path": "/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg",
+        "cast_id": 6,
+        "character": "Dainsleif",
+        "credit_id": "684a56f15152def6a2293c89",
+        "order": 5
+      }
+    ],
+    "crew": []
+  }
+}

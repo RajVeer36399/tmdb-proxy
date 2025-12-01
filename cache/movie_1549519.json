@@ -1,0 +1,156 @@
+{
+  "adult": false,
+  "backdrop_path": "/q2UhJtqp4ONeARofhpIHx4S0ElU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1549519,
+  "imdb_id": "tt38080080",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Sex Trip",
+  "overview": "Details Here",
+  "popularity": 7.0306,
+  "poster_path": "/sr4sLilBbPx4TfPnX2zzUxlySgu.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2025-11-28",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sex Trip",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4582206,
+        "known_for_department": "Acting",
+        "name": "Angeline Aril",
+        "original_name": "Angeline Aril",
+        "popularity": 4.5305,
+        "profile_path": "/o4MCnB8mdXXTYn6AWPKsik29lxs.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "68cefeadddf045e02b97d39e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5078779,
+        "known_for_department": "Acting",
+        "name": "Julianne Richards",
+        "original_name": "Julianne Richards",
+        "popularity": 0.9103,
+        "profile_path": "/6PJajsIRlmBsnr9euVJzBxqVHmU.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "68cefebd0d67e77283749476",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5580975,
+        "known_for_department": "Acting",
+        "name": "Margaret Sison",
+        "original_name": "Margaret Sison",
+        "popularity": 0.3178,
+        "profile_path": "/yIrlxJk19uNKdxSGIi3F5wLnkfn.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "68cefed6883e551320cebf97",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2876771,
+        "known_for_department": "Acting",
+        "name": "VR Relosa",
+        "original_name": "VR Relosa",
+        "popularity": 0.6456,
+        "profile_path": "/mbsIqmnrrBsAUb0y4ZHfV7zTfMm.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "68cefeebddc148b09f7a4066",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3362447,
+        "known_for_department": "Acting",
+        "name": "Van Allen Ong",
+        "original_name": "Van Allen Ong",
+        "popularity": 1.2624,
+        "profile_path": "/jfR0mocS2oMV3UqDyKwuIVJrwQc.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "68cefef8e2401a23cafe901b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5701090,
+        "known_for_department": "Acting",
+        "name": "Margaret Diaz",
+        "original_name": "Margaret Diaz",
+        "popularity": 1.2264,
+        "profile_path": "/rZx0BaS2NLiuPbKSSvWkqr3S13v.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "69014a741b98f8b9129394e2",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1053800,
+        "known_for_department": "Directing",
+        "name": "Lawrence Fajardo",
+        "original_name": "Lawrence Fajardo",
+        "popularity": 0.7284,
+        "profile_path": "/lALuR9P2rxYQeYzC8VjxgAnHaad.jpg",
+        "credit_id": "68f950b485a278c2ff127e0d",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "adult": false,
+  "backdrop_path": "/snzhZTuqKU2vWxK8srBNT9VV4IM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 114692,
+  "imdb_id": "tt0123282",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Støvsugerbanden",
+  "overview": "In the vicinity of Copenhagen, a group of pensioners live in a very large villa. The owner, Doctor Bach, has invited a colleague, the young master Peter Park , to visit him. They have a common interest that they could discuss during his stay. When he arrives, it is at a most inconvenient time. He is greeted by the doctor's sister, the almost deaf Camilla, who does not understand much of what is going on around her. The doctor has completely forgotten that he invited Park, but he settles him into the villa nonetheless. Here, Park meets the doctor's granddaughter, the young and beautiful Lise Bach (Henriette Normann), to whom he is immediately attracted. When Lise asks her grandfather if he is going out again, the doctor explains that he is going to the cinema with his good friend Friis.",
+  "popularity": 6.5362,
+  "poster_path": "/cWfqCXqnqjHGBst1nRAmCcDGvwI.jpg",
+  "production_companies": [
+    {
+      "id": 26267,
+      "logo_path": null,
+      "name": "Bent Christensen Filmproduktion",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "1963-02-25",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Støvsugerbanden",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1059187,
+        "known_for_department": "Acting",
+        "name": "Henrik Bentzon",
+        "original_name": "Henrik Bentzon",
+        "popularity": 0.0747,
+        "profile_path": "/icTdsmznFAY1IvM87AuQorYY3ct.jpg",
+        "cast_id": 2,
+        "character": "Doktor Bak",
+        "credit_id": "52fe4b55c3a36847f81fe81b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89676,
+        "known_for_department": "Acting",
+        "name": "Clara Pontoppidan",
+        "original_name": "Clara Pontoppidan",
+        "popularity": 0.6942,
+        "profile_path": "/k5yBFjxpOQCtTKG3UF9pkOKBEF.jpg",
+        "cast_id": 3,
+        "character": "Camilla",
+        "credit_id": "52fe4b55c3a36847f81fe81f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225502,
+        "known_for_department": "Acting",
+        "name": "Gunnar Lauring",
+        "original_name": "Gunnar Lauring",
+        "popularity": 0.1083,
+        "profile_path": "/9U39emYqoB2i6s0LDbq5VXitUq7.jpg",
+        "cast_id": 4,
+        "character": "Friis",
+        "credit_id": "52fe4b55c3a36847f81fe823",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117971,
+        "known_for_department": "Acting",
+        "name": "Agnes Rehni",
+        "original_name": "Agnes Rehni",
+        "popularity": 0.2023,
+        "profile_path": "/n5Ti6NjcOb5Ffe3uoUhX5bkqLUo.jpg",
+        "cast_id": 5,
+        "character": "Thea",
+        "credit_id": "52fe4b55c3a36847f81fe827",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4456,
+        "known_for_department": "Acting",
+        "name": "Henning Moritzen",
+        "original_name": "Henning Moritzen",
+        "popularity": 0.2397,
+        "profile_path": "/tAax9obEx0Zdg9SjXeLCzKFqCBz.jpg",
+        "cast_id": 6,
+        "character": "Peter Park",
+        "credit_id": "52fe4b55c3a36847f81fe82b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224892,
+        "known_for_department": "Acting",
+        "name": "Hans W. Petersen",
+        "original_name": "Hans W. Petersen",
+        "popularity": 0.3909,
+        "profile_path": "/zq9e27RV0dFSnTaU514uIvef7rf.jpg",
+        "cast_id": 7,
+        "character": "Victor",
+        "credit_id": "52fe4b55c3a36847f81fe82f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117963,
+        "known_for_department": "Acting",
+        "name": "Johannes Meyer",
+        "original_name": "Johannes Meyer",
+        "popularity": 0.1469,
+        "profile_path": "/jNi5csRPe9hYUctZwyiNSFC3iMV.jpg",
+        "cast_id": 8,
+        "character": "Augustin",
+        "credit_id": "52fe4b55c3a36847f81fe833",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1059189,
+        "known_for_department": "Acting",
+        "name": "Henriette Norsman",
+        "original_name": "Henriette Norsman",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Lise",
+        "credit_id": "52fe4b55c3a36847f81fe837",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 579027,
+        "known_for_department": "Acting",
+        "name": "Kai Holm",
+        "original_name": "Kai Holm",
+        "popularity": 0.1564,
+        "profile_path": "/biRtEgYApH8EUWZTOHeXLqS5nak.jpg",
+        "cast_id": 10,
+        "character": "En mystisk herre",
+        "credit_id": "52fe4b55c3a36847f81fe83b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 579184,
+        "known_for_department": "Acting",
+        "name": "Carl Johan Hviid",
+        "original_name": "Carl Johan Hviid",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Politiinspektøren",
+        "credit_id": "52fe4b55c3a36847f81fe83f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568922,
+        "known_for_department": "Acting",
+        "name": "Henry Nielsen",
+        "original_name": "Henry Nielsen",
+        "popularity": 0.1651,
+        "profile_path": "/kDnN2rwKUhxHWHkkOlkbel5NJmt.jpg",
+        "cast_id": 12,
+        "character": "En forvalter",
+        "credit_id": "52fe4b55c3a36847f81fe843",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 579147,
+        "known_for_department": "Acting",
+        "name": "Ebba Amfeldt",
+        "original_name": "Ebba Amfeldt",
+        "popularity": 0.0453,
+        "profile_path": "/gEdT29iVfR0QLztsMfTLuuVb4O1.jpg",
+        "cast_id": 13,
+        "character": "En servitrice",
+        "credit_id": "52fe4b55c3a36847f81fe847",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 579007,
+        "known_for_department": "Acting",
+        "name": "Svend Bille",
+        "original_name": "Svend Bille",
+        "popularity": 0.6467,
+        "profile_path": "/2jIgire79iWMPed6fshuTFqoCi8.jpg",
+        "cast_id": 14,
+        "character": "En jernbanefunktionær",
+        "credit_id": "52fe4b55c3a36847f81fe84b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 579000,
+        "known_for_department": "Acting",
+        "name": "Torkil Lauritzen",
+        "original_name": "Torkil Lauritzen",
+        "popularity": 0.0623,
+        "profile_path": "/dcE25PC3fcQ3r76WO9OQpqUirgi.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "54fc915cc3a36869fb0049d1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 395016,
+        "known_for_department": "Acting",
+        "name": "Holger Vistisen",
+        "original_name": "Holger Vistisen",
+        "popularity": 0.1497,
+        "profile_path": "/AcStnDYSSM8r2Ld7NpsAoJLT6c0.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "54fc9166c3a368471f00220d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 225919,
+        "known_for_department": "Acting",
+        "name": "Ole Ishøy",
+        "original_name": "Ole Ishøy",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "54fc916e92514123af00236e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51202,
+        "known_for_department": "Acting",
+        "name": "Michel Hildesheim",
+        "original_name": "Michel Hildesheim",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "54fc9177c3a368479c0020c2",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72371,
+        "known_for_department": "Directing",
+        "name": "Bent Christensen",
+        "original_name": "Bent Christensen",
+        "popularity": 0.1395,
+        "profile_path": "/3ykG6V882XtSfLDZPb8P8Fnjpf5.jpg",
+        "credit_id": "52fe4b55c3a36847f81fe817",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236990,
+        "known_for_department": "Writing",
+        "name": "Leif Panduro",
+        "original_name": "Leif Panduro",
+        "popularity": 0.0642,
+        "profile_path": "/c5LiQFwpVCSFQFNNO7nhxbRrerZ.jpg",
+        "credit_id": "52fe4b55c3a36847f81fe851",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

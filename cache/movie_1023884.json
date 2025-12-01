@@ -1,0 +1,365 @@
+{
+  "adult": false,
+  "backdrop_path": "/jvb9LpEYbNUUj117HW32oKYDEQJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.hbomax.com/feature/love-lizzo",
+  "id": 1023884,
+  "imdb_id": "tt13622290",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Love, Lizzo",
+  "overview": "Follow pop star Lizzo and explore her humble beginnings to her meteoric rise with an intimate look into the moments that shaped her hard-earned rise to fame, success, love and international stardom.",
+  "popularity": 6.8342,
+  "poster_path": "/2LyFq5cTJSLn7r9FLkBAWD0kCj8.jpg",
+  "production_companies": [
+    {
+      "id": 170113,
+      "logo_path": null,
+      "name": "Lizzobangers",
+      "origin_country": "US"
+    },
+    {
+      "id": 3345,
+      "logo_path": "/9osXMsxl3h772MSO4CIFycy4MfV.png",
+      "name": "Warner Music Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 81368,
+      "logo_path": "/srN5L2dTtbsb48VUHvpNG71pT7q.png",
+      "name": "Live Nation Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 182177,
+      "logo_path": null,
+      "name": "Atlantic Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 85984,
+      "logo_path": "/2CaCVxh0IbjIpLmqvLxyAHBVGaU.png",
+      "name": "Boardwalk Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4183,
+      "logo_path": "/bPOaJehJ43bEq1sip5jE1G53IEE.png",
+      "name": "Diamond Docs",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-24",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Truth heals.",
+  "title": "Love, Lizzo",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1661465,
+        "known_for_department": "Acting",
+        "name": "Lizzo",
+        "original_name": "Lizzo",
+        "popularity": 0.3323,
+        "profile_path": "/wYPEw07PGNht66ziBEuF4DoArQj.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "631ff1a1ce9e91007ccfebc0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77071,
+        "known_for_department": "Sound",
+        "name": "Mark Ronson",
+        "original_name": "Mark Ronson",
+        "popularity": 0.5303,
+        "profile_path": "/8GTi2eUkcirPDtYMh1GlvjACvTv.jpg",
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "638499a1a410c8008cd4c548",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1613304,
+        "known_for_department": "Acting",
+        "name": "Shawn Mendes",
+        "original_name": "Shawn Mendes",
+        "popularity": 0.8276,
+        "profile_path": "/grQeD2Emwe0gSvHAgXnlVvZn1EK.jpg",
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "63849a61bf09d1007f254c99",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1862165,
+        "known_for_department": "Production",
+        "name": "Michael Rapino",
+        "original_name": "Michael Rapino",
+        "popularity": 0.0734,
+        "profile_path": "/l34MH2VQ8Cu3DQl5VSHJSnbs26N.jpg",
+        "credit_id": "631ff3eb67dcc9008282aac5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1661465,
+        "known_for_department": "Acting",
+        "name": "Lizzo",
+        "original_name": "Lizzo",
+        "popularity": 0.3323,
+        "profile_path": "/wYPEw07PGNht66ziBEuF4DoArQj.jpg",
+        "credit_id": "631ff2163927120083292890",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2030790,
+        "known_for_department": "Production",
+        "name": "Julie Greenwald",
+        "original_name": "Julie Greenwald",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "631ff388ce9e91007f75c209",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3698857,
+        "known_for_department": "Production",
+        "name": "Chad Wasser",
+        "original_name": "Chad Wasser",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "631ff40ab865eb007a32295a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2527471,
+        "known_for_department": "Production",
+        "name": "Charlie Cohen",
+        "original_name": "Charlie Cohen",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "631ff39e5684630083cd6849",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105802,
+        "known_for_department": "Directing",
+        "name": "Doug Pray",
+        "original_name": "Doug Pray",
+        "popularity": 0.9781,
+        "profile_path": "/v6UdvGzZUBq8dcS73shIvqpKog0.jpg",
+        "credit_id": "631ff1d7ce9e910084916bec",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2160129,
+        "known_for_department": "Production",
+        "name": "Kevin Beisler",
+        "original_name": "Kevin Beisler",
+        "popularity": 0.0794,
+        "profile_path": null,
+        "credit_id": "631ff1ee4350110082871b60",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2705560,
+        "known_for_department": "Production",
+        "name": "Ryan Kroft",
+        "original_name": "Ryan Kroft",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "631ff209bd3209008273852e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3439776,
+        "known_for_department": "Production",
+        "name": "Omar Al-Joulani",
+        "original_name": "Omar Al-Joulani",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "631ff3f20b7316007dc46498",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3698856,
+        "known_for_department": "Production",
+        "name": "Lesley Olenik",
+        "original_name": "Lesley Olenik",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "631ff404435011007f986532",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1946882,
+        "known_for_department": "Crew",
+        "name": "Kevin Weaver",
+        "original_name": "Kevin Weaver",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "631ff5440d2f5300842a639f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1548067,
+        "known_for_department": "Production",
+        "name": "Nicole Rocklin",
+        "original_name": "Nicole Rocklin",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "631ff20dbd32090082738536",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1507471,
+        "known_for_department": "Production",
+        "name": "Len Blavatnik",
+        "original_name": "Len Blavatnik",
+        "popularity": 0.5764,
+        "profile_path": "/wRTPDTUO8SmVo6DHK97dXzRE6Hw.jpg",
+        "credit_id": "631ff3820bb076008024331a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2232128,
+        "known_for_department": "Production",
+        "name": "Craig Kallman",
+        "original_name": "Craig Kallman",
+        "popularity": 0.0717,
+        "profile_path": null,
+        "credit_id": "631ff3950bb076007b79f527",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1084980,
+        "known_for_department": "Production",
+        "name": "Stephanie Meurer",
+        "original_name": "Stephanie Meurer",
+        "popularity": 0.1502,
+        "profile_path": null,
+        "credit_id": "631ff1e30d2f53007c6c519c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105802,
+        "known_for_department": "Directing",
+        "name": "Doug Pray",
+        "original_name": "Doug Pray",
+        "popularity": 0.9781,
+        "profile_path": "/v6UdvGzZUBq8dcS73shIvqpKog0.jpg",
+        "credit_id": "631ff1ad58efd30081bc9afe",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94816,
+        "known_for_department": "Writing",
+        "name": "Mark Monroe",
+        "original_name": "Mark Monroe",
+        "popularity": 0.4822,
+        "profile_path": "/pNqFadHJzvaTrfY1iiuYR31v4Sw.jpg",
+        "credit_id": "631ff460cc277c008a610bc9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2794914,
+        "known_for_department": "Editing",
+        "name": "Debby Germino",
+        "original_name": "Debby Germino",
+        "popularity": 0.1048,
+        "profile_path": null,
+        "credit_id": "67cbb66305adfb9eb95b96b9",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "adult": false,
+  "backdrop_path": "/oVph5mMhp0UxVYeSpIfUfll0kcF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1484640,
+  "imdb_id": "tt34682204",
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_title": "Limpia",
+  "overview": "Estela, a young woman from rural Chile, embarks on a journey to Santiago, leaving her family behind to work as a maid for an affluent household.",
+  "popularity": 9.8958,
+  "poster_path": "/5pkYUOyvxjAYlUpq4GDTp04gxMa.jpg",
+  "production_companies": [
+    {
+      "id": 21546,
+      "logo_path": "/nB186ByqKVBiuy9Nc3US9nlBst1.png",
+      "name": "Fabula",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "release_date": "2025-09-25",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Swim to Me",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1109643,
+        "known_for_department": "Acting",
+        "name": "María Paz Grandjean",
+        "original_name": "María Paz Grandjean",
+        "popularity": 0.3184,
+        "profile_path": "/8Vh6OcUdo5uDdOGSyvZwZGWLTvX.jpg",
+        "cast_id": 10,
+        "character": "Estela",
+        "credit_id": "68aaafcc28bc1861a0a99ca8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5645316,
+        "known_for_department": "Acting",
+        "name": "Rosa Puga Vittini",
+        "original_name": "Rosa Puga Vittini",
+        "popularity": 0.0476,
+        "profile_path": "/rjoswOS5864zb7VrPxDpnUZw6iU.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "68aaafe65a398f7c6c448918",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2171544,
+        "known_for_department": "Acting",
+        "name": "Ignacia Baeza",
+        "original_name": "Ignacia Baeza",
+        "popularity": 0.1233,
+        "profile_path": "/5ZVEGrqmAsfsVD2dsJl7AGfS5KV.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "68aab0106fa7bc3adba99ebc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044566,
+        "known_for_department": "Acting",
+        "name": "Benjamín Westfall",
+        "original_name": "Benjamín Westfall",
+        "popularity": 0.3752,
+        "profile_path": "/sBe8wSJmdmXpz2K8XFGYbC9Ju7m.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "68c41dfd6c830a8aff2a07e9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471605,
+        "known_for_department": "Acting",
+        "name": "Rodrigo Palacios",
+        "original_name": "Rodrigo Palacios",
+        "popularity": 0.1562,
+        "profile_path": "/A7n69bkFS27Mw3Ne7kuFOaqPqAW.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "68c41e053e901df5eb199fbe",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1088208,
+        "known_for_department": "Directing",
+        "name": "Dominga Sotomayor",
+        "original_name": "Dominga Sotomayor",
+        "popularity": 0.1392,
+        "profile_path": "/riLkpCR7S4P9914USEnfbaMLTwb.jpg",
+        "credit_id": "682cfaccf5ca8ac4a62f127e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1088208,
+        "known_for_department": "Directing",
+        "name": "Dominga Sotomayor",
+        "original_name": "Dominga Sotomayor",
+        "popularity": 0.1392,
+        "profile_path": "/riLkpCR7S4P9914USEnfbaMLTwb.jpg",
+        "credit_id": "682cfae6eb593065a02f126f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2346645,
+        "known_for_department": "Writing",
+        "name": "Gabriela Larralde",
+        "original_name": "Gabriela Larralde",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "682cfaf8d695b950850bdf64",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1663922,
+        "known_for_department": "Production",
+        "name": "Rocío Jadue",
+        "original_name": "Rocío Jadue",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "682cfc184b404174342f7e4e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1075100,
+        "known_for_department": "Production",
+        "name": "Juan de Dios Larraín",
+        "original_name": "Juan de Dios Larraín",
+        "popularity": 0.3057,
+        "profile_path": null,
+        "credit_id": "682cfc31010214cda59e4195",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225009,
+        "known_for_department": "Directing",
+        "name": "Pablo Larraín",
+        "original_name": "Pablo Larraín",
+        "popularity": 0.4644,
+        "profile_path": "/4vP5MatNdE6Ku1iJbboWZPya18b.jpg",
+        "credit_id": "682cfc3fc264ae362964948b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1088208,
+        "known_for_department": "Directing",
+        "name": "Dominga Sotomayor",
+        "original_name": "Dominga Sotomayor",
+        "popularity": 0.1392,
+        "profile_path": "/riLkpCR7S4P9914USEnfbaMLTwb.jpg",
+        "credit_id": "682cfc547c9d2798e9db3493",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4612388,
+        "known_for_department": "Writing",
+        "name": "Alia Trabucco Zerán",
+        "original_name": "Alia Trabucco Zerán",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "682cfc7b6299b61e736494fb",
+        "department": "Writing",
+        "job": "Book"
+      }
+    ]
+  }
+}

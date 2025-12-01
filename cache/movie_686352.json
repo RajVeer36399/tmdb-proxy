@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 686352,
+  "imdb_id": "tt14337166",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Candy Shop",
+  "overview": "Pills and capsules are choreographed into a cacophony of shape, color and size, resulting in a satirical commentary about our cultural, recreational, and economic infatuation with prescription drugs.",
+  "popularity": 5.5277,
+  "poster_path": "/uqINSurIPhd5wKWEBUSQqltGy76.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-11-01",
+  "revenue": 0,
+  "runtime": 2,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Candy Shop",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2324258,
+        "known_for_department": "Production",
+        "name": "Kaori Ishida",
+        "original_name": "Kaori Ishida",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5e7b94309e4012001505733e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2324257,
+        "known_for_department": "Directing",
+        "name": "Patrick Smith",
+        "original_name": "Patrick Smith",
+        "popularity": 0.0722,
+        "profile_path": "/n9trp7RHyCouEyyp5QHzOSemUh0.jpg",
+        "credit_id": "5e7b941fab1bc70013c1dc7d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1431626,
+        "known_for_department": "Sound",
+        "name": "Steve Rice",
+        "original_name": "Steve Rice",
+        "popularity": 0.8688,
+        "profile_path": null,
+        "credit_id": "6014b1d00816c700428504c8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

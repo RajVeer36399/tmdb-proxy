@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1109830,
+  "imdb_id": null,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "アイドルスナイパー the movie",
+  "overview": "Cute idols, full-fledged action that will take your breath away, dark characters reminiscent of Japanese anime, and a total of more than 50 cast members! An entertainment heroine action movie that mixes sex appeal and gun action.",
+  "popularity": 5.6831,
+  "poster_path": "/eHKKF0qfmcoo0gRqG3GqXsLlXez.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2021-01-21",
+  "revenue": 0,
+  "runtime": 68,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Idol Sniper the movie",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4092122,
+        "known_for_department": "Acting",
+        "name": "Mitsuki Endo",
+        "original_name": "遠藤三貴",
+        "popularity": 0.3515,
+        "profile_path": "/jWpfeGbuuN9AQNZOXBX4XOU34Xj.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "64beee4b58efd300c5ff9641",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4126658,
+        "known_for_department": "Acting",
+        "name": "Yurie Seno",
+        "original_name": "瀬野ユリエ",
+        "popularity": 0.045,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "64beeeb158efd300e2f2cbb5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3994073,
+        "known_for_department": "Acting",
+        "name": "Riko Fukuyama",
+        "original_name": "Riko Fukuyama",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "64beef1058efd300e2f2cbd5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94161,
+        "known_for_department": "Acting",
+        "name": "Sasa Handa",
+        "original_name": "範田紗々",
+        "popularity": 1.2867,
+        "profile_path": "/c0nFbCeARgHRx044lIe1v1fHdj0.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "68bf33542e3ad6fd304e6434",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1995710,
+        "known_for_department": "Writing",
+        "name": "Yuta Takahashi",
+        "original_name": "Yuta Takahashi",
+        "popularity": 0.3585,
+        "profile_path": null,
+        "credit_id": "649744e7eb79c200ad715d9b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2878676,
+        "known_for_department": "Directing",
+        "name": "Tsukasa Inaba",
+        "original_name": "Tsukasa Inaba",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "649744bcbbd0b000c8a2d023",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

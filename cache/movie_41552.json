@@ -1,0 +1,462 @@
+{
+  "adult": false,
+  "backdrop_path": "/3zx2FYZCc8IZaqyXnS4AicysNgx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 41552,
+  "imdb_id": "tt0041181",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Black Hand",
+  "overview": "In turn-of-the-century New York, an Italian seeks vengeance on the mobsters who killed his father.",
+  "popularity": 6.4387,
+  "poster_path": "/6WfHXzS2CpXT3DRAwEkDnw7aJIj.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1950-03-12",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's Gene Kelly against The Black Hand!",
+  "title": "Black Hand",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13294,
+        "known_for_department": "Acting",
+        "name": "Gene Kelly",
+        "original_name": "Gene Kelly",
+        "popularity": 0.7321,
+        "profile_path": "/g98yyY7oGrkocUxxJgOt82I7z6A.jpg",
+        "cast_id": 8,
+        "character": "Giovanni E. 'Johnny' Columbo",
+        "credit_id": "52fe45d2c3a36847f80dc54b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96139,
+        "known_for_department": "Acting",
+        "name": "Teresa Celli",
+        "original_name": "Teresa Celli",
+        "popularity": 0.1183,
+        "profile_path": "/8m35bos7Ag5yX64oBn0ZX999My2.jpg",
+        "cast_id": 10,
+        "character": "Isabella Gomboli",
+        "credit_id": "52fe45d2c3a36847f80dc553",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30686,
+        "known_for_department": "Acting",
+        "name": "J. Carrol Naish",
+        "original_name": "J. Carrol Naish",
+        "popularity": 0.4251,
+        "profile_path": "/eTQ39RkhwYnLDKQyqjXkliov537.jpg",
+        "cast_id": 9,
+        "character": "Louis Lorelli",
+        "credit_id": "52fe45d2c3a36847f80dc54f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87369,
+        "known_for_department": "Acting",
+        "name": "Mario Siletti",
+        "original_name": "Mario Siletti",
+        "popularity": 0.5558,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Benny Danetta / Nino",
+        "credit_id": "52fe45d2c3a36847f80dc563",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3140,
+        "known_for_department": "Acting",
+        "name": "Marc Lawrence",
+        "original_name": "Marc Lawrence",
+        "popularity": 0.8989,
+        "profile_path": "/exCnOfb7yD7VSppd32RA9K4TIWx.jpg",
+        "cast_id": 11,
+        "character": "Caesar Xavier Serpi",
+        "credit_id": "52fe45d2c3a36847f80dc557",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89691,
+        "known_for_department": "Acting",
+        "name": "Frank Puglia",
+        "original_name": "Frank Puglia",
+        "popularity": 0.5305,
+        "profile_path": "/r1wLNTEnjKEQGrfUB5qzf8RpiCn.jpg",
+        "cast_id": 12,
+        "character": "Carlo Sabballera",
+        "credit_id": "52fe45d2c3a36847f80dc55b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89834,
+        "known_for_department": "Acting",
+        "name": "Barry Kelley",
+        "original_name": "Barry Kelley",
+        "popularity": 0.201,
+        "profile_path": "/wlfHiZVG8TEOU4IaksO0i9RB2yA.jpg",
+        "cast_id": 13,
+        "character": "Capt. Thompson",
+        "credit_id": "52fe45d2c3a36847f80dc55f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115076,
+        "known_for_department": "Acting",
+        "name": "Carl Milletaire",
+        "original_name": "Carl Milletaire",
+        "popularity": 0.1817,
+        "profile_path": "/mlz3QlxebYudUYQPMEECqADVPt3.jpg",
+        "cast_id": 15,
+        "character": "George Allani / Tomasino",
+        "credit_id": "52fe45d2c3a36847f80dc567",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3910555,
+        "known_for_department": "Acting",
+        "name": "Eleonora von Mendelssohn",
+        "original_name": "Eleonora von Mendelssohn",
+        "popularity": 0.0505,
+        "profile_path": "/qpEgdU11aTaVnGME59TIH6PtUVX.jpg",
+        "cast_id": 17,
+        "character": "Maria Columbo",
+        "credit_id": "63e2c46e56846300a0793dcd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7074,
+        "known_for_department": "Acting",
+        "name": "Peter Brocco",
+        "original_name": "Peter Brocco",
+        "popularity": 0.2266,
+        "profile_path": "/aZhOvx1UiUoxGqzNbTHvzMJCAgN.jpg",
+        "cast_id": 27,
+        "character": "Roberto Columbo",
+        "credit_id": "683701ae68a13bc035838cf7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 136780,
+        "known_for_department": "Acting",
+        "name": "Grazia Narciso",
+        "original_name": "Grazia Narciso",
+        "popularity": 0.1566,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Mrs. Danetta",
+        "credit_id": "683701d294282ee2e4838f6a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89019,
+        "known_for_department": "Acting",
+        "name": "Mimi Aguglia",
+        "original_name": "Mimi Aguglia",
+        "popularity": 0.1882,
+        "profile_path": "/sD3w0Sx26jfRl9h71Gf5uz5povg.jpg",
+        "cast_id": 29,
+        "character": "Mrs. Sabballera",
+        "credit_id": "683701fe4cf65dea80838ced",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88319,
+        "known_for_department": "Acting",
+        "name": "Marc Krah",
+        "original_name": "Marc Krah",
+        "popularity": 0.7196,
+        "profile_path": "/pkhGac5vETs8ywfAgoCjr4G2XJ1.jpg",
+        "cast_id": 30,
+        "character": "Lombardi",
+        "credit_id": "6837022780869b124c730a94",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40169,
+        "known_for_department": "Writing",
+        "name": "Luther Davis",
+        "original_name": "Luther Davis",
+        "popularity": 0.099,
+        "profile_path": null,
+        "credit_id": "52fe45d2c3a36847f80dc529",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96427,
+        "known_for_department": "Camera",
+        "name": "Paul Vogel",
+        "original_name": "Paul Vogel",
+        "popularity": 0.5408,
+        "profile_path": null,
+        "credit_id": "52fe45d2c3a36847f80dc541",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109727,
+        "known_for_department": "Production",
+        "name": "William H. Wright",
+        "original_name": "William H. Wright",
+        "popularity": 0.1227,
+        "profile_path": null,
+        "credit_id": "52fe45d2c3a36847f80dc535",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5841,
+        "known_for_department": "Editing",
+        "name": "Cotton Warburton",
+        "original_name": "Cotton Warburton",
+        "popularity": 0.2821,
+        "profile_path": null,
+        "credit_id": "52fe45d2c3a36847f80dc547",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95527,
+        "known_for_department": "Writing",
+        "name": "Leo Townsend",
+        "original_name": "Leo Townsend",
+        "popularity": 0.1907,
+        "profile_path": null,
+        "credit_id": "52fe45d2c3a36847f80dc52f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70862,
+        "known_for_department": "Directing",
+        "name": "Richard Thorpe",
+        "original_name": "Richard Thorpe",
+        "popularity": 0.3366,
+        "profile_path": "/szbaqa5qggPXjaLbNGb2JMgsoi3.jpg",
+        "credit_id": "52fe45d2c3a36847f80dc523",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34075,
+        "known_for_department": "Sound",
+        "name": "Alberto Colombo",
+        "original_name": "Alberto Colombo",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "571fafc892514152e7000027",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9062,
+        "known_for_department": "Art",
+        "name": "Cedric Gibbons",
+        "original_name": "Cedric Gibbons",
+        "popularity": 0.8601,
+        "profile_path": "/4490hNfDKQPh0pIn8GBSQ0UARMX.jpg",
+        "credit_id": "66277741258823017d93c0f4",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27969,
+        "known_for_department": "Sound",
+        "name": "Douglas Shearer",
+        "original_name": "Douglas Shearer",
+        "popularity": 0.5868,
+        "profile_path": "/tw536317kcFJ6Uft0GHHF0mKjSN.jpg",
+        "credit_id": "66277764af95900164694b0a",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14681,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sydney Guilaroff",
+        "original_name": "Sydney Guilaroff",
+        "popularity": 0.1631,
+        "profile_path": "/14O60bqcGCLwoYAbTzQJLAHohwN.jpg",
+        "credit_id": "662777b7197de4013129dd39",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9063,
+        "known_for_department": "Art",
+        "name": "Edwin B. Willis",
+        "original_name": "Edwin B. Willis",
+        "popularity": 0.2421,
+        "profile_path": "/b4hSs5KLFXxSrvvA923VjdmywMl.jpg",
+        "credit_id": "6627776ecb6db50186b1ee33",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11491,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Walter Plunkett",
+        "original_name": "Walter Plunkett",
+        "popularity": 0.5817,
+        "profile_path": "/rXzY1oApaJMWk8bXupidPkWS6xb.jpg",
+        "credit_id": "662777af197de401642b8941",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083910,
+        "known_for_department": "Art",
+        "name": "Gabriel Scognamillo",
+        "original_name": "Gabriel Scognamillo",
+        "popularity": 0.6473,
+        "profile_path": null,
+        "credit_id": "6627774ccb5c8e01313ea195",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13292,
+        "known_for_department": "Crew",
+        "name": "Warren Newcombe",
+        "original_name": "Warren Newcombe",
+        "popularity": 0.054,
+        "profile_path": null,
+        "credit_id": "662777a2b9a0bd017ad86b68",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4670179,
+        "known_for_department": "Art",
+        "name": "Charles DeCrof",
+        "original_name": "Charles DeCrof",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6627779762f335017ddc36cb",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13986,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jack Dawn",
+        "original_name": "Jack Dawn",
+        "popularity": 0.852,
+        "profile_path": null,
+        "credit_id": "662777bf176a940166818427",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  }
+}

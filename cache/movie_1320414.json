@@ -1,0 +1,356 @@
+{
+  "adult": false,
+  "backdrop_path": "/gclxJhAVzincHlp179yeEbKmSJy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1320414,
+  "imdb_id": "tt33030166",
+  "origin_country": [
+    "DE",
+    "AT",
+    "IR"
+  ],
+  "original_language": "fa",
+  "original_title": "The Witness",
+  "overview": "In Iran, the retired dance teacher Tarlan witnesses her friend Rana's murder by her husband, who is an important government figure. When the police refuse to investigate, Tarlan must decide whether to bow to political pressure or risk her reputation and livelihood in pursuit of justice.",
+  "popularity": 27.1165,
+  "poster_path": "/1tzK329TG6wfzEIx60v3PUlcBDO.jpg",
+  "production_companies": [
+    {
+      "id": 151972,
+      "logo_path": "/jfM6eUpGC6ornka9gSD1KrGiBIN.png",
+      "name": "ArtHood Films",
+      "origin_country": "DE"
+    },
+    {
+      "id": 64330,
+      "logo_path": "/bX6prvUt6ZuO4rrdVUtHG6LqfSm.png",
+      "name": "Golden Girls Filmproduktion",
+      "origin_country": "AT"
+    },
+    {
+      "id": 172124,
+      "logo_path": "/2M3Qqc5jCcG0cBReSy1cyKk3sRK.png",
+      "name": "Sky Films",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-04-04",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "فارسی"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Witness",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1177805,
+        "known_for_department": "Acting",
+        "name": "Maryam Boubani",
+        "original_name": "Maryam Boubani",
+        "popularity": 0.7729,
+        "profile_path": "/gTXOvOoEf9SUIEBIijd0EMTiKwJ.jpg",
+        "cast_id": 13,
+        "character": "Tarlan",
+        "credit_id": "66b0d92ffae553508405269e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1906993,
+        "known_for_department": "Acting",
+        "name": "Nader Naderpour",
+        "original_name": "Nader Naderpour",
+        "popularity": 0.0256,
+        "profile_path": "/dUh7CXn7tU695BeJYTAGZ0mn9lP.jpg",
+        "cast_id": 10,
+        "character": "Solat",
+        "credit_id": "66b0d161fd4ecafa02910e74",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3236471,
+        "known_for_department": "Acting",
+        "name": "Ghazal Shojaei",
+        "original_name": "Ghazal Shojaei",
+        "popularity": 0.042,
+        "profile_path": "/quwFbL7UssymubYJp46PKbiKrUM.jpg",
+        "cast_id": 12,
+        "character": "Ghazal",
+        "credit_id": "66b0d179a753648596a122ec",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2810873,
+        "known_for_department": "Directing",
+        "name": "Hana Kamkar",
+        "original_name": "Hana Kamkar",
+        "popularity": 0.0168,
+        "profile_path": "/xwCQnZA5Ij5DIZ1sFBXkOBquRZc.jpg",
+        "cast_id": 14,
+        "character": "Zara",
+        "credit_id": "67f002238b1f32eb79d92bea",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2724456,
+        "known_for_department": "Acting",
+        "name": "Abbas Imani",
+        "original_name": "Abbas Imani",
+        "popularity": 0.0559,
+        "profile_path": "/uYV3YiyMkN9yTEpnzYYmRF2xvEW.jpg",
+        "cast_id": 11,
+        "character": "Tarlan's Son",
+        "credit_id": "66b0d16da3fbd5ac410cde9d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5349128,
+        "known_for_department": "Acting",
+        "name": "Farid Eshaghi",
+        "original_name": "Farid Eshaghi",
+        "popularity": 0.0143,
+        "profile_path": "/eKTR68HLCAHW7wmzAVdew8ppG6a.jpg",
+        "cast_id": 15,
+        "character": "Security officer",
+        "credit_id": "67f00234aa77e08af7994d20",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2033579,
+        "known_for_department": "Directing",
+        "name": "Nader Saeivar",
+        "original_name": "Nader Saeivar",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "669fdefc69cf97f37a7038f3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120229,
+        "known_for_department": "Directing",
+        "name": "Jafar Panahi",
+        "original_name": "Jafar Panahi",
+        "popularity": 1.051,
+        "profile_path": "/gDkt1MOuOeUZ8gbRUcNYB6bjDV4.jpg",
+        "credit_id": "66b0c744af7456f0ea93f1f4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2033579,
+        "known_for_department": "Directing",
+        "name": "Nader Saeivar",
+        "original_name": "Nader Saeivar",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "66b0c7514e6d2bfc64eb76a4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120229,
+        "known_for_department": "Directing",
+        "name": "Jafar Panahi",
+        "original_name": "Jafar Panahi",
+        "popularity": 1.051,
+        "profile_path": "/gDkt1MOuOeUZ8gbRUcNYB6bjDV4.jpg",
+        "credit_id": "66b0c83b18df8fac11c609c3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4868249,
+        "known_for_department": "Production",
+        "name": "Said Nur Akkuş",
+        "original_name": "Said Nur Akkuş",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "66b0cb246ce8daa52f2f4877",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4868255,
+        "known_for_department": "Production",
+        "name": "Silvana Santamaria",
+        "original_name": "Silvana Santamaria",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "66b0cc0fe12b82f4dba11b96",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230081,
+        "known_for_department": "Directing",
+        "name": "Arash T. Riahi",
+        "original_name": "Arash T. Riahi",
+        "popularity": 0.0809,
+        "profile_path": null,
+        "credit_id": "66b0cc22c6d99e9ebd3a3865",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2701092,
+        "known_for_department": "Production",
+        "name": "Sabine Gruber",
+        "original_name": "Sabine Gruber",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "66b0d09fc81d44b0552f406a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5349130,
+        "known_for_department": "Production",
+        "name": "Seyda Akkus",
+        "original_name": "Seyda Akkus",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "67f00251b3e035286cd95658",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1574315,
+        "known_for_department": "Production",
+        "name": "Emre Oskay",
+        "original_name": "Emre Oskay",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "67f0026066d70142b6994922",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2033579,
+        "known_for_department": "Directing",
+        "name": "Nader Saeivar",
+        "original_name": "Nader Saeivar",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "67f0026c66d70142b699492a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254607,
+        "known_for_department": "Production",
+        "name": "Timur Savcı",
+        "original_name": "Timur Savcı",
+        "popularity": 0.3283,
+        "profile_path": "/npGefxm0wJlJMRM6n0sPys5imCN.jpg",
+        "credit_id": "67f002760c791beb57ad00b7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2085359,
+        "known_for_department": "Camera",
+        "name": "Rouzbeh Rayga",
+        "original_name": "Rouzbeh Rayga",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "67f0028866d70142b6994934",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4965977,
+        "known_for_department": "Production",
+        "name": "Valentin Renoldner",
+        "original_name": "Valentin Renoldner",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "67f0029d931ce174a2d94d39",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3621964,
+        "known_for_department": "Sound",
+        "name": "Behniya Yousefi",
+        "original_name": "Behniya Yousefi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67f002a60c791beb57ad00c8",
+        "department": "Sound",
+        "job": "Sound Editor"
+      }
+    ]
+  }
+}

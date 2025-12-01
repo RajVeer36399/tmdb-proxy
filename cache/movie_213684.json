@@ -1,0 +1,326 @@
+{
+  "adult": false,
+  "backdrop_path": "/xFYRrjtY9blM9dlE1F8ibD6wVnx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://manakamanafilm.com/",
+  "id": 213684,
+  "imdb_id": "tt3103326",
+  "origin_country": [
+    "NE"
+  ],
+  "original_language": "ne",
+  "original_title": "Manakamana",
+  "overview": "A documentary about a group of pilgrims who travel to Nepal to worship at the legendary Manakamana temple.",
+  "popularity": 7.1863,
+  "poster_path": "/eezu2KWzjSyh6tcK0hN6JYjPaEU.jpg",
+  "production_companies": [
+    {
+      "id": 33427,
+      "logo_path": null,
+      "name": "SEL",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NP",
+      "name": "Nepal"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-09-28",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "Nepali",
+      "iso_639_1": "ne",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Manakamana",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365484,
+        "known_for_department": "Acting",
+        "name": "Chabbi Lal Gandharba",
+        "original_name": "Chabbi Lal Gandharba",
+        "popularity": 0.0753,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Himself",
+        "credit_id": "541b75b10e0a261238000abf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365485,
+        "known_for_department": "Acting",
+        "name": "Amish Gandharba",
+        "original_name": "Amish Gandharba",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Himself",
+        "credit_id": "541b75c90e0a26123f000aa1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365487,
+        "known_for_department": "Acting",
+        "name": "Bindu Gayek",
+        "original_name": "Bindu Gayek",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Herself",
+        "credit_id": "541b76b1c3a36801cf000b8f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365490,
+        "known_for_department": "Acting",
+        "name": "Narayan Gayek",
+        "original_name": "Narayan Gayek",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Himself",
+        "credit_id": "541b77b40e0a261235000ccd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365491,
+        "known_for_department": "Acting",
+        "name": "Gopika Gayek",
+        "original_name": "Gopika Gayek",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Herself",
+        "credit_id": "541b77cd0e0a26123f000c95",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365492,
+        "known_for_department": "Acting",
+        "name": "Khim Kumari Gayek",
+        "original_name": "Khim Kumari Gayek",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Herself",
+        "credit_id": "541b77f50e0a261246000cea",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365493,
+        "known_for_department": "Acting",
+        "name": "Chet Kumari Gayek",
+        "original_name": "Chet Kumari Gayek",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Herself",
+        "credit_id": "541b780f0e0a260e9800065f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365494,
+        "known_for_department": "Acting",
+        "name": "Hom Kumari Gayek",
+        "original_name": "Hom Kumari Gayek",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Herself",
+        "credit_id": "541b782cc3a36801a9000c48",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365495,
+        "known_for_department": "Acting",
+        "name": "Simen Pariyar",
+        "original_name": "Simen Pariyar",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Himself",
+        "credit_id": "541b784cc3a36801bc000cf9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365496,
+        "known_for_department": "Acting",
+        "name": "Anil Paija",
+        "original_name": "Anil Paija",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Himself",
+        "credit_id": "541b78650e0a261246000d66",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365497,
+        "known_for_department": "Acting",
+        "name": "Saroj Gandharba",
+        "original_name": "Saroj Gandharba",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Himself",
+        "credit_id": "541b787f0e0a26123c000d49",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1198232,
+        "known_for_department": "Directing",
+        "name": "Stephanie Spray",
+        "original_name": "Stephanie Spray",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "52fe4dc9c3a368484e1fdbbf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198233,
+        "known_for_department": "Directing",
+        "name": "Pacho Velez",
+        "original_name": "Pacho Velez",
+        "popularity": 0.9851,
+        "profile_path": "/qNQMh0c6gieIoTSvshspmzwz9xd.jpg",
+        "credit_id": "52fe4dc9c3a368484e1fdbc5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1079579,
+        "known_for_department": "Directing",
+        "name": "Lucien Castaing-Taylor",
+        "original_name": "Lucien Castaing-Taylor",
+        "popularity": 0.1385,
+        "profile_path": "/bzT1XTej07ZVXtW8PGfZXQFrA9f.jpg",
+        "credit_id": "52fe4dc9c3a368484e1fdbcb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1081448,
+        "known_for_department": "Directing",
+        "name": "Véréna Paravel",
+        "original_name": "Véréna Paravel",
+        "popularity": 0.0987,
+        "profile_path": "/tqLPqwoZswXjvdBjX2L1XOK9pxR.jpg",
+        "credit_id": "52fe4dc9c3a368484e1fdbd1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198233,
+        "known_for_department": "Directing",
+        "name": "Pacho Velez",
+        "original_name": "Pacho Velez",
+        "popularity": 0.9851,
+        "profile_path": "/qNQMh0c6gieIoTSvshspmzwz9xd.jpg",
+        "credit_id": "541b7473c3a36801bc000957",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198233,
+        "known_for_department": "Directing",
+        "name": "Pacho Velez",
+        "original_name": "Pacho Velez",
+        "popularity": 0.9851,
+        "profile_path": "/qNQMh0c6gieIoTSvshspmzwz9xd.jpg",
+        "credit_id": "541b7489c3a36801bc000983",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1198232,
+        "known_for_department": "Directing",
+        "name": "Stephanie Spray",
+        "original_name": "Stephanie Spray",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "541b749d0e0a261246000992",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1198232,
+        "known_for_department": "Directing",
+        "name": "Stephanie Spray",
+        "original_name": "Stephanie Spray",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "5a4696bc0e0a264f7707ebbf",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

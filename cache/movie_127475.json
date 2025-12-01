@@ -1,0 +1,474 @@
+{
+  "adult": false,
+  "backdrop_path": "/y1y19cvjp8cqnASszAGwRMImiZF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 127475,
+  "imdb_id": "tt0069179",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Revengers",
+  "overview": "The life of peaceful rancher John Benedict is torn apart when his family is massacred by a gang of marauding outlaws and his farm is destroyed. He assembles a team of mean, lawless convicts to act as his posse as he pursues the gang responsible for the deaths of his loved ones.",
+  "popularity": 7.4746,
+  "poster_path": "/pkTz0NgUxn4bbNLBXPpjHlVbCgP.jpg",
+  "production_companies": [
+    {
+      "id": 3070,
+      "logo_path": "/HpLKMqrVxDIm3k6WE33aqN0H5M.png",
+      "name": "Cinema Center Films",
+      "origin_country": ""
+    },
+    {
+      "id": 5153,
+      "logo_path": "/d4BySWBlcGBBY58FG78DWMi9nrs.png",
+      "name": "Estudios Churubusco Azteca",
+      "origin_country": "MX"
+    },
+    {
+      "id": 7698,
+      "logo_path": null,
+      "name": "National General Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1972-06-21",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He bought six men out of hell and they brought it with them.",
+  "title": "The Revengers",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 34,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8252,
+        "known_for_department": "Acting",
+        "name": "William Holden",
+        "original_name": "William Holden",
+        "popularity": 1.1282,
+        "profile_path": "/qEuJZiPXKFm1LdtbnHKGj2hQm8a.jpg",
+        "cast_id": 2,
+        "character": "John Benedict",
+        "credit_id": "52fe4afac3a368484e17106f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7502,
+        "known_for_department": "Acting",
+        "name": "Ernest Borgnine",
+        "original_name": "Ernest Borgnine",
+        "popularity": 1.7745,
+        "profile_path": "/JSHX01ZFEkIvt17HoeedsvCz1.jpg",
+        "cast_id": 3,
+        "character": "Hoop",
+        "credit_id": "52fe4afac3a368484e171073",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4963,
+        "known_for_department": "Acting",
+        "name": "Woody Strode",
+        "original_name": "Woody Strode",
+        "popularity": 1.3016,
+        "profile_path": "/bQODvxboGerJXrl7ypgM5UqjhZt.jpg",
+        "cast_id": 4,
+        "character": "Job",
+        "credit_id": "52fe4afac3a368484e171077",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30124,
+        "known_for_department": "Acting",
+        "name": "Susan Hayward",
+        "original_name": "Susan Hayward",
+        "popularity": 1.2612,
+        "profile_path": "/nIp5HCQHTvnD0zppdPM0ff3QBM0.jpg",
+        "cast_id": 30,
+        "character": "Elizabeth Reilly",
+        "credit_id": "5dcb38511d78f2001422c59f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3836,
+        "known_for_department": "Acting",
+        "name": "Roger Hanin",
+        "original_name": "Roger Hanin",
+        "popularity": 0.3681,
+        "profile_path": "/q23lgIX7Phj8qDTsm01BCXv21rB.jpg",
+        "cast_id": 5,
+        "character": "Quiberon",
+        "credit_id": "52fe4afac3a368484e17107b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38171,
+        "known_for_department": "Acting",
+        "name": "Reinhard Kolldehoff",
+        "original_name": "Reinhard Kolldehoff",
+        "popularity": 0.3025,
+        "profile_path": "/gQwOGcEcEdGVdTnE30YADnojNXw.jpg",
+        "cast_id": 6,
+        "character": "Zweig",
+        "credit_id": "52fe4afac3a368484e17107f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47886,
+        "known_for_department": "Acting",
+        "name": "Jorge Luke",
+        "original_name": "Jorge Luke",
+        "popularity": 0.6297,
+        "profile_path": "/mXifN3ki6LTgOUb2pFi3v01txpT.jpg",
+        "cast_id": 7,
+        "character": "Chamaco",
+        "credit_id": "52fe4afac3a368484e171083",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14532,
+        "known_for_department": "Acting",
+        "name": "Jorge Martínez de Hoyos",
+        "original_name": "Jorge Martínez de Hoyos",
+        "popularity": 0.4098,
+        "profile_path": "/nPALS6J1GaeSWNx24j06jqCuFBI.jpg",
+        "cast_id": 8,
+        "character": "Cholo",
+        "credit_id": "52fe4afac3a368484e171087",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50971,
+        "known_for_department": "Acting",
+        "name": "Arthur Hunnicutt",
+        "original_name": "Arthur Hunnicutt",
+        "popularity": 0.581,
+        "profile_path": "/yPyWGcNxIPLKI1FBZrszAfQVADy.jpg",
+        "cast_id": 9,
+        "character": "Free State",
+        "credit_id": "52fe4afac3a368484e17108b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101782,
+        "known_for_department": "Acting",
+        "name": "Warren Vanders",
+        "original_name": "Warren Vanders",
+        "popularity": 0.238,
+        "profile_path": "/naO6y9l7wCr0hM7KPjXkAbraKbB.jpg",
+        "cast_id": 10,
+        "character": "Tarp",
+        "credit_id": "52fe4afac3a368484e17108f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58214,
+        "known_for_department": "Acting",
+        "name": "Larry Pennell",
+        "original_name": "Larry Pennell",
+        "popularity": 0.3906,
+        "profile_path": "/bNTGFjUvhxPPrxlxWiccnvG8cbF.jpg",
+        "cast_id": 11,
+        "character": "Arny",
+        "credit_id": "52fe4afac3a368484e171093",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1004669,
+        "known_for_department": "Acting",
+        "name": "Scott Holden",
+        "original_name": "Scott Holden",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Lieutenant",
+        "credit_id": "52fe4afac3a368484e17109b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55198,
+        "known_for_department": "Acting",
+        "name": "James Daughton",
+        "original_name": "James Daughton",
+        "popularity": 0.5774,
+        "profile_path": "/vgKNyl5YEGIWlxjistDcjQgAfpJ.jpg",
+        "cast_id": 14,
+        "character": "Morgan",
+        "credit_id": "52fe4afac3a368484e17109f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098535,
+        "known_for_department": "Acting",
+        "name": "John Kelly",
+        "original_name": "John Kelly",
+        "popularity": 0.1425,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Whitcomb",
+        "credit_id": "56ec4dd492514143fe00305d",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 941782,
+        "known_for_department": "Art",
+        "name": "Jorge Fernández",
+        "original_name": "Jorge Fernández",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "606054a146f3540069eada40",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90522,
+        "known_for_department": "Directing",
+        "name": "Daniel Mann",
+        "original_name": "Daniel Mann",
+        "popularity": 0.3845,
+        "profile_path": "/A4OucOFjfcSCHnPtbeY4rL9ePGi.jpg",
+        "credit_id": "52fe4afac3a368484e17106b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 844,
+        "known_for_department": "Writing",
+        "name": "Wendell Mayes",
+        "original_name": "Wendell Mayes",
+        "popularity": 1.2841,
+        "profile_path": null,
+        "credit_id": "578596b1c3a3684f94008dfa",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113727,
+        "known_for_department": "Writing",
+        "name": "Steven W. Carabatsos",
+        "original_name": "Steven W. Carabatsos",
+        "popularity": 0.14,
+        "profile_path": null,
+        "credit_id": "578596c1c3a3680bec0027a2",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50270,
+        "known_for_department": "Writing",
+        "name": "Martin Rackin",
+        "original_name": "Martin Rackin",
+        "popularity": 0.2177,
+        "profile_path": "/xWWUHLfLWnYOOSoWOhiUzRETdqh.jpg",
+        "credit_id": "578596ce925141016c00283a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1649403,
+        "known_for_department": "Sound",
+        "name": "Pino Calvi",
+        "original_name": "Pino Calvi",
+        "popularity": 0.0416,
+        "profile_path": "/sX1FZQvDpIi2Ozr1iDXNzZiEnz8.jpg",
+        "credit_id": "578596dac3a3680bec0027ae",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41372,
+        "known_for_department": "Camera",
+        "name": "Gabriel Torres",
+        "original_name": "Gabriel Torres",
+        "popularity": 0.5916,
+        "profile_path": null,
+        "credit_id": "578596e6c3a3684f94008e16",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51378,
+        "known_for_department": "Editing",
+        "name": "Walter Hannemann",
+        "original_name": "Walter Hannemann",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "credit_id": "578596f192514104bb005b46",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629082,
+        "known_for_department": "Editing",
+        "name": "Juan José Marino",
+        "original_name": "Juan José Marino",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "578596fd925141047e00568e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1768,
+        "known_for_department": "Production",
+        "name": "Marvin Paige",
+        "original_name": "Marvin Paige",
+        "popularity": 0.0564,
+        "profile_path": null,
+        "credit_id": "5785970992514104bb005b57",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1354243,
+        "known_for_department": "Production",
+        "name": "Luis Sánchez",
+        "original_name": "Luis Sánchez",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "credit_id": "57859717c3a36857d9008278",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31590,
+        "known_for_department": "Art",
+        "name": "Carlos Grandjean",
+        "original_name": "Carlos Grandjean",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "57859738925141021e0029da",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1619361,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Felisa Ladrón de Guevara",
+        "original_name": "Felisa Ladrón de Guevara",
+        "popularity": 0.0749,
+        "profile_path": null,
+        "credit_id": "57859746c3a3680bec0027d5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1619440,
+        "known_for_department": "Costume & Make-Up",
+        "name": "María de Jesús Lepe",
+        "original_name": "María de Jesús Lepe",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "57859753c3a3680b66002b53",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1649404,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elvira Oropeza",
+        "original_name": "Elvira Oropeza",
+        "popularity": 0.1325,
+        "profile_path": null,
+        "credit_id": "5785975fc3a3685a8900916e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  }
+}

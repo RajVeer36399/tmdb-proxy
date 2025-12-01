@@ -1,0 +1,541 @@
+{
+  "adult": false,
+  "backdrop_path": "/fKp0L34DZk5s2UPAoauQg7kdeBU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 72252,
+  "imdb_id": "tt0362107",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Seeing Double",
+  "overview": "When the members of S Club complain about how tough it is to stay on top, they find themselves replaced by lookalikes... or are they?",
+  "popularity": 6.9243,
+  "poster_path": "/3xpVlA4dFZyZtwz0gQD7CoBn8yv.jpg",
+  "production_companies": [
+    {
+      "id": 146808,
+      "logo_path": null,
+      "name": "Double Vision Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 26456,
+      "logo_path": null,
+      "name": "19 Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 248647,
+      "logo_path": null,
+      "name": "Media Pro",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-04-11",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Join the club for double the fun",
+  "title": "Seeing Double",
+  "video": false,
+  "vote_average": 4.9,
+  "vote_count": 19,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 266531,
+        "known_for_department": "Acting",
+        "name": "Jon Lee",
+        "original_name": "Jon Lee",
+        "popularity": 0.4889,
+        "profile_path": "/28l6t9t0d9tspnVc0KstUYbWmxE.jpg",
+        "cast_id": 2,
+        "character": "Jon",
+        "credit_id": "52fe4861c3a368484e0f5b19",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240764,
+        "known_for_department": "Acting",
+        "name": "Bradley McIntosh",
+        "original_name": "Bradley McIntosh",
+        "popularity": 0.7313,
+        "profile_path": "/71FH7WcAxZNM1Tmu4qIlPG4IiUO.jpg",
+        "cast_id": 3,
+        "character": "Bradley",
+        "credit_id": "52fe4861c3a368484e0f5b1d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 266530,
+        "known_for_department": "Acting",
+        "name": "Jo O'Meara",
+        "original_name": "Jo O'Meara",
+        "popularity": 0.7465,
+        "profile_path": "/aLcARy0df9OpxO4WbNrns0giQoa.jpg",
+        "cast_id": 4,
+        "character": "Jo",
+        "credit_id": "52fe4861c3a368484e0f5b21",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35865,
+        "known_for_department": "Acting",
+        "name": "Hannah Spearritt",
+        "original_name": "Hannah Spearritt",
+        "popularity": 0.7856,
+        "profile_path": "/eaEPgp7gbfQZ2YcocCH6x0KSUf7.jpg",
+        "cast_id": 5,
+        "character": "Hannah",
+        "credit_id": "52fe4861c3a368484e0f5b25",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89604,
+        "known_for_department": "Acting",
+        "name": "Rachel Stevens",
+        "original_name": "Rachel Stevens",
+        "popularity": 0.2732,
+        "profile_path": "/g73tJIpTTtnt52rCKKbTIecUhmj.jpg",
+        "cast_id": 10,
+        "character": "Rachel",
+        "credit_id": "5a393495925141547b076871",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 240767,
+        "known_for_department": "Acting",
+        "name": "Tina Barrett",
+        "original_name": "Tina Barrett",
+        "popularity": 0.7107,
+        "profile_path": "/sQH81TPnbMhiZ3UpKbZR1WUnU4M.jpg",
+        "cast_id": 11,
+        "character": "Tina",
+        "credit_id": "5a63d61a9251410b2a0175e4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21431,
+        "known_for_department": "Acting",
+        "name": "David Gant",
+        "original_name": "David Gant",
+        "popularity": 0.181,
+        "profile_path": "/s5XZhuzETEbEIv4YanpR2Ng2URq.jpg",
+        "cast_id": 12,
+        "character": "Victor",
+        "credit_id": "5ff386fa46e75f003ed605c3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59092,
+        "known_for_department": "Acting",
+        "name": "Cristina Piaget",
+        "original_name": "Cristina Piaget",
+        "popularity": 0.1588,
+        "profile_path": "/sDpIRrP7BFVNxq6VPfL63qMlXDJ.jpg",
+        "cast_id": 13,
+        "character": "Susan Sealove",
+        "credit_id": "5ff3871d1ad93b003c23725d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1220244,
+        "known_for_department": "Acting",
+        "name": "Gareth Gates",
+        "original_name": "Gareth Gates",
+        "popularity": 0.0382,
+        "profile_path": "/joHSgi4yNDj6nHmhfUfHGtitmvN.jpg",
+        "cast_id": 14,
+        "character": "Gareth Gates Clone",
+        "credit_id": "5ff38734869e750041dc6ae8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228280,
+        "known_for_department": "Directing",
+        "name": "Nigel Dick",
+        "original_name": "Nigel Dick",
+        "popularity": 0.0973,
+        "profile_path": "/h4xl94pqYfqCCtIrkgfxmxf4nXX.jpg",
+        "cast_id": 15,
+        "character": "Director",
+        "credit_id": "5ff3873cfab3fa003b76db23",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672,
+        "known_for_department": "Acting",
+        "name": "Reg Wilson",
+        "original_name": "Reg Wilson",
+        "popularity": 0.1858,
+        "profile_path": "/hKjRsotmvNjpnL8YVD4xwAud9hd.jpg",
+        "cast_id": 16,
+        "character": "Marcus",
+        "credit_id": "5ff3874966e469003fc23835",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67052,
+        "known_for_department": "Acting",
+        "name": "Macarena Gómez",
+        "original_name": "Macarena Gómez",
+        "popularity": 0.8382,
+        "profile_path": "/bv47XMjZUhptKGFKIEoVA8pVsMT.jpg",
+        "cast_id": 17,
+        "character": "Young Waitress",
+        "credit_id": "5ff3877031d09b0040603c11",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31432,
+        "known_for_department": "Acting",
+        "name": "Alec Von Bargen",
+        "original_name": "Alec Von Bargen",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Reporter",
+        "credit_id": "5ff3877a322b2b003ca2eaca",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1257573,
+        "known_for_department": "Acting",
+        "name": "Mark Schardan",
+        "original_name": "Mark Schardan",
+        "popularity": 0.654,
+        "profile_path": "/jPIHnh8UkqcMWW4auSuxDEBXtel.jpg",
+        "cast_id": 19,
+        "character": "Security Guard",
+        "credit_id": "5ff38785869e75003eddbb39",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2692844,
+        "known_for_department": "Acting",
+        "name": "Thomas Lenox",
+        "original_name": "Thomas Lenox",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Reporter",
+        "credit_id": "5ff3879b7aecc6003efe8be0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1811911,
+        "known_for_department": "Acting",
+        "name": "Andrea Montero",
+        "original_name": "Andrea Montero",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Reporter",
+        "credit_id": "5ff387aafbe36f003ef90c00",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1776037,
+        "known_for_department": "Acting",
+        "name": "Ludovic Tattevin",
+        "original_name": "Ludovic Tattevin",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Reporter",
+        "credit_id": "5ff387b5322b2b003ea2da05",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105161,
+        "known_for_department": "Acting",
+        "name": "Emilio Gutiérrez Caba",
+        "original_name": "Emilio Gutiérrez Caba",
+        "popularity": 0.1301,
+        "profile_path": "/gCPju1eDQQOWFroZ3gI2ZVKhu1.jpg",
+        "cast_id": 23,
+        "character": "Prisoner / Doubles Choreographer",
+        "credit_id": "5ff387c55507e900410d4c2c",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221404,
+        "known_for_department": "Acting",
+        "name": "Paul Cattermole",
+        "original_name": "Paul Cattermole",
+        "popularity": 0.7314,
+        "profile_path": "/k0Kr4uFXY97Kluh1q8zcB199Rpo.jpg",
+        "cast_id": 24,
+        "character": "Paul (archive footage)",
+        "credit_id": "5ff387e41ad93b003f2341e8",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228280,
+        "known_for_department": "Directing",
+        "name": "Nigel Dick",
+        "original_name": "Nigel Dick",
+        "popularity": 0.0973,
+        "profile_path": "/h4xl94pqYfqCCtIrkgfxmxf4nXX.jpg",
+        "credit_id": "52fe4861c3a368484e0f5b2f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47976,
+        "known_for_department": "Writing",
+        "name": "Kim Fuller",
+        "original_name": "Kim Fuller",
+        "popularity": 0.1589,
+        "profile_path": null,
+        "credit_id": "52fe4861c3a368484e0f5b35",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1173675,
+        "known_for_department": "Writing",
+        "name": "Paul Alexander",
+        "original_name": "Paul Alexander",
+        "popularity": 0.6408,
+        "profile_path": null,
+        "credit_id": "52fe4861c3a368484e0f5b3b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 947926,
+        "known_for_department": "Production",
+        "name": "Gayla Aspinall",
+        "original_name": "Gayla Aspinall",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "5ff38815fab3fa003d773491",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 947926,
+        "known_for_department": "Production",
+        "name": "Gayla Aspinall",
+        "original_name": "Gayla Aspinall",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "5ff3880c46e75f0040d57966",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83471,
+        "known_for_department": "Production",
+        "name": "Alan Barnette",
+        "original_name": "Alan Barnette",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "5ff387ff414291003f53e76c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1292850,
+        "known_for_department": "Production",
+        "name": "John Steven Agoglia",
+        "original_name": "John Steven Agoglia",
+        "popularity": 0.1458,
+        "profile_path": null,
+        "credit_id": "5ff3881f2b2108003e02e4f7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 945599,
+        "known_for_department": "Creator",
+        "name": "Simon Fuller",
+        "original_name": "Simon Fuller",
+        "popularity": 0.8028,
+        "profile_path": "/hhoCc1J4xdiY7hCboRCXMt8dwDF.jpg",
+        "credit_id": "5ff387f42b2108003d02df39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1292850,
+        "known_for_department": "Production",
+        "name": "John Steven Agoglia",
+        "original_name": "John Steven Agoglia",
+        "popularity": 0.1458,
+        "profile_path": null,
+        "credit_id": "5ff388270a94d4003e4c46e1",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1143449,
+        "known_for_department": "Camera",
+        "name": "Joan Benet",
+        "original_name": "Joan Benet",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "66de2ddc7bf7ef73fdb94389",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2248539,
+        "known_for_department": "Editing",
+        "name": "Mark Henson",
+        "original_name": "Mark Henson",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "66de2dfb8e3802cc48b94a37",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2923340,
+        "known_for_department": "Sound",
+        "name": "Jim Meacock",
+        "original_name": "Jim Meacock",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "66de2e0e49fb42eaf438c2e0",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 962677,
+        "known_for_department": "Art",
+        "name": "Laia Colet",
+        "original_name": "Laia Colet",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "66de2e2bda706543f53abe13",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  }
+}

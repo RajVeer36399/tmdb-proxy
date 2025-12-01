@@ -1,0 +1,241 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 572035,
+  "imdb_id": "tt9160112",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Hotel Called Memory",
+  "overview": "The film, set in Lagos, Cape Town and Zanzibar, tells the story of Lola, who recently separated from her husband in Lagos, seeks solace in Zanzibar, hoping to forget and move on with her life.",
+  "popularity": 6.4214,
+  "poster_path": "/tczJX1HM7em0eWBG9yzSykdDHc3.jpg",
+  "production_companies": [
+    {
+      "id": 112898,
+      "logo_path": null,
+      "name": "Temple Productions",
+      "origin_country": "NG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NG",
+      "name": "Nigeria"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "release_date": "2017-09-01",
+  "revenue": 0,
+  "runtime": 55,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Hotel Called Memory",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1292051,
+        "known_for_department": "Acting",
+        "name": "Nse Ikpe-Etim",
+        "original_name": "Nse Ikpe-Etim",
+        "popularity": 0.7153,
+        "profile_path": "/pWGM4yiUqCqvnWx5OLEH0oBzQaq.jpg",
+        "cast_id": 2,
+        "character": "Lola",
+        "credit_id": "5c2b691f92514122a96c898e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2205741,
+        "known_for_department": "Acting",
+        "name": "Abdi Hussein",
+        "original_name": "Abdi Hussein",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Harrison",
+        "credit_id": "5c2b6a550e0a2655e738fd5c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1282127,
+        "known_for_department": "Acting",
+        "name": "Mmabatho Montsho",
+        "original_name": "Mmabatho Montsho",
+        "popularity": 0.1834,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Ayana",
+        "credit_id": "5c2b6a23c3a368291ca111a9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2060718,
+        "known_for_department": "Production",
+        "name": "Kemi Lala Akindoju",
+        "original_name": "Kemi Lala Akindoju",
+        "popularity": 0.048,
+        "profile_path": "/8QOST78lqWueU0DDJpWWvEoj0z4.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "5c2b6a32c3a368290ba10049",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1661171,
+        "known_for_department": "Acting",
+        "name": "Nomzamo Mbatha",
+        "original_name": "Nomzamo Mbatha",
+        "popularity": 0.4646,
+        "profile_path": "/1awbUooZuQvMSThenXjXRYfxcFe.jpg",
+        "cast_id": 3,
+        "character": "Aya",
+        "credit_id": "5c2b693392514122b86c7fc2",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2205736,
+        "known_for_department": "Crew",
+        "name": "Rob Wilson",
+        "original_name": "Rob Wilson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5c2b698b92514122ac6c7c99",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1211412,
+        "known_for_department": "Directing",
+        "name": "Branwen Okpako",
+        "original_name": "Branwen Okpako",
+        "popularity": 0.0682,
+        "profile_path": null,
+        "credit_id": "5c2b699b92514122b46c8297",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37092,
+        "known_for_department": "Directing",
+        "name": "Akin Omotoso",
+        "original_name": "Akin Omotoso",
+        "popularity": 0.1911,
+        "profile_path": "/49IQy9bmSvUfvAaIsjqIgEogWHX.jpg",
+        "credit_id": "5c2b67a392514122b46c7ff7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2201004,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yolanda Okereke",
+        "original_name": "Yolanda Okereke",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "5c2b6a0a0e0a2655fa38db25",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37092,
+        "known_for_department": "Directing",
+        "name": "Akin Omotoso",
+        "original_name": "Akin Omotoso",
+        "popularity": 0.1911,
+        "profile_path": "/49IQy9bmSvUfvAaIsjqIgEogWHX.jpg",
+        "credit_id": "5c2b69d20e0a2655f838e927",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2205739,
+        "known_for_department": "Production",
+        "name": "Ego Boyo",
+        "original_name": "Ego Boyo",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5c2b69c1c3a368291ca11127",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1501989,
+        "known_for_department": "Production",
+        "name": "Marc Baleiza",
+        "original_name": "Marc Baleiza",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "credit_id": "5c2b69e30e0a2655e738fbe7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1854754,
+        "known_for_department": "Sound",
+        "name": "Joel Assaizky",
+        "original_name": "Joel Assaizky",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5c2b69ac0e0a2655fa38da8a",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  }
+}

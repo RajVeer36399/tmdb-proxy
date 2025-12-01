@@ -1,0 +1,402 @@
+{
+  "adult": false,
+  "backdrop_path": "/1zfVloYLvEHiktKm9fd0Chuoalz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.nailbitermovie.com/",
+  "id": 101724,
+  "imdb_id": "tt2122424",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nailbiter",
+  "overview": "A horror film that combines classic monster movie elements set within the backdrop of unpredictable Kansas weather. Start with a mother and her three daughters forced to take shelter from an advancing tornado in a local storm cellar. What is waiting for them underneath is another story entirely.",
+  "popularity": 9.306,
+  "poster_path": "/485U5q4dALhr9VhucJOYgTu8zOf.jpg",
+  "production_companies": [
+    {
+      "id": 17404,
+      "logo_path": null,
+      "name": "SenoReality Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 38160,
+      "logo_path": null,
+      "name": "Ministry Machine Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-05-28",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In the shadow of the storm it waits.",
+  "title": "Nailbiter",
+  "video": false,
+  "vote_average": 4.2,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031183,
+        "known_for_department": "Acting",
+        "name": "Joicie Appell",
+        "original_name": "Joicie Appell",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 1001,
+        "character": "Mrs. Shurman",
+        "credit_id": "52fe49f6c3a36847f81b011f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031188,
+        "known_for_department": "Acting",
+        "name": "Emily Boresow",
+        "original_name": "Emily Boresow",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 1002,
+        "character": "Alice Maguire",
+        "credit_id": "52fe49f6c3a36847f81b0123",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1023413,
+        "known_for_department": "Acting",
+        "name": "Jason Coffman",
+        "original_name": "Jason Coffman",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 1003,
+        "character": "Creature",
+        "credit_id": "52fe49f6c3a36847f81b0127",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031189,
+        "known_for_department": "Acting",
+        "name": "Tom Conroy",
+        "original_name": "Tom Conroy",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 1004,
+        "character": "Bartender",
+        "credit_id": "52fe49f6c3a36847f81b012b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2345411,
+        "known_for_department": "Acting",
+        "name": "Michelle Davidson",
+        "original_name": "Michelle Davidson",
+        "popularity": 0.1489,
+        "profile_path": "/nm7MYTZ5vP1HhbJG1wpxKYUALXJ.jpg",
+        "cast_id": 1026,
+        "character": "Dina",
+        "credit_id": "62c95ea605f9cf006785b39f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031191,
+        "known_for_department": "Acting",
+        "name": "Ian Dempsey",
+        "original_name": "Ian Dempsey",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 1006,
+        "character": "Sean",
+        "credit_id": "52fe49f6c3a36847f81b0133",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031194,
+        "known_for_department": "Acting",
+        "name": "Aaron Laue",
+        "original_name": "Aaron Laue",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 1014,
+        "character": "Lt. Maguire",
+        "credit_id": "54635b5a0e0a2677fd0020e7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384820,
+        "known_for_department": "Acting",
+        "name": "Ben Jeffrey",
+        "original_name": "Ben Jeffrey",
+        "popularity": 0.0613,
+        "profile_path": null,
+        "cast_id": 1015,
+        "character": "Deputy Carr",
+        "credit_id": "54635b690e0a267800002110",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 106453,
+        "known_for_department": "Acting",
+        "name": "Allen Lowman",
+        "original_name": "Allen Lowman",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 1016,
+        "character": "Tom",
+        "credit_id": "54635b76c3a368124d002068",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 933819,
+        "known_for_department": "Acting",
+        "name": "Erin McGrane",
+        "original_name": "Erin McGrane",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "cast_id": 1017,
+        "character": "Janet Maguire",
+        "credit_id": "54635b8d0e0a2677fd0020ee",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384821,
+        "known_for_department": "Acting",
+        "name": "Meg Saricks",
+        "original_name": "Meg Saricks",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "cast_id": 1018,
+        "character": "Jennifer Maguire",
+        "credit_id": "54635b9cc3a3681243002073",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384822,
+        "known_for_department": "Acting",
+        "name": "Sally Spurgeon",
+        "original_name": "Sally Spurgeon",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 1019,
+        "character": "Sally Maguire",
+        "credit_id": "54635bab0e0a26780a002154",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1028435,
+        "known_for_department": "Directing",
+        "name": "Patrick Rea",
+        "original_name": "Patrick Rea",
+        "popularity": 0.2571,
+        "profile_path": "/kaMTpUMUtgmTDVcVzKmI8z0NbwQ.jpg",
+        "credit_id": "52fe49f6c3a36847f81b0139",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031193,
+        "known_for_department": "Production",
+        "name": "Ryan S. Jones",
+        "original_name": "Ryan S. Jones",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe49f6c3a36847f81b014b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031192,
+        "known_for_department": "Writing",
+        "name": "Kendal Sinn",
+        "original_name": "Kendal Sinn",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "52fe49f6c3a36847f81b013f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031194,
+        "known_for_department": "Acting",
+        "name": "Aaron Laue",
+        "original_name": "Aaron Laue",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "52fe49f6c3a36847f81b0151",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1028435,
+        "known_for_department": "Directing",
+        "name": "Patrick Rea",
+        "original_name": "Patrick Rea",
+        "popularity": 0.2571,
+        "profile_path": "/kaMTpUMUtgmTDVcVzKmI8z0NbwQ.jpg",
+        "credit_id": "52fe49f6c3a36847f81b011b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031195,
+        "known_for_department": "Sound",
+        "name": "Julian Bickford",
+        "original_name": "Julian Bickford",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe49f6c3a36847f81b0157",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1023701,
+        "known_for_department": "Production",
+        "name": "Hanuman Brown-Eagle\t",
+        "original_name": "Hanuman Brown-Eagle\t",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "52fe49f6c3a36847f81b0145",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1028435,
+        "known_for_department": "Directing",
+        "name": "Patrick Rea",
+        "original_name": "Patrick Rea",
+        "popularity": 0.2571,
+        "profile_path": "/kaMTpUMUtgmTDVcVzKmI8z0NbwQ.jpg",
+        "credit_id": "54635bf5c3a36812520020aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031192,
+        "known_for_department": "Writing",
+        "name": "Kendal Sinn",
+        "original_name": "Kendal Sinn",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "54635c030e0a2678150020e4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384825,
+        "known_for_department": "Art",
+        "name": "Misti Boland",
+        "original_name": "Misti Boland",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "54635c20c3a3681243002085",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384824,
+        "known_for_department": "Editing",
+        "name": "Josh Robison",
+        "original_name": "Josh Robison",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "54635c12c3a368124d00207e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1023701,
+        "known_for_department": "Production",
+        "name": "Hanuman Brown-Eagle\t",
+        "original_name": "Hanuman Brown-Eagle\t",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "54635bbdc3a36812520020a3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031194,
+        "known_for_department": "Acting",
+        "name": "Aaron Laue",
+        "original_name": "Aaron Laue",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "54635be3c3a368124300207e",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

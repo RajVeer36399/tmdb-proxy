@@ -1,0 +1,191 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 154802,
+  "imdb_id": "tt0164053",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Human Remains",
+  "overview": "Human Remains is a haunting documentary which illustrates the banality of evil by creating intimate portraits of five of the 20th century's most reviled dictators. The film unveils the personal lives of Adolf Hitler, Benito Mussolini, Joseph Stalin, Francisco Franco and Mao Tse Tung. We learn the private and mundane details of their everyday lives -- their favorite foods, films, habits and sexual preferences. There is no mention of their public lives or of their place in history. The intentional omission of the horrors for which these men were responsible hovers over the film.",
+  "popularity": 6.0778,
+  "poster_path": "/kr2NV52BGpyPV88PtRo0wFPHKgq.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-03-21",
+  "revenue": 0,
+  "runtime": 30,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Human Remains",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225573,
+        "known_for_department": "Acting",
+        "name": "Eva Braun",
+        "original_name": "Eva Braun",
+        "popularity": 0.9693,
+        "profile_path": "/qYADeqok5fU64c3R7phncimqsRY.jpg",
+        "cast_id": 2,
+        "character": "Self (archive footage)",
+        "credit_id": "52fe4b6d9251416c910da0ad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 964556,
+        "known_for_department": "Acting",
+        "name": "Francisco Franco",
+        "original_name": "Francisco Franco",
+        "popularity": 1.0581,
+        "profile_path": "/r0YOXhKtCuJRXhDuJI91ukZ9tis.jpg",
+        "cast_id": 3,
+        "character": "Self (archive footage)",
+        "credit_id": "52fe4b6d9251416c910da0b1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10279,
+        "known_for_department": "Acting",
+        "name": "Adolf Hitler",
+        "original_name": "Adolf Hitler",
+        "popularity": 0.9338,
+        "profile_path": "/n6f81IUSes1a8jTzUIF7rJ5zZnP.jpg",
+        "cast_id": 4,
+        "character": "Self (archive footage)",
+        "credit_id": "52fe4b6d9251416c910da0b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1135824,
+        "known_for_department": "Acting",
+        "name": "Vladimir Lenin",
+        "original_name": "Владимир Ленин",
+        "popularity": 0.4488,
+        "profile_path": "/bdYa6BSGbENc815IIggRXbBs3qx.jpg",
+        "cast_id": 5,
+        "character": "Self (archive footage)",
+        "credit_id": "52fe4b6d9251416c910da0b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001615,
+        "known_for_department": "Acting",
+        "name": "Mao Zedong",
+        "original_name": "Mao Zedong",
+        "popularity": 0.2682,
+        "profile_path": "/nuQSpbdD2i4jvBDB0TnvoVbD493.jpg",
+        "cast_id": 6,
+        "character": "Self (archive footage)",
+        "credit_id": "52fe4b6d9251416c910da0bd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1095786,
+        "known_for_department": "Acting",
+        "name": "Benito Mussolini",
+        "original_name": "Benito Mussolini",
+        "popularity": 0.6656,
+        "profile_path": "/rizo5Ct0esQP4gQmisdJ2FkkZhq.jpg",
+        "cast_id": 7,
+        "character": "Self (archive footage)",
+        "credit_id": "52fe4b6d9251416c910da0c1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994271,
+        "known_for_department": "Acting",
+        "name": "Joseph Stalin",
+        "original_name": "Иосиф Сталин",
+        "popularity": 1.4843,
+        "profile_path": "/lXOn6MhSwB3idCyZrM58ZiKreCH.jpg",
+        "cast_id": 8,
+        "character": "Self (archive footage)",
+        "credit_id": "52fe4b6d9251416c910da0c5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1111438,
+        "known_for_department": "Acting",
+        "name": "Leon Trotsky",
+        "original_name": "Leon Trotsky",
+        "popularity": 0.0897,
+        "profile_path": "/ugXC8P9qAbLgQa6GpSobIk7x1SX.jpg",
+        "cast_id": 9,
+        "character": "Self (archive footage)",
+        "credit_id": "52fe4b6d9251416c910da0c9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2797,
+        "known_for_department": "Acting",
+        "name": "Paul von Hindenburg",
+        "original_name": "Paul von Hindenburg",
+        "popularity": 0.1255,
+        "profile_path": "/6jh2oUY9DlnxGNgRXGYSsP15Kp0.jpg",
+        "cast_id": 10,
+        "character": "Self (archive footage)",
+        "credit_id": "52fe4b6d9251416c910da0cd",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1020635,
+        "known_for_department": "Directing",
+        "name": "Jay Rosenblatt",
+        "original_name": "Jay Rosenblatt",
+        "popularity": 0.1727,
+        "profile_path": "/zUm6HFG4SpXs6gXmdVaQRKjeFWA.jpg",
+        "credit_id": "52fe4b6d9251416c910da0a9",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

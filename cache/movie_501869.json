@@ -1,0 +1,361 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 501869,
+  "imdb_id": "tt5940384",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "bn",
+  "original_title": "Bilu Rakkhosh",
+  "overview": "Bilu struggles to balance his busy corporate job, family duties, and his love for music. As he loses control of his life, his dreams fade and his inner fears begin to take over his everyday world.",
+  "popularity": 4.9269,
+  "poster_path": "/6ELUwPWci3hbX6hskixnC4gzwgc.jpg",
+  "production_companies": [
+    {
+      "id": 22902,
+      "logo_path": null,
+      "name": "Tripod Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2017-09-02",
+  "revenue": 0,
+  "runtime": 128,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bilu Rakkhosh",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1047716,
+        "known_for_department": "Acting",
+        "name": "Joy Sengupta",
+        "original_name": "Joy Sengupta",
+        "popularity": 0.4947,
+        "profile_path": "/8flKDQq1uAnK4ZHYIguhee2Pf3h.jpg",
+        "cast_id": 0,
+        "character": "Bilu",
+        "credit_id": "5a7061b90e0a2679690119a4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1969477,
+        "known_for_department": "Acting",
+        "name": "Koneenica Banerjee",
+        "original_name": "Koneenica Banerjee",
+        "popularity": 0.2935,
+        "profile_path": "/2ySf0Bo2qa89ZwvEATn3Dnmakh0.jpg",
+        "cast_id": 5,
+        "character": "Sohini",
+        "credit_id": "5a70623f925141374500dc49",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969475,
+        "known_for_department": "Acting",
+        "name": "Moumita Mitra",
+        "original_name": "Moumita Mitra",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Mala",
+        "credit_id": "5a7061dec3a36847ea00ff7e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1392279,
+        "known_for_department": "Acting",
+        "name": "Kanchana Moitra",
+        "original_name": "Kanchana Moitra",
+        "popularity": 0.9034,
+        "profile_path": "/88qgF3xqt9aSDJZXIOOagVvGv1J.jpg",
+        "cast_id": 2,
+        "character": "Ranu",
+        "credit_id": "5a7061f50e0a26796f010d7f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192818,
+        "known_for_department": "Acting",
+        "name": "Pradip Mukherjee",
+        "original_name": "Pradip Mukherjee",
+        "popularity": 0.1573,
+        "profile_path": "/cppOzQRYXNNxezwzJpYnJAqbJeG.jpg",
+        "cast_id": 3,
+        "character": "Father of Bilu",
+        "credit_id": "5a706205c3a36847e4010037",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969476,
+        "known_for_department": "Acting",
+        "name": "Ranjanya Laha",
+        "original_name": "Ranjanya Laha",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Childhood of Bilu",
+        "credit_id": "5a7062230e0a26796f010d9f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969478,
+        "known_for_department": "Acting",
+        "name": "Anjishnu Banerjee",
+        "original_name": "Anjishnu Banerjee",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Dampu - Son of Bilu",
+        "credit_id": "5a70628c0e0a26796c01149b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969479,
+        "known_for_department": "Acting",
+        "name": "Anirban Banerjee",
+        "original_name": "Anirban Banerjee",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Chiranjib - Friend of Bilu",
+        "credit_id": "5a7062a90e0a2679620110a0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969480,
+        "known_for_department": "Acting",
+        "name": "Arijit Chackrabarty",
+        "original_name": "Arijit Chackrabarty",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Arijit - Friend of Bilu",
+        "credit_id": "5a7062c4925141375700d769",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969481,
+        "known_for_department": "Acting",
+        "name": "Rony Dasgupta",
+        "original_name": "Rony Dasgupta",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Priyadip - Friend of Bilu",
+        "credit_id": "5a7062d70e0a26795f0108cd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969482,
+        "known_for_department": "Acting",
+        "name": "Papiya Sen",
+        "original_name": "Papiya Sen",
+        "popularity": 0.0662,
+        "profile_path": "/nNj6LrZs5mLGhElzTPOalFSnyBK.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5a7062ea0e0a26796c0114e9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3567919,
+        "known_for_department": "Writing",
+        "name": "Deboprasad Haldar",
+        "original_name": "Deboprasad Haldar",
+        "popularity": 0.0143,
+        "profile_path": "/rTQs4uhLBwj7MCSXCNtECpXUzVF.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "63c8d7b8c5c1ef00bd9a9c18",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1172911,
+        "known_for_department": "Writing",
+        "name": "Rabindranath Tagore",
+        "original_name": "Rabindranath Tagore",
+        "popularity": 0.3779,
+        "profile_path": "/6vS2zz3GlPktPh7iGSgkNca5GS0.jpg",
+        "credit_id": "60e20237fbe36f005eeb0223",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1969483,
+        "known_for_department": "Directing",
+        "name": "Indrasis Acharya",
+        "original_name": "Indrasis Acharya",
+        "popularity": 0.051,
+        "profile_path": "/whSTwkxzatCFBCZuizrxTt2KdCB.jpg",
+        "credit_id": "5a70630b925141375400db39",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1969483,
+        "known_for_department": "Directing",
+        "name": "Indrasis Acharya",
+        "original_name": "Indrasis Acharya",
+        "popularity": 0.051,
+        "profile_path": "/whSTwkxzatCFBCZuizrxTt2KdCB.jpg",
+        "credit_id": "5a70631b925141375100d3ab",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969484,
+        "known_for_department": "Production",
+        "name": "Arpan Bhatacharjee",
+        "original_name": "Arpan Bhatacharjee",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5a70634a0e0a267969011af8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1796854,
+        "known_for_department": "Sound",
+        "name": "Joy Sarkar",
+        "original_name": "Joy Sarkar",
+        "popularity": 0.1025,
+        "profile_path": "/tmLDH1CEqhbIBIDfEkHZCtCLQlq.jpg",
+        "credit_id": "5a7063680e0a26796f010ec0",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969485,
+        "known_for_department": "Crew",
+        "name": "Santanu Dey",
+        "original_name": "Santanu Dey",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a706377c3a36847e0010ac0",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1417488,
+        "known_for_department": "Editing",
+        "name": "Malay Laha",
+        "original_name": "Malay Laha",
+        "popularity": 0.0677,
+        "profile_path": "/xsMFUsl4mY64kALo0SY0GoqIjB8.jpg",
+        "credit_id": "5a706399c3a36847e40101b3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969487,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anannya Mohanta",
+        "original_name": "Anannya Mohanta",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5a7063e4925141374200db88",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1432759,
+        "known_for_department": "Sound",
+        "name": "Anirban Sengupta",
+        "original_name": "Anirban Sengupta",
+        "popularity": 0.9765,
+        "profile_path": null,
+        "credit_id": "5a70642ec3a368481c00ef73",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969488,
+        "known_for_department": "Visual Effects",
+        "name": "Arindam Dey",
+        "original_name": "Arindam Dey",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "5a7064450e0a26796f010f8f",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      }
+    ]
+  }
+}

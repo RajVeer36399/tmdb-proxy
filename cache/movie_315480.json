@@ -1,0 +1,395 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": {
+    "id": 620416,
+    "name": "Mărgelatu Series",
+    "poster_path": "/d3D9wzssbvbMvxn2zdmna6cV9L2.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 315480,
+  "imdb_id": "tt0084818",
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_title": "Trandafirul galben",
+  "overview": "The second movie in the \"Margelatu\" series. Continuing the adventure of the Road of the Eagles, the heroes of the movie led by Margelatu after a series of events and overcoming obstacles, bring in the country the weapons bought from Vienna with the money from the sale of the heirlooms and values left by Tudor Vladimirescu for this purpose. Thus, they contribute to the preparation of the 1848 revolution in the Romanian lands.",
+  "popularity": 5.6721,
+  "poster_path": "/sMLRL4OwtE1Nl4hJ9wvoQwMoLwP.jpg",
+  "production_companies": [
+    {
+      "id": 10618,
+      "logo_path": null,
+      "name": "Filmstudio București",
+      "origin_country": "RO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    }
+  ],
+  "release_date": "1982-05-31",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Yellow Rose",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070934,
+        "known_for_department": "Acting",
+        "name": "Florin Piersic",
+        "original_name": "Florin Piersic",
+        "popularity": 0.7443,
+        "profile_path": "/mPXD3L1jNcj6jBqnxg2wWzFArdG.jpg",
+        "cast_id": 0,
+        "character": "Mărgelatu",
+        "credit_id": "5509d22492514110cc003e85",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1070932,
+        "known_for_department": "Acting",
+        "name": "Marga Barbu",
+        "original_name": "Marga Barbu",
+        "popularity": 0.1196,
+        "profile_path": "/fOgwbYDb9aPjIT8jxHTgvRWEc8t.jpg",
+        "cast_id": 1,
+        "character": "Agatha Slătineanu",
+        "credit_id": "5917419bc3a3684269036935",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1478967,
+        "known_for_department": "Acting",
+        "name": "George Motoi",
+        "original_name": "George Motoi",
+        "popularity": 0.0841,
+        "profile_path": "/bhSMnR4vMY7UvAfVlNXEw5CGwlW.jpg",
+        "cast_id": 2,
+        "character": "Lt. Deivos",
+        "credit_id": "591741bf92514159c1032f8a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1161949,
+        "known_for_department": "Acting",
+        "name": "Ion Dichiseanu",
+        "original_name": "Ion Dichiseanu",
+        "popularity": 0.1299,
+        "profile_path": "/nju92bPrWb65biWa4PB93jULYCX.jpg",
+        "cast_id": 3,
+        "character": "Cpt. Mărgărit",
+        "credit_id": "591741d0c3a36842d6035732",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28833,
+        "known_for_department": "Acting",
+        "name": "Mihai Mereuţă",
+        "original_name": "Mihai Mereuţă",
+        "popularity": 0.1611,
+        "profile_path": "/insdQPddzVidUEPkBKCneJ8GFjV.jpg",
+        "cast_id": 4,
+        "character": "Oseaca",
+        "credit_id": "591741dec3a36842c1035694",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1259037,
+        "known_for_department": "Acting",
+        "name": "Constantin Codrescu",
+        "original_name": "Constantin Codrescu",
+        "popularity": 0.3242,
+        "profile_path": "/aDselv3njV2YlMKFUTOkb9NLgpN.jpg",
+        "cast_id": 5,
+        "character": "Rosetti",
+        "credit_id": "591741ed92514105da02b5cb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1310447,
+        "known_for_department": "Camera",
+        "name": "Ion Marinescu",
+        "original_name": "Ion Marinescu",
+        "popularity": 0.0849,
+        "profile_path": "/AbzNMyPGeCyZwkR2y1ZiGvwyQ8O.jpg",
+        "cast_id": 6,
+        "character": "Dt. Ghiulamila",
+        "credit_id": "591741fec3a3683fb60313af",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1913492,
+        "known_for_department": "Acting",
+        "name": "Traian Stănescu",
+        "original_name": "Traian Stănescu",
+        "popularity": 0.0851,
+        "profile_path": "/c6KUiOe0LwAjG5O1vO0c6sRh2Fr.jpg",
+        "cast_id": 11,
+        "character": "Aga Villara",
+        "credit_id": "5d3f56e660b58d00126b4601",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1913503,
+        "known_for_department": "Acting",
+        "name": "Dinu Ianculescu",
+        "original_name": "Dinu Ianculescu",
+        "popularity": 0.0311,
+        "profile_path": "/tIFVEQmO9azYPGAvDoEIQmOFM0T.jpg",
+        "cast_id": 12,
+        "character": "Tala'at",
+        "credit_id": "5d3f570234e1525dace95c2e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1259030,
+        "known_for_department": "Acting",
+        "name": "Vistrian Roman",
+        "original_name": "Vistrian Roman",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Lt. Corlătescu",
+        "credit_id": "5d3f582034e1525defe95d0c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1408268,
+        "known_for_department": "Acting",
+        "name": "Szabolcs Cseh",
+        "original_name": "Szabolcs Cseh",
+        "popularity": 0.1409,
+        "profile_path": "/44qjWqZNtolG2ClIdktFhDzaUgb.jpg",
+        "cast_id": 14,
+        "character": "Buză de iepure",
+        "credit_id": "5d3f5848b87aec2c3d3c0738",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60657,
+        "known_for_department": "Acting",
+        "name": "Constantin Bărbulescu",
+        "original_name": "Constantin Bărbulescu",
+        "popularity": 0.9731,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5d3f587e34e15238fce93f82",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1726318,
+        "known_for_department": "Acting",
+        "name": "Jean Lorin Florescu",
+        "original_name": "Jean Lorin Florescu",
+        "popularity": 0.1124,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "5d3f595921621b6b28ee6baa",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2089288,
+        "known_for_department": "Acting",
+        "name": "Dan Nasta",
+        "original_name": "Dan Nasta",
+        "popularity": 0.0286,
+        "profile_path": "/dcZAuTUvJrZUsQV8u0JxCx4r8W8.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "5d3f596260b58d00126b4cf1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1328109,
+        "known_for_department": "Acting",
+        "name": "Patricia Grigoriu",
+        "original_name": "Patricia Grigoriu",
+        "popularity": 0.0791,
+        "profile_path": "/AeZxWM8rHmlWsRoCW9VmS8oy2ML.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "62b5f06a25b95500615f6cb0",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1426409,
+        "known_for_department": "Directing",
+        "name": "Doru Năstase",
+        "original_name": "Doru Năstase",
+        "popularity": 0.1169,
+        "profile_path": null,
+        "credit_id": "5917422f9251415723035010",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070933,
+        "known_for_department": "Writing",
+        "name": "Eugen Barbu",
+        "original_name": "Eugen Barbu",
+        "popularity": 0.0974,
+        "profile_path": "/92kcIKTIXuBEukWsXOUcCVmY5wS.jpg",
+        "credit_id": "59174243925141583c033bb4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1816035,
+        "known_for_department": "Writing",
+        "name": "Nicolae Paul Mihail",
+        "original_name": "Nicolae Paul Mihail",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "5917426cc3a368371b0255e2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1408268,
+        "known_for_department": "Acting",
+        "name": "Szabolcs Cseh",
+        "original_name": "Szabolcs Cseh",
+        "popularity": 0.1409,
+        "profile_path": "/44qjWqZNtolG2ClIdktFhDzaUgb.jpg",
+        "credit_id": "591742efc3a368423c034ac7",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2306956,
+        "known_for_department": "Sound",
+        "name": "George Grigoriu",
+        "original_name": "George Grigoriu",
+        "popularity": 0.0507,
+        "profile_path": "/ugX3PTzdVrxrEfqmc6f9DVi2P8X.jpg",
+        "credit_id": "5d3f59a260b58d00116b4cff",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2374049,
+        "known_for_department": "Crew",
+        "name": "Liviu Pojoni",
+        "original_name": "Liviu Pojoni",
+        "popularity": 0.0554,
+        "profile_path": "/5Nu41s9zfqmTiEkcwLMadzQleBJ.jpg",
+        "credit_id": "5d3f59c434e1525defe96113",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2083453,
+        "known_for_department": "Editing",
+        "name": "Anca Dobrescu",
+        "original_name": "Anca Dobrescu",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5d3f59d821621b132af05bb3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1209645,
+        "known_for_department": "Art",
+        "name": "Dodu Bălășoiu",
+        "original_name": "Dodu Bălășoiu",
+        "popularity": 0.0493,
+        "profile_path": "/8XNcpCht6fLktKQAXvq4h3el1Jl.jpg",
+        "credit_id": "5d3f59ee60b58d00146b4f30",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2083466,
+        "known_for_department": "Production",
+        "name": "Dumitru Fernoagă",
+        "original_name": "Dumitru Fernoagă",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "5d40d59eb87aec61c23b07a8",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

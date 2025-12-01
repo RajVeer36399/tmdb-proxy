@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/i6t6mcA8ljWIqMcO2xZFArbjPwr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://summerhillfilms.com/midnight-screening/",
+  "id": 1018088,
+  "imdb_id": "tt12581128",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Midnight Screening",
+  "overview": "The employees of a movie theater meet their grisly demise while watching an advance screening of an upcoming release.",
+  "popularity": 6.2676,
+  "poster_path": "/vb9T5qOhKyN698Zp4gIk9DY1IWH.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2021-01-15",
+  "revenue": 0,
+  "runtime": 69,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Your silence is appreciated.",
+  "title": "Midnight Screening",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2707736,
+        "known_for_department": "Acting",
+        "name": "Rebekah Patton",
+        "original_name": "Rebekah Patton",
+        "popularity": 0.0791,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Sheila",
+        "credit_id": "630bf7c818864b00832971a4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3042213,
+        "known_for_department": "Acting",
+        "name": "Caedmon Holland",
+        "original_name": "Caedmon Holland",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Kyle",
+        "credit_id": "630bf81eca7ec6007bcd5c87",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2110050,
+        "known_for_department": "Acting",
+        "name": "Alan Humphrey",
+        "original_name": "Alan Humphrey",
+        "popularity": 0.1954,
+        "profile_path": "/lIjTbjNG60cgRXdm9eNhTJZ1YxC.jpg",
+        "cast_id": 5,
+        "character": "Fuller",
+        "credit_id": "630bf85b18864b0080e4f9f4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3680493,
+        "known_for_department": "Acting",
+        "name": "Micheal Thomas Angel",
+        "original_name": "Micheal Thomas Angel",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Cinephile",
+        "credit_id": "630bf887724de1007e66d1da",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3665258,
+        "known_for_department": "Acting",
+        "name": "Jeffrey M. Williams",
+        "original_name": "Jeffrey M. Williams",
+        "popularity": 0.6981,
+        "profile_path": "/7q4Zg2tEkcUOjUBiSOEq6a3Fv0E.jpg",
+        "cast_id": 7,
+        "character": "Late Night Bum",
+        "credit_id": "630bf8d01f0275007b2f3a8a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2663703,
+        "known_for_department": "Acting",
+        "name": "Amanda Courtney",
+        "original_name": "Amanda Courtney",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Amy",
+        "credit_id": "630bf8e4b3e627007d45772e",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370856,
+        "known_for_department": "Directing",
+        "name": "Daniel Zubiate",
+        "original_name": "Daniel Zubiate",
+        "popularity": 0.0669,
+        "profile_path": null,
+        "credit_id": "630bf52a23bcf4007bf42b93",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370856,
+        "known_for_department": "Directing",
+        "name": "Daniel Zubiate",
+        "original_name": "Daniel Zubiate",
+        "popularity": 0.0669,
+        "profile_path": null,
+        "credit_id": "630bf7328f26bc007b6760e8",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

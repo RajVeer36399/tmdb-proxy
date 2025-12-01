@@ -1,0 +1,256 @@
+{
+  "adult": false,
+  "backdrop_path": "/1RxXdJdZyRbhYb3HXmCzoKPKTNr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 136786,
+  "imdb_id": "tt2327430",
+  "origin_country": [
+    "NO",
+    "GB",
+    "SE"
+  ],
+  "original_language": "en",
+  "original_title": "Liv & Ingmar",
+  "overview": "The 42 year long relationship between legendary actress Liv Ullmann and master filmmaker Ingmar Bergman.",
+  "popularity": 8.052,
+  "poster_path": "/6b7BepYQvWP0kc3nz70NYqBOMdn.jpg",
+  "production_companies": [
+    {
+      "id": 86132,
+      "logo_path": "/91SZEJwBdc9cyvWWJvc1Dbhoedm.png",
+      "name": "NordicStories AS",
+      "origin_country": "NO"
+    },
+    {
+      "id": 6181,
+      "logo_path": "/eaQ7or8IoEmPfgmQiU2C5lVZkxS.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    },
+    {
+      "id": 164412,
+      "logo_path": null,
+      "name": "Vardo Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2012-09-28",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Liv & Ingmar",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11916,
+        "known_for_department": "Acting",
+        "name": "Liv Ullmann",
+        "original_name": "Liv Ullmann",
+        "popularity": 1.2438,
+        "profile_path": "/7IJimLbXIOYpLAS4UaHcNYWRsJe.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "52fe4c1dc3a368484e1a7fcb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.0738,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "cast_id": 3,
+        "character": "Self (archive footage)",
+        "credit_id": "52fe4c1dc3a368484e1a7fcf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64971,
+        "known_for_department": "Acting",
+        "name": "Samuel Fröler",
+        "original_name": "Samuel Fröler",
+        "popularity": 0.2069,
+        "profile_path": "/9X5lIHXhvT6WJPCx7JNMeaavGTa.jpg",
+        "cast_id": 7,
+        "character": "Ingmar Bergman (voice)",
+        "credit_id": "52fe4c1dc3a368484e1a7fd9",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1106201,
+        "known_for_department": "Directing",
+        "name": "Dheeraj Akolkar",
+        "original_name": "Dheeraj Akolkar",
+        "popularity": 0.0596,
+        "profile_path": "/t7tKzAmGaYCJlZdoXTPeC5coipC.jpg",
+        "credit_id": "62441f4c7caa47008ad2ea04",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6335,
+        "known_for_department": "Sound",
+        "name": "Stefan Nilsson",
+        "original_name": "Stefan Nilsson",
+        "popularity": 0.0637,
+        "profile_path": null,
+        "credit_id": "62441f5cc740d9005d7f902f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142005,
+        "known_for_department": "Directing",
+        "name": "Hallvard Bræin",
+        "original_name": "Hallvard Bræin",
+        "popularity": 0.8312,
+        "profile_path": "/tHe0mKzy56TZBULdBzaADbFLwFl.jpg",
+        "credit_id": "62441f67c50ad20088460ead",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2239626,
+        "known_for_department": "Editing",
+        "name": "Tushar Ghogale",
+        "original_name": "Tushar Ghogale",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62441f72223a8b005fad762e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2891378,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marianne Sembsmoen",
+        "original_name": "Marianne Sembsmoen",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62441f795a9915005d5de1e9",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3485939,
+        "known_for_department": "Art",
+        "name": "Inge Trondsen",
+        "original_name": "Inge Trondsen",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62441f8581140f0047bf4c8b",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1106201,
+        "known_for_department": "Directing",
+        "name": "Dheeraj Akolkar",
+        "original_name": "Dheeraj Akolkar",
+        "popularity": 0.0596,
+        "profile_path": "/t7tKzAmGaYCJlZdoXTPeC5coipC.jpg",
+        "credit_id": "52fe4c1dc3a368484e1a7fc7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1106201,
+        "known_for_department": "Directing",
+        "name": "Dheeraj Akolkar",
+        "original_name": "Dheeraj Akolkar",
+        "popularity": 0.0596,
+        "profile_path": "/t7tKzAmGaYCJlZdoXTPeC5coipC.jpg",
+        "credit_id": "52fe4c1dc3a368484e1a7fd5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3308760,
+        "known_for_department": "Writing",
+        "name": "Ragnhild Lund",
+        "original_name": "Ragnhild Lund",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6190cdd1dbf1440045030900",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1937201,
+        "known_for_department": "Production",
+        "name": "Rune H. Trondsen",
+        "original_name": "Rune H. Trondsen",
+        "popularity": 0.0807,
+        "profile_path": null,
+        "credit_id": "6190cde8326ec1004399943c",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

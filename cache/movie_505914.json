@@ -1,0 +1,334 @@
+{
+  "adult": false,
+  "backdrop_path": "/6PvtKxQkMa5OCQMmCbgqISvxhym.jpg",
+  "belongs_to_collection": null,
+  "budget": 395168,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.ederlezi.org",
+  "id": 505914,
+  "imdb_id": "tt5215088",
+  "origin_country": [
+    "RS"
+  ],
+  "original_language": "en",
+  "original_title": "A.I. Rising",
+  "overview": "On a lonely mission to Alpha Centauri, Milutin is teamed up with Nimani 1345, a female cyborg designed to fulfill his every need. At first thrilled to be able to control her, Sebastian grows tired of having his desires fulfilled so easily. Longing for human intimacy, Sebastian alters Nimani's programmed responses, but in doing so he risks the mission's security — and his own life.",
+  "popularity": 7.5216,
+  "poster_path": "/aXosp6MFBxYi4m6ZmE4u1auReHc.jpg",
+  "production_companies": [
+    {
+      "id": 101110,
+      "logo_path": "/mqDSHVu3O3lgm4yANwfaHojeNdP.png",
+      "name": "Mir Media Group",
+      "origin_country": "RS"
+    },
+    {
+      "id": 117814,
+      "logo_path": null,
+      "name": "Balkanic",
+      "origin_country": "US"
+    },
+    {
+      "id": 82871,
+      "logo_path": "/kQ3bbwVPehXN3M1c64ClJMTuNPr.png",
+      "name": "Filmski centar Srbije",
+      "origin_country": "RS"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RS",
+      "name": "Serbia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-02-25",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Future Is Present",
+  "title": "A.I. Rising",
+  "video": false,
+  "vote_average": 4.983,
+  "vote_count": 300,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281072,
+        "known_for_department": "Acting",
+        "name": "Sebastian Cavazza",
+        "original_name": "Sebastian Cavazza",
+        "popularity": 0.6605,
+        "profile_path": "/xC6gPRailgOCZASnBAR5YkB9bmR.jpg",
+        "cast_id": 3,
+        "character": "Milutin",
+        "credit_id": "5a8920239251410ac405c2f6",
+        "order": 0
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 88229,
+        "known_for_department": "Acting",
+        "name": "Stoya",
+        "original_name": "Stoya",
+        "popularity": 34.435,
+        "profile_path": "/1I3639DxJ2rBicMftCdRCaCmnxL.jpg",
+        "cast_id": 19,
+        "character": "Nimani 1345",
+        "credit_id": "5c7a9a83c3a36821ec18c4b7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1547251,
+        "known_for_department": "Acting",
+        "name": "Maruša Majer",
+        "original_name": "Maruša Majer",
+        "popularity": 0.2291,
+        "profile_path": "/t3kjdW7aRdgyy2tpCKVONrEiF7F.jpg",
+        "cast_id": 5,
+        "character": "Social Engineer",
+        "credit_id": "5a8920410e0a26540c05bf99",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2158227,
+        "known_for_department": "Acting",
+        "name": "Kirsty Besterman",
+        "original_name": "Kirsty Besterman",
+        "popularity": 0.1835,
+        "profile_path": "/id7MZJzuc1YobQmfT9v2yJ90DVQ.jpg",
+        "cast_id": 6,
+        "character": "Computer",
+        "credit_id": "5bce4fa30e0a265d44007393",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1980506,
+        "known_for_department": "Directing",
+        "name": "Lazar Bodroža",
+        "original_name": "Lazar Bodroža",
+        "popularity": 0.1551,
+        "profile_path": null,
+        "credit_id": "5a891fccc3a36862e105f240",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228764,
+        "known_for_department": "Writing",
+        "name": "Dimitrije Vojnov",
+        "original_name": "Dimitrije Vojnov",
+        "popularity": 0.6567,
+        "profile_path": "/wo3SeF6cmPAkbfsHu4qv44RxnRV.jpg",
+        "credit_id": "5a891fe70e0a2652ab05eb2f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1590447,
+        "known_for_department": "Sound",
+        "name": "Aleksandar Protić",
+        "original_name": "Aleksandar Protić",
+        "popularity": 0.0694,
+        "profile_path": null,
+        "credit_id": "5c06cc9d0e0a2633a60e762a",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853414,
+        "known_for_department": "Editing",
+        "name": "Milena Z. Petrović",
+        "original_name": "Milena Z. Petrović",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "credit_id": "5c06cc5492514113290de0eb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1768839,
+        "known_for_department": "Art",
+        "name": "Aljoša Spajić",
+        "original_name": "Aljoša Spajić",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "5c06cc5e0e0a262cfb0dc4bf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2188567,
+        "known_for_department": "Sound",
+        "name": "Filip Verkić",
+        "original_name": "Filip Verkić",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5c06ccab9251417e2e090c4c",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1590449,
+        "known_for_department": "Sound",
+        "name": "Aleksandar Perišić",
+        "original_name": "Aleksandar Perišić",
+        "popularity": 0.0606,
+        "profile_path": null,
+        "credit_id": "5c06cc8b92514116540e97b0",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1590447,
+        "known_for_department": "Sound",
+        "name": "Aleksandar Protić",
+        "original_name": "Aleksandar Protić",
+        "popularity": 0.0694,
+        "profile_path": null,
+        "credit_id": "5c06cc340e0a26486a0ac1ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2188568,
+        "known_for_department": "Sound",
+        "name": "Dane Vlaisavljevic",
+        "original_name": "Dane Vlaisavljevic",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5c06ccb4c3a3686476107179",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2110377,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Senka Kljakić",
+        "original_name": "Senka Kljakić",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5c06cc680e0a2636ce0f19f8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2038339,
+        "known_for_department": "Camera",
+        "name": "Kosta Glušica",
+        "original_name": "Kosta Glušica",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "5c06cc4ac3a36864761070a8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2012170,
+        "known_for_department": "Sound",
+        "name": "Nikola Janković",
+        "original_name": "Nikola Janković",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5c06cc760e0a265b280f4f73",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83730,
+        "known_for_department": "Directing",
+        "name": "Jonathan English",
+        "original_name": "Jonathan English",
+        "popularity": 0.8629,
+        "profile_path": "/5pLNxwzjU4pLnYALSupZ5j3dFDx.jpg",
+        "credit_id": "5c06cc18c3a36861f90f5be6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1980507,
+        "known_for_department": "Writing",
+        "name": "Zoran Nešković",
+        "original_name": "Zoran Nešković",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "67b7f147bc84d56cbeba454d",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1330273,
+        "known_for_department": "Sound",
+        "name": "Nemanja Mosurović",
+        "original_name": "Nemanja Mosurović",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "67b7f156a2284666f1eb2a58",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 505095,
+  "imdb_id": "tt0139514",
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_title": "Outros Bairros",
+  "overview": "",
+  "popularity": 6.2116,
+  "poster_path": "/gjNsJGZeMoC2Woh0oUKryYXEhrW.jpg",
+  "production_companies": [
+    {
+      "id": 8491,
+      "logo_path": null,
+      "name": "Instituto Português da Arte Cinematográfica e Audiovisual",
+      "origin_country": "PT"
+    },
+    {
+      "id": 16450,
+      "logo_path": null,
+      "name": "Filmes do Tejo",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "1998-01-01",
+  "revenue": 0,
+  "runtime": 47,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Outros Bairros",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1276861,
+        "known_for_department": "Production",
+        "name": "Inês Gonçalves",
+        "original_name": "Inês Gonçalves",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5a8385da0e0a26540c0008ef",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1664433,
+        "known_for_department": "Directing",
+        "name": "Kiluanje Liberdade",
+        "original_name": "Kiluanje Liberdade",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5a8385ea0e0a2653db0009f6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281664,
+        "known_for_department": "Sound",
+        "name": "Vasco Pimentel",
+        "original_name": "Vasco Pimentel",
+        "popularity": 0.1318,
+        "profile_path": "/MieWuA9cH8abOfP25G6xQQ4Rdt.jpg",
+        "credit_id": "5a8385f39251410b01000999",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1769577,
+        "known_for_department": "Camera",
+        "name": "João Ribeiro",
+        "original_name": "João Ribeiro",
+        "popularity": 0.0791,
+        "profile_path": null,
+        "credit_id": "5a8386009251417599005c13",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1183164,
+        "known_for_department": "Sound",
+        "name": "Tiago Matos",
+        "original_name": "Tiago Matos",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5a83860a0e0a2653db000a29",
+        "department": "Sound",
+        "job": "Sound Editor"
+      }
+    ]
+  }
+}

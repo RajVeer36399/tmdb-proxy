@@ -1,0 +1,419 @@
+{
+  "adult": false,
+  "backdrop_path": "/irkJiudNBuYGHC69VBmDrSXmPL7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 768614,
+  "imdb_id": "tt8980622",
+  "origin_country": [
+    "US",
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Silver Star",
+  "overview": "When Billie learns that her estranged parents' lives are at risk, she tries to help them by robbing a bank. In her botched robbery attempt, she takes a hostage named Franny, who turns out to be a charmingly impulsive pregnant teenager with nothing left to lose. Together, Billie and Franny embark on a chase through scenic American landscapes, clashing and struggling for common ground in hopes for a brighter future.",
+  "popularity": 6.2274,
+  "poster_path": "/az5q4UCDAeRDUIMYqPg9yqGMMEN.jpg",
+  "production_companies": [
+    {
+      "id": 94313,
+      "logo_path": "/6d4xwwK7t0QFMuR3vSRjrcvHa9G.png",
+      "name": "Les Films de la Fusée",
+      "origin_country": "FR"
+    },
+    {
+      "id": 146165,
+      "logo_path": "/axgSB0Dp6vg6okGpDQ9FBtIIaiR.png",
+      "name": "The Film Community",
+      "origin_country": "US"
+    },
+    {
+      "id": 85847,
+      "logo_path": "/e5brfizcQEVxH2Y5lyuoSZcKx5m.png",
+      "name": "Virginie Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 171436,
+      "logo_path": "/2PCuIrmhOMX9eGpxs8PQWjxfU3s.png",
+      "name": "Carte Blanche",
+      "origin_country": "US"
+    },
+    {
+      "id": 99914,
+      "logo_path": null,
+      "name": "Valerie Steinberg Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 277550,
+      "logo_path": null,
+      "name": "Middlemen",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-26",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Silver Star",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1243099,
+        "known_for_department": "Acting",
+        "name": "Grace Van Dien",
+        "original_name": "Grace Van Dien",
+        "popularity": 4.0391,
+        "profile_path": "/1yKimLonnxA4Fu1a7WW0thxeBeT.jpg",
+        "cast_id": 12,
+        "character": "Franny",
+        "credit_id": "638401fda410c80084831b84",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2091629,
+        "known_for_department": "Acting",
+        "name": "Troy Leigh-Anne Johnson",
+        "original_name": "Troy Leigh-Anne Johnson",
+        "popularity": 1.0297,
+        "profile_path": "/8wzynSg1D0al707FGSRIYvKQItv.jpg",
+        "cast_id": 13,
+        "character": "Billie",
+        "credit_id": "6384020a2e0697024d2a4555",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2371449,
+        "known_for_department": "Acting",
+        "name": "Noa Fisher",
+        "original_name": "Noa Fisher",
+        "popularity": 0.8112,
+        "profile_path": "/1HicF91xNsv5xjgpngPTxyTu4cX.jpg",
+        "cast_id": 14,
+        "character": "Jess",
+        "credit_id": "638402755e14e500b806a495",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2661408,
+        "known_for_department": "Acting",
+        "name": "Odley Jean",
+        "original_name": "Odley Jean",
+        "popularity": 0.1019,
+        "profile_path": "/6aSGNIdulxkMGLvfIrJH8sXXUWJ.jpg",
+        "cast_id": 15,
+        "character": "Julie",
+        "credit_id": "638402812e06970292e3d6c5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1313544,
+        "known_for_department": "Acting",
+        "name": "Charlie Mac",
+        "original_name": "Charlie Mac",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Sleeping Man",
+        "credit_id": "6384028ebf09d100d70c3a17",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3805388,
+        "known_for_department": "Acting",
+        "name": "Tamara Fruits",
+        "original_name": "Tamara Fruits",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Shonda",
+        "credit_id": "638402975b4fed00839c0cd6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1510745,
+        "known_for_department": "Acting",
+        "name": "Albert M. Chan",
+        "original_name": "Albert M. Chan",
+        "popularity": 0.4682,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Pharmacist",
+        "credit_id": "638402a0fb8346007c47951a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3805389,
+        "known_for_department": "Acting",
+        "name": "Josh Silverman",
+        "original_name": "Josh Silverman",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "William Bortschstoecker",
+        "credit_id": "638402a85e14e500862fd59f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5605831,
+        "known_for_department": "Acting",
+        "name": "Brian Coll",
+        "original_name": "Brian Coll",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Policeman",
+        "credit_id": "68af9e12a0c4927756390bf1",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1112589,
+        "known_for_department": "Writing",
+        "name": "Ruben Amar",
+        "original_name": "Ruben Amar",
+        "popularity": 0.5274,
+        "profile_path": "/2mhB4sY88myfRn8mm3DCETkLmGt.jpg",
+        "credit_id": "5fbedefc35c30a003f570c77",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1112590,
+        "known_for_department": "Acting",
+        "name": "Lola Bessis",
+        "original_name": "Lola Bessis",
+        "popularity": 0.5018,
+        "profile_path": "/nlWXzWwnREhQhjUNO7TkvZ1Aecv.jpg",
+        "credit_id": "5fbedf2ef9475b003fc63c35",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1112589,
+        "known_for_department": "Writing",
+        "name": "Ruben Amar",
+        "original_name": "Ruben Amar",
+        "popularity": 0.5274,
+        "profile_path": "/2mhB4sY88myfRn8mm3DCETkLmGt.jpg",
+        "credit_id": "5fbedede6bdec3003b24252f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1112590,
+        "known_for_department": "Acting",
+        "name": "Lola Bessis",
+        "original_name": "Lola Bessis",
+        "popularity": 0.5018,
+        "profile_path": "/nlWXzWwnREhQhjUNO7TkvZ1Aecv.jpg",
+        "credit_id": "5fbedf5d35c30a004157f8e4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1112589,
+        "known_for_department": "Writing",
+        "name": "Ruben Amar",
+        "original_name": "Ruben Amar",
+        "popularity": 0.5274,
+        "profile_path": "/2mhB4sY88myfRn8mm3DCETkLmGt.jpg",
+        "credit_id": "5fbedf4f57530e00423cc1cd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1414900,
+        "known_for_department": "Production",
+        "name": "Laurent Boyé",
+        "original_name": "Laurent Boyé",
+        "popularity": 0.0071,
+        "profile_path": "/k1LTHl6CxSsEh6W2XxiDdFDhxEO.jpg",
+        "credit_id": "5fbee089ac8e6b003d322a5d",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1112590,
+        "known_for_department": "Acting",
+        "name": "Lola Bessis",
+        "original_name": "Lola Bessis",
+        "popularity": 0.5018,
+        "profile_path": "/nlWXzWwnREhQhjUNO7TkvZ1Aecv.jpg",
+        "credit_id": "66e4ef6264dbb3be182e174b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1774437,
+        "known_for_department": "Production",
+        "name": "Charlotte Arnoux",
+        "original_name": "Charlotte Arnoux",
+        "popularity": 0.0905,
+        "profile_path": "/xbMJJaL4kzKpFN3ziKYw8SA6Smv.jpg",
+        "credit_id": "677c1ded15cafe8aad748c91",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1112589,
+        "known_for_department": "Writing",
+        "name": "Ruben Amar",
+        "original_name": "Ruben Amar",
+        "popularity": 0.5274,
+        "profile_path": "/2mhB4sY88myfRn8mm3DCETkLmGt.jpg",
+        "credit_id": "68f6420c061de620e3cd0e52",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5763259,
+        "known_for_department": "Production",
+        "name": "Philippe Imhaus",
+        "original_name": "Philippe Imhaus",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "68f7993b0853aaa020f5c838",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5763260,
+        "known_for_department": "Production",
+        "name": "Simon Lefort",
+        "original_name": "Simon Lefort",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "68f7996a2f2334cfad1023c0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1964317,
+        "known_for_department": "Production",
+        "name": "Valerie Steinberg",
+        "original_name": "Valerie Steinberg",
+        "popularity": 0.7492,
+        "profile_path": "/1na8WXHRMY5EuFBP38K9liiD04Z.jpg",
+        "credit_id": "68f799a8f85def71983a3b2c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2771646,
+        "known_for_department": "Production",
+        "name": "Kyle Stroud",
+        "original_name": "Kyle Stroud",
+        "popularity": 0.1372,
+        "profile_path": "/m5jdCzll2bHlUkF9XAYgZxjq6nP.jpg",
+        "credit_id": "68f799d61b78967eb5cd12fe",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3083634,
+        "known_for_department": "Production",
+        "name": "Elaine Thomas",
+        "original_name": "Elaine Thomas",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68f79a1bad3336f98f32194f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1698686,
+        "known_for_department": "Camera",
+        "name": "Cole Graham",
+        "original_name": "Cole Graham",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "6927374d1b5237443c371727",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

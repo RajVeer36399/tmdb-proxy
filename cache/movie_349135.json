@@ -1,0 +1,591 @@
+{
+  "adult": false,
+  "backdrop_path": "/8uofqUSp83cRsZ4GAKy00lAxqHX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 349135,
+  "imdb_id": "tt4443784",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Roboshark",
+  "overview": "What starts off as a typical day on the streets of Seattle soon becomes a terrifying bloodbath, when a great white shark devours an alien space probe…and ROBOSHARK is born. The U.S. military comes after it with guns blazing, but it’s the power of social media that puts an ambitious newscaster and her tech-savvy daughter ahead of everyone else in the race to stop the destruction.",
+  "popularity": 9.4248,
+  "poster_path": "/w9odZRm3gk2NEhuhX0eoYGzhQ0J.jpg",
+  "production_companies": [
+    {
+      "id": 51569,
+      "logo_path": "/y3uHg8odkElsEKzIGV6Ly6eZX71.png",
+      "name": "UFO Films",
+      "origin_country": "BG"
+    },
+    {
+      "id": 29185,
+      "logo_path": "/3SHlavyUJiZIn4ZS5h3B9ggP0Cf.png",
+      "name": "BUFO",
+      "origin_country": "BG"
+    },
+    {
+      "id": 21526,
+      "logo_path": null,
+      "name": "Supercollider",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "BG",
+      "name": "Bulgaria"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-07-23",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "IT'S A HYBRID OF HORROR.",
+  "title": "Roboshark",
+  "video": false,
+  "vote_average": 3.8,
+  "vote_count": 39,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1488053,
+        "known_for_department": "Acting",
+        "name": "Alexis Peterman",
+        "original_name": "Alexis Peterman",
+        "popularity": 0.6009,
+        "profile_path": "/hovaMwbngpiYMHPMLdz0RCmVmKZ.jpg",
+        "cast_id": 5,
+        "character": "Trish",
+        "credit_id": "55a955529251411e11003c63",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78047,
+        "known_for_department": "Acting",
+        "name": "Matt Rippy",
+        "original_name": "Matt Rippy",
+        "popularity": 0.488,
+        "profile_path": "/nJhQoU3YaGcdd9xFbdXGjO1ciMN.jpg",
+        "cast_id": 6,
+        "character": "Rick",
+        "credit_id": "55a955609251411e06003b8c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404403,
+        "known_for_department": "Acting",
+        "name": "Nigel Barber",
+        "original_name": "Nigel Barber",
+        "popularity": 0.2835,
+        "profile_path": "/x28iFuA9LUBMxpWatTdUFPEXSIC.jpg",
+        "cast_id": 1,
+        "character": "Admiral Black",
+        "credit_id": "55a95515c3a3682ffc003b1a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1488052,
+        "known_for_department": "Acting",
+        "name": "Vanessa Grasse",
+        "original_name": "Vanessa Grasse",
+        "popularity": 1.1611,
+        "profile_path": "/dugeh2yv95JtnnAwI9w8KFdUIdF.jpg",
+        "cast_id": 3,
+        "character": "Melody",
+        "credit_id": "55a95537c3a3682ff40042df",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456568,
+        "known_for_department": "Acting",
+        "name": "Isaac Haig",
+        "original_name": "Isaac Haig",
+        "popularity": 0.1389,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Louie",
+        "credit_id": "55a9554392514172ef001cf4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456564,
+        "known_for_department": "Acting",
+        "name": "Laura Dale",
+        "original_name": "Laura Dale",
+        "popularity": 0.9726,
+        "profile_path": "/hQ8aPSSEqFpuyan2i4eai1JaqAG.jpg",
+        "cast_id": 2,
+        "character": "Veronica Viola",
+        "credit_id": "55a95527c3a368648e0023e2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61861,
+        "known_for_department": "Acting",
+        "name": "Vlado Mihailov",
+        "original_name": "Vlado Mihailov",
+        "popularity": 0.1151,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Erik",
+        "credit_id": "55ad6e88c3a368648e007c9b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1419292,
+        "known_for_department": "Acting",
+        "name": "Derek Morse",
+        "original_name": "Derek Morse",
+        "popularity": 0.4192,
+        "profile_path": "/eTMupkmDeijFevvlMaWWEKXicE4.jpg",
+        "cast_id": 17,
+        "character": "Chief Xavier",
+        "credit_id": "55ad6e9ec3a3682ffc0095fd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413807,
+        "known_for_department": "Acting",
+        "name": "Kicker Robinson",
+        "original_name": "Kicker Robinson",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Commander Sumner",
+        "credit_id": "55a95574c3a3682ffc003b21",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1488895,
+        "known_for_department": "Acting",
+        "name": "Lorenzo Estebanez",
+        "original_name": "Lorenzo Estebanez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Rodrigo",
+        "credit_id": "55ad6f17c3a3687265002ef1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1174557,
+        "known_for_department": "Acting",
+        "name": "Kitodar Todorov",
+        "original_name": "Kitodar Todorov",
+        "popularity": 0.4803,
+        "profile_path": "/1FYR7SwtL4r7a55CHkxbk1PdoJx.jpg",
+        "cast_id": 19,
+        "character": "Malone",
+        "credit_id": "55ad6f2f92514125da0092e6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1297030,
+        "known_for_department": "Acting",
+        "name": "Hristo Balabanov",
+        "original_name": "Hristo Balabanov",
+        "popularity": 0.1606,
+        "profile_path": null,
+        "cast_id": 0,
+        "character": "Max",
+        "credit_id": "55a955079251411e0b003c7c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488054,
+        "known_for_department": "Directing",
+        "name": "Antony Tanev",
+        "original_name": "Antony Tanev",
+        "popularity": 0.8486,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Alien",
+        "credit_id": "55a9558092514172ef001cf8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1488896,
+        "known_for_department": "Acting",
+        "name": "Steve Sires",
+        "original_name": "Steve Sires",
+        "popularity": 1.35,
+        "profile_path": "/vKmn7kR8Q9QVlYFBoqbS5BcP3xb.jpg",
+        "cast_id": 20,
+        "character": "Bill Glates",
+        "credit_id": "55ad6f65c3a3682ff400a750",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95407,
+        "known_for_department": "Directing",
+        "name": "Jeffery Scott Lando",
+        "original_name": "Jeffery Scott Lando",
+        "popularity": 0.1483,
+        "profile_path": null,
+        "credit_id": "55a955b9c3a3683002003a90",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1350233,
+        "known_for_department": "Art",
+        "name": "Anna Hadzhieva",
+        "original_name": "Anna Hadzhieva",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "55a955fd9251411e0f003dad",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95407,
+        "known_for_department": "Directing",
+        "name": "Jeffery Scott Lando",
+        "original_name": "Jeffery Scott Lando",
+        "popularity": 0.1483,
+        "profile_path": null,
+        "credit_id": "55a955c59251411e14003ce0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131184,
+        "known_for_department": "Production",
+        "name": "Phillip J. Roth",
+        "original_name": "Phillip J. Roth",
+        "popularity": 0.2716,
+        "profile_path": null,
+        "credit_id": "55a955e49251411e0f003da9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52339,
+        "known_for_department": "Sound",
+        "name": "Claude Foisy",
+        "original_name": "Claude Foisy",
+        "popularity": 0.1506,
+        "profile_path": "/h51H4ThS9simFpcqy8SRYS1LmzO.jpg",
+        "credit_id": "55a955f1c3a3682ff6003dbf",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 127096,
+        "known_for_department": "Production",
+        "name": "Jeffery Beach",
+        "original_name": "Jeffery Beach",
+        "popularity": 0.6102,
+        "profile_path": null,
+        "credit_id": "55a955d4c3a3682ff40042ef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95407,
+        "known_for_department": "Directing",
+        "name": "Jeffery Scott Lando",
+        "original_name": "Jeffery Scott Lando",
+        "popularity": 0.1483,
+        "profile_path": null,
+        "credit_id": "55a955b29251411e0f003da3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1540199,
+        "known_for_department": "Art",
+        "name": "Dimiter Petkov",
+        "original_name": "Dimiter Petkov",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "5a7defe2c3a36817bf002f97",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453304,
+        "known_for_department": "Editing",
+        "name": "Julian Minkov",
+        "original_name": "Julian Minkov",
+        "popularity": 0.0665,
+        "profile_path": "/fI7JYOx9AT2UYFbI32dNfiDcwz.jpg",
+        "credit_id": "5a7defc80e0a2654ed00311b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1543254,
+        "known_for_department": "Crew",
+        "name": "Peter Krumov",
+        "original_name": "Peter Krumov",
+        "popularity": 0.7371,
+        "profile_path": null,
+        "credit_id": "5addccee925141043200c2de",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1376791,
+        "known_for_department": "Sound",
+        "name": "Thomas Andrew Gallegos",
+        "original_name": "Thomas Andrew Gallegos",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "credit_id": "5addcd94c3a368522b00c45e",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543852,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Atanas Temnilov",
+        "original_name": "Atanas Temnilov",
+        "popularity": 0.1398,
+        "profile_path": null,
+        "credit_id": "5addcc4392514103fb00c5c0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1910124,
+        "known_for_department": "Art",
+        "name": "Asen Dimitrov",
+        "original_name": "Asen Dimitrov",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "5addccadc3a36862c40353d5",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1363350,
+        "known_for_department": "Sound",
+        "name": "Atanas Peichev",
+        "original_name": "Atanas Peichev",
+        "popularity": 0.2081,
+        "profile_path": null,
+        "credit_id": "5addcd1b9251410ac7032b88",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453309,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ralitsa Roth",
+        "original_name": "Ralitsa Roth",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "5addcc16c3a368525800c4aa",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2028502,
+        "known_for_department": "Production",
+        "name": "Kate Kroll",
+        "original_name": "Kate Kroll",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5addcc7d0e0a2608b000e175",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543844,
+        "known_for_department": "Production",
+        "name": "Milena Karova",
+        "original_name": "Milena Karova",
+        "popularity": 0.084,
+        "profile_path": null,
+        "credit_id": "5addcda80e0a26143203a6e7",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488054,
+        "known_for_department": "Directing",
+        "name": "Antony Tanev",
+        "original_name": "Antony Tanev",
+        "popularity": 0.8486,
+        "profile_path": null,
+        "credit_id": "5addcc99925141041b00c20c",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1420341,
+        "known_for_department": "Camera",
+        "name": "Georgi Vasillev",
+        "original_name": "Georgi Vasillev",
+        "popularity": 0.559,
+        "profile_path": null,
+        "credit_id": "5addcd420e0a2608d800e1ef",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1116956,
+        "known_for_department": "Sound",
+        "name": "Velizar Bagarov",
+        "original_name": "Velizar Bagarov",
+        "popularity": 0.242,
+        "profile_path": null,
+        "credit_id": "5addcd07c3a368528100d46d",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131184,
+        "known_for_department": "Production",
+        "name": "Phillip J. Roth",
+        "original_name": "Phillip J. Roth",
+        "popularity": 0.2716,
+        "profile_path": null,
+        "credit_id": "5addcbb30e0a2608be00c750",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 240967,
+        "known_for_department": "Directing",
+        "name": "Ivan Mitov",
+        "original_name": "Ivan Mitov",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "5addcc8cc3a368522b00c36c",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1542349,
+        "known_for_department": "Visual Effects",
+        "name": "Yavor Chakarov",
+        "original_name": "Yavor Chakarov",
+        "popularity": 0.0837,
+        "profile_path": null,
+        "credit_id": "5addcd740e0a2608b000e243",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      }
+    ]
+  }
+}

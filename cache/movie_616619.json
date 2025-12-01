@@ -1,0 +1,459 @@
+{
+  "adult": false,
+  "backdrop_path": "/mFz3t41FsdNt9Xciv8wgqjmjPRc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 616619,
+  "imdb_id": "tt8955616",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Giraffe",
+  "overview": "A Danish summer: long days turn into blue nights. A tunnel is being built to connect Denmark and Germany. Three people meet and part ways again.",
+  "popularity": 5.6345,
+  "poster_path": "/1QqeuxPqG3olMV4sdcoutmf5DtY.jpg",
+  "production_companies": [
+    {
+      "id": 1618,
+      "logo_path": "/dacmPYkpGE9Mbu2dqG2sFTXpsqr.png",
+      "name": "Komplizen Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 64293,
+      "logo_path": "/lbYGnir9KeY8NyQZrUFZbf3QDej.png",
+      "name": "Profile Pictures",
+      "origin_country": "DK"
+    },
+    {
+      "id": 2067,
+      "logo_path": "/y5knLIUjYsKBIlM4W0dLruWwYaC.png",
+      "name": "RBB",
+      "origin_country": "DE"
+    },
+    {
+      "id": 119,
+      "logo_path": "/1di2gITGUZr730AMuMKiCrP90Vl.png",
+      "name": "DR",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "2020-08-06",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Giraffe",
+  "video": false,
+  "vote_average": 5.206,
+  "vote_count": 17,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1310711,
+        "known_for_department": "Acting",
+        "name": "Lisa Loven Kongsli",
+        "original_name": "Lisa Loven Kongsli",
+        "popularity": 0.8344,
+        "profile_path": "/pm5y6qrZqinsYZW0Rud1DjYU4mP.jpg",
+        "cast_id": 2,
+        "character": "Dara",
+        "credit_id": "5d8bfbec326ec100281f64df",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 489961,
+        "known_for_department": "Acting",
+        "name": "Jakub Gierszał",
+        "original_name": "Jakub Gierszał",
+        "popularity": 0.8676,
+        "profile_path": "/z54kt8s5OsRooCWBMT2Df4q61BZ.jpg",
+        "cast_id": 3,
+        "character": "Lucek",
+        "credit_id": "5d8bfc0179b3d4000f871d50",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7827,
+        "known_for_department": "Acting",
+        "name": "Maren Eggert",
+        "original_name": "Maren Eggert",
+        "popularity": 0.8397,
+        "profile_path": "/ukMQHb7kUdDoCLy7mRL80NnqMSU.jpg",
+        "cast_id": 4,
+        "character": "Käthe",
+        "credit_id": "5d8bfc13d9f4a6002051c7f2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71514,
+        "known_for_department": "Acting",
+        "name": "Christoph Bach",
+        "original_name": "Christoph Bach",
+        "popularity": 0.7976,
+        "profile_path": "/DjyM6g981W3qiHQZl4PUvjM2OJ.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "5f4290fde860170034563c2c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1976067,
+        "known_for_department": "Directing",
+        "name": "Natalia Ciepiel",
+        "original_name": "Natalia Ciepiel",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "5f429140e860170036562f1e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123962,
+        "known_for_department": "Acting",
+        "name": "Juni Dahr",
+        "original_name": "Juni Dahr",
+        "popularity": 0.0793,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "5f42914e41a5610032cb7d42",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1447616,
+        "known_for_department": "Acting",
+        "name": "Jules Elting",
+        "original_name": "Jules Elting",
+        "popularity": 0.1152,
+        "profile_path": "/obYJRwASmchRCnPi9bxaGfYCo6O.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "5f42919b477215003560ada6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1963525,
+        "known_for_department": "Acting",
+        "name": "Gina Henkel",
+        "original_name": "Gina Henkel",
+        "popularity": 0.058,
+        "profile_path": "/hDQcyRVDH80fjPr3WJxcGIm0nMe.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "5f4291bce860170034563dc2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1682207,
+        "known_for_department": "Acting",
+        "name": "Daniel Hoevels",
+        "original_name": "Daniel Hoevels",
+        "popularity": 0.0735,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "5f4291cee860170035561b3d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544860,
+        "known_for_department": "Acting",
+        "name": "Henning Valin Jakobsen",
+        "original_name": "Henning Valin",
+        "popularity": 0.2415,
+        "profile_path": "/o9YeQ3VeEV0lLA3YrWX685g7mjg.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "5f4291dc99d5c30034b5f758",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1703571,
+        "known_for_department": "Production",
+        "name": "Zsuzsanna Kiràly",
+        "original_name": "Zsuzsanna Kiràly",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "5f429204477215003560ae9b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1921850,
+        "known_for_department": "Acting",
+        "name": "Camilla Lau",
+        "original_name": "Camilla Lau",
+        "popularity": 0.2959,
+        "profile_path": "/bLmj6SRJ84tfjRtnZv8AqLrjZYw.jpg",
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "5f42921641a5610031cbec63",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1134834,
+        "known_for_department": "Camera",
+        "name": "Jenny Lou Ziegel",
+        "original_name": "Jenny Lou Ziegel",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "60ac02aead87f700780d5652",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1406374,
+        "known_for_department": "Writing",
+        "name": "Anna Sofie Hartmann",
+        "original_name": "Anna Sofie Hartmann",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "5d30da95326c19000f1d8a8a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1177712,
+        "known_for_department": "Art",
+        "name": "Karin Betzler",
+        "original_name": "Karin Betzler",
+        "popularity": 0.0686,
+        "profile_path": null,
+        "credit_id": "5d8bfcedabf8e200297889b5",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40491,
+        "known_for_department": "Production",
+        "name": "Ulrike Müller",
+        "original_name": "Ulrike Müller",
+        "popularity": 0.1337,
+        "profile_path": "/cId4boTbtkEbScn5i8TPiO5EEWn.jpg",
+        "credit_id": "5d8bfcd8d9f4a60028524910",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1194831,
+        "known_for_department": "Production",
+        "name": "Caroline Schlüter",
+        "original_name": "Caroline Schlüter",
+        "popularity": 0.0533,
+        "profile_path": "/lRJinYtDQpQSTCysEIO6bjYxaK6.jpg",
+        "credit_id": "5d8bfca7abf8e2001978803c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1552597,
+        "known_for_department": "Production",
+        "name": "Jacob Jarek",
+        "original_name": "Jacob Jarek",
+        "popularity": 0.0671,
+        "profile_path": "/pNmMIFY6KyXtG3l3FetxxV9iqL8.jpg",
+        "credit_id": "5d8bfc85326ec100281f7135",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40476,
+        "known_for_department": "Directing",
+        "name": "Maren Ade",
+        "original_name": "Maren Ade",
+        "popularity": 0.7393,
+        "profile_path": "/xJdtE4BTHSYN0UVsyX3PB182zdb.jpg",
+        "credit_id": "5d8bfc54d9f4a6000e522fb4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1552598,
+        "known_for_department": "Production",
+        "name": "Ditte Milsted",
+        "original_name": "Ditte Milsted",
+        "popularity": 0.077,
+        "profile_path": null,
+        "credit_id": "5d8bfc9379b3d4000f871e23",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40475,
+        "known_for_department": "Production",
+        "name": "Janine Jackowski",
+        "original_name": "Janine Jackowski",
+        "popularity": 0.2287,
+        "profile_path": null,
+        "credit_id": "5d8bfc74326ec100281f7118",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583516,
+        "known_for_department": "Production",
+        "name": "Jonas Dornbach",
+        "original_name": "Jonas Dornbach",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "credit_id": "5d8bfc6479b3d4000f871e03",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2418701,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sophie Reble",
+        "original_name": "Sophie Reble",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5d8bfd00abf8e200297889d5",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1406374,
+        "known_for_department": "Writing",
+        "name": "Anna Sofie Hartmann",
+        "original_name": "Anna Sofie Hartmann",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "5d8bfc3aabf8e200297888ee",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2230421,
+        "known_for_department": "Editing",
+        "name": "Sofie Steenberger",
+        "original_name": "Sofie Steenberger",
+        "popularity": 0.0286,
+        "profile_path": "/uVfHM0CwqZk9qYlWo6cUTN1s0lF.jpg",
+        "credit_id": "5d8bfcc1d9f4a6002051c910",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5091,
+        "known_for_department": "Writing",
+        "name": "Valeska Grisebach",
+        "original_name": "Valeska Grisebach",
+        "popularity": 0.0608,
+        "profile_path": "/5LXVYq0CPhwk6B7gc2B8tFKuMpC.jpg",
+        "credit_id": "5e53024db87aec0014aa110a",
+        "department": "Crew",
+        "job": "Dramaturgy"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2119481,
+        "known_for_department": "Sound",
+        "name": "Jacek Wiśniewski",
+        "original_name": "Jacek Wiśniewski",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "67029142c3c5b3a1a8f7d99a",
+        "department": "Sound",
+        "job": "Foley Artist"
+      }
+    ]
+  }
+}

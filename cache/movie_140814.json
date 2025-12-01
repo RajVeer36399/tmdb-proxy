@@ -1,0 +1,402 @@
+{
+  "adult": false,
+  "backdrop_path": "/ruay18SdUWkoXtAFWdOONYwPDxg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 140814,
+  "imdb_id": "tt0790653",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Elliot Loves",
+  "overview": "Two stages of a Dominican-American's life; first as a boy trying to bond with his young mother, then a 21-year-old looking for love in New York City.",
+  "popularity": 8.6164,
+  "poster_path": "/vqXZhsURCPcJ9f7aGtMQ88KSbwY.jpg",
+  "production_companies": [
+    {
+      "id": 30535,
+      "logo_path": null,
+      "name": "Papi Chulo",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-05-04",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The boy can't help it.",
+  "title": "Elliot Loves",
+  "video": false,
+  "vote_average": 5.333,
+  "vote_count": 18,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110505,
+        "known_for_department": "Acting",
+        "name": "Robin de Jesús",
+        "original_name": "Robin de Jesús",
+        "popularity": 0.2026,
+        "profile_path": "/cnXFjsy7OaKBGtCV9nFD5rNvq0N.jpg",
+        "cast_id": 13,
+        "character": "Hector",
+        "credit_id": "52fe4a9c9251416c750e8029",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1974386,
+        "known_for_department": "Acting",
+        "name": "Antoni Porowski",
+        "original_name": "Antoni Porowski",
+        "popularity": 0.4072,
+        "profile_path": "/veqSHbQJKrRWfVfDftVJIgDGnZ7.jpg",
+        "cast_id": 27,
+        "character": "Elliot's Father",
+        "credit_id": "5aa778cf0e0a263dc701961e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 164452,
+        "known_for_department": "Acting",
+        "name": "Alfredo Narciso",
+        "original_name": "Alfredo Narciso",
+        "popularity": 0.3579,
+        "profile_path": "/i2XfTOaynYKHTsdwIzvOReKr2PN.jpg",
+        "cast_id": 19,
+        "character": "Uncle George",
+        "credit_id": "52fe4a9c9251416c750e8041",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1099009,
+        "known_for_department": "Acting",
+        "name": "Elaine Del Valle",
+        "original_name": "Elaine Del Valle",
+        "popularity": 0.1568,
+        "profile_path": "/9wEWgXnz21T9JI9APcRK9ngerNg.jpg",
+        "cast_id": 16,
+        "character": "Aunt Carmen",
+        "credit_id": "52fe4a9c9251416c750e8035",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1113461,
+        "known_for_department": "Acting",
+        "name": "Elena Goode",
+        "original_name": "Elena Goode",
+        "popularity": 1.172,
+        "profile_path": "/gbyfW8i4jUuAbyLBuTU5T1f7Tlm.jpg",
+        "cast_id": 12,
+        "character": "Ma",
+        "credit_id": "52fe4a9c9251416c750e8025",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113463,
+        "known_for_department": "Acting",
+        "name": "Fabio Costaprado",
+        "original_name": "Fabio Costaprado",
+        "popularity": 0.0767,
+        "profile_path": "/wUpt8pwAhgdLnmOTQnxh076EYlN.jpg",
+        "cast_id": 22,
+        "character": "Elliot",
+        "credit_id": "52fe4a9c9251416c750e804d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 993689,
+        "known_for_department": "Acting",
+        "name": "Erin Fogel",
+        "original_name": "Erin Fogel",
+        "popularity": 0.5639,
+        "profile_path": "/isb34okkW0ddOk027jq90zA5qkM.jpg",
+        "cast_id": 14,
+        "character": "Mrs. Mills",
+        "credit_id": "52fe4a9c9251416c750e802d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1020699,
+        "known_for_department": "Acting",
+        "name": "Guillermo Iván",
+        "original_name": "Guillermo Iván",
+        "popularity": 0.2303,
+        "profile_path": "/zH8BOepVqv3l1uQvHfRyPSX65OJ.jpg",
+        "cast_id": 18,
+        "character": "Fabian",
+        "credit_id": "52fe4a9c9251416c750e803d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154001,
+        "known_for_department": "Acting",
+        "name": "Jermaine Montell",
+        "original_name": "Jermaine Montell",
+        "popularity": 0.079,
+        "profile_path": "/aUIRwaEQl8lgfG4A5v5PnePT9QV.jpg",
+        "cast_id": 15,
+        "character": "Kiko",
+        "credit_id": "52fe4a9c9251416c750e8031",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1033023,
+        "known_for_department": "Acting",
+        "name": "Will Bethencourt",
+        "original_name": "Will Bethencourt",
+        "popularity": 0.0412,
+        "profile_path": "/aZ2HEI4A35ugEO6ICsrDz2RHq84.jpg",
+        "cast_id": 17,
+        "character": "Polish Waiter",
+        "credit_id": "52fe4a9c9251416c750e8039",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37151,
+        "known_for_department": "Acting",
+        "name": "Rafael Sardina",
+        "original_name": "Rafael Sardina",
+        "popularity": 0.3192,
+        "profile_path": "/oR3w6KaAhFrFHxlZ7H39BfnKvaU.jpg",
+        "cast_id": 20,
+        "character": "Mikey",
+        "credit_id": "52fe4a9c9251416c750e8045",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113462,
+        "known_for_department": "Acting",
+        "name": "Tillman Norsworthy",
+        "original_name": "Tillman Norsworthy",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Classmate",
+        "credit_id": "52fe4a9c9251416c750e8049",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1064312,
+        "known_for_department": "Acting",
+        "name": "Joshua Cruz",
+        "original_name": "Joshua Cruz",
+        "popularity": 0.159,
+        "profile_path": "/5AECdiqkZfnGGesg8xpaRfzkWD.jpg",
+        "cast_id": 23,
+        "character": "Jesse",
+        "credit_id": "52fe4a9c9251416c750e8051",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113453,
+        "known_for_department": "Directing",
+        "name": "Terracino",
+        "original_name": "Terracino",
+        "popularity": 0.8949,
+        "profile_path": "/xphB6eUuYaY0TxUorf3m6kbrtA0.jpg",
+        "credit_id": "52fe4a9c9251416c750e7ffd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113460,
+        "known_for_department": "Visual Effects",
+        "name": "Andrew Lee",
+        "original_name": "Andrew Lee",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "52fe4a9c9251416c750e8021",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113457,
+        "known_for_department": "Art",
+        "name": "Garisa Violino",
+        "original_name": "Garisa Violino",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "52fe4a9c9251416c750e8015",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113453,
+        "known_for_department": "Directing",
+        "name": "Terracino",
+        "original_name": "Terracino",
+        "popularity": 0.8949,
+        "profile_path": "/xphB6eUuYaY0TxUorf3m6kbrtA0.jpg",
+        "credit_id": "52fe4a9b9251416c750e7ff7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19689,
+        "known_for_department": "Production",
+        "name": "Paul Schnee",
+        "original_name": "Paul Schnee",
+        "popularity": 0.1784,
+        "profile_path": null,
+        "credit_id": "52fe4a9c9251416c750e805d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113456,
+        "known_for_department": "Editing",
+        "name": "Lyndon McCray",
+        "original_name": "Lyndon McCray",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "52fe4a9c9251416c750e800f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5328,
+        "known_for_department": "Production",
+        "name": "Kerry Barden",
+        "original_name": "Kerry Barden",
+        "popularity": 0.1627,
+        "profile_path": null,
+        "credit_id": "52fe4a9c9251416c750e8057",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113454,
+        "known_for_department": "Sound",
+        "name": "Arthur Retiz",
+        "original_name": "Arthur Retiz",
+        "popularity": 0.045,
+        "profile_path": null,
+        "credit_id": "52fe4a9c9251416c750e8009",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113453,
+        "known_for_department": "Directing",
+        "name": "Terracino",
+        "original_name": "Terracino",
+        "popularity": 0.8949,
+        "profile_path": "/xphB6eUuYaY0TxUorf3m6kbrtA0.jpg",
+        "credit_id": "52fe4a9c9251416c750e8003",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113455,
+        "known_for_department": "Camera",
+        "name": "Saro Varjabedian",
+        "original_name": "Saro Varjabedian",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4a9c9251416c750e8063",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113458,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Javier Rosa",
+        "original_name": "Javier Rosa",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe4a9c9251416c750e801b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3274119,
+        "known_for_department": "Production",
+        "name": "Ben Feldman",
+        "original_name": "Ben Feldman",
+        "popularity": 0.0297,
+        "profile_path": "/sTE9hLCFyoMQAKwZ8wGXTiRIr4e.jpg",
+        "credit_id": "647ce23ecf4b8b00a8782b51",
+        "department": "Production",
+        "job": "Associate Producer"
+      }
+    ]
+  }
+}

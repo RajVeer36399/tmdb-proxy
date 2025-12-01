@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1405019,
+  "imdb_id": "tt36144181",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Art of the Calendar",
+  "overview": "Kier-La Janisse's documentary about the importance of advertisement for small theaters.",
+  "popularity": 5.666,
+  "poster_path": "/U1a5xkyK2hlN7cG3Xq3I6SMoRZ.jpg",
+  "production_companies": [
+    {
+      "id": 38474,
+      "logo_path": "/wDtZ0YB3KOaVSNGQjoFOc20YPap.png",
+      "name": "Severin Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2024-12-03",
+  "revenue": 0,
+  "runtime": 46,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Art of the Calendar",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 84445,
+        "known_for_department": "Directing",
+        "name": "Craig Baldwin",
+        "original_name": "Craig Baldwin",
+        "popularity": 0.0338,
+        "profile_path": "/pDG7bHV3RzrLMdUPMv3EODmNLfX.jpg",
+        "cast_id": 2,
+        "character": "Himself",
+        "credit_id": "676449c30697b6c6c1ab06b6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5129716,
+        "known_for_department": "Acting",
+        "name": "Mark Valen",
+        "original_name": "Mark Valen",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Himself",
+        "credit_id": "67644bb16aea1fff30ab3c48",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1086886,
+        "known_for_department": "Directing",
+        "name": "Kier-La Janisse",
+        "original_name": "Kier-La Janisse",
+        "popularity": 0.0985,
+        "profile_path": "/9PgFgRqwSFSRiwPE1N4kILoc9rd.jpg",
+        "credit_id": "676449ae581a3c0507ab2002",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 219783,
+        "known_for_department": "Directing",
+        "name": "David Gregory",
+        "original_name": "David Gregory",
+        "popularity": 0.6874,
+        "profile_path": "/yTgMxwff5enKKWu12xa6Uyt2IpO.jpg",
+        "credit_id": "676456134f844d31e7ae1edc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 692018,
+        "known_for_department": "Production",
+        "name": "Carl Daft",
+        "original_name": "Carl Daft",
+        "popularity": 0.3221,
+        "profile_path": null,
+        "credit_id": "6764561e4f844d31e7ae1ef6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1447987,
+        "known_for_department": "Camera",
+        "name": "Jim Kunz",
+        "original_name": "Jim Kunz",
+        "popularity": 0.3093,
+        "profile_path": null,
+        "credit_id": "6764562c4f844d31e7ae1f01",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5129752,
+        "known_for_department": "Editing",
+        "name": "Stuart Linver",
+        "original_name": "Stuart Linver",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "676456464f844d31e7ae1f19",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

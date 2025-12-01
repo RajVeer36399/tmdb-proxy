@@ -1,0 +1,496 @@
+{
+  "adult": false,
+  "backdrop_path": "/lpqtITDfg32kpEZHs1naFFIzrJU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 37866,
+  "imdb_id": "tt0102247",
+  "origin_country": [
+    "DE",
+    "FR",
+    "NO",
+    "SE"
+  ],
+  "original_language": "no",
+  "original_title": "Kvitebjørn Kong Valemon",
+  "overview": "After his father is killed, Prince Valemon ascends the throne, only to be turned into a polar bear by a bitter witch who wants to be his queen.",
+  "popularity": 6.2857,
+  "poster_path": "/gONhmAnzWQaN97ydsRHCH7mIKUO.jpg",
+  "production_companies": [
+    {
+      "id": 17538,
+      "logo_path": "/jj2wM3UJIcKjDLlfahYnG8qLl8V.png",
+      "name": "MovieMakers",
+      "origin_country": "SE"
+    },
+    {
+      "id": 6431,
+      "logo_path": null,
+      "name": "Northern Lights",
+      "origin_country": "NO"
+    },
+    {
+      "id": 36899,
+      "logo_path": null,
+      "name": "Connexion Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1991-06-20",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An Enchanting Beauty. A Princely Beast. An Epic Tale.",
+  "title": "The Polar Bear King",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225777,
+        "known_for_department": "Acting",
+        "name": "Jack Fjeldstad",
+        "original_name": "Jack Fjeldstad",
+        "popularity": 0.0585,
+        "profile_path": "/AkvBIdtuhZ9ynyLmEeIKrU2nrlW.jpg",
+        "cast_id": 12,
+        "character": "King of the Winterland",
+        "credit_id": "52fe46799251416c910559cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97032,
+        "known_for_department": "Acting",
+        "name": "Maria Bonnevie",
+        "original_name": "Maria Bonnevie",
+        "popularity": 1.3025,
+        "profile_path": "/9BQAQNRsoN8Aderfp6QBwMp02JE.jpg",
+        "cast_id": 9,
+        "character": "Princess",
+        "credit_id": "52fe46799251416c910559c3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59908,
+        "known_for_department": "Acting",
+        "name": "Tobias Hoesl",
+        "original_name": "Tobias Hoesl",
+        "popularity": 0.457,
+        "profile_path": "/cWEGqHiRQKYjrjBPc0YWfNdF854.jpg",
+        "cast_id": 10,
+        "character": "King Valemon",
+        "credit_id": "52fe46799251416c910559c7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55001,
+        "known_for_department": "Acting",
+        "name": "Monica Nordquist",
+        "original_name": "Monica Nordquist",
+        "popularity": 0.6275,
+        "profile_path": "/tSvbEJUemSVfk5fGtzpkKsxaewq.jpg",
+        "cast_id": 13,
+        "character": "King Valemon's Mother",
+        "credit_id": "52fe46799251416c910559d3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 135693,
+        "known_for_department": "Acting",
+        "name": "Anna-Lotta Larsson",
+        "original_name": "Anna-Lotta Larsson",
+        "popularity": 0.0431,
+        "profile_path": "/rTmN48DjxlqZKQzibIay5MotTnn.jpg",
+        "cast_id": 11,
+        "character": "Witch",
+        "credit_id": "52fe46799251416c910559cb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 625116,
+        "known_for_department": "Acting",
+        "name": "Jon Laxdal",
+        "original_name": "Jon Laxdal",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Helper",
+        "credit_id": "52fe46799251416c910559e3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73638,
+        "known_for_department": "Acting",
+        "name": "Helge Jordal",
+        "original_name": "Helge Jordal",
+        "popularity": 0.444,
+        "profile_path": "/qKDDocxfvzWu808NY6g0ykqxCft.jpg",
+        "cast_id": 14,
+        "character": "Devil",
+        "credit_id": "52fe46799251416c910559d7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 625117,
+        "known_for_department": "Acting",
+        "name": "Marika Enstad",
+        "original_name": "Marika Enstad",
+        "popularity": 0.1154,
+        "profile_path": "/gESU6sQwVSdWuvqFXgsiyT4IGUG.jpg",
+        "cast_id": 15,
+        "character": "Oldest Princess",
+        "credit_id": "52fe46799251416c910559db",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 928701,
+        "known_for_department": "Acting",
+        "name": "Kristin Mack",
+        "original_name": "Kristin Mack",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Middle Princess",
+        "credit_id": "52fe46799251416c910559df",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 625118,
+        "known_for_department": "Acting",
+        "name": "Rüdiger Kuhlbrodt",
+        "original_name": "Rüdiger Kuhlbrodt",
+        "popularity": 0.0928,
+        "profile_path": "/hvLofoZ9fSQsHu84BmeA3vNqH71.jpg",
+        "cast_id": 18,
+        "character": "Merchant",
+        "credit_id": "5c266988c3a36872fcc361d9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117161,
+        "known_for_department": "Acting",
+        "name": "Ulrich Faulhaber",
+        "original_name": "Ulrich Faulhaber",
+        "popularity": 0.055,
+        "profile_path": "/j4rGwDOxww5SD3hlSAxsRoiM8qn.jpg",
+        "cast_id": 19,
+        "character": "Merchant",
+        "credit_id": "5c2669b80e0a263e210c3242",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3994541,
+        "known_for_department": "Acting",
+        "name": "Bengt Ellis",
+        "original_name": "Bengt Ellis",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Stable master",
+        "credit_id": "642ca3d701b1ca00777c35b7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1763606,
+        "known_for_department": "Acting",
+        "name": "Karen Randers-Pehrson",
+        "original_name": "Karen Randers-Pehrson",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Midwife",
+        "credit_id": "642ca3e7c048a900774aa1bb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3994544,
+        "known_for_department": "Acting",
+        "name": "Bjørn Uglem",
+        "original_name": "Bjørn Uglem",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Kaukeren",
+        "credit_id": "642ca400c0442901e818bf92",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2012787,
+        "known_for_department": "Acting",
+        "name": "Karen Høie",
+        "original_name": "Karen Høie",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Midwife's assistant",
+        "credit_id": "642ca4138de0ae00d5f4f5d7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1244181,
+        "known_for_department": "Acting",
+        "name": "Siw Anita Andersen",
+        "original_name": "Siw Anita Andersen",
+        "popularity": 0.0856,
+        "profile_path": "/rLqNhrie5YplIkfj8Yu4TPs7MBn.jpg",
+        "cast_id": 21,
+        "character": "Midwife's assistant",
+        "credit_id": "63d0468b66ae4d008426e9cf",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3994545,
+        "known_for_department": "Acting",
+        "name": "Julie Frilseth Langseth",
+        "original_name": "Julie Frilseth Langseth",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Little princess",
+        "credit_id": "642ca43ac044290213074279",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3994546,
+        "known_for_department": "Acting",
+        "name": "Ruth Gury Tessand",
+        "original_name": "Ruth Gury Tessand",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Little princess",
+        "credit_id": "642ca44ac048a90097576fab",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3994547,
+        "known_for_department": "Acting",
+        "name": "Mariann Gury Tessand",
+        "original_name": "Mariann Gury Tessand",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Little princess",
+        "credit_id": "642ca45dc048a900f471211a",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71185,
+        "known_for_department": "Acting",
+        "name": "Espen Skjønberg",
+        "original_name": "Espen Skjønberg",
+        "popularity": 0.1097,
+        "profile_path": "/oBXYZ8HMWnMjV5M7oknlY2jtjoR.jpg",
+        "cast_id": 30,
+        "character": "Narrator (voice)",
+        "credit_id": "642ca473c044290298d0559c",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99058,
+        "known_for_department": "Directing",
+        "name": "Ola Solum",
+        "original_name": "Ola Solum",
+        "popularity": 0.4331,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c91055995",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 780824,
+        "known_for_department": "Writing",
+        "name": "Erik Borge",
+        "original_name": "Erik Borge",
+        "popularity": 0.0261,
+        "profile_path": "/uggEP8YIAOdDKhcSYb0mZnbFo1.jpg",
+        "credit_id": "52fe46799251416c9105599b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46122,
+        "known_for_department": "Camera",
+        "name": "Philip Øgaard",
+        "original_name": "Philip Øgaard",
+        "popularity": 0.9127,
+        "profile_path": "/bSe0f57bxLT90Gmoac0nEhn2c0g.jpg",
+        "credit_id": "52fe46799251416c910559a1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 928699,
+        "known_for_department": "Editing",
+        "name": "Yngve Refseth",
+        "original_name": "Yngve Refseth",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c910559a7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 928700,
+        "known_for_department": "Art",
+        "name": "Anders Barréus",
+        "original_name": "Anders Barréus",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c910559ad",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 786416,
+        "known_for_department": "Production",
+        "name": "Liv Sandvik",
+        "original_name": "Liv Sandvik",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c910559b3",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 77972,
+        "known_for_department": "Art",
+        "name": "Billy Johansson",
+        "original_name": "Billy Johansson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c910559b9",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6795,
+        "known_for_department": "Art",
+        "name": "Karl Júlíusson",
+        "original_name": "Karl Júlíusson",
+        "popularity": 0.4026,
+        "profile_path": "/csr1T9VXHJDuhLX0IxwepunqAa7.jpg",
+        "credit_id": "52fe46799251416c910559bf",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1644968,
+        "known_for_department": "Costume & Make-Up",
+        "name": "John Kindahl",
+        "original_name": "John Kindahl",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "63d046dce72fe8008e6030db",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  }
+}

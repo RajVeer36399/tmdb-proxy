@@ -1,0 +1,396 @@
+{
+  "adult": false,
+  "backdrop_path": "/iqqNHYxeNR7PAEse1K9aD6dPHes.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 900309,
+  "imdb_id": "tt15844776",
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_title": "Balaur",
+  "overview": "Ecaterina, a high school Religion teacher and wife of the town priest, gets involved with Iuliu, a 16-year-old student with a troubled past. Ecaterina tries to keep him under control, but she loses her own sense of control in this process.",
+  "popularity": 5.401,
+  "poster_path": "/htoTXJ7CTCXh4vOLv7J46tDx54P.jpg",
+  "production_companies": [
+    {
+      "id": 5958,
+      "logo_path": "/6ZJCP2YXRh174DUAfNSnE2wTIfg.png",
+      "name": "deFilm",
+      "origin_country": "RO"
+    },
+    {
+      "id": 84403,
+      "logo_path": null,
+      "name": "EED//Productions",
+      "origin_country": "RS"
+    },
+    {
+      "id": 100770,
+      "logo_path": "/mV6hVkLjuF1nddTkWSOF3YOPXQH.png",
+      "name": "42film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    },
+    {
+      "iso_3166_1": "RS",
+      "name": "Serbia"
+    }
+  ],
+  "release_date": "2023-04-20",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Higher Law",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1617286,
+        "known_for_department": "Acting",
+        "name": "Mălina Manovici",
+        "original_name": "Mălina Manovici",
+        "popularity": 0.5952,
+        "profile_path": "/flltqjDidTN1RLw1ilVMq5DYi9F.jpg",
+        "cast_id": 2,
+        "character": "Ecaterina Ivanovici",
+        "credit_id": "6200e58a66ae4d001b409614",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3585032,
+        "known_for_department": "Acting",
+        "name": "Sergiu Smerea",
+        "original_name": "Sergiu Smerea",
+        "popularity": 0.0487,
+        "profile_path": "/yp8KPYpJLgInu8wiKNqdgo2abC1.jpg",
+        "cast_id": 14,
+        "character": "Iuliu Rosu",
+        "credit_id": "62a544bb85005d2b176b3273",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163608,
+        "known_for_department": "Acting",
+        "name": "Alexandru Papadopol",
+        "original_name": "Alexandru Papadopol",
+        "popularity": 0.5696,
+        "profile_path": "/6EVR23lbhEe7sfvTfk5DmndHWBa.jpg",
+        "cast_id": 3,
+        "character": "Father Dragos Ivanovici",
+        "credit_id": "6200e59147c9fb0043f1a7cb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2112494,
+        "known_for_department": "Acting",
+        "name": "Voicu Dumitraș",
+        "original_name": "Voicu Dumitraș",
+        "popularity": 0.0497,
+        "profile_path": "/clsr658y1qahdHmN8kF6cOtm05.jpg",
+        "cast_id": 4,
+        "character": "Florin Ivanovici",
+        "credit_id": "6200e59faf2da80069214749",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1076742,
+        "known_for_department": "Acting",
+        "name": "Richard Bovnoczki",
+        "original_name": "Richard Bovnoczki",
+        "popularity": 0.21,
+        "profile_path": "/CU8YobMwxFE9LNZ0mdowRFXGEe.jpg",
+        "cast_id": 5,
+        "character": "Felix Serghiescu",
+        "credit_id": "6200e5a7136545008eb80147",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2091845,
+        "known_for_department": "Acting",
+        "name": "Ana Maria Moldovan",
+        "original_name": "Ana Maria Moldovan",
+        "popularity": 0.1563,
+        "profile_path": "/c1cfBXbkM0uSQHXQ6FSSiQabbY2.jpg",
+        "cast_id": 6,
+        "character": "Zoe",
+        "credit_id": "6200e5af66ae4d001b40961f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31638,
+        "known_for_department": "Acting",
+        "name": "Oana Ștefănescu",
+        "original_name": "Oana Ștefănescu",
+        "popularity": 0.3367,
+        "profile_path": "/nuwBcasq4TJge01I6wwKBd3qt2g.jpg",
+        "cast_id": 7,
+        "character": "The Mother-in-law",
+        "credit_id": "6200e5b5af2da8009c431073",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2017159,
+        "known_for_department": "Acting",
+        "name": "Marian Râlea",
+        "original_name": "Marian Râlea",
+        "popularity": 0.5348,
+        "profile_path": "/x421eg3hp5onyDpZYLIaEo3wEOI.jpg",
+        "cast_id": 8,
+        "character": "The Father-in-law",
+        "credit_id": "6200e5c0a88587001c9d0a7b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60422,
+        "known_for_department": "Acting",
+        "name": "Gabriel Spahiu",
+        "original_name": "Gabriel Spahiu",
+        "popularity": 0.6693,
+        "profile_path": "/uDyKF5L3szK16Idi9ISO0rAlpEe.jpg",
+        "cast_id": 9,
+        "character": "The Headmaster",
+        "credit_id": "6200e5c81365450e0af5b9ce",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3585036,
+        "known_for_department": "Acting",
+        "name": "Codrina Patru",
+        "original_name": "Codrina Patru",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "The Smoking Lady",
+        "credit_id": "62a544f9eb14fa006a8678a1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1650662,
+        "known_for_department": "Acting",
+        "name": "Ilinca Harnut",
+        "original_name": "Ilinca Harnut",
+        "popularity": 0.1483,
+        "profile_path": "/bCEidsn9iDSsXR4IUZgppZlgp5A.jpg",
+        "cast_id": 10,
+        "character": "The Suspicious Lady",
+        "credit_id": "6200e5db7fcab300d2b50534",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3585039,
+        "known_for_department": "Acting",
+        "name": "Tiberiu Enache",
+        "original_name": "Tiberiu Enache",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "The Groom",
+        "credit_id": "62a54516eb14fa006a867936",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3558942,
+        "known_for_department": "Acting",
+        "name": "Ioana Ilinca Neacsu",
+        "original_name": "Ioana Ilinca Neacsu",
+        "popularity": 0.1184,
+        "profile_path": "/uOPq8bOeHdFB0z601JvAPwJRhZ6.jpg",
+        "cast_id": 13,
+        "character": "The Bride",
+        "credit_id": "62896614fd140b006640077e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2298248,
+        "known_for_department": "Acting",
+        "name": "Mihai Rîpan",
+        "original_name": "Mihai Rîpan",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Ambulance Care Assistant",
+        "credit_id": "6200e605e27260006b7f1162",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1667424,
+        "known_for_department": "Production",
+        "name": "Vladimir Vasiljević",
+        "original_name": "Vladimir Vasiljević",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "62a545933710970052f59bd3",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1209365,
+        "known_for_department": "Production",
+        "name": "Eike Goreczka",
+        "original_name": "Eike Goreczka",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "62a5457005b5494d6eb815b0",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3402907,
+        "known_for_department": "Production",
+        "name": "Maja Popović Milojević",
+        "original_name": "Maja Popović Milojević",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "62a545896c849218095ac36a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1835979,
+        "known_for_department": "Editing",
+        "name": "Dragoș Apetri",
+        "original_name": "Dragos Apetri",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "62a545b8d5569718c888afdd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1805324,
+        "known_for_department": "Production",
+        "name": "Christoph Kukula",
+        "original_name": "Christoph Kukula",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62a5457cd5dbc20066a96fda",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276587,
+        "known_for_department": "Camera",
+        "name": "Barbu Bălășoiu",
+        "original_name": "Barbu Bălășoiu",
+        "popularity": 0.0465,
+        "profile_path": null,
+        "credit_id": "62a545acd5dbc20066a970d1",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1486173,
+        "known_for_department": "Production",
+        "name": "Radu Stancu",
+        "original_name": "Radu Stancu",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "62a5459ed5569718c6a56435",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640641,
+        "known_for_department": "Directing",
+        "name": "Octav Chelaru",
+        "original_name": "Octav Chelaru",
+        "popularity": 0.0924,
+        "profile_path": "/4q9xtsG4gCQbYhhjTeiWq37gFBu.jpg",
+        "credit_id": "61981c23e32943002d496a2e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640641,
+        "known_for_department": "Directing",
+        "name": "Octav Chelaru",
+        "original_name": "Octav Chelaru",
+        "popularity": 0.0924,
+        "profile_path": "/4q9xtsG4gCQbYhhjTeiWq37gFBu.jpg",
+        "credit_id": "6200e619a402c1001cdcd06e",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

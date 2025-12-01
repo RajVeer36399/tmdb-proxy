@@ -1,0 +1,408 @@
+{
+  "adult": false,
+  "backdrop_path": "/fCuxfjmo8wQHABAvN8HKGi3DQun.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 1367555,
+  "imdb_id": "tt33708662",
+  "origin_country": [
+    "IT",
+    "SA",
+    "HK",
+    "MY"
+  ],
+  "original_language": "ms",
+  "original_title": "Ibu Bhumi",
+  "overview": "In a community of farmers living on the Malaysia-Thailand border, Hong Im recently lost her husband under mysterious circumstances. Hong Im uses black magic to address villagers’ everyday issues until she encounters a ghost that reveals a secret about her husband’s death.",
+  "popularity": 7.0613,
+  "poster_path": "/uNLUn4wEIOuu7qn6lzNUAApSUAj.jpg",
+  "production_companies": [
+    {
+      "id": 151908,
+      "logo_path": "/hj3WeEIc3mQBPCFGPajLOlAtdz9.png",
+      "name": "Janji Pictures",
+      "origin_country": "MY"
+    },
+    {
+      "id": 171358,
+      "logo_path": "/oFLu7PXosTKX1W5JLRSGMr7mcUv.png",
+      "name": "Volos Films",
+      "origin_country": "TW"
+    },
+    {
+      "id": 191721,
+      "logo_path": "/5QgnPt2Yu0slpjGpCuzktvjUfkJ.png",
+      "name": "Sunstrong Entertainment",
+      "origin_country": "MY"
+    },
+    {
+      "id": 204922,
+      "logo_path": null,
+      "name": "Southern Islet Pictures",
+      "origin_country": "MY"
+    },
+    {
+      "id": 277117,
+      "logo_path": null,
+      "name": "Sure Honest Holdings",
+      "origin_country": ""
+    },
+    {
+      "id": 277118,
+      "logo_path": null,
+      "name": "AMTD Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "MY",
+      "name": "Malaysia"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "SA",
+      "name": "Saudi Arabia"
+    }
+  ],
+  "release_date": "2025-10-27",
+  "revenue": 0,
+  "runtime": 129,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Malay",
+      "iso_639_1": "ms",
+      "name": "Bahasa melayu"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mother Bhumi",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64439,
+        "known_for_department": "Acting",
+        "name": "Fan Bingbing",
+        "original_name": "范冰冰",
+        "popularity": 5.0982,
+        "profile_path": "/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg",
+        "cast_id": 5,
+        "character": "Hong Im",
+        "credit_id": "6703eceab6f587ede813a11e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 71396,
+        "known_for_department": "Acting",
+        "name": "Pearlly Chua",
+        "original_name": "Pearlly Chua",
+        "popularity": 0.2234,
+        "profile_path": "/byIg0gksCaD7oou5smvQhVwzJxG.jpg",
+        "cast_id": 9,
+        "character": "Har",
+        "credit_id": "6892f51de5e0e8786261fdc4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1748260,
+        "known_for_department": "Acting",
+        "name": "Bai Run-yin",
+        "original_name": "Bai Run-yin",
+        "popularity": 0.5217,
+        "profile_path": "/1QFFMgcG90ayz6JoABi0lxHF3jA.jpg",
+        "cast_id": 6,
+        "character": "Son",
+        "credit_id": "6703ecfca5f29f43a573ee67",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3839622,
+        "known_for_department": "Acting",
+        "name": "Natalie Hsu",
+        "original_name": "許恩怡",
+        "popularity": 0.4978,
+        "profile_path": "/7kY5G7tuuHjxVrI1INjjkFcsc6E.jpg",
+        "cast_id": 7,
+        "character": "Daughter",
+        "credit_id": "6703ed0b3d7b3c6c077963fb",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2838953,
+        "known_for_department": "Directing",
+        "name": "Keat Aun Chong",
+        "original_name": "Keat Aun Chong",
+        "popularity": 0.2135,
+        "profile_path": "/yQ6L3DvD9waofsJRArF7Sco9SRc.jpg",
+        "credit_id": "6703ec4a508dfa7ba3795fdb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3032993,
+        "known_for_department": "Production",
+        "name": "Wong Kew Soon",
+        "original_name": "Wong Kew Soon",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "6703ec983afc91a5f1139ca9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2252441,
+        "known_for_department": "Directing",
+        "name": "Stefano Centini",
+        "original_name": "Stefano Centini",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6703ecbd4cf47c730f73f59c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2838953,
+        "known_for_department": "Directing",
+        "name": "Keat Aun Chong",
+        "original_name": "Keat Aun Chong",
+        "popularity": 0.2135,
+        "profile_path": "/yQ6L3DvD9waofsJRArF7Sco9SRc.jpg",
+        "credit_id": "6703ecd47cfea6f20273f2a3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1270272,
+        "known_for_department": "Camera",
+        "name": "Leung Ming-kai",
+        "original_name": "Leung Ming-kai",
+        "popularity": 0.6047,
+        "profile_path": "/9eHnHkbSLSkviCq2QECY5Yr2jdM.jpg",
+        "credit_id": "6892f54eb5d398a3f57d04d6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5609457,
+        "known_for_department": "Production",
+        "name": "Zoey Teng",
+        "original_name": "Zoey Teng",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "6892f55eb5d398a3f57d04e0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4183337,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elaine Ng",
+        "original_name": "Elaine Ng",
+        "popularity": 0.0311,
+        "profile_path": "/d2NCHw1PG1TsKuuUqqLQ8ZzF8cG.jpg",
+        "credit_id": "6892f56cd34dedc41e772b88",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3713678,
+        "known_for_department": "Art",
+        "name": "Soon Yong Chow",
+        "original_name": "Soon Yong Chow",
+        "popularity": 0.0516,
+        "profile_path": null,
+        "credit_id": "6892f572dd344df8c661fcfb",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5609458,
+        "known_for_department": "Production",
+        "name": "Eldred Tiji Khai Weng",
+        "original_name": "Eldred Tiji Khai Weng",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6892f581dca636492a7d0247",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2838953,
+        "known_for_department": "Directing",
+        "name": "Keat Aun Chong",
+        "original_name": "Keat Aun Chong",
+        "popularity": 0.2135,
+        "profile_path": "/yQ6L3DvD9waofsJRArF7Sco9SRc.jpg",
+        "credit_id": "68ddc8b984934ce463ca42b8",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3117930,
+        "known_for_department": "Sound",
+        "name": "Yii Kah Hoe",
+        "original_name": "Yii Kah Hoe",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "68ddc8c85f31b5766bca42b9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2276614,
+        "known_for_department": "Editing",
+        "name": "Erik Moh",
+        "original_name": "Erik Moh",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68ddc8e042ed9f5e536a768c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3713678,
+        "known_for_department": "Art",
+        "name": "Soon Yong Chow",
+        "original_name": "Soon Yong Chow",
+        "popularity": 0.0516,
+        "profile_path": null,
+        "credit_id": "68ddc8f2a95abc20606a7692",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3805497,
+        "known_for_department": "Sound",
+        "name": "Fiona Chang",
+        "original_name": "Fiona Chang",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "68ddc91f3be254572b991767",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316884,
+        "known_for_department": "Sound",
+        "name": "Tu Duu-Chih",
+        "original_name": "杜篤之",
+        "popularity": 1.0995,
+        "profile_path": "/jaoW15Nl1y3ViiRQjafYAVQspRE.jpg",
+        "credit_id": "68ddc934df07caa1036d4e2d",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3311940,
+        "known_for_department": "Camera",
+        "name": "Ee Kai Sheng",
+        "original_name": "Ee Kai Sheng",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "68ddc94f1ca3afb30e6a7677",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2714224,
+        "known_for_department": "Editing",
+        "name": "Beh Jing Qiang",
+        "original_name": "Beh Jing Qiang",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "credit_id": "68ddc97f12cb998e81bdf9b3",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 227495,
+        "known_for_department": "Acting",
+        "name": "Penny Tai",
+        "original_name": "Penny Tai",
+        "popularity": 0.2753,
+        "profile_path": "/7GX8s644kB6jPZJNAfZCffKKv3r.jpg",
+        "credit_id": "691f2fea17c4c5b81feb67e5",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      }
+    ]
+  }
+}

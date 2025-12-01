@@ -1,0 +1,162 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 273779,
+  "imdb_id": "tt0815877",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Donald and Dot Clock Found Dead in Their Home",
+  "overview": "Donald is a failed, but hopeful dancer who can't keep a job. Dot is a psychic hot-line councelor who is obsessed with the \"Rodent Harmonic Balance.\" Dot's rats take over the house and prevent the couple from consummating their marriage. Eventually, Donald takes a stand. He sneaks into the house when Dot is away, applies rat poison everywhere, and kills the varmints. When She discovers what he has done, Dot throws Donald out.",
+  "popularity": 4.3966,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2004-09-09",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Donald and Dot Clock Found Dead in Their Home",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1236053,
+        "known_for_department": "Acting",
+        "name": "Robert Beckwith",
+        "original_name": "Robert Beckwith",
+        "popularity": 0.1107,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Rambo",
+        "credit_id": "604393d60102c90077496140",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1317693,
+        "known_for_department": "Acting",
+        "name": "Eugenie Bondurant",
+        "original_name": "Eugenie Bondurant",
+        "popularity": 0.7932,
+        "profile_path": "/9ULAELEKNha7VCJhRWoer58NcJe.jpg",
+        "cast_id": 2,
+        "character": "Dot",
+        "credit_id": "604393f21108a80024d48e01",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149684,
+        "known_for_department": "Acting",
+        "name": "Joe Ochman",
+        "original_name": "Joe Ochman",
+        "popularity": 1.0001,
+        "profile_path": "/yCKPrJxK7KsJ3yLbnTXzV4n4wp6.jpg",
+        "cast_id": 3,
+        "character": "Angie",
+        "credit_id": "604394015258ae002a5374bc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2919489,
+        "known_for_department": "Acting",
+        "name": "John Edmund Parcher",
+        "original_name": "John Edmund Parcher",
+        "popularity": 2.1827,
+        "profile_path": "/j0L5kuUVDlghOeAKrXsAnCM4KKd.jpg",
+        "cast_id": 4,
+        "character": "Donald Clock",
+        "credit_id": "6043941472c13e00707c67ee",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3000656,
+        "known_for_department": "Directing",
+        "name": "Michael Kowalski",
+        "original_name": "Michael Kowalski",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "604394391108a80024d48e45",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3000660,
+        "known_for_department": "Crew",
+        "name": "Mary Beth Bresolin",
+        "original_name": "Mary Beth Bresolin",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "6043947972c13e005b3b9389",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3000656,
+        "known_for_department": "Directing",
+        "name": "Michael Kowalski",
+        "original_name": "Michael Kowalski",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "604394890102c90044ec60b2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3000659,
+        "known_for_department": "Sound",
+        "name": "Warren Blum",
+        "original_name": "Warren Blum",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6043946172c13e00461beec7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3000658,
+        "known_for_department": "Writing",
+        "name": "Roger DeBris",
+        "original_name": "Roger DeBris",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6043944f1a934f005979334d",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

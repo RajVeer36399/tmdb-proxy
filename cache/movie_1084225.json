@@ -1,0 +1,385 @@
+{
+  "adult": false,
+  "backdrop_path": "/cevmHkKqSlrTYqpJ5eaAjml1jec.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1084225,
+  "imdb_id": "tt21281688",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Park",
+  "overview": "A dystopian coming-of-age movie focused on three kids who find themselves in an abandoned amusement park, aiming to unite whoever remains. With dangers lurking around every corner, they will do whatever it takes to survive their hellish Neverland.",
+  "popularity": 5.6635,
+  "poster_path": "/hR1jdCw0A9czgsbp45TASkjjBhA.jpg",
+  "production_companies": [
+    {
+      "id": 46453,
+      "logo_path": "/pftS6dWlYOqNKRHektMx3UiwOgS.png",
+      "name": "Vanishing Angle",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-03-02",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Park",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 61,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1717904,
+        "known_for_department": "Acting",
+        "name": "Chloe Guidry",
+        "original_name": "Chloe Guidry",
+        "popularity": 0.2163,
+        "profile_path": "/hTpQKbtguOi5TrS9SBF16Tzo06m.jpg",
+        "cast_id": 4,
+        "character": "Ines",
+        "credit_id": "63e4097a5ca7040084dcee9b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3917087,
+        "known_for_department": "Acting",
+        "name": "Nhedrick Jabier",
+        "original_name": "Nhedrick Jabier",
+        "popularity": 0.1138,
+        "profile_path": "/2SjGbfRe2jV0kUd1VW95b7K02lj.jpg",
+        "cast_id": 6,
+        "character": "Bui",
+        "credit_id": "63e8c77d1277780079f251e5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2437837,
+        "known_for_department": "Acting",
+        "name": "Carmina Garay",
+        "original_name": "Carmina Garay",
+        "popularity": 0.1049,
+        "profile_path": "/dO1sdDGzac3Db9V2JWxwzSgDdZm.jpg",
+        "cast_id": 3,
+        "character": "Kuan",
+        "credit_id": "63e409715ca70400c6e08225",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62784,
+        "known_for_department": "Acting",
+        "name": "Billy Slaughter",
+        "original_name": "Billy Slaughter",
+        "popularity": 0.2712,
+        "profile_path": "/wyKVHwnFodOmNsTgDTcL1GlJzqa.jpg",
+        "cast_id": 1,
+        "character": "Martin Parker",
+        "credit_id": "63e409595ca70400a7d38ef4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2714862,
+        "known_for_department": "Acting",
+        "name": "Carli McIntyre",
+        "original_name": "Carli McIntyre",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Rue",
+        "credit_id": "63e8c7b563aad200bd925e6b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1358648,
+        "known_for_department": "Acting",
+        "name": "Laura Coover",
+        "original_name": "Laura Coover",
+        "popularity": 0.2056,
+        "profile_path": "/gGl9ZufEliljHT6zG69Ge3mjs9e.jpg",
+        "cast_id": 8,
+        "character": "Reporter",
+        "credit_id": "63e8c7bc12777800dc83375c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1709849,
+        "known_for_department": "Acting",
+        "name": "Presley Richardson",
+        "original_name": "Presley Richardson",
+        "popularity": 0.3348,
+        "profile_path": "/6a0xpfxn9auUcHuuy4CdPhDezpe.jpg",
+        "cast_id": 9,
+        "character": "Bennett",
+        "credit_id": "63e8c7e9d388ae0094c4ae8f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3917091,
+        "known_for_department": "Acting",
+        "name": "Sean Papajohn",
+        "original_name": "Sean Papajohn",
+        "popularity": 0.0613,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Jack",
+        "credit_id": "63e8c7f1a2e60200d4af17e1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3917092,
+        "known_for_department": "Acting",
+        "name": "Legend Jay Jones",
+        "original_name": "Legend Jay Jones",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Slingshot Gang",
+        "credit_id": "63e8c7fbd388ae0080620d4a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3917093,
+        "known_for_department": "Acting",
+        "name": "Evan Soto",
+        "original_name": "Evan Soto",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Lacrosse Player",
+        "credit_id": "63e8c80412777800ab94ef81",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3917094,
+        "known_for_department": "Acting",
+        "name": "Makaila Faith Nixon",
+        "original_name": "Makaila Faith Nixon",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Slingshot Blue Girl",
+        "credit_id": "63e8c80cd388ae00d2b2da2d",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081329,
+        "known_for_department": "Directing",
+        "name": "Shal Ngo",
+        "original_name": "Shal Ngo",
+        "popularity": 0.5117,
+        "profile_path": "/i3HZm3rQ9B6f1PRKv2QMrXpHfrC.jpg",
+        "credit_id": "63e409b17304b500b400ffc6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081329,
+        "known_for_department": "Directing",
+        "name": "Shal Ngo",
+        "original_name": "Shal Ngo",
+        "popularity": 0.5117,
+        "profile_path": "/i3HZm3rQ9B6f1PRKv2QMrXpHfrC.jpg",
+        "credit_id": "63e8c8501277780079f25225",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471392,
+        "known_for_department": "Sound",
+        "name": "Robert Allaire",
+        "original_name": "Robert Allaire",
+        "popularity": 0.5957,
+        "profile_path": null,
+        "credit_id": "63e8c84763aad200e05d5e0b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081329,
+        "known_for_department": "Directing",
+        "name": "Shal Ngo",
+        "original_name": "Shal Ngo",
+        "popularity": 0.5117,
+        "profile_path": "/i3HZm3rQ9B6f1PRKv2QMrXpHfrC.jpg",
+        "credit_id": "63e8c90312777800931dd44b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2581739,
+        "known_for_department": "Production",
+        "name": "Ryan Chanatry",
+        "original_name": "Ryan Chanatry",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "63e8c8b1a2e60200d4af1812",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2302923,
+        "known_for_department": "Directing",
+        "name": "Nick Borenstein",
+        "original_name": "Nick Borenstein",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "63e8c8bb1277780081a3f427",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1333932,
+        "known_for_department": "Production",
+        "name": "Elizabeth Coulon",
+        "original_name": "Elizabeth Coulon",
+        "popularity": 0.0858,
+        "profile_path": null,
+        "credit_id": "63e8c83dd388ae0080620d5b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1149913,
+        "known_for_department": "Art",
+        "name": "Erin Staub",
+        "original_name": "Erin Staub",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63e8c887a2e60200b5ee45d1",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1718782,
+        "known_for_department": "Production",
+        "name": "Natalie Metzger",
+        "original_name": "Natalie Metzger",
+        "popularity": 0.4833,
+        "profile_path": null,
+        "credit_id": "63e8c8f912777800895f9f9d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3917101,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Logan Jackson",
+        "original_name": "Logan Jackson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "63e8c86f9512e100794093d8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1579192,
+        "known_for_department": "Production",
+        "name": "Matt Miller",
+        "original_name": "Matt Miller",
+        "popularity": 1.0023,
+        "profile_path": "/vPcPZAutZuQzb3lkjWBcpM0zNmb.jpg",
+        "credit_id": "64588800fe077a00e44098d4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2433229,
+        "known_for_department": "Camera",
+        "name": "Jared Levy",
+        "original_name": "Jared Levy",
+        "popularity": 0.8602,
+        "profile_path": null,
+        "credit_id": "645889721b70ae0187e04318",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

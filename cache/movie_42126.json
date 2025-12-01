@@ -1,0 +1,399 @@
+{
+  "adult": false,
+  "backdrop_path": "/4J5BIrBgcgpDUdPNaPkNIbYIx7k.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 42126,
+  "imdb_id": "tt0083894",
+  "origin_country": [
+    "AT"
+  ],
+  "original_language": "de",
+  "original_title": "Die Erben",
+  "overview": "A neo-Nazi organization is recruiting in the 1980s, and two youths of high-school age join for similar reasons, despite class differences. Thomas is the son of a self-made industrialist father and a scolding social-climbing mother. He attends private school and has a brother who's an accomplished musician, but neither can satisfy mom's constant demands for school and social success. She belittles them, and there's incessant bickering at their table. Charly, a dropout, is the son of an abusive, alcoholic laborer. In the youth group, each finds order, respect, camaraderie, and adults who seem to value them. Where do domestic abuse and sanctioned political violence end?",
+  "popularity": 5.809,
+  "poster_path": "/Gv5bWQa6PQL21fD2Y2XkVkga0E.jpg",
+  "production_companies": [
+    {
+      "id": 123497,
+      "logo_path": null,
+      "name": "Bannert-Film",
+      "origin_country": "AT"
+    },
+    {
+      "id": 78785,
+      "logo_path": null,
+      "name": "Monarex Hollywood Corporation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "1983-02-25",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Inheritors",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 12,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1359621,
+        "known_for_department": "Acting",
+        "name": "Nikolas Vogel",
+        "original_name": "Nikolas Vogel",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Thomas Feigl",
+        "credit_id": "5679e59092514106ef0004d1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368070,
+        "known_for_department": "Acting",
+        "name": "Wolfgang Gasser",
+        "original_name": "Wolfgang Gasser",
+        "popularity": 0.3021,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Dr. Norbert Fürst, NEP Party Leader",
+        "credit_id": "5679e59992514106f9000497",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26424,
+        "known_for_department": "Acting",
+        "name": "Kurt Jaggberg",
+        "original_name": "Kurt Jaggberg",
+        "popularity": 0.4058,
+        "profile_path": "/cbiHPQpSRJ8nrMh0Xsy87oQWptq.jpg",
+        "cast_id": 4,
+        "character": "Lehrer",
+        "credit_id": "5679e5a7c3a3685bb6000451",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100885,
+        "known_for_department": "Acting",
+        "name": "Alexander Wussow",
+        "original_name": "Alexander Wussow",
+        "popularity": 0.4233,
+        "profile_path": "/A5a1puYv9tuUBToowjLEK5D0Rq0.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "58000e73c3a3684f55000582",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13382,
+        "known_for_department": "Acting",
+        "name": "Rudi Schippel",
+        "original_name": "Rudi Schippel",
+        "popularity": 0.362,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Kriegsveteran",
+        "credit_id": "5c901eb5c3a3682ece4c4b5b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2799390,
+        "known_for_department": "Acting",
+        "name": "Roger Schauer",
+        "original_name": "Roger Schauer",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Charly",
+        "credit_id": "5f760fa821621b003332a8c8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2799391,
+        "known_for_department": "Acting",
+        "name": "Anneliese Stöckl-Eberhard",
+        "original_name": "Anneliese Stöckl-Eberhard",
+        "popularity": 1.3222,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Thomas' mother",
+        "credit_id": "5f760fbb9a64350039a45584",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1390623,
+        "known_for_department": "Acting",
+        "name": "Jaromír Borek",
+        "original_name": "Jaromír Borek",
+        "popularity": 0.1892,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Thomas' father",
+        "credit_id": "5f760fc91f748b0035207dbd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45897,
+        "known_for_department": "Acting",
+        "name": "Edd Stavjanik",
+        "original_name": "Edd Stavjanik",
+        "popularity": 0.4174,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Schneider, Youth Leader",
+        "credit_id": "5f760fdd9a64350038a2df55",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1529418,
+        "known_for_department": "Acting",
+        "name": "Frank Dietrich",
+        "original_name": "Frank Dietrich",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Charly's father",
+        "credit_id": "5f760fed156cc70036500fb3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2330821,
+        "known_for_department": "Acting",
+        "name": "Johanna Tomek",
+        "original_name": "Johanna Tomek",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Charly's mother",
+        "credit_id": "5f760ffe21621b0035354d19",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1178283,
+        "known_for_department": "Acting",
+        "name": "Gerhard Swoboda",
+        "original_name": "Gerhard Swoboda",
+        "popularity": 0.053,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Journalist",
+        "credit_id": "60068e20be4b36003acd5dbf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11935,
+        "known_for_department": "Acting",
+        "name": "Michael Janisch",
+        "original_name": "Michael Janisch",
+        "popularity": 0.6149,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Günther",
+        "credit_id": "6006d87b1108a8003d9443d3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2795312,
+        "known_for_department": "Acting",
+        "name": "John Ottwald",
+        "original_name": "John Ottwald",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Camp Instructor",
+        "credit_id": "6006db4c869e75003d85b4b0",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22617,
+        "known_for_department": "Directing",
+        "name": "Walter Bannert",
+        "original_name": "Walter Bannert",
+        "popularity": 0.433,
+        "profile_path": null,
+        "credit_id": "52fe45eec3a36847f80e2d3f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22617,
+        "known_for_department": "Directing",
+        "name": "Walter Bannert",
+        "original_name": "Walter Bannert",
+        "popularity": 0.433,
+        "profile_path": null,
+        "credit_id": "5f760f6a58efd30034affdaa",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2799389,
+        "known_for_department": "Production",
+        "name": "Gottfried A. Röblreiter",
+        "original_name": "Gottfried A. Röblreiter",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "5f760f937b7b4d00396767da",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2096599,
+        "known_for_department": "Art",
+        "name": "Rudolf Czettel",
+        "original_name": "Rudolf Czettel",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5f760f7421621b00342fda3d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40514,
+        "known_for_department": "Sound",
+        "name": "Ekkehart Baumung",
+        "original_name": "Ekkehart Baumung",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "5f760f7efea0d70035147e14",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22620,
+        "known_for_department": "Camera",
+        "name": "Hanus Polak",
+        "original_name": "Hanus Polak",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5f760f638741c4003868308f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2799388,
+        "known_for_department": "Writing",
+        "name": "Erich A. Richter",
+        "original_name": "Erich A. Richter",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "5f760f5bfea0d700360da9f8",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50934,
+        "known_for_department": "Sound",
+        "name": "Gustav Mahler",
+        "original_name": "Gustav Mahler",
+        "popularity": 0.0728,
+        "profile_path": "/21kYlDN9JDw4cKw3Bs3pZyu81t0.jpg",
+        "credit_id": "5f760f851f748b003420660b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22617,
+        "known_for_department": "Directing",
+        "name": "Walter Bannert",
+        "original_name": "Walter Bannert",
+        "popularity": 0.433,
+        "profile_path": null,
+        "credit_id": "5f760f499a64350039a45472",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4937265,
+        "known_for_department": "Directing",
+        "name": "Sabine Gally",
+        "original_name": "Sabine Gally",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66e22940f30f7a4735622680",
+        "department": "Art",
+        "job": "Props"
+      }
+    ]
+  }
+}

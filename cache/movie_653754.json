@@ -1,0 +1,357 @@
+{
+  "adult": false,
+  "backdrop_path": "/v8pXMlLAIrlVzqv6IMCorg52aUv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.littlemagnetfilms.com/films/epicentro-by-hubert-sauper/",
+  "id": 653754,
+  "imdb_id": "tt11393948",
+  "origin_country": [
+    "AT"
+  ],
+  "original_language": "es",
+  "original_title": "Epicentro",
+  "overview": "Cuba is well known as a so-called time capsule. The place where the New World was discovered has become both a romantic vision and a warning. With ongoing global cultural and financial upheavals, large parts of the world could face a similar kind of existence.",
+  "popularity": 7.3184,
+  "poster_path": "/kKkq5EvB7SXzj2DWjEAdFQ1UXbM.jpg",
+  "production_companies": [
+    {
+      "id": 96799,
+      "logo_path": "/esGUZNjqK3QTEuBTSLIbaWCr31v.png",
+      "name": "Little Magnet Films",
+      "origin_country": "AT"
+    },
+    {
+      "id": 20693,
+      "logo_path": null,
+      "name": "KGP Kranzelbinder Gabriele Production",
+      "origin_country": "AT"
+    },
+    {
+      "id": 14909,
+      "logo_path": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+      "name": "Impact Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 113790,
+      "logo_path": "/g7FpsadP1UG9MotNi54RvE5hiGY.png",
+      "name": "JustFilms / Ford Foundation",
+      "origin_country": "US"
+    },
+    {
+      "id": 10611,
+      "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+      "name": "Ciné+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 39134,
+      "logo_path": "/sijjN3vMtjCnc1LkCM7HSBErcO3.png",
+      "name": "Kino Lorber",
+      "origin_country": "US"
+    },
+    {
+      "id": 856,
+      "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
+      "name": "Wild Bunch",
+      "origin_country": "FR"
+    },
+    {
+      "id": 850,
+      "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+      "name": "Eurimages",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-08-19",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Epicentro",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 566331,
+        "known_for_department": "Acting",
+        "name": "Oona Chaplin",
+        "original_name": "Oona Chaplin",
+        "popularity": 2.6536,
+        "profile_path": "/tT7QQOrumeGRquaLmWNZk2DyL3Z.jpg",
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "600163e690cf51003d5190cc",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 46791,
+        "known_for_department": "Directing",
+        "name": "Hubert Sauper",
+        "original_name": "Hubert Sauper",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "credit_id": "5de915bc7646fd00159b7ada",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2475903,
+        "known_for_department": "Production",
+        "name": "Paolo Calamita",
+        "original_name": "Paolo Calamita",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5de917667646fd00159b7cb8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 46791,
+        "known_for_department": "Directing",
+        "name": "Hubert Sauper",
+        "original_name": "Hubert Sauper",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "credit_id": "5de91736a313b8001293c6c1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564794,
+        "known_for_department": "Production",
+        "name": "Gabriele Kranzelbinder",
+        "original_name": "Gabriele Kranzelbinder",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "5de9175ba7e363001974b05f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1011390,
+        "known_for_department": "Production",
+        "name": "Daniel Marquet",
+        "original_name": "Daniel Marquet",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5de9174d11386c0016582eb8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2443438,
+        "known_for_department": "Production",
+        "name": "Martin Marquet",
+        "original_name": "Martin Marquet",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5de91741a313b80014940a3f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45932,
+        "known_for_department": "Production",
+        "name": "Alexander Thies",
+        "original_name": "Alexander Thies",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "5f95d412e3fa2f0036e43f6e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2830032,
+        "known_for_department": "Visual Effects",
+        "name": "Claudio Cavallari",
+        "original_name": "Claudio Cavallari",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5f95d455e3fa2f0038e43ba8",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2475903,
+        "known_for_department": "Production",
+        "name": "Paolo Calamita",
+        "original_name": "Paolo Calamita",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5f95d436965220003943dee7",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 46791,
+        "known_for_department": "Directing",
+        "name": "Hubert Sauper",
+        "original_name": "Hubert Sauper",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "credit_id": "5f95d2ae38e5100036dcb920",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2830027,
+        "known_for_department": "Production",
+        "name": "Christopher Ott",
+        "original_name": "Christopher Ott",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5f95d32cb7b69d0034a8c664",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1011393,
+        "known_for_department": "Production",
+        "name": "Monika Weibel",
+        "original_name": "Monika Weibel",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5f95d41900fb6b0035b67ba0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8570,
+        "known_for_department": "Production",
+        "name": "Vincent Maraval",
+        "original_name": "Vincent Maraval",
+        "popularity": 1.1683,
+        "profile_path": "/8zjv7mH8DTiaIegk5mAysf1Gra.jpg",
+        "credit_id": "5f95d35488b148003443e335",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2830025,
+        "known_for_department": "Editing",
+        "name": "Yves Deachamps",
+        "original_name": "Yves Deachamps",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5f95d2cf00fb6b0034b67eb0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 46791,
+        "known_for_department": "Directing",
+        "name": "Hubert Sauper",
+        "original_name": "Hubert Sauper",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "credit_id": "5f95d2d86cf3d50037e5f0bf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1161763,
+        "known_for_department": "Production",
+        "name": "Jenny Raskin",
+        "original_name": "Jenny Raskin",
+        "popularity": 0.6369,
+        "profile_path": "/o3EMS1cNq7dHpQSpp9o5fj2tggA.jpg",
+        "credit_id": "5f95d33888b148003543e389",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001668,
+        "known_for_department": "Production",
+        "name": "Dan Cogan",
+        "original_name": "Dan Cogan",
+        "popularity": 0.1072,
+        "profile_path": "/bmeQ9JniM3nYWUaa7GVqs6cfZBh.jpg",
+        "credit_id": "5f95d3820792e10036587d33",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2475903,
+        "known_for_department": "Production",
+        "name": "Paolo Calamita",
+        "original_name": "Paolo Calamita",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5f95d42fa6725400390e39db",
+        "department": "Production",
+        "job": "Line Producer"
+      }
+    ]
+  }
+}

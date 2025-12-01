@@ -1,0 +1,559 @@
+{
+  "adult": false,
+  "backdrop_path": "/9JHRruY3yGYYzICLa65vpLAhDJO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 161648,
+  "imdb_id": "tt0061693",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Attentato ai tre grandi",
+  "overview": "German commandos are dropped behind enemy lines in the Sahara Desert tasked with getting to Casablanca in an assassination attempt on allied leaders.",
+  "popularity": 6.7942,
+  "poster_path": "/nsdPPrdLM4ubsiIMVyzrJT85CE7.jpg",
+  "production_companies": [
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 7508,
+      "logo_path": null,
+      "name": "PEA",
+      "origin_country": "IT"
+    },
+    {
+      "id": 12109,
+      "logo_path": null,
+      "name": "Films EGE",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1967-09-01",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Desert Commandos",
+  "video": false,
+  "vote_average": 4.9,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89162,
+        "known_for_department": "Acting",
+        "name": "Ken Clark",
+        "original_name": "Ken Clark",
+        "popularity": 0.4374,
+        "profile_path": "/sFZrOhdCbZPeuw0hsAZ5oLF76En.jpg",
+        "cast_id": 1,
+        "character": "Capt. Fritz Schöller",
+        "credit_id": "52fe4c4ac3a36847f8226f0d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18966,
+        "known_for_department": "Acting",
+        "name": "Horst Frank",
+        "original_name": "Horst Frank",
+        "popularity": 0.4152,
+        "profile_path": "/cU6CmyeTbCfamztBiS7imlzIqrk.jpg",
+        "cast_id": 2,
+        "character": "Lt. Roland Wolf",
+        "credit_id": "52fe4c4ac3a36847f8226f11",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 133053,
+        "known_for_department": "Acting",
+        "name": "Jeanne Valérie",
+        "original_name": "Jeanne Valérie",
+        "popularity": 0.8199,
+        "profile_path": "/5uIrjNIG7TclXGd1BiB6uGPoSfu.jpg",
+        "cast_id": 3,
+        "character": "Faddja Hassen",
+        "credit_id": "52fe4c4ac3a36847f8226f15",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27383,
+        "known_for_department": "Acting",
+        "name": "Howard Ross",
+        "original_name": "Howard Ross",
+        "popularity": 0.5005,
+        "profile_path": "/bHjanPW2tJ9nzOxj8tq6RZ7E6pN.jpg",
+        "cast_id": 5,
+        "character": "Willy Mainz",
+        "credit_id": "52fe4c4ac3a36847f8226f1d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33820,
+        "known_for_department": "Acting",
+        "name": "Franco Fantasia",
+        "original_name": "Franco Fantasia",
+        "popularity": 0.5525,
+        "profile_path": "/1EaVh7LwdX7vPPBLYpeX9oWL6hd.jpg",
+        "cast_id": 6,
+        "character": "Major Dalio",
+        "credit_id": "52fe4c4ac3a36847f8226f21",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1275981,
+        "known_for_department": "Acting",
+        "name": "Hardy Reichelt",
+        "original_name": "Hardy Reichelt",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Cpl. Hans Ludwig",
+        "credit_id": "52fe4c4ac3a36847f8226f25",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132488,
+        "known_for_department": "Acting",
+        "name": "Gianni Rizzo",
+        "original_name": "Gianni Rizzo",
+        "popularity": 0.7584,
+        "profile_path": "/fw6xBxTVoxY5JpxbprcWq8y8JO0.jpg",
+        "cast_id": 8,
+        "character": "Perrier",
+        "credit_id": "52fe4c4ac3a36847f8226f29",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50829,
+        "known_for_department": "Acting",
+        "name": "Carlo Hintermann",
+        "original_name": "Carlo Hintermann",
+        "popularity": 0.1524,
+        "profile_path": "/37wd2HcagkloiswvgqHXN2BqPqY.jpg",
+        "cast_id": 17,
+        "character": "Sgt. Erich Huber",
+        "credit_id": "56f92f6b925141727600199b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55248,
+        "known_for_department": "Acting",
+        "name": "John Stacy",
+        "original_name": "John Stacy",
+        "popularity": 0.874,
+        "profile_path": "/zQdHx5MRoEGpdFv5c2UFVz4PZ5R.jpg",
+        "cast_id": 18,
+        "character": "Sir Bryan",
+        "credit_id": "588c54a6c3a3680ffe002cc8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99473,
+        "known_for_department": "Acting",
+        "name": "Fabienne Dali",
+        "original_name": "Fabienne Dali",
+        "popularity": 0.6368,
+        "profile_path": "/cvR0T7OwLY4oPKJVUeX8sfC3aG2.jpg",
+        "cast_id": 19,
+        "character": "Simone",
+        "credit_id": "6321bfe53d3557007c11aa61",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39432,
+        "known_for_department": "Acting",
+        "name": "Tom Felleghy",
+        "original_name": "Tom Felleghy",
+        "popularity": 1.1372,
+        "profile_path": "/uddfp0a5SEP33FqT5B7oYGHX3cg.jpg",
+        "cast_id": 20,
+        "character": "il colonnello Ross",
+        "credit_id": "6321bffa1b722c0084366874",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42844,
+        "known_for_department": "Acting",
+        "name": "Giovanni Ivan Scratuglia",
+        "original_name": "Giovanni Ivan Scratuglia",
+        "popularity": 0.1962,
+        "profile_path": "/zE96JkRsKw4SYyc4Mc2hqQT1RLf.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6321c0099a3c49007ad6c896",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22467,
+        "known_for_department": "Directing",
+        "name": "Umberto Lenzi",
+        "original_name": "Umberto Lenzi",
+        "popularity": 0.6373,
+        "profile_path": "/pwXeVYS6zFhsZu3gkrJOsRbTEC1.jpg",
+        "credit_id": "52fe4c4ac3a36847f8226f39",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22467,
+        "known_for_department": "Directing",
+        "name": "Umberto Lenzi",
+        "original_name": "Umberto Lenzi",
+        "popularity": 0.6373,
+        "profile_path": "/pwXeVYS6zFhsZu3gkrJOsRbTEC1.jpg",
+        "credit_id": "52fe4c4ac3a36847f8226f33",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1035044,
+        "known_for_department": "Art",
+        "name": "Carlo Leva",
+        "original_name": "Carlo Leva",
+        "popularity": 0.0811,
+        "profile_path": null,
+        "credit_id": "6321c12e511d09007f4e5e05",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2337765,
+        "known_for_department": "Production",
+        "name": "Averoe Stefani",
+        "original_name": "Averoe Stefani",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6321c097511d09007f4e5d9a",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1082660,
+        "known_for_department": "Production",
+        "name": "Fernando Rossi",
+        "original_name": "Fernando Rossi",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "6321c09f5a5ed0007ccd8170",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2538400,
+        "known_for_department": "Production",
+        "name": "Lamberto Andreani",
+        "original_name": "Lamberto Andreani",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "6321c0be1b722c00843668e3",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1588523,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maurizio Giustini",
+        "original_name": "Maurizio Giustini",
+        "popularity": 0.1101,
+        "profile_path": null,
+        "credit_id": "6321c0cae786870084468e92",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 70022,
+        "known_for_department": "Production",
+        "name": "Thomas Sagone",
+        "original_name": "Thomas Sagone",
+        "popularity": 0.0492,
+        "profile_path": null,
+        "credit_id": "6321c163511d09007f4e5e24",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3379777,
+        "known_for_department": "Camera",
+        "name": "Ruggero Radicchi",
+        "original_name": "Ruggero Radicchi",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "credit_id": "6321c03fdb154f007d3af627",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 95220,
+        "known_for_department": "Art",
+        "name": "Nicola Tamburo",
+        "original_name": "Nicola Tamburo",
+        "popularity": 0.0895,
+        "profile_path": null,
+        "credit_id": "6321c127a4af8f007bec1d35",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1123146,
+        "known_for_department": "Camera",
+        "name": "Sergio Bergamini",
+        "original_name": "Sergio Bergamini",
+        "popularity": 0.1054,
+        "profile_path": null,
+        "credit_id": "6321c036244182007f8bdb37",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1537153,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Italia Scandariato",
+        "original_name": "Italia Scandariato",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "6321c067244182009187f77e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2551118,
+        "known_for_department": "Camera",
+        "name": "Carlo Alberto Cocchi",
+        "original_name": "Carlo Alberto Cocchi",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "6321c0d1db154f007d3af686",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33820,
+        "known_for_department": "Acting",
+        "name": "Franco Fantasia",
+        "original_name": "Franco Fantasia",
+        "popularity": 0.5525,
+        "profile_path": "/1EaVh7LwdX7vPPBLYpeX9oWL6hd.jpg",
+        "credit_id": "6321c025f14dad007a7e36c8",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1626009,
+        "known_for_department": "Sound",
+        "name": "Claudio Maielli",
+        "original_name": "Claudio Maielli",
+        "popularity": 0.8291,
+        "profile_path": null,
+        "credit_id": "6321c053511d09007f4e5d6e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32672,
+        "known_for_department": "Crew",
+        "name": "Aldo Gasparri",
+        "original_name": "Aldo Gasparri",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "credit_id": "6321c0fb511d09007ac94ef6",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1721958,
+        "known_for_department": "Directing",
+        "name": "Patrizia Zulini",
+        "original_name": "Patrizia Zulini",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6321c0491b722c007feda5b7",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1625628,
+        "known_for_department": "Sound",
+        "name": "Renato Cadueri",
+        "original_name": "Renato Cadueri",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "6321c10fdb154f007d3af6a9",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22467,
+        "known_for_department": "Directing",
+        "name": "Umberto Lenzi",
+        "original_name": "Umberto Lenzi",
+        "popularity": 0.6373,
+        "profile_path": "/pwXeVYS6zFhsZu3gkrJOsRbTEC1.jpg",
+        "credit_id": "6321c1753d3557008421f715",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5821,
+        "known_for_department": "Editing",
+        "name": "Eugenio Alabiso",
+        "original_name": "Eugenio Alabiso",
+        "popularity": 0.0829,
+        "profile_path": "/8NXkXuYueRwoHslgCZqHls7U27l.jpg",
+        "credit_id": "554dfb639251413e4000224a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14807,
+        "known_for_department": "Sound",
+        "name": "Angelo Francesco Lavagnino",
+        "original_name": "Angelo Francesco Lavagnino",
+        "popularity": 0.0785,
+        "profile_path": "/uzS1Ny79a2sbIR7d3R9WnFhhbfU.jpg",
+        "credit_id": "554dfb72c3a368259400405e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5820,
+        "known_for_department": "Production",
+        "name": "Alberto Grimaldi",
+        "original_name": "Alberto Grimaldi",
+        "popularity": 0.2596,
+        "profile_path": "/pnASo0rcU50WmOhzY9SceWf0KDO.jpg",
+        "credit_id": "554dfb41c3a36819500018d1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33789,
+        "known_for_department": "Camera",
+        "name": "Carlo Carlini",
+        "original_name": "Carlo Carlini",
+        "popularity": 0.0678,
+        "profile_path": null,
+        "credit_id": "554dfb53c3a368187000184f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 168708,
+  "imdb_id": "tt2279287",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Spike",
+  "overview": "Festive children's animation following the adventures of a young elf who graduates to Santa's workshop. Unfortunately, as hard as Spike tries, he struggles to adapt to life in the workshop and cause no end of trouble. From the award winning producer of Jungle Bunch, Spike is the amazing story of how a little elf save Christmas.",
+  "popularity": 5.9525,
+  "poster_path": "/6bkuYorpeQ3R9kC6NJlAxtAUjsJ.jpg",
+  "production_companies": [
+    {
+      "id": 28792,
+      "logo_path": "/v50Ht1JMylIOeMfjHGO9u4YU6iF.png",
+      "name": "TAT Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 28793,
+      "logo_path": null,
+      "name": "Région Midi-Pyrénées",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2009-10-07",
+  "revenue": 0,
+  "runtime": 71,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Spike",
+  "video": false,
+  "vote_average": 4.3,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1525725,
+        "known_for_department": "Acting",
+        "name": "Richard Duval",
+        "original_name": "Richard Duval",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Santa Claus",
+        "credit_id": "682a6cc4eeec5423d90bd542",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 586258,
+        "known_for_department": "Directing",
+        "name": "Med Hondo",
+        "original_name": "Med Hondo",
+        "popularity": 0.1404,
+        "profile_path": "/oTanMS7MnWhedjQF7wONNyEXXv4.jpg",
+        "cast_id": 4,
+        "character": "Raymon (voice)",
+        "credit_id": "53130f4d9251410ff1005981",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1323998,
+        "known_for_department": "Directing",
+        "name": "Daniel Kamwa",
+        "original_name": "Daniel Kamwa",
+        "popularity": 0.0693,
+        "profile_path": "/d0tmExdErlO03KLRcrz1iz0230j.jpg",
+        "cast_id": 9,
+        "character": "Raymond",
+        "credit_id": "682a6ce81a38ecabcb2f7181",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1138041,
+        "known_for_department": "Acting",
+        "name": "Gilbert Lévy",
+        "original_name": "Gilbert Lévy",
+        "popularity": 0.238,
+        "profile_path": "/6sOxpBftOTMbviK3spaumQQW0k2.jpg",
+        "cast_id": 5,
+        "character": "Tony (voice)",
+        "credit_id": "53130f619251410ffc005a00",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1581423,
+        "known_for_department": "Acting",
+        "name": "Michel Mella",
+        "original_name": "Michel Mella",
+        "popularity": 0.1355,
+        "profile_path": "/vnzQDD8jqNp667U4OERo0MlXjG0.jpg",
+        "cast_id": 10,
+        "character": "Paco/Vito",
+        "credit_id": "682a6d03a926e745695b5796",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1446165,
+        "known_for_department": "Acting",
+        "name": "Laurent Morteau",
+        "original_name": "Laurent Morteau",
+        "popularity": 0.097,
+        "profile_path": "/jFcP2vh4gQTUHocSOErfcT0AV7M.jpg",
+        "cast_id": 11,
+        "character": "Seagull/Reporter",
+        "credit_id": "682a6d0e7d5cfbe96b0bd5c7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5447517,
+        "known_for_department": "Acting",
+        "name": "Sarah Roussel",
+        "original_name": "Sarah Roussel",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "La Mama",
+        "credit_id": "682a6d1c24aa9556cf5b58a1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1336655,
+        "known_for_department": "Acting",
+        "name": "Barbara Tissier",
+        "original_name": "Barbara Tissier",
+        "popularity": 0.1283,
+        "profile_path": "/oAhObnVhqsdJHO6vlMuW2a82Mwa.jpg",
+        "cast_id": 13,
+        "character": "Dorothy",
+        "credit_id": "682a6d27217c0f3666648af5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70481,
+        "known_for_department": "Acting",
+        "name": "Alexis Tomassian",
+        "original_name": "Alexis Tomassian",
+        "popularity": 0.2478,
+        "profile_path": "/56MhvK4A3X3G3t9zMdVMw63VfK.jpg",
+        "cast_id": 3,
+        "character": "Spike (voice)",
+        "credit_id": "53130ebd9251411008005c19",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3963756,
+        "known_for_department": "Production",
+        "name": "David Vincent",
+        "original_name": "David Vincent",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Guardian Bouli",
+        "credit_id": "682a6d64cc923137c0648b41",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049952,
+        "known_for_department": "Directing",
+        "name": "Eric Tosti",
+        "original_name": "Eric Tosti",
+        "popularity": 0.1514,
+        "profile_path": "/wfOTI2jpbxydcZnJ2KbVkhXQQMf.jpg",
+        "credit_id": "52fe4cd4c3a36847f824082f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049951,
+        "known_for_department": "Directing",
+        "name": "David Alaux",
+        "original_name": "David Alaux",
+        "popularity": 0.6894,
+        "profile_path": "/xW08I8oCSSNUHEU6xL0qeIC764b.jpg",
+        "credit_id": "52fe4cd4c3a36847f8240835",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049951,
+        "known_for_department": "Directing",
+        "name": "David Alaux",
+        "original_name": "David Alaux",
+        "popularity": 0.6894,
+        "profile_path": "/xW08I8oCSSNUHEU6xL0qeIC764b.jpg",
+        "credit_id": "5cfa3a8c92514112b7b98c9b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049952,
+        "known_for_department": "Directing",
+        "name": "Eric Tosti",
+        "original_name": "Eric Tosti",
+        "popularity": 0.1514,
+        "profile_path": "/wfOTI2jpbxydcZnJ2KbVkhXQQMf.jpg",
+        "credit_id": "5cfa3a970e0a26469dcb2d9c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1903957,
+        "known_for_department": "Sound",
+        "name": "Olivier Cussac",
+        "original_name": "Olivier Cussac",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "682a6d7dbdfecb719a8c060a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2199382,
+        "known_for_department": "Lighting",
+        "name": "Jean-Yves Teillet",
+        "original_name": "Jean-Yves Teillet",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "682a6d8cbdd07163dd2f7254",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4045138,
+        "known_for_department": "Visual Effects",
+        "name": "Patrick Le Bayon",
+        "original_name": "Patrick Le Bayon",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "credit_id": "682a6d9ceaeb5360bcdb284d",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134508,
+        "known_for_department": "Sound",
+        "name": "Eric Sampieri",
+        "original_name": "Eric Sampieri",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "682a6dc91939824f11db2a34",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1520239,
+        "known_for_department": "Sound",
+        "name": "Patrick Egreteau",
+        "original_name": "Patrick Egreteau",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "682a6dd675274824c2e249a0",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2049936,
+        "known_for_department": "Sound",
+        "name": "Marco Augusto Comba",
+        "original_name": "Marco Augusto Comba",
+        "popularity": 0.5473,
+        "profile_path": null,
+        "credit_id": "682a6de1781f6f2b9d5b5881",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      }
+    ]
+  }
+}

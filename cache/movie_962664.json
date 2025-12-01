@@ -1,0 +1,406 @@
+{
+  "adult": false,
+  "backdrop_path": "/rR2GExalTYxsnWJs7MKc922vIib.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B09ZKQLFBR/",
+  "id": 962664,
+  "imdb_id": "tt13626200",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Love Accidentally",
+  "overview": "Alexa and Jason are competing for a position at an advertising firm when their partners break up with them. Alexa mistakenly texts Jason, and they start a phone-only relationship. When they meet and the truth comes out, will true love prevail?",
+  "popularity": 7.436,
+  "poster_path": "/sTDp0HLGuNRsTRlHbqBuOWcHIvF.jpg",
+  "production_companies": [
+    {
+      "id": 7119,
+      "logo_path": "/2aFVtrHVcqGOq1qwYlPZ7VQ67Oi.png",
+      "name": "Hybrid",
+      "origin_country": "US"
+    },
+    {
+      "id": 143463,
+      "logo_path": null,
+      "name": "Wholesome Movies",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-07-15",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Should we meet?",
+  "title": "Love Accidentally",
+  "video": false,
+  "vote_average": 5.986,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88123,
+        "known_for_department": "Acting",
+        "name": "Brenda Song",
+        "original_name": "Brenda Song",
+        "popularity": 2.7041,
+        "profile_path": "/1vLlotlVcvfESzXWCk8p1RKQqV7.jpg",
+        "cast_id": 1,
+        "character": "Alexa Parker",
+        "credit_id": "62a261d7bccf1e006638fced",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1541777,
+        "known_for_department": "Acting",
+        "name": "Aaron O'Connell",
+        "original_name": "Aaron O'Connell",
+        "popularity": 0.4671,
+        "profile_path": "/quD4wRw5kXmqsAxZM854928NS2z.jpg",
+        "cast_id": 2,
+        "character": "Jason",
+        "credit_id": "62a261df35d1bc372d110005",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9205,
+        "known_for_department": "Acting",
+        "name": "Denise Richards",
+        "original_name": "Denise Richards",
+        "popularity": 2.6927,
+        "profile_path": "/i1MDAhdjiqXWwEhr7ujnlk8ksdl.jpg",
+        "cast_id": 3,
+        "character": "Debra",
+        "credit_id": "62a261e72dc44e004f6900a2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 224753,
+        "known_for_department": "Acting",
+        "name": "Brooke Newton",
+        "original_name": "Brooke Newton",
+        "popularity": 0.9837,
+        "profile_path": "/veQZA8RA2FSm5Dlix72ZpTHs1ua.jpg",
+        "cast_id": 5,
+        "character": "Hannah",
+        "credit_id": "62a261f82b531d0099cfad7c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101908,
+        "known_for_department": "Acting",
+        "name": "Maxwell Caulfield",
+        "original_name": "Maxwell Caulfield",
+        "popularity": 7.4378,
+        "profile_path": "/txVAiqLG56J0BlDaaCfFgzPfvU.jpg",
+        "cast_id": 4,
+        "character": "Craig",
+        "credit_id": "62a261ef53866e4f81625f9c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1970630,
+        "known_for_department": "Acting",
+        "name": "Pedro Correa",
+        "original_name": "Pedro Correa",
+        "popularity": 0.2233,
+        "profile_path": "/vxM1aSGAY5hLDdi1siCD3OqaBNG.jpg",
+        "cast_id": 6,
+        "character": "Brad",
+        "credit_id": "62a2620205b5490066389ba1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 998559,
+        "known_for_department": "Acting",
+        "name": "Gib Gerard",
+        "original_name": "Gib Gerard",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Perry",
+        "credit_id": "62a2620bc8f858004f8ce238",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 201355,
+        "known_for_department": "Acting",
+        "name": "Marc Anthony Samuel",
+        "original_name": "Marc Anthony Samuel",
+        "popularity": 0.5464,
+        "profile_path": "/1CwbfWZq42VJgV5BDkNn9c2WTn0.jpg",
+        "cast_id": 8,
+        "character": "Trey",
+        "credit_id": "62a26214cf4a64005094fe42",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92591,
+        "known_for_department": "Writing",
+        "name": "Peter Sullivan",
+        "original_name": "Peter Sullivan",
+        "popularity": 0.2374,
+        "profile_path": "/hXFy4ygelHJovKvMx37EJeHwvbm.jpg",
+        "credit_id": "62a269eb2dc44e00a630914c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117493,
+        "known_for_department": "Writing",
+        "name": "Robert Dean Klein",
+        "original_name": "Robert Dean Klein",
+        "popularity": 0.0669,
+        "profile_path": null,
+        "credit_id": "62a269f22dc44e004f691f86",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 995466,
+        "known_for_department": "Production",
+        "name": "Barry Barnholtz",
+        "original_name": "Barry Barnholtz",
+        "popularity": 0.1844,
+        "profile_path": "/bNSSWHDAe0X8DzyioMLHL3TzvFq.jpg",
+        "credit_id": "62a26d4146f354005295e006",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 497796,
+        "known_for_department": "Production",
+        "name": "Brian Nolan",
+        "original_name": "Brian Nolan",
+        "popularity": 0.2057,
+        "profile_path": "/nAne0D5M9q5QWO4ah6nl2NBKAM7.jpg",
+        "credit_id": "62a26d57efcea900a37ef36e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3486593,
+        "known_for_department": "Art",
+        "name": "Linda Davio",
+        "original_name": "Linda Davio",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "62a26da653866e4f816288c6",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2003292,
+        "known_for_department": "Camera",
+        "name": "Joseph M. Setele",
+        "original_name": "Joseph M. Setele",
+        "popularity": 0.6015,
+        "profile_path": null,
+        "credit_id": "62a26d7b05b549009ded3e37",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31157,
+        "known_for_department": "Editing",
+        "name": "Randy Carter",
+        "original_name": "Randy Carter",
+        "popularity": 0.137,
+        "profile_path": null,
+        "credit_id": "62a26d837f6c8d0050b7dda0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3251587,
+        "known_for_department": "Production",
+        "name": "Lauralee Browne",
+        "original_name": "Lauralee Browne",
+        "popularity": 0.0674,
+        "profile_path": null,
+        "credit_id": "62a26d4b2b531d0066e85cea",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391647,
+        "known_for_department": "Sound",
+        "name": "Matthew Janszen",
+        "original_name": "Matthew Janszen",
+        "popularity": 0.6005,
+        "profile_path": null,
+        "credit_id": "62a26d72b87aec00716c343c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2784385,
+        "known_for_department": "Art",
+        "name": "Kelby Knapp",
+        "original_name": "Kelby Knapp",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "62a26d9eb87aec00a53ae590",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128979,
+        "known_for_department": "Production",
+        "name": "Jeffrey Schenck",
+        "original_name": "Jeffrey Schenck",
+        "popularity": 0.2212,
+        "profile_path": null,
+        "credit_id": "62a26d60528b2e009d5392cb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92591,
+        "known_for_department": "Writing",
+        "name": "Peter Sullivan",
+        "original_name": "Peter Sullivan",
+        "popularity": 0.2374,
+        "profile_path": "/hXFy4ygelHJovKvMx37EJeHwvbm.jpg",
+        "credit_id": "62a26d6a7f6c8d0050b7dd2a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30874,
+        "known_for_department": "Production",
+        "name": "Donald Paul Pemrick",
+        "original_name": "Donald Paul Pemrick",
+        "popularity": 0.1326,
+        "profile_path": "/dTrBQgwAbxQvIydb6V5C8A6hf9X.jpg",
+        "credit_id": "62a26d957e12f06e0567dabb",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30876,
+        "known_for_department": "Production",
+        "name": "Dean E. Fronk",
+        "original_name": "Dean E. Fronk",
+        "popularity": 0.3173,
+        "profile_path": "/b3jBbYGzoeaWL4b9QrK4o3UouEQ.jpg",
+        "credit_id": "62a26d8b46f354006823e3a6",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1087249,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Samantha Kuester",
+        "original_name": "Samantha Kuester",
+        "popularity": 0.0732,
+        "profile_path": null,
+        "credit_id": "62a26db685005d00acb848ff",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88123,
+        "known_for_department": "Acting",
+        "name": "Brenda Song",
+        "original_name": "Brenda Song",
+        "popularity": 2.7041,
+        "profile_path": "/1vLlotlVcvfESzXWCk8p1RKQqV7.jpg",
+        "credit_id": "6544c7b37719d700e2afdc15",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2003292,
+        "known_for_department": "Camera",
+        "name": "Joseph M. Setele",
+        "original_name": "Joseph M. Setele",
+        "popularity": 0.6015,
+        "profile_path": null,
+        "credit_id": "6886b8e13d8d9dfd9038fc57",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  }
+}

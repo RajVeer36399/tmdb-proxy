@@ -1,0 +1,422 @@
+{
+  "adult": false,
+  "backdrop_path": "/vXS2CvLfIDUJKuPXqTS68CfFlYX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 127139,
+  "imdb_id": "tt0110846",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Playtime",
+  "overview": "Lindsey and Geena spend some time together by the pool while their husbands play golf. After talking about their fantasies they begin to enact a few of them for each other. Soon they incorporate Lindsey's husband Joe into their intimate games. When straight-laced Brad finds out what his wife and friends have been doing he blows up, threatening their marriages and friendships.",
+  "popularity": 15.5838,
+  "poster_path": "/8uj1ixlfYXNBfQaaETyuJ2Ci8NR.jpg",
+  "production_companies": [
+    {
+      "id": 56717,
+      "logo_path": null,
+      "name": "Cameo Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-05-23",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Watching is only half the fun...",
+  "title": "Playtime",
+  "video": false,
+  "vote_average": 2.9,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42559,
+        "known_for_department": "Acting",
+        "name": "Jennifer Burton",
+        "original_name": "Jennifer Burton",
+        "popularity": 0.8665,
+        "profile_path": "/tL74b4JZlHGxm6LDfxnUwpcPrLd.jpg",
+        "cast_id": 1,
+        "character": "Lindsey",
+        "credit_id": "52fe4af1c3a368484e16f025",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103957,
+        "known_for_department": "Art",
+        "name": "David Elliott",
+        "original_name": "David Elliott",
+        "popularity": 0.9071,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Joe",
+        "credit_id": "58b8f89ac3a36866a500460a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32544,
+        "known_for_department": "Acting",
+        "name": "Monique Parent",
+        "original_name": "Monique Parent",
+        "popularity": 1.4841,
+        "profile_path": "/yrYBZB59Jq1rfhtcplx1i0lqJrp.jpg",
+        "cast_id": 2,
+        "character": "Geena",
+        "credit_id": "52fe4af1c3a368484e16f029",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 157982,
+        "known_for_department": "Acting",
+        "name": "Craig Stepp",
+        "original_name": "Craig Stepp",
+        "popularity": 0.2815,
+        "profile_path": "/3l8R1ru6wUiiXvnwbaWVVJ3E8ud.jpg",
+        "cast_id": 3,
+        "character": "Brad",
+        "credit_id": "52fe4af1c3a368484e16f02d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80116,
+        "known_for_department": "Acting",
+        "name": "Julie Strain",
+        "original_name": "Julie Strain",
+        "popularity": 1.292,
+        "profile_path": "/mOk6BkBbKoljJxKWxtcXLFmLokX.jpg",
+        "cast_id": 9,
+        "character": "Sheraton",
+        "credit_id": "52fe4af1c3a368484e16f045",
+        "order": 4
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 35576,
+        "known_for_department": "Acting",
+        "name": "Tammy Parks",
+        "original_name": "Tammy Parks",
+        "popularity": 4.518,
+        "profile_path": "/jcxvA2D7PkIRtzjkYUghApfZkwW.jpg",
+        "cast_id": 5,
+        "character": "Michelle",
+        "credit_id": "52fe4af1c3a368484e16f031",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99619,
+        "known_for_department": "Acting",
+        "name": "Ashlie Rhey",
+        "original_name": "Ashlie Rhey",
+        "popularity": 0.385,
+        "profile_path": "/q8vM11BL3cCKGxHLhmtVZRxClNK.jpg",
+        "cast_id": 6,
+        "character": "Connie",
+        "credit_id": "52fe4af1c3a368484e16f035",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 112467,
+        "known_for_department": "Acting",
+        "name": "Wendy Hamilton",
+        "original_name": "Wendy Hamilton",
+        "popularity": 1.1644,
+        "profile_path": "/wJdyoXtd6smJypDINeqyuiuaTSA.jpg",
+        "cast_id": 11,
+        "character": "Brad's Secretary",
+        "credit_id": "58b8f8b4c3a36866a500461e",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 935536,
+        "known_for_department": "Directing",
+        "name": "Dale Trevillion",
+        "original_name": "Dale Trevillion",
+        "popularity": 0.2728,
+        "profile_path": null,
+        "credit_id": "60cfadf9f263ba0078048620",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1501490,
+        "known_for_department": "Sound",
+        "name": "Joel Derouin",
+        "original_name": "Joel Derouin",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "60cfae0c10dad60059fd25fc",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1190853,
+        "known_for_department": "Production",
+        "name": "Ted Warren",
+        "original_name": "Ted Warren",
+        "popularity": 1.2909,
+        "profile_path": null,
+        "credit_id": "60cfae6b10dad60070e31106",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 151321,
+        "known_for_department": "Acting",
+        "name": "Jeanette O'Connor",
+        "original_name": "Jeanette O'Connor",
+        "popularity": 0.5682,
+        "profile_path": "/A6Bsk2F5BPicJrRyoyoMxYzGwjc.jpg",
+        "credit_id": "60cfae4fc2b9df0077ca2ce1",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 552259,
+        "known_for_department": "Production",
+        "name": "Nick Zuvic",
+        "original_name": "Nick Zuvic",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "60cfaded651fcf005836fe86",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1316922,
+        "known_for_department": "Editing",
+        "name": "Annamária Szántó Komlóssy",
+        "original_name": "Annamária Szántó Komlóssy",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "credit_id": "60cfae34b458b8006d0525eb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29928,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jillian Kreiner",
+        "original_name": "Jillian Kreiner",
+        "popularity": 0.0705,
+        "profile_path": null,
+        "credit_id": "60cfae8afcf907002bbbd8ac",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1783637,
+        "known_for_department": "Art",
+        "name": "Chris Carriveau",
+        "original_name": "Chris Carriveau",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "60cfae9b629b2c0057a153ac",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1083953,
+        "known_for_department": "Writing",
+        "name": "Mary Ellen Hanover",
+        "original_name": "Mary Ellen Hanover",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe4af1c3a368484e16f041",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 935536,
+        "known_for_department": "Directing",
+        "name": "Dale Trevillion",
+        "original_name": "Dale Trevillion",
+        "popularity": 0.2728,
+        "profile_path": null,
+        "credit_id": "52fe4af1c3a368484e16f03b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1423550,
+        "known_for_department": "Directing",
+        "name": "Genie Babcock",
+        "original_name": "Genie Babcock",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "613eb2ba9450fe00430b5b8d",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 935542,
+        "known_for_department": "Camera",
+        "name": "Sven Kirsten",
+        "original_name": "Sven Kirsten",
+        "popularity": 0.199,
+        "profile_path": null,
+        "credit_id": "613eb23743250f00614a8d6d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1269670,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tarra D. Day",
+        "original_name": "Tarra D. Day",
+        "popularity": 0.6722,
+        "profile_path": null,
+        "credit_id": "613eb271006b01002d7f7a4a",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1005517,
+        "known_for_department": "Sound",
+        "name": "Stephen Tibbo",
+        "original_name": "Stephen Tibbo",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "613eb29e0cd32a0043e5bd1c",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21674,
+        "known_for_department": "Art",
+        "name": "Sandy Struth",
+        "original_name": "Sandy Struth",
+        "popularity": 0.7045,
+        "profile_path": null,
+        "credit_id": "613eb251f96a3900290a2d2a",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1546553,
+        "known_for_department": "Art",
+        "name": "Erika S. Katz",
+        "original_name": "Erika S. Katz",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "613eb28a0cd32a00273a03d7",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1269670,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tarra D. Day",
+        "original_name": "Tarra D. Day",
+        "popularity": 0.6722,
+        "profile_path": null,
+        "credit_id": "613eb26943250f00614a8e36",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 552261,
+        "known_for_department": "Production",
+        "name": "Lori Cobe",
+        "original_name": "Lori Cobe",
+        "popularity": 0.0936,
+        "profile_path": null,
+        "credit_id": "6190183c63e6fb0063740330",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2732852,
+        "known_for_department": "Production",
+        "name": "Kevin Sullivan",
+        "original_name": "Kevin Sullivan",
+        "popularity": 0.3463,
+        "profile_path": null,
+        "credit_id": "643b268e501cf205753867f2",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      }
+    ]
+  }
+}

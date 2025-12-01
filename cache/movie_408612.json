@@ -1,0 +1,221 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://lamina.entreluces.es/",
+  "id": 408612,
+  "imdb_id": "tt5774012",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "The Night Watchman: La mina",
+  "overview": "Jack wants to prove to his wife Alma, that he is a new man after his drug abuse and time spend in prison. He is offered new job as a night watchman of an old mine complex, which he accepts without a question. What no one knows that the dark place holds a disturbing secret that will fill their lives with terror.",
+  "popularity": 5.9592,
+  "poster_path": "/ioMrIlUKdCpQHjdbW7EiNu60PBN.jpg",
+  "production_companies": [
+    {
+      "id": 1183,
+      "logo_path": null,
+      "name": "Impala",
+      "origin_country": "ES"
+    },
+    {
+      "id": 79819,
+      "logo_path": null,
+      "name": "caosfilms",
+      "origin_country": ""
+    },
+    {
+      "id": 79818,
+      "logo_path": null,
+      "name": "VerCine",
+      "origin_country": ""
+    },
+    {
+      "id": 981,
+      "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+      "name": "TVE",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2016-07-29",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Night Watchman",
+  "video": false,
+  "vote_average": 4.528,
+  "vote_count": 18,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 940740,
+        "known_for_department": "Acting",
+        "name": "Jimmy Shaw",
+        "original_name": "Jimmy Shaw",
+        "popularity": 0.152,
+        "profile_path": "/hDSUDCthYQ3cUOUE7ahYxIHZEHb.jpg",
+        "cast_id": 1,
+        "character": "Mike",
+        "credit_id": "579b10629251414cd90063d8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456436,
+        "known_for_department": "Acting",
+        "name": "Kimberley Tell",
+        "original_name": "Kimberley Tell",
+        "popularity": 0.2619,
+        "profile_path": "/aMULZpCS1xi7xZaLiEUsHLNq1RZ.jpg",
+        "cast_id": 2,
+        "character": "Alma",
+        "credit_id": "579b1074c3a3687e57006d8e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1470500,
+        "known_for_department": "Acting",
+        "name": "Antonio de la Cruz",
+        "original_name": "Antonio de la Cruz",
+        "popularity": 0.6894,
+        "profile_path": "/lKg8pZc1ssVZcOI19sMZ6cc2VXT.jpg",
+        "cast_id": 7,
+        "character": "Creature",
+        "credit_id": "579c7fd292514112170003a1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1658651,
+        "known_for_department": "Acting",
+        "name": "Matt Horan",
+        "original_name": "Matt Horan",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Jack Mainfield",
+        "credit_id": "579c7febc3a3681dd20003a4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229927,
+        "known_for_department": "Acting",
+        "name": "Denis Rafter",
+        "original_name": "Denis Rafter",
+        "popularity": 0.077,
+        "profile_path": "/kkITBylVvW5dC7caHsiBNkQXML7.jpg",
+        "cast_id": 9,
+        "character": "Stan",
+        "credit_id": "579c7ffd92514112170003b1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1658652,
+        "known_for_department": "Acting",
+        "name": "Eneko Sagardoy",
+        "original_name": "Eneko Sagardoy",
+        "popularity": 0.227,
+        "profile_path": "/rDVddEvLjCMSdR9Uu7zFds2pQEz.jpg",
+        "cast_id": 10,
+        "character": "Combo",
+        "credit_id": "579c8002c3a3685be30061f8",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 588984,
+        "known_for_department": "Directing",
+        "name": "Miguel Ángel Jiménez",
+        "original_name": "Miguel Ángel Jiménez",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "579c7f6bc3a3681678006871",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1165378,
+        "known_for_department": "Writing",
+        "name": "Luis Moya",
+        "original_name": "Luis Moya",
+        "popularity": 0.1129,
+        "profile_path": null,
+        "credit_id": "579c806e9251411b0b005a26",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 588984,
+        "known_for_department": "Directing",
+        "name": "Miguel Ángel Jiménez",
+        "original_name": "Miguel Ángel Jiménez",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "579c7f72c3a3681e210002db",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456398,
+        "known_for_department": "Writing",
+        "name": "Pablo Aramendi",
+        "original_name": "Pablo Aramendi",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "579c7f84c3a36855d2006557",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

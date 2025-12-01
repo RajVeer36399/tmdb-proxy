@@ -1,0 +1,436 @@
+{
+  "adult": false,
+  "backdrop_path": "/15UtlLcymgGb8CnOb1roX8drtBk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 365267,
+  "imdb_id": "tt3948370",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Obce niebo",
+  "overview": "Basia and Marek have been on the run their whole lives. Along with their nine-year-old daughter Ula, they experience what it’s like to be an immigrant in Sweden. When a Swedish social worker visits their home, she witnesses Ula’s everyday reality, as seen from the perspective of the local culture. Ula is then taken away from her parents and placed in foster care. Will Basia and Marek stick together and fight for Ula? Will they succeed in rebuilding their bond and their family?",
+  "popularity": 8.1127,
+  "poster_path": "/hGMGEPqxNAoC3ElXFJWwTzLIygz.jpg",
+  "production_companies": [
+    {
+      "id": 72638,
+      "logo_path": null,
+      "name": "Agora",
+      "origin_country": "PL"
+    },
+    {
+      "id": 73442,
+      "logo_path": null,
+      "name": "East of West Film",
+      "origin_country": "SE"
+    },
+    {
+      "id": 5622,
+      "logo_path": "/bKcpepYRLylECRb5LVkskW0TQIX.png",
+      "name": "TVN",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2015-10-16",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Strange Heaven",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105562,
+        "known_for_department": "Acting",
+        "name": "Agnieszka Grochowska",
+        "original_name": "Agnieszka Grochowska",
+        "popularity": 1.1024,
+        "profile_path": "/9XBjnqR2PWw4KdcyTRaTZCFllxu.jpg",
+        "cast_id": 1,
+        "character": "Basia",
+        "credit_id": "568ac471c3a36836280142b8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68828,
+        "known_for_department": "Acting",
+        "name": "Bartłomiej Topa",
+        "original_name": "Bartłomiej Topa",
+        "popularity": 0.4191,
+        "profile_path": "/92X5zMr0xZO6Y76LrjJWKLgnp5O.jpg",
+        "cast_id": 12,
+        "character": "Marek",
+        "credit_id": "59936b5ac3a3687f840050eb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1580499,
+        "known_for_department": "Acting",
+        "name": "Barbara Kubiak",
+        "original_name": "Barbara Kubiak",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Ula",
+        "credit_id": "56c86fc99251411733002d04",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46866,
+        "known_for_department": "Acting",
+        "name": "Ewa Fröling",
+        "original_name": "Ewa Fröling",
+        "popularity": 0.3596,
+        "profile_path": "/6CILCzlzTJKjKlvqqvLqyOatvxb.jpg",
+        "cast_id": 4,
+        "character": "Anita",
+        "credit_id": "56c86fdac3a368408e00289f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 106659,
+        "known_for_department": "Acting",
+        "name": "Tanja Lorentzon",
+        "original_name": "Tanja Lorentzon",
+        "popularity": 0.3934,
+        "profile_path": "/v7uJtpsGfm8xXq4BAVcXDeyWMEK.jpg",
+        "cast_id": 5,
+        "character": "Harriet",
+        "credit_id": "56c86feac3a368409c0029a1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141620,
+        "known_for_department": "Acting",
+        "name": "Gerhard Hoberstorfer",
+        "original_name": "Gerhard Hoberstorfer",
+        "popularity": 0.2898,
+        "profile_path": "/kXyhuqdhVWDIO1FJuCZbYjzF8se.jpg",
+        "cast_id": 6,
+        "character": "Björn",
+        "credit_id": "56c86ff7c3a3684095002d31",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107633,
+        "known_for_department": "Acting",
+        "name": "Jan Englert",
+        "original_name": "Jan Englert",
+        "popularity": 0.1718,
+        "profile_path": "/aSB7q8s5A6nZhCJblyfv9jqJGsH.jpg",
+        "cast_id": 7,
+        "character": "Adwokat",
+        "credit_id": "56c87009c3a3684091002c1d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6001,
+        "known_for_department": "Acting",
+        "name": "Björn Kjellman",
+        "original_name": "Björn Kjellman",
+        "popularity": 0.3197,
+        "profile_path": "/iNzZuWG303K8Z9Ils7Linp0CeUU.jpg",
+        "cast_id": 8,
+        "character": "Lars Gustafsson",
+        "credit_id": "56c87017c3a3684095002d37",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1948243,
+        "known_for_department": "Acting",
+        "name": "Anna Terpiłowska",
+        "original_name": "Anna Terpiłowska",
+        "popularity": 0.0389,
+        "profile_path": "/x4ehWCNqxMgiW87NmWpMY7YB2m4.jpg",
+        "cast_id": 17,
+        "character": "teacher",
+        "credit_id": "664374d099d631b83b711016",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1558128,
+        "known_for_department": "Directing",
+        "name": "Dariusz Gajewski",
+        "original_name": "Dariusz Gajewski",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "568ac4589251411334021eb1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1421499,
+        "known_for_department": "Production",
+        "name": "Kuba Kosma",
+        "original_name": "Kuba Kosma",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "6596d260a6c1041138fa6eba",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1421499,
+        "known_for_department": "Production",
+        "name": "Kuba Kosma",
+        "original_name": "Kuba Kosma",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "6596d26d5907de4a0863bf59",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1558128,
+        "known_for_department": "Directing",
+        "name": "Dariusz Gajewski",
+        "original_name": "Dariusz Gajewski",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "56c87035c3a3684097003324",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1208151,
+        "known_for_department": "Writing",
+        "name": "Michał Godzic",
+        "original_name": "Michał Godzic",
+        "popularity": 0.5117,
+        "profile_path": null,
+        "credit_id": "56c87047925141173c002cf1",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1583953,
+        "known_for_department": "Crew",
+        "name": "Tomasz Krzemieniecki",
+        "original_name": "Tomasz Krzemieniecki",
+        "popularity": 0.0953,
+        "profile_path": "/9fs18mQ86eyLQpvxoWcvgI2VsgN.jpg",
+        "credit_id": "664103c147042aa6d6f0c51b",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2671434,
+        "known_for_department": "Production",
+        "name": "Anna Waśniewska-Gill",
+        "original_name": "Anna Waśniewska-Gill",
+        "popularity": 0.1604,
+        "profile_path": null,
+        "credit_id": "664676343f44dc5e37783f2b",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1707258,
+        "known_for_department": "Production",
+        "name": "Robert Kijak",
+        "original_name": "Robert Kijak",
+        "popularity": 0.0826,
+        "profile_path": null,
+        "credit_id": "664e591de76e411f12639d01",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1128,
+        "known_for_department": "Directing",
+        "name": "Agnieszka Holland",
+        "original_name": "Agnieszka Holland",
+        "popularity": 0.3304,
+        "profile_path": "/rfM2l3Z1Vm3ASuiEC50Zpf37jLj.jpg",
+        "credit_id": "6659eba93d058619f160a2dd",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1497636,
+        "known_for_department": "Camera",
+        "name": "Adam Mendry",
+        "original_name": "Adam Mendry",
+        "popularity": 0.7399,
+        "profile_path": null,
+        "credit_id": "66d33af1c6120336dc6a6de2",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1768863,
+        "known_for_department": "Editing",
+        "name": "Grażyna Gradoń",
+        "original_name": "Grażyna Gradoń",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5e4bf7191e92250018c6a539",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610050,
+        "known_for_department": "Visual Effects",
+        "name": "Radosław Rekita",
+        "original_name": "Radosław Rekita",
+        "popularity": 0.8223,
+        "profile_path": null,
+        "credit_id": "66f6c0936cedbed01570d5d5",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1806358,
+        "known_for_department": "Production",
+        "name": "Izabela Łopuch",
+        "original_name": "Izabela Łopuch",
+        "popularity": 0.0623,
+        "profile_path": "/raYZPVOk0jNW4U7O8nOh2dyjZAZ.jpg",
+        "credit_id": "6707bbe21d96dc6d476a29fe",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1558128,
+        "known_for_department": "Directing",
+        "name": "Dariusz Gajewski",
+        "original_name": "Dariusz Gajewski",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "6715fee19943637ce582a018",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2158042,
+        "known_for_department": "Sound",
+        "name": "Marcin Masecki",
+        "original_name": "Marcin Masecki",
+        "popularity": 0.0502,
+        "profile_path": "/8siWWSrC78seyFl8KcIEtpUrUlN.jpg",
+        "credit_id": "675c493670f3679278fc567a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2158042,
+        "known_for_department": "Sound",
+        "name": "Marcin Masecki",
+        "original_name": "Marcin Masecki",
+        "popularity": 0.0502,
+        "profile_path": "/8siWWSrC78seyFl8KcIEtpUrUlN.jpg",
+        "credit_id": "675c494270f3679278fc5683",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2158042,
+        "known_for_department": "Sound",
+        "name": "Marcin Masecki",
+        "original_name": "Marcin Masecki",
+        "popularity": 0.0502,
+        "profile_path": "/8siWWSrC78seyFl8KcIEtpUrUlN.jpg",
+        "credit_id": "675c494df1bf7a60dff9df88",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2158042,
+        "known_for_department": "Sound",
+        "name": "Marcin Masecki",
+        "original_name": "Marcin Masecki",
+        "popularity": 0.0502,
+        "profile_path": "/8siWWSrC78seyFl8KcIEtpUrUlN.jpg",
+        "credit_id": "675c4958f932dc771626e6e2",
+        "department": "Sound",
+        "job": "Conductor"
+      }
+    ]
+  }
+}

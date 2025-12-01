@@ -1,0 +1,521 @@
+{
+  "adult": false,
+  "backdrop_path": "/2oqTu89OCk5unsKV1neMJP3Btor.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1443576,
+  "imdb_id": "tt35513027",
+  "origin_country": [
+    "ES",
+    "FR"
+  ],
+  "original_language": "es",
+  "original_title": "Los domingos",
+  "overview": "A 17-year-old idealist has to choose her course at university, and declares that she feels ever closer to God. Contemplating a membership within an enclosed religious order raises questions regarding the liberal principles of her father and her aunt, the latter who feels she should choose the life she wants but should experience life before doing so.",
+  "popularity": 7.5531,
+  "poster_path": "/mgihBtPO7GSpLZPm7qJFfCXh3ha.jpg",
+  "production_companies": [
+    {
+      "id": 13285,
+      "logo_path": "/eSTUEqS5IAoUZdGEnm36TMiD2ft.png",
+      "name": "Encanta Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 7344,
+      "logo_path": "/wSPFwK4I42Z63YWcuTzcq8e4dhw.png",
+      "name": "Sayaka Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 10128,
+      "logo_path": "/apcQLKRuLLqhi9fD1gaSL3argeo.png",
+      "name": "Think Studio",
+      "origin_country": "ES"
+    },
+    {
+      "id": 55260,
+      "logo_path": "/camFxiEQydhhZF5in1SGzMkLKuU.png",
+      "name": "Colosé Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 5125,
+      "logo_path": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
+      "name": "Le Pacte",
+      "origin_country": "FR"
+    },
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    },
+    {
+      "id": 200804,
+      "logo_path": "/7rQ6WdOccPyIPI0pTztsxy3QikE.png",
+      "name": "Buena Pinta Media",
+      "origin_country": "ES"
+    },
+    {
+      "id": 107262,
+      "logo_path": "/1zigukoYBEqJfsEl6fVhmamXXX9.png",
+      "name": "Crea SGR",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-10-17",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sundays",
+  "video": false,
+  "vote_average": 8.457,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5284715,
+        "known_for_department": "Acting",
+        "name": "Blanca Soroa",
+        "original_name": "Blanca Soroa",
+        "popularity": 0.0214,
+        "profile_path": "/A0bupgpVbS0MRTA9fkgcLnHf8zV.jpg",
+        "cast_id": 2,
+        "character": "Ainara",
+        "credit_id": "67c868a59264aa58666e458c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1603600,
+        "known_for_department": "Acting",
+        "name": "Patricia López Arnaiz",
+        "original_name": "Patricia López Arnaiz",
+        "popularity": 0.6843,
+        "profile_path": "/7fWsjnIi3xfxPzXExkwQMVUUusz.jpg",
+        "cast_id": 3,
+        "character": "Maite",
+        "credit_id": "67c868b7f067bcfd6d6e39c5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2424427,
+        "known_for_department": "Acting",
+        "name": "Miguel Garcés",
+        "original_name": "Miguel Garcés",
+        "popularity": 0.1262,
+        "profile_path": "/vLY5Mv17sLuO44JfRxX7w8azvzv.jpg",
+        "cast_id": 4,
+        "character": "Iñaki",
+        "credit_id": "67c868cd0c65ee9abae71278",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140538,
+        "known_for_department": "Acting",
+        "name": "Juan Minujín",
+        "original_name": "Juan Minujín",
+        "popularity": 0.3909,
+        "profile_path": "/mOtugfw1ahXJPCDg3kSLifCDyHd.jpg",
+        "cast_id": 5,
+        "character": "Pablo",
+        "credit_id": "67c868d80a00576143c2af6c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33409,
+        "known_for_department": "Acting",
+        "name": "Mabel Rivera",
+        "original_name": "Mabel Rivera",
+        "popularity": 0.591,
+        "profile_path": "/qxz8C0UHfuGNTAQgMTuf40LbwWL.jpg",
+        "cast_id": 6,
+        "character": "Lila",
+        "credit_id": "67c868ea0c65ee9abae71290",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1303016,
+        "known_for_department": "Acting",
+        "name": "Nagore Aranburu",
+        "original_name": "Nagore Aranburu",
+        "popularity": 0.8682,
+        "profile_path": "/ibNfgTrEH7GXaHtPXm1GFO984f3.jpg",
+        "cast_id": 7,
+        "character": "Madre priora",
+        "credit_id": "67c868f1f067bcfd6d6e39d3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5727130,
+        "known_for_department": "Acting",
+        "name": "Lier Alava",
+        "original_name": "Lier Alava",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Gorka",
+        "credit_id": "68e0151c353fcd637e6b87ac",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5727131,
+        "known_for_department": "Acting",
+        "name": "Noe Chiroque",
+        "original_name": "Noe Chiroque",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Sor Aurora",
+        "credit_id": "68e015268878155ac86b87c2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5283378,
+        "known_for_department": "Production",
+        "name": "Bego Aristegui",
+        "original_name": "Bego Aristegui",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Hermana Alazne",
+        "credit_id": "68e01556bbb843eabd08e907",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5727133,
+        "known_for_department": "Acting",
+        "name": "Inigo Onzain",
+        "original_name": "Inigo Onzain",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Notario",
+        "credit_id": "68e01564c26b9c26236b8779",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5781641,
+        "known_for_department": "Acting",
+        "name": "Guille Zani",
+        "original_name": "Guille Zani",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Mikel",
+        "credit_id": "690201a2a5465e7ca1014208",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1130543,
+        "known_for_department": "Acting",
+        "name": "Itziar Aizpuru",
+        "original_name": "Itziar Aizpuru",
+        "popularity": 0.3913,
+        "profile_path": "/mAfhmtaMon9HNKU1nbuFjkmhSNn.jpg",
+        "cast_id": 27,
+        "character": "Hermana Encarnación",
+        "credit_id": "690201daab56044cf9935a90",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2229398,
+        "known_for_department": "Directing",
+        "name": "Alauda Ruiz de Azúa",
+        "original_name": "Alauda Ruiz de Azúa",
+        "popularity": 0.144,
+        "profile_path": "/oRfaZ5YAAZHP507ER1s7NXS3c9.jpg",
+        "credit_id": "67c8688c8fca0c0b03e7061b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1462271,
+        "known_for_department": "Production",
+        "name": "Marisa Fernández Armenteros",
+        "original_name": "Marisa Fernández Armenteros",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "67c8693ad7419cdfd86e3a21",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1592688,
+        "known_for_department": "Directing",
+        "name": "Manuel Calvo",
+        "original_name": "Manuel Calvo",
+        "popularity": 0.5413,
+        "profile_path": null,
+        "credit_id": "67c86945830570d1fdc2aa6b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1115664,
+        "known_for_department": "Production",
+        "name": "Sandra Hermida",
+        "original_name": "Sandra Hermida",
+        "popularity": 0.3747,
+        "profile_path": null,
+        "credit_id": "67c86951830570d1fdc2aa79",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1126105,
+        "known_for_department": "Production",
+        "name": "Nahikari Ipiña",
+        "original_name": "Nahikari Ipiña",
+        "popularity": 0.5227,
+        "profile_path": null,
+        "credit_id": "67c8695f830570d1fdc2aa7f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1334534,
+        "known_for_department": "Camera",
+        "name": "Bet Rourich",
+        "original_name": "Bet Rourich",
+        "popularity": 0.2044,
+        "profile_path": null,
+        "credit_id": "67c86980d7419cdfd86e3a43",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2842097,
+        "known_for_department": "Art",
+        "name": "Zaloa Ziluaga",
+        "original_name": "Zaloa Ziluaga",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "67c8698d830570d1fdc2aa88",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3766879,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ana Martínez Fesser",
+        "original_name": "Ana Martínez Fesser",
+        "popularity": 0.0741,
+        "profile_path": null,
+        "credit_id": "67c8699b830570d1fdc2aa8e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2838983,
+        "known_for_department": "Sound",
+        "name": "Andrea Sáenz Pereiro",
+        "original_name": "Andrea Sáenz Pereiro",
+        "popularity": 0.061,
+        "profile_path": null,
+        "credit_id": "67c869a8f067bcfd6d6e3a20",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2177400,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ainhoa Eskisabel",
+        "original_name": "Ainhoa Eskisabel",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "67c869b90a00576143c2afc4",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2459489,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ione Gabarain",
+        "original_name": "Ione Gabarain",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "67c869c8d7419cdfd86e3aa3",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3236123,
+        "known_for_department": "Editing",
+        "name": "Andrés Gil",
+        "original_name": "Andrés Gil",
+        "popularity": 0.0607,
+        "profile_path": null,
+        "credit_id": "67c869d7f067bcfd6d6e3a30",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2982403,
+        "known_for_department": "Production",
+        "name": "Itziar García Zubiri",
+        "original_name": "Itziar García Zubiri",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "67c869e70a00576143c2afd3",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2229398,
+        "known_for_department": "Directing",
+        "name": "Alauda Ruiz de Azúa",
+        "original_name": "Alauda Ruiz de Azúa",
+        "popularity": 0.144,
+        "profile_path": "/oRfaZ5YAAZHP507ER1s7NXS3c9.jpg",
+        "credit_id": "67c86ae23de30421b7c2a7c7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5727135,
+        "known_for_department": "Sound",
+        "name": "David Cerrejón",
+        "original_name": "David Cerrejón",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "68e015c151c347f6658e6623",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6530,
+        "known_for_department": "Production",
+        "name": "Eva Leira",
+        "original_name": "Eva Leira",
+        "popularity": 0.2166,
+        "profile_path": null,
+        "credit_id": "690202835f84ce224af891e8",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6531,
+        "known_for_department": "Production",
+        "name": "Yolanda Serrano",
+        "original_name": "Yolanda Serrano",
+        "popularity": 0.1615,
+        "profile_path": null,
+        "credit_id": "6902028fa92a14b7ca014257",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2093525,
+        "known_for_department": "Production",
+        "name": "Guillermo Farré",
+        "original_name": "Guillermo Farré",
+        "popularity": 0.0559,
+        "profile_path": null,
+        "credit_id": "690202d60e0d6f9b4d01420a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2524719,
+        "known_for_department": "Production",
+        "name": "Fran Araújo",
+        "original_name": "Fran Araújo",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "690202f8365cab40d4f8923f",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

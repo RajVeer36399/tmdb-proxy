@@ -1,0 +1,251 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 211587,
+  "imdb_id": "tt1196124",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blood Shot",
+  "overview": "Based on the award winning short film, Blood Shot is the story of a cop named Rip whose life falls apart as he chases a terminator-like vampire, who happens to be a hitman for the CIA. They must join forces to stop a terrorist cell before its too late, battling through obstacles such as a harem, giant eunuch, demon-genie, and even explosive midgets.",
+  "popularity": 6.2838,
+  "poster_path": "/nPVdiQzr64bdOQNdiLObbLemvEH.jpg",
+  "production_companies": [
+    {
+      "id": 60605,
+      "logo_path": null,
+      "name": "Fine Lookin' Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 60606,
+      "logo_path": null,
+      "name": "Infinite Justice Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 60607,
+      "logo_path": null,
+      "name": "Andrew Wyly Film Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-08-01",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Blood Shot",
+  "video": false,
+  "vote_average": 4.054,
+  "vote_count": 37,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43458,
+        "known_for_department": "Acting",
+        "name": "Brennan Elliott",
+        "original_name": "Brennan Elliott",
+        "popularity": 0.7298,
+        "profile_path": "/32nFpgZTwXQ9u9JgZnsIlRACv6Q.jpg",
+        "cast_id": 7,
+        "character": "Rip",
+        "credit_id": "55042fd292514174b0000dde",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37008,
+        "known_for_department": "Acting",
+        "name": "Michael Bailey Smith",
+        "original_name": "Michael Bailey Smith",
+        "popularity": 0.461,
+        "profile_path": "/9ajqFWi9JN6LBE0tb0RU3UfwaQu.jpg",
+        "cast_id": 12,
+        "character": "Vampire",
+        "credit_id": "600b24777d5504003dbf6665",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1370,
+        "known_for_department": "Acting",
+        "name": "Brad Dourif",
+        "original_name": "Brad Dourif",
+        "popularity": 1.9962,
+        "profile_path": "/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg",
+        "cast_id": 5,
+        "character": "Bob",
+        "credit_id": "52fe4d98c3a368484e1f1e8d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2714,
+        "known_for_department": "Acting",
+        "name": "Lance Henriksen",
+        "original_name": "Lance Henriksen",
+        "popularity": 2.1882,
+        "profile_path": "/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg",
+        "cast_id": 10,
+        "character": "Sam",
+        "credit_id": "600b21d222e480003effcde7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38559,
+        "known_for_department": "Acting",
+        "name": "Christopher Lambert",
+        "original_name": "Christopher Lambert",
+        "popularity": 2.6631,
+        "profile_path": "/qKmxieTgzvsA5hSA7w1VoHizmmE.jpg",
+        "cast_id": 9,
+        "character": "President",
+        "credit_id": "600b208a0b5fd6003c5978d2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4030,
+        "known_for_department": "Acting",
+        "name": "Martin Klebba",
+        "original_name": "Martin Klebba",
+        "popularity": 0.9202,
+        "profile_path": "/schnhMaXtfv5EC7EJODTgMcfzPe.jpg",
+        "cast_id": 11,
+        "character": "Marud",
+        "credit_id": "600b22130b5fd6003e597de4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117824,
+        "known_for_department": "Acting",
+        "name": "Assaf Cohen",
+        "original_name": "Assaf Cohen",
+        "popularity": 0.7525,
+        "profile_path": "/aoYndszi7wKCWNJr2R8j6Elw55A.jpg",
+        "cast_id": 13,
+        "character": "Hmar",
+        "credit_id": "600b24d5dd83fa003d9078fa",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1195675,
+        "known_for_department": "Acting",
+        "name": "Deke Anderson",
+        "original_name": "Deke Anderson",
+        "popularity": 0.2406,
+        "profile_path": "/cg4hHlYvhNXp6iA6Hy9DqYAm5Fq.jpg",
+        "cast_id": 2,
+        "character": "Informant",
+        "credit_id": "52fe4d98c3a368484e1f1e81",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1195676,
+        "known_for_department": "Acting",
+        "name": "Anthony Batarse",
+        "original_name": "Anthony Batarse",
+        "popularity": 0.5362,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Executioner",
+        "credit_id": "52fe4d98c3a368484e1f1e85",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1195677,
+        "known_for_department": "Acting",
+        "name": "Salman Bokhari",
+        "original_name": "Salman Bokhari",
+        "popularity": 0.0647,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Terrorist",
+        "credit_id": "52fe4d98c3a368484e1f1e89",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65124,
+        "known_for_department": "Acting",
+        "name": "Troy Brenna",
+        "original_name": "Troy Brenna",
+        "popularity": 0.1687,
+        "profile_path": "/warWRxaoKAlbc5g9ne70m74CzDq.jpg",
+        "cast_id": 8,
+        "character": "Genie",
+        "credit_id": "5bf9330fc3a368139801132d",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1195658,
+        "known_for_department": "Directing",
+        "name": "Dietrich Johnston",
+        "original_name": "Dietrich Johnston",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4d98c3a368484e1f1e7d",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

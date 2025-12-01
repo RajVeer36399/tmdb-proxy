@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 283354,
+  "imdb_id": "tt0263260",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Deprem",
+  "overview": "Directed by Serif Gören.",
+  "popularity": 5.8824,
+  "poster_path": "/pwfQXW1XkuqgfhiMBbRMwgU2SBv.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "1976-01-02",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Earthquake",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 556475,
+        "known_for_department": "Acting",
+        "name": "Türkan Şoray",
+        "original_name": "Türkan Şoray",
+        "popularity": 1.5745,
+        "profile_path": "/22DlAPs2dsfghQt8pL2ksEsVuz8.jpg",
+        "cast_id": 0,
+        "character": "",
+        "credit_id": "53cfc920c3a36877610079a2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145409,
+        "known_for_department": "Acting",
+        "name": "Kadir İnanır",
+        "original_name": "Kadir İnanır",
+        "popularity": 1.1191,
+        "profile_path": "/avgjNCMw3eVxBN40L7IbtpgWoos.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "5de7f28a28723c00137804bc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1433074,
+        "known_for_department": "Acting",
+        "name": "Naser Malek Motiee",
+        "original_name": "Naser Malek Motiee",
+        "popularity": 0.4761,
+        "profile_path": "/z8oazZ7KyQzKqp1n4F8NPGC8eAp.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "5b08b7830e0a26458100197f",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150454,
+        "known_for_department": "Directing",
+        "name": "Şerif Gören",
+        "original_name": "Şerif Gören",
+        "popularity": 0.1121,
+        "profile_path": "/qjpiZV3fLPGdlXoTxajsj6ICzCn.jpg",
+        "credit_id": "53cfc93ec3a3687764007a07",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

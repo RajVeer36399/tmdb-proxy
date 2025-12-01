@@ -1,0 +1,493 @@
+{
+  "adult": false,
+  "backdrop_path": "/7icyzsUDsLkNLGdUox9Oxhz2QKZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 932498,
+  "imdb_id": "tt14201484",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Tausend Zeilen",
+  "overview": "Star reporter Lars Bogenius is a respected journalist and knows how to wow his readers and critics with emotional reportage. Emotional, realistic and moving, his style regularly promises to win him the industry's most coveted awards. His publishing house is also grateful to the exceptional journalist, because the paper's numbers are sinking and are being cushioned by Bogenius' reportage, among other things. Everything sounds too good to be true - at least that's the opinion of freelance journalist Juan Romero, who takes on the inconsistencies and looks deeper behind Bogenius' research and reportage. It's a dangerous plan that faces numerous obstacles. But what he discovers turns out to be the biggest journalism scandal in Germany.",
+  "popularity": 6.5339,
+  "poster_path": "/rzH9z7iqvSS4EzwYekTlIYucOuH.jpg",
+  "production_companies": [
+    {
+      "id": 24307,
+      "logo_path": "/xJo66MG6C99FeO81ddXVswjEmSB.png",
+      "name": "UFA Fiction",
+      "origin_country": "DE"
+    },
+    {
+      "id": 96105,
+      "logo_path": "/yTIbkYK1VGE64FSFqPj5jGDvLG.png",
+      "name": "Warner Bros. Film Productions Germany",
+      "origin_country": "DE"
+    },
+    {
+      "id": 64150,
+      "logo_path": null,
+      "name": "Feine Filme",
+      "origin_country": "DE"
+    },
+    {
+      "id": 238206,
+      "logo_path": null,
+      "name": "Fresco Film",
+      "origin_country": "ES"
+    },
+    {
+      "id": 62029,
+      "logo_path": null,
+      "name": "Fremantle Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1080,
+      "logo_path": "/6bZ0BiLDzCZSqVCjiSqweWwp9Ew.png",
+      "name": "Beta Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2022-09-29",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Thousand Lines",
+  "video": false,
+  "vote_average": 5.986,
+  "vote_count": 35,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25409,
+        "known_for_department": "Acting",
+        "name": "Elyas M'Barek",
+        "original_name": "Elyas M'Barek",
+        "popularity": 1.0279,
+        "profile_path": "/3MnTQczEaDsUOXaojXre6mOjxZi.jpg",
+        "cast_id": 2,
+        "character": "Juan Romero",
+        "credit_id": "6348aacb4813820085d80e9d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585492,
+        "known_for_department": "Acting",
+        "name": "Jonas Nay",
+        "original_name": "Jonas Nay",
+        "popularity": 0.7576,
+        "profile_path": "/bBzLIK6mS6PIqxGy7EydONZdZ1z.jpg",
+        "cast_id": 1,
+        "character": "Lars Bogenius",
+        "credit_id": "61f5e16ce488600111675e4a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85785,
+        "known_for_department": "Acting",
+        "name": "Michael Ostrowski",
+        "original_name": "Michael Ostrowski",
+        "popularity": 0.3935,
+        "profile_path": "/vFKDJSCcGexRC0SI9WDcrbnzDCq.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6348aaff501cf2007a1e386f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938344,
+        "known_for_department": "Acting",
+        "name": "Michael Maertens",
+        "original_name": "Michael Maertens",
+        "popularity": 0.2406,
+        "profile_path": "/oTyDrKdZUlGf3SEBwH3vStDalQu.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "6348ab0d072166008dca175d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1026208,
+        "known_for_department": "Acting",
+        "name": "Jörg Hartmann",
+        "original_name": "Jörg Hartmann",
+        "popularity": 0.4771,
+        "profile_path": "/dsII34HfF6ZWWGjvZ0iiSlpgAQU.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6348ab05eec5b5007961a193",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1195041,
+        "known_for_department": "Acting",
+        "name": "Marie Burchard",
+        "original_name": "Marie Burchard",
+        "popularity": 0.0952,
+        "profile_path": "/dLbJ29tKF0jOcYxnQo0ubobBW2l.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6348aaf82c6b7b007efe3f97",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1200347,
+        "known_for_department": "Acting",
+        "name": "Sara Fazilat",
+        "original_name": "Sara Fazilat",
+        "popularity": 0.4958,
+        "profile_path": "/zCqiLQTdgmSze2TvLLHwPEfBbmS.jpg",
+        "cast_id": 18,
+        "character": "Yasmin",
+        "credit_id": "645397cb091e62018650714d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148556,
+        "known_for_department": "Acting",
+        "name": "Kurt Krömer",
+        "original_name": "Kurt Krömer",
+        "popularity": 0.8386,
+        "profile_path": "/x0pxzMPfaUVWNrZAVfSJfIiTF5I.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6348ab12b7abb5007ed4877b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2757787,
+        "known_for_department": "Acting",
+        "name": "Ibrahim Al-Khalil",
+        "original_name": "Ibrahim Al-Khalil",
+        "popularity": 0.051,
+        "profile_path": "/oAfrSF3r3JE5TZqRkUZ2adf5xlF.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "6499857eb3440900ffed4676",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18934,
+        "known_for_department": "Acting",
+        "name": "David Baalcke",
+        "original_name": "David Baalcke",
+        "popularity": 0.0863,
+        "profile_path": "/9cbmjXA4LwecYpnrADiixSCzJbZ.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "6499858beb79c200e29fd672",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1819902,
+        "known_for_department": "Acting",
+        "name": "Christian David Gebert",
+        "original_name": "Christian David Gebert",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6499859e955c6500c7af9133",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49491,
+        "known_for_department": "Acting",
+        "name": "Jeff Burrell",
+        "original_name": "Jeff Burrell",
+        "popularity": 0.2367,
+        "profile_path": "/hOV8GS6nu53nqc8ytWEooe3Z81X.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "649985aa955c650124292a1b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1326211,
+        "known_for_department": "Acting",
+        "name": "Marcus Morlinghaus",
+        "original_name": "Marcus Morlinghaus",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "649985b3eb79c20139ea2d07",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2965873,
+        "known_for_department": "Acting",
+        "name": "Smilla Löhr",
+        "original_name": "Smilla Löhr",
+        "popularity": 0.0338,
+        "profile_path": "/fAThH5FqsxUI7CrKQ94T77LEbs5.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "649985c26f43ec00ac3c0c6a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2965872,
+        "known_for_department": "Acting",
+        "name": "Alma Löhr",
+        "original_name": "Alma Löhr",
+        "popularity": 0.2162,
+        "profile_path": "/1tJKNxW5beo7PYdSqECKRURU0Wy.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "649985cb955c6500c7af915e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4131917,
+        "known_for_department": "Acting",
+        "name": "Milena Kaltenbach",
+        "original_name": "Milena Kaltenbach",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "649986026f43ec00ffa3795e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1826001,
+        "known_for_department": "Acting",
+        "name": "Alexander J. Beck",
+        "original_name": "Alexander J. Beck",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "6499862deb79c200ff01af02",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112241,
+        "known_for_department": "Acting",
+        "name": "Christian Heiner Wolf",
+        "original_name": "Christian Heiner Wolf",
+        "popularity": 0.0542,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "6499865462f335014629aa8e",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5373150,
+        "known_for_department": "Acting",
+        "name": "Juan Carlos Ramil",
+        "original_name": "Juan Carlos Ramil",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Spartan",
+        "credit_id": "67fe20b4d645e41e099915f2",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1565939,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Janne Birck",
+        "original_name": "Janne Birck",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "634c3b83389da1007c67f845",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8805,
+        "known_for_department": "Art",
+        "name": "Bernd Lepel",
+        "original_name": "Bernd Lepel",
+        "popularity": 0.2201,
+        "profile_path": null,
+        "credit_id": "634c3b79c175b2007a5a6551",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57106,
+        "known_for_department": "Editing",
+        "name": "Alexander Dittner",
+        "original_name": "Alexander Dittner",
+        "popularity": 0.1307,
+        "profile_path": "/jmAY3PJHH9nFuNywwCOtRZlxJ70.jpg",
+        "credit_id": "634c3ba3af58cb007a3d094d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68347,
+        "known_for_department": "Production",
+        "name": "Hermann Florin",
+        "original_name": "Hermann Florin",
+        "popularity": 0.0714,
+        "profile_path": null,
+        "credit_id": "634c3bc112eb890082c4ddec",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 202339,
+        "known_for_department": "Writing",
+        "name": "Juan Moreno",
+        "original_name": "Juan Moreno",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "634c3c0741429100988305d1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1703423,
+        "known_for_department": "Production",
+        "name": "Sebastian Werninger",
+        "original_name": "Sebastian Werninger",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "634c3bcc389da1007c67f860",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18072,
+        "known_for_department": "Acting",
+        "name": "Michael Herbig",
+        "original_name": "Michael Herbig",
+        "popularity": 0.678,
+        "profile_path": "/93PW1NGTkcYxgCfPfd0m4xa7rHJ.jpg",
+        "credit_id": "634c3b97389da1007c67f84c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1872,
+        "known_for_department": "Camera",
+        "name": "Torsten Breuer",
+        "original_name": "Torsten Breuer",
+        "popularity": 0.925,
+        "profile_path": null,
+        "credit_id": "634c3b8d8d52c9007968d80a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68347,
+        "known_for_department": "Production",
+        "name": "Hermann Florin",
+        "original_name": "Hermann Florin",
+        "popularity": 0.0714,
+        "profile_path": null,
+        "credit_id": "634c3bf320e6a50098d24a7c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37031,
+        "known_for_department": "Sound",
+        "name": "Ralf Wengenmayr",
+        "original_name": "Ralf Wengenmayr",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "66e7efadd7bcca524db0fc22",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

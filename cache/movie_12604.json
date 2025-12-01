@@ -1,0 +1,359 @@
+{
+  "adult": false,
+  "backdrop_path": "/dDxew0gMKv7Y7hT8SGuMa1rWHHe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12604,
+  "imdb_id": "tt0439695",
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Masjävlar",
+  "overview": "Mia returns from Stockholm to her parents' home in a small town in Dalecarlia (Dalarna) to celebrate her father's 70th birthday. Her elder sisters Eivor and Gunilla welcome her, but their different lifestyles prevent them from really communicating. The tension builds, and the party that should be a celebration turns out to be a turning point for the family and their friends",
+  "popularity": 6.7017,
+  "poster_path": "/kNRtHq5QiyI0n3OV2IKq3pOhMtu.jpg",
+  "production_companies": [
+    {
+      "id": 321,
+      "logo_path": "/pfp6VWF3tYfOHHVRHpYe2iGcYrf.png",
+      "name": "Memfis Film",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    },
+    {
+      "id": 76,
+      "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2004-12-17",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dalecarlians",
+  "video": false,
+  "vote_average": 5.818,
+  "vote_count": 44,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55885,
+        "known_for_department": "Acting",
+        "name": "Sofia Helin",
+        "original_name": "Sofia Helin",
+        "popularity": 1.4704,
+        "profile_path": "/aOzrZ51r9sPAE8sJvQm2LuZ3hYc.jpg",
+        "cast_id": 1,
+        "character": "Mia",
+        "credit_id": "52fe45059251416c75048f3f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47071,
+        "known_for_department": "Acting",
+        "name": "Kajsa Ernst",
+        "original_name": "Kajsa Ernst",
+        "popularity": 0.9095,
+        "profile_path": "/jjUamdRJAKZ0YjZZZYj36uWOAXf.jpg",
+        "cast_id": 2,
+        "character": "Eivor",
+        "credit_id": "52fe45059251416c75048f43",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73070,
+        "known_for_department": "Acting",
+        "name": "Ann Petrén",
+        "original_name": "Ann Petrén",
+        "popularity": 0.9708,
+        "profile_path": "/gs73ZPtFQ7Ei49n7vqUYFgluKiu.jpg",
+        "cast_id": 3,
+        "character": "Gunilla",
+        "credit_id": "52fe45059251416c75048f47",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73071,
+        "known_for_department": "Acting",
+        "name": "Barbro Enberg",
+        "original_name": "Barbro Enberg",
+        "popularity": 0.0661,
+        "profile_path": "/q3mlIUg13eZFtkC2Bs7sL12XwLQ.jpg",
+        "cast_id": 4,
+        "character": "Barbro",
+        "credit_id": "52fe45059251416c75048f4b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 213487,
+        "known_for_department": "Acting",
+        "name": "Cecilia Forss",
+        "original_name": "Cecilia Forss",
+        "popularity": 0.4598,
+        "profile_path": "/mutGaRS2YbySqxyUvGQNYWLeJKX.jpg",
+        "cast_id": 12,
+        "character": "Helena",
+        "credit_id": "52fe45059251416c75048f79",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1487170,
+        "known_for_department": "Acting",
+        "name": "Joakim Lindblad",
+        "original_name": "Joakim Lindblad",
+        "popularity": 0.0648,
+        "profile_path": "/kGnY1klQjmf8TswevI6nGcPC7xG.jpg",
+        "cast_id": 14,
+        "character": "Jan-Olof",
+        "credit_id": "59b91b969251417df8011a71",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231934,
+        "known_for_department": "Acting",
+        "name": "Inga Ålenius",
+        "original_name": "Inga Ålenius",
+        "popularity": 0.1182,
+        "profile_path": "/d6S3WZyDHOT1LGCWxm4qGW8ah9x.jpg",
+        "cast_id": 15,
+        "character": "Anna",
+        "credit_id": "59b91ce79251417e080113cf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87726,
+        "known_for_department": "Acting",
+        "name": "Willie Andréason",
+        "original_name": "Willie Andréason",
+        "popularity": 0.1751,
+        "profile_path": "/4d0L3ZUXV9pJxXIiNqzUYO7dg3U.jpg",
+        "cast_id": 16,
+        "character": "Calle",
+        "credit_id": "59b91dad9251417e5d010ed4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 226685,
+        "known_for_department": "Acting",
+        "name": "Peter Jankert",
+        "original_name": "Peter Jankert",
+        "popularity": 0.047,
+        "profile_path": "/vvwyZafiMOSY9xokMqbrdHpAKHa.jpg",
+        "cast_id": 17,
+        "character": "Tommy",
+        "credit_id": "59b921bdc3a36813d3011cd4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1168428,
+        "known_for_department": "Acting",
+        "name": "Alf Nilsson",
+        "original_name": "Alf Nilsson",
+        "popularity": 0.0613,
+        "profile_path": "/rWujsdcFG4j5XUAavlds4uKuE50.jpg",
+        "cast_id": 18,
+        "character": "Tore",
+        "credit_id": "59b92600c3a3681405011ead",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73074,
+        "known_for_department": "Sound",
+        "name": "Anders Nygårds",
+        "original_name": "Anders Nygårds",
+        "popularity": 0.0387,
+        "profile_path": "/lkPwKSUx0tiD46jlO0a4zH9khRf.jpg",
+        "cast_id": 19,
+        "character": "Spelman",
+        "credit_id": "59b9298ec3a36813f20114a7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1887281,
+        "known_for_department": "Acting",
+        "name": "Anita Nyman",
+        "original_name": "Anita Nyman",
+        "popularity": 0.051,
+        "profile_path": "/iLzBN95mPdCkuUBjrScy1w5JDm.jpg",
+        "cast_id": 20,
+        "character": "Kerstin",
+        "credit_id": "59b92b2b9251417e23011bb3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 997649,
+        "known_for_department": "Acting",
+        "name": "Sofia Rönnegård",
+        "original_name": "Sofia Rönnegård",
+        "popularity": 0.8021,
+        "profile_path": "/9UKydSB4wVrmtdt8JgofWNsMpG5.jpg",
+        "cast_id": 21,
+        "character": "Brita i blomsteraffären",
+        "credit_id": "59b92bdfc3a36813d3012682",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73072,
+        "known_for_department": "Directing",
+        "name": "Maria Blom",
+        "original_name": "Maria Blom",
+        "popularity": 0.1613,
+        "profile_path": null,
+        "credit_id": "52fe45059251416c75048f51",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11053,
+        "known_for_department": "Production",
+        "name": "Lars Jönsson",
+        "original_name": "Lars Jönsson",
+        "popularity": 0.7268,
+        "profile_path": "/r25sTmwMi73MAiG6o6kpnmVKryw.jpg",
+        "credit_id": "52fe45059251416c75048f5d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73074,
+        "known_for_department": "Sound",
+        "name": "Anders Nygårds",
+        "original_name": "Anders Nygårds",
+        "popularity": 0.0387,
+        "profile_path": "/lkPwKSUx0tiD46jlO0a4zH9khRf.jpg",
+        "credit_id": "52fe45059251416c75048f63",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68572,
+        "known_for_department": "Camera",
+        "name": "Peter Mokrosinski",
+        "original_name": "Peter Mokrosinski",
+        "popularity": 0.3376,
+        "profile_path": null,
+        "credit_id": "52fe45059251416c75048f69",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73075,
+        "known_for_department": "Editing",
+        "name": "Petra Ahlin",
+        "original_name": "Petra Ahlin",
+        "popularity": 0.0592,
+        "profile_path": null,
+        "credit_id": "52fe45059251416c75048f6f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11233,
+        "known_for_department": "Editing",
+        "name": "Michał Leszczyłowski",
+        "original_name": "Michał Leszczyłowski",
+        "popularity": 0.1734,
+        "profile_path": null,
+        "credit_id": "52fe45059251416c75048f75",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73072,
+        "known_for_department": "Directing",
+        "name": "Maria Blom",
+        "original_name": "Maria Blom",
+        "popularity": 0.1613,
+        "profile_path": null,
+        "credit_id": "5353d64cc3a3681d8d0040af",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

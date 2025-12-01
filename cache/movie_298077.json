@@ -1,0 +1,370 @@
+{
+  "adult": false,
+  "backdrop_path": "/wBAGBQ0Pp0iy9lmQQRry7b2NvIc.jpg",
+  "belongs_to_collection": {
+    "id": 773878,
+    "name": "Ambition Collection",
+    "poster_path": "/u9xyBSY39UTxaDzuEUDSBi8e25D.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://ambitionfilm.com/",
+  "id": 298077,
+  "imdb_id": "tt4127138",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "en",
+  "original_title": "Ambition",
+  "overview": "A young apprentice struggles to master nanotechnology on an alien world and prove herself to her enigmatic master. Will her herculean goals remain tantalizingly out of reach, or will she fulfill them and in the process, change life as we know it?",
+  "popularity": 9.1595,
+  "poster_path": "/42WGSYe1jVTf2EucWPaT1ykVW1V.jpg",
+  "production_companies": [
+    {
+      "id": 36414,
+      "logo_path": null,
+      "name": "Platige Image",
+      "origin_country": "PL"
+    },
+    {
+      "id": 126857,
+      "logo_path": "/z39RbTsuTHdBwSCHI290MQsNw06.png",
+      "name": "European Space Agency (ESA)",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2014-10-24",
+  "revenue": 0,
+  "runtime": 6,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ambition",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 50,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49735,
+        "known_for_department": "Acting",
+        "name": "Aidan Gillen",
+        "original_name": "Aidan Gillen",
+        "popularity": 4.2136,
+        "profile_path": "/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg",
+        "cast_id": 0,
+        "character": "Master",
+        "credit_id": "544296bdc3a3683e08002394",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1323109,
+        "known_for_department": "Acting",
+        "name": "Aisling Franciosi",
+        "original_name": "Aisling Franciosi",
+        "popularity": 1.4192,
+        "profile_path": "/pE5GpcsMbFd3ZFGeiaTIvfapV6m.jpg",
+        "cast_id": 1,
+        "character": "Apprentice",
+        "credit_id": "544296ca0e0a26634d0023d3",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80577,
+        "known_for_department": "Directing",
+        "name": "Tomek Bagiński",
+        "original_name": "Tomek Bagiński",
+        "popularity": 0.3651,
+        "profile_path": "/9XbvdXNL2sAojid4f5jv3VwW6FZ.jpg",
+        "credit_id": "544296e90e0a26633300273b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378472,
+        "known_for_department": "Editing",
+        "name": "Wojciech Jagiełło",
+        "original_name": "Wojciech Jagiełło",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "544ed02f0e0a264c9a000afe",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1378475,
+        "known_for_department": "Art",
+        "name": "Jakub Knapik",
+        "original_name": "Jakub Knapik",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "544ed0ff0e0a26421e000b69",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1378474,
+        "known_for_department": "Sound",
+        "name": "Atanas Valkov",
+        "original_name": "Atanas Valkov",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "544ed07cc3a3684a380002a5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1378467,
+        "known_for_department": "Writing",
+        "name": "Jan Pomierny",
+        "original_name": "Jan Pomierny",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "544ed1480e0a26092900059c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378469,
+        "known_for_department": "Production",
+        "name": "Afolabi Kuti",
+        "original_name": "Afolabi Kuti",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "544ecfbdc3a3684a3800028a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1378473,
+        "known_for_department": "Acting",
+        "name": "Malwina Wędzikowska",
+        "original_name": "Malwina Wędzikowska",
+        "popularity": 0.0168,
+        "profile_path": "/3LhanPQGTeslyLegXiBsrnuhYTJ.jpg",
+        "credit_id": "544ed05f0e0a263c71000a98",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378479,
+        "known_for_department": "Visual Effects",
+        "name": "Piotr Sikora",
+        "original_name": "Piotr Sikora",
+        "popularity": 0.1041,
+        "profile_path": "/4Pm9JPrcZStDTvKrFWsGEK9Dkuf.jpg",
+        "credit_id": "544ed2140e0a26421e000b7c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1378477,
+        "known_for_department": "Production",
+        "name": "Mark Mccaughrean",
+        "original_name": "Mark Mccaughrean",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "544ed18ec3a3682dab0001a7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378478,
+        "known_for_department": "Production",
+        "name": "Jarosław Sawko",
+        "original_name": "Jarosław Sawko",
+        "popularity": 0.9738,
+        "profile_path": "/nPtLzioKqCXrZpOSCaQu8N62yY3.jpg",
+        "credit_id": "544ed1fc0e0a264c9a000b28",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2073,
+        "known_for_department": "Production",
+        "name": "Gail Stevens",
+        "original_name": "Gail Stevens",
+        "popularity": 0.1332,
+        "profile_path": null,
+        "credit_id": "544ece840e0a2655d400007b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1378476,
+        "known_for_department": "Production",
+        "name": "Anna Różalska",
+        "original_name": "Anna Różalska",
+        "popularity": 0.2619,
+        "profile_path": "/iVOYgh6bRTnmwzGfp6mbjim3Adl.jpg",
+        "credit_id": "544ed16cc3a368565d000b39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1378480,
+        "known_for_department": "Production",
+        "name": "Markus Bauer",
+        "original_name": "Markus Bauer",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "544ed22b0e0a26421e000b86",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1378481,
+        "known_for_department": "Production",
+        "name": "Krzysztof Szulc",
+        "original_name": "Krzysztof Szulc",
+        "popularity": 0.3398,
+        "profile_path": null,
+        "credit_id": "544ed253c3a3686376000ad7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 567185,
+        "known_for_department": "Production",
+        "name": "Marcin Kobylecki",
+        "original_name": "Marcin Kobylecki",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "544ed1c9c3a36855d1000721",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1497639,
+        "known_for_department": "Camera",
+        "name": "Wojciech Zieliński",
+        "original_name": "Wojciech Zieliński",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "55d1adaa925141319f00a270",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80577,
+        "known_for_department": "Directing",
+        "name": "Tomek Bagiński",
+        "original_name": "Tomek Bagiński",
+        "popularity": 0.3651,
+        "profile_path": "/9XbvdXNL2sAojid4f5jv3VwW6FZ.jpg",
+        "credit_id": "5915579bc3a368371b00a40e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2886035,
+        "known_for_department": "Visual Effects",
+        "name": "Waldemar Woźniak",
+        "original_name": "Waldemar Woźniak",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "6644c41c855bea90f21c80b9",
+        "department": "Visual Effects",
+        "job": "3D Generalist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1378465,
+        "known_for_department": "Writing",
+        "name": "Jacek Dukaj",
+        "original_name": "Jacek Dukaj",
+        "popularity": 0.0482,
+        "profile_path": null,
+        "credit_id": "66557e11456c1e34c1360af6",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1497636,
+        "known_for_department": "Camera",
+        "name": "Adam Mendry",
+        "original_name": "Adam Mendry",
+        "popularity": 0.8035,
+        "profile_path": null,
+        "credit_id": "66d33932bf9c4462cc9ba8ef",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "adult": false,
+  "backdrop_path": "/gdTLfLr939LxgDphMsEsZOMDh1y.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 157687,
+  "imdb_id": "tt0070642",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Scalawag",
+  "overview": "A crew of land locked pirates, led by the aptly named Peg, go in search of buried treasure hidden by the treacherous Mudhook and his twin brother. They meet up with good natured landowner, Don Aragon, who goes along for the ride with his sister and a young boy, Jamie. Along the way, Peg and Jamie form a father son relationship that is put to the test due to Peg's naturally dishonest ways.",
+  "popularity": 7.4093,
+  "poster_path": "/eNIha4NdstR9y6Xg9nmVUJMN3vm.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1798,
+      "logo_path": null,
+      "name": "Oceania Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 611,
+      "logo_path": null,
+      "name": "Bryna Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "release_date": "1973-04-22",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's Long John Silver and Jesse James rolled into one!",
+  "title": "Scalawag",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090,
+        "known_for_department": "Acting",
+        "name": "Kirk Douglas",
+        "original_name": "Kirk Douglas",
+        "popularity": 0.9003,
+        "profile_path": "/t94It9bPI6uBvNuuQlQipyYyURC.jpg",
+        "cast_id": 2,
+        "character": "Peg",
+        "credit_id": "52fe4bcd9251416c910e6203",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25638,
+        "known_for_department": "Acting",
+        "name": "Mark Lester",
+        "original_name": "Mark Lester",
+        "popularity": 0.7047,
+        "profile_path": "/3YT1eriyc6M0scXZO9hmpSWpKdj.jpg",
+        "cast_id": 3,
+        "character": "Jamie",
+        "credit_id": "52fe4bcd9251416c910e6207",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33807,
+        "known_for_department": "Acting",
+        "name": "George Eastman",
+        "original_name": "George Eastman",
+        "popularity": 0.9504,
+        "profile_path": "/ehjBEKKfk9Bx5l22JvUSPbdv64c.jpg",
+        "cast_id": 20,
+        "character": "Don Aragon",
+        "credit_id": "533452ccc3a3682a8e00244b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57399,
+        "known_for_department": "Acting",
+        "name": "Lesley-Anne Down",
+        "original_name": "Lesley-Anne Down",
+        "popularity": 1.6488,
+        "profile_path": "/1Q9Ph47aBL5BCYowdSEBj58msky.jpg",
+        "cast_id": 5,
+        "character": "Lucy-Ann",
+        "credit_id": "52fe4bcd9251416c910e620f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 518,
+        "known_for_department": "Acting",
+        "name": "Danny DeVito",
+        "original_name": "Danny DeVito",
+        "popularity": 3.1848,
+        "profile_path": "/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg",
+        "cast_id": 6,
+        "character": "Fly Speck",
+        "credit_id": "52fe4bcd9251416c910e6213",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9112,
+        "known_for_department": "Acting",
+        "name": "Neville Brand",
+        "original_name": "Neville Brand",
+        "popularity": 0.5532,
+        "profile_path": "/ndh2KmCzWtIQ9MQO0xoTOZDCQZk.jpg",
+        "cast_id": 10,
+        "character": "Brimstone / Mudhook",
+        "credit_id": "52fe4bcd9251416c910e6229",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69494,
+        "known_for_department": "Acting",
+        "name": "Don Stroud",
+        "original_name": "Don Stroud",
+        "popularity": 0.6945,
+        "profile_path": "/nuFfAKgx4I2S5DPI7QbklE9xy07.jpg",
+        "cast_id": 11,
+        "character": "Velvet",
+        "credit_id": "52fe4bcd9251416c910e622d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33923,
+        "known_for_department": "Acting",
+        "name": "Mel Blanc",
+        "original_name": "Mel Blanc",
+        "popularity": 0.7183,
+        "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+        "cast_id": 12,
+        "character": "Barfly the Parrot (voice)",
+        "credit_id": "52fe4bcd9251416c910e6231",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33032,
+        "known_for_department": "Acting",
+        "name": "Phil Brown",
+        "original_name": "Phil Brown",
+        "popularity": 0.3462,
+        "profile_path": "/bzX8avS5m0aODFh4VZaMs0lJnyX.jpg",
+        "cast_id": 13,
+        "character": "Sandy",
+        "credit_id": "52fe4bcd9251416c910e6235",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1047154,
+        "known_for_department": "Acting",
+        "name": "Davor Antolić",
+        "original_name": "Davor Antolić",
+        "popularity": 0.7521,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Rooster",
+        "credit_id": "52fe4bcd9251416c910e6239",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1047159,
+        "known_for_department": "Acting",
+        "name": "Stole Aranđelović",
+        "original_name": "Stole Aranđelović",
+        "popularity": 0.2095,
+        "profile_path": "/uqBuL8NQTgyDfHZEgKdkuR1nXgI.jpg",
+        "cast_id": 15,
+        "character": "Beanbelly",
+        "credit_id": "52fe4bcd9251416c910e623d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 260683,
+        "known_for_department": "Acting",
+        "name": "Fabijan Šovagović",
+        "original_name": "Fabijan Šovagović",
+        "popularity": 0.1871,
+        "profile_path": "/4Ahlu8Ru5kpooJbT1BoUPj1ZdG4.jpg",
+        "cast_id": 16,
+        "character": "Blackfoot",
+        "credit_id": "52fe4bcd9251416c910e6241",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1090826,
+        "known_for_department": "Writing",
+        "name": "Albert Sidney Fleischman",
+        "original_name": "Albert Sidney Fleischman",
+        "popularity": 0.6561,
+        "profile_path": null,
+        "credit_id": "52fe4bcd9251416c910e6247",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090,
+        "known_for_department": "Acting",
+        "name": "Kirk Douglas",
+        "original_name": "Kirk Douglas",
+        "popularity": 0.9003,
+        "profile_path": "/t94It9bPI6uBvNuuQlQipyYyURC.jpg",
+        "credit_id": "52fe4bcd9251416c910e61ff",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9582,
+        "known_for_department": "Editing",
+        "name": "John C. Howard",
+        "original_name": "John C. Howard",
+        "popularity": 0.0499,
+        "profile_path": null,
+        "credit_id": "52fe4bcd9251416c910e621f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33808,
+        "known_for_department": "Editing",
+        "name": "Antonietta Zita",
+        "original_name": "Antonietta Zita",
+        "popularity": 0.0846,
+        "profile_path": null,
+        "credit_id": "52fe4bcd9251416c910e6225",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29533,
+        "known_for_department": "Writing",
+        "name": "Robert Louis Stevenson",
+        "original_name": "Robert Louis Stevenson",
+        "popularity": 0.316,
+        "profile_path": "/4gHYG4Gn1uxmG0k1gilfp8cwdBX.jpg",
+        "credit_id": "52fe4bcd9251416c910e6253",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70940,
+        "known_for_department": "Writing",
+        "name": "Albert Maltz",
+        "original_name": "Albert Maltz",
+        "popularity": 0.3485,
+        "profile_path": "/78WJhjo9PaXehYUjqChIHKLfSs3.jpg",
+        "credit_id": "52fe4bcd9251416c910e624d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6603,
+        "known_for_department": "Camera",
+        "name": "Jack Cardiff",
+        "original_name": "Jack Cardiff",
+        "popularity": 0.2113,
+        "profile_path": "/eBO70vjLsISADqr1xgSK7MucN39.jpg",
+        "credit_id": "53788344c3a368553a003773",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213347,
+        "known_for_department": "Directing",
+        "name": "Zoran Čalić",
+        "original_name": "Zoran Čalić",
+        "popularity": 0.0718,
+        "profile_path": "/xPSyI8mtYz594JyN2GYorVvbz1d.jpg",
+        "credit_id": "599d6cd59251411ef301c0b7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090,
+        "known_for_department": "Acting",
+        "name": "Kirk Douglas",
+        "original_name": "Kirk Douglas",
+        "popularity": 0.9003,
+        "profile_path": "/t94It9bPI6uBvNuuQlQipyYyURC.jpg",
+        "credit_id": "599d6ce3c3a36828a0019aa9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19043,
+        "known_for_department": "Sound",
+        "name": "John Cameron",
+        "original_name": "John Cameron",
+        "popularity": 0.1085,
+        "profile_path": null,
+        "credit_id": "6658cad17666fb6f3b6c25ac",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

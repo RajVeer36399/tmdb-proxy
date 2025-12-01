@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/bzsSZMcAlraVBc6ZnLp8XQuLy1t.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1185153,
+  "imdb_id": null,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "bn",
+  "original_title": "Joy Ma Kali Boarding",
+  "overview": "To secure a couple-only accommodation, two desperate men hire their actor friends as their wives. But the quick solution soon snowballs into a comedy of error.",
+  "popularity": 5.3679,
+  "poster_path": "/97mFXtgVfewCMzcvJy29Rif5td4.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2020-12-25",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Joy Ma Kali Boarding",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1392278,
+        "known_for_department": "Acting",
+        "name": "Biswanath Basu",
+        "original_name": "Biswanath Basu",
+        "popularity": 0.46,
+        "profile_path": "/2du8ue0P7ewiy5YzIPsCUYxVc9x.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "657c5452ea394900aab82a1a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2219427,
+        "known_for_department": "Acting",
+        "name": "Anirban Chakrabarti",
+        "original_name": "Anirban Chakrabarti",
+        "popularity": 0.8535,
+        "profile_path": "/uhanQnzgk3leLGdE5tAeiRgtX9g.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "657c5459ea394900aab82a1f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2983976,
+        "known_for_department": "Acting",
+        "name": "Kinjal Nanda",
+        "original_name": "Kinjal Nanda",
+        "popularity": 0.1909,
+        "profile_path": "/62HvnFq1purlcFj8503X2VOZ4Pg.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6607331ca894d6013061ff97",
+        "order": 2
+      }
+    ],
+    "crew": []
+  }
+}

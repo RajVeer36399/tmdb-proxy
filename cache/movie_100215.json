@@ -1,0 +1,392 @@
+{
+  "adult": false,
+  "backdrop_path": "/jDiv0GWoulxwDCTfO0ErA2VpjEX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 100215,
+  "imdb_id": "tt0083872",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Egymásra nézve",
+  "overview": "Political and sexual repression in Hungary, just after the revolution of 1956. Passionate and determined, Eva gets a job as a journalist. There, she meets Livia and is attracted to her. Livia feels much the same, but as a married woman, has doubts and hesitations. In their work, they (and Eva in particular) bang up against the limits of telling political truths; in private, they confront the limits of living out sexual and emotional truth.",
+  "popularity": 5.6789,
+  "poster_path": "/ly5f3QlR9XSEMnpR6ltItE2lGfH.jpg",
+  "production_companies": [
+    {
+      "id": 31317,
+      "logo_path": null,
+      "name": "Meridian Films",
+      "origin_country": ""
+    },
+    {
+      "id": 8100,
+      "logo_path": "/1HuVRo0SYPSzYvduxVf4baaWqOI.png",
+      "name": "Mafilm",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "1982-05-01",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Another Way",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 16,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1138528,
+        "known_for_department": "Acting",
+        "name": "Jadwiga Jankowska-Cieślak",
+        "original_name": "Jadwiga Jankowska-Cieślak",
+        "popularity": 0.1399,
+        "profile_path": "/AncyBiu4gNj8W81X7ATOyHd3ARh.jpg",
+        "cast_id": 2,
+        "character": "Éva Szalánczky",
+        "credit_id": "52fe49d0c3a36847f81a7a0f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1384,
+        "known_for_department": "Acting",
+        "name": "Grażyna Szapołowska",
+        "original_name": "Grażyna Szapołowska",
+        "popularity": 0.2583,
+        "profile_path": "/pjI5gFihRcpee7nWJs2CFPIrQgZ.jpg",
+        "cast_id": 1,
+        "character": "Livia Horváth",
+        "credit_id": "52fe49d0c3a36847f81a7a0b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124143,
+        "known_for_department": "Acting",
+        "name": "Jozef Kroner",
+        "original_name": "Jozef Kroner",
+        "popularity": 0.7254,
+        "profile_path": "/dBCD9Gg3P9JTwtg6fwlckyBpg7z.jpg",
+        "cast_id": 18,
+        "character": "Comrade Erdõs",
+        "credit_id": "564ad73b9251417c46001e28",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125763,
+        "known_for_department": "Acting",
+        "name": "Péter Andorai",
+        "original_name": "Péter Andorai",
+        "popularity": 0.2382,
+        "profile_path": "/wu7abYOqJGwnB1MB7uiwjcheJhj.jpg",
+        "cast_id": 20,
+        "character": "Dönci Horvath",
+        "credit_id": "564ad7689251414dcb0026bd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1076604,
+        "known_for_department": "Acting",
+        "name": "Ádám Szirtes",
+        "original_name": "Ádám Szirtes",
+        "popularity": 0.3864,
+        "profile_path": "/utK6ACYr8H5pL4sa6YLjycZcvsn.jpg",
+        "cast_id": 21,
+        "character": "Major Blindics",
+        "credit_id": "564ad775c3a3686024002924",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 102506,
+        "known_for_department": "Acting",
+        "name": "Judit Pogány",
+        "original_name": "Judit Anna Pogány",
+        "popularity": 0.1075,
+        "profile_path": "/7paW22CrXfvMfLgngqPTeUFdfob.jpg",
+        "cast_id": 22,
+        "character": "Magda",
+        "credit_id": "564ad782c3a368602b00272e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89634,
+        "known_for_department": "Acting",
+        "name": "Gábor Reviczky",
+        "original_name": "Gábor Reviczky",
+        "popularity": 0.3935,
+        "profile_path": "/2yVvRLpUkBPeKbmQIfaadImiKxX.jpg",
+        "cast_id": 23,
+        "character": "Fiola",
+        "credit_id": "564ad7959251414dd100270b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56311,
+        "known_for_department": "Acting",
+        "name": "Dénes Ujlaki",
+        "original_name": "Dénes Ujlaky",
+        "popularity": 0.5392,
+        "profile_path": "/zi1HulogV6pftPLZMOUGqnXXf0V.jpg",
+        "cast_id": 24,
+        "character": "Téeszelnök",
+        "credit_id": "564ad7a8c3a3686035002620",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16245,
+        "known_for_department": "Acting",
+        "name": "Ferenc Bács",
+        "original_name": "Ferenc Bács",
+        "popularity": 0.1091,
+        "profile_path": "/gVwvRiOp7YGfFIvKyGhliAwe34h.jpg",
+        "cast_id": 25,
+        "character": "Szlabonya",
+        "credit_id": "564ad7b39251417c46001e45",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 23622,
+        "known_for_department": "Acting",
+        "name": "Éva Igó",
+        "original_name": "Éva Igó",
+        "popularity": 0.3597,
+        "profile_path": "/llacNPREAEARviqeoE0ic2ilYi8.jpg",
+        "cast_id": 26,
+        "character": "Waitress",
+        "credit_id": "564ad7bf9251414dd1002712",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49673,
+        "known_for_department": "Acting",
+        "name": "Székely B. Miklós",
+        "original_name": "Székely B. Miklós",
+        "popularity": 0.4606,
+        "profile_path": "/82IjLmtqqv6sVf8j6vphi0kxBn7.jpg",
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "5e482d14676ce2001afe283e",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 923620,
+        "known_for_department": "Directing",
+        "name": "Károly Makk",
+        "original_name": "Károly Makk",
+        "popularity": 0.5058,
+        "profile_path": "/aY4VOzmfjtU4aYbyykowHB0fGo6.jpg",
+        "credit_id": "5361a2aa0e0a2649a9000923",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413769,
+        "known_for_department": "Writing",
+        "name": "Erzsébet Galgóczi",
+        "original_name": "Erzsébet Galgóczi",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "54b76c6ec3a3686c61001678",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 923620,
+        "known_for_department": "Directing",
+        "name": "Károly Makk",
+        "original_name": "Károly Makk",
+        "popularity": 0.5058,
+        "profile_path": "/aY4VOzmfjtU4aYbyykowHB0fGo6.jpg",
+        "credit_id": "54b76c76c3a36820b7000e76",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1537344,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Emőke Csengey",
+        "original_name": "Emőke Csengey",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "564ad6c89251414dcb0026a3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 56306,
+        "known_for_department": "Art",
+        "name": "Tamás Vayer",
+        "original_name": "Tamás Vayer",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "credit_id": "564ad6b8c3a368602b002710",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1537345,
+        "known_for_department": "Directing",
+        "name": "Mara Bóna",
+        "original_name": "Mara Bóna",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "credit_id": "564ad6da9251414dc4002439",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1038549,
+        "known_for_department": "Sound",
+        "name": "János Másik",
+        "original_name": "János Másik",
+        "popularity": 0.0409,
+        "profile_path": "/1MdkD9lIcH3y38Fql6PdiUcixkn.jpg",
+        "credit_id": "564ad6a0c3a368602e0027d7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1429022,
+        "known_for_department": "Camera",
+        "name": "Tamás Andor",
+        "original_name": "Tamás Andor",
+        "popularity": 0.0617,
+        "profile_path": "/t3QJ8W8C76eflVEWbc5lyyNI7W8.jpg",
+        "credit_id": "564ad6a7c3a368602600276e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1313298,
+        "known_for_department": "Sound",
+        "name": "László Dés",
+        "original_name": "László Dés",
+        "popularity": 0.0656,
+        "profile_path": "/x2g92i5YKXhMJvXaEK0JmlkcCSP.jpg",
+        "credit_id": "564ad698c3a3686028002706",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1537313,
+        "known_for_department": "Editing",
+        "name": "György Sívó",
+        "original_name": "György Sívó",
+        "popularity": 0.0465,
+        "profile_path": null,
+        "credit_id": "564ad6af9251414dcd002603",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 56306,
+        "known_for_department": "Art",
+        "name": "Tamás Vayer",
+        "original_name": "Tamás Vayer",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "credit_id": "564ad6bec3a368602b002714",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413769,
+        "known_for_department": "Writing",
+        "name": "Erzsébet Galgóczi",
+        "original_name": "Erzsébet Galgóczi",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "644adab9fea0d7053f14283a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1038547,
+        "known_for_department": "Directing",
+        "name": "János Xantus",
+        "original_name": "János Xantus",
+        "popularity": 0.0863,
+        "profile_path": "/euZA1QFMSJMwFqkqimrhwcOdYtn.jpg",
+        "credit_id": "5bdd810a0e0a26059500b45b",
+        "department": "Directing",
+        "job": "Co-Director"
+      }
+    ]
+  }
+}

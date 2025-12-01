@@ -1,0 +1,440 @@
+{
+  "adult": false,
+  "backdrop_path": "/xmwHKkDrTAOFK2odRJFpeKp3eEx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 841742,
+  "imdb_id": "tt10916810",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "fr",
+  "original_title": "Megalomaniac",
+  "overview": "Felix and Martha, the two offspring of legendary serial murderer The Skinner of Mons, grapple with the grotesque legacy bequeathed to them. While Martha works a menial janitorial job, Felix continues his father's reign of terror. But following a brutal attack at work, Martha quickly descends into madness, finding she must come to terms with the infamous blood that flows through her veins.",
+  "popularity": 5.601,
+  "poster_path": "/8HKjrjwTjvDscC9uZNk6dCRHcfd.jpg",
+  "production_companies": [
+    {
+      "id": 78939,
+      "logo_path": "/zfHyxKXDRK2xQsBAIk2gkYyXPhd.png",
+      "name": "Les Films du Carré",
+      "origin_country": "BE"
+    },
+    {
+      "id": 19037,
+      "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia",
+      "origin_country": "BE"
+    },
+    {
+      "id": 178958,
+      "logo_path": "/wRpa06MUCWwnwTMrVJX31bmIz5k.png",
+      "name": "Okayss",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2023-09-08",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Megalomaniac",
+  "video": false,
+  "vote_average": 5.536,
+  "vote_count": 56,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3127137,
+        "known_for_department": "Acting",
+        "name": "Eline Schumacher",
+        "original_name": "Eline Schumacher",
+        "popularity": 0.084,
+        "profile_path": "/p3GlJMp704D9occGYUDmBBYmZkm.jpg",
+        "cast_id": 4,
+        "character": "Martha",
+        "credit_id": "60ca6b4e773941006db27733",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1125003,
+        "known_for_department": "Acting",
+        "name": "Benjamin Ramon",
+        "original_name": "Benjamin Ramon",
+        "popularity": 0.7291,
+        "profile_path": "/9j3pUOZiOVfNiA1HdSBcnuefYRZ.jpg",
+        "cast_id": 3,
+        "character": "Felix",
+        "credit_id": "60ca6b22773941006db276fe",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76292,
+        "known_for_department": "Acting",
+        "name": "Wim Willaert",
+        "original_name": "Wim Willaert",
+        "popularity": 0.5207,
+        "profile_path": "/wJrWt3jPitmSTlXtb2xDVl3fNAt.jpg",
+        "cast_id": 1,
+        "character": "Jérôme",
+        "credit_id": "60ca6b047739410057898272",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1560859,
+        "known_for_department": "Acting",
+        "name": "Raphaëlle Lubansu",
+        "original_name": "Raphaëlle Lubansu",
+        "popularity": 0.2945,
+        "profile_path": "/71LHmM2KHt2b6JQ7BNEhnZ657yf.jpg",
+        "cast_id": 29,
+        "character": "Madame Conneci",
+        "credit_id": "6612f591048638017c1970f2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1133677,
+        "known_for_department": "Acting",
+        "name": "Pierre Nisse",
+        "original_name": "Pierre Nisse",
+        "popularity": 0.1553,
+        "profile_path": "/mXAxKleYW7TDDjlDI4RsupG6Nrz.jpg",
+        "cast_id": 2,
+        "character": "Luc",
+        "credit_id": "60ca6b13c390c50079dbcfb9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1898179,
+        "known_for_department": "Acting",
+        "name": "Quentin Lasbazeilles",
+        "original_name": "Quentin Lasbazeilles",
+        "popularity": 0.0713,
+        "profile_path": "/dcW5cUkmsvEtsd3w0XNwAUoZP7i.jpg",
+        "cast_id": 8,
+        "character": "L'ouvrier",
+        "credit_id": "60ca6bb6326c19003f418a4a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2232819,
+        "known_for_department": "Production",
+        "name": "Olivier Picard",
+        "original_name": "Olivier Picard",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Iblis",
+        "credit_id": "60ca6b8b51c01f0057b6d695",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2875573,
+        "known_for_department": "Acting",
+        "name": "Catherine Jandrain",
+        "original_name": "Catherine Jandrain",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Femme Cathédrale",
+        "credit_id": "60ca6ba52476f2005715d9ce",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2363327,
+        "known_for_department": "Acting",
+        "name": "Hélène Moor",
+        "original_name": "Hélène Moor",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Julie",
+        "credit_id": "6612f5a2bf31f2014b80b96b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3627846,
+        "known_for_department": "Acting",
+        "name": "Julie Carroll",
+        "original_name": "Julie Carroll",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Martha's Mother",
+        "credit_id": "6612f5b959008601627c3569",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478317,
+        "known_for_department": "Directing",
+        "name": "Karim Ouelhaj",
+        "original_name": "Karim Ouelhaj",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "credit_id": "60ca6bf92476f2005715da53",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478317,
+        "known_for_department": "Directing",
+        "name": "Karim Ouelhaj",
+        "original_name": "Karim Ouelhaj",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "credit_id": "60ca6c0c18864b002977cc0e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2166068,
+        "known_for_department": "Production",
+        "name": "Nicolas George",
+        "original_name": "Nicolas George",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "60ca6cca18864b004017b796",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2195406,
+        "known_for_department": "Production",
+        "name": "Cédric Iland",
+        "original_name": "Cédric Iland",
+        "popularity": 0.6397,
+        "profile_path": "/aBF7qMxRKKWjbpSuFHzleUHEQhR.jpg",
+        "credit_id": "60ca6ce842d8a5006df7c647",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3335036,
+        "known_for_department": "Sound",
+        "name": "Lucas Magotteaux",
+        "original_name": "Lucas Magotteaux",
+        "popularity": 0.051,
+        "profile_path": "/sYLesBaKgaGOBRrIBNBGEsx65oF.jpg",
+        "credit_id": "64ef4a1c77d23b00ec039341",
+        "department": "Sound",
+        "job": "Assistant Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1752627,
+        "known_for_department": "Sound",
+        "name": "Julien Mizac",
+        "original_name": "Julien Mizac",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "62dd66cd85005d0b62d2f8e5",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478317,
+        "known_for_department": "Directing",
+        "name": "Karim Ouelhaj",
+        "original_name": "Karim Ouelhaj",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "credit_id": "6559641a53866e011c094d63",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542345,
+        "known_for_department": "Production",
+        "name": "Bastien Sirodot",
+        "original_name": "Bastien Sirodot",
+        "popularity": 0.6208,
+        "profile_path": "/3ymfiOrLiygU3tv8V8fhJWfBEGZ.jpg",
+        "credit_id": "65596422b5400214d27cdaee",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3837999,
+        "known_for_department": "Production",
+        "name": "Laurent Jacobs",
+        "original_name": "Laurent Jacobs",
+        "popularity": 0.0535,
+        "profile_path": null,
+        "credit_id": "6559642753866e00abad2006",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2163872,
+        "known_for_department": "Editing",
+        "name": "Franck Ravel",
+        "original_name": "Franck Ravel",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6559646ed4fe04011b931375",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2184227,
+        "known_for_department": "Sound",
+        "name": "Simon Fransquet",
+        "original_name": "Simon Fransquet",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6559648727db61011bb35dc4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4384849,
+        "known_for_department": "Sound",
+        "name": "Gary Moonboots",
+        "original_name": "Gary Moonboots",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "655964917f054018d516b847",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126616,
+        "known_for_department": "Sound",
+        "name": "Franco Piscopo",
+        "original_name": "Franco Piscopo",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "655964a822931a00ac657d7e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3946666,
+        "known_for_department": "Camera",
+        "name": "François Schmitt",
+        "original_name": "François Schmitt",
+        "popularity": 0.088,
+        "profile_path": null,
+        "credit_id": "640150e47a4ee700a23f5dc2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478317,
+        "known_for_department": "Directing",
+        "name": "Karim Ouelhaj",
+        "original_name": "Karim Ouelhaj",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "credit_id": "640151147a4ee700863a908c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3946670,
+        "known_for_department": "Production",
+        "name": "Florence Saâdi",
+        "original_name": "Florence Saâdi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "640151259f1be700aaed26ba",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3305911,
+        "known_for_department": "Art",
+        "name": "Laïos Hendrickx",
+        "original_name": "Laïos Hendrickx",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "6612f5f413af5f017dda6da0",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  }
+}

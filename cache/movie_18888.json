@@ -1,0 +1,237 @@
+{
+  "adult": false,
+  "backdrop_path": "/evlniPoPke6WOZ7onIx5EJAvII4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 18888,
+  "imdb_id": "tt0170232",
+  "origin_country": [],
+  "original_language": "cs",
+  "original_title": "Zamilované maso",
+  "overview": "Two pieces of meat fall in love.",
+  "popularity": 7.4982,
+  "poster_path": "/1ueGQlNSB1cj3niaqOIt9Ra2xCi.jpg",
+  "production_companies": [
+    {
+      "id": 3541,
+      "logo_path": null,
+      "name": "Koninck Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2329,
+      "logo_path": null,
+      "name": "Krátký film Praha",
+      "origin_country": "XC"
+    },
+    {
+      "id": 8136,
+      "logo_path": "/zHS0wY1haJ3GOvkHFOf8Dfjkyt3.png",
+      "name": "MTV",
+      "origin_country": "US"
+    },
+    {
+      "id": 12914,
+      "logo_path": null,
+      "name": "Nomad Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "XC",
+      "name": "Czechoslovakia"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-01-01",
+  "revenue": 0,
+  "runtime": 1,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Meat Love",
+  "video": false,
+  "vote_average": 6.685,
+  "vote_count": 81,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83784,
+        "known_for_department": "Directing",
+        "name": "Jan Švankmajer",
+        "original_name": "Jan Švankmajer",
+        "popularity": 0.9562,
+        "profile_path": "/yJNadsigphyaFdzFRBtRLuAUlNr.jpg",
+        "credit_id": "52fe47a69251416c750a0d97",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082423,
+        "known_for_department": "Sound",
+        "name": "Ivo Špalj",
+        "original_name": "Ivo Špalj",
+        "popularity": 0.4596,
+        "profile_path": "/dGLn61ee2Xn8705PX5NiVi4uNvU.jpg",
+        "credit_id": "63888a512e0697023d29b782",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133556,
+        "known_for_department": "Visual Effects",
+        "name": "Bedřich Glaser",
+        "original_name": "Bedřich Glaser",
+        "popularity": 0.0286,
+        "profile_path": "/vFRRQUeFyAMFlLNHNtM9Bp6Ynsw.jpg",
+        "credit_id": "63888a8e229ae21572aae079",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1539187,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Veronika Hrubá",
+        "original_name": "Veronika Hrubá",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63888bb7229ae21597d5be19",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3809869,
+        "known_for_department": "Art",
+        "name": "Světlana Glaserová",
+        "original_name": "Světlana Glaserová",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "63888bf7a410c8008cd67d38",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238585,
+        "known_for_department": "Camera",
+        "name": "Martin Procházka",
+        "original_name": "Martin Procházka",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63888c250398ab008405440c",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83784,
+        "known_for_department": "Directing",
+        "name": "Jan Švankmajer",
+        "original_name": "Jan Švankmajer",
+        "popularity": 0.9562,
+        "profile_path": "/yJNadsigphyaFdzFRBtRLuAUlNr.jpg",
+        "credit_id": "63888c720398ab007f8bc826",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551675,
+        "known_for_department": "Camera",
+        "name": "Svatopluk Malý",
+        "original_name": "Svatopluk Malý",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "65c53e951b70ae0184a23a1a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83784,
+        "known_for_department": "Directing",
+        "name": "Jan Švankmajer",
+        "original_name": "Jan Švankmajer",
+        "popularity": 0.9562,
+        "profile_path": "/yJNadsigphyaFdzFRBtRLuAUlNr.jpg",
+        "credit_id": "5bdab3870e0a2603b4009a27",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082422,
+        "known_for_department": "Production",
+        "name": "Jaromír Kallista",
+        "original_name": "Jaromír Kallista",
+        "popularity": 0.1436,
+        "profile_path": "/3aPkTGSMRyU6Z2ljptari1QS42E.jpg",
+        "credit_id": "5bdab39c9251415407008c36",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 550575,
+        "known_for_department": "Editing",
+        "name": "Marie Zemanová",
+        "original_name": "Marie Zemanová",
+        "popularity": 0.0472,
+        "profile_path": null,
+        "credit_id": "5bdab3ee0e0a2603c600919a",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

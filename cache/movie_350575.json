@@ -1,0 +1,420 @@
+{
+  "adult": false,
+  "backdrop_path": "/gR9q3JUB3BZThqLhDcA1jTAsOqX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 350575,
+  "imdb_id": "tt4837232",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Outside the Box",
+  "overview": "Frederick Schopner, a young management consultant, has been invited to participate in a special kind of team-building event. He and his colleagues will be chased across an outdoor obstacle course while being assessed on leadership qualities and their capacity for teamwork via video surveillance. Special highlight: the company has hired two over-the-hill actors to kidnap the consultants with unloaded weapons, keep them hostage, and to demand a high ransom from the company. A realistic role play with fun factor! But things don't go according to plan: the actors find the make-believe scenario so convincing that they decide to put the plan into action for real, using real weapons. Meanwhile, Human Resources manager Vanessa is observing what's happening via video surveillance and has to find a way to keep the hostage situation from escalating…",
+  "popularity": 7.092,
+  "poster_path": "/tALGwYf29de7Xust8KF7mAzB0NP.jpg",
+  "production_companies": [
+    {
+      "id": 201,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    },
+    {
+      "id": 25828,
+      "logo_path": "/ikU6I2MtiJsupBMhDPHpcS8hre6.png",
+      "name": "Walker & Worm Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2015-07-01",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Outside the Box",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 34,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23182,
+        "known_for_department": "Acting",
+        "name": "Volker Bruch",
+        "original_name": "Volker Bruch",
+        "popularity": 1.4437,
+        "profile_path": "/vRlIMyCSISdh2d2pdOMQlLyV0ce.jpg",
+        "cast_id": 1,
+        "character": "Frederick Schopner",
+        "credit_id": "55ad62ba9251411e0f009627",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3841,
+        "known_for_department": "Acting",
+        "name": "Samuel Finzi",
+        "original_name": "Samuel Finzi",
+        "popularity": 0.3335,
+        "profile_path": "/pCMO1RAgikPaCt9wTOBnSZ2iM2S.jpg",
+        "cast_id": 2,
+        "character": "Peter Kraußmann",
+        "credit_id": "55ad62c39251411e0b00938c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49767,
+        "known_for_department": "Acting",
+        "name": "Frederick Lau",
+        "original_name": "Frederick Lau",
+        "popularity": 0.7869,
+        "profile_path": "/4ukrX8OPPsD06YMFoTL00uZrwa4.jpg",
+        "cast_id": 3,
+        "character": "Paul",
+        "credit_id": "55ad62e79251411e0b009390",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1080195,
+        "known_for_department": "Acting",
+        "name": "Vicky Krieps",
+        "original_name": "Vicky Krieps",
+        "popularity": 1.2645,
+        "profile_path": "/9laK3w40qBnE5UY41wJfnUAYMmC.jpg",
+        "cast_id": 4,
+        "character": "Yvonne von Geseke",
+        "credit_id": "55ad62ffc3a3682ff9008a98",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28420,
+        "known_for_department": "Acting",
+        "name": "Lavinia Wilson",
+        "original_name": "Lavinia Wilson",
+        "popularity": 0.3398,
+        "profile_path": "/guH493YHkxrZUZGys9GYfGGHOyk.jpg",
+        "cast_id": 5,
+        "character": "Vanessa Kramer",
+        "credit_id": "55ad630a9251411e18008fe4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 169,
+        "known_for_department": "Acting",
+        "name": "Hanns Zischler",
+        "original_name": "Hanns Zischler",
+        "popularity": 0.5266,
+        "profile_path": "/5O4Dum1OuKI4RMB24xjACkL22iA.jpg",
+        "cast_id": 6,
+        "character": "Bruno Bickstein",
+        "credit_id": "55ad63149251411e18008fe6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48480,
+        "known_for_department": "Acting",
+        "name": "Stefan Konarske",
+        "original_name": "Stefan Konarske",
+        "popularity": 0.9439,
+        "profile_path": "/c4cgLwx3vfqbJ73xIBZoyz5ddXV.jpg",
+        "cast_id": 7,
+        "character": "Michel Grandier",
+        "credit_id": "5afe17210e0a26248d001932",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49487,
+        "known_for_department": "Acting",
+        "name": "Richard Sammel",
+        "original_name": "Richard Sammel",
+        "popularity": 0.6739,
+        "profile_path": "/91IPxy0IuHhIqcrJdI0hYBpJmOg.jpg",
+        "cast_id": 8,
+        "character": "Sergeant Mallach",
+        "credit_id": "5afe17330e0a262466001787",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44637,
+        "known_for_department": "Acting",
+        "name": "Anian Zollner",
+        "original_name": "Anian Zollner",
+        "popularity": 0.1158,
+        "profile_path": "/61AiBFF3y46XCY0ZChBoiCKybsC.jpg",
+        "cast_id": 9,
+        "character": "Buiz Journalist",
+        "credit_id": "5afe1741c3a368747c00224c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36103,
+        "known_for_department": "Acting",
+        "name": "Michael Rast",
+        "original_name": "Michael Rast",
+        "popularity": 0.1031,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Journalist",
+        "credit_id": "5afe17529251417862001b72",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39848,
+        "known_for_department": "Acting",
+        "name": "Anton Algrang",
+        "original_name": "Anton Algrang",
+        "popularity": 0.1395,
+        "profile_path": "/c8QX7rjG8a71mQp41CeaFqIsEtw.jpg",
+        "cast_id": 11,
+        "character": "Wirtschaftsblatt Journalist",
+        "credit_id": "5c351d2fc3a36828d6662867",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5850,
+        "known_for_department": "Acting",
+        "name": "Kida Khodr Ramadan",
+        "original_name": "Kida Khodr Ramadan",
+        "popularity": 0.3084,
+        "profile_path": "/uAUTW5TGcOoNlpGbciEzEAMb8CH.jpg",
+        "cast_id": 12,
+        "character": "Samy",
+        "credit_id": "64543d3dc044290143e3bd4b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544831,
+        "known_for_department": "Acting",
+        "name": "Stefano Cassetti",
+        "original_name": "Stefano Cassetti",
+        "popularity": 0.2549,
+        "profile_path": "/68r1RWpDY6eO3DEO9MFmvhSwwIP.jpg",
+        "cast_id": 13,
+        "character": "Leo Locatelli",
+        "credit_id": "64543ddad48cee00e133c3fd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1203205,
+        "known_for_department": "Acting",
+        "name": "Giorgia Sinicorni",
+        "original_name": "Giorgia Sinicorni",
+        "popularity": 0.821,
+        "profile_path": "/9WUwennFaUBbnXrTHRcY7pX7qJD.jpg",
+        "cast_id": 14,
+        "character": "Vicky Rossi",
+        "credit_id": "64543e40d8f44e0dadf4e88c",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223767,
+        "known_for_department": "Directing",
+        "name": "Philip Koch",
+        "original_name": "Philip Koch",
+        "popularity": 0.7974,
+        "profile_path": "/pUjBIlgJDZFbNC4xqAgLJb41zU7.jpg",
+        "credit_id": "55ad626bc3a3682d63006a77",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1389542,
+        "known_for_department": "Production",
+        "name": "Alexandra Montag",
+        "original_name": "Alexandra Montag",
+        "popularity": 0.1041,
+        "profile_path": null,
+        "credit_id": "68109b7571dedcb8aceb7b20",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223767,
+        "known_for_department": "Directing",
+        "name": "Philip Koch",
+        "original_name": "Philip Koch",
+        "popularity": 0.7974,
+        "profile_path": "/pUjBIlgJDZFbNC4xqAgLJb41zU7.jpg",
+        "credit_id": "68109b9ba90acaf6eeeb0721",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5404072,
+        "known_for_department": "Writing",
+        "name": "Anna Katrin Schneider",
+        "original_name": "Anna Katrin Schneider",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "68109ba8a90acaf6eeeb072d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2050246,
+        "known_for_department": "Production",
+        "name": "Tobias Walker",
+        "original_name": "Tobias Walker",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "68109bbb71dedcb8aceb7b24",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2050247,
+        "known_for_department": "Production",
+        "name": "Philipp Worm",
+        "original_name": "Philipp Worm",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "68109bc971dedcb8aceb7b28",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4693010,
+        "known_for_department": "Sound",
+        "name": "Jessica Moss",
+        "original_name": "Jessica Moss",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68109be9ba241d8aea813a0c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3080992,
+        "known_for_department": "Production",
+        "name": "Sophie Trudeau",
+        "original_name": "Sophie Trudeau",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68109bf75ad0b67c66eb0422",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1566916,
+        "known_for_department": "Editing",
+        "name": "Max Fey",
+        "original_name": "Max Fey",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "credit_id": "68109c075ad0b67c66eb0434",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1585880,
+        "known_for_department": "Camera",
+        "name": "Markus Eckert",
+        "original_name": "Markus Eckert",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "68109c14ba241d8aea813a28",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4222,
+        "known_for_department": "Production",
+        "name": "Simone Bär",
+        "original_name": "Simone Bär",
+        "popularity": 0.2889,
+        "profile_path": "/Z1sJ73Rcq8VzUpJzJLPDjiAnAp.jpg",
+        "credit_id": "68109c23ba241d8aea813a35",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  }
+}

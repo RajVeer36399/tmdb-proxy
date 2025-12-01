@@ -1,0 +1,471 @@
+{
+  "adult": false,
+  "backdrop_path": "/o7RsEvncfaF0z88TkkIoEIxwm3Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 259358,
+  "imdb_id": "tt2270802",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Sputnik",
+  "overview": "November 9, 1989, the day the Berlin Wall came down. A 10-year-old girl and her friends attempt to use their teleportation device to beam her uncle back to East Germany but instead, as they witness on TV, end up beaming everyone in their town into West Germany! They have to race against time to undo the experiment before the nasty border guards open fire...",
+  "popularity": 6.4135,
+  "poster_path": "/hgt69PQ30L3IcafnBMXtNnHSRVy.jpg",
+  "production_companies": [
+    {
+      "id": 588,
+      "logo_path": "/6mWg9rdVSj8gwgMiOmZH4iBCcMm.png",
+      "name": "MDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 3134,
+      "logo_path": "/1w7LQKO5fNzovefxGReUpZlM8e9.png",
+      "name": "A Private View",
+      "origin_country": "BE"
+    },
+    {
+      "id": 4595,
+      "logo_path": "/kkvPl5Y3NKZXK7mqw0esuTZmVor.png",
+      "name": "Negativ",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 7201,
+      "logo_path": "/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png",
+      "name": "NDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 22071,
+      "logo_path": "/b3YwzlhTVkrcv1G6nl8XHJBidZk.png",
+      "name": "Mollywood",
+      "origin_country": "BE"
+    },
+    {
+      "id": 35210,
+      "logo_path": "/41NPHKSaV2kFGRfmgzm97wWQEHF.png",
+      "name": "Ostlicht Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 56833,
+      "logo_path": null,
+      "name": "Hamster Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2013-10-24",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sputnik",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 15,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1405775,
+        "known_for_department": "Acting",
+        "name": "Flora Thiemann",
+        "original_name": "Flora Thiemann",
+        "popularity": 1.0962,
+        "profile_path": "/wx2C7OBj8ksCmS2ZtIZpTd4oGIC.jpg",
+        "cast_id": 25,
+        "character": "Friederike",
+        "credit_id": "61d6ea9f2495ab009afc5973",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3133126,
+        "known_for_department": "Acting",
+        "name": "Finn Fiebig",
+        "original_name": "Finn Fiebig",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Fabian",
+        "credit_id": "61d6eae577c01f0042adf115",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3371555,
+        "known_for_department": "Acting",
+        "name": "Luca Johannsen",
+        "original_name": "Luca Johannsen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Jonathan",
+        "credit_id": "61d6eb15bb2602001c795063",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6086,
+        "known_for_department": "Acting",
+        "name": "Devid Striesow",
+        "original_name": "Devid Striesow",
+        "popularity": 0.2113,
+        "profile_path": "/dV5Sdfa7ED8gkbof8pWuBfPR7lo.jpg",
+        "cast_id": 1,
+        "character": "Abschnittsbevollmächtigter Mauder",
+        "credit_id": "5444268dc3a3683df7005a57",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45625,
+        "known_for_department": "Acting",
+        "name": "Yvonne Catterfeld",
+        "original_name": "Yvonne Catterfeld",
+        "popularity": 0.3148,
+        "profile_path": "/3PkS3TBIj2ZdkL3yeUSWo0czDty.jpg",
+        "cast_id": 2,
+        "character": "Katharina Bode",
+        "credit_id": "5444269a0e0a266336005d8f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28532,
+        "known_for_department": "Acting",
+        "name": "Maxim Mehmet",
+        "original_name": "Maxim Mehmet",
+        "popularity": 0.9909,
+        "profile_path": "/mKxkszluLiJAv7fpHg2T3BS8b6P.jpg",
+        "cast_id": 3,
+        "character": "Torsten Bode",
+        "credit_id": "544426acc3a3683e08005906",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5512,
+        "known_for_department": "Acting",
+        "name": "Andreas Schmidt",
+        "original_name": "Andreas Schmidt",
+        "popularity": 0.6607,
+        "profile_path": "/2o5gt8z698s94p0mTccsLy6Djat.jpg",
+        "cast_id": 4,
+        "character": "Herr Karl",
+        "credit_id": "5521ab81c3a36828d1001fb4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52722,
+        "known_for_department": "Acting",
+        "name": "Jacob Matschenz",
+        "original_name": "Jacob Matschenz",
+        "popularity": 0.9961,
+        "profile_path": "/15AzdlqD13Bw0pLZC5pEItDFx0T.jpg",
+        "cast_id": 5,
+        "character": "Onkel Mike",
+        "credit_id": "5521aba09251415c7c004057",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13740,
+        "known_for_department": "Acting",
+        "name": "Ursula Werner",
+        "original_name": "Ursula Werner",
+        "popularity": 0.4065,
+        "profile_path": "/pySvjClXdQiHd49RcqJ0PBZFYGq.jpg",
+        "cast_id": 8,
+        "character": "Oma Bode",
+        "credit_id": "569f933892514137d6002259",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45734,
+        "known_for_department": "Acting",
+        "name": "Christina Große",
+        "original_name": "Christina Große",
+        "popularity": 0.5356,
+        "profile_path": "/fG4JnnB6z9S1KGVugJQpClionkm.jpg",
+        "cast_id": 9,
+        "character": "Frau Ziehmann",
+        "credit_id": "569f9349c3a36858e500a59a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8205,
+        "known_for_department": "Acting",
+        "name": "Marie Gruber",
+        "original_name": "Marie Gruber",
+        "popularity": 0.3517,
+        "profile_path": "/a6tspybRaqckZnFag7JFrkJ5wfy.jpg",
+        "cast_id": 10,
+        "character": "Frau Schwartze",
+        "credit_id": "569f9359c3a36858e500a59c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16720,
+        "known_for_department": "Acting",
+        "name": "Bernd Stegemann",
+        "original_name": "Bernd Stegemann",
+        "popularity": 0.2169,
+        "profile_path": "/nYZd0Svq5znrumIb2uXrWgwx84l.jpg",
+        "cast_id": 12,
+        "character": "Bürgermeister Basko",
+        "credit_id": "5a9b4e94c3a3680c08027853",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1805714,
+        "known_for_department": "Acting",
+        "name": "Herbert Olschok",
+        "original_name": "Herbert Olschok",
+        "popularity": 0.0953,
+        "profile_path": "/1AsvWnXPOHchzwHosZGvOjZj8Gc.jpg",
+        "cast_id": 13,
+        "character": "Direktor",
+        "credit_id": "5a9b4ea30e0a2630b803547b",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1301158,
+        "known_for_department": "Directing",
+        "name": "Markus Dietrich",
+        "original_name": "Markus Dietrich",
+        "popularity": 0.7908,
+        "profile_path": null,
+        "credit_id": "5324c31b92514113b9000c36",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1301158,
+        "known_for_department": "Directing",
+        "name": "Markus Dietrich",
+        "original_name": "Markus Dietrich",
+        "popularity": 0.7908,
+        "profile_path": null,
+        "credit_id": "55df6ae7925141797f0002a0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53855,
+        "known_for_department": "Editing",
+        "name": "Sebastian Thümler",
+        "original_name": "Sebastian Thümler",
+        "popularity": 0.0387,
+        "profile_path": "/p0myj3wuYxLuPJgJAlBNrZqUr72.jpg",
+        "credit_id": "5a86ec8f925141759903aa9d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2485997,
+        "known_for_department": "Crew",
+        "name": "Cornelia Clauss",
+        "original_name": "Cornelia Clauss",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5dfb6310111da17140b0456a",
+        "department": "Crew",
+        "job": "Dramaturgy"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1201973,
+        "known_for_department": "Camera",
+        "name": "Philipp Kirsamer",
+        "original_name": "Philipp Kirsamer",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "5dfb6319111da10013b07c76",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1967885,
+        "known_for_department": "Camera",
+        "name": "Niv Abootalebi",
+        "original_name": "Niv Abootalebi",
+        "popularity": 0.1303,
+        "profile_path": null,
+        "credit_id": "5dfb6325111da10013b07c79",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 61811,
+        "known_for_department": "Art",
+        "name": "Tom Hornig",
+        "original_name": "Tom Hornig",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5dfb632f111da10013b07c7c",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2486004,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marion Greiner",
+        "original_name": "Marion Greiner",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "5dfb648c111da10013b07c85",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2486005,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Astrid Lehmann",
+        "original_name": "Astrid Lehmann",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5dfb6497111da10013b07c8e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2145185,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Judith Kröher",
+        "original_name": "Judith Kröher",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5dfb64a2111da10013b07c91",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1161722,
+        "known_for_department": "Editing",
+        "name": "Andreas Baltschun",
+        "original_name": "Andreas Baltschun",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5dfb64bb111da10013b07c95",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1438470,
+        "known_for_department": "Sound",
+        "name": "Martin Jílek",
+        "original_name": "Martin Jílek",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5dfb64c4111da10013b07c99",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2290724,
+        "known_for_department": "Sound",
+        "name": "David Titěra",
+        "original_name": "David Titěra",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "5dfb64cd111da17140b0456e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 458663,
+        "known_for_department": "Sound",
+        "name": "Jan P. Muchow",
+        "original_name": "Jan P. Muchow",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "credit_id": "5dfb64e1111da10013b07c9f",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

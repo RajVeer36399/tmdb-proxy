@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 27500,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.jrsawyers.com/nerve",
+  "id": 455240,
+  "imdb_id": "tt1772317",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nerve",
+  "overview": "Josh Biggs (Tyler Langdon, The Incredible Burt Wonderstone) is a young man riddled with severe anxiety. When he agrees to be the subject of an experiment pertaining to the treatment of social anxiety disorder, he hopes it will be the end of his troubles... and a way to get closer to its pretty conductor, Aurora Pilar (Hollywood Reel Independent Film Festival \"Best Actress\" winner, Laura Alexandra Ramos). Little does he know, he's about to endure the battle of his life. In a performance that skillfully juggles drama and comedy, Langdon leads a colorful cast in this poignant character study. Nerve is an \"instant indie classic\" that takes real risks.",
+  "popularity": 31.9097,
+  "poster_path": "/n264Zrt5BJmVfDOfv6sbZxzsvNA.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-12-07",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A film about social anxiety.",
+  "title": "Nerve",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1159034,
+        "known_for_department": "Acting",
+        "name": "Ward Edmondson",
+        "original_name": "Ward Edmondson",
+        "popularity": 0.1309,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Perry",
+        "credit_id": "60c66537944a57002a8fe56f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2638812,
+        "known_for_department": "Acting",
+        "name": "Gary A. Kauffman",
+        "original_name": "Gary A. Kauffman",
+        "popularity": 0.5509,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Mike",
+        "credit_id": "66cd1b5589e15341a87edf36",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1807200,
+        "known_for_department": "Writing",
+        "name": "J.R. Sawyers",
+        "original_name": "J.R. Sawyers",
+        "popularity": 0.2565,
+        "profile_path": "/n9C34CCnSRLYJpPyAf9XaT7i2sR.jpg",
+        "credit_id": "5905ac06c3a3684a76019536",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1807200,
+        "known_for_department": "Writing",
+        "name": "J.R. Sawyers",
+        "original_name": "J.R. Sawyers",
+        "popularity": 0.2565,
+        "profile_path": "/n9C34CCnSRLYJpPyAf9XaT7i2sR.jpg",
+        "credit_id": "5905ac3392514169b801a889",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

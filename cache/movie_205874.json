@@ -1,0 +1,175 @@
+{
+  "adult": false,
+  "backdrop_path": "/uN0qOLXt3FqQtXqxYzgSpSD7NUf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 205874,
+  "imdb_id": "tt0033324",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "All This and Rabbit Stew",
+  "overview": "Bugs Bunny heckles a black hunter and escapes from a bear.  One of the “Censored 11” banned from TV syndication by United Artists in 1968 for racist stereotyping.",
+  "popularity": 6.6987,
+  "poster_path": "/eeLX1Lwl74NO5rwOjifvN62eaoE.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 134798,
+      "logo_path": null,
+      "name": "Leon Schlesinger Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1941-09-20",
+  "revenue": 0,
+  "runtime": 7,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "All This and Rabbit Stew",
+  "video": false,
+  "vote_average": 5.458,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33923,
+        "known_for_department": "Acting",
+        "name": "Mel Blanc",
+        "original_name": "Mel Blanc",
+        "popularity": 0.7183,
+        "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+        "cast_id": 7,
+        "character": "Bugs Bunny (voice) (uncredited)",
+        "credit_id": "56bfadafc3a368180a00a96c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5302653,
+        "known_for_department": "Acting",
+        "name": "Darrell Payne",
+        "original_name": "Darrell Payne",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Black Hunter (voice) (uncredited)",
+        "credit_id": "67d3324d705d6831173e092f",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237588,
+        "known_for_department": "Directing",
+        "name": "Tex Avery",
+        "original_name": "Tex Avery",
+        "popularity": 0.435,
+        "profile_path": "/4jimJwW6FNAxBuM2CD1cZLK6Q5C.jpg",
+        "credit_id": "52fe4d10c3a368484e1d53a3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 980524,
+        "known_for_department": "Writing",
+        "name": "Dave Monahan",
+        "original_name": "Dave Monahan",
+        "popularity": 0.6585,
+        "profile_path": "/vjnwtC0HLtYSKsjJR0OWEzfmhNg.jpg",
+        "credit_id": "56bfad4fc3a368180a00a957",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149374,
+        "known_for_department": "Production",
+        "name": "Leon Schlesinger",
+        "original_name": "Leon Schlesinger",
+        "popularity": 0.1192,
+        "profile_path": "/is9gdhtLfaCYwWdeACDgAjdDA1w.jpg",
+        "credit_id": "56bfad5ec3a36817f400a2d5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551674,
+        "known_for_department": "Sound",
+        "name": "Carl W. Stalling",
+        "original_name": "Carl W. Stalling",
+        "popularity": 0.3613,
+        "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+        "credit_id": "56bfad6b925141398a001407",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.2431,
+        "profile_path": null,
+        "credit_id": "56bfad7592514169fd000a81",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.2431,
+        "profile_path": null,
+        "credit_id": "56bfad84c3a36818060096df",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      }
+    ]
+  }
+}

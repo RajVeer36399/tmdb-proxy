@@ -1,0 +1,188 @@
+{
+  "adult": false,
+  "backdrop_path": "/tw63aeDGVvYWSdjKjYyvwjNZzxv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 130523,
+  "imdb_id": "tt0002143",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dr. Jekyll and Mr. Hyde",
+  "overview": "Dr. Henry Jekyll experiments with scientific means of revealing the hidden, dark side of man and releases a murderer from within himself.",
+  "popularity": 12.9558,
+  "poster_path": "/YMTH07LSvYr4AgG0mjVfbg8tx2.jpg",
+  "production_companies": [
+    {
+      "id": 35353,
+      "logo_path": "/rVxiD2rIVla7S1liKIox42U6GkW.png",
+      "name": "Thanhouser Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 176030,
+      "logo_path": null,
+      "name": "Thanhouser Film Corporation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1912-01-16",
+  "revenue": 0,
+  "runtime": 12,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dr. Jekyll and Mr. Hyde",
+  "video": false,
+  "vote_average": 5.843,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94305,
+        "known_for_department": "Directing",
+        "name": "James Cruze",
+        "original_name": "James Cruze",
+        "popularity": 0.3485,
+        "profile_path": "/rTDilm5WrU4I8n4abBUucJGoAkY.jpg",
+        "cast_id": 1,
+        "character": "Dr. Jekyll, Mr. Hyde",
+        "credit_id": "52fe4b5dc3a368484e185a39",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1171440,
+        "known_for_department": "Acting",
+        "name": "Florence La Badie",
+        "original_name": "Florence La Badie",
+        "popularity": 0.1778,
+        "profile_path": "/7vb4YEwmvKQoYgTtq4UvbzvOaME.jpg",
+        "cast_id": 5,
+        "character": "Jekyll's Sweetheart",
+        "credit_id": "55ae56849251411e1400ab43",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1120819,
+        "known_for_department": "Acting",
+        "name": "Marie Eline",
+        "original_name": "Marie Eline",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Little Girl",
+        "credit_id": "55ae56ca9251411e1800a3de",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1157005,
+        "known_for_department": "Acting",
+        "name": "Marguerite Snow",
+        "original_name": "Marguerite Snow",
+        "popularity": 0.1834,
+        "profile_path": "/tm1mSAwwNnFh7pjPUaz1Hfg2lEc.jpg",
+        "cast_id": 7,
+        "character": "Extra",
+        "credit_id": "55ae56dac3a3682d63007de3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105945,
+        "known_for_department": "Acting",
+        "name": "Jane Gail",
+        "original_name": "Jane Gail",
+        "popularity": 0.0598,
+        "profile_path": "/pFmtBjoHCK1JRhBNfTeyRcLSYSW.jpg",
+        "cast_id": 8,
+        "character": "Extra",
+        "credit_id": "55ae57f3c3a3682d63007e06",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1387987,
+        "known_for_department": "Acting",
+        "name": "Harry Benham",
+        "original_name": "Harry Benham",
+        "popularity": 0.0849,
+        "profile_path": "/eMuZofkdtw44bbjxbbHF3zQCC8R.jpg",
+        "cast_id": 9,
+        "character": "Mr. Hyde (some scenes) (uncredited)",
+        "credit_id": "560d4e9fc3a368681f008a37",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1091587,
+        "known_for_department": "Directing",
+        "name": "Lucius Henderson",
+        "original_name": "Lucius Henderson",
+        "popularity": 0.0534,
+        "profile_path": "/jqX1Bxdkhm4gFWKPeEj9pyETHGk.jpg",
+        "credit_id": "52fe4b5dc3a368484e185a3f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29533,
+        "known_for_department": "Writing",
+        "name": "Robert Louis Stevenson",
+        "original_name": "Robert Louis Stevenson",
+        "popularity": 0.316,
+        "profile_path": "/4gHYG4Gn1uxmG0k1gilfp8cwdBX.jpg",
+        "credit_id": "55ae5629c3a36872650043f2",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29534,
+        "known_for_department": "Writing",
+        "name": "Thomas Russell Sullivan",
+        "original_name": "Thomas Russell Sullivan",
+        "popularity": 0.048,
+        "profile_path": null,
+        "credit_id": "55ae56409251411e1100ad57",
+        "department": "Writing",
+        "job": "Theatre Play"
+      }
+    ]
+  }
+}

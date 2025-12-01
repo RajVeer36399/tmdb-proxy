@@ -1,0 +1,216 @@
+{
+  "adult": false,
+  "backdrop_path": "/tcSFFEGsNzzJG1r11aFY3YsleGi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 107338,
+  "imdb_id": "tt0076698",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "zh",
+  "original_title": "She nu yu chao",
+  "overview": "The tribe of a remote island worships the legendary Snake Pearl. Two masters of kung fu visit the isle and discover they must defend the daughter of the murdered chief against a evil wizard.",
+  "popularity": 5.2973,
+  "poster_path": "/1If0sDeZYQNmzudbPAanGQJJLzA.jpg",
+  "production_companies": [
+    {
+      "id": 44238,
+      "logo_path": null,
+      "name": "Hai Hua Cinema Company",
+      "origin_country": "TW"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1978-06-29",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Join Bruce Li in the jungles of New Guinea .... in a life and death struggle with the serpent wizard",
+  "title": "Bruce Lee in New Guinea",
+  "video": false,
+  "vote_average": 4.6,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122528,
+        "known_for_department": "Acting",
+        "name": "Ho Tsung-Tao",
+        "original_name": "Ho Tsung-Tao",
+        "popularity": 0.6055,
+        "profile_path": "/u8KTQtF2sy9TPLHj8euzYGeFUEO.jpg",
+        "cast_id": 1002,
+        "character": "Wan Li",
+        "credit_id": "5398c666c3a368642300985a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1178611,
+        "known_for_department": "Acting",
+        "name": "Chan Sing",
+        "original_name": "陳星",
+        "popularity": 0.7929,
+        "profile_path": "/ipHYxKTAa1VM8DBGZlRTVoUbWJx.jpg",
+        "cast_id": 1003,
+        "character": "Great Wizard",
+        "credit_id": "5398c6b9c3a3686446009705",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1329823,
+        "known_for_department": "Acting",
+        "name": "Larry Lee Gam-Kwan",
+        "original_name": "Larry Lee Gam-Kwan",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "cast_id": 1004,
+        "character": "",
+        "credit_id": "5398df6ec3a36864150097f7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 551942,
+        "known_for_department": "Acting",
+        "name": "Dana",
+        "original_name": "Dana",
+        "popularity": 0.328,
+        "profile_path": null,
+        "cast_id": 1006,
+        "character": "",
+        "credit_id": "611294360b5fd6002a2cb1da",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119609,
+        "known_for_department": "Acting",
+        "name": "Chik Ngai-Hung",
+        "original_name": "Chik Ngai-Hung",
+        "popularity": 0.3096,
+        "profile_path": "/4HO9ZbsMSTRMgM9Wv5K1vPv0KGq.jpg",
+        "cast_id": 1007,
+        "character": "",
+        "credit_id": "611294440b5fd6005eecd0a6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1173216,
+        "known_for_department": "Acting",
+        "name": "Chiu Chi-Ling",
+        "original_name": "趙志淩",
+        "popularity": 0.7335,
+        "profile_path": "/8WuAv8Gx3h4sSMR0wEBlLHVcurm.jpg",
+        "cast_id": 1008,
+        "character": "",
+        "credit_id": "6112944ff04d010072f777ae",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2174279,
+        "known_for_department": "Acting",
+        "name": "Ju Fang",
+        "original_name": "Ju Fang",
+        "popularity": 0.1046,
+        "profile_path": "/zyVtbbNW6ug6fGBOJ7AxEUDIdCw.jpg",
+        "cast_id": 1009,
+        "character": "",
+        "credit_id": "61129479255dba005ded9e81",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2512420,
+        "known_for_department": "Acting",
+        "name": "Chin-Kun Li",
+        "original_name": "Chin-Kun Li",
+        "popularity": 0.0629,
+        "profile_path": null,
+        "cast_id": 1010,
+        "character": "",
+        "credit_id": "61129489e24e3a005e7e6c13",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62421,
+        "known_for_department": "Acting",
+        "name": "Lau Ga-Yung",
+        "original_name": "Lau Ga-Yung",
+        "popularity": 0.408,
+        "profile_path": "/gUqMdjMqdALBSTzkaJW6gkTEDUf.jpg",
+        "cast_id": 1012,
+        "character": "",
+        "credit_id": "611294bbe24e3a00804b95ad",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58123,
+        "known_for_department": "Acting",
+        "name": "Bolo Yeung Sze",
+        "original_name": "Bolo Yeung Sze",
+        "popularity": 1.8729,
+        "profile_path": "/daaIoalkkF9BSxIQ7BZvqAYa7h3.jpg",
+        "cast_id": 1013,
+        "character": "",
+        "credit_id": "63faeb34cf62cd0079dfa0d7",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 575732,
+        "known_for_department": "Writing",
+        "name": "Yang Chi-Yao",
+        "original_name": "楊吉友",
+        "popularity": 0.4209,
+        "profile_path": null,
+        "credit_id": "5cc445bb9251417d3902e80e",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

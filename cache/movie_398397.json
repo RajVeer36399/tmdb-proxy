@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://ultravioletmedia.eu/415-p-m-end-world-415-p-m-sfarsitul-lumii/",
+  "id": 398397,
+  "imdb_id": "tt5717670",
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_title": "4:15 P.M. Sfârsitul lumii",
+  "overview": "A courier takes a hitchhiker on the road. When the hitchhiker warns him that the end of the world is around the corner, the courier labels him as crazy, without knowing this accidental encounter will change his life forever.",
+  "popularity": 6.3642,
+  "poster_path": "/n3AE3lnWKg3u84IyYa4nzu0S0rE.jpg",
+  "production_companies": [
+    {
+      "id": 115153,
+      "logo_path": null,
+      "name": "Axis Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    }
+  ],
+  "release_date": "2016-05-18",
+  "revenue": 0,
+  "runtime": 15,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "4:15 P.M. The End of the World",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1876688,
+        "known_for_department": "Acting",
+        "name": "Alexandru Suciu",
+        "original_name": "Alexandru Suciu",
+        "popularity": 0.0071,
+        "profile_path": "/9ZELDYgojB8RCTzqvbYLQmVZwC9.jpg",
+        "cast_id": 3,
+        "character": "Dan",
+        "credit_id": "5c70361b92514144cd8acfd4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58762,
+        "known_for_department": "Acting",
+        "name": "Elias Ferkin",
+        "original_name": "Elias Ferkin",
+        "popularity": 0.5346,
+        "profile_path": "/758jA1jDnHfIALuUro0Dn1Qq2FZ.jpg",
+        "cast_id": 4,
+        "character": "Jesus",
+        "credit_id": "5c7036a692514144d98acf04",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1086557,
+        "known_for_department": "Writing",
+        "name": "Cătălin Rotaru",
+        "original_name": "Cătălin Rotaru",
+        "popularity": 0.0071,
+        "profile_path": "/s67o1JW2UFHE91YWvs3hjijA5ic.jpg",
+        "credit_id": "573f08179251416be10005a7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1623007,
+        "known_for_department": "Directing",
+        "name": "Gabi Virginia Șarga",
+        "original_name": "Gabi Virginia Șarga",
+        "popularity": 0.0286,
+        "profile_path": "/phlFifIqPTbB5FaAdTriomRGStn.jpg",
+        "credit_id": "573f084d9251416c2c000594",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623008,
+        "known_for_department": "Crew",
+        "name": "Tudor Planton",
+        "original_name": "Tudor Planton",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "573f0862c3a368705d00116e",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

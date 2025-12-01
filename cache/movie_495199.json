@@ -1,0 +1,421 @@
+{
+  "adult": false,
+  "backdrop_path": "/5vGe1vJYMaS2Ipl5jns05Aj2Ryv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 495199,
+  "imdb_id": "tt0318346",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cane River",
+  "overview": "A budding, forbidden romance lays bare the tensions between two black communities, both descended from slaves but of disparate opportunity—the light-skinned, property-owning Creoles and the darker-skinned, more disenfranchised families of the area.",
+  "popularity": 5.8385,
+  "poster_path": "/gW8M74YOQT2TOhESX7wnZMWm1RY.jpg",
+  "production_companies": [
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4748,
+      "logo_path": "/bTMeosrSiKaTPmZiTYnSDZlin5d.png",
+      "name": "Oscilloscope",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1982-10-14",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cane River",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1949995,
+        "known_for_department": "Acting",
+        "name": "Tommye Myrick",
+        "original_name": "Tommye Myrick",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Maria Mathis",
+        "credit_id": "5a468bd3c3a3685a6b006ad5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1949996,
+        "known_for_department": "Acting",
+        "name": "Richard Romain",
+        "original_name": "Richard Romain",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Peter Metoyer",
+        "credit_id": "5a468be29251411f4f09427f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1484155,
+        "known_for_department": "Acting",
+        "name": "Barbara Tasker",
+        "original_name": "Barbara Tasker",
+        "popularity": 0.6468,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Dominique",
+        "credit_id": "5a468bfd9251411f3e092441",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355095,
+        "known_for_department": "Writing",
+        "name": "Ilunga Adell",
+        "original_name": "Ilunga Adell",
+        "popularity": 0.4751,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Brother",
+        "credit_id": "62d5976550733c004f5f0cce",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628875,
+        "known_for_department": "Acting",
+        "name": "Lloyd La Cour",
+        "original_name": "Lloyd La Cour",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Mr. Metoyer",
+        "credit_id": "62d59784e6d3cc004dfbb4b7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60877,
+        "known_for_department": "Acting",
+        "name": "Carol Sutton",
+        "original_name": "Carol Sutton",
+        "popularity": 1.4966,
+        "profile_path": "/5kQkv64ubSeFbs2i831mvnh3o2Q.jpg",
+        "cast_id": 11,
+        "character": "Ms. Mathis",
+        "credit_id": "62d597a35aba32004f8edfa9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628878,
+        "known_for_department": "Acting",
+        "name": "Stephen Severin",
+        "original_name": "Stephen Severin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Beau",
+        "credit_id": "62d597ba04b596004cf72b43",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581103,
+        "known_for_department": "Acting",
+        "name": "Noray Francis",
+        "original_name": "Noray Francis",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Blue",
+        "credit_id": "65ebb8c4b7d352017be4ab1e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581104,
+        "known_for_department": "Acting",
+        "name": "Lolis Edward Elie",
+        "original_name": "Lolis Edward Elie",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Lawyer",
+        "credit_id": "65ebb8ce944a570187bdcc1a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581106,
+        "known_for_department": "Acting",
+        "name": "Kelli Rene Carpenter",
+        "original_name": "Kelli Rene Carpenter",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Tour Guide",
+        "credit_id": "65ebb8d5944a570187bdcc38",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581108,
+        "known_for_department": "Acting",
+        "name": "Marie Dupre",
+        "original_name": "Marie Dupre",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Granny",
+        "credit_id": "65ebb8e1944a570187bdcc6c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581109,
+        "known_for_department": "Acting",
+        "name": "Maurice Harrell",
+        "original_name": "Maurice Harrell",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Ticketter",
+        "credit_id": "65ebb8e95be00e017d95fc2b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581111,
+        "known_for_department": "Acting",
+        "name": "Thomas P. Brady",
+        "original_name": "Thomas P. Brady",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Priest",
+        "credit_id": "65ebb8f42f1be001492959e7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581113,
+        "known_for_department": "Acting",
+        "name": "D.J. Ammons",
+        "original_name": "D.J. Ammons",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Bus Station Ticket Agent (uncredited)",
+        "credit_id": "65ebb8ff9a643500c92c7bb9",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581115,
+        "known_for_department": "Production",
+        "name": "Duplain Rhodes Jr.",
+        "original_name": "Duplain Rhodes Jr.",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65ebb9179d893901852928dd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581116,
+        "known_for_department": "Production",
+        "name": "Doris Rhodes",
+        "original_name": "Doris Rhodes",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "65ebb9229a643500c92c7c28",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581117,
+        "known_for_department": "Art",
+        "name": "Joseph Moran",
+        "original_name": "Joseph Moran",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65ebb93958361b01875a7264",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581118,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nadine Walker Burrell",
+        "original_name": "Nadine Walker Burrell",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65ebb944b7d3520162e4a63e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581119,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Beverly Elery",
+        "original_name": "Beverly Elery",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "65ebb94bb7d352017be4acbf",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581121,
+        "known_for_department": "Sound",
+        "name": "Mario P. Astorga",
+        "original_name": "Mario P. Astorga",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "65ebb95528723c01643e740f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1949990,
+        "known_for_department": "Directing",
+        "name": "Horace B. Jenkins",
+        "original_name": "Horace B. Jenkins",
+        "popularity": 0.0482,
+        "profile_path": "/ocTCAa3ACr8ZjVkugfGEJQm2fiG.jpg",
+        "credit_id": "5a468b61c3a36858c507a2e5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1949990,
+        "known_for_department": "Directing",
+        "name": "Horace B. Jenkins",
+        "original_name": "Horace B. Jenkins",
+        "popularity": 0.0482,
+        "profile_path": "/ocTCAa3ACr8ZjVkugfGEJQm2fiG.jpg",
+        "credit_id": "5a468b6a0e0a264f2907ee12",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1949990,
+        "known_for_department": "Directing",
+        "name": "Horace B. Jenkins",
+        "original_name": "Horace B. Jenkins",
+        "popularity": 0.0482,
+        "profile_path": "/ocTCAa3ACr8ZjVkugfGEJQm2fiG.jpg",
+        "credit_id": "5a468b920e0a264f2907ee4d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1949992,
+        "known_for_department": "Crew",
+        "name": "Gideon Manasseh",
+        "original_name": "Gideon Manasseh",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5a468bab0e0a262a2900728e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1949993,
+        "known_for_department": "Sound",
+        "name": "Roy Glover",
+        "original_name": "Roy Glover",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a468bb40e0a264f390843b7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1949994,
+        "known_for_department": "Editing",
+        "name": "Debra I. Moore",
+        "original_name": "Debra I. Moore",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a468bc50e0a264f390843ce",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

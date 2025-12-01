@@ -1,0 +1,353 @@
+{
+  "adult": false,
+  "backdrop_path": "/nmdsYZvgqxwLkcgWCYCXQEcDxW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 163363,
+  "imdb_id": "tt0056160",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Két félidő a pokolban",
+  "overview": "To celebrate Hitler's birthday, a soccer match is organised between the Germans and a group of Hungarian political prisoners, one of whom is a famous pre-war football star.",
+  "popularity": 6.4985,
+  "poster_path": "/2fKH3uZP3jbbIcohRWQX0R9nGQo.jpg",
+  "production_companies": [
+    {
+      "id": 7013,
+      "logo_path": null,
+      "name": "Hunnia Filmstúdió",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "1961-11-02",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Two Half-Times in Hell",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56295,
+        "known_for_department": "Acting",
+        "name": "Imre Sinkovits",
+        "original_name": "Imre Sinkovits",
+        "popularity": 0.1149,
+        "profile_path": "/hWgzw9PyCccAzbyJjc3XXCOq71k.jpg",
+        "cast_id": 8,
+        "character": "Ónódi",
+        "credit_id": "52fe4c66c3a36847f822c20b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123974,
+        "known_for_department": "Acting",
+        "name": "Dezső Garas",
+        "original_name": "Dezső Garas",
+        "popularity": 0.4211,
+        "profile_path": "/oeEZ3DvVcfUy46UTSfsCW4abN7Z.jpg",
+        "cast_id": 9,
+        "character": "Steiner",
+        "credit_id": "52fe4c66c3a36847f822c20f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1097154,
+        "known_for_department": "Acting",
+        "name": "László Márkus",
+        "original_name": "László Márkus",
+        "popularity": 0.6876,
+        "profile_path": "/1DUt7fIZ5iMVAtkk5bZAYzgUjfx.jpg",
+        "cast_id": 20,
+        "character": "Pogány",
+        "credit_id": "564a76d19251414dcb0010e6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118092,
+        "known_for_department": "Acting",
+        "name": "Sándor Suka",
+        "original_name": "Sándor Suka",
+        "popularity": 0.0698,
+        "profile_path": "/fqpYaefi0VkH9zGNEFNXqlBTpbX.jpg",
+        "cast_id": 11,
+        "character": "Koczina",
+        "credit_id": "52fe4c66c3a36847f822c217",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 183154,
+        "known_for_department": "Acting",
+        "name": "Zoltán Gera",
+        "original_name": "Zoltán Gera",
+        "popularity": 0.2102,
+        "profile_path": "/9nK8815HO7eVkKXXPO0afh79DDd.jpg",
+        "cast_id": 12,
+        "character": "Tankó Sándor",
+        "credit_id": "52fe4c66c3a36847f822c21b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146820,
+        "known_for_department": "Acting",
+        "name": "Tibor Molnár",
+        "original_name": "Tibor Molnár",
+        "popularity": 0.0614,
+        "profile_path": "/3lz9xUle92SOsY7TIcw4StH84xF.jpg",
+        "cast_id": 13,
+        "character": "Rácz",
+        "credit_id": "52fe4c66c3a36847f822c21f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403772,
+        "known_for_department": "Acting",
+        "name": "József Szendrő",
+        "original_name": "József Szendrő",
+        "popularity": 0.0461,
+        "profile_path": "/qPJirWhN3CGyFL2itprWWH9dWi7.jpg",
+        "cast_id": 14,
+        "character": "Rápity őrmester",
+        "credit_id": "549beae0c3a3682cd7001a84",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403773,
+        "known_for_department": "Acting",
+        "name": "István Velenczei",
+        "original_name": "István Velenczei",
+        "popularity": 0.0795,
+        "profile_path": "/x2ZDbuVOgqgsiwODb2mKyzTKMfm.jpg",
+        "cast_id": 15,
+        "character": "Ferenczi",
+        "credit_id": "549beb0092514131230035cf",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127116,
+        "known_for_department": "Acting",
+        "name": "Gyula Benkő",
+        "original_name": "Gyula Benkő",
+        "popularity": 0.051,
+        "profile_path": "/90LsXiI7qdIvgz4yrMPXEFZsSlT.jpg",
+        "cast_id": 16,
+        "character": "Sztepan",
+        "credit_id": "549beb3bc3a3682f1b00363e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1004107,
+        "known_for_department": "Acting",
+        "name": "János Görbe",
+        "original_name": "János Görbe",
+        "popularity": 0.1225,
+        "profile_path": "/wvkuRFOyKlZ5te68Bz5YS9GggWw.jpg",
+        "cast_id": 17,
+        "character": "Eberhardt",
+        "credit_id": "549beb57c3a3682f210035e4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403774,
+        "known_for_department": "Acting",
+        "name": "János Makláry",
+        "original_name": "János Makláry",
+        "popularity": 0.0382,
+        "profile_path": "/z4unD4Tuk47PgpAvxazAvIFI3vT.jpg",
+        "cast_id": 18,
+        "character": "Holup őrmester",
+        "credit_id": "549beb70925141311f00355b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1403775,
+        "known_for_department": "Acting",
+        "name": "Laboch Gerald",
+        "original_name": "Laboch Gerald",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "549beb8d92514131290038bb",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56305,
+        "known_for_department": "Editing",
+        "name": "Ferencné Szécsényi",
+        "original_name": "Ferencné Szécsényi",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "52fe4c66c3a36847f822c207",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 125158,
+        "known_for_department": "Writing",
+        "name": "Péter Bacsó",
+        "original_name": "Péter Bacsó",
+        "popularity": 0.8191,
+        "profile_path": null,
+        "credit_id": "52fe4c66c3a36847f822c1e9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55969,
+        "known_for_department": "Directing",
+        "name": "Zoltán Fábri",
+        "original_name": "Zoltán Fábri",
+        "popularity": 0.464,
+        "profile_path": "/oC0vE9P1ffCTUV0diwZOUb19Lro.jpg",
+        "credit_id": "52fe4c66c3a36847f822c201",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55969,
+        "known_for_department": "Directing",
+        "name": "Zoltán Fábri",
+        "original_name": "Zoltán Fábri",
+        "popularity": 0.464,
+        "profile_path": "/oC0vE9P1ffCTUV0diwZOUb19Lro.jpg",
+        "credit_id": "52fe4c66c3a36847f822c1e3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55969,
+        "known_for_department": "Directing",
+        "name": "Zoltán Fábri",
+        "original_name": "Zoltán Fábri",
+        "popularity": 0.464,
+        "profile_path": "/oC0vE9P1ffCTUV0diwZOUb19Lro.jpg",
+        "credit_id": "52fe4c66c3a36847f822c1ef",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1144958,
+        "known_for_department": "Camera",
+        "name": "Ferenc Szécsényi",
+        "original_name": "Ferenc Szécsényi",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "59028ed0c3a3682898000f76",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1805485,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lajosné Békési",
+        "original_name": "Lajosné Békési",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "credit_id": "59028ef19251413e15000fa7",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125182,
+        "known_for_department": "Sound",
+        "name": "Ferenc Farkas",
+        "original_name": "Ferenc Farkas",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "59028ed9c3a3682866000ea8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1303185,
+        "known_for_department": "Art",
+        "name": "Tilda Gáti",
+        "original_name": "Tilda Gáti",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "59028eeac3a36828df000ff4",
+        "department": "Art",
+        "job": "Set Decoration"
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "adult": false,
+  "backdrop_path": "/pl6L2GRpIv5NmRpGNm1kGiKqrKd.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.issacfilm.com",
+  "id": 911926,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Love Me Dead",
+  "overview": "Issac, a young reclusive mortician who inherited his stepfather's mortuary business, meets a friendly waitress, Cassi. The two create an instant connection and after a night of terror, they pursue a revenge murder together.",
+  "popularity": 7.7951,
+  "poster_path": "/n1HisUuEhl3NJsO157CI6qo1URV.jpg",
+  "production_companies": [
+    {
+      "id": 86267,
+      "logo_path": null,
+      "name": "Webber Films",
+      "origin_country": ""
+    },
+    {
+      "id": 165809,
+      "logo_path": null,
+      "name": "Webber Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-19",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Death is forever.",
+  "title": "Love Me Dead",
+  "video": false,
+  "vote_average": 9.3,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209674,
+        "known_for_department": "Acting",
+        "name": "RJ Mitte",
+        "original_name": "RJ Mitte",
+        "popularity": 1.9919,
+        "profile_path": "/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg",
+        "cast_id": 1,
+        "character": "Issac",
+        "credit_id": "61ac22680d2f530061f8af86",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1098962,
+        "known_for_department": "Acting",
+        "name": "Dove Cameron",
+        "original_name": "Dove Cameron",
+        "popularity": 3.4048,
+        "profile_path": "/iVno9xxSJ5IGztYqnUTsFdHwCd2.jpg",
+        "cast_id": 2,
+        "character": "Cassi",
+        "credit_id": "61ac2271c072a2001d177cde",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3242556,
+        "known_for_department": "Acting",
+        "name": "Austyn Knight",
+        "original_name": "Austyn Knight",
+        "popularity": 0.1426,
+        "profile_path": "/lM5Y23JuPt1uYqg9zE2PxToSmXE.jpg",
+        "cast_id": 6,
+        "character": "Cynthia",
+        "credit_id": "61ac266a7f6c8d0041d9c556",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65831,
+        "known_for_department": "Acting",
+        "name": "Robert LaSardo",
+        "original_name": "Robert LaSardo",
+        "popularity": 1.7055,
+        "profile_path": "/maezwGo8JUbjECLB6VZJPtGvn1B.jpg",
+        "cast_id": 7,
+        "character": "Gregg",
+        "credit_id": "61ac26760d2f530061f8bad4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2094603,
+        "known_for_department": "Acting",
+        "name": "Pia Mia",
+        "original_name": "Pia Mia",
+        "popularity": 0.4358,
+        "profile_path": "/4klv1dkVPxwWoUVcKa4NBOAEJvl.jpg",
+        "cast_id": 8,
+        "character": "Angela",
+        "credit_id": "61ac2687596a91001b782fb8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2132398,
+        "known_for_department": "Acting",
+        "name": "Gigi Gustin",
+        "original_name": "Gigi Gustin",
+        "popularity": 0.4504,
+        "profile_path": "/iEI0ssWGEx1CsE53yc235QyLXlN.jpg",
+        "cast_id": 9,
+        "character": "Kelly",
+        "credit_id": "61ac269b35db45001c905a20",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 170240,
+        "known_for_department": "Acting",
+        "name": "Jay Giannone",
+        "original_name": "Jay Giannone",
+        "popularity": 0.2547,
+        "profile_path": "/fMRNeyjoHNtYwSBytga8m3ReMUs.jpg",
+        "cast_id": 10,
+        "character": "Mac",
+        "credit_id": "61ac26aae004a6001a21006a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1293584,
+        "known_for_department": "Acting",
+        "name": "Lauren Francesca",
+        "original_name": "Lauren Francesca",
+        "popularity": 0.83,
+        "profile_path": "/z0Np449itxiO48N8QA5dwoLrhit.jpg",
+        "cast_id": 11,
+        "character": "Beth",
+        "credit_id": "61ac26b5a84a47001cf3af4d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3242560,
+        "known_for_department": "Acting",
+        "name": "Kirsten Collins",
+        "original_name": "Kirsten Collins",
+        "popularity": 1.2551,
+        "profile_path": "/sTNC2Sq6Btj85JNQadTgpg3d0Te.jpg",
+        "cast_id": 12,
+        "character": "Blue",
+        "credit_id": "61ac26bff28838001e23c380",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1306640,
+        "known_for_department": "Acting",
+        "name": "Chelsea O'Toole",
+        "original_name": "Chelsea O'Toole",
+        "popularity": 0.6094,
+        "profile_path": "/pWBtIgo8WGVfUYf8Z30LzuOecP2.jpg",
+        "cast_id": 13,
+        "character": "Rebecca",
+        "credit_id": "61ac26cd07a808005fc111a0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2656672,
+        "known_for_department": "Acting",
+        "name": "Max Reeves",
+        "original_name": "Max Reeves",
+        "popularity": 2.3366,
+        "profile_path": "/lchoxqKR1jiratKhG7yR7nfuE0T.jpg",
+        "cast_id": 14,
+        "character": "Becki",
+        "credit_id": "61ac26df26346200887dd93a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1962359,
+        "known_for_department": "Acting",
+        "name": "Jeanne Kietzmann",
+        "original_name": "Jeanne Kietzmann",
+        "popularity": 0.0443,
+        "profile_path": "/kvflPSHNsJHuCCigTnl6KfoXeYN.jpg",
+        "cast_id": 15,
+        "character": "Waitress",
+        "credit_id": "61ac26ed7f6c8d006385c757",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2913397,
+        "known_for_department": "Acting",
+        "name": "Angel Ladao",
+        "original_name": "Angel Ladao",
+        "popularity": 0.0071,
+        "profile_path": "/q9wBsaSPwkn4S0KJLb6G2VZPWEq.jpg",
+        "cast_id": 16,
+        "character": "50's Girl",
+        "credit_id": "61ac26fa5e14e50063307fce",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 985259,
+        "known_for_department": "Acting",
+        "name": "Dawn Richard",
+        "original_name": "Dawn Richard",
+        "popularity": 0.8316,
+        "profile_path": "/8HzrxbRxcHOcqCHwG4h0y70aMnp.jpg",
+        "cast_id": 17,
+        "character": "Detective Riley",
+        "credit_id": "61ac2708678259001c0cc8e5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1436386,
+        "known_for_department": "Acting",
+        "name": "Michael Girgenti",
+        "original_name": "Michael Girgenti",
+        "popularity": 0.2305,
+        "profile_path": "/iSey1lkBUMMLCVNYemQigkA2IS8.jpg",
+        "cast_id": 18,
+        "character": "Trixie",
+        "credit_id": "61ac27155e14e500413cb641",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2631386,
+        "known_for_department": "Acting",
+        "name": "Adam Pepper",
+        "original_name": "Adam Pepper",
+        "popularity": 1.3745,
+        "profile_path": "/k24uHj5zxH4SwuI1jCl0D2RiLvY.jpg",
+        "cast_id": 19,
+        "character": "Three Guys",
+        "credit_id": "61ac2727aafebd001aaa1732",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3336044,
+        "known_for_department": "Acting",
+        "name": "Sabyr Omens",
+        "original_name": "Sabyr Omens",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Becca",
+        "credit_id": "61ac273caa659e001cb2b0ba",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3336045,
+        "known_for_department": "Acting",
+        "name": "Myah Coral",
+        "original_name": "Myah Coral",
+        "popularity": 0.0071,
+        "profile_path": "/tv0Wc857jkGNAY9a7H0vk0j8iBr.jpg",
+        "cast_id": 21,
+        "character": "Penelope",
+        "credit_id": "61ac2759a84a470087112c19",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3337684,
+        "known_for_department": "Acting",
+        "name": "Laci Carriere",
+        "original_name": "Laci Carriere",
+        "popularity": 0.1136,
+        "profile_path": "/iZG0FrElf70ug9uVjtKob7NfPlX.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "61adbe0907a808005fc3a6fc",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2013746,
+        "known_for_department": "Acting",
+        "name": "Alexa Speyer",
+        "original_name": "Alexa Speyer",
+        "popularity": 0.0586,
+        "profile_path": "/tfYWH1LiSwcwZjrZWFXRFcOlEnX.jpg",
+        "cast_id": 23,
+        "character": "1950s Diner Patron",
+        "credit_id": "67eab5163fca90d2dff709a0",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1436385,
+        "known_for_department": "Directing",
+        "name": "Josh Webber",
+        "original_name": "Josh Webber",
+        "popularity": 0.1917,
+        "profile_path": "/sNUjkSvBnDICUn8pPseKDuaK0hY.jpg",
+        "credit_id": "61ac22acd207f30064c7e9c6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1436385,
+        "known_for_department": "Directing",
+        "name": "Josh Webber",
+        "original_name": "Josh Webber",
+        "popularity": 0.1917,
+        "profile_path": "/sNUjkSvBnDICUn8pPseKDuaK0hY.jpg",
+        "credit_id": "61ac2288a6ddcb001c0e828f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 185956,
+        "known_for_department": "Acting",
+        "name": "Christopher Neil",
+        "original_name": "Christopher Neil",
+        "popularity": 0.3023,
+        "profile_path": null,
+        "credit_id": "61ac2299c072a20087ea8337",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

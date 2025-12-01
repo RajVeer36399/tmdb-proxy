@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/9KJ9sd9mxZYCqpsQUvryTaB1zNw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82123114",
+  "id": 1559572,
+  "imdb_id": "tt38608937",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "ONE SHOT with Ed Sheeran",
+  "overview": "One singer. One city. One shot. Ed Sheeran rocks the streets of New York with his greatest hits in this groundbreaking, real-time music experience.",
+  "popularity": 10.2063,
+  "poster_path": "/iSYHqrzvIuDm2HQ3ozM2vLugpRk.jpg",
+  "production_companies": [
+    {
+      "id": 261715,
+      "logo_path": "/b4jeQsb11OccK3kZnW8twrN39g7.png",
+      "name": "Fulwell Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-20",
+  "revenue": 0,
+  "runtime": 61,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One hour in New York. One continuous shot. No redos.",
+  "title": "ONE SHOT with Ed Sheeran",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 998387,
+        "known_for_department": "Acting",
+        "name": "Ed Sheeran",
+        "original_name": "Ed Sheeran",
+        "popularity": 2.669,
+        "profile_path": "/uecUgTQAJnoQVxzjUNACaal3AJD.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "68e75350da558e9ee130be77",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1911673,
+        "known_for_department": "Acting",
+        "name": "Camila Cabello",
+        "original_name": "Camila Cabello",
+        "popularity": 2.3234,
+        "profile_path": "/A2ydvwkjE6d85kU9J2xFXpP2RQC.jpg",
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "6911ec3daebdc1993d87566a",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 191750,
+        "known_for_department": "Directing",
+        "name": "Philip Barantini",
+        "original_name": "Philip Barantini",
+        "popularity": 0.4836,
+        "profile_path": "/8v03JkqIDNm6TnaTuCiD929bexm.jpg",
+        "credit_id": "68fa36a34f7c1b156b12810e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1146049,
+        "known_for_department": "Production",
+        "name": "Ben Winston",
+        "original_name": "Ben Winston",
+        "popularity": 0.5623,
+        "profile_path": "/g0doY7jsPSoyUeYSc3XhaMcPFJW.jpg",
+        "credit_id": "690eeaf49f53be2e004c75f7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 998387,
+        "known_for_department": "Acting",
+        "name": "Ed Sheeran",
+        "original_name": "Ed Sheeran",
+        "popularity": 2.669,
+        "profile_path": "/uecUgTQAJnoQVxzjUNACaal3AJD.jpg",
+        "credit_id": "690eeafc14dc73b323d24f37",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 191750,
+        "known_for_department": "Directing",
+        "name": "Philip Barantini",
+        "original_name": "Philip Barantini",
+        "popularity": 0.4836,
+        "profile_path": "/8v03JkqIDNm6TnaTuCiD929bexm.jpg",
+        "credit_id": "690eeb0612ca476d5add1593",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

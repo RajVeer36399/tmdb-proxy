@@ -1,0 +1,200 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 799793,
+  "imdb_id": "tt0349302",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "D' Uragons",
+  "overview": "Follow the adventure of Sherlock, a private detective and, Orot, a street-smart fellow as they track down the syndicate behind a jewelry robbery.",
+  "popularity": 5.9991,
+  "poster_path": "/a6c5rq7qqTgRgoSeMZ1SXccNrd0.jpg",
+  "production_companies": [
+    {
+      "id": 8356,
+      "logo_path": "/tais5f60IAWlBZvkU8KwjGvBUc4.png",
+      "name": "Viva Films",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2002-08-07",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "D' Uragons",
+  "video": false,
+  "vote_average": 10,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 189996,
+        "known_for_department": "Acting",
+        "name": "Eddie Garcia",
+        "original_name": "Eddie Garcia",
+        "popularity": 0.4383,
+        "profile_path": "/pKXhHl27xEnMMjTP95tOsZpCbwp.jpg",
+        "cast_id": 1,
+        "character": "Sherlock",
+        "credit_id": "6034fafb6cf3d50040fc4974",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1188622,
+        "known_for_department": "Acting",
+        "name": "Andrew E.",
+        "original_name": "Andrew E.",
+        "popularity": 0.9532,
+        "profile_path": "/eXIaUFEAzv7Br8x6zmrQHT3Ctds.jpg",
+        "cast_id": 2,
+        "character": "Orot",
+        "credit_id": "6034fb06e78687003ed255b3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1230948,
+        "known_for_department": "Acting",
+        "name": "Angelu de Leon",
+        "original_name": "Angelu de Leon",
+        "popularity": 0.1108,
+        "profile_path": "/c9Xdm6se0nI50CssOeKLvHAj8LD.jpg",
+        "cast_id": 3,
+        "character": "Claudia",
+        "credit_id": "6034fb10e78687003fd276b3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1053281,
+        "known_for_department": "Acting",
+        "name": "Patricia Javier",
+        "original_name": "Patricia Javier",
+        "popularity": 0.9849,
+        "profile_path": "/AeH5CknqDsA8yhR6ybtU9FH9YOz.jpg",
+        "cast_id": 4,
+        "character": "Maritess",
+        "credit_id": "6034fb1e38e51000403b6a57",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1353052,
+        "known_for_department": "Acting",
+        "name": "Joko Diaz",
+        "original_name": "Joko Diaz",
+        "popularity": 0.9304,
+        "profile_path": "/6yL5qOmyhrA5frvjcodygrWrnkR.jpg",
+        "cast_id": 5,
+        "character": "Grego",
+        "credit_id": "6034fb2ce78687003fd276b9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1373931,
+        "known_for_department": "Acting",
+        "name": "Mystica",
+        "original_name": "Mystica",
+        "popularity": 0.0947,
+        "profile_path": "/gJhcwrK8QYpbQXDth3MzYoKr6W8.jpg",
+        "cast_id": 6,
+        "character": "Donya Vda. De Ful",
+        "credit_id": "6034fb3b38e51000413b7bfa",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1493849,
+        "known_for_department": "Acting",
+        "name": "Eddie Arenas",
+        "original_name": "Eddie Arenas",
+        "popularity": 0.442,
+        "profile_path": "/31e0OImnzu7XnWSb6WIwCvrE4oj.jpg",
+        "cast_id": 7,
+        "character": "Don Serafin",
+        "credit_id": "6034fb45813831003f87adc1",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1075300,
+        "known_for_department": "Writing",
+        "name": "Ben Feleo",
+        "original_name": "Ben Feleo",
+        "popularity": 0.1174,
+        "profile_path": null,
+        "credit_id": "6034fb6538e510003e3b2635",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1075300,
+        "known_for_department": "Writing",
+        "name": "Ben Feleo",
+        "original_name": "Ben Feleo",
+        "popularity": 0.1174,
+        "profile_path": null,
+        "credit_id": "6034fb51c6006d003dbac256",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1075300,
+        "known_for_department": "Writing",
+        "name": "Ben Feleo",
+        "original_name": "Ben Feleo",
+        "popularity": 0.1174,
+        "profile_path": null,
+        "credit_id": "6034fb5b394a87004074bd1e",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  }
+}

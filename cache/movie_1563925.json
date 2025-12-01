@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/t2NdxB5kIscjsmK4ZKTWBf7XpY4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.nationalgeographic.com/tv/movies-and-specials/e0b2cc4c-155f-43bf-a678-78b5a8e62aae",
+  "id": 1563925,
+  "imdb_id": "tt38691426",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Chris Hemsworth: A Road Trip to Remember",
+  "overview": "In his most personal documentary yet, Chris Hemsworth turns the camera on his own family after his dad’s recent Alzheimer’s diagnosis. They embark on a road trip into their past, exploring the science of social connection and how it can support memory function. They revisit meaningful places and faces, capturing it all as a home movie, and reviving treasured recollections.",
+  "popularity": 6.9348,
+  "poster_path": "/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg",
+  "production_companies": [
+    {
+      "id": 7503,
+      "logo_path": "/3K8wbNkTn7O4wX89ucnp1ZYR1XF.png",
+      "name": "Protozoa Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 46077,
+      "logo_path": "/7d5nLhfl5dWSDa79L5sV8qn3RBg.png",
+      "name": "Nutopia",
+      "origin_country": "GB"
+    },
+    {
+      "id": 183787,
+      "logo_path": "/8G6CbTenzORJdoep1AaghtSEQrY.png",
+      "name": "Wild State",
+      "origin_country": "US"
+    },
+    {
+      "id": 7521,
+      "logo_path": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+      "name": "National Geographic",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-11-23",
+  "revenue": 0,
+  "runtime": 51,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Chris Hemsworth: A Road Trip to Remember",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5753698,
+        "known_for_department": "Acting",
+        "name": "Craig Hemsworth",
+        "original_name": "Craig Hemsworth",
+        "popularity": 0.0451,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "68f15e48d9514ba0d5ad807a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74568,
+        "known_for_department": "Acting",
+        "name": "Chris Hemsworth",
+        "original_name": "Chris Hemsworth",
+        "popularity": 7.4723,
+        "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "68f15e4daefe322b69503319",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1072699,
+        "known_for_department": "Directing",
+        "name": "Tom Barbor-Might",
+        "original_name": "Tom Barbor-Might",
+        "popularity": 0.0885,
+        "profile_path": null,
+        "credit_id": "68f688e6b7e6dfdf3b8f8a9c",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

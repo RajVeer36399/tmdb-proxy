@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 238888,
+  "imdb_id": "tt0026896",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Public Life of Henry the Ninth",
+  "overview": "Henry, an unemployed London street entertainer, gets his big break when he is engaged to perform as the opening act of a cabaret in local pub. He proves a huge success and his popularity ensures his transition from pub entertainer to star performer.",
+  "popularity": 6.5863,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 1314,
+      "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
+      "name": "Hammer Film Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "1935-01-23",
+  "revenue": 0,
+  "runtime": 60,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Public Life of Henry the Ninth",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1081065,
+        "known_for_department": "Acting",
+        "name": "Leonard Henry",
+        "original_name": "Leonard Henry",
+        "popularity": 0.0387,
+        "profile_path": "/giKeN40qg8lUFvEym0bqYLz2QtZ.jpg",
+        "cast_id": 2,
+        "character": "Henry",
+        "credit_id": "52fe4e87c3a36847f8296515",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1273636,
+        "known_for_department": "Acting",
+        "name": "Betty Frankiss",
+        "original_name": "Betty Frankiss",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Maggie",
+        "credit_id": "52fe4e87c3a36847f8296519",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 940100,
+        "known_for_department": "Acting",
+        "name": "George Mozart",
+        "original_name": "George Mozart",
+        "popularity": 1.3598,
+        "profile_path": "/vaP1vHnnfsK7Ragvx4yO6vqBpdb.jpg",
+        "cast_id": 4,
+        "character": "Draughts Player",
+        "credit_id": "52fe4e87c3a36847f829651d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 554381,
+        "known_for_department": "Acting",
+        "name": "Wally Patch",
+        "original_name": "Wally Patch",
+        "popularity": 0.088,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Landlord",
+        "credit_id": "52fe4e87c3a36847f8296521",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1273635,
+        "known_for_department": "Directing",
+        "name": "Bernerd Mainwaring",
+        "original_name": "Bernerd Mainwaring",
+        "popularity": 0.078,
+        "profile_path": null,
+        "credit_id": "52fe4e87c3a36847f8296511",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

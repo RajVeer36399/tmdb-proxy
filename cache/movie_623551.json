@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 623551,
+  "imdb_id": "tt0010961",
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Anita",
+  "overview": "A lady of society is trapped under the spell of a hypnotist.",
+  "popularity": 6.0126,
+  "poster_path": "/xi0daovi7eh6ZXPMczHm88R3hbl.jpg",
+  "production_companies": [
+    {
+      "id": 27322,
+      "logo_path": null,
+      "name": "Wiener Kunstfilm",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "1920-03-26",
+  "revenue": 0,
+  "runtime": 58,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Anita",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 590588,
+        "known_for_department": "Acting",
+        "name": "Lola Urban-Kneidinger",
+        "original_name": "Lola Urban-Kneidinger",
+        "popularity": 0.0398,
+        "profile_path": "/ovWE5nvAcNXbHuJUERwElnfEHNG.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "5d560783bc86574b372d0fb7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2388113,
+        "known_for_department": "Acting",
+        "name": "Wilhelm Klitsch",
+        "original_name": "Wilhelm Klitsch",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "5d56078abc86574b372d0fbf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1913377,
+        "known_for_department": "Acting",
+        "name": "Julius Strobl",
+        "original_name": "Julius Strobl",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "5d560790e8131d095d897392",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2388141,
+        "known_for_department": "Acting",
+        "name": "Nora Herbert",
+        "original_name": "Nora Herbert",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "5d560795bc86574b372d0fe1",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590737,
+        "known_for_department": "Writing",
+        "name": "Fritz Löhner-Beda",
+        "original_name": "Fritz Löhner-Beda",
+        "popularity": 0.0286,
+        "profile_path": "/jeC66wwrAZeByL9VGKkmmWY5kce.jpg",
+        "credit_id": "5d56075dbc86574b352d10dd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1112545,
+        "known_for_department": "Directing",
+        "name": "Jakob Fleck",
+        "original_name": "Jakob Fleck",
+        "popularity": 0.1025,
+        "profile_path": null,
+        "credit_id": "5d560774bc86574b372d0fa8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1112546,
+        "known_for_department": "Directing",
+        "name": "Luise Fleck",
+        "original_name": "Luise Fleck",
+        "popularity": 0.3792,
+        "profile_path": "/noxHOwp0yTgCU93QSOBJ3C48nPM.jpg",
+        "credit_id": "5d5607694bc38b1954254aed",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

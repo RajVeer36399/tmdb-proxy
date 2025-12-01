@@ -1,0 +1,357 @@
+{
+  "adult": false,
+  "backdrop_path": "/4JHTXLr5QbQ6DOeJm4EGjOz6hJO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 211867,
+  "imdb_id": "tt0138297",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Animali metropolitani",
+  "overview": "In the year 2030 mankind has regressed to ape form. In order to explain this, a scientist shows a 20th century film about a Roman couple in a society gone mad slightly more than usual to his audience.",
+  "popularity": 4.0277,
+  "poster_path": "/swNYCPpGaHin27dv6LYIaLqsJix.jpg",
+  "production_companies": [
+    {
+      "id": 43711,
+      "logo_path": null,
+      "name": "Dean Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 15868,
+      "logo_path": null,
+      "name": "Medusa Distribuzione",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1242,
+      "logo_path": "/qOvcm1WCLlAdNoQ1kCkk2J7bhWk.png",
+      "name": "Reteitalia",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1988-05-09",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Metropolitan Animals",
+  "video": false,
+  "vote_average": 4.3,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9221,
+        "known_for_department": "Acting",
+        "name": "Donald Pleasence",
+        "original_name": "Donald Pleasence",
+        "popularity": 1.5768,
+        "profile_path": "/eVJGFCd8ikP6w0XjkuiTbsm65eD.jpg",
+        "cast_id": 2,
+        "character": "Prof. Livingstone",
+        "credit_id": "53af53410e0a265986005155",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12776,
+        "known_for_department": "Acting",
+        "name": "Senta Berger",
+        "original_name": "Senta Berger",
+        "popularity": 2.4159,
+        "profile_path": "/4tjzz7GbkT2KqiwgTPqBOk20wZ9.jpg",
+        "cast_id": 21,
+        "character": "Dottoressa Abbott",
+        "credit_id": "580580c192514170a70054a4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23367,
+        "known_for_department": "Acting",
+        "name": "Ninetto Davoli",
+        "original_name": "Ninetto Davoli",
+        "popularity": 0.8749,
+        "profile_path": "/bOs054IC9yaP2DDKdXdH2OEznES.jpg",
+        "cast_id": 3,
+        "character": "Spartaco Scorcelletti",
+        "credit_id": "53af53570e0a265983005248",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236559,
+        "known_for_department": "Acting",
+        "name": "Galeazzo Benti",
+        "original_name": "Galeazzo Benti",
+        "popularity": 0.1512,
+        "profile_path": "/4A34tHmWo1Md2UIKXhQHHE3tuBA.jpg",
+        "cast_id": 22,
+        "character": "Dott. Cohen",
+        "credit_id": "580580efc3a3681db00048c6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1097066,
+        "known_for_department": "Acting",
+        "name": "Enzo Braschi",
+        "original_name": "Enzo Braschi",
+        "popularity": 0.1313,
+        "profile_path": "/4r0JM6DOBTlHQ642mUOIhX0JdLT.jpg",
+        "cast_id": 8,
+        "character": "Prof. Ruggero Leone",
+        "credit_id": "53af53a00e0a265983005251",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107187,
+        "known_for_department": "Acting",
+        "name": "Karina Huff",
+        "original_name": "Karina Huff",
+        "popularity": 0.6009,
+        "profile_path": "/k2bkAYMaY1U8e8wvdZBl2IvKTPG.jpg",
+        "cast_id": 9,
+        "character": "Security Love Park Client",
+        "credit_id": "53af53ad0e0a2659750052df",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228158,
+        "known_for_department": "Acting",
+        "name": "Maurizio Micheli",
+        "original_name": "Maurizio Micheli",
+        "popularity": 0.5638,
+        "profile_path": "/vv3b25Y1jMnNcuIpTRtns9piuT.jpg",
+        "cast_id": 4,
+        "character": "Rag. Coniglio",
+        "credit_id": "53af53630e0a2659750052d6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80636,
+        "known_for_department": "Acting",
+        "name": "Maurizio Ferrini",
+        "original_name": "Maurizio Ferrini",
+        "popularity": 0.1005,
+        "profile_path": "/wZKTp0hXMGNktarvKYvfoY72gpg.jpg",
+        "cast_id": 6,
+        "character": "Loris Zamberlini",
+        "credit_id": "53af53820e0a26598600515e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225550,
+        "known_for_department": "Acting",
+        "name": "Mara Venier",
+        "original_name": "Mara Venier",
+        "popularity": 0.5132,
+        "profile_path": "/offh2VeyKKGPBRhRVkehVT2e5Hv.jpg",
+        "cast_id": 14,
+        "character": "Marchesa Esmeralda",
+        "credit_id": "53af544c0e0a265980005307",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120636,
+        "known_for_department": "Acting",
+        "name": "Renato Cecchetto",
+        "original_name": "Renato Cecchetto",
+        "popularity": 0.2829,
+        "profile_path": "/qrdywLcLWFKOozTqEuChflSFWZe.jpg",
+        "cast_id": 7,
+        "character": "Oscar Innocenzi",
+        "credit_id": "53af53900e0a26598c005303",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1033001,
+        "known_for_department": "Acting",
+        "name": "Sofia Lombardo",
+        "original_name": "Sofia Lombardo",
+        "popularity": 1.114,
+        "profile_path": "/fngOjMEauO7rYOJTPYvXtPK5pjV.jpg",
+        "cast_id": 10,
+        "character": "Stefania Cocci",
+        "credit_id": "53af53bc0e0a26598600516b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1014913,
+        "known_for_department": "Acting",
+        "name": "Pino Ammendola",
+        "original_name": "Pino Ammendola",
+        "popularity": 0.6952,
+        "profile_path": "/kgkGgGFiKPV0DDqRMXQ6vzJ8A2t.jpg",
+        "cast_id": 11,
+        "character": "Il regista",
+        "credit_id": "53af53cf0e0a265983005256",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1108286,
+        "known_for_department": "Acting",
+        "name": "Maria Tedeschi",
+        "original_name": "Maria Tedeschi",
+        "popularity": 0.7526,
+        "profile_path": "/tF3oeho2TkUZJrbpaIjN0slxYO7.jpg",
+        "cast_id": 15,
+        "character": "Old woman at the gym",
+        "credit_id": "53af54600e0a2659890052d2",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67924,
+        "known_for_department": "Directing",
+        "name": "Steno",
+        "original_name": "Steno",
+        "popularity": 0.2436,
+        "profile_path": "/osXoJ0ARTKcpGiQ8WuZ0jm0STPA.jpg",
+        "credit_id": "52fe4d9ec3a368484e1f32d3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69040,
+        "known_for_department": "Writing",
+        "name": "Enrico Vanzina",
+        "original_name": "Enrico Vanzina",
+        "popularity": 3.0906,
+        "profile_path": "/Abmy1bcaHoBrQCUcOh60QE9tJiF.jpg",
+        "credit_id": "53af549e0e0a26598c005316",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67924,
+        "known_for_department": "Directing",
+        "name": "Steno",
+        "original_name": "Steno",
+        "popularity": 0.2436,
+        "profile_path": "/osXoJ0ARTKcpGiQ8WuZ0jm0STPA.jpg",
+        "credit_id": "53af54ae0e0a26598c005319",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1140624,
+        "known_for_department": "Writing",
+        "name": "Marco Cavaliere",
+        "original_name": "Marco Cavaliere",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "53af54bb0e0a265983005267",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32662,
+        "known_for_department": "Acting",
+        "name": "Umberto Smaila",
+        "original_name": "Umberto Smaila",
+        "popularity": 0.1253,
+        "profile_path": "/6To8gjCuPBeSgj85z91rmEaGDdF.jpg",
+        "credit_id": "53af54ea0e0a26597900533a",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1335330,
+        "known_for_department": "Camera",
+        "name": "Giovanni di Battista",
+        "original_name": "Giovanni di Battista",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "53af54fe0e0a26598000531c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565407,
+        "known_for_department": "Production",
+        "name": "Pio Angeletti",
+        "original_name": "Pio Angeletti",
+        "popularity": 0.0778,
+        "profile_path": "/pGXKlaOaazS9PEJli4QqZIOV1IW.jpg",
+        "credit_id": "66dcd079da34861b60ee25f9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565408,
+        "known_for_department": "Production",
+        "name": "Adriano De Micheli",
+        "original_name": "Adriano De Micheli",
+        "popularity": 0.1498,
+        "profile_path": "/jOLCw3xKWJWJTSKOzAHVL43wVme.jpg",
+        "credit_id": "66dcd08349fb42eaf438a299",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

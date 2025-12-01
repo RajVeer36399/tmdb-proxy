@@ -1,0 +1,420 @@
+{
+  "adult": false,
+  "backdrop_path": "/uVwoCREx73OxEhJ4vaI3UYV0r1m.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 167830,
+  "imdb_id": "tt0167210",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Incontri proibiti",
+  "overview": "Armando Andreoli, a well-known engineer of almost 80 years, is approached by Federica, an assistant nurse who then invites him to his hotel room. In the morning, Federica's boyfriend arrives in the room, suspecting a relationship that has never existed.",
+  "popularity": 7.3881,
+  "poster_path": "/vKdd2hBtFbII7LFg6rF3r48Fh4W.jpg",
+  "production_companies": [
+    {
+      "id": 45996,
+      "logo_path": null,
+      "name": "Aurelia Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 4753,
+      "logo_path": "/v596rkvfJX3K6Ypgd4KHkzOhQrs.png",
+      "name": "Filmauro",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1998-09-24",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Incontri proibiti",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 15,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45982,
+        "known_for_department": "Acting",
+        "name": "Alberto Sordi",
+        "original_name": "Alberto Sordi",
+        "popularity": 0.4121,
+        "profile_path": "/rJhtlCbXFizYE6yW4GmJND45MX7.jpg",
+        "cast_id": 1,
+        "character": "Armando Andreoli",
+        "credit_id": "52fe4cbbc3a36847f823c743",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 106704,
+        "known_for_department": "Acting",
+        "name": "Valeria Marini",
+        "original_name": "Valeria Marini",
+        "popularity": 0.5741,
+        "profile_path": "/zJKJiYYVGiDC0CHmWbQuGCRVb66.jpg",
+        "cast_id": 2,
+        "character": "Federica Pescatore",
+        "credit_id": "52fe4cbbc3a36847f823c747",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 560297,
+        "known_for_department": "Acting",
+        "name": "Franca Faldini",
+        "original_name": "Franca Faldini",
+        "popularity": 0.284,
+        "profile_path": "/Akbj1xoRDro7GXyz7Imvtt7l6iK.jpg",
+        "cast_id": 3,
+        "character": "Alessandra Andreoli",
+        "credit_id": "52fe4cbbc3a36847f823c74b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33820,
+        "known_for_department": "Acting",
+        "name": "Franco Fantasia",
+        "original_name": "Franco Fantasia",
+        "popularity": 0.5525,
+        "profile_path": "/1EaVh7LwdX7vPPBLYpeX9oWL6hd.jpg",
+        "cast_id": 4,
+        "character": "Dott. Attilio Velardi",
+        "credit_id": "52fe4cbbc3a36847f823c74f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122022,
+        "known_for_department": "Acting",
+        "name": "Enzo Robutti",
+        "original_name": "Enzo Robutti",
+        "popularity": 0.777,
+        "profile_path": "/zaFLnjkEdUE0OvPh21ItLavRiwr.jpg",
+        "cast_id": 5,
+        "character": "Federica's father",
+        "credit_id": "52fe4cbbc3a36847f823c753",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1090591,
+        "known_for_department": "Acting",
+        "name": "Enrico Bertolino",
+        "original_name": "Enrico Bertolino",
+        "popularity": 0.1218,
+        "profile_path": "/935IU22Al8C98ZOnHhbhd41v2EM.jpg",
+        "cast_id": 7,
+        "character": "Giorgio",
+        "credit_id": "52fe4cbbc3a36847f823c75b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1149593,
+        "known_for_department": "Acting",
+        "name": "Michel Leroy",
+        "original_name": "Michel Leroy",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "52fe4cbbc3a36847f823c75f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 243795,
+        "known_for_department": "Acting",
+        "name": "Gisella Sofio",
+        "original_name": "Gisella Sofio",
+        "popularity": 0.1593,
+        "profile_path": "/5151xQ9ejTWoWT6XERnocCfnwoq.jpg",
+        "cast_id": 23,
+        "character": "Nun at hospital",
+        "credit_id": "59f3647792514122f8015b31",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1912880,
+        "known_for_department": "Acting",
+        "name": "Julio Cesar De La Fuente",
+        "original_name": "Julio Cesar De La Fuente",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Giorgio's father",
+        "credit_id": "59f364b59251416aaf052b7e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 238054,
+        "known_for_department": "Acting",
+        "name": "Gloria Cocco",
+        "original_name": "Gloria Coco",
+        "popularity": 0.0963,
+        "profile_path": "/z25PS0PvkmYr5Y1ISI1zMIlxPp0.jpg",
+        "cast_id": 25,
+        "character": "Federica's mother",
+        "credit_id": "59f364bc92514122c1015550",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1912881,
+        "known_for_department": "Acting",
+        "name": "Margherita Simoni",
+        "original_name": "Margherita Simoni",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Contessa Galbiati",
+        "credit_id": "59f364c5c3a368719f015284",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1912882,
+        "known_for_department": "Acting",
+        "name": "Alicia Vaccarini",
+        "original_name": "Alicia Vaccarini",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Mercedes",
+        "credit_id": "59f364cd9251412230015600",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1912883,
+        "known_for_department": "Acting",
+        "name": "Liliana Gimenez",
+        "original_name": "Liliana Gimenez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Gloria",
+        "credit_id": "59f364d592514122910156ad",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45982,
+        "known_for_department": "Acting",
+        "name": "Alberto Sordi",
+        "original_name": "Alberto Sordi",
+        "popularity": 0.4121,
+        "profile_path": "/rJhtlCbXFizYE6yW4GmJND45MX7.jpg",
+        "credit_id": "52fe4cbbc3a36847f823c765",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45982,
+        "known_for_department": "Acting",
+        "name": "Alberto Sordi",
+        "original_name": "Alberto Sordi",
+        "popularity": 0.4121,
+        "profile_path": "/rJhtlCbXFizYE6yW4GmJND45MX7.jpg",
+        "credit_id": "52fe4cbbc3a36847f823c76b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138209,
+        "known_for_department": "Writing",
+        "name": "Rodolfo Sonego",
+        "original_name": "Rodolfo Sonego",
+        "popularity": 0.3802,
+        "profile_path": "/okI64ZvoKxcndytVYoLYl4pxr0Z.jpg",
+        "credit_id": "52fe4cbbc3a36847f823c771",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31853,
+        "known_for_department": "Sound",
+        "name": "Gianni Ferrio",
+        "original_name": "Gianni Ferrio",
+        "popularity": 0.1096,
+        "profile_path": null,
+        "credit_id": "52fe4cbbc3a36847f823c77d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41383,
+        "known_for_department": "Production",
+        "name": "Aurelio De Laurentiis",
+        "original_name": "Aurelio De Laurentiis",
+        "popularity": 0.2585,
+        "profile_path": "/2lWsvyk56zpftyhhPDMi36f13gj.jpg",
+        "credit_id": "52fe4cbbc3a36847f823c783",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69043,
+        "known_for_department": "Production",
+        "name": "Maurizio Amati",
+        "original_name": "Maurizio Amati",
+        "popularity": 0.1359,
+        "profile_path": "/jSRttSzme3DWO9Tthjme9wNQ8U5.jpg",
+        "credit_id": "52fe4cbbc3a36847f823c789",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25321,
+        "known_for_department": "Sound",
+        "name": "Piero Piccioni",
+        "original_name": "Piero Piccioni",
+        "popularity": 0.7393,
+        "profile_path": "/ArFViJn3OmeE7CLXpyeg6yoku0B.jpg",
+        "credit_id": "59f36361925141222201561e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24665,
+        "known_for_department": "Camera",
+        "name": "Armando Nannuzzi",
+        "original_name": "Armando Nannuzzi",
+        "popularity": 0.0897,
+        "profile_path": null,
+        "credit_id": "59f363779251416aaf0529f0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43724,
+        "known_for_department": "Editing",
+        "name": "Tatiana Casini Morigi",
+        "original_name": "Tatiana Casini Morigi",
+        "popularity": 0.112,
+        "profile_path": null,
+        "credit_id": "59f3637e925141229f015ee3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1438841,
+        "known_for_department": "Art",
+        "name": "Marco Dentici",
+        "original_name": "Marco Dentici",
+        "popularity": 0.6498,
+        "profile_path": null,
+        "credit_id": "59f36387c3a368719f01510f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1501815,
+        "known_for_department": "Art",
+        "name": "Maria Teresa Padula",
+        "original_name": "Maria Teresa Padula",
+        "popularity": 0.047,
+        "profile_path": null,
+        "credit_id": "59f3638ec3a368714b016205",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1162649,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paola Marchesin",
+        "original_name": "Paola Marchesin",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "59f36395c3a3687217013e92",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1912877,
+        "known_for_department": "Directing",
+        "name": "Giandomenico Trillo",
+        "original_name": "Giandomenico Trillo",
+        "popularity": 0.1463,
+        "profile_path": null,
+        "credit_id": "59f363a1925141223b015d38",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  }
+}

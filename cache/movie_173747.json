@@ -1,0 +1,244 @@
+{
+  "adult": false,
+  "backdrop_path": "/bNv0mj59xbkxpg1UAbB7O6WIz2i.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 173747,
+  "imdb_id": "tt0036676",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Buckaroo Bugs",
+  "overview": "Red Hot Ryder is sent to catch the Masked Marauder (Bugs Bunny) who is terrorizing a small Western town.",
+  "popularity": 4.9967,
+  "poster_path": "/hcTtNDm2ljLGSMvLmUuwddwyjES.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 134798,
+      "logo_path": null,
+      "name": "Leon Schlesinger Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1944-08-26",
+  "revenue": 0,
+  "runtime": 8,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Buckaroo Bugs",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33923,
+        "known_for_department": "Acting",
+        "name": "Mel Blanc",
+        "original_name": "Mel Blanc",
+        "popularity": 0.7183,
+        "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+        "cast_id": 1,
+        "character": "Bugs Bunny / Red Hot Ryder / Villagers (voice)",
+        "credit_id": "52fe4d3bc3a36847f8255add",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930124,
+        "known_for_department": "Acting",
+        "name": "Robert C. Bruce",
+        "original_name": "Robert C. Bruce",
+        "popularity": 0.191,
+        "profile_path": "/mCJ5S33hPvWeFGojwU659iUvqaV.jpg",
+        "cast_id": 2,
+        "character": "Narrator / Villagers (voice) (uncredited)",
+        "credit_id": "52fe4d3bc3a36847f8255ae1",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149374,
+        "known_for_department": "Production",
+        "name": "Leon Schlesinger",
+        "original_name": "Leon Schlesinger",
+        "popularity": 0.1192,
+        "profile_path": "/is9gdhtLfaCYwWdeACDgAjdDA1w.jpg",
+        "credit_id": "52fe4d3bc3a36847f8255af3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551674,
+        "known_for_department": "Sound",
+        "name": "Carl W. Stalling",
+        "original_name": "Carl W. Stalling",
+        "popularity": 0.3613,
+        "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+        "credit_id": "52fe4d3bc3a36847f8255aed",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121037,
+        "known_for_department": "Directing",
+        "name": "Robert Clampett",
+        "original_name": "Robert Clampett",
+        "popularity": 0.188,
+        "profile_path": "/2x8KjXomM8psGFzNXgsGVbaSm5X.jpg",
+        "credit_id": "52fe4d3bc3a36847f8255ae7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170239,
+        "known_for_department": "Directing",
+        "name": "Lou Lilly",
+        "original_name": "Lou Lilly",
+        "popularity": 0.0534,
+        "profile_path": null,
+        "credit_id": "52fe4d3bc3a36847f8255af9",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113241,
+        "known_for_department": "Visual Effects",
+        "name": "Rod Scribner",
+        "original_name": "Rod Scribner",
+        "popularity": 0.0493,
+        "profile_path": null,
+        "credit_id": "5c4633e10e0a26494fc8006a",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.2431,
+        "profile_path": null,
+        "credit_id": "5c463404c3a368478983f95a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 573552,
+        "known_for_department": "Visual Effects",
+        "name": "A.C. Gamer",
+        "original_name": "A.C. Gamer",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "5c46348f0e0a26495dc80a3f",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.2431,
+        "profile_path": null,
+        "credit_id": "5c46340e9251415e344e9f8c",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132742,
+        "known_for_department": "Directing",
+        "name": "Robert McKimson",
+        "original_name": "Robert McKimson",
+        "popularity": 0.9129,
+        "profile_path": "/4fgokuTV7tlwekg91WeDZRuLQNc.jpg",
+        "credit_id": "5c4633d99251410e244f5ebe",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1110468,
+        "known_for_department": "Visual Effects",
+        "name": "Manny Gould",
+        "original_name": "Manny Gould",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5c4633c2c3a368576a8337c5",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1126707,
+        "known_for_department": "Visual Effects",
+        "name": "Thomas McKimson",
+        "original_name": "Thomas McKimson",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "5c4633f0c3a3684e968367af",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  }
+}

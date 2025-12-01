@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/h4YdTMJ6h0Poyo5XHn8vk4wTczT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1377505,
+  "imdb_id": "tt18259224",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Spithood",
+  "overview": "When a dangerous patient escapes confinement in a mental asylum and goes on a rampant killing spree, the night shift staff face their worst nightmare, as they fight for survival.",
+  "popularity": 47.4287,
+  "poster_path": "/zV5djt7n4IZDR0ixq7hsafNTj91.jpg",
+  "production_companies": [
+    {
+      "id": 110060,
+      "logo_path": "/vlQMY1NYel1rhmkD7bMHg0sdGLJ.png",
+      "name": "Firestick Films",
+      "origin_country": "AU"
+    },
+    {
+      "id": 235814,
+      "logo_path": null,
+      "name": "Hidden Ridge Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2024-10-25",
+  "revenue": 0,
+  "runtime": 58,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Spithood",
+  "video": false,
+  "vote_average": 5.038,
+  "vote_count": 13,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1980654,
+        "known_for_department": "Acting",
+        "name": "Thibul Nettle",
+        "original_name": "Thibul Nettle",
+        "popularity": 0.0797,
+        "profile_path": "/6QkHCpQZmurml9veKwFRn7YzqkS.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "671cbee9769107d77b47dc69",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2095157,
+        "known_for_department": "Acting",
+        "name": "Claudia Bonifazio",
+        "original_name": "Claudia Bonifazio",
+        "popularity": 0.2422,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "671cbef22685cb6563c0f2c6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2045328,
+        "known_for_department": "Acting",
+        "name": "Natasha Wanganeen",
+        "original_name": "Natasha Wanganeen",
+        "popularity": 0.998,
+        "profile_path": "/kqFeFHNBbW0KgDyMO4YueichoHg.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "671cbefb769107d77b47dc7d",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023430,
+        "known_for_department": "Directing",
+        "name": "Tim Pine",
+        "original_name": "Tim Pine",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "671cbeba27bd57d91f62c295",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023431,
+        "known_for_department": "Writing",
+        "name": "Tim Pine",
+        "original_name": "Tim Pine",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "671cbece2685cb6563c0f2bc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023432,
+        "known_for_department": "Writing",
+        "name": "Travis Akbar",
+        "original_name": "Travis Akbar",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "671cbed727bd57d91f62c2aa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1980654,
+        "known_for_department": "Acting",
+        "name": "Thibul Nettle",
+        "original_name": "Thibul Nettle",
+        "popularity": 0.0797,
+        "profile_path": "/6QkHCpQZmurml9veKwFRn7YzqkS.jpg",
+        "credit_id": "671cbee2e833d92ef0603ab0",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

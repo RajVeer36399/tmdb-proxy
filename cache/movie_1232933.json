@@ -1,0 +1,367 @@
+{
+  "adult": false,
+  "backdrop_path": "/hr3yzjzfsiNxWqlDgRTSHgYB7fz.jpg",
+  "belongs_to_collection": null,
+  "budget": 11000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1232933,
+  "imdb_id": "tt13098590",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Fear Below",
+  "overview": "A rag-tag team of divers attempting to salvage a sunken car from a river are thwarted by a highly aggressive bull shark.",
+  "popularity": 6.7785,
+  "poster_path": "/obK2G8huZWeAQEgOz1I47AkzHYh.jpg",
+  "production_companies": [
+    {
+      "id": 82273,
+      "logo_path": "/bdLK2wX6DYIj9jtw1kW0guXvLta.png",
+      "name": "Odin's Eye Entertainment",
+      "origin_country": "AU"
+    },
+    {
+      "id": 103845,
+      "logo_path": "/2Ro1iQDguoYtWhl7c2Xy0McsZ0H.png",
+      "name": "Bronte Pictures",
+      "origin_country": "AU"
+    },
+    {
+      "id": 89446,
+      "logo_path": null,
+      "name": "Two Tone Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-05-02",
+  "revenue": 311205,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You won't see it coming",
+  "title": "Fear Below",
+  "video": false,
+  "vote_average": 6.312,
+  "vote_count": 125,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1345419,
+        "known_for_department": "Acting",
+        "name": "Hermione Corfield",
+        "original_name": "Hermione Corfield",
+        "popularity": 2.3376,
+        "profile_path": "/rX45K3pfyXDXruVRmlDmvMzCLvF.jpg",
+        "cast_id": 21,
+        "character": "Clara Bennett",
+        "credit_id": "65eeca35e72fe801855c37e2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531206,
+        "known_for_department": "Acting",
+        "name": "Jake Ryan",
+        "original_name": "Jake Ryan",
+        "popularity": 0.6942,
+        "profile_path": "/3OO5qc1kj2ny7rCLjKYDdEzPBdJ.jpg",
+        "cast_id": 11,
+        "character": "Dylan 'Bull' Maddock",
+        "credit_id": "65a962b70e5aba012f7dfbb1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281967,
+        "known_for_department": "Acting",
+        "name": "Josh McConville",
+        "original_name": "Josh McConville",
+        "popularity": 0.5398,
+        "profile_path": "/3Au004X5BsV5KIpOLMB8g9DuevT.jpg",
+        "cast_id": 12,
+        "character": "Janusz Wojcik",
+        "credit_id": "65a962cf6f9746012ed918c5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108946,
+        "known_for_department": "Acting",
+        "name": "Kevin Dee",
+        "original_name": "Kevin Dee",
+        "popularity": 0.3582,
+        "profile_path": "/sjfypAWoYbhS6jFWPx2RF5QvfHf.jpg",
+        "cast_id": 13,
+        "character": "Dwight Lewis",
+        "credit_id": "65a962df7d2bc1012dea7e7f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56347,
+        "known_for_department": "Acting",
+        "name": "Clayton Watson",
+        "original_name": "Clayton Watson",
+        "popularity": 0.6487,
+        "profile_path": "/7T4RCGl5jfpB1XcjXywb6ZmwGUC.jpg",
+        "cast_id": 14,
+        "character": "Bob Drummond",
+        "credit_id": "65a962ee0e5aba01387dffdf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110516,
+        "known_for_department": "Acting",
+        "name": "Sam Parsonson",
+        "original_name": "Sam Parsonson",
+        "popularity": 0.1839,
+        "profile_path": "/ta9h0LYwhyDTjUDhtwCuA8B8R9I.jpg",
+        "cast_id": 15,
+        "character": "Frank Sturgess",
+        "credit_id": "65a9630071083a0134f08617",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2516831,
+        "known_for_department": "Acting",
+        "name": "Jacob Junior Nayinggul",
+        "original_name": "Jacob Junior Nayinggul",
+        "popularity": 0.2092,
+        "profile_path": "/5ackR05aMPwz2LZnSbVVUFpBFdn.jpg",
+        "cast_id": 16,
+        "character": "Jimmy Barriakada",
+        "credit_id": "65a96319c4f55201378e7859",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107474,
+        "known_for_department": "Acting",
+        "name": "Arthur Angel",
+        "original_name": "Arthur Angel",
+        "popularity": 0.8543,
+        "profile_path": "/ds27HdKDhJaXdKnmT1iftzCPfaO.jpg",
+        "cast_id": 17,
+        "character": "Ernie Morgan",
+        "credit_id": "65a9632aea3949012b1f5b1a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2479415,
+        "known_for_department": "Acting",
+        "name": "Maximillian Johnson",
+        "original_name": "Maximillian Johnson",
+        "popularity": 0.8704,
+        "profile_path": "/sjlNcH8ftVnbYzMkVw2tB1CVYuC.jpg",
+        "cast_id": 18,
+        "character": "Shaun Cullen",
+        "credit_id": "65a963407d2bc10133ea8834",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3142835,
+        "known_for_department": "Acting",
+        "name": "Will Fletcher",
+        "original_name": "Will Fletcher",
+        "popularity": 1.4095,
+        "profile_path": "/muaodyITSCIODVh3xZvTd4OFy4x.jpg",
+        "cast_id": 19,
+        "character": "Sgt Potter",
+        "credit_id": "65a96350a6ddcb0133249780",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1707879,
+        "known_for_department": "Acting",
+        "name": "Tom Beaurepaire",
+        "original_name": "Tom Beaurepaire",
+        "popularity": 0.0607,
+        "profile_path": "/aVtTK0DySpeCx4NZaKCMInYNmZI.jpg",
+        "cast_id": 20,
+        "character": "Paul Whitemore",
+        "credit_id": "65a963738eda87013485e96d",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1707966,
+        "known_for_department": "Production",
+        "name": "Michael Favelle",
+        "original_name": "Michael Favelle",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65a9624dea394901311f5ca1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1707753,
+        "known_for_department": "Directing",
+        "name": "Matthew Holmes",
+        "original_name": "Matthew Holmes",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "credit_id": "65a961ec6f9746012bd91a33",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1707753,
+        "known_for_department": "Directing",
+        "name": "Matthew Holmes",
+        "original_name": "Matthew Holmes",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "credit_id": "65a961e18eda87013485e916",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1707965,
+        "known_for_department": "Production",
+        "name": "Russell Cunningham",
+        "original_name": "Russell Cunningham",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "65a9623aa6ddcb01302499bf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3380711,
+        "known_for_department": "Art",
+        "name": "Esther Rosenberg",
+        "original_name": "Esther Rosenberg",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "65a962988eda87013185e6ac",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3779865,
+        "known_for_department": "Writing",
+        "name": "Gregory Moss",
+        "original_name": "Gregory Moss",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "credit_id": "65a961faa6ddcb0138249978",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2030697,
+        "known_for_department": "Production",
+        "name": "Blake Northfield",
+        "original_name": "Blake Northfield",
+        "popularity": 0.957,
+        "profile_path": null,
+        "credit_id": "65a96210a6ddcb013824997f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1707971,
+        "known_for_department": "Visual Effects",
+        "name": "Peter Szilveszter",
+        "original_name": "Peter Szilveszter",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "65a9627e71083a0134f08608",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1707753,
+        "known_for_department": "Directing",
+        "name": "Matthew Holmes",
+        "original_name": "Matthew Holmes",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "credit_id": "65a9621bc4f552012d8e7ad2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4351500,
+        "known_for_department": "Production",
+        "name": "Sebastien Auscher",
+        "original_name": "Sebastien Auscher",
+        "popularity": 0.0352,
+        "profile_path": "/pCDf5OkkOOSLHXAKtYsFaKx5TlM.jpg",
+        "credit_id": "65a9622c0e5aba01297e02b5",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

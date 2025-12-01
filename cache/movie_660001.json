@@ -1,0 +1,451 @@
+{
+  "adult": false,
+  "backdrop_path": "/dtzXL7tKqOeB0rtURC9pCXsRiYm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://davidverbeek.com/",
+  "id": 660001,
+  "imdb_id": "tt10639214",
+  "origin_country": [
+    "US",
+    "TW"
+  ],
+  "original_language": "en",
+  "original_title": "Dead & Beautiful",
+  "overview": "A group of young and spoiled rich kids turn into vampires after a night out, changing the course of their lives and driving a wedge between them all.",
+  "popularity": 12.9335,
+  "poster_path": "/gGg8xjyK7w58kZsmfIQAN4keQ4n.jpg",
+  "production_companies": [
+    {
+      "id": 2345,
+      "logo_path": "/nozBgqHmM9A22IHkghTnLiUrM7Q.png",
+      "name": "Lemming Film",
+      "origin_country": "NL"
+    },
+    {
+      "id": 74860,
+      "logo_path": "/pTTMbWTvq1cLOPSk2tkFuaD88hq.png",
+      "name": "House on Fire",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "release_date": "2021-12-03",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Play hard, bite softly.",
+  "title": "Dead & Beautiful",
+  "video": false,
+  "vote_average": 3.5,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1552828,
+        "known_for_department": "Acting",
+        "name": "Aviis Zhong",
+        "original_name": "鍾瑤",
+        "popularity": 0.5601,
+        "profile_path": "/4uPgeO9S70e7FJ3Opy1VZ7qyGcR.jpg",
+        "cast_id": 3,
+        "character": "Lulu",
+        "credit_id": "5e0d9adec2f44b00112f28b6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1279249,
+        "known_for_department": "Acting",
+        "name": "Gijs Blom",
+        "original_name": "Gijs Blom",
+        "popularity": 1.7274,
+        "profile_path": "/fBt9qOW4EA1miKaLXFIMYOHAled.jpg",
+        "cast_id": 2,
+        "character": "Mason",
+        "credit_id": "5e0d9ad9a84ff70018366322",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1592018,
+        "known_for_department": "Acting",
+        "name": "Yen Tsao",
+        "original_name": "Yen Tsao",
+        "popularity": 0.2225,
+        "profile_path": "/d1eipBdptgfJ3BVDe2MxBJCDI3c.jpg",
+        "cast_id": 4,
+        "character": "Alexander",
+        "credit_id": "5e0d9b0268b1ea00157e9676",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2963307,
+        "known_for_department": "Acting",
+        "name": "Anechka Marchenko",
+        "original_name": "Anechka Marchenko",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Anastasia",
+        "credit_id": "601a9543d96c3c003f16178a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2963308,
+        "known_for_department": "Acting",
+        "name": "Cheng-en Philip Juan",
+        "original_name": "Cheng-en Philip Juan",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Bin-Ray",
+        "credit_id": "601a957081a7fc003effb99b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2613086,
+        "known_for_department": "Acting",
+        "name": "Michelle Chiang",
+        "original_name": "Michelle Chiang",
+        "popularity": 0.0457,
+        "profile_path": "/bYxNSiErPb3ObncJKpotFiTIRru.jpg",
+        "cast_id": 28,
+        "character": "Lulu's Mother",
+        "credit_id": "6247ebde17c44300a25a4bb0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1010122,
+        "known_for_department": "Acting",
+        "name": "Cheng Kuei-Chung",
+        "original_name": "Cheng Kuei-Chung",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Guide",
+        "credit_id": "6247ec9748138200a17a8a81",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1514559,
+        "known_for_department": "Acting",
+        "name": "Ming-shiou Tsai",
+        "original_name": "Ming-shiou Tsai",
+        "popularity": 0.5239,
+        "profile_path": "/7DLcmEikMeIkl8WcMJNFZW1ntl9.jpg",
+        "cast_id": 30,
+        "character": "Shaman",
+        "credit_id": "6247ecb1cb71b8004e8f0e97",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2320133,
+        "known_for_department": "Acting",
+        "name": "Lu Wen-Hsueh",
+        "original_name": "Lu Wen-Hsueh",
+        "popularity": 0.0539,
+        "profile_path": "/cx0mPBFekvMttDTSQU7AommmRjX.jpg",
+        "cast_id": 31,
+        "character": "Lulu's Father",
+        "credit_id": "6247eccba3b5e600641b2edc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3489692,
+        "known_for_department": "Acting",
+        "name": "Chun-Hao Hu",
+        "original_name": "Chun-Hao Hu",
+        "popularity": 0.0071,
+        "profile_path": "/4LbbOwlDzgriDv9YSG3jrXS6yU3.jpg",
+        "cast_id": 32,
+        "character": "Xu-Yu",
+        "credit_id": "6247ed532d3721005025a22a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3489700,
+        "known_for_department": "Acting",
+        "name": "Zhen Yang",
+        "original_name": "Zhen Yang",
+        "popularity": 0.0474,
+        "profile_path": "/sB9b090jyoOyqgWluOGhlOq2mzM.jpg",
+        "cast_id": 33,
+        "character": "Elvis",
+        "credit_id": "6247ee5b396e970064708aa7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3166504,
+        "known_for_department": "Acting",
+        "name": "Yuan Kuo",
+        "original_name": "Yuan Kuo",
+        "popularity": 0.0673,
+        "profile_path": "/fcVcbHGmgCBPzC9Q7w2LOZT7iyb.jpg",
+        "cast_id": 34,
+        "character": "Dancing girl",
+        "credit_id": "6247eec9a3b5e6004faacc31",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1418023,
+        "known_for_department": "Production",
+        "name": "Clea de Koning",
+        "original_name": "Clea de Koning",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "61904a94cb6db50042d25d8f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1582979,
+        "known_for_department": "Production",
+        "name": "Siniša Juričić",
+        "original_name": "Siniša Juričić",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "61904aa45f2b8d0063abb9e7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3308364,
+        "known_for_department": "Production",
+        "name": "Lai Lulu",
+        "original_name": "Lai Lulu",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "61904aaf66a7c30021823550",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52733,
+        "known_for_department": "Production",
+        "name": "Judy Tossell",
+        "original_name": "Judy Tossell",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "61904ab6cf62cd008c818530",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2219321,
+        "known_for_department": "Production",
+        "name": "Nobu Tsai Hsin-Hung",
+        "original_name": "Nobu Tsai Hsin-Hung",
+        "popularity": 0.0377,
+        "profile_path": null,
+        "credit_id": "61904ac3cca7de002a3433d6",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71401,
+        "known_for_department": "Production",
+        "name": "Vincent Wang",
+        "original_name": "Vincent Wang",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "61904ace63e6fb0043773ae9",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1368706,
+        "known_for_department": "Sound",
+        "name": "Rutger Reinders",
+        "original_name": "Rutger Reinders",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "61904add63e6fb0043773aef",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 43714,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Monica Petit",
+        "original_name": "Monica Petit",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "61904b1763e6fb008dcdf657",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1860954,
+        "known_for_department": "Sound",
+        "name": "Quincy Vlijtig",
+        "original_name": "Quincy Vlijtig",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "61904b28a313b8008f54fa29",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31083,
+        "known_for_department": "Directing",
+        "name": "David Verbeek",
+        "original_name": "David Verbeek",
+        "popularity": 0.0502,
+        "profile_path": "/qBsKcYP6vGXwQTEuZoBxACwcS7D.jpg",
+        "credit_id": "5e0d9ac3fd4f8000135decb2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1591386,
+        "known_for_department": "Editing",
+        "name": "Axel Skovdal Roelofs",
+        "original_name": "Axel Skovdal Roelofs",
+        "popularity": 0.0854,
+        "profile_path": null,
+        "credit_id": "601d80c268929c003b81e149",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1060227,
+        "known_for_department": "Art",
+        "name": "Elsje de Bruijn",
+        "original_name": "Elsje de Bruijn",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "credit_id": "601d80e1cf62cd0040093d87",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31083,
+        "known_for_department": "Directing",
+        "name": "David Verbeek",
+        "original_name": "David Verbeek",
+        "popularity": 0.0502,
+        "profile_path": "/qBsKcYP6vGXwQTEuZoBxACwcS7D.jpg",
+        "credit_id": "601d80f63fe7970041a16d2e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1906179,
+        "known_for_department": "Production",
+        "name": "Erik Glijnis",
+        "original_name": "Erik Glijnis",
+        "popularity": 0.7992,
+        "profile_path": null,
+        "credit_id": "601d811bb97442003f29f9f0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54256,
+        "known_for_department": "Production",
+        "name": "Leontine Petit",
+        "original_name": "Leontine Petit",
+        "popularity": 0.4651,
+        "profile_path": "/k8MW6seqfwyt3XzCYpQMOKQNH6n.jpg",
+        "credit_id": "601d81266a222700400e0c9c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066134,
+        "known_for_department": "Camera",
+        "name": "Jasper Wolf",
+        "original_name": "Jasper Wolf",
+        "popularity": 1.0256,
+        "profile_path": "/eBJvEFctLnNVgfXiLvI1lCVJIEa.jpg",
+        "credit_id": "602009a0681888003db783ce",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

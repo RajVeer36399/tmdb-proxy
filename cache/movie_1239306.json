@@ -1,0 +1,385 @@
+{
+  "adult": false,
+  "backdrop_path": "/xQSjwKKkRv1Th113qCAJRTIf6Xy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1239306,
+  "imdb_id": "tt31122279",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mommy Meanest",
+  "overview": "A concerned mother tries to protect her teenage daughter when she starts to receive a barrage of degrading texts. When the messages become more threatening, she starts to wonder if the tormentor is someone closer than she ever could have imagined.",
+  "popularity": 6.6477,
+  "poster_path": "/zEsMoyfx8LJLCniLpTm99tiKGUt.jpg",
+  "production_companies": [
+    {
+      "id": 219754,
+      "logo_path": null,
+      "name": "Stalking Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 5225,
+      "logo_path": "/3oajd9v7Zxw7QvnnyhK5TFjDcFB.png",
+      "name": "Johnson Production Group",
+      "origin_country": "CA"
+    },
+    {
+      "id": 3431,
+      "logo_path": "/6LVLYfZAEQfhJey0MGvhFXdDEK1.png",
+      "name": "Lifetime",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-05-11",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mommy Meanest",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97783,
+        "known_for_department": "Acting",
+        "name": "Lisa Rinna",
+        "original_name": "Lisa Rinna",
+        "popularity": 0.7897,
+        "profile_path": "/e1reRbSRgIEUDp56LwyEgID2sfc.jpg",
+        "cast_id": 6,
+        "character": "Madelyn",
+        "credit_id": "65bc1659cffeed0259acc0b0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2490376,
+        "known_for_department": "Acting",
+        "name": "Briana Skye",
+        "original_name": "Briana Skye",
+        "popularity": 0.2733,
+        "profile_path": "/8XE7OeG5F6Q1OjRAMLTS4CaXnhk.jpg",
+        "cast_id": 7,
+        "character": "Mia",
+        "credit_id": "65bc16691fd36f017d734668",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4708640,
+        "known_for_department": "Acting",
+        "name": "Kyle Clark",
+        "original_name": "Kyle Clark",
+        "popularity": 0.0516,
+        "profile_path": "/yFkg5ClOTqc6ca643bOeaUtnDb3.jpg",
+        "cast_id": 9,
+        "character": "Josh",
+        "credit_id": "66403cb3c0840fe10b369ac6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3210073,
+        "known_for_department": "Acting",
+        "name": "Jonathan Simao",
+        "original_name": "Jonathan Simao",
+        "popularity": 0.0398,
+        "profile_path": "/azLIP9IqOSHKRB9oJRYUhShbK2m.jpg",
+        "cast_id": 10,
+        "character": "Eliot",
+        "credit_id": "66403ced3ff44c8b157ecf6d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98661,
+        "known_for_department": "Acting",
+        "name": "Bradley Stryker",
+        "original_name": "Bradley Stryker",
+        "popularity": 1.0572,
+        "profile_path": "/3h0F6HRz4He5ESx9mIIIGV90MF2.jpg",
+        "cast_id": 11,
+        "character": "Erik",
+        "credit_id": "66403d11340e9a9a7e36b175",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1422012,
+        "known_for_department": "Acting",
+        "name": "Jason Tremblay",
+        "original_name": "Jason Tremblay",
+        "popularity": 1.2915,
+        "profile_path": "/rPRjsY6tgYbM9Bfa3OYK4BvYnJA.jpg",
+        "cast_id": 13,
+        "character": "Scot",
+        "credit_id": "6640402cfe5e736bde0b82b8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4275901,
+        "known_for_department": "Acting",
+        "name": "Delilah Hamlin",
+        "original_name": "Delilah Hamlin",
+        "popularity": 0.7061,
+        "profile_path": "/h9IRGTXyzOxTjWEExGUM42tMlLf.jpg",
+        "cast_id": 8,
+        "character": "Summer",
+        "credit_id": "65bc167ac144dd017cff5902",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4007097,
+        "known_for_department": "Acting",
+        "name": "Kelsey Lopes",
+        "original_name": "Kelsey Lopes",
+        "popularity": 0.2238,
+        "profile_path": "/jf2vhYjeSiS60VeEh2Oa7AyOfAe.jpg",
+        "cast_id": 12,
+        "character": "Zoey",
+        "credit_id": "66403f6208cd508acfc0c5c7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2059958,
+        "known_for_department": "Acting",
+        "name": "Jessica Garcie",
+        "original_name": "Jessica Garcie",
+        "popularity": 0.4566,
+        "profile_path": "/hxCZvNg2E72ocRfUfi78fZ3BUHr.jpg",
+        "cast_id": 14,
+        "character": "Piper",
+        "credit_id": "664286e1e139f9e952e812b0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 203294,
+        "known_for_department": "Acting",
+        "name": "Jill Morrison",
+        "original_name": "Jill Morrison",
+        "popularity": 0.4811,
+        "profile_path": "/1Uezsm9dqRikCWPWXsYhEUkgAyQ.jpg",
+        "cast_id": 15,
+        "character": "Elizabeth",
+        "credit_id": "6642871697611b5ec55f1e06",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2932971,
+        "known_for_department": "Acting",
+        "name": "Olivia Ducayen",
+        "original_name": "Olivia Ducayen",
+        "popularity": 0.0737,
+        "profile_path": "/dtRHJ0FdEzUqk9wiXNOvgkNjXIq.jpg",
+        "cast_id": 16,
+        "character": "Kira",
+        "credit_id": "66428742a1d6618b565c19ea",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97783,
+        "known_for_department": "Acting",
+        "name": "Lisa Rinna",
+        "original_name": "Lisa Rinna",
+        "popularity": 0.7897,
+        "profile_path": "/e1reRbSRgIEUDp56LwyEgID2sfc.jpg",
+        "credit_id": "65bc162ad7cd06017b5448f7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 590345,
+        "known_for_department": "Production",
+        "name": "Stacy Mandelberg",
+        "original_name": "Stacy Mandelberg",
+        "popularity": 0.0669,
+        "profile_path": "/u9sL9rO3GYJftK1N4sboP1NeIYR.jpg",
+        "credit_id": "65bc163611c0660162cffbbe",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17309,
+        "known_for_department": "Directing",
+        "name": "Greg Beeman",
+        "original_name": "Greg Beeman",
+        "popularity": 0.2692,
+        "profile_path": "/eMZIGB6jbIldPK4YyZ44uf7ZIGg.jpg",
+        "credit_id": "65bc16487646fd0184be6582",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1624461,
+        "known_for_department": "Production",
+        "name": "Navid Soofi",
+        "original_name": "Navid Soofi",
+        "popularity": 1.0303,
+        "profile_path": "/wOucBmB8WbCVMoelFlDrNK1860V.jpg",
+        "credit_id": "65bc163ff031740163674eff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1705240,
+        "known_for_department": "Writing",
+        "name": "Greg McBride",
+        "original_name": "Greg McBride",
+        "popularity": 0.263,
+        "profile_path": null,
+        "credit_id": "65bc16521fd36f017d734655",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108734,
+        "known_for_department": "Production",
+        "name": "Timothy O. Johnson",
+        "original_name": "Timothy O. Johnson",
+        "popularity": 0.0943,
+        "profile_path": "/faPHGS2QyDDUqkXEaDB8NlzeNTf.jpg",
+        "credit_id": "676f20fc769852f29012befb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622324,
+        "known_for_department": "Camera",
+        "name": "Mike Kam",
+        "original_name": "Mike Kam",
+        "popularity": 0.0629,
+        "profile_path": null,
+        "credit_id": "676f79001efc2434cf12caa8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3355815,
+        "known_for_department": "Sound",
+        "name": "Taylor Swindells",
+        "original_name": "Taylor Swindells",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "676f79056cc4caf8fb927abb",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1652772,
+        "known_for_department": "Art",
+        "name": "Moe Curtin",
+        "original_name": "Moe Curtin",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "676f790ccfe62644df12d8bb",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4947468,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Julia Louise Ross",
+        "original_name": "Julia Louise Ross",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "676f7917fb8a229c67928640",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2721469,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kathleen Fowlstone",
+        "original_name": "Kathleen Fowlstone",
+        "popularity": 0.4873,
+        "profile_path": "/cj69L0dHmFEJKV8MjUH3L8iPYxM.jpg",
+        "credit_id": "676f79208258294bb8617dd0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2381193,
+        "known_for_department": "Editing",
+        "name": "Jason Nielsen",
+        "original_name": "Jason Nielsen",
+        "popularity": 1.0076,
+        "profile_path": null,
+        "credit_id": "687f790dfd945531ee8a53dc",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

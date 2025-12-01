@@ -1,0 +1,379 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 121539,
+  "imdb_id": "tt0832865",
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La coupure",
+  "overview": "The story of a love relationship between a brother and sister and an eventual breakup that will forever change their lives.",
+  "popularity": 6.3304,
+  "poster_path": "/n3o6klKizFOWucmE9PHmKFmSeTv.jpg",
+  "production_companies": [
+    {
+      "id": 806,
+      "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+      "name": "Téléfilm Canada",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2006-09-13",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Torn Apart",
+  "video": false,
+  "vote_average": 3.5,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1074504,
+        "known_for_department": "Acting",
+        "name": "Valérie Cantin",
+        "original_name": "Valérie Cantin",
+        "popularity": 0.0868,
+        "profile_path": "/krgFvVQa6tmNX6xl5vmyeHOdkTC.jpg",
+        "cast_id": 1,
+        "character": "Christine",
+        "credit_id": "52fe4a67c3a368484e1513cd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50217,
+        "known_for_department": "Acting",
+        "name": "Michael Kelly",
+        "original_name": "Michael Kelly",
+        "popularity": 1.7098,
+        "profile_path": "/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg",
+        "cast_id": 11,
+        "character": "Mario",
+        "credit_id": "52fe4a67c3a368484e1513ff",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1759895,
+        "known_for_department": "Acting",
+        "name": "Marc Thibaudeau",
+        "original_name": "Marc Thibaudeau",
+        "popularity": 0.151,
+        "profile_path": "/lVAkl2QHkNdRku5b8mqiaC1K45F.jpg",
+        "cast_id": 12,
+        "character": "Christophe",
+        "credit_id": "58a7371ac3a36847a9000165",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1759912,
+        "known_for_department": "Acting",
+        "name": "Manon Brunelle",
+        "original_name": "Manon Brunelle",
+        "popularity": 0.0583,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Isabelle",
+        "credit_id": "58a7390dc3a36850d2000062",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553891,
+        "known_for_department": "Acting",
+        "name": "Dominik Michon-Dagenais",
+        "original_name": "Dominik Michon-Dagenais",
+        "popularity": 0.6683,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Arthur",
+        "credit_id": "58a73935c3a36850bd000079",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1540858,
+        "known_for_department": "Sound",
+        "name": "Peter Crooks",
+        "original_name": "Peter Crooks",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Clochard",
+        "credit_id": "58a7394d925141790a000082",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759913,
+        "known_for_department": "Acting",
+        "name": "Valérie-Marie Chadelaud",
+        "original_name": "Valérie-Marie Chadelaud",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Femme juge",
+        "credit_id": "58a7396ac3a36850bd000097",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759914,
+        "known_for_department": "Acting",
+        "name": "Jean-François Boisvenue",
+        "original_name": "Jean-François Boisvenue",
+        "popularity": 0.0938,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Serveur restaurant",
+        "credit_id": "58a73980c3a36850bd0000a3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759915,
+        "known_for_department": "Acting",
+        "name": "Chloe Chavigny",
+        "original_name": "Chloe Chavigny",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Jeune a la piscine",
+        "credit_id": "58a73995c3a36850e40000b7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759916,
+        "known_for_department": "Acting",
+        "name": "Frederique Cigna",
+        "original_name": "Frederique Cigna",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Jeune a la piscine",
+        "credit_id": "58a739a8c3a36850fc00009f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759917,
+        "known_for_department": "Acting",
+        "name": "Marie-Eve Cigna",
+        "original_name": "Marie-Eve Cigna",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Jeune a la piscine",
+        "credit_id": "58a739bcc3a36850f30000ca",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759918,
+        "known_for_department": "Acting",
+        "name": "Maude Cigna",
+        "original_name": "Maude Cigna",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Jeune a la piscine",
+        "credit_id": "58a739d392514179240000f1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759919,
+        "known_for_department": "Acting",
+        "name": "Martin-Pierre Duguay",
+        "original_name": "Martin-Pierre Duguay",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Figurant restaurant",
+        "credit_id": "58a739ec925141794c0000d8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933053,
+        "known_for_department": "Acting",
+        "name": "David Laurin",
+        "original_name": "David Laurin",
+        "popularity": 0.0297,
+        "profile_path": "/5eaQQZE8KoxpvPdP6wVzoTQkeej.jpg",
+        "cast_id": 23,
+        "character": "Serveur",
+        "credit_id": "58a73a0292514178fc00012d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759921,
+        "known_for_department": "Acting",
+        "name": "Basil Limoges",
+        "original_name": "Basil Limoges",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Jeun a la piscine",
+        "credit_id": "58a73a17925141790000017a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759923,
+        "known_for_department": "Acting",
+        "name": "Gabrielle Menard",
+        "original_name": "Gabrielle Menard",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Jeune a la piscine",
+        "credit_id": "58a73a33925141794c0000fb",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1074506,
+        "known_for_department": "Writing",
+        "name": "Jean Châteauvert",
+        "original_name": "Jean Châteauvert",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4a67c3a368484e1513e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1074506,
+        "known_for_department": "Writing",
+        "name": "Jean Châteauvert",
+        "original_name": "Jean Châteauvert",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4a67c3a368484e1513d7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1039146,
+        "known_for_department": "Crew",
+        "name": "Marc Gadoury",
+        "original_name": "Marc Gadoury",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "52fe4a67c3a368484e1513f5",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1074506,
+        "known_for_department": "Writing",
+        "name": "Jean Châteauvert",
+        "original_name": "Jean Châteauvert",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4a67c3a368484e1513dd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1074511,
+        "known_for_department": "Editing",
+        "name": "Alexandre Mailhot",
+        "original_name": "Alexandre Mailhot",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "52fe4a67c3a368484e1513fb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1074509,
+        "known_for_department": "Sound",
+        "name": "Qi Shen",
+        "original_name": "Qi Shen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4a67c3a368484e1513ef",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1074508,
+        "known_for_department": "Production",
+        "name": "Caroline Bacle",
+        "original_name": "Caroline Bacle",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "52fe4a67c3a368484e1513e3",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

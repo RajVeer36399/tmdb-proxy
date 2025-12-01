@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/5x9rxNwFLOkVqpUZ4zK2TMYCUuV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://archive.org/details/AngryBoy1950",
+  "id": 324014,
+  "imdb_id": "tt0291019",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Angry Boy",
+  "overview": "Alexander Hammid's sensitive narrative of how a pre-adolescent boy is helped by a psychiatrist to come to terms with his feelings.",
+  "popularity": 6.6212,
+  "poster_path": "/zM511NTn7rHShS7iuHKFafZK6VM.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "1950-02-07",
+  "revenue": 0,
+  "runtime": 31,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Angry Boy",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 3,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1131266,
+        "known_for_department": "Directing",
+        "name": "Peter Glushanok",
+        "original_name": "Peter Glushanok",
+        "popularity": 0.0256,
+        "profile_path": "/vco5r3pFVXg8YtoKJ5G25CqDMYQ.jpg",
+        "credit_id": "54d50a5a92514173cf008fc0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1258102,
+        "known_for_department": "Editing",
+        "name": "Aram Boyajian",
+        "original_name": "Aram Boyajian",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "54d50a6d92514109ba014087",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1423943,
+        "known_for_department": "Writing",
+        "name": "Irving Jacoby",
+        "original_name": "Irving Jacoby",
+        "popularity": 0.0991,
+        "profile_path": null,
+        "credit_id": "54d50a47c3a3686ac4013c38",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96814,
+        "known_for_department": "Directing",
+        "name": "Alexander Hammid",
+        "original_name": "Alexander Hammid",
+        "popularity": 0.1523,
+        "profile_path": "/jv62yHBxHGKyys71GHT5YKzuxzE.jpg",
+        "credit_id": "54d50a279251413fca01462e",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

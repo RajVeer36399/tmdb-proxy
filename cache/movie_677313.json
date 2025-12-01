@@ -1,0 +1,319 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 677313,
+  "imdb_id": "tt0324196",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Temporada salvaje",
+  "overview": "A cynical south-of-the-border adventurer gets involved in a plot to steal and transport platinum.",
+  "popularity": 5.3151,
+  "poster_path": "/sPRN5eXqB7a0igfpQXpdl3EWcsJ.jpg",
+  "production_companies": [
+    {
+      "id": 81830,
+      "logo_path": null,
+      "name": "Filmadora Universal",
+      "origin_country": ""
+    },
+    {
+      "id": 5561,
+      "logo_path": null,
+      "name": "Panorama Films",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1971-01-01",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Wild Season",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99816,
+        "known_for_department": "Acting",
+        "name": "Ron Harper",
+        "original_name": "Ron Harper",
+        "popularity": 0.4611,
+        "profile_path": "/A8RBhpQerBoh2qaNSWxR5KO3cpe.jpg",
+        "cast_id": 1,
+        "character": "Steve Blaine",
+        "credit_id": "6192c24f8e8d30008cf0a19b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83462,
+        "known_for_department": "Acting",
+        "name": "Diane McBain",
+        "original_name": "Diane McBain",
+        "popularity": 0.3819,
+        "profile_path": "/Eg8pFxKaOlPo3BA3UDJu3qWOEP.jpg",
+        "cast_id": 2,
+        "character": "Celia 'Doc' Drew",
+        "credit_id": "6192c305f859580063dcf93b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24811,
+        "known_for_department": "Acting",
+        "name": "Victor Buono",
+        "original_name": "Victor Buono",
+        "popularity": 0.8799,
+        "profile_path": "/4NxvzksnK4GQzIY8dnGn6A89IQS.jpg",
+        "cast_id": 3,
+        "character": "Horacio Fatt",
+        "credit_id": "6192c31587ae7b001eb7be5b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102306,
+        "known_for_department": "Acting",
+        "name": "Armando Silvestre",
+        "original_name": "Armando Silvestre",
+        "popularity": 0.184,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Tony Race",
+        "credit_id": "6192c327f859580044b4b259",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70984,
+        "known_for_department": "Acting",
+        "name": "Isela Vega",
+        "original_name": "Isela Vega",
+        "popularity": 0.5275,
+        "profile_path": "/h9LIprljvxTTPL0pgLWYkCKi1Lc.jpg",
+        "cast_id": 5,
+        "character": "Mercedes",
+        "credit_id": "6192c331957e6d0060adcd4c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 553167,
+        "known_for_department": "Acting",
+        "name": "Ada Carrasco",
+        "original_name": "Ada Carrasco",
+        "popularity": 0.2052,
+        "profile_path": "/xDpavBKre0ON6dR4jwkHA9B3r2C.jpg",
+        "cast_id": 7,
+        "character": "Justina",
+        "credit_id": "6192c35c63a6950042f327f7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223055,
+        "known_for_department": "Camera",
+        "name": "Agustín Martínez Solares",
+        "original_name": "Agustín Martínez Solares",
+        "popularity": 0.5664,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "640172939f1be700cd62bbda",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236242,
+        "known_for_department": "Acting",
+        "name": "Jorge Rado",
+        "original_name": "Jorge Rado",
+        "popularity": 0.0967,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "6401729d9f1be7007ca77d17",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105151,
+        "known_for_department": "Acting",
+        "name": "Víctor Alcocer",
+        "original_name": "Víctor Alcocer",
+        "popularity": 0.1955,
+        "profile_path": "/sfZEKoqA3FslKg5xYOll9cav4w3.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "640172a67a4ee700a23f6e88",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101507,
+        "known_for_department": "Acting",
+        "name": "Yerye Beirute",
+        "original_name": "Yerye Beirute",
+        "popularity": 0.5216,
+        "profile_path": "/wHoZw6mQazcHdRl72Cs5Zn7jWua.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "640172bf9653f600853dfe15",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1002073,
+        "known_for_department": "Acting",
+        "name": "Guillermo Álvarez Bianchi",
+        "original_name": "Guillermo Álvarez Bianchi",
+        "popularity": 0.0903,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "640172d5c7176d009d6f3ff0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14253,
+        "known_for_department": "Acting",
+        "name": "Slim Pickens",
+        "original_name": "Slim Pickens",
+        "popularity": 0.7555,
+        "profile_path": "/8UwvsZe0frSzCoyC8KGSfjAaZBf.jpg",
+        "cast_id": 6,
+        "character": "Lucky",
+        "credit_id": "6192c33b87ae7b0044c5acda",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31219,
+        "known_for_department": "Camera",
+        "name": "Raúl Martínez Solares",
+        "original_name": "Raúl Martínez Solares",
+        "popularity": 0.0393,
+        "profile_path": "/A5dLtxskvJGGkKQ3rl8eebmB2ln.jpg",
+        "credit_id": "6192c3e4724de1002beddb87",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11969,
+        "known_for_department": "Editing",
+        "name": "Carlos Savage",
+        "original_name": "Carlos Savage",
+        "popularity": 0.963,
+        "profile_path": null,
+        "credit_id": "6192c3f2c4ad59008c7d6fb6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1420773,
+        "known_for_department": "Writing",
+        "name": "Myron J. Gold",
+        "original_name": "Myron J. Gold",
+        "popularity": 0.5337,
+        "profile_path": null,
+        "credit_id": "6192c3951f748b0042a02ea3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1420773,
+        "known_for_department": "Writing",
+        "name": "Myron J. Gold",
+        "original_name": "Myron J. Gold",
+        "popularity": 0.5337,
+        "profile_path": null,
+        "credit_id": "6192c3d2bfeb8b008a7bf858",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1066360,
+        "known_for_department": "Production",
+        "name": "Felipe Mier",
+        "original_name": "Felipe Mier",
+        "popularity": 0.0582,
+        "profile_path": "/cfZTvuQTeEzWdkQ51015xx1j6gJ.jpg",
+        "credit_id": "6401733c7a4ee700f0fac2a4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31218,
+        "known_for_department": "Sound",
+        "name": "Gustavo César Carrión",
+        "original_name": "Gustavo César Carrión",
+        "popularity": 0.1106,
+        "profile_path": null,
+        "credit_id": "64017304699fb700960051d0",
+        "department": "Sound",
+        "job": "Music Director"
+      }
+    ]
+  }
+}

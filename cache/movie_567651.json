@@ -1,0 +1,366 @@
+{
+  "adult": false,
+  "backdrop_path": "/tnljFdBbqEl58Z5nWA4TjZhjzyL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 567651,
+  "imdb_id": "tt8610984",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Attenti al gorilla",
+  "overview": "Lorenzo is a lawyer who files a lawsuit against the zoo of his town but after winning it he has to take home a gorilla.",
+  "popularity": 6.0086,
+  "poster_path": "/iSiRxICCUg2JJyxJ1ZGLexFw1iW.jpg",
+  "production_companies": [
+    {
+      "id": 21246,
+      "logo_path": "/e5NWP10OYWCUa0T363WxkNzL78s.png",
+      "name": "Wildside",
+      "origin_country": "IT"
+    },
+    {
+      "id": 12923,
+      "logo_path": null,
+      "name": "Warner Bros Pictures Italia",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2019-01-10",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Beware the Gorilla",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 91,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1273683,
+        "known_for_department": "Acting",
+        "name": "Frank Matano",
+        "original_name": "Frank Matano",
+        "popularity": 0.1752,
+        "profile_path": "/fix2qkBDFgzJ6f5Zi6maZhOWyZs.jpg",
+        "cast_id": 12,
+        "character": "Lorenzo",
+        "credit_id": "5c37069e0e0a2631b55475cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78533,
+        "known_for_department": "Acting",
+        "name": "Cristiana Capotondi",
+        "original_name": "Cristiana Capotondi",
+        "popularity": 0.3946,
+        "profile_path": "/AaBpxxInx9u0eItSRyDDec6sh0S.jpg",
+        "cast_id": 13,
+        "character": "Emma",
+        "credit_id": "5c3706a6925141532a24fb71",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229572,
+        "known_for_department": "Acting",
+        "name": "Lillo Petrolo",
+        "original_name": "Lillo",
+        "popularity": 0.2355,
+        "profile_path": "/8PbWSjZ1pv6iA1j6JVgSsPOu2ED.jpg",
+        "cast_id": 22,
+        "character": "Jimmy",
+        "credit_id": "5d545acfb76cbb0015d8265f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94255,
+        "known_for_department": "Acting",
+        "name": "Francesco Scianna",
+        "original_name": "Francesco Scianna",
+        "popularity": 0.36,
+        "profile_path": "/sl7rhmVR2mmRDxKoOgBP9HhHdYu.jpg",
+        "cast_id": 15,
+        "character": "Alfonso",
+        "credit_id": "5c3706b4925141531224f635",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1091600,
+        "known_for_department": "Acting",
+        "name": "Diana Del Bufalo",
+        "original_name": "Diana Del Bufalo",
+        "popularity": 0.8684,
+        "profile_path": "/9mKABW3rlXTrXpcGt9kxLXnTrhm.jpg",
+        "cast_id": 16,
+        "character": "Concita",
+        "credit_id": "5c3706bb0e0a2631b0546e26",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129649,
+        "known_for_department": "Acting",
+        "name": "Massimo De Lorenzo",
+        "original_name": "Massimo De Lorenzo",
+        "popularity": 0.5981,
+        "profile_path": "/coFLDs22kQr81MphsePilpLADoe.jpg",
+        "cast_id": 17,
+        "character": "Gus",
+        "credit_id": "5c3706c2c3a3685f0127c6da",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20592,
+        "known_for_department": "Acting",
+        "name": "Ernesto Mahieux",
+        "original_name": "Ernesto Mahieux",
+        "popularity": 0.4484,
+        "profile_path": "/c7lkne1DcreD35KcG8DpsuEYQfw.jpg",
+        "cast_id": 18,
+        "character": "Lo Zingaro",
+        "credit_id": "5c3706c9925141531224f645",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55914,
+        "known_for_department": "Acting",
+        "name": "Claudio Bisio",
+        "original_name": "Claudio Bisio",
+        "popularity": 1.1696,
+        "profile_path": "/cDhzyPQ3446zpRmP523rPFkkl4h.jpg",
+        "cast_id": 20,
+        "character": "Peppe il Gorilla (voce)",
+        "credit_id": "5c3706d60e0a2631ad54791b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132849,
+        "known_for_department": "Acting",
+        "name": "Nunzia Schiano",
+        "original_name": "Nunzia Schiano",
+        "popularity": 0.3446,
+        "profile_path": "/wsy9KD5AKuOIFpepptImeVrs3JY.jpg",
+        "cast_id": 27,
+        "character": "Mamma di Jimmy (voce)",
+        "credit_id": "6194469144ea5400615b1eeb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2644632,
+        "known_for_department": "Acting",
+        "name": "Maria Bolignano",
+        "original_name": "Maria Bolignano",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Bidella",
+        "credit_id": "5ec3c0ba28723c001f4c88a4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2212742,
+        "known_for_department": "Acting",
+        "name": "Gloria Radulescu",
+        "original_name": "Gloria Radulescu",
+        "popularity": 0.1381,
+        "profile_path": "/sTxS4hldHRW9JIKDki3oge14y14.jpg",
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "611a8d419a9e2000724243da",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223693,
+        "known_for_department": "Directing",
+        "name": "Luca Miniero",
+        "original_name": "Luca Miniero",
+        "popularity": 0.7551,
+        "profile_path": "/ckX4SX1lkuWSIaUP606YmggL8qQ.jpg",
+        "credit_id": "5c370602c3a3685efe27c789",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1356824,
+        "known_for_department": "Production",
+        "name": "Lorenzo Gangarossa",
+        "original_name": "Lorenzo Gangarossa",
+        "popularity": 0.0683,
+        "profile_path": "/7pQhMuqJ4veH9zpbk0Y7S0KS3XN.jpg",
+        "credit_id": "5c37062b0e0a2631bf546c23",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223693,
+        "known_for_department": "Directing",
+        "name": "Luca Miniero",
+        "original_name": "Luca Miniero",
+        "popularity": 0.7551,
+        "profile_path": "/ckX4SX1lkuWSIaUP606YmggL8qQ.jpg",
+        "credit_id": "5c3706090e0a2631bf546c07",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1110561,
+        "known_for_department": "Camera",
+        "name": "Federico Angelucci",
+        "original_name": "Federico Angelucci",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5c370653c3a3685f0127c62c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1032318,
+        "known_for_department": "Production",
+        "name": "Mario Gianani",
+        "original_name": "Mario Gianani",
+        "popularity": 0.7741,
+        "profile_path": "/xrmlIYjAuUUZ6kl1RLx66qH1V0l.jpg",
+        "credit_id": "5c370634c3a3685ee327cb00",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212739,
+        "known_for_department": "Directing",
+        "name": "Gina Neri",
+        "original_name": "Gina Neri",
+        "popularity": 0.1863,
+        "profile_path": null,
+        "credit_id": "5c370620c3a3685ef627cd39",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212740,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eleonora Rella",
+        "original_name": "Eleonora Rella",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5c370660925141531625014c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1376798,
+        "known_for_department": "Production",
+        "name": "Lorenzo Mieli",
+        "original_name": "Lorenzo Mieli",
+        "popularity": 0.1682,
+        "profile_path": "/rfDdIEbMQhOcuPVCCZDVQk9Wd7S.jpg",
+        "credit_id": "5c37063fc3a3685efa27d1c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212741,
+        "known_for_department": "Art",
+        "name": "Monica Vittucci",
+        "original_name": "Monica Vittucci",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5c37066bc3a3685eec27be95",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1574136,
+        "known_for_department": "Production",
+        "name": "Erik Paoletti",
+        "original_name": "Erik Paoletti",
+        "popularity": 0.0916,
+        "profile_path": null,
+        "credit_id": "5c370648925141532424fc3a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2346775,
+        "known_for_department": "Writing",
+        "name": "Giulia Gianni",
+        "original_name": "Giulia Gianni",
+        "popularity": 0.0587,
+        "profile_path": null,
+        "credit_id": "5f6624e857530e0038aa359d",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

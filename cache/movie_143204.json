@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/fInroKvZOgyt4sPFJCGzaEJPdw0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 143204,
+  "imdb_id": "tt0495112",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Frosty the Snowman",
+  "overview": "This short little cartoon is based on the popular song by Jack Rollins and Steve Nelson, first recorded in 1950 by Gene Autry as his followup to Rudolph the Red Nosed Reindeer.",
+  "popularity": 5.5102,
+  "poster_path": "/6kXLqGk5kju688vv5S6uZdmb08w.jpg",
+  "production_companies": [
+    {
+      "id": 8409,
+      "logo_path": "/osYFlsgvFQXfEBAlvUgvWQHINLB.png",
+      "name": "United Productions of America",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1951-12-23",
+  "revenue": 0,
+  "runtime": 3,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Frosty the Snowman",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 7,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1035425,
+        "known_for_department": "Directing",
+        "name": "Robert Cannon",
+        "original_name": "Robert Cannon",
+        "popularity": 0.1214,
+        "profile_path": "/d4VjdzvFsUGg7alPiltbhh2qJUa.jpg",
+        "credit_id": "54afc8609251414a3d0018f0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118472,
+        "known_for_department": "Directing",
+        "name": "William T. Hurtz",
+        "original_name": "William T. Hurtz",
+        "popularity": 0.2084,
+        "profile_path": "/5gCHPLSL9fO9FdXvgdSB1vEEBkU.jpg",
+        "credit_id": "5fbdf010f9475b0041c5876f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113285,
+        "known_for_department": "Visual Effects",
+        "name": "Ben Washam",
+        "original_name": "Ben Washam",
+        "popularity": 0.6644,
+        "profile_path": "/7qyzNgVAcuzgtOjqYffkGp7YzpO.jpg",
+        "credit_id": "5fbdf037323eba003dfbc5dc",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  }
+}

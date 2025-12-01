@@ -1,0 +1,226 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1280518,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Laberinto de sombras",
+  "overview": "",
+  "popularity": 75.8552,
+  "poster_path": "/565kBAr0hvgLbJKyAd3dUKk2xn0.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2024-05-10",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Laberinto de sombras",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2175984,
+        "known_for_department": "Acting",
+        "name": "Allende García",
+        "original_name": "Allende García",
+        "popularity": 0.0538,
+        "profile_path": "/uED0rT0VtrPk9kBxyaqr6UN1BvC.jpg",
+        "cast_id": 4,
+        "character": "Elena",
+        "credit_id": "662ba720c1ffbd011d6c244e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4676410,
+        "known_for_department": "Acting",
+        "name": "Miriam Ortas",
+        "original_name": "Miriam Ortas",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Lia",
+        "credit_id": "662ba7469ac535011b8f4e74",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2825719,
+        "known_for_department": "Acting",
+        "name": "Fede Alonso",
+        "original_name": "Fede Alonso",
+        "popularity": 0.0806,
+        "profile_path": "/cWspyjAId5zr2OUrfUolBBbeol9.jpg",
+        "cast_id": 6,
+        "character": "Ricky",
+        "credit_id": "662ba7533d7454011cd2467e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2975031,
+        "known_for_department": "Acting",
+        "name": "Jose Antonio Ortas Cayuela",
+        "original_name": "Jose Antonio Ortas Cayuela",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Hermano Montero",
+        "credit_id": "662ba774e8d0b4011d118114",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99812,
+        "known_for_department": "Acting",
+        "name": "Fernando Esteso",
+        "original_name": "Fernando Esteso",
+        "popularity": 0.2741,
+        "profile_path": "/qINXBdPAL6NAa2XNhuGABpKni6Z.jpg",
+        "cast_id": 8,
+        "character": "Fernando",
+        "credit_id": "662ba782e16e5a011de7747d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138702,
+        "known_for_department": "Acting",
+        "name": "Juan Manuel Cifuentes",
+        "original_name": "Juan Manuel Cifuentes",
+        "popularity": 0.1583,
+        "profile_path": "/AgiFy7bOsDaY0goPszlEt9EhIBP.jpg",
+        "cast_id": 9,
+        "character": "Padre Tomás",
+        "credit_id": "662ba79553866e0121f125ce",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1765105,
+        "known_for_department": "Acting",
+        "name": "Susana Béquer",
+        "original_name": "Susana Béquer",
+        "popularity": 0.1205,
+        "profile_path": "/krJqfrdiqyhBG3PqvYXy7aUHUH6.jpg",
+        "cast_id": 10,
+        "character": "Ana",
+        "credit_id": "662ba7bee8d0b4011c117586",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1503840,
+        "known_for_department": "Acting",
+        "name": "Daniel Albaladejo",
+        "original_name": "Daniel Albaladejo",
+        "popularity": 0.1382,
+        "profile_path": "/ky7aQE7PAzNAfJp7UdF3cmfFqTw.jpg",
+        "cast_id": 11,
+        "character": "Don Julián",
+        "credit_id": "662ba7cff9183a011c313421",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34792,
+        "known_for_department": "Acting",
+        "name": "Miguel Molina",
+        "original_name": "Miguel Molina",
+        "popularity": 0.176,
+        "profile_path": "/x2nmTfsnLGYRkpRDWH2O9JPyozG.jpg",
+        "cast_id": 12,
+        "character": "Hermano Montero",
+        "credit_id": "662ba7e45c071b011d5eb30c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1253386,
+        "known_for_department": "Acting",
+        "name": "Nacho Guerreros",
+        "original_name": "Nacho Guerreros",
+        "popularity": 0.244,
+        "profile_path": "/iMm1ypzPfSqprieXCsovaDihnN0.jpg",
+        "cast_id": 13,
+        "character": "Eduardo",
+        "credit_id": "662ba7f001b1ca011ce41b92",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2352923,
+        "known_for_department": "Directing",
+        "name": "Alfredo Contreras",
+        "original_name": "Alfredo Contreras",
+        "popularity": 0.0932,
+        "profile_path": "/1KUnO23DVvl9avRyGV7pVT6XH6g.jpg",
+        "credit_id": "662ba6b1e16e5a011ce77388",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2352923,
+        "known_for_department": "Directing",
+        "name": "Alfredo Contreras",
+        "original_name": "Alfredo Contreras",
+        "popularity": 0.0932,
+        "profile_path": "/1KUnO23DVvl9avRyGV7pVT6XH6g.jpg",
+        "credit_id": "662ba6cecae6320120528da7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2643393,
+        "known_for_department": "Camera",
+        "name": "Toni Guillén Sánchez",
+        "original_name": "Toni Guillén Sánchez",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "662ba6fe3d7454011ed245ee",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

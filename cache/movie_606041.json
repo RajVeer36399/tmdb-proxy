@@ -1,0 +1,164 @@
+{
+  "adult": false,
+  "backdrop_path": "/imTho201kYAeNImkRBN2FG6TpDT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 606041,
+  "imdb_id": "tt10417938",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Scuzzies",
+  "overview": "\"The Scuzzies\" is like a Saturday Morning Cartoon made for misanthropic hippy kids that like to mix tidepod colored mushrooms and goats blood into their sugary breakfast cereals.",
+  "popularity": 5.3678,
+  "poster_path": "/q4GaV4mPSid3EL09TEHsGcaKC9D.jpg",
+  "production_companies": [
+    {
+      "id": 167974,
+      "logo_path": null,
+      "name": "Bag Monster",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-05-29",
+  "revenue": 0,
+  "runtime": 15,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Scuzzies",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2326267,
+        "known_for_department": "Acting",
+        "name": "Cumblood",
+        "original_name": "Cumblood",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "The Scuzzies (voice)",
+        "credit_id": "5cf1614b0e0a261e00ca34e2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2326266,
+        "known_for_department": "Acting",
+        "name": "Buttress",
+        "original_name": "Buttress",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Soapy Girl / Monster (voice)",
+        "credit_id": "5cf16144c3a3685e7c2158d1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1387737,
+        "known_for_department": "Acting",
+        "name": "Diamanda Hagan",
+        "original_name": "Diamanda Hagan",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Terrortubbies Host (voice)",
+        "credit_id": "5cf1613dc3a368735b20b126",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1151366,
+        "known_for_department": "Directing",
+        "name": "Jimmy ScreamerClauz",
+        "original_name": "Jimmy ScreamerClauz",
+        "popularity": 1.3151,
+        "profile_path": "/kC1pE9i2buOoBPfsQanQSZwE2vA.jpg",
+        "credit_id": "61e32b0e7e12f000400cd815",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1151366,
+        "known_for_department": "Directing",
+        "name": "Jimmy ScreamerClauz",
+        "original_name": "Jimmy ScreamerClauz",
+        "popularity": 1.3151,
+        "profile_path": "/kC1pE9i2buOoBPfsQanQSZwE2vA.jpg",
+        "credit_id": "61e32a8707a80800956db1f7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1151366,
+        "known_for_department": "Directing",
+        "name": "Jimmy ScreamerClauz",
+        "original_name": "Jimmy ScreamerClauz",
+        "popularity": 1.3151,
+        "profile_path": "/kC1pE9i2buOoBPfsQanQSZwE2vA.jpg",
+        "credit_id": "61e32adec613ce00421f074e",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1151366,
+        "known_for_department": "Directing",
+        "name": "Jimmy ScreamerClauz",
+        "original_name": "Jimmy ScreamerClauz",
+        "popularity": 1.3151,
+        "profile_path": "/kC1pE9i2buOoBPfsQanQSZwE2vA.jpg",
+        "credit_id": "5cf160c0925141392eb8c36b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1151366,
+        "known_for_department": "Directing",
+        "name": "Jimmy ScreamerClauz",
+        "original_name": "Jimmy ScreamerClauz",
+        "popularity": 1.3151,
+        "profile_path": "/kC1pE9i2buOoBPfsQanQSZwE2vA.jpg",
+        "credit_id": "5fc79e0a20e6a5003e2525a8",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      }
+    ]
+  }
+}

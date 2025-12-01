@@ -1,0 +1,362 @@
+{
+  "adult": false,
+  "backdrop_path": "/nQAfnJSH9kDxLi1pD9YxjeeG2rr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.hbo.com/movies/the-janes",
+  "id": 913829,
+  "imdb_id": "tt16377356",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Janes",
+  "overview": "Defying the state legislature that outlawed abortion, the Catholic Church that condemned it, and the Chicago Mob that was profiting from it, the members of “Jane” risked their personal and professional lives to support women with unwanted pregnancies. In the pre-Roe v. Wade era — a time when abortion was a crime in most states and even circulating information about abortion was a felony in Illinois — the Janes provided low-cost and free abortions to an estimated 11,000 women.",
+  "popularity": 5.6146,
+  "poster_path": "/hKWJ0hw1tWOONaQliyrp2wC6Rcm.jpg",
+  "production_companies": [
+    {
+      "id": 14914,
+      "logo_path": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 95929,
+      "logo_path": "/iI5Tb66SXYWlusG8Q3OhPCnaqaS.png",
+      "name": "Pentimento Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 114414,
+      "logo_path": null,
+      "name": "Elsewhere Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-05-03",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They didn't have a choice.",
+  "title": "The Janes",
+  "video": false,
+  "vote_average": 5.631,
+  "vote_count": 42,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2302831,
+        "known_for_department": "Acting",
+        "name": "Heather Booth",
+        "original_name": "Heather Booth",
+        "popularity": 0.0636,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "6272b78fcaaca200667dee77",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2063198,
+        "known_for_department": "Acting",
+        "name": "Judith Arcana",
+        "original_name": "Judith Arcana",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "6272b79899c964009c599c55",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3536397,
+        "known_for_department": "Acting",
+        "name": "Marie Leaner",
+        "original_name": "Marie Leaner",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "6272b7a0a313b812cc5b85cf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3536400,
+        "known_for_department": "Acting",
+        "name": "Diane Stevens",
+        "original_name": "Diane Stevens",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "6272b80aa93d25009ce4fcd8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3536399,
+        "known_for_department": "Acting",
+        "name": "Eleanor Oliver",
+        "original_name": "Eleanor Oliver",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "6272b7aea93d25006714aca3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107983,
+        "known_for_department": "Acting",
+        "name": "Martin Luther King Jr.",
+        "original_name": "Martin Luther King Jr.",
+        "popularity": 0.5047,
+        "profile_path": "/bclVGQbWbPRQRC94e855oP4Inw0.jpg",
+        "cast_id": 16,
+        "character": "Self (archive footage)",
+        "credit_id": "6490536bc2ff3d0139af5a99",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83786,
+        "known_for_department": "Acting",
+        "name": "Walter Cronkite",
+        "original_name": "Walter Cronkite",
+        "popularity": 0.1663,
+        "profile_path": "/hCIBybvwP7aMqwJFxcmVEyNrRyB.jpg",
+        "cast_id": 18,
+        "character": "Self (archive footage)",
+        "credit_id": "64906ebf2f8d09013afb335a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31309,
+        "known_for_department": "Acting",
+        "name": "Hugh Hefner",
+        "original_name": "Hugh Hefner",
+        "popularity": 0.2552,
+        "profile_path": "/7Qwu5fFUR6X9tJuKJdt2Vt6OBp6.jpg",
+        "cast_id": 19,
+        "character": "Self (archive footage)",
+        "credit_id": "64906ed1c3c89100ae5229b1",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 945162,
+        "known_for_department": "Production",
+        "name": "Lisa Heller",
+        "original_name": "Lisa Heller",
+        "popularity": 0.1013,
+        "profile_path": "/5UQABpvdcyD1hymHzrZoN6lNvq4.jpg",
+        "credit_id": "6244c562f48b34004706eac1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2393310,
+        "known_for_department": "Production",
+        "name": "Sara Rodriguez",
+        "original_name": "Sara Rodriguez",
+        "popularity": 0.623,
+        "profile_path": "/eVdHq7DeWZTLBC25RUausIeyuOJ.jpg",
+        "credit_id": "6244c56e9451e700498be985",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 218054,
+        "known_for_department": "Production",
+        "name": "Nancy Abraham",
+        "original_name": "Nancy Abraham",
+        "popularity": 0.2513,
+        "profile_path": null,
+        "credit_id": "6244c559470ead008aa185c9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1245635,
+        "known_for_department": "Production",
+        "name": "Jessica Levin",
+        "original_name": "Jessica Levin",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "6272b849162bc317ac7bd72a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1037780,
+        "known_for_department": "Directing",
+        "name": "Susan Lacy",
+        "original_name": "Susan Lacy",
+        "popularity": 0.1211,
+        "profile_path": "/oBQVChWmRHdNieZPgMeldHcZZt1.jpg",
+        "credit_id": "6272b85f29c626187c0aabc0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1538617,
+        "known_for_department": "Production",
+        "name": "Emma Pildes",
+        "original_name": "Emma Pildes",
+        "popularity": 1.1544,
+        "profile_path": null,
+        "credit_id": "6272b8345800c40065f09433",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3536401,
+        "known_for_department": "Production",
+        "name": "Daniel Arcana",
+        "original_name": "Daniel Arcana",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6272b83fa313b812cbdf2eed",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 408353,
+        "known_for_department": "Production",
+        "name": "Tia Lessin",
+        "original_name": "Tia Lessin",
+        "popularity": 0.8413,
+        "profile_path": "/aVO7PXRKxMiv2bwm64J41hy9Msm.jpg",
+        "credit_id": "61b2d36d74d6c00064aa1a27",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1538617,
+        "known_for_department": "Production",
+        "name": "Emma Pildes",
+        "original_name": "Emma Pildes",
+        "popularity": 1.1544,
+        "profile_path": null,
+        "credit_id": "61b2d37562f3350091bafadb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1403501,
+        "known_for_department": "Sound",
+        "name": "Marlena Grzaslewicz",
+        "original_name": "Marlena Grzaslewicz",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "64945e5a89b56100ff63bbbb",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1625316,
+        "known_for_department": "Sound",
+        "name": "Jacob Ribicoff",
+        "original_name": "Jacob Ribicoff",
+        "popularity": 0.2022,
+        "profile_path": null,
+        "credit_id": "64945e66cfe48f00e390a31e",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2137284,
+        "known_for_department": "Sound",
+        "name": "Matt Rigby",
+        "original_name": "Matt Rigby",
+        "popularity": 0.5844,
+        "profile_path": null,
+        "credit_id": "64945e49e22d280126054de0",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1386714,
+        "known_for_department": "Camera",
+        "name": "Keith Walker",
+        "original_name": "Keith Walker",
+        "popularity": 0.6759,
+        "profile_path": null,
+        "credit_id": "64906e91c2ff3d0139af692b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

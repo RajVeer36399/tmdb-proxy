@@ -1,0 +1,331 @@
+{
+  "adult": false,
+  "backdrop_path": "/5aU80jZLQfCPHFwRW24E6L72Mzu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://reeloneent.com/programming/love-under-the-lemon-tree/",
+  "id": 950225,
+  "imdb_id": "tt18923318",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Love Under the Lemon Tree",
+  "overview": "When aspiring travel photographer Beck decides to enter a prestigious photography competition, she heads to sunny Serenity island. Staying at the town’s charming Lemon Tree Farm, Beck meets gruff but handsome owner Joshua, and the pair strike a deal: he’ll help her discover the town’s hidden gems if she helps with the farm’s PR. Working together is no walk in the park to begin, but sparks soon fly when they discover they have more in common than they first thought… Could love be in the air, or will one big secret ruin the fledgling romance?",
+  "popularity": 5.4016,
+  "poster_path": "/gJC5aSwDPrKL66UjpixD8JBvtcB.jpg",
+  "production_companies": [
+    {
+      "id": 6504,
+      "logo_path": "/fSRVblJav5hzojqu50bgEAIkLCH.png",
+      "name": "Maple Island Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 140422,
+      "logo_path": "/bdzcN8jo9l77g5zKqPlxW3CkejM.png",
+      "name": "Champlain Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 15645,
+      "logo_path": "/lUIW54MXFbB94IKiVzwTRu1R3UX.png",
+      "name": "Reel One Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-05-29",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Under the Lemon Tree",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 15,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2008605,
+        "known_for_department": "Acting",
+        "name": "Maddison Bullock",
+        "original_name": "Maddison Bullock",
+        "popularity": 0.1977,
+        "profile_path": "/uS380VZ0UVNEg7Ig3OsNowb7wCB.jpg",
+        "cast_id": 1,
+        "character": "Beck Waterford",
+        "credit_id": "623291c701e4d10075041f0d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3281659,
+        "known_for_department": "Acting",
+        "name": "Anthony Coons",
+        "original_name": "Anthony Coons",
+        "popularity": 0.0714,
+        "profile_path": "/dOkLosoOAg1JyMTZOYJaHJJjSTU.jpg",
+        "cast_id": 2,
+        "character": "Josh Sweeting",
+        "credit_id": "623291d1904f6d00751dee93",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1515471,
+        "known_for_department": "Acting",
+        "name": "Casey O'Keefe",
+        "original_name": "Casey O'Keefe",
+        "popularity": 0.4367,
+        "profile_path": "/zUEBv2Sv5WPQl69aB32nl7IvK8w.jpg",
+        "cast_id": 6,
+        "character": "Catherine Rose",
+        "credit_id": "624f15d9cf4b8b131823a88d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214717,
+        "known_for_department": "Acting",
+        "name": "James Hyde",
+        "original_name": "James Hyde",
+        "popularity": 0.4589,
+        "profile_path": "/yXVBAL5h339cnSkjlZykS2Qsc9v.jpg",
+        "cast_id": 7,
+        "character": "Matthew Sweeting",
+        "credit_id": "633c9b3e175051008e181a13",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2692769,
+        "known_for_department": "Acting",
+        "name": "Skye Coyne",
+        "original_name": "Skye Coyne",
+        "popularity": 1.0215,
+        "profile_path": "/clq2yJXCGHPnqZB5x78vX5hAgkN.jpg",
+        "cast_id": 8,
+        "character": "Susan",
+        "credit_id": "633c9b453344c6007a490a3c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3727134,
+        "known_for_department": "Acting",
+        "name": "Grace L. Kelly",
+        "original_name": "Grace L. Kelly",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Tabitha",
+        "credit_id": "633c9b4e42f19f0081969cad",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1386670,
+        "known_for_department": "Acting",
+        "name": "Fred Mata",
+        "original_name": "Fred Mata",
+        "popularity": 0.111,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Jordan",
+        "credit_id": "633c9b57175051007c428078",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1074628,
+        "known_for_department": "Acting",
+        "name": "Elyse Mirto",
+        "original_name": "Elyse Mirto",
+        "popularity": 0.4108,
+        "profile_path": "/14joJzdCvDLSC045UffqsYEUjwn.jpg",
+        "cast_id": 11,
+        "character": "June",
+        "credit_id": "633c9b616beaea007d52ec03",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3727135,
+        "known_for_department": "Acting",
+        "name": "Mia Sandler",
+        "original_name": "Mia Sandler",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Alice Sweeting",
+        "credit_id": "633c9b6c3344c6007d853cc6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555248,
+        "known_for_department": "Acting",
+        "name": "Michael Scovotti",
+        "original_name": "Michael Scovotti",
+        "popularity": 0.476,
+        "profile_path": "/ebYl4DkEhGEYjyT4ZV1GwuaS3Gt.jpg",
+        "cast_id": 13,
+        "character": "Ash",
+        "credit_id": "633c9b7348138200918933c3",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110834,
+        "known_for_department": "Directing",
+        "name": "John Murlowski",
+        "original_name": "John Murlowski",
+        "popularity": 0.1668,
+        "profile_path": "/tgTQjYtBou3IiJjpYgG17RNch9q.jpg",
+        "credit_id": "6232922d7ac829001d3aebca",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3293268,
+        "known_for_department": "Production",
+        "name": "Kayley Loveridge",
+        "original_name": "Kayley Loveridge",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "credit_id": "6232924932489b001b765a5c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110834,
+        "known_for_department": "Directing",
+        "name": "John Murlowski",
+        "original_name": "John Murlowski",
+        "popularity": 0.1668,
+        "profile_path": "/tgTQjYtBou3IiJjpYgG17RNch9q.jpg",
+        "credit_id": "623292576d000c001bd5a638",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1832197,
+        "known_for_department": "Production",
+        "name": "Jennifer Phillips",
+        "original_name": "Jennifer Phillips",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "67250ffa0df4e66d4d925a38",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110834,
+        "known_for_department": "Directing",
+        "name": "John Murlowski",
+        "original_name": "John Murlowski",
+        "popularity": 0.1668,
+        "profile_path": "/tgTQjYtBou3IiJjpYgG17RNch9q.jpg",
+        "credit_id": "6725100601c4dbfa94f694e1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2626182,
+        "known_for_department": "Editing",
+        "name": "Alexander Vanheisch",
+        "original_name": "Alexander Vanheisch",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "6725102890004810fecb3ca6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1087476,
+        "known_for_department": "Sound",
+        "name": "David Findlay",
+        "original_name": "David Findlay",
+        "popularity": 0.7587,
+        "profile_path": null,
+        "credit_id": "6725105201c4dbfa94f69503",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5035288,
+        "known_for_department": "Writing",
+        "name": "Bobbie Pietersen",
+        "original_name": "Bobbie Pietersen",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "6725108ec4aa98945ef35b61",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

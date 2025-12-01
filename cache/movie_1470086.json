@@ -1,0 +1,146 @@
+{
+  "adult": false,
+  "backdrop_path": "/heMsXGykub43tU79I9hv6T1vHRc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1470086,
+  "imdb_id": "tt36695572",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Ligaw",
+  "overview": "A sultry woman who charms the hearts of men in a remote province. Dolores, a devoted wife to her paraplegic husband, falls for a young mountaineer. What begins as a reckless escape turns into an affair drenched in passion and secrecy.",
+  "popularity": 16.4797,
+  "poster_path": "/yc8V3KEnhvPrzXpdYTXdTvjpOb5.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2025-05-09",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ligaw",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3371806,
+        "known_for_department": "Acting",
+        "name": "Robb Guinto",
+        "original_name": "Robb Guinto",
+        "popularity": 2.5568,
+        "profile_path": "/dtqU7iZ3QouBCAkRARiOtFGcFab.jpg",
+        "cast_id": 1,
+        "character": "Dolores",
+        "credit_id": "680a4f05f3cf6d66d79d131c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3749683,
+        "known_for_department": "Acting",
+        "name": "Ali Asistio",
+        "original_name": "Ali Asistio",
+        "popularity": 0.3572,
+        "profile_path": "/cd97k2S9f1c56lJHfr9If93gWNM.jpg",
+        "cast_id": 2,
+        "character": "Jayron",
+        "credit_id": "680a4f1215a1d5a614ab278e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2996617,
+        "known_for_department": "Acting",
+        "name": "JC Tan",
+        "original_name": "JC Tan",
+        "popularity": 0.4419,
+        "profile_path": "/sSjBEtpEsMd5nHNaeum8R7450IO.jpg",
+        "cast_id": 3,
+        "character": "Rodel",
+        "credit_id": "680a4f1a778b4626739d0d11",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3333496,
+        "known_for_department": "Acting",
+        "name": "Rash Flores",
+        "original_name": "Rash Flores",
+        "popularity": 0.5368,
+        "profile_path": "/2Dax8oWjedXgUdtQUqaKLrzay8P.jpg",
+        "cast_id": 4,
+        "character": "Olan",
+        "credit_id": "680a4f28bfbdf1f8c589aaa8",
+        "order": 3
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 5651450,
+        "known_for_department": "Acting",
+        "name": "Jodi Garcia",
+        "original_name": "Jodi Garcia",
+        "popularity": 0.426,
+        "profile_path": "/bYq7IQRCrVm8hVTlir1qKqll6ja.jpg",
+        "cast_id": 7,
+        "character": "Female Hiker",
+        "credit_id": "68d2c8974106f3b8fccecec1",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3679755,
+        "known_for_department": "Directing",
+        "name": "Omar Deroca",
+        "original_name": "Omar Deroca",
+        "popularity": 0.0506,
+        "profile_path": "/27RF5EGWMEoWCcWkJHkxf9vRHVv.jpg",
+        "credit_id": "68b60100ecb40f9e461586e7",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

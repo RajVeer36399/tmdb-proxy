@@ -1,0 +1,460 @@
+{
+  "adult": false,
+  "backdrop_path": "/ejTb05o1zgYm6yWSX5KuPUr65cW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 537976,
+  "imdb_id": "tt8804284",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "American Dharma",
+  "overview": "A portrait of controversial Breitbart honcho and Donald Trump advisor, Stephen K. Bannon.",
+  "popularity": 6.4508,
+  "poster_path": "/7l2OyHmbQqwVF7X7XgS1q3upaP2.jpg",
+  "production_companies": [
+    {
+      "id": 40294,
+      "logo_path": null,
+      "name": "Fourth Floor Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 115156,
+      "logo_path": null,
+      "name": "Maje Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 122392,
+      "logo_path": "/ofCViRx68HyV2yrxg9dNsMJzTDB.png",
+      "name": "Storyteller Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 149330,
+      "logo_path": "/gnBJRaYDX9cYHibbUcDtuYFX3Vo.png",
+      "name": "Utopia",
+      "origin_country": "US"
+    },
+    {
+      "id": 256704,
+      "logo_path": null,
+      "name": "Moxie Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-11-01",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "I'd rather reign in hell than serve in heaven",
+  "title": "American Dharma",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 13,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223736,
+        "known_for_department": "Acting",
+        "name": "Steve Bannon",
+        "original_name": "Steve Bannon",
+        "popularity": 0.1625,
+        "profile_path": "/pLfnDZvXofoArdO3xtgQ7qch8s6.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "5b591303c3a36801e5001205",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18533,
+        "known_for_department": "Directing",
+        "name": "Errol Morris",
+        "original_name": "Errol Morris",
+        "popularity": 0.2454,
+        "profile_path": "/p0OVTOHWNOaEfK8eUjvey6uEbRp.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "5e5d427166ae4d001489d6cb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33663,
+        "known_for_department": "Acting",
+        "name": "Donald Trump",
+        "original_name": "Donald Trump",
+        "popularity": 2.3232,
+        "profile_path": "/nkQrZELEgxsvwDSlYkNfpFmsFx4.jpg",
+        "cast_id": 8,
+        "character": "Self (archive footage)",
+        "credit_id": "5e5d427f55c926001753d9b0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 504777,
+        "known_for_department": "Acting",
+        "name": "Andrew Breitbart",
+        "original_name": "Andrew Breitbart",
+        "popularity": 0.6912,
+        "profile_path": "/77YJuOj6D0MUjvZuT40IuT6lnhm.jpg",
+        "cast_id": 26,
+        "character": "Self (archive footage)",
+        "credit_id": "5fca8beb0b731600410625b2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672164,
+        "known_for_department": "Acting",
+        "name": "Anthony Weiner",
+        "original_name": "Anthony Weiner",
+        "popularity": 0.3422,
+        "profile_path": "/wrH80D8Ls1vjy1M7ijKqYuQl7oy.jpg",
+        "cast_id": 27,
+        "character": "Self (archive footage)",
+        "credit_id": "5fca8bf743999b003e17ae74",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116341,
+        "known_for_department": "Acting",
+        "name": "Bill Clinton",
+        "original_name": "Bill Clinton",
+        "popularity": 0.3826,
+        "profile_path": "/aOSAwUHkTYdcVrl5MdOzuGRluTm.jpg",
+        "cast_id": 5,
+        "character": "Self (archive footage)",
+        "credit_id": "5e5d424866ae4d001489d68c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 216674,
+        "known_for_department": "Acting",
+        "name": "Hillary Clinton",
+        "original_name": "Hillary Clinton",
+        "popularity": 0.2814,
+        "profile_path": "/67D6LJgwfbF0baKknUx6OPIoVlu.jpg",
+        "cast_id": 6,
+        "character": "Self (archive footage)",
+        "credit_id": "5e5d42639b86160013fcd7d3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102786,
+        "known_for_department": "Acting",
+        "name": "Barack Obama",
+        "original_name": "Barack Obama",
+        "popularity": 0.8397,
+        "profile_path": "/reEkbvLlNknpCo2I37Vim6XpqGu.jpg",
+        "cast_id": 25,
+        "character": "Self (archive footage)",
+        "credit_id": "5fca8b9ed8e225003f91575a",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18533,
+        "known_for_department": "Directing",
+        "name": "Errol Morris",
+        "original_name": "Errol Morris",
+        "popularity": 0.2454,
+        "profile_path": "/p0OVTOHWNOaEfK8eUjvey6uEbRp.jpg",
+        "credit_id": "5b5912e50e0a2611f90010cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1023711,
+        "known_for_department": "Art",
+        "name": "Adam Stockhausen",
+        "original_name": "Adam Stockhausen",
+        "popularity": 0.695,
+        "profile_path": "/vuQwGV4UaVOcxBVLtaSSsgrQKIX.jpg",
+        "credit_id": "5b836cd4c3a368655804388f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1910401,
+        "known_for_department": "Production",
+        "name": "Molly Rokosz",
+        "original_name": "Molly Rokosz",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "5e5d42ab357c0000132c1b92",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2397482,
+        "known_for_department": "Production",
+        "name": "P.J. van Sandwijk",
+        "original_name": "P.J. van Sandwijk",
+        "popularity": 1.0834,
+        "profile_path": null,
+        "credit_id": "5e5d42b455c926001753d9cc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1365071,
+        "known_for_department": "Production",
+        "name": "Marie Savare",
+        "original_name": "Marie Savare",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5e5d42be9b86160013fcd857",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2555294,
+        "known_for_department": "Production",
+        "name": "Angela Minuty",
+        "original_name": "Angela Minuty",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "5e5d42a3357c0000192c3714",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231831,
+        "known_for_department": "Sound",
+        "name": "Paul Leonard-Morgan",
+        "original_name": "Paul Leonard-Morgan",
+        "popularity": 0.3339,
+        "profile_path": null,
+        "credit_id": "5e5d431566ae4d0019898767",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547770,
+        "known_for_department": "Production",
+        "name": "Robert Fernandez",
+        "original_name": "Robert Fernandez",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5e5d43019b8616000ffccf40",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18533,
+        "known_for_department": "Directing",
+        "name": "Errol Morris",
+        "original_name": "Errol Morris",
+        "popularity": 0.2454,
+        "profile_path": "/p0OVTOHWNOaEfK8eUjvey6uEbRp.jpg",
+        "credit_id": "5e5d42ca66ae4d00128982cb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2555293,
+        "known_for_department": "Production",
+        "name": "Joshua Kearney",
+        "original_name": "Joshua Kearney",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5e5d429b9b86160013fcd815",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65070,
+        "known_for_department": "Camera",
+        "name": "Igor Martinović",
+        "original_name": "Igor Martinović",
+        "popularity": 0.5546,
+        "profile_path": null,
+        "credit_id": "5e5d432066ae4d001289837b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018480,
+        "known_for_department": "Art",
+        "name": "Carl Sprague",
+        "original_name": "Carl Sprague",
+        "popularity": 0.6973,
+        "profile_path": null,
+        "credit_id": "5e5d433855c9260013542958",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1555501,
+        "known_for_department": "Art",
+        "name": "Danica Chipman",
+        "original_name": "Danica Chipman",
+        "popularity": 0.088,
+        "profile_path": null,
+        "credit_id": "5e5d4340357c0000162bdca6",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1842148,
+        "known_for_department": "Sound",
+        "name": "Justin M. Davey",
+        "original_name": "Justin M. Davey",
+        "popularity": 0.1576,
+        "profile_path": null,
+        "credit_id": "5e5d435687e63e0013744438",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1900845,
+        "known_for_department": "Sound",
+        "name": "Steve Bores",
+        "original_name": "Steve Bores",
+        "popularity": 1.9671,
+        "profile_path": null,
+        "credit_id": "5e5d434d55c926001354297a",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1415009,
+        "known_for_department": "Sound",
+        "name": "Joel Dougherty",
+        "original_name": "Joel Dougherty",
+        "popularity": 0.1694,
+        "profile_path": "/w1y27VYNCRMwHU6OfJU3yU2Zoz4.jpg",
+        "credit_id": "5e5d43629b8616000ffcd015",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56073,
+        "known_for_department": "Editing",
+        "name": "Steven Hathaway",
+        "original_name": "Steven Hathaway",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "67141b9dd5b7926e946fe2d2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56073,
+        "known_for_department": "Editing",
+        "name": "Steven Hathaway",
+        "original_name": "Steven Hathaway",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "67141c7899f22f326aad33de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2048788,
+        "known_for_department": "Art",
+        "name": "Raymond Prado",
+        "original_name": "Raymond Prado",
+        "popularity": 0.1276,
+        "profile_path": null,
+        "credit_id": "673bb05277eb59f2f01a5aa2",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1555017,
+        "known_for_department": "Crew",
+        "name": "Brian Ricci",
+        "original_name": "Brian Ricci",
+        "popularity": 0.1794,
+        "profile_path": null,
+        "credit_id": "68be9da20251feffce9479f5",
+        "department": "Crew",
+        "job": "Special Effects"
+      }
+    ]
+  }
+}

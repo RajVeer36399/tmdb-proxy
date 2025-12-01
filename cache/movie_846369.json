@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "http://paulwongprojects.com/portfolio/perfect-day/",
+  "id": 846369,
+  "imdb_id": null,
+  "origin_country": [
+    "US",
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Perfect Day",
+  "overview": "The artist records himself at home proudly indulging in the happiness of a drug (heroin and cocaine) inspired perfect day. The music of Lou Reed: Heroin and Perfect Day. Recorded on Sunday – edited on Monday. Be Happy.",
+  "popularity": 16.9942,
+  "poster_path": "/vjq3NRnUxvl3rsYLiAN9WCh6BK6.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2007-01-01",
+  "revenue": 0,
+  "runtime": 8,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Perfect Day",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2979497,
+        "known_for_department": "Directing",
+        "name": "Paul Wong",
+        "original_name": "Paul Wong",
+        "popularity": 0.0888,
+        "profile_path": "/nlwZppEVRRkjYk7XRZb1gwP5Wpr.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "60dce3eeef9d72007e075146",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2979497,
+        "known_for_department": "Directing",
+        "name": "Paul Wong",
+        "original_name": "Paul Wong",
+        "popularity": 0.0888,
+        "profile_path": "/nlwZppEVRRkjYk7XRZb1gwP5Wpr.jpg",
+        "credit_id": "60dce3fd960cde0073a94d82",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46392,
+        "known_for_department": "Acting",
+        "name": "Lou Reed",
+        "original_name": "Lou Reed",
+        "popularity": 5.8376,
+        "profile_path": "/lWFiXdQtYHqr2EXnk5nhDFm36XF.jpg",
+        "credit_id": "60dce40db686b90046e1a4c8",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2979497,
+        "known_for_department": "Directing",
+        "name": "Paul Wong",
+        "original_name": "Paul Wong",
+        "popularity": 0.0888,
+        "profile_path": "/nlwZppEVRRkjYk7XRZb1gwP5Wpr.jpg",
+        "credit_id": "60dce3f79979d2007f4568f5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2979497,
+        "known_for_department": "Directing",
+        "name": "Paul Wong",
+        "original_name": "Paul Wong",
+        "popularity": 0.0888,
+        "profile_path": "/nlwZppEVRRkjYk7XRZb1gwP5Wpr.jpg",
+        "credit_id": "60dce404d95420007ea2765d",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

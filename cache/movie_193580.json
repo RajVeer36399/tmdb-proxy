@@ -1,0 +1,382 @@
+{
+  "adult": false,
+  "backdrop_path": "/6Qi4gBTBLDyULhWojtR8DpyJFf4.jpg",
+  "belongs_to_collection": {
+    "id": 1309825,
+    "name": "P.O.E.",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 193580,
+  "imdb_id": "tt2450520",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "P.O.E. : Project of Evil",
+  "overview": "Project of Evil shifts toward a more experimental and visceral tone, with stories such as “The Pit and the Pendulum,” “The Tell-Tale Heart,” and “The Murders in the Rue Morgue” re-imagined with a modern grindhouse sensibility.",
+  "popularity": 6.7651,
+  "poster_path": "/tg5bOtmRmTZG4kYx5EPS8vMmahg.jpg",
+  "production_companies": [
+    {
+      "id": 100223,
+      "logo_path": null,
+      "name": "Revok",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2012-05-14",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "From the mind of Edgar Allen Poe",
+  "title": "P.O.E. : Project of Evil",
+  "video": false,
+  "vote_average": 4.588,
+  "vote_count": 17,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1507900,
+        "known_for_department": "Acting",
+        "name": "Dario Biancone",
+        "original_name": "Dario Biancone",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 0,
+        "character": "",
+        "credit_id": "55f13514925141670b0011a9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498937,
+        "known_for_department": "Acting",
+        "name": "Angelo Campus",
+        "original_name": "Angelo Campus",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "The Patient",
+        "credit_id": "55f135259251416711001281",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1329644,
+        "known_for_department": "Acting",
+        "name": "David D'Ingeo",
+        "original_name": "David D'Ingeo",
+        "popularity": 1.1558,
+        "profile_path": "/e6HZzTvygUG5z1Pl3gYnlBeP0Bi.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "55f1352f925141670d00124e",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 562350,
+        "known_for_department": "Acting",
+        "name": "Francesco Malcom",
+        "original_name": "Francesco Malcom",
+        "popularity": 13.363,
+        "profile_path": "/9MjyOYOYNdAPuEjIyY6xMs6Nl6o.jpg",
+        "cast_id": 17,
+        "character": "Francesco Falcon",
+        "credit_id": "566d6f49c3a3680e73006fbb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1507902,
+        "known_for_department": "Acting",
+        "name": "Manlio Maresca",
+        "original_name": "Manlio Maresca",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Ragazzo che guarda",
+        "credit_id": "55f13549c3a3682307001304",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1507903,
+        "known_for_department": "Acting",
+        "name": "Alessandro Rella",
+        "original_name": "Alessandro Rella",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Uomo Grosso",
+        "credit_id": "55f13554c3a36822fe001210",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2349512,
+        "known_for_department": "Acting",
+        "name": "Paolo Ricci",
+        "original_name": "Paolo Ricci",
+        "popularity": 0.0261,
+        "profile_path": "/EuyA2cDNmbD2bsZsCNGcWCPiRC.jpg",
+        "cast_id": 24,
+        "character": "Uomo Magro",
+        "credit_id": "6605dcf7e1faed014af965ce",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234820,
+        "known_for_department": "Directing",
+        "name": "Alessandro Valori",
+        "original_name": "Alessandro Valori",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Giovanni",
+        "credit_id": "55f1356cc3a368230d001128",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1507904,
+        "known_for_department": "Acting",
+        "name": "Lucio Zannella",
+        "original_name": "Lucio Zannella",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Buried",
+        "credit_id": "55f13577c3a3683bec001284",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1075290,
+        "known_for_department": "Acting",
+        "name": "Santa De Santis",
+        "original_name": "Santa De Santis",
+        "popularity": 0.1725,
+        "profile_path": "/iFoZqG2pFxh7v2U0vn73g5DtOCp.jpg",
+        "cast_id": 18,
+        "character": "Sara",
+        "credit_id": "5c43ec60c3a3681a0923bbb1",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 586081,
+        "known_for_department": "Directing",
+        "name": "Edo Tagliavini",
+        "original_name": "Edo Tagliavini",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "55f135d69251416705001271",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498935,
+        "known_for_department": "Directing",
+        "name": "Giuliano Giacomelli",
+        "original_name": "Giuliano Giacomelli",
+        "popularity": 0.0397,
+        "profile_path": "/agQhld7JrdCPy7nVELOF3G89HrS.jpg",
+        "credit_id": "55f13596c3a36822ef0010c8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316207,
+        "known_for_department": "Writing",
+        "name": "Andrea Cavaletto",
+        "original_name": "Andrea Cavaletto",
+        "popularity": 0.278,
+        "profile_path": null,
+        "credit_id": "55f135e6c3a368230a001455",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 586081,
+        "known_for_department": "Directing",
+        "name": "Edo Tagliavini",
+        "original_name": "Edo Tagliavini",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "55f1360d925141670500127e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1507906,
+        "known_for_department": "Writing",
+        "name": "Luca Ruocco",
+        "original_name": "Luca Ruocco",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "55f13600c3a3683bec001298",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98518,
+        "known_for_department": "Directing",
+        "name": "Domiziano Cristopharo",
+        "original_name": "Domiziano Cristopharo",
+        "popularity": 0.0859,
+        "profile_path": null,
+        "credit_id": "55f135acc3a368230d001132",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1507905,
+        "known_for_department": "Directing",
+        "name": "Donatello Della Pepa",
+        "original_name": "Donatello Della Pepa",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "55f135c19251416707001293",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498935,
+        "known_for_department": "Directing",
+        "name": "Giuliano Giacomelli",
+        "original_name": "Giuliano Giacomelli",
+        "popularity": 0.0397,
+        "profile_path": "/agQhld7JrdCPy7nVELOF3G89HrS.jpg",
+        "credit_id": "55f135f3c3a368230a001458",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719312,
+        "known_for_department": "Writing",
+        "name": "Alberto Viavattene",
+        "original_name": "Alberto Viavattene",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "60128e10fd4a96003f3441bc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1167162,
+        "known_for_department": "Directing",
+        "name": "Nathan Nicholovitch",
+        "original_name": "Nathan Nicholovitch",
+        "popularity": 0.0429,
+        "profile_path": "/2JkkmPJw1wyB6RUn1AhBtwxfqPv.jpg",
+        "credit_id": "60128dc1dd83fa003f9bfd3b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98518,
+        "known_for_department": "Directing",
+        "name": "Domiziano Cristopharo",
+        "original_name": "Domiziano Cristopharo",
+        "popularity": 0.0859,
+        "profile_path": null,
+        "credit_id": "60128e340816c70040817a78",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498925,
+        "known_for_department": "Directing",
+        "name": "Angelo Capasso",
+        "original_name": "Angelo Capasso",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "60128dcbccde04004128e48a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498924,
+        "known_for_department": "Directing",
+        "name": "Giuseppe Capasso",
+        "original_name": "Giuseppe Capasso",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "60128ddefd4a96003e33eeda",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

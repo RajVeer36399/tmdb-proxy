@@ -1,0 +1,515 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 76529,
+  "imdb_id": "tt1327808",
+  "origin_country": [
+    "FR",
+    "CA",
+    "CH"
+  ],
+  "original_language": "fr",
+  "original_title": "Opération Casablanca",
+  "overview": "Mistaken for a dangerous Islamist, Saadi - a regular guy who happens to be an illegal Arab immigrant - sets out on the most dangerous day of his life. A satirical and thrilling comedy where a wrongly accused suspect gets mixed up in a worldwide terrorist plot.",
+  "popularity": 7.9413,
+  "poster_path": "/tOocP3pLcr1Nz9wo9KIH8iLtq0.jpg",
+  "production_companies": [
+    {
+      "id": 7970,
+      "logo_path": "/so1bsD7PbaSsFio7gVyW0M3qhsc.png",
+      "name": "Bord Cadre Films",
+      "origin_country": "CH"
+    },
+    {
+      "id": 12431,
+      "logo_path": "/3m45frhaRCLsCKuMtuj7ZwfGwBB.png",
+      "name": "SRG SSR",
+      "origin_country": "CH"
+    },
+    {
+      "id": 78506,
+      "logo_path": null,
+      "name": "LPR Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 78507,
+      "logo_path": "/lVtS5Z6MITcHXlKhgwbM3CNYtuu.png",
+      "name": "Peacock Film",
+      "origin_country": "CH"
+    },
+    {
+      "id": 26026,
+      "logo_path": null,
+      "name": "Egli Film",
+      "origin_country": ""
+    },
+    {
+      "id": 8649,
+      "logo_path": "/130H7TsGokNIPyGHYZc9ftU3jJ7.png",
+      "name": "Mikros Image",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1245,
+      "logo_path": "/suKdkPTtHn0DzGYmrXCA506dJON.png",
+      "name": "TSR",
+      "origin_country": "CH"
+    },
+    {
+      "id": 281,
+      "logo_path": "/ww3pzkwWwHXOPyqiVzMrbcT6yN2.png",
+      "name": "Equinoxe Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 207,
+      "logo_path": "/uskenzq65wJe0cT0D8StQI3hJnO.png",
+      "name": "Agat Films & Cie / Ex Nihilo",
+      "origin_country": "FR"
+    },
+    {
+      "id": 109756,
+      "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2011-11-09",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Operation Casablanca",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031994,
+        "known_for_department": "Acting",
+        "name": "Tarik Bakhari",
+        "original_name": "Tarik Bakhari",
+        "popularity": 0.0998,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Saadi",
+        "credit_id": "52fe493fc3a368484e121d5f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78147,
+        "known_for_department": "Acting",
+        "name": "Élodie Yung",
+        "original_name": "Élodie Yung",
+        "popularity": 2.3806,
+        "profile_path": "/oRs65jexRkX8D4GRsHj5sb7E9Mx.jpg",
+        "cast_id": 16,
+        "character": "Isako",
+        "credit_id": "52fe493fc3a368484e121d63",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41205,
+        "known_for_department": "Acting",
+        "name": "Gilles Tschudi",
+        "original_name": "Gilles Tschudi",
+        "popularity": 0.2124,
+        "profile_path": "/6CE1nkci0jj5mqBwy5bjTwo0Z3Y.jpg",
+        "cast_id": 17,
+        "character": "Glauser",
+        "credit_id": "52fe493fc3a368484e121d67",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5445,
+        "known_for_department": "Acting",
+        "name": "Zinedine Soualem",
+        "original_name": "Zinedine Soualem",
+        "popularity": 0.3438,
+        "profile_path": "/feyQoQ89GDPnnmbeiiVFHkJvQtH.jpg",
+        "cast_id": 18,
+        "character": "Hassan",
+        "credit_id": "52fe493fc3a368484e121d6b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38898,
+        "known_for_department": "Acting",
+        "name": "Jean-Luc Bideau",
+        "original_name": "Jean-Luc Bideau",
+        "popularity": 0.3671,
+        "profile_path": "/oyHa0DPwYztBe2k6LlGY9tu4jE.jpg",
+        "cast_id": 19,
+        "character": "Michel",
+        "credit_id": "52fe493fc3a368484e121d6f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25257,
+        "known_for_department": "Acting",
+        "name": "Julieta Serrano",
+        "original_name": "Julieta Serrano",
+        "popularity": 0.1866,
+        "profile_path": "/3eVHZ5gieSxNYUJRXaYLDaljDQO.jpg",
+        "cast_id": 20,
+        "character": "Mrs Rueda",
+        "credit_id": "52fe493fc3a368484e121d73",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35965,
+        "known_for_department": "Acting",
+        "name": "Antoine Basler",
+        "original_name": "Antoine Basler",
+        "popularity": 0.1763,
+        "profile_path": "/4VT9tZrVmiq3a27w0i0wyDju2jB.jpg",
+        "cast_id": 21,
+        "character": "Rueda",
+        "credit_id": "52fe493fc3a368484e121d77",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031995,
+        "known_for_department": "Acting",
+        "name": "Émile Proulx-Cloutier",
+        "original_name": "Émile Proulx-Cloutier",
+        "popularity": 0.1602,
+        "profile_path": "/2LZmuQCKkDU9voaWa5DNz2MgHYo.jpg",
+        "cast_id": 22,
+        "character": "Abdelkhani",
+        "credit_id": "52fe493fc3a368484e121d7b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21663,
+        "known_for_department": "Acting",
+        "name": "Yoshi Oida",
+        "original_name": "Yoshi Oida",
+        "popularity": 0.3726,
+        "profile_path": "/A1ow9mQH5lbOaha9XCn27LAB2s9.jpg",
+        "cast_id": 23,
+        "character": "Takahata",
+        "credit_id": "52fe493fc3a368484e121d7f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1002651,
+        "known_for_department": "Acting",
+        "name": "Hicham Nazzal",
+        "original_name": "Hicham Nazzal",
+        "popularity": 0.1251,
+        "profile_path": "/7rGx79p4gOncUVBrjlByE8WObUp.jpg",
+        "cast_id": 24,
+        "character": "Youssef",
+        "credit_id": "52fe493fc3a368484e121d83",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1647654,
+        "known_for_department": "Acting",
+        "name": "Joseph Gorgoni",
+        "original_name": "Joseph Gorgoni",
+        "popularity": 0.0327,
+        "profile_path": "/u0hxkmwbruvUWXNHFjcE0HSue2L.jpg",
+        "cast_id": 34,
+        "character": "Marie-Thérèse Porchet",
+        "credit_id": "633b09accf48a1007dbc0eb6",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031977,
+        "known_for_department": "Writing",
+        "name": "Mohcine Besri",
+        "original_name": "Mohcine Besri",
+        "popularity": 0.0143,
+        "profile_path": "/i5zInfEJF1fxhYzoPrhyleTBBhU.jpg",
+        "credit_id": "52fe493fc3a368484e121d1f",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 63399,
+        "known_for_department": "Writing",
+        "name": "Julien Sulser",
+        "original_name": "Julien Sulser",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe493fc3a368484e121d31",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90176,
+        "known_for_department": "Production",
+        "name": "Xavier Ruiz",
+        "original_name": "Xavier Ruiz",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "52fe493fc3a368484e121d37",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031979,
+        "known_for_department": "Writing",
+        "name": "Jean-Paul Cardinaux",
+        "original_name": "Jean-Paul Cardinaux",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "52fe493fc3a368484e121d3d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031987,
+        "known_for_department": "Sound",
+        "name": "Jürg Lempen",
+        "original_name": "Jürg Lempen",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "52fe493fc3a368484e121d43",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031988,
+        "known_for_department": "Sound",
+        "name": "Martin M. Messier",
+        "original_name": "Martin M. Messier",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "52fe493fc3a368484e121d49",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031989,
+        "known_for_department": "Sound",
+        "name": "Guillaume Boursier",
+        "original_name": "Guillaume Boursier",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe493fc3a368484e121d4f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031990,
+        "known_for_department": "Sound",
+        "name": "Ramachandra Borcar",
+        "original_name": "Ramachandra Borcar",
+        "popularity": 0.6337,
+        "profile_path": null,
+        "credit_id": "52fe493fc3a368484e121d55",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031992,
+        "known_for_department": "Production",
+        "name": "Dan Wechsler",
+        "original_name": "Dan Wechsler",
+        "popularity": 0.1511,
+        "profile_path": "/2ujcIXiTPgaZ1ZDKLh0R8s2QX0j.jpg",
+        "credit_id": "52fe493fc3a368484e121d5b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031991,
+        "known_for_department": "Art",
+        "name": "Sébastian Birchler",
+        "original_name": "Sébastian Birchler",
+        "popularity": 0.0689,
+        "profile_path": "/bAf1JJoM4RVLkUwYkIweqPuKPIQ.jpg",
+        "credit_id": "52fe493fc3a368484e121d89",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1033036,
+        "known_for_department": "Art",
+        "name": "Hanspeter Remund",
+        "original_name": "Hanspeter Remund",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe493fc3a368484e121d8f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63393,
+        "known_for_department": "Writing",
+        "name": "Laurent Nègre",
+        "original_name": "Laurent Nègre",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "576dd3319251416c9d000c70",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63393,
+        "known_for_department": "Writing",
+        "name": "Laurent Nègre",
+        "original_name": "Laurent Nègre",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "576dd3389251416ca4000bd8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63393,
+        "known_for_department": "Writing",
+        "name": "Laurent Nègre",
+        "original_name": "Laurent Nègre",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "576dd33f9251416c99000c2f",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1360612,
+        "known_for_department": "Production",
+        "name": "Michael Mosca",
+        "original_name": "Michael Mosca",
+        "popularity": 0.1729,
+        "profile_path": null,
+        "credit_id": "576dd352c3a3685674000ce8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68317,
+        "known_for_department": "Production",
+        "name": "Lyse Lafontaine",
+        "original_name": "Lyse Lafontaine",
+        "popularity": 0.3815,
+        "profile_path": "/k1eOz4M9AigynQX2ePJ1HTvexsd.jpg",
+        "credit_id": "576dd359c3a368567c000c0d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640964,
+        "known_for_department": "Production",
+        "name": "François Tremblay",
+        "original_name": "François Tremblay",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "576dd3669251416c9d000c91",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2152713,
+        "known_for_department": "Camera",
+        "name": "Yves Bélanger",
+        "original_name": "Yves Bélanger",
+        "popularity": 0.1498,
+        "profile_path": "/dxn9CG8Blbq6u3ppgDybXVWXmSn.jpg",
+        "credit_id": "5bc695560e0a26761e0026da",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

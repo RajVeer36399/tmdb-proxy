@@ -1,0 +1,592 @@
+{
+  "adult": false,
+  "backdrop_path": "/zmfaCjc4MNUWgEztT3pOOyMSMBw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1426968,
+  "imdb_id": "tt32140922",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Ya no quedan junglas",
+  "overview": "Aging ex-soldier Theo meets weekly with prostitute Olga to reminisce. After Olga's murder, Theo seeks bloody revenge, attracting attention of alcoholic cop Iborra and hitman Herodes.",
+  "popularity": 140.9133,
+  "poster_path": "/iIIZ3qIh7A3B8Y1VVo5laFyusVV.jpg",
+  "production_companies": [
+    {
+      "id": 125381,
+      "logo_path": "/fqyj3ATL45iYVHSIprJP1cUy4sG.png",
+      "name": "SDB Films",
+      "origin_country": "MX"
+    },
+    {
+      "id": 85066,
+      "logo_path": "/5FhRorfPgloqzv7zlEAMi0dsiCa.png",
+      "name": "Film Factory",
+      "origin_country": "ES"
+    },
+    {
+      "id": 149886,
+      "logo_path": "/oDG7mNqzGZGRI8Q4qIAPOS0wdh4.png",
+      "name": "Esto También Pasará",
+      "origin_country": "ES"
+    },
+    {
+      "id": 80408,
+      "logo_path": "/e2LblDStah74O4c9E6o1U0qv0Oa.png",
+      "name": "Glow",
+      "origin_country": "ES"
+    },
+    {
+      "id": 268306,
+      "logo_path": null,
+      "name": "Ya no quedan junglas",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2025-09-26",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Gentleman",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2372,
+        "known_for_department": "Acting",
+        "name": "Ron Perlman",
+        "original_name": "Ron Perlman",
+        "popularity": 4.2212,
+        "profile_path": "/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg",
+        "cast_id": 5,
+        "character": "Theo",
+        "credit_id": "679d1060a9b4b128fb4d3b11",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1298489,
+        "known_for_department": "Acting",
+        "name": "Megan Montaner",
+        "original_name": "Megan Montaner",
+        "popularity": 1.1584,
+        "profile_path": "/e765CPp0w9L1lo9081U5bBMr0pq.jpg",
+        "cast_id": 8,
+        "character": "Iborras",
+        "credit_id": "679d107ea9b4b128fb4d3b26",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1131415,
+        "known_for_department": "Acting",
+        "name": "Hovik Keuchkerian",
+        "original_name": "Hovik Keuchkerian",
+        "popularity": 0.9855,
+        "profile_path": "/o5cGKWHlZl4RFROYlT2hD95j0lN.jpg",
+        "cast_id": 6,
+        "character": "Sub Inspector Puertas",
+        "credit_id": "679d106b2de2202ed5bdf041",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7370,
+        "known_for_department": "Acting",
+        "name": "Damián Alcázar",
+        "original_name": "Damián Alcázar",
+        "popularity": 0.9898,
+        "profile_path": "/6IAlrZ2yXubmmVaRsF7fdaP3N7C.jpg",
+        "cast_id": 7,
+        "character": "Chapas",
+        "credit_id": "679d1073a9b4b128fb4d3b20",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1811021,
+        "known_for_department": "Acting",
+        "name": "Marco de la O",
+        "original_name": "Marco de la O",
+        "popularity": 0.4728,
+        "profile_path": "/rPjyiarlF7GdAxPD91PLt9z0ZRK.jpg",
+        "cast_id": 9,
+        "character": "Herodes",
+        "credit_id": "679d108a134f488161012ef5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3298459,
+        "known_for_department": "Acting",
+        "name": "Natti Natasha",
+        "original_name": "Natti Natasha",
+        "popularity": 0.3176,
+        "profile_path": "/vpt47Qh4ZBQCAqWoUBhgM9YKkYp.jpg",
+        "cast_id": 10,
+        "character": "Olga",
+        "credit_id": "679d1097a9b4b128fb4d3b30",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24977,
+        "known_for_department": "Acting",
+        "name": "Karra Elejalde",
+        "original_name": "Karra Elejalde",
+        "popularity": 0.2405,
+        "profile_path": "/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg",
+        "cast_id": 11,
+        "character": "Mazas",
+        "credit_id": "6879905765f0807e59d98071",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102221,
+        "known_for_department": "Acting",
+        "name": "Rubén Ochandiano",
+        "original_name": "Rubén Ochandiano",
+        "popularity": 0.8672,
+        "profile_path": "/mTNriPJ3tf9zf3hXNAWdVKZklVN.jpg",
+        "cast_id": 12,
+        "character": "Tigre",
+        "credit_id": "6879905cee63f2da11169266",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 947514,
+        "known_for_department": "Acting",
+        "name": "Itziar Ituño",
+        "original_name": "Itziar Ituño",
+        "popularity": 2.4974,
+        "profile_path": "/vnrfL03NwRJ1X82esSNUoYzASGr.jpg",
+        "cast_id": 13,
+        "character": "Turón",
+        "credit_id": "6879906189990311ec527f4c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2110628,
+        "known_for_department": "Acting",
+        "name": "Diego Anido",
+        "original_name": "Diego Anido",
+        "popularity": 0.2919,
+        "profile_path": "/a7DVrZFjt8JjdPWfOTT93uRXOg8.jpg",
+        "cast_id": 14,
+        "character": "Ledesma",
+        "credit_id": "687990668b3b81d371243884",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233947,
+        "known_for_department": "Acting",
+        "name": "Daniel Grao",
+        "original_name": "Daniel Grao",
+        "popularity": 0.595,
+        "profile_path": "/8pNOwG9UxgHestAriO0N7r5GHN8.jpg",
+        "cast_id": 15,
+        "character": "San Román",
+        "credit_id": "6879906bfd945531ee8a3c51",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1980582,
+        "known_for_department": "Writing",
+        "name": "Juma Fodde",
+        "original_name": "Juma Fodde",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "credit_id": "679d1029a9b4b128fb4d3af0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10832,
+        "known_for_department": "Camera",
+        "name": "Gabriel Beristain",
+        "original_name": "Gabriel Beristain",
+        "popularity": 0.6169,
+        "profile_path": "/jdjcmVtA7vWBAGSb5uP5fYopqHA.jpg",
+        "credit_id": "679d103216ff832e57bdf3dd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2989286,
+        "known_for_department": "Production",
+        "name": "Álvaro Ariza",
+        "original_name": "Álvaro Ariza",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "679d104673712169814d28a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10832,
+        "known_for_department": "Camera",
+        "name": "Gabriel Beristain",
+        "original_name": "Gabriel Beristain",
+        "popularity": 0.6169,
+        "profile_path": "/jdjcmVtA7vWBAGSb5uP5fYopqHA.jpg",
+        "credit_id": "679d104e73712169814d28ab",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660257,
+        "known_for_department": "Writing",
+        "name": "Carlos Augusto Casas",
+        "original_name": "Carlos Augusto Casas",
+        "popularity": 0.0912,
+        "profile_path": null,
+        "credit_id": "68b3458b6210a69fb139760f",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1423063,
+        "known_for_department": "Editing",
+        "name": "Fran Amaro",
+        "original_name": "Fran Amaro",
+        "popularity": 0.0603,
+        "profile_path": null,
+        "credit_id": "68b345a44c6234278c1f2066",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 559404,
+        "known_for_department": "Production",
+        "name": "Christopher Hool",
+        "original_name": "Christopher Hool",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "68b345f1dc08ddffd42004dc",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72677,
+        "known_for_department": "Camera",
+        "name": "Javier Salmones",
+        "original_name": "Javier Salmones",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "68b3460efcd47c2ed93ef8d6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2509027,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nuria Barrio",
+        "original_name": "Nuria Barrio",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "68b3461d6c655492c654dfa2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4249872,
+        "known_for_department": "Art",
+        "name": "Sara Adanero",
+        "original_name": "Sara Adanero",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "credit_id": "68b34640a55db279eb3ccaa7",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3869718,
+        "known_for_department": "Sound",
+        "name": "Iñigo Tena",
+        "original_name": "Iñigo Tena",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68b3465f7c83cbc3999e1812",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1876053,
+        "known_for_department": "Visual Effects",
+        "name": "Jon Serrano Serván",
+        "original_name": "Jon Serrano Serván",
+        "popularity": 0.6027,
+        "profile_path": null,
+        "credit_id": "68b346cc7c5bec6e009e179e",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5292371,
+        "known_for_department": "Visual Effects",
+        "name": "Carmen García Sánchez",
+        "original_name": "Carmen García Sánchez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68b346f1196fde9d0f15779b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3212974,
+        "known_for_department": "Acting",
+        "name": "Fran Berenguer",
+        "original_name": "Fran Berenguer",
+        "popularity": 0.4938,
+        "profile_path": "/uYi3MOwqtNdfZt82DdvzKCZku50.jpg",
+        "credit_id": "68b347068d2000d3573ccb5c",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3418859,
+        "known_for_department": "Acting",
+        "name": "Alejandro Bertero",
+        "original_name": "Alejandro Bertero",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "68b3471cca5b10c3cd9e19d5",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5342743,
+        "known_for_department": "Crew",
+        "name": "Martín Cartelle",
+        "original_name": "Martín Cartelle",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "68b34727ca5b10c3cd9e19d8",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1584153,
+        "known_for_department": "Crew",
+        "name": "Federico Cueva",
+        "original_name": "Federico Cueva",
+        "popularity": 0.081,
+        "profile_path": "/zsOXwNhE147dvZEN7iN5UOY3ipZ.jpg",
+        "credit_id": "68b3473984af41fb132003b8",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660262,
+        "known_for_department": "Crew",
+        "name": "Mario Guillén",
+        "original_name": "Mario Guillén",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "68b3474ee53afff1a93ef86f",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607879,
+        "known_for_department": "Acting",
+        "name": "Ignacio Herráez",
+        "original_name": "Ignacio Herráez",
+        "popularity": 0.1083,
+        "profile_path": "/vi5nSbpkcOeEEzUchmpqFNUSTYR.jpg",
+        "credit_id": "68b347637f29a778253cd3c7",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3845781,
+        "known_for_department": "Crew",
+        "name": "Chemi Hitos",
+        "original_name": "Chemi Hitos",
+        "popularity": 0.0945,
+        "profile_path": null,
+        "credit_id": "68b3476ef3cce1a8241577a9",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660267,
+        "known_for_department": "Crew",
+        "name": "Rui Martins",
+        "original_name": "Rui Martins",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68b347bb8ccb69538354df44",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1396643,
+        "known_for_department": "Acting",
+        "name": "Eduardo Moratilla",
+        "original_name": "Eduardo Moratilla",
+        "popularity": 0.0495,
+        "profile_path": "/u5CalM6bxlBxuydh0i8IVDUcZCh.jpg",
+        "credit_id": "68b347d16c655492c654dfad",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660268,
+        "known_for_department": "Crew",
+        "name": "David Cordero Quevedo",
+        "original_name": "David Cordero Quevedo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68b347e23c5c901a1e157ade",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660269,
+        "known_for_department": "Crew",
+        "name": "Carlos Robles",
+        "original_name": "Carlos Robles",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68b348213c5c901a1e157ae8",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660271,
+        "known_for_department": "Crew",
+        "name": "Pedro Torres Cumbreño",
+        "original_name": "Pedro Torres Cumbreño",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68b34834bac59913fcb4f157",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100687,
+        "known_for_department": "Crew",
+        "name": "Antonio Molina",
+        "original_name": "Antonio Molina",
+        "popularity": 0.1988,
+        "profile_path": null,
+        "credit_id": "68cde028c5f11e9b8c74904c",
+        "department": "Crew",
+        "job": "Special Effects"
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "adult": false,
+  "backdrop_path": "/cvOxBnR3IP2YBIvjFGBc0NDYpg6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 374987,
+  "imdb_id": "tt4935200",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Félvilág",
+  "overview": "The story of three women - a famous prostitute, her housekeeper and their new maid - living in Budapest of 1910s, whose passionate, bizarre and complex relationship can only lead to one thing: murder.",
+  "popularity": 5.5367,
+  "poster_path": "/stfP9IzdfMiWsLFClwKmlmKHFLE.jpg",
+  "production_companies": [
+    {
+      "id": 72054,
+      "logo_path": "/q1deT9iOLOz4sHz8vMso2ow3pFR.png",
+      "name": "Szupermodern Stúdió",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2015-12-30",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love is not everything.",
+  "title": "Demimonde",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125466,
+        "known_for_department": "Acting",
+        "name": "Patricia Kovács",
+        "original_name": "Kovács Patricia",
+        "popularity": 0.1041,
+        "profile_path": "/uGVxzWYows8W8BhcUChDmw1RYmA.jpg",
+        "cast_id": 1,
+        "character": "Mágnás Elza",
+        "credit_id": "5685313a92514131df018cf6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19998,
+        "known_for_department": "Acting",
+        "name": "Dorka Gryllus",
+        "original_name": "Dorka Gryllus",
+        "popularity": 0.2139,
+        "profile_path": "/ws5dUOd0trriPzoZLA3kzlVRdvy.jpg",
+        "cast_id": 2,
+        "character": "Rózsi",
+        "credit_id": "569643129251413f79003131",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1307648,
+        "known_for_department": "Acting",
+        "name": "Laura Döbrösi",
+        "original_name": "Laura Döbrösi",
+        "popularity": 0.5412,
+        "profile_path": "/oC2eEI6VL9pNtJFsZPVOdJsGTpL.jpg",
+        "cast_id": 3,
+        "character": "Kató",
+        "credit_id": "569643279251413f7e002e37",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 225934,
+        "known_for_department": "Acting",
+        "name": "János Kulka",
+        "original_name": "János Kulka",
+        "popularity": 0.2454,
+        "profile_path": "/gHTfdasFIVCQfUgZ7Vy5lnVMv09.jpg",
+        "cast_id": 4,
+        "character": "Max Schmidt",
+        "credit_id": "5696433bc3a36823b8002eae",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1562786,
+        "known_for_department": "Acting",
+        "name": "Péter Sándor",
+        "original_name": "Péter Sándor",
+        "popularity": 0.0584,
+        "profile_path": "/mUwEJNmMANakPRerIYxdcHvg3xi.jpg",
+        "cast_id": 5,
+        "character": "Gergely",
+        "credit_id": "569643589251413f7e002e3f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1093037,
+        "known_for_department": "Acting",
+        "name": "Károly Hajduk",
+        "original_name": "Károly Hajduk",
+        "popularity": 0.5572,
+        "profile_path": "/sbQvXY6ZX2gHb0n4GqLi33Fykp5.jpg",
+        "cast_id": 6,
+        "character": "Pap",
+        "credit_id": "5696436d9251413f7300301f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1266523,
+        "known_for_department": "Acting",
+        "name": "Katalin Takács",
+        "original_name": "Katalin Takács",
+        "popularity": 0.4744,
+        "profile_path": "/wGBvHxKTkKUjPjdC2N9z5ZeOUB7.jpg",
+        "cast_id": 7,
+        "character": "Báróné",
+        "credit_id": "56964380c3a36823c100315b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037800,
+        "known_for_department": "Acting",
+        "name": "Ferenc Elek",
+        "original_name": "Ferenc Elek",
+        "popularity": 0.202,
+        "profile_path": "/zkBmlwNFXu4lJHUfMtcxYkuwtav.jpg",
+        "cast_id": 21,
+        "character": "Producer",
+        "credit_id": "5b1ac8a6c3a36848f8014868",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1570490,
+        "known_for_department": "Acting",
+        "name": "Dóra Sztarenki",
+        "original_name": "Dóra Sztarenki",
+        "popularity": 0.2389,
+        "profile_path": "/ocWOWcp5oRDgkeW3cnuZ5VFnPD.jpg",
+        "cast_id": 15,
+        "character": "Bözsi",
+        "credit_id": "5b1577a20e0a262dd000c5a9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1686091,
+        "known_for_department": "Acting",
+        "name": "Attila Lőte",
+        "original_name": "Attila Lőte",
+        "popularity": 0.0998,
+        "profile_path": "/6GeqNxDFTbeRLElTmckzuzmHcpa.jpg",
+        "cast_id": 16,
+        "character": "Schmidt",
+        "credit_id": "5b1577e7925141782e00ca44",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1097146,
+        "known_for_department": "Acting",
+        "name": "Irén Bordán",
+        "original_name": "Irén Bordán",
+        "popularity": 0.4923,
+        "profile_path": "/dmJeaXyqwGp4rS26m2brQUYMJ86.jpg",
+        "cast_id": 17,
+        "character": "Cili mama",
+        "credit_id": "5b15782dc3a368532e00c174",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853735,
+        "known_for_department": "Acting",
+        "name": "Anna Szandtner",
+        "original_name": "Anna Szandtner",
+        "popularity": 0.0861,
+        "profile_path": "/wMQxgbMJbbglKqNh5M6XJYibzbN.jpg",
+        "cast_id": 18,
+        "character": "Örömlány",
+        "credit_id": "5b15787f0e0a262dee00c868",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2057602,
+        "known_for_department": "Acting",
+        "name": "Márta Martin",
+        "original_name": "Márta Martin",
+        "popularity": 0.0143,
+        "profile_path": "/aYMsmdsLCjWG6zvF7Jng7YxxRdu.jpg",
+        "cast_id": 19,
+        "character": "Nagysága",
+        "credit_id": "5b1578980e0a262dea00ba9d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1508606,
+        "known_for_department": "Acting",
+        "name": "Péter Haás Vander",
+        "original_name": "Péter Haás Vander",
+        "popularity": 0.0338,
+        "profile_path": "/am3uLQgD0TEjB4yxh0SHE9V2Yrs.jpg",
+        "cast_id": 20,
+        "character": "Spicces gróf",
+        "credit_id": "5b1578b1925141783b00cafb",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1296608,
+        "known_for_department": "Directing",
+        "name": "Attila Szász",
+        "original_name": "Attila Szász",
+        "popularity": 0.1105,
+        "profile_path": "/3ewTaCwAsElp94OG5hzN9Vkx7tL.jpg",
+        "credit_id": "56852fc2c3a36860e901b6df",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 563548,
+        "known_for_department": "Writing",
+        "name": "Norbert Köbli",
+        "original_name": "Norbert Köbli",
+        "popularity": 0.3513,
+        "profile_path": "/2BdxqqU1rsAfIJhVCv8WIQveeVq.jpg",
+        "credit_id": "569643bd9251413f7e002e4e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1296614,
+        "known_for_department": "Editing",
+        "name": "László Hargittai",
+        "original_name": "László Hargittai",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "576a8abcc3a3682206000a2f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1210160,
+        "known_for_department": "Production",
+        "name": "Tamás Lajos",
+        "original_name": "Tamás Lajos",
+        "popularity": 0.0631,
+        "profile_path": "/thRRYQkVa4WAaRBJcvyzJGaZDjN.jpg",
+        "credit_id": "576a7f8a9251412bcd00091d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1512329,
+        "known_for_department": "Production",
+        "name": "Tamás Mink",
+        "original_name": "Tamás Mink",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "576a7f9e9251412bcd000921",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1296609,
+        "known_for_department": "Sound",
+        "name": "Gergely Parádi",
+        "original_name": "Gergely Parádi",
+        "popularity": 0.0631,
+        "profile_path": "/5CvezVlg9g4zf4ad28gRz7d9Wwa.jpg",
+        "credit_id": "576a7fcf9251412b9700086e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1036389,
+        "known_for_department": "Camera",
+        "name": "András Nagy",
+        "original_name": "András Nagy",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "576a7ef6c3a36813d2000a38",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

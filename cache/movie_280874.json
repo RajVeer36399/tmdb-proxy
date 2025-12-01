@@ -1,0 +1,454 @@
+{
+  "adult": false,
+  "backdrop_path": "/1D0js6RC5MyryrFddFkQg9uibLc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 280874,
+  "imdb_id": "tt3368814",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Killing Daddy",
+  "overview": "When Cassie's father finds himself vulnerable and bedridden, she believes she has the perfect revenge for her mother's death.",
+  "popularity": 8.563,
+  "poster_path": "/l5zS9XOPws4cZ6te7Ard7Xi8PAO.jpg",
+  "production_companies": [
+    {
+      "id": 26966,
+      "logo_path": null,
+      "name": "Reel One Films 6",
+      "origin_country": "CA"
+    },
+    {
+      "id": 3431,
+      "logo_path": "/6LVLYfZAEQfhJey0MGvhFXdDEK1.png",
+      "name": "Lifetime",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2014-07-05",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Killing Daddy",
+  "video": false,
+  "vote_average": 7.105,
+  "vote_count": 100,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 206399,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Gillies",
+        "original_name": "Elizabeth Gillies",
+        "popularity": 2.0578,
+        "profile_path": "/ae7UORlIbB9QPryWDLoCqP5mV5n.jpg",
+        "cast_id": 0,
+        "character": "Callie Ross",
+        "credit_id": "53bc5954c3a3684cec000040",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65528,
+        "known_for_department": "Acting",
+        "name": "Cynthia Stevenson",
+        "original_name": "Cynthia Stevenson",
+        "popularity": 1.6349,
+        "profile_path": "/zdrsUVw9F0U4onvh1rS1AQor4wp.jpg",
+        "cast_id": 1,
+        "character": "Emma Granger",
+        "credit_id": "53bc5969c3a3684cdf000052",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68527,
+        "known_for_department": "Acting",
+        "name": "William R. Moses",
+        "original_name": "William R. Moses",
+        "popularity": 1.7457,
+        "profile_path": "/mbGteKONCey21NqRO5sfIIKs1UF.jpg",
+        "cast_id": 2,
+        "character": "George Ross",
+        "credit_id": "53bc598fc3a3684cdf000055",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224144,
+        "known_for_department": "Acting",
+        "name": "Sebastian Pigott",
+        "original_name": "Sebastian Pigott",
+        "popularity": 0.6864,
+        "profile_path": "/dFdv24Qa9j3WhJDxchn6s8jeepj.jpg",
+        "cast_id": 4,
+        "character": "Jake Watkins",
+        "credit_id": "53bc59fac3a3684cdb00004f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1339147,
+        "known_for_department": "Acting",
+        "name": "Tori Anderson",
+        "original_name": "Tori Anderson",
+        "popularity": 1.2968,
+        "profile_path": "/4s3YDyecXglwsBupl9fiK6WOGGS.jpg",
+        "cast_id": 5,
+        "character": "Laura Ross",
+        "credit_id": "53bc5a26c3a3684cec00004e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133335,
+        "known_for_department": "Acting",
+        "name": "Tom Barnett",
+        "original_name": "Tom Barnett",
+        "popularity": 0.2152,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Hanover",
+        "credit_id": "53bc5a40c3a3684cf4000058",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1339148,
+        "known_for_department": "Acting",
+        "name": "Sabrina Mangiaracina",
+        "original_name": "Sabrina Mangiaracina",
+        "popularity": 0.0482,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Eight Year old Callie",
+        "credit_id": "53bc5a64c3a3684cdb000057",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 228331,
+        "known_for_department": "Acting",
+        "name": "Jennilee Murray",
+        "original_name": "Jennilee Murray",
+        "popularity": 0.095,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Callie's Mom",
+        "credit_id": "53bc5a78c3a3684cdf000067",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1288673,
+        "known_for_department": "Acting",
+        "name": "Luigi Saracino",
+        "original_name": "Luigi Saracino",
+        "popularity": 1.136,
+        "profile_path": "/abJK6VFIS43LuchPOrsGBwTCCTR.jpg",
+        "cast_id": 11,
+        "character": "Carl",
+        "credit_id": "5ee1c1d290dde0001fa76345",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 203349,
+        "known_for_department": "Acting",
+        "name": "Dean Hagopian",
+        "original_name": "Dean Hagopian",
+        "popularity": 0.0947,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Burt Hankins",
+        "credit_id": "5ee1c1e290dde0001fa763fe",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1668665,
+        "known_for_department": "Acting",
+        "name": "Helena-Alexis Seymour",
+        "original_name": "Helena-Alexis Seymour",
+        "popularity": 0.7259,
+        "profile_path": "/agTiP5pWbfOjMcwh2x5AlVYoccj.jpg",
+        "cast_id": 13,
+        "character": "Nurse",
+        "credit_id": "5ee1c1fd90dde0001fa76413",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548202,
+        "known_for_department": "Acting",
+        "name": "Barry Blake",
+        "original_name": "Barry Blake",
+        "popularity": 0.6092,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Pastor",
+        "credit_id": "5ee1c22090dde00020a8e83f",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132722,
+        "known_for_department": "Directing",
+        "name": "Curtis Crawford",
+        "original_name": "Curtis Crawford",
+        "popularity": 0.7519,
+        "profile_path": "/hSV1PKx7XUJ0KWuIY5P2mZAmKfB.jpg",
+        "credit_id": "53bc5b8bc3a3684cf90000b3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92993,
+        "known_for_department": "Acting",
+        "name": "Trent Haaga",
+        "original_name": "Trent Haaga",
+        "popularity": 0.103,
+        "profile_path": null,
+        "credit_id": "53bc5b9fc3a3684ce9000093",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1725452,
+        "known_for_department": "Writing",
+        "name": "Suzanne Dolan",
+        "original_name": "Suzanne Dolan",
+        "popularity": 0.2164,
+        "profile_path": null,
+        "credit_id": "62034b0ae61e6d006898a78a",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132721,
+        "known_for_department": "Acting",
+        "name": "Cinthia Burke",
+        "original_name": "Cinthia Burke",
+        "popularity": 1.0762,
+        "profile_path": "/w1npBzLNCW0LamVzmex1KQgwQ4o.jpg",
+        "credit_id": "62034b3168b1ea0094fb968e",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80014,
+        "known_for_department": "Production",
+        "name": "Neil Bregman",
+        "original_name": "Neil Bregman",
+        "popularity": 0.2369,
+        "profile_path": null,
+        "credit_id": "62034b393009aa001b878de1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56982,
+        "known_for_department": "Production",
+        "name": "Tom Berry",
+        "original_name": "Tom Berry",
+        "popularity": 0.3864,
+        "profile_path": "/up0VPkoOUYFIeDrKGTsLSv0HAoE.jpg",
+        "credit_id": "62034b3fdb952d00421aa920",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132722,
+        "known_for_department": "Directing",
+        "name": "Curtis Crawford",
+        "original_name": "Curtis Crawford",
+        "popularity": 0.7519,
+        "profile_path": "/hSV1PKx7XUJ0KWuIY5P2mZAmKfB.jpg",
+        "credit_id": "62034b4a0bc52900426601a8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12477,
+        "known_for_department": "Production",
+        "name": "Pierre David",
+        "original_name": "Pierre David",
+        "popularity": 0.7765,
+        "profile_path": "/ajvTZ4nzpzRNLRM2cAppQoyqV9U.jpg",
+        "credit_id": "62034b5b0d11f200cebda6d1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200897,
+        "known_for_department": "Production",
+        "name": "Donald Osborne",
+        "original_name": "Donald Osborne",
+        "popularity": 1.0003,
+        "profile_path": null,
+        "credit_id": "62034b6edd926a00d3274bbf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 943469,
+        "known_for_department": "Production",
+        "name": "Stefan Wodoslawsky",
+        "original_name": "Stefan Wodoslawsky",
+        "popularity": 0.1373,
+        "profile_path": null,
+        "credit_id": "62034b74ec0c5800b62aeb82",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1044613,
+        "known_for_department": "Camera",
+        "name": "Bill St. John",
+        "original_name": "Bill St. John",
+        "popularity": 0.7632,
+        "profile_path": null,
+        "credit_id": "62034b825b124000d2fcfca0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1200898,
+        "known_for_department": "Editing",
+        "name": "Jordan Jensen",
+        "original_name": "Jordan Jensen",
+        "popularity": 0.2005,
+        "profile_path": null,
+        "credit_id": "62034b87ea37e0001c689658",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1200900,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Andy Tait",
+        "original_name": "Andy Tait",
+        "popularity": 0.0517,
+        "profile_path": null,
+        "credit_id": "62034b99b09bde00e2814a9d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1891063,
+        "known_for_department": "Art",
+        "name": "Mauricio Ortiz",
+        "original_name": "Mauricio Ortiz",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "62034ba1e323f3008eda62e3",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200899,
+        "known_for_department": "Art",
+        "name": "Csaba András Kertész",
+        "original_name": "Csaba András Kertész",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "credit_id": "62034bab3009aa0066f5b39c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1084640,
+        "known_for_department": "Sound",
+        "name": "Richard Bowers",
+        "original_name": "Richard Bowers",
+        "popularity": 0.2449,
+        "profile_path": null,
+        "credit_id": "67f45ca67b43bdce20ad5cdf",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

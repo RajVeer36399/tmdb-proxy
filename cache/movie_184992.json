@@ -1,0 +1,448 @@
+{
+  "adult": false,
+  "backdrop_path": "/qlLeTVyqdM1s7EWKEgYJ9jB455E.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 184992,
+  "imdb_id": "tt2261434",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Viaggio sola",
+  "overview": "Single and middle-aged, beautiful Irene (Margarita Buy) is wholly devoted to her job as an inspector of luxury hotels. Constantly on the road, she indulges in expensive pleasures at impeccable resorts, but always incognito and alone, soon escaping to the next exotic destination with her checklist and laptop in tow. When her best friend and ex, Andrea (Stefano Accorsi), who has always been a source of emotional support, suddenly becomes unavailable, Irene is thrown into a deep existential crisis. \"Luxury is a form of deceit,\" she is told by a fellow traveller in the fog of a steam room, and thus begins Irene's quest to bring more meaning into her life.",
+  "popularity": 6.6302,
+  "poster_path": "/eh7igoV9Hf4KgH6Z1TfPeIX7FK4.jpg",
+  "production_companies": [
+    {
+      "id": 27558,
+      "logo_path": "/tPJbpwyhOU2t6mhoY85rUXwTwA4.png",
+      "name": "Augustus Color",
+      "origin_country": "IT"
+    },
+    {
+      "id": 27559,
+      "logo_path": null,
+      "name": "Bianca Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2013-04-24",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This is your journey. The path is up to you.",
+  "title": "A Five Star Life",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 134,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67323,
+        "known_for_department": "Acting",
+        "name": "Margherita Buy",
+        "original_name": "Margherita Buy",
+        "popularity": 0.4633,
+        "profile_path": "/bVYTMEpmk7JqgmTKMXbiqLOLFLo.jpg",
+        "cast_id": 2,
+        "character": "Irene",
+        "credit_id": "52fe4cd29251416c75126adf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65571,
+        "known_for_department": "Acting",
+        "name": "Stefano Accorsi",
+        "original_name": "Stefano Accorsi",
+        "popularity": 1.4884,
+        "profile_path": "/v0juBdStV3KECZL1nEL7AkbWQ0j.jpg",
+        "cast_id": 3,
+        "character": "Andrea",
+        "credit_id": "52fe4cd29251416c75126ae3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67174,
+        "known_for_department": "Acting",
+        "name": "Fabrizia Sacchi",
+        "original_name": "Fabrizia Sacchi",
+        "popularity": 1.0342,
+        "profile_path": "/z0lEGHkIo5cmUyatrq7C4lCjk2z.jpg",
+        "cast_id": 4,
+        "character": "Silvia",
+        "credit_id": "52fe4cd29251416c75126ae7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78538,
+        "known_for_department": "Acting",
+        "name": "Gianmarco Tognazzi",
+        "original_name": "Gianmarco Tognazzi",
+        "popularity": 0.1879,
+        "profile_path": "/8Bki40BsjJUFyyYX0wjoaf7SNK1.jpg",
+        "cast_id": 5,
+        "character": "Tommaso",
+        "credit_id": "52fe4cd29251416c75126aeb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 129636,
+        "known_for_department": "Acting",
+        "name": "Alessia Barela",
+        "original_name": "Alessia Barela",
+        "popularity": 0.7468,
+        "profile_path": "/m2TBypmvWiWEo41srU0LwCDZA3o.jpg",
+        "cast_id": 6,
+        "character": "Fabiana",
+        "credit_id": "52fe4cd29251416c75126aef",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72305,
+        "known_for_department": "Acting",
+        "name": "Lesley Manville",
+        "original_name": "Lesley Manville",
+        "popularity": 2.6294,
+        "profile_path": "/tioPlSoypjdME3oMu3g7XmgIIKS.jpg",
+        "cast_id": 7,
+        "character": "Kate Sherman",
+        "credit_id": "52fe4cd29251416c75126af3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231143,
+        "known_for_department": "Acting",
+        "name": "Fausto Maria Sciarappa",
+        "original_name": "Fausto Maria Sciarappa",
+        "popularity": 1.0815,
+        "profile_path": "/rSZfhF5YKMx09Bs8sHdtzKNzIxC.jpg",
+        "cast_id": 18,
+        "character": "Fabrizio",
+        "credit_id": "5ff07142dd926a003f80ca7f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127428,
+        "known_for_department": "Acting",
+        "name": "Henry O. Arnold",
+        "original_name": "Henry O. Arnold",
+        "popularity": 0.1605,
+        "profile_path": "/bYPzHXkAcpK5sKJ5kHMbjqhOFNW.jpg",
+        "cast_id": 19,
+        "character": "Direttore",
+        "credit_id": "5ff07150176a94003ee7ae42",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222569,
+        "known_for_department": "Acting",
+        "name": "Bruno Wolkowitch",
+        "original_name": "Bruno Wolkowitch",
+        "popularity": 0.263,
+        "profile_path": "/aUAf498UK24tQRTzHpwaiFlb4O9.jpg",
+        "cast_id": 20,
+        "character": "Ospite dell'hotel",
+        "credit_id": "5ff0715aa1a9ba003e272839",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128444,
+        "known_for_department": "Acting",
+        "name": "Jacopo Maria Bicocchi",
+        "original_name": "Jacopo Maria Bicocchi",
+        "popularity": 0.1251,
+        "profile_path": "/n2wK4FJAE1geVBvI0HiFO4ysLvf.jpg",
+        "cast_id": 21,
+        "character": "Giovane marito",
+        "credit_id": "5ff07176839d93003ee3c3d5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2920266,
+        "known_for_department": "Acting",
+        "name": "Gisella Szaniszlò",
+        "original_name": "Gisella Szaniszlò",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Giovane moglie",
+        "credit_id": "5ff07184dd926a0041810259",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2337391,
+        "known_for_department": "Acting",
+        "name": "Carolina Signore",
+        "original_name": "Carolina Signore",
+        "popularity": 0.0379,
+        "profile_path": "/g85X5k4past7vPddmqPQp2svq8g.jpg",
+        "cast_id": 23,
+        "character": "Nipote",
+        "credit_id": "5ff07196b458b8003fe5d992",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2259521,
+        "known_for_department": "Art",
+        "name": "Roberto De Angelis",
+        "original_name": "Roberto De Angelis",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "622a864012c604001ce9b207",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 224520,
+        "known_for_department": "Writing",
+        "name": "Francesca Marciano",
+        "original_name": "Francesca Marciano",
+        "popularity": 0.2419,
+        "profile_path": "/2a4OjHwciDUET8V8rTTd7rBF25K.jpg",
+        "credit_id": "52fe4cd29251416c75126aff",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84258,
+        "known_for_department": "Editing",
+        "name": "Walter Fasano",
+        "original_name": "Walter Fasano",
+        "popularity": 0.5623,
+        "profile_path": "/4GKmfdJoZXXFDBmC3YgaWzdz59X.jpg",
+        "credit_id": "52fe4cd29251416c75126b11",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 67166,
+        "known_for_department": "Production",
+        "name": "Donatella Botti",
+        "original_name": "Donatella Botti",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "52fe4cd29251416c75126b29",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111427,
+        "known_for_department": "Writing",
+        "name": "Ivan Cotroneo",
+        "original_name": "Ivan Cotroneo",
+        "popularity": 0.7307,
+        "profile_path": "/61RuwND3Ia8s2rp5LT4qUBYQMe9.jpg",
+        "credit_id": "52fe4cd29251416c75126af9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239892,
+        "known_for_department": "Directing",
+        "name": "Maria Sole Tognazzi",
+        "original_name": "Maria Sole Tognazzi",
+        "popularity": 0.6519,
+        "profile_path": "/5pFf3gi1yr8elD0u44vhQFSA1uf.jpg",
+        "credit_id": "52fe4cd29251416c75126adb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239892,
+        "known_for_department": "Directing",
+        "name": "Maria Sole Tognazzi",
+        "original_name": "Maria Sole Tognazzi",
+        "popularity": 0.6519,
+        "profile_path": "/5pFf3gi1yr8elD0u44vhQFSA1uf.jpg",
+        "credit_id": "52fe4cd29251416c75126b05",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67169,
+        "known_for_department": "Camera",
+        "name": "Arnaldo Catinari",
+        "original_name": "Arnaldo Catinari",
+        "popularity": 0.0887,
+        "profile_path": "/5oRxhAs35NPQIQ72sD40lPdamdy.jpg",
+        "credit_id": "52fe4cd29251416c75126b0b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1177366,
+        "known_for_department": "Production",
+        "name": "Francesco Vedovati",
+        "original_name": "Francesco Vedovati",
+        "popularity": 0.5121,
+        "profile_path": null,
+        "credit_id": "52fe4cd29251416c75126b2f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142641,
+        "known_for_department": "Sound",
+        "name": "Gabriele Roberto",
+        "original_name": "Gabriele Roberto",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "52fe4cd29251416c75126b17",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1177365,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Antonella Cannarozzi",
+        "original_name": "Antonella Cannarozzi",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "52fe4cd29251416c75126b23",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1087187,
+        "known_for_department": "Production",
+        "name": "Giorgio Gasparini",
+        "original_name": "Giorgio Gasparini",
+        "popularity": 0.0338,
+        "profile_path": "/wGidrZ6wKyDkIkeKsQJtMHUxURB.jpg",
+        "credit_id": "660d8043c8a5ac0163793c5d",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 224520,
+        "known_for_department": "Writing",
+        "name": "Francesca Marciano",
+        "original_name": "Francesca Marciano",
+        "popularity": 0.2419,
+        "profile_path": "/2a4OjHwciDUET8V8rTTd7rBF25K.jpg",
+        "credit_id": "67e6561633a74341e310dc84",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111427,
+        "known_for_department": "Writing",
+        "name": "Ivan Cotroneo",
+        "original_name": "Ivan Cotroneo",
+        "popularity": 0.7307,
+        "profile_path": "/61RuwND3Ia8s2rp5LT4qUBYQMe9.jpg",
+        "credit_id": "67e65629f8cba94bbcba4b99",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239892,
+        "known_for_department": "Directing",
+        "name": "Maria Sole Tognazzi",
+        "original_name": "Maria Sole Tognazzi",
+        "popularity": 0.6519,
+        "profile_path": "/5pFf3gi1yr8elD0u44vhQFSA1uf.jpg",
+        "credit_id": "67e656395e8e5c9bacba6df4",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  }
+}

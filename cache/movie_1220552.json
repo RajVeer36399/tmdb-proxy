@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1220552,
+  "imdb_id": "tt30519866",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "劇場版 陰の実力者になりたくて！ 残響編",
+  "overview": "",
+  "popularity": 6.3092,
+  "poster_path": "/jxrLc5uCK3s7qlb4aJU4aNTOJZR.jpg",
+  "production_companies": [
+    {
+      "id": 104535,
+      "logo_path": "/aYbbEOunHzKXBFMwm14E7bINvbg.png",
+      "name": "Nexus",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "title": "The Eminence in Shadow: Lost Echoes",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1732278,
+        "known_for_department": "Acting",
+        "name": "Seiichiro Yamashita",
+        "original_name": "山下誠一郎",
+        "popularity": 1.3116,
+        "profile_path": "/zym6WY3rxL4FdbHoLzG2CnqnR7.jpg",
+        "cast_id": 2,
+        "character": "Cid Kagenou / Shadow (voice)",
+        "credit_id": "6583076fe8131d4178a4afe3",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3311188,
+        "known_for_department": "Writing",
+        "name": "Daisuke Aizawa",
+        "original_name": "逢沢大介",
+        "popularity": 0.2208,
+        "profile_path": null,
+        "credit_id": "65830746ea7b0e1a2c270154",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2935156,
+        "known_for_department": "Writing",
+        "name": "Kanichi Kato",
+        "original_name": "加藤還一",
+        "popularity": 0.4373,
+        "profile_path": null,
+        "credit_id": "6691746592c5e2cc06c0fc0c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2041769,
+        "known_for_department": "Directing",
+        "name": "Kazuya Nakanishi",
+        "original_name": "中西和也",
+        "popularity": 0.63,
+        "profile_path": null,
+        "credit_id": "6691746034cb44660fe24e52",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1901942,
+        "known_for_department": "Visual Effects",
+        "name": "Makoto Iino",
+        "original_name": "飯野誠",
+        "popularity": 0.3601,
+        "profile_path": null,
+        "credit_id": "6691746da424f45b07c43af5",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3311189,
+        "known_for_department": "Visual Effects",
+        "name": "Touzai",
+        "original_name": "東西",
+        "popularity": 0.2193,
+        "profile_path": null,
+        "credit_id": "6691745b7859837d2cc43af7",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3311188,
+        "known_for_department": "Writing",
+        "name": "Daisuke Aizawa",
+        "original_name": "逢沢大介",
+        "popularity": 0.2208,
+        "profile_path": null,
+        "credit_id": "67bd6f45f402def7122db68d",
+        "department": "Writing",
+        "job": "Original Story"
+      }
+    ]
+  }
+}

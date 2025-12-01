@@ -1,0 +1,251 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1569078,
+  "imdb_id": "tt0011745",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sweet Lavender",
+  "overview": "Ruth Holt, owner of a boardinghouse in a small college town, lives with her pretty niece \"Sweet Lavender,\" who believes that Ruth is her mother. When boarder Clem Hale, president of the freshman class, is the victim of a prank played by several of his classmates, Lavender rescues him and the two fall in love. Clem's guardian, Horace Weatherburn, becomes concerned about his ward's adoration for a \"commoner\" and arrives to break up their romance. Ruth, who recognizes Washburn as Lavender's real father and the man who brought her sister grief, strongly opposes the match and sends Lavender off to boarding school. Upon learning that Clem is seriously ill, Lavender runs away to comfort her sweetheart and, in her plight, faints by the side of the road. Weatherburn finds her and is so touched by her concern, that he relents his previous disapproval. Ruth then reveals Lavender's parentage to her father who offers his blessing to the couple.",
+  "popularity": 11.6727,
+  "poster_path": "/7GSPKzh6OjUmUoatBYgmD4BilkE.jpg",
+  "production_companies": [
+    {
+      "id": 40454,
+      "logo_path": null,
+      "name": "Realart Pictures Corporation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1920-10-04",
+  "revenue": 0,
+  "runtime": 50,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sweet Lavender",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1127086,
+        "known_for_department": "Acting",
+        "name": "Mary Miles Minter",
+        "original_name": "Mary Miles Minter",
+        "popularity": 0.2799,
+        "profile_path": "/9iGZ1wyTXBHb4GRIE90dT5wP2zN.jpg",
+        "cast_id": 1,
+        "character": "Lavender",
+        "credit_id": "68fdfa09374de357362aaa13",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35505,
+        "known_for_department": "Acting",
+        "name": "Sylvia Ashton",
+        "original_name": "Sylvia Ashton",
+        "popularity": 0.0958,
+        "profile_path": "/s18TRWa31RZYb5CUkFAQRhlt0TR.jpg",
+        "cast_id": 6,
+        "character": "Dotty Driscoe",
+        "credit_id": "68fe39fbe356753ca92aa90e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333056,
+        "known_for_department": "Acting",
+        "name": "J.M. Dumont",
+        "original_name": "J.M. Dumont",
+        "popularity": 0.0143,
+        "profile_path": "/cMszE1LBVWzPDhrTT1LBvZ1GXA3.jpg",
+        "cast_id": 7,
+        "character": "Mr. Drisc",
+        "credit_id": "68fe3a567ac8cfb7b7275e05",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2337528,
+        "known_for_department": "Acting",
+        "name": "Starke Patteson",
+        "original_name": "Starke Patteson",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Billy Driscoe",
+        "credit_id": "68fe3a7fb309e5bae29fafe9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932400,
+        "known_for_department": "Acting",
+        "name": "Milton Sills",
+        "original_name": "Milton Sills",
+        "popularity": 0.308,
+        "profile_path": "/eJTx8Tzq7wx9PwnuHm1cb27KSDx.jpg",
+        "cast_id": 9,
+        "character": "Horace Weatherburn",
+        "credit_id": "68fe3ac5bcbe08f958fb6de0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80545,
+        "known_for_department": "Acting",
+        "name": "Harold Goodwin",
+        "original_name": "Harold Goodwin",
+        "popularity": 0.2202,
+        "profile_path": "/iBjhsEdnsSs9Ll14rgKrSl33iff.jpg",
+        "cast_id": 10,
+        "character": "Clem Hale",
+        "credit_id": "68fe3ae50a89ba2a7afb6e78",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 121293,
+        "known_for_department": "Acting",
+        "name": "Jane Keckley",
+        "original_name": "Jane Keckley",
+        "popularity": 0.0913,
+        "profile_path": "/vvJXDsY7xktBzzXjA6xUVq4lJMW.jpg",
+        "cast_id": 11,
+        "character": "Ruth Holt",
+        "credit_id": "68fe3b1ba2fd3117562aaae3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148787,
+        "known_for_department": "Acting",
+        "name": "Theodore Roberts",
+        "original_name": "Theodore Roberts",
+        "popularity": 0.1413,
+        "profile_path": "/zyNQbifLkL42CaVvRKh2tG659q4.jpg",
+        "cast_id": 12,
+        "character": "Professor Phenyl",
+        "credit_id": "68fe3b544911e802b02aa853",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3074476,
+        "known_for_department": "Acting",
+        "name": "Flora Hollister",
+        "original_name": "Flora Hollister",
+        "popularity": 0.0612,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Minnie",
+        "credit_id": "68fe3b88e05b875d22bbf1f3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2358878,
+        "known_for_department": "Acting",
+        "name": "Laura Anson",
+        "original_name": "Laura Anson",
+        "popularity": 0.0617,
+        "profile_path": "/8z12OTx5pKzkJeiwrwHf6GOIH76.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "68fe3bb79b321f4263fb6df0",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 152222,
+        "known_for_department": "Directing",
+        "name": "Paul Powell",
+        "original_name": "Paul Powell",
+        "popularity": 0.1987,
+        "profile_path": "/zFvyOGKMPpbZkRcGFyVl2apIDM7.jpg",
+        "credit_id": "68fdfa24f5295e9dfa2aa7a1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1150899,
+        "known_for_department": "Writing",
+        "name": "Beulah Marie Dix",
+        "original_name": "Beulah Marie Dix",
+        "popularity": 0.2225,
+        "profile_path": "/6Llr7OPTHuoSjhHGfCCkHXPgdWh.jpg",
+        "credit_id": "68fe384b5daf6de04beaaed6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1059833,
+        "known_for_department": "Writing",
+        "name": "Arthur Wing Pinero",
+        "original_name": "Arthur Wing Pinero",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "credit_id": "68fe39506a6b5988a2eaadb4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1505503,
+        "known_for_department": "Camera",
+        "name": "William Marshall",
+        "original_name": "William Marshall",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "68fe399dacf9fb8a9f2aa97c",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

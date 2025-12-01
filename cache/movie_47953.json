@@ -1,0 +1,417 @@
+{
+  "adult": false,
+  "backdrop_path": "/sLGA6BejVyczXLnPWEo6CHJHUy4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 47953,
+  "imdb_id": "tt0179841",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Harem Suare",
+  "overview": "A story of the impossible love between one of the Sultan's concubines and one of his eunuchs in a harem at the end of the Ottoman Empire.",
+  "popularity": 6.3317,
+  "poster_path": "/7vDDKNnt5mp9eVYRh7nCcj3pV7S.jpg",
+  "production_companies": [
+    {
+      "id": 19385,
+      "logo_path": "/uLO7hNXFVCxVcKfHck7IRyNQeAa.png",
+      "name": "R&C Produzioni",
+      "origin_country": "IT"
+    },
+    {
+      "id": 4236,
+      "logo_path": null,
+      "name": "Les Films Balenciaga",
+      "origin_country": "FR"
+    },
+    {
+      "id": 25080,
+      "logo_path": null,
+      "name": "AFS Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1999-11-24",
+  "revenue": 0,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Last Harem",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 55,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54227,
+        "known_for_department": "Acting",
+        "name": "Marie Gillain",
+        "original_name": "Marie Gillain",
+        "popularity": 0.558,
+        "profile_path": "/ozjOiDR5ZIlDkbZQGJ46OeQoCbY.jpg",
+        "cast_id": 2,
+        "character": "Safiye",
+        "credit_id": "52fe4750c3a36847f812eca5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13609,
+        "known_for_department": "Acting",
+        "name": "Alex Descas",
+        "original_name": "Alex Descas",
+        "popularity": 0.306,
+        "profile_path": "/1FUMJTbVflnDR8vZL3J1Hv8f7tV.jpg",
+        "cast_id": 3,
+        "character": "Nadir",
+        "credit_id": "52fe4750c3a36847f812eca9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3124,
+        "known_for_department": "Acting",
+        "name": "Valeria Golino",
+        "original_name": "Valeria Golino",
+        "popularity": 2.6217,
+        "profile_path": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg",
+        "cast_id": 5,
+        "character": "Anita",
+        "credit_id": "52fe4750c3a36847f812ecb1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39274,
+        "known_for_department": "Acting",
+        "name": "Lucia Bosè",
+        "original_name": "Lucia Bosè",
+        "popularity": 0.5942,
+        "profile_path": "/9YQcKtzFTvBWpJEQKE5iymSvywm.jpg",
+        "cast_id": 4,
+        "character": "Safiye anziana",
+        "credit_id": "52fe4750c3a36847f812ecad",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90317,
+        "known_for_department": "Acting",
+        "name": "Serra Yılmaz",
+        "original_name": "Serra Yılmaz",
+        "popularity": 0.483,
+        "profile_path": "/v7dI37lIuoEaQ0YlbImsoKzviZN.jpg",
+        "cast_id": 7,
+        "character": "Gulfidan",
+        "credit_id": "5df22c3118b75100174243c3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117640,
+        "known_for_department": "Acting",
+        "name": "Haluk Bilginer",
+        "original_name": "Haluk Bilginer",
+        "popularity": 1.4996,
+        "profile_path": "/krCEBAIGmEUUcA4GpLt3RiTHKLC.jpg",
+        "cast_id": 11,
+        "character": "Abdülhamit II",
+        "credit_id": "5e12325cd64ac200166413d3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10649,
+        "known_for_department": "Acting",
+        "name": "Malick Bowens",
+        "original_name": "Malick Bowens",
+        "popularity": 1.7183,
+        "profile_path": "/lcib1dnY0bDLfb2VbjDIOauxCrq.jpg",
+        "cast_id": 9,
+        "character": "Mithat",
+        "credit_id": "5e123248d64ac2001463f67a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 142769,
+        "known_for_department": "Acting",
+        "name": "Şerif Sezer",
+        "original_name": "Şerif Sezer",
+        "popularity": 0.7175,
+        "profile_path": "/iNCTcx874hP31X1LmA74DuFDzY5.jpg",
+        "cast_id": 8,
+        "character": "Perran",
+        "credit_id": "5e12323fd8af670014bcf255",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2501223,
+        "known_for_department": "Acting",
+        "name": "Cristoph Aquilon",
+        "original_name": "Cristoph Aquilon",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Sümbül",
+        "credit_id": "5e123253ae26be00174ad5ad",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1505903,
+        "known_for_department": "Acting",
+        "name": "Selda Özer",
+        "original_name": "Selda Özer",
+        "popularity": 0.1249,
+        "profile_path": "/k2HUph5mQtGFHIXhQULbPBWWH8q.jpg",
+        "cast_id": 12,
+        "character": "Guya",
+        "credit_id": "5e12327f58361b0010c60a6b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66980,
+        "known_for_department": "Acting",
+        "name": "Cansel Elçin",
+        "original_name": "Cansel Elçin",
+        "popularity": 0.2875,
+        "profile_path": "/aAPnKmKdrhiKHJAjV4RAhvPy87S.jpg",
+        "cast_id": 13,
+        "character": "giornalista",
+        "credit_id": "5e12328ce78e2d0015774f49",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2383911,
+        "known_for_department": "Production",
+        "name": "Gaia Narcisi",
+        "original_name": "Gaia Narcisi",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Aliye",
+        "credit_id": "5e1232a158361b0012c56d05",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1258587,
+        "known_for_department": "Acting",
+        "name": "Pelin Batu",
+        "original_name": "Pelin Batu",
+        "popularity": 0.0682,
+        "profile_path": "/9vKka67LiXVYBzUWNJakpfKFwKF.jpg",
+        "cast_id": 15,
+        "character": "Cerkez Cariye",
+        "credit_id": "5e1232b8e78e2d0015774fb0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1256307,
+        "known_for_department": "Acting",
+        "name": "Ayla Algan",
+        "original_name": "Ayla Algan",
+        "popularity": 0.137,
+        "profile_path": "/zThw3IUNwhMv7NXejkgCOMLFBm3.jpg",
+        "cast_id": 18,
+        "character": "Valide",
+        "credit_id": "5e12330558361b0015c5b882",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145520,
+        "known_for_department": "Acting",
+        "name": "Nilüfer Açıkalın",
+        "original_name": "Nilüfer Açıkalın",
+        "popularity": 0.4,
+        "profile_path": "/jcVX6kSmqQikf3SDMMNEL2mI5Ma.jpg",
+        "cast_id": 19,
+        "character": "Selma",
+        "credit_id": "5e12331058361b0010c60ab5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2501229,
+        "known_for_department": "Acting",
+        "name": "Meriç Benlioğlu",
+        "original_name": "Meriç Benlioğlu",
+        "popularity": 0.0239,
+        "profile_path": "/7DkDHeFxltNsWmwnIC5W5RQvZn1.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "5e123317e78e2d001577503d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1576294,
+        "known_for_department": "Acting",
+        "name": "Yeliz Tozan",
+        "original_name": "Yeliz Tozan",
+        "popularity": 0.6539,
+        "profile_path": "/vskrZokVbytkeDgnXQQ15dpT6me.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "57853887c3a3680b6600037a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1919876,
+        "known_for_department": "Acting",
+        "name": "Meltem Savcı",
+        "original_name": "Meltem Savcı",
+        "popularity": 0.162,
+        "profile_path": "/tBuIe8NE4XmYgYohNmrYe2HFIFD.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "5e12332c58361b0012c56da1",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238844,
+        "known_for_department": "Acting",
+        "name": "Ali Başar",
+        "original_name": "Ali Başar",
+        "popularity": 0.2798,
+        "profile_path": "/20Ai6IvVnPdiDQps8BswV3bK2sg.jpg",
+        "cast_id": 22,
+        "character": "Komutan Halit",
+        "credit_id": "639484eba0f1a200873833ed",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96978,
+        "known_for_department": "Acting",
+        "name": "Başak Köklükaya",
+        "original_name": "Başak Köklükaya",
+        "popularity": 0.4814,
+        "profile_path": "/zOL4xg4G4K7aj74SBdkTsobIUS7.jpg",
+        "cast_id": 23,
+        "character": "Gülbahar",
+        "credit_id": "645f1e97dbbb420119f41738",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72197,
+        "known_for_department": "Directing",
+        "name": "Ferzan Özpetek",
+        "original_name": "Ferzan Özpetek",
+        "popularity": 0.2298,
+        "profile_path": "/nXMv7nRmQRTfa8YlPs4nXxHqqqu.jpg",
+        "credit_id": "52fe4750c3a36847f812eca1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87684,
+        "known_for_department": "Writing",
+        "name": "Gianni Romoli",
+        "original_name": "Gianni Romoli",
+        "popularity": 0.159,
+        "profile_path": "/3IkQ46HfkgLj1Ibr3UFQUmAGe2u.jpg",
+        "credit_id": "5e1232e0d8af670012bd19e1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72197,
+        "known_for_department": "Directing",
+        "name": "Ferzan Özpetek",
+        "original_name": "Ferzan Özpetek",
+        "popularity": 0.2298,
+        "profile_path": "/nXMv7nRmQRTfa8YlPs4nXxHqqqu.jpg",
+        "credit_id": "5e1232d658361b0010c60a8f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8757,
+        "known_for_department": "Production",
+        "name": "Vito Colazzo",
+        "original_name": "Vito Colazzo",
+        "popularity": 0.1452,
+        "profile_path": null,
+        "credit_id": "67bb8d01a96dc18979bed256",
+        "department": "Production",
+        "job": "Location Manager"
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": {
+    "id": 123588,
+    "name": "Os Trapalhões: Coleção",
+    "poster_path": "/ug34Rv1iINCnXbHFLLdg9yXSFsC.jpg",
+    "backdrop_path": "/yxe3ntTL3WVKLDm9h2RQlN1njuY.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 143535,
+  "imdb_id": "tt0241567",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "O Incrível Monstro Trapalhão",
+  "overview": "Dr. Jegue is a fumbling inventor and scientist, who in his spare time helps his friends Kiko, Sassá, and Quindim in a mechanic's shop. The four are great friends of Carlos Alberto, a stock car driver who suffers from the frames of rival Hugo and his gang. By doing scientific research in his mini-lab, Jegue discovers two powerful formulas: one extracted through the Quince tree, an abundant fictitious plant in the Northeast; and another that turns Dr. Jegue into a big, bearded, moody man with powerful strength. The Marmeleiro formula is tested in a race at the Interlagos Autodrome in the old track and the news of a \"new fuel\" becomes the main news of the country. Soon, buyers from all over the world come to Brazil to try to buy the formula, offering a lot of money for it, but Jegue, not ambitious, decides not to sell the formula anymore and leaves it in his country.",
+  "popularity": 8.1258,
+  "poster_path": "/m7iUJv3KGBnTOAbbacnMpje1esf.jpg",
+  "production_companies": [
+    {
+      "id": 12867,
+      "logo_path": null,
+      "name": "Renato Aragão Produções Cinematográficas",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "1980-01-01",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "O Incrível Monstro Trapalhão",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 15,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936457,
+        "known_for_department": "Acting",
+        "name": "Renato Aragão",
+        "original_name": "Renato Aragão",
+        "popularity": 0.2085,
+        "profile_path": "/qAMsFDbdxId9npuVi5hUuGP1ruL.jpg",
+        "cast_id": 1,
+        "character": "Dr. Jegue",
+        "credit_id": "52fe4b0e9251416c750f6dc7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936458,
+        "known_for_department": "Acting",
+        "name": "Dedé Santana",
+        "original_name": "Dedé Santana",
+        "popularity": 0.0872,
+        "profile_path": "/9DAtjZjyNFOQurBOJrKrmHiw4fE.jpg",
+        "cast_id": 2,
+        "character": "Kiko",
+        "credit_id": "52fe4b0e9251416c750f6dcb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936459,
+        "known_for_department": "Acting",
+        "name": "Mussum",
+        "original_name": "Mussum",
+        "popularity": 0.1499,
+        "profile_path": "/wWfqeeS5MOl9Z5l2b82AQOFNa4Q.jpg",
+        "cast_id": 3,
+        "character": "Sassa",
+        "credit_id": "52fe4b0e9251416c750f6dcf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936460,
+        "known_for_department": "Acting",
+        "name": "Zacarias",
+        "original_name": "Zacarias",
+        "popularity": 0.2864,
+        "profile_path": "/ex4crGlZd9C0s9TQObjCPW28ujo.jpg",
+        "cast_id": 4,
+        "character": "Quindim",
+        "credit_id": "52fe4b0e9251416c750f6dd3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1085850,
+        "known_for_department": "Acting",
+        "name": "Alcione Mazzeo",
+        "original_name": "Alcione Mazzeo",
+        "popularity": 0.0725,
+        "profile_path": "/xUWSIZkzpBnpwQZ9by59rMZU8Vg.jpg",
+        "cast_id": 9,
+        "character": "Ritinha",
+        "credit_id": "52fe4b0e9251416c750f6de7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163988,
+        "known_for_department": "Acting",
+        "name": "Felipe Levy",
+        "original_name": "Felipe Levy",
+        "popularity": 0.1198,
+        "profile_path": "/6CMsRVZxI1Zxgo26Xy1pQaPjyTS.jpg",
+        "cast_id": 10,
+        "character": "Russo",
+        "credit_id": "52fe4b0e9251416c750f6deb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132198,
+        "known_for_department": "Acting",
+        "name": "Wilson Grey",
+        "original_name": "Wilson Grey",
+        "popularity": 0.4152,
+        "profile_path": "/wq9wertIQjfumOJaBJ845OQFuHa.jpg",
+        "cast_id": 11,
+        "character": "Sr. Correção",
+        "credit_id": "52fe4b0e9251416c750f6def",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163989,
+        "known_for_department": "Acting",
+        "name": "Eduardo Conde",
+        "original_name": "Eduardo Conde",
+        "popularity": 0.2026,
+        "profile_path": "/gwXAAfADTanWOQIVJO8yOWxdXAT.jpg",
+        "cast_id": 12,
+        "character": "Hugo",
+        "credit_id": "52fe4b0e9251416c750f6df3",
+        "order": 7
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1163987,
+        "known_for_department": "Acting",
+        "name": "Satã",
+        "original_name": "Satã",
+        "popularity": 1.653,
+        "profile_path": "/s5k1RYdIItQi8MPSsNHglNH9Jzr.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "5b917985c3a3687ae5003ba3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5177920,
+        "known_for_department": "Acting",
+        "name": "Oswaldo Mesquita",
+        "original_name": "Oswaldo Mesquita",
+        "popularity": 0.0362,
+        "profile_path": "/d7tt50UXuNleng5RbEfNa0E9vz5.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "68731212a1aab494bc705218",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4335961,
+        "known_for_department": "Acting",
+        "name": "Quinzinho",
+        "original_name": "Quinzinho",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "690c03e92084c80d71613e41",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936457,
+        "known_for_department": "Acting",
+        "name": "Renato Aragão",
+        "original_name": "Renato Aragão",
+        "popularity": 0.2085,
+        "profile_path": "/qAMsFDbdxId9npuVi5hUuGP1ruL.jpg",
+        "credit_id": "52fe4b0e9251416c750f6dff",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1078366,
+        "known_for_department": "Writing",
+        "name": "Victor Lustosa",
+        "original_name": "Victor Lustosa",
+        "popularity": 0.0362,
+        "profile_path": "/1cmcbHI1gQg2wtFoHFr5PReaTW0.jpg",
+        "credit_id": "52fe4b0e9251416c750f6e05",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90208,
+        "known_for_department": "Acting",
+        "name": "Adriano Stuart",
+        "original_name": "Adriano Stuart",
+        "popularity": 0.7939,
+        "profile_path": "/btndMVpxCApWkn0CD2WPfXG1lM8.jpg",
+        "credit_id": "52fe4b0e9251416c750f6df9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1078366,
+        "known_for_department": "Writing",
+        "name": "Victor Lustosa",
+        "original_name": "Victor Lustosa",
+        "popularity": 0.0362,
+        "profile_path": "/1cmcbHI1gQg2wtFoHFr5PReaTW0.jpg",
+        "credit_id": "62051bb51da7a60105b0b6f1",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1385881,
+        "known_for_department": "Acting",
+        "name": "Hélio Ribeiro",
+        "original_name": "Hélio Ribeiro",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "62051bc40dea6e0113f60a73",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1164021,
+        "known_for_department": "Directing",
+        "name": "Del Rangel",
+        "original_name": "Del Rangel",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "credit_id": "62051be919418600420cee38",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1068940,
+        "known_for_department": "Editing",
+        "name": "Raimundo Higino",
+        "original_name": "Raimundo Higino",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "62051b9e51e6ab00e2a310cb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046311,
+        "known_for_department": "Sound",
+        "name": "Remo Usai",
+        "original_name": "Remo Usai",
+        "popularity": 0.0573,
+        "profile_path": null,
+        "credit_id": "62051b80e323f3001b39da80",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936457,
+        "known_for_department": "Acting",
+        "name": "Renato Aragão",
+        "original_name": "Renato Aragão",
+        "popularity": 0.2085,
+        "profile_path": "/qAMsFDbdxId9npuVi5hUuGP1ruL.jpg",
+        "credit_id": "62051bf8e323f300664b5527",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1085836,
+        "known_for_department": "Camera",
+        "name": "Antonio Meliande",
+        "original_name": "Antonio Meliande",
+        "popularity": 1.96,
+        "profile_path": "/ngmFCdyTw745F6NmYHA6pXdbmB0.jpg",
+        "credit_id": "62051b8b20af7700c929330a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

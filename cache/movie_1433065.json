@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1433065,
+  "imdb_id": "tt1269371",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il Confine",
+  "overview": "",
+  "popularity": 5.8495,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 118969,
+      "logo_path": "/zXz2sRa4tx1trrYH7okEKISe1GO.png",
+      "name": "Minnie Ferrara & Associati",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2008-01-01",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Il Confine",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236761,
+        "known_for_department": "Directing",
+        "name": "Stefano Mordini",
+        "original_name": "Stefano Mordini",
+        "popularity": 1.934,
+        "profile_path": "/o1eHRzQZGukPqBJEu7JfuQDqzwH.jpg",
+        "credit_id": "67ac63016eb36d0dad9bca03",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233035,
+        "known_for_department": "Camera",
+        "name": "Fabrizio La Palombara",
+        "original_name": "Fabrizio La Palombara",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67ac630da2e2f99ed4bb62f5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 495251,
+        "known_for_department": "Sound",
+        "name": "Fabio Barovero",
+        "original_name": "Fabio Barovero",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67ac631b9d346d3ef49bca7a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84258,
+        "known_for_department": "Editing",
+        "name": "Walter Fasano",
+        "original_name": "Walter Fasano",
+        "popularity": 0.5623,
+        "profile_path": "/4GKmfdJoZXXFDBmC3YgaWzdz59X.jpg",
+        "credit_id": "67ac6328a2e2f99ed4bb6308",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

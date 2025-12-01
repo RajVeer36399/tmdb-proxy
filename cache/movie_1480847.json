@@ -1,0 +1,253 @@
+{
+  "adult": false,
+  "backdrop_path": "/amdFiGJJRdpeTGZQ7fZl17CAFbi.jpg",
+  "belongs_to_collection": null,
+  "budget": 650000,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82122396",
+  "id": 1480847,
+  "imdb_id": "tt36909787",
+  "origin_country": [
+    "FR",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Sangre del Toro",
+  "overview": "Director Guillermo del Toro journeys through a labyrinth of childhood memories, cultural myths and monsters to reveal the origins of his visionary films.",
+  "popularity": 10.2677,
+  "poster_path": "/i6gRde2TqBimsn1WTj4bgx0mnL.jpg",
+  "production_companies": [
+    {
+      "id": 164686,
+      "logo_path": "/f4YiwKcpmuNcoHxCUCIWZKABukX.png",
+      "name": "Brilliant Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 63251,
+      "logo_path": "/7cXoYsPYQXqG1TUyLrF0I0EISpK.png",
+      "name": "Brainworks",
+      "origin_country": "FR"
+    },
+    {
+      "id": 128893,
+      "logo_path": null,
+      "name": "Kador",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-08-29",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sangre del Toro",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10828,
+        "known_for_department": "Directing",
+        "name": "Guillermo del Toro",
+        "original_name": "Guillermo del Toro",
+        "popularity": 6.0613,
+        "profile_path": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "68a032db90e1f7636818c48e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224,
+        "known_for_department": "Directing",
+        "name": "David Cronenberg",
+        "original_name": "David Cronenberg",
+        "popularity": 1.1296,
+        "profile_path": "/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg",
+        "cast_id": 12,
+        "character": "Self (archive footage)",
+        "credit_id": "692052674ac24835a0fa3102",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552546,
+        "known_for_department": "Writing",
+        "name": "Junji Ito",
+        "original_name": "伊藤潤二",
+        "popularity": 0.6994,
+        "profile_path": "/A0DSHu2aNknw8PNnUjmaImJuNSZ.jpg",
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "692052703bd62e4537058c73",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1168862,
+        "known_for_department": "Directing",
+        "name": "Yves Montmayeur",
+        "original_name": "Yves Montmayeur",
+        "popularity": 0.546,
+        "profile_path": "/1PCxou7F2FwRUlx9JMl0YStQFPE.jpg",
+        "credit_id": "6824306371e3023ff1a16d84",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1168862,
+        "known_for_department": "Directing",
+        "name": "Yves Montmayeur",
+        "original_name": "Yves Montmayeur",
+        "popularity": 0.546,
+        "profile_path": "/1PCxou7F2FwRUlx9JMl0YStQFPE.jpg",
+        "credit_id": "6824306a5558e7c675a16c24",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1505528,
+        "known_for_department": "Production",
+        "name": "Sean O'Kelly",
+        "original_name": "Sean O'Kelly",
+        "popularity": 0.2656,
+        "profile_path": null,
+        "credit_id": "68243176a39639cda24b4d04",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 986719,
+        "known_for_department": "Production",
+        "name": "Marc Bikindou",
+        "original_name": "Marc Bikindou",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "682432795a0100856da16a89",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2124277,
+        "known_for_department": "Production",
+        "name": "Thierry Tripod",
+        "original_name": "Thierry Tripod",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "68243287e7abbf41ab333e69",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2720204,
+        "known_for_department": "Production",
+        "name": "Jad Ben Ammar",
+        "original_name": "Jad Ben Ammar",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "682432bb00df2bd2f4a16c8c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3024708,
+        "known_for_department": "Sound",
+        "name": "Yôko Higashi",
+        "original_name": "Yôko Higashi",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "682432e35ecb61e45d5a34c7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3642944,
+        "known_for_department": "Editing",
+        "name": "Matthieu Brunel",
+        "original_name": "Matthieu Brunel",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "682432fd5817e02f2d6eee4b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5437553,
+        "known_for_department": "Sound",
+        "name": "Eric Lamy",
+        "original_name": "Eric Lamy",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6824331100df2bd2f4a16c97",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3765364,
+        "known_for_department": "Production",
+        "name": "Vanessa Bikindou",
+        "original_name": "Vanessa Bikindou",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "682433275097c5c63f6eeda4",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      }
+    ]
+  }
+}

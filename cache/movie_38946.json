@@ -1,0 +1,495 @@
+{
+  "adult": false,
+  "backdrop_path": "/c3knJX6oIeO1tn1xlBt3IEQQj80.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 38946,
+  "imdb_id": "tt0053232",
+  "origin_country": [
+    "SE",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rymdinvasion i Lappland",
+  "overview": "After a herd of reindeer are mysteriously found dead following a meteor crash in a remote part of Lapland in northern Sweden, soldiers and a geologist are called out to investigate.",
+  "popularity": 5.7563,
+  "poster_path": "/hGeJgZbPa50BG1lBExpTuS0M1C5.jpg",
+  "production_companies": [
+    {
+      "id": 5741,
+      "logo_path": null,
+      "name": "Fortunafilm",
+      "origin_country": ""
+    },
+    {
+      "id": 5742,
+      "logo_path": null,
+      "name": "Gustaf Unger Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1959-08-19",
+  "revenue": 0,
+  "runtime": 73,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Monsters Walk the Earth in Ravishing Rampage of Clawing Fury! Could It Happen? See and Decide for Yourself!",
+  "title": "Terror in the Midnight Sun",
+  "video": false,
+  "vote_average": 3.8,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131491,
+        "known_for_department": "Acting",
+        "name": "Barbara Wilson",
+        "original_name": "Barbara Wilson",
+        "popularity": 0.419,
+        "profile_path": "/2xgJIRfpIGjZnjPEFCCQ92588Pa.jpg",
+        "cast_id": 4,
+        "character": "Diane Wilson",
+        "credit_id": "52fe46ed9251416c91064541",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131492,
+        "known_for_department": "Acting",
+        "name": "Sten Gester",
+        "original_name": "Sten Gester",
+        "popularity": 0.6908,
+        "profile_path": "/fCURH93ZI5LSYWrV7wObcACGKXg.jpg",
+        "cast_id": 5,
+        "character": "Erik Engström",
+        "credit_id": "52fe46ed9251416c91064545",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31260,
+        "known_for_department": "Acting",
+        "name": "Robert Burton",
+        "original_name": "Robert Burton",
+        "popularity": 0.2793,
+        "profile_path": "/3huwlU1L9260FYtnPsPQ5kVKUDF.jpg",
+        "cast_id": 6,
+        "character": "Dr. Frederick Wilson",
+        "credit_id": "52fe46ed9251416c91064549",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131493,
+        "known_for_department": "Acting",
+        "name": "Bengt Blomgren",
+        "original_name": "Bengt Blomgren",
+        "popularity": 0.0848,
+        "profile_path": "/oYtOVaLpdEa99CyLGCsYCCERQBv.jpg",
+        "cast_id": 7,
+        "character": "Col. Robert Bottiger",
+        "credit_id": "52fe46ed9251416c9106454d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34769,
+        "known_for_department": "Acting",
+        "name": "Åke Grönberg",
+        "original_name": "Åke Grönberg",
+        "popularity": 0.1282,
+        "profile_path": "/3EgENuAFWznRC2zzi1Safqb9VOj.jpg",
+        "cast_id": 8,
+        "character": "Dr. Henrik",
+        "credit_id": "52fe46ed9251416c91064551",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8516,
+        "known_for_department": "Acting",
+        "name": "John Carradine",
+        "original_name": "John Carradine",
+        "popularity": 1.7316,
+        "profile_path": "/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg",
+        "cast_id": 10,
+        "character": "Narrator (US Re-Edit)",
+        "credit_id": "52fe46ed9251416c91064559",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34774,
+        "known_for_department": "Acting",
+        "name": "Gösta Prüzelius",
+        "original_name": "Gösta Prüzelius",
+        "popularity": 0.7266,
+        "profile_path": "/tVJEosWBRRdl9qI6tUp8ga9DQnS.jpg",
+        "cast_id": 9,
+        "character": "Dr. Walter Ullman",
+        "credit_id": "52fe46ed9251416c91064555",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1188144,
+        "known_for_department": "Acting",
+        "name": "Brita Borg",
+        "original_name": "Brita Borg",
+        "popularity": 0.118,
+        "profile_path": "/ArOVlSkAxlFZcmDhyPgH3LmiJ6v.jpg",
+        "cast_id": 12,
+        "character": "Singer (uncredited)",
+        "credit_id": "5bdae4fa925141540200c124",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1316301,
+        "known_for_department": "Acting",
+        "name": "Doreen Denning",
+        "original_name": "Doreen Denning",
+        "popularity": 0.0841,
+        "profile_path": "/cs04iMqsjDKchGTVoQ5UzLGzpmv.jpg",
+        "cast_id": 22,
+        "character": "Anna (uncredited)",
+        "credit_id": "6498538b62f3350146291376",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 139114,
+        "known_for_department": "Acting",
+        "name": "Ittla Frodi",
+        "original_name": "Ittla Frodi",
+        "popularity": 0.7267,
+        "profile_path": "/dIyFL3EkEeWiK2hOIkuQiEMtZyN.jpg",
+        "cast_id": 23,
+        "character": "Girlfriend in Volvo (uncredited)",
+        "credit_id": "649853aa6f43ec011c629bd5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131494,
+        "known_for_department": "Acting",
+        "name": "Lars Åhrén",
+        "original_name": "Lars Åhrén",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "The Monster (uncredited)",
+        "credit_id": "52fe46ed9251416c9106455d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114497,
+        "known_for_department": "Acting",
+        "name": "Steve Conte",
+        "original_name": "Steve Conte",
+        "popularity": 0.1123,
+        "profile_path": "/8AArPxbeCmnWTl8kwFrnshQ3kWB.jpg",
+        "cast_id": 24,
+        "character": "American Radio Supervisor #2 (US TV version) (uncredited)",
+        "credit_id": "65cd5b4751e6ab01631ee66d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1174092,
+        "known_for_department": "Acting",
+        "name": "Fred Hoffman",
+        "original_name": "Fred Hoffman",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Doctor (US TV version) (uncredited)",
+        "credit_id": "65cd5b7951e6ab01631ee6de",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2698074,
+        "known_for_department": "Sound",
+        "name": "Allan Johansson",
+        "original_name": "Allan Johansson",
+        "popularity": 0.0379,
+        "profile_path": "/pCgTjEQEGSGdnZD19SNV4zwwTvl.jpg",
+        "cast_id": 26,
+        "character": "(uncredited)",
+        "credit_id": "65cd5cb0c26796017ec851c0",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 161829,
+        "known_for_department": "Acting",
+        "name": "G.J. Mitchell",
+        "original_name": "G.J. Mitchell",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Diane's Psychiatrist (US TV version) (uncredited)",
+        "credit_id": "65cd5ccfc26796017ec8522b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1112118,
+        "known_for_department": "Acting",
+        "name": "Chuck Niles",
+        "original_name": "Chuck Niles",
+        "popularity": 1.6181,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Second Doctor (US TV version) (uncredited)",
+        "credit_id": "65cd5d00efcea9017ca9ad74",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1076190,
+        "known_for_department": "Production",
+        "name": "Gustaf Unger",
+        "original_name": "Gustaf Unger",
+        "popularity": 0.8783,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Air Passenger with Dark Glasses (uncredited)",
+        "credit_id": "65cd5d236c0b3600e68d45c5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30984,
+        "known_for_department": "Acting",
+        "name": "Katherine Victor",
+        "original_name": "Katherine Victor",
+        "popularity": 1.4319,
+        "profile_path": "/yizqQgvyjNuWZy6dpy9TVRyqaq3.jpg",
+        "cast_id": 30,
+        "character": "Diane's Mother (US TV version) (uncredited)",
+        "credit_id": "65cd5d436c0b3601628d64e6",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12345,
+        "known_for_department": "Directing",
+        "name": "Virgil W. Vogel",
+        "original_name": "Virgil W. Vogel",
+        "popularity": 0.34,
+        "profile_path": "/51tikObLjHUpeKAWKo4drQGBRwY.jpg",
+        "credit_id": "52fe46ec9251416c91064531",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 103460,
+        "known_for_department": "Writing",
+        "name": "Arthur C. Pierce",
+        "original_name": "Arthur C. Pierce",
+        "popularity": 0.1473,
+        "profile_path": null,
+        "credit_id": "52fe46ed9251416c91064537",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 103460,
+        "known_for_department": "Writing",
+        "name": "Arthur C. Pierce",
+        "original_name": "Arthur C. Pierce",
+        "popularity": 0.1473,
+        "profile_path": null,
+        "credit_id": "52fe46ed9251416c9106453d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2698074,
+        "known_for_department": "Sound",
+        "name": "Allan Johansson",
+        "original_name": "Allan Johansson",
+        "popularity": 0.0379,
+        "profile_path": "/pCgTjEQEGSGdnZD19SNV4zwwTvl.jpg",
+        "credit_id": "5efc7c7dc5840d00399885bd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213502,
+        "known_for_department": "Art",
+        "name": "Nils Nilsson",
+        "original_name": "Nils Nilsson",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "5efc7cb27b7b4d003557ff73",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2698077,
+        "known_for_department": "Crew",
+        "name": "Odert von Schoultz",
+        "original_name": "Odert von Schoultz",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5efc7cc15437f5003690c8cc",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1076190,
+        "known_for_department": "Production",
+        "name": "Gustaf Unger",
+        "original_name": "Gustaf Unger",
+        "popularity": 0.8783,
+        "profile_path": null,
+        "credit_id": "5efc7c45d6d64d0034c8ec84",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550137,
+        "known_for_department": "Camera",
+        "name": "Hilding Bladh",
+        "original_name": "Hilding Bladh",
+        "popularity": 0.393,
+        "profile_path": "/pzppbBbBST3qvSP5UhGd46Z3SBL.jpg",
+        "credit_id": "5efc7c895437f500388f9b80",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1047,
+        "known_for_department": "Editing",
+        "name": "Tom Rolf",
+        "original_name": "Tom Rolf",
+        "popularity": 0.5402,
+        "profile_path": null,
+        "credit_id": "5efc7ca05437f500388f9ba6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2698075,
+        "known_for_department": "Editing",
+        "name": "Shirley Cytron",
+        "original_name": "Shirley Cytron",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5efc7c95d6d64d0034c8ecdf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2610899,
+        "known_for_department": "Production",
+        "name": "Bertil Jernberg",
+        "original_name": "Bertil Jernberg",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5efc7c3af031740039506aa6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648609,
+        "known_for_department": "Sound",
+        "name": "Harry Arnold",
+        "original_name": "Harry Arnold",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5efc7c52a284eb0038981801",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

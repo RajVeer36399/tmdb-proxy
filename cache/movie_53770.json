@@ -1,0 +1,197 @@
+{
+  "adult": false,
+  "backdrop_path": "/l21or9CbokSy1gbsMza4GbvdnrP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 53770,
+  "imdb_id": "tt0041266",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Crazy Over Daisy",
+  "overview": "It's the 1890s, and Donald is riding his penny-farthing bicycle to see Daisy when Chip 'n Dale make fun of him. It quickly escalates into a full-fledged war between Donald and the chipmunks.",
+  "popularity": 7.7942,
+  "poster_path": "/jkGbeI02D7kwz7bM5KacWLOJeME.jpg",
+  "production_companies": [
+    {
+      "id": 3166,
+      "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+      "name": "Walt Disney Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1950-03-24",
+  "revenue": 0,
+  "runtime": 6,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Crazy Over Daisy",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 37,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78077,
+        "known_for_department": "Acting",
+        "name": "Clarence Nash",
+        "original_name": "Clarence Nash",
+        "popularity": 0.6283,
+        "profile_path": "/x2g2hbu4RRIcn6Q5RT8gpWR1FKV.jpg",
+        "cast_id": 5,
+        "character": "Donald Duck (voice)",
+        "credit_id": "52fe487ac3a36847f8168f8d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 148812,
+        "known_for_department": "Acting",
+        "name": "Gloria Blondell",
+        "original_name": "Gloria Blondell",
+        "popularity": 0.2937,
+        "profile_path": "/lQEpMc0VNcuSAtvFMCGZybclDYb.jpg",
+        "cast_id": 6,
+        "character": "Daisy Duck (voice)",
+        "credit_id": "52fe487ac3a36847f8168f91",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137460,
+        "known_for_department": "Acting",
+        "name": "Dessie Flynn",
+        "original_name": "Dessie Flynn",
+        "popularity": 0.1705,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Dale (voice)",
+        "credit_id": "52fe487ac3a36847f8168f95",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137461,
+        "known_for_department": "Acting",
+        "name": "James MacDonald",
+        "original_name": "James MacDonald",
+        "popularity": 0.7638,
+        "profile_path": "/qf3IMvOrc39jKz6Bddtv4Ur2ski.jpg",
+        "cast_id": 8,
+        "character": "Chip (voice)",
+        "credit_id": "52fe487ac3a36847f8168f99",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2106,
+        "known_for_department": "Production",
+        "name": "Walt Disney",
+        "original_name": "Walt Disney",
+        "popularity": 0.9755,
+        "profile_path": "/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg",
+        "credit_id": "52fe487ac3a36847f8168f77",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64868,
+        "known_for_department": "Sound",
+        "name": "Oliver Wallace",
+        "original_name": "Oliver Wallace",
+        "popularity": 0.1435,
+        "profile_path": null,
+        "credit_id": "52fe487ac3a36847f8168f83",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139539,
+        "known_for_department": "Directing",
+        "name": "Jack Hannah",
+        "original_name": "Jack Hannah",
+        "popularity": 0.3646,
+        "profile_path": null,
+        "credit_id": "52fe487ac3a36847f8168f7d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 148176,
+        "known_for_department": "Visual Effects",
+        "name": "Bob Carlson",
+        "original_name": "Bob Carlson",
+        "popularity": 1.2103,
+        "profile_path": null,
+        "credit_id": "52fe487ac3a36847f8168f89",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71211,
+        "known_for_department": "Writing",
+        "name": "Milt Banta",
+        "original_name": "Milt Banta",
+        "popularity": 0.6658,
+        "profile_path": null,
+        "credit_id": "5f309c517739410036e666b7",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 148807,
+        "known_for_department": "Writing",
+        "name": "Roy Williams",
+        "original_name": "Roy Williams",
+        "popularity": 0.1265,
+        "profile_path": null,
+        "credit_id": "5f309c3a559d220036765bb8",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "adult": false,
+  "backdrop_path": "/7xZQczaWW9b7xEAYiSMwXOVFEC7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 44195,
+  "imdb_id": "tt0308252",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Fear of the Dark",
+  "overview": "Twelve year old Ryan Billings has been diagnosed with an acute fear of the dark. He spends each night lying awake in torment, waiting and watching as the evil in the darkness grows stronger, feeding off his fear. His older brother Dale, suspects that there is nothing wrong with Ryan and that this is just a ploy for more attention. Regardless, he promises to watch over his little brother as their parents head off to a party for the night. Outside a storm rages and when the power goes out, darkness envelops the house. Ryan knows that tonight the evil has finally come to claim him. Dale desperately tries everything to try and calm him down, until the horrors in the dark make him realize Ryan had good reason to be so afraid!",
+  "popularity": 6.7506,
+  "poster_path": "/vPaqnJwsyGmljco3EOVq119Bg7n.jpg",
+  "production_companies": [
+    {
+      "id": 14941,
+      "logo_path": null,
+      "name": "Constellation Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 17025,
+      "logo_path": null,
+      "name": "Faulkner Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2003-09-28",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Whatever Happens, Don't Close Your Eyes",
+  "title": "Fear of the Dark",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 58,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7431,
+        "known_for_department": "Acting",
+        "name": "Kevin Zegers",
+        "original_name": "Kevin Zegers",
+        "popularity": 1.6542,
+        "profile_path": "/zRjasG4NXxKbe6e1c4enivAvfcH.jpg",
+        "cast_id": 5,
+        "character": "Dale Billings",
+        "credit_id": "52fe467dc3a36847f8101d37",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10135,
+        "known_for_department": "Acting",
+        "name": "Jesse James",
+        "original_name": "Jesse James",
+        "popularity": 1.2257,
+        "profile_path": "/ebT4hnQ1VPtm9itUNp74Yj6Sx4o.jpg",
+        "cast_id": 10,
+        "character": "Ryan Billings",
+        "credit_id": "52fe467dc3a36847f8101d47",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80018,
+        "known_for_department": "Acting",
+        "name": "Rachel Skarsten",
+        "original_name": "Rachel Skarsten",
+        "popularity": 1.5312,
+        "profile_path": "/baBNWNO0IiIVC3w9QqZPH0U9CJM.jpg",
+        "cast_id": 7,
+        "character": "Heather Fontaine",
+        "credit_id": "52fe467dc3a36847f8101d3b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81308,
+        "known_for_department": "Acting",
+        "name": "Charles Edwin Powell",
+        "original_name": "Charles Edwin Powell",
+        "popularity": 0.2258,
+        "profile_path": "/mowURgrpAtbFn0OU1rrtTo6LXzQ.jpg",
+        "cast_id": 8,
+        "character": "Eric Billings",
+        "credit_id": "52fe467dc3a36847f8101d3f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41223,
+        "known_for_department": "Acting",
+        "name": "Linda Purl",
+        "original_name": "Linda Purl",
+        "popularity": 1.4934,
+        "profile_path": "/sSUxjP2ylr4pbQRgLB6qSoXWhfa.jpg",
+        "cast_id": 9,
+        "character": "Sandy Bilings",
+        "credit_id": "52fe467dc3a36847f8101d43",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1172760,
+        "known_for_department": "Acting",
+        "name": "Daniel Rindress-Kay",
+        "original_name": "Daniel Rindress-Kay",
+        "popularity": 0.1031,
+        "profile_path": "/bnftfIvk8m39BPFdYR53TgpeWPv.jpg",
+        "cast_id": 11,
+        "character": "Taylor",
+        "credit_id": "5fba4f2d8de0ae00424b1e23",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80035,
+        "known_for_department": "Acting",
+        "name": "Derrick Damon Reeve",
+        "original_name": "Derrick Damon Reeve",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Figure Pulling Young Ryan",
+        "credit_id": "66c09e63afd93a83f616a9b5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80035,
+        "known_for_department": "Acting",
+        "name": "Derrick Damon Reeve",
+        "original_name": "Derrick Damon Reeve",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Cloaked Tall Figure #1",
+        "credit_id": "66c09e6dce79f9e509deb31e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4890900,
+        "known_for_department": "Acting",
+        "name": "Charles-Etienne Burelle",
+        "original_name": "Charles-Etienne Burelle",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Young Ryan",
+        "credit_id": "66c09e829fda0e509c9dc281",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119561,
+        "known_for_department": "Writing",
+        "name": "John Sullivan",
+        "original_name": "John Sullivan",
+        "popularity": 0.1707,
+        "profile_path": "/8CWmb767pgcXRZXz7a9JChz1Sdr.jpg",
+        "credit_id": "52fe467dc3a36847f8101d27",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 21285,
+        "known_for_department": "Directing",
+        "name": "K.C. Bascombe",
+        "original_name": "K.C. Bascombe",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe467dc3a36847f8101d21",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21287,
+        "known_for_department": "Production",
+        "name": "Lee Faulkner",
+        "original_name": "Lee Faulkner",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "52fe467dc3a36847f8101d2d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41522,
+        "known_for_department": "Production",
+        "name": "J. David Williams",
+        "original_name": "J. David Williams",
+        "popularity": 0.7514,
+        "profile_path": null,
+        "credit_id": "52fe467dc3a36847f8101d33",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63459,
+        "known_for_department": "Production",
+        "name": "Aaron Griffith",
+        "original_name": "Aaron Griffith",
+        "popularity": 0.1184,
+        "profile_path": null,
+        "credit_id": "66c09eb118e6622adcd325d1",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21287,
+        "known_for_department": "Production",
+        "name": "Lee Faulkner",
+        "original_name": "Lee Faulkner",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "66c09f3b11cd6010b0deb36d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2658584,
+        "known_for_department": "Art",
+        "name": "Claude Tremblay",
+        "original_name": "Claude Tremblay",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "66c09efdba2fb0b44dd325d0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1327209,
+        "known_for_department": "Sound",
+        "name": "Dazmo",
+        "original_name": "Dazmo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "66c09edce53a7849e5d32611",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1446173,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Brigitte Desroches",
+        "original_name": "Brigitte Desroches",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "66c09ecf0361bafa83c2047f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2648946,
+        "known_for_department": "Production",
+        "name": "Jocelyn Throop",
+        "original_name": "Jocelyn Throop",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66c09eb80361bafa83c2047b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2649229,
+        "known_for_department": "Production",
+        "name": "Mike Migliara",
+        "original_name": "Mike Migliara",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "66c09ebd000d4a6d9c03be24",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 936842,
+        "known_for_department": "Production",
+        "name": "Martha Fernandez",
+        "original_name": "Martha Fernandez",
+        "popularity": 0.6905,
+        "profile_path": null,
+        "credit_id": "6044933a663b870070533540",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 21286,
+        "known_for_department": "Writing",
+        "name": "Nick Seferian",
+        "original_name": "Nick Seferian",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "credit_id": "60449345663b87002aca3b36",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042439,
+        "known_for_department": "Editing",
+        "name": "Yvann Thibaudeau",
+        "original_name": "Yvann Thibaudeau",
+        "popularity": 0.3114,
+        "profile_path": "/hkHGD8ihNQjlAZCUzQJ01gsaR4W.jpg",
+        "credit_id": "60449374f12cf4005a18017a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1051609,
+        "known_for_department": "Camera",
+        "name": "Marc Charlebois",
+        "original_name": "Marc Charlebois",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "604493080102c90059d1d66a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

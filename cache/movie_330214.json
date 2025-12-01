@@ -1,0 +1,391 @@
+{
+  "adult": false,
+  "backdrop_path": "/37eivlYL8UZbcczFhGR7zo7TSER.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 330214,
+  "imdb_id": "tt2720726",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Darkside Witches",
+  "overview": "In 1589, six innocent women were accused from the inquisition of witchery in the small ligurian mountain.",
+  "popularity": 4.9617,
+  "poster_path": "/4hxrhbNVRzHBhH0EAaaxoBGMn3R.jpg",
+  "production_companies": [
+    {
+      "id": 108264,
+      "logo_path": null,
+      "name": "Majestic XII",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2015-04-07",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Darkside Witches",
+  "video": false,
+  "vote_average": 2.333,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1493961,
+        "known_for_department": "Writing",
+        "name": "Gerard Diefenthal",
+        "original_name": "Gerard Diefenthal",
+        "popularity": 0.3795,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Don Gabrielle",
+        "credit_id": "5b853d310e0a26458c055093",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16021,
+        "known_for_department": "Acting",
+        "name": "Barbara Bouchet",
+        "original_name": "Barbara Bouchet",
+        "popularity": 2.1179,
+        "profile_path": "/fVrl3R8UQGFrhfuId7MRqWpnOsA.jpg",
+        "cast_id": 3,
+        "character": "Sibilla",
+        "credit_id": "5b853d430e0a26458c0550a2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25784,
+        "known_for_department": "Acting",
+        "name": "Anna Orso",
+        "original_name": "Anna Orso",
+        "popularity": 0.7762,
+        "profile_path": "/7qjhpyaHS1mQVmnfie1VxBcxuWS.jpg",
+        "cast_id": 4,
+        "character": "Witch",
+        "credit_id": "5b853d5392514159e704fa14",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116933,
+        "known_for_department": "Acting",
+        "name": "Simona Cappia",
+        "original_name": "Simona Cappia",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Lucrezia",
+        "credit_id": "5b853d6a0e0a26459205def7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 564078,
+        "known_for_department": "Acting",
+        "name": "Eleonora Albrecht",
+        "original_name": "Eleonora Albrecht",
+        "popularity": 0.0747,
+        "profile_path": "/c5AJilQrP0ttJNkhDzXoKeBZC8b.jpg",
+        "cast_id": 6,
+        "character": "Sara",
+        "credit_id": "5b853d8292514159e004e6d0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116935,
+        "known_for_department": "Acting",
+        "name": "Mirela David",
+        "original_name": "Mirela David",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Virginia",
+        "credit_id": "5b853d950e0a264589051735",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1642519,
+        "known_for_department": "Acting",
+        "name": "Alessandro Demcenko",
+        "original_name": "Alessandro Demcenko",
+        "popularity": 0.0932,
+        "profile_path": "/6dMxFFRnVal1e2rXAckdxG2t4R9.jpg",
+        "cast_id": 8,
+        "character": "Fra Guglielmo",
+        "credit_id": "5b853dab0e0a264596055e8e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102175,
+        "known_for_department": "Acting",
+        "name": "Marco Di Stefano",
+        "original_name": "Marco Di Stefano",
+        "popularity": 0.1856,
+        "profile_path": "/oEqmolsAmT5UfgyJstHbVCuVCym.jpg",
+        "cast_id": 9,
+        "character": "Maresciallo",
+        "credit_id": "5b853dc0c3a36865630538f6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1280830,
+        "known_for_department": "Acting",
+        "name": "Angelica Novak",
+        "original_name": "Angelica Novak",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Dalila",
+        "credit_id": "5b853dd692514159d704fdd1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2116937,
+        "known_for_department": "Acting",
+        "name": "Pino Michienzi",
+        "original_name": "Pino Michienzi",
+        "popularity": 0.0327,
+        "profile_path": "/9FzpiQxLotOXZirzCsORKeQpbKI.jpg",
+        "cast_id": 11,
+        "character": "Don Secondo",
+        "credit_id": "5b853deb92514159ea04e250",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116939,
+        "known_for_department": "Acting",
+        "name": "Adele Perna",
+        "original_name": "Adele Perna",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Filomena",
+        "credit_id": "5b853e0192514159e004e751",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1493961,
+        "known_for_department": "Writing",
+        "name": "Gerard Diefenthal",
+        "original_name": "Gerard Diefenthal",
+        "popularity": 0.3795,
+        "profile_path": null,
+        "credit_id": "55c21deb9251410ee7004b91",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1493961,
+        "known_for_department": "Writing",
+        "name": "Gerard Diefenthal",
+        "original_name": "Gerard Diefenthal",
+        "popularity": 0.3795,
+        "profile_path": null,
+        "credit_id": "55c21de1c3a368225300486b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116940,
+        "known_for_department": "Production",
+        "name": "Simone Jacoella",
+        "original_name": "Simone Jacoella",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5b853e1ec3a36865530502fa",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116988,
+        "known_for_department": "Production",
+        "name": "Andrea Verolo",
+        "original_name": "Andrea Verolo",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5b85497092514159e4058532",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116985,
+        "known_for_department": "Camera",
+        "name": "Riccardo Tonni",
+        "original_name": "Riccardo Tonni",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "5b854922c3a3686553050fc9",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116987,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alessandro D'Anna",
+        "original_name": "Alessandro D'Anna",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5b85495e0e0a264596056b29",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116984,
+        "known_for_department": "Production",
+        "name": "Michael Stadlmayer",
+        "original_name": "Michael Stadlmayer",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "5b85490692514159e7050473",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15055,
+        "known_for_department": "Sound",
+        "name": "Claudio Simonetti",
+        "original_name": "Claudio Simonetti",
+        "popularity": 0.5922,
+        "profile_path": "/gJxL4JXgOAANbAoXsHKP9Yc9bbY.jpg",
+        "credit_id": "5b85491592514159d7050728",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2069018,
+        "known_for_department": "Editing",
+        "name": "Lorenzo Peluso",
+        "original_name": "Lorenzo Peluso",
+        "popularity": 0.0585,
+        "profile_path": null,
+        "credit_id": "5b85492f92514159ea04f200",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2116989,
+        "known_for_department": "Visual Effects",
+        "name": "Gianni Melito",
+        "original_name": "Gianni Melito",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "5b85497e0e0a264589052315",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116990,
+        "known_for_department": "Camera",
+        "name": "Eulin Lapardhaja",
+        "original_name": "Eulin Lapardhaja",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5b854992c3a368655505d4dd",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116986,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eleonora Lastrucci",
+        "original_name": "Eleonora Lastrucci",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5b85493cc3a368654e04e3a0",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1661973,
+        "known_for_department": "Crew",
+        "name": "Luigi D'Andrea",
+        "original_name": "Luigi D'Andrea",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5b85495192514159dd0543f8",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "adult": false,
+  "backdrop_path": "/kICozB5A7MSiVUuSemHACDfkOpr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 207790,
+  "imdb_id": "tt0056558",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "I tartari",
+  "overview": "The Tartars and the Vikings maintain a fragile peace in the harsh landscape of the Russian Steppe. When the leader of the Vikings, Oleg, declines to accompany the Tartars on a campaign against the Slavs, there is an explosion of violence. After Oleg kills the Tartar leader and kidnaps his daughter, the dead man's brother, Burandai, retaliates by holding Oleg's wife, Helga, hostage. The stalemate can be resolved only on the battlefield.",
+  "popularity": 7.0568,
+  "poster_path": "/as54CbqUCiXOF3fTwz0s7w8ovqX.jpg",
+  "production_companies": [
+    {
+      "id": 1679,
+      "logo_path": null,
+      "name": "Lux Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 8950,
+      "logo_path": null,
+      "name": "Dubrava film",
+      "origin_country": "HR"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "release_date": "1961-04-01",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Tartars Vs. The Vikings!",
+  "title": "The Tartars",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30290,
+        "known_for_department": "Acting",
+        "name": "Victor Mature",
+        "original_name": "Victor Mature",
+        "popularity": 0.7524,
+        "profile_path": "/trTvjfUNOFxYL0Se70ZJMYKUsqS.jpg",
+        "cast_id": 8,
+        "character": "Oleg",
+        "credit_id": "52fe4d3dc3a368484e1de62d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40,
+        "known_for_department": "Directing",
+        "name": "Orson Welles",
+        "original_name": "Orson Welles",
+        "popularity": 1.0594,
+        "profile_path": "/e9lGmqQq3EsHeUQgQLByo275hcc.jpg",
+        "cast_id": 9,
+        "character": "Burundai",
+        "credit_id": "52fe4d3dc3a368484e1de631",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32378,
+        "known_for_department": "Acting",
+        "name": "Liana Orfei",
+        "original_name": "Liana Orfei",
+        "popularity": 0.4204,
+        "profile_path": "/4VtRGG2OiwmuP1gFKtelpXNjBRJ.jpg",
+        "cast_id": 10,
+        "character": "Helga",
+        "credit_id": "52fe4d3dc3a368484e1de635",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84250,
+        "known_for_department": "Acting",
+        "name": "Arnoldo Foà",
+        "original_name": "Arnoldo Foà",
+        "popularity": 0.2371,
+        "profile_path": "/1FlM1PWa6C0OXb3npKuilFfwd75.jpg",
+        "cast_id": 11,
+        "character": "Ciu Lang",
+        "credit_id": "52fe4d3dc3a368484e1de639",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128240,
+        "known_for_department": "Acting",
+        "name": "Luciano Marin",
+        "original_name": "Luciano Marin",
+        "popularity": 0.7195,
+        "profile_path": "/2N0MPSPF8V0Wkn8y6LWvyXlfivg.jpg",
+        "cast_id": 12,
+        "character": "Eric",
+        "credit_id": "52fe4d3dc3a368484e1de63d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52254,
+        "known_for_department": "Acting",
+        "name": "Bella Cortez",
+        "original_name": "Bella Cortez",
+        "popularity": 0.1013,
+        "profile_path": "/tTWnlJ3NyStbHstWdNyvnHxfSJd.jpg",
+        "cast_id": 22,
+        "character": "Samia",
+        "credit_id": "59aa6c8dc3a3682c4800abb1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52255,
+        "known_for_department": "Acting",
+        "name": "Furio Meniconi",
+        "original_name": "Furio Meniconi",
+        "popularity": 0.7553,
+        "profile_path": "/qra3034q3EyuYW4zocDM4Zh2Qjk.jpg",
+        "cast_id": 23,
+        "character": "Sigrun",
+        "credit_id": "59aa6c97925141078a00be02",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240913,
+        "known_for_department": "Acting",
+        "name": "Pietro Ceccarelli",
+        "original_name": "Pietro Ceccarelli",
+        "popularity": 0.7779,
+        "profile_path": "/wZJuNSgCiB7Y8X1V9zK6FAxqVuu.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "59aa6ca0c3a3682c4800abcd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2568,
+        "known_for_department": "Acting",
+        "name": "Folco Lulli",
+        "original_name": "Folco Lulli",
+        "popularity": 0.2481,
+        "profile_path": "/gfVZNKsHiLB9ihdBluvirsH0Pd7.jpg",
+        "cast_id": 26,
+        "character": "Togrul",
+        "credit_id": "59aa6cb1c3a3682c6200bc5b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24708,
+        "known_for_department": "Acting",
+        "name": "Renato Terra",
+        "original_name": "Renato Terra",
+        "popularity": 0.4127,
+        "profile_path": "/5thIpJOXN6sZrHWKm9rHKkeEzop.jpg",
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "59b3e15fc3a3684ebb014640",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52249,
+        "known_for_department": "Writing",
+        "name": "Sabatino Ciuffini",
+        "original_name": "Sabatino Ciuffini",
+        "popularity": 0.0938,
+        "profile_path": null,
+        "credit_id": "52fe4d3dc3a368484e1de611",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70862,
+        "known_for_department": "Directing",
+        "name": "Richard Thorpe",
+        "original_name": "Richard Thorpe",
+        "popularity": 0.3366,
+        "profile_path": "/szbaqa5qggPXjaLbNGb2JMgsoi3.jpg",
+        "credit_id": "52fe4d3dc3a368484e1de605",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1190714,
+        "known_for_department": "Writing",
+        "name": "Julian De Kassel",
+        "original_name": "Julian De Kassel",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "52fe4d3dc3a368484e1de629",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1128179,
+        "known_for_department": "Writing",
+        "name": "Gaio Fratini",
+        "original_name": "Gaio Fratini",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "credit_id": "52fe4d3dc3a368484e1de61d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52251,
+        "known_for_department": "Acting",
+        "name": "Oreste Palella",
+        "original_name": "Oreste Palella",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "credit_id": "52fe4d3dc3a368484e1de617",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1190713,
+        "known_for_department": "Writing",
+        "name": "Domenico Salvati",
+        "original_name": "Domenico Salvati",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "52fe4d3dc3a368484e1de60b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 52250,
+        "known_for_department": "Writing",
+        "name": "Ambrogio Molteni",
+        "original_name": "Ambrogio Molteni",
+        "popularity": 0.1506,
+        "profile_path": null,
+        "credit_id": "531382649251410ffc006416",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1281677,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giovanna Natili",
+        "original_name": "Giovanna Natili",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "584665d89251416a7401e2c3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1086953,
+        "known_for_department": "Camera",
+        "name": "Amerigo Gengarelli",
+        "original_name": "Amerigo Gengarelli",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "credit_id": "58466595925141042b00a60f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1281676,
+        "known_for_department": "Art",
+        "name": "Oscar D'Amico",
+        "original_name": "Oscar D'Amico",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "584665bfc3a36847f901fcd9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100054,
+        "known_for_department": "Directing",
+        "name": "Maurizio Lucidi",
+        "original_name": "Maurizio Lucidi",
+        "popularity": 0.3701,
+        "profile_path": null,
+        "credit_id": "584665b5c3a368466401f38f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1718802,
+        "known_for_department": "Art",
+        "name": "Antonio Fratalocchi",
+        "original_name": "Antonio Fratalocchi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "584665d1925141042b00a62d",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4416,
+        "known_for_department": "Sound",
+        "name": "Renzo Rossellini",
+        "original_name": "Renzo Rossellini",
+        "popularity": 0.0789,
+        "profile_path": "/roEI4WCBeyHvzCUIyp0OI8rHDWQ.jpg",
+        "credit_id": "5846658e9251410f58009f2a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1718800,
+        "known_for_department": "Production",
+        "name": "Riccardo Gualino",
+        "original_name": "Riccardo Gualino",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "58466586c3a3684903008ef9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1718801,
+        "known_for_department": "Art",
+        "name": "Pasquale Dal Pino",
+        "original_name": "Pasquale Dal Pino",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "584665c6925141676401f9d3",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "adult": false,
+  "backdrop_path": "/wgEM2n1Klad4wfBhuq2yp37ZvQq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 107524,
+  "imdb_id": "tt0025657",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Playful Pluto",
+  "overview": "Mickey's trying to do some yardwork, but Pluto wants to play. They end up indoors; Mickey breaks a screen, spreads flypaper, and they both get stuck.",
+  "popularity": 7.359,
+  "poster_path": "/tFrdQMex53zDFSneyZXJuJExiMA.jpg",
+  "production_companies": [
+    {
+      "id": 3166,
+      "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+      "name": "Walt Disney Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1934-03-03",
+  "revenue": 0,
+  "runtime": 8,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Pluto tries to help Mickey with some spring cleaning and leaf gathering.",
+  "title": "Playful Pluto",
+  "video": false,
+  "vote_average": 6.261,
+  "vote_count": 44,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2106,
+        "known_for_department": "Production",
+        "name": "Walt Disney",
+        "original_name": "Walt Disney",
+        "popularity": 0.9755,
+        "profile_path": "/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg",
+        "cast_id": 5,
+        "character": "Mickey Mouse (voice) (uncredited)",
+        "credit_id": "52fe4a81c3a36847f81d1d13",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5462,
+        "known_for_department": "Acting",
+        "name": "Pinto Colvig",
+        "original_name": "Pinto Colvig",
+        "popularity": 0.3885,
+        "profile_path": "/jslBLHuV1cOKsyx763CA1RqsrQU.jpg",
+        "cast_id": 6,
+        "character": "Pluto (voice) (uncredited)",
+        "credit_id": "52fe4a81c3a36847f81d1d17",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2889472,
+        "known_for_department": "Acting",
+        "name": "Lee Millar",
+        "original_name": "Lee Millar",
+        "popularity": 0.2076,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Pluto (voice) (uncredited)",
+        "credit_id": "653ae85c519bbb00fe5b312e",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2106,
+        "known_for_department": "Production",
+        "name": "Walt Disney",
+        "original_name": "Walt Disney",
+        "popularity": 0.9755,
+        "profile_path": "/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg",
+        "credit_id": "52fe4a81c3a36847f81d1d0f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5466,
+        "known_for_department": "Sound",
+        "name": "Frank Churchill",
+        "original_name": "Frank Churchill",
+        "popularity": 0.1135,
+        "profile_path": "/eIySi4mY4JtgOfKUADsvCCFm4CS.jpg",
+        "credit_id": "52fe4a81c3a36847f81d1d09",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150768,
+        "known_for_department": "Visual Effects",
+        "name": "Dick Lundy",
+        "original_name": "Dick Lundy",
+        "popularity": 0.327,
+        "profile_path": "/1ZOtBI746xrJErPiqUf2JFVUxu6.jpg",
+        "credit_id": "52fe4a81c3a36847f81d1d03",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122633,
+        "known_for_department": "Directing",
+        "name": "Burt Gillett",
+        "original_name": "Burt Gillett",
+        "popularity": 1.0565,
+        "profile_path": "/wCMnwuzTVyheJ9mGgHVhbdm2XFY.jpg",
+        "credit_id": "52fe4a81c3a36847f81d1d1d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 564042,
+        "known_for_department": "Writing",
+        "name": "Larry Morey",
+        "original_name": "Larry Morey",
+        "popularity": 2.1423,
+        "profile_path": null,
+        "credit_id": "653ae8715907de00fe1d78f4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2107,
+        "known_for_department": "Sound",
+        "name": "Paul J. Smith",
+        "original_name": "Paul J. Smith",
+        "popularity": 0.8067,
+        "profile_path": "/vzOKtpDdvLwr4EgwU4y60JFtmkF.jpg",
+        "credit_id": "653ae87fbc2cb300eafb8911",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226599,
+        "known_for_department": "Visual Effects",
+        "name": "Norman Ferguson",
+        "original_name": "Norman Ferguson",
+        "popularity": 0.7416,
+        "profile_path": "/fp0NPNlKl08kKbEgrlgvmxJJC7L.jpg",
+        "credit_id": "54e4b4d5925141139d000b64",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115754,
+        "known_for_department": "Visual Effects",
+        "name": "Les Clark",
+        "original_name": "Les Clark",
+        "popularity": 0.1095,
+        "profile_path": "/3MBRk8Nm3m5FG8hcVCXKWzGhnJS.jpg",
+        "credit_id": "555609efc3a368776c002938",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5692,
+        "known_for_department": "Visual Effects",
+        "name": "Art Babbitt",
+        "original_name": "Art Babbitt",
+        "popularity": 0.9347,
+        "profile_path": "/1BVYJHapPlRWrjo9dxjTHV5UxYc.jpg",
+        "credit_id": "55560a04c3a368776f003271",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148148,
+        "known_for_department": "Visual Effects",
+        "name": "Johnny Cannon",
+        "original_name": "Johnny Cannon",
+        "popularity": 0.0998,
+        "profile_path": null,
+        "credit_id": "55560a0c9251411e5b002c64",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64864,
+        "known_for_department": "Visual Effects",
+        "name": "Clyde Geronimi",
+        "original_name": "Clyde Geronimi",
+        "popularity": 0.4657,
+        "profile_path": "/eAeqN6fPYuzKjGRSaR2jqhSeeMq.jpg",
+        "credit_id": "55560a19c3a368778200313c",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  }
+}

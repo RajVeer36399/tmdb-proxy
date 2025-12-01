@@ -1,0 +1,346 @@
+{
+  "adult": false,
+  "backdrop_path": "/tOOfXpIKyY80kY108pwSgLozgRA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81245546",
+  "id": 741998,
+  "imdb_id": "tt10914452",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il legame",
+  "overview": "While visiting her fiancé's mother in southern Italy, a woman must fight the mysterious and malevolent curse intent on claiming her daughter.",
+  "popularity": 6.3884,
+  "poster_path": "/w5zUq6OgL87MARwReUUXABx1Xeo.jpg",
+  "production_companies": [
+    {
+      "id": 1533,
+      "logo_path": "/bMD3Zv15TujMXJwvqoTFY6Scexx.png",
+      "name": "Indigo Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 24692,
+      "logo_path": "/vqkijFnkJysUz1kZPAZoxmykoRF.png",
+      "name": "HT Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 119586,
+      "logo_path": null,
+      "name": "Lebowski",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2020-10-02",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Binding",
+  "video": false,
+  "vote_average": 5.442,
+  "vote_count": 250,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6859,
+        "known_for_department": "Acting",
+        "name": "Mía Maestro",
+        "original_name": "Mía Maestro",
+        "popularity": 0.6958,
+        "profile_path": "/qRbV2yIrviokWENK7yhzNGGiWrr.jpg",
+        "cast_id": 17,
+        "character": "Emma",
+        "credit_id": "5f77f9e51f748b003626fe7a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59270,
+        "known_for_department": "Acting",
+        "name": "Riccardo Scamarcio",
+        "original_name": "Riccardo Scamarcio",
+        "popularity": 1.1849,
+        "profile_path": "/s3ZAW6QA6yZaOx9wmAZfGZ1Z8BP.jpg",
+        "cast_id": 14,
+        "character": "Francesco",
+        "credit_id": "5f6c3f00c1ffbd0033d877e7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2107233,
+        "known_for_department": "Acting",
+        "name": "Giulia Patrignani",
+        "original_name": "Giulia Patrignani",
+        "popularity": 0.9871,
+        "profile_path": "/qNESWUMdhOFOlM06hP4DnuPCxb9.jpg",
+        "cast_id": 18,
+        "character": "Sofia",
+        "credit_id": "5f77f9fe9a64350039ad5671",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1024224,
+        "known_for_department": "Acting",
+        "name": "Mariella Lo Sardo",
+        "original_name": "Mariella Lo Sardo",
+        "popularity": 0.0855,
+        "profile_path": "/7HbZnF9ThqbcQlPw5UpULvXoxg.jpg",
+        "cast_id": 19,
+        "character": "Teresa",
+        "credit_id": "5f77fa161f748b003423d3c5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2801374,
+        "known_for_department": "Acting",
+        "name": "Raffaella D'Avella",
+        "original_name": "Raffaella D'Avella",
+        "popularity": 0.0484,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Sabrina",
+        "credit_id": "5f77fa293e2ec80036c8c32c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1882938,
+        "known_for_department": "Acting",
+        "name": "Federica Rosellini",
+        "original_name": "Federica Rosellini",
+        "popularity": 0.0552,
+        "profile_path": "/l3PJ6PRZSb3OSFqHX9KRYFlrllP.jpg",
+        "cast_id": 15,
+        "character": "Ada",
+        "credit_id": "5f6c3f05a0b69000374ea99b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200183,
+        "known_for_department": "Acting",
+        "name": "Sebastiano Filocamo",
+        "original_name": "Sebastiano Filocamo",
+        "popularity": 0.1291,
+        "profile_path": "/tW4PXKkV9ZT7vrw0rAHNMYsk7gL.jpg",
+        "cast_id": 16,
+        "character": "Don Gino",
+        "credit_id": "5f6c3f0ddbcade003925d486",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2436494,
+        "known_for_department": "Directing",
+        "name": "Domenico Emanuele de Feudis",
+        "original_name": "Domenico Emanuele de Feudis",
+        "popularity": 0.0322,
+        "profile_path": "/bFgBiULG5ze1mHw4Pa7dQ0nRjZq.jpg",
+        "credit_id": "5f5cdcea63d9370037b390de",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2436494,
+        "known_for_department": "Directing",
+        "name": "Domenico Emanuele de Feudis",
+        "original_name": "Domenico Emanuele de Feudis",
+        "popularity": 0.0322,
+        "profile_path": "/bFgBiULG5ze1mHw4Pa7dQ0nRjZq.jpg",
+        "credit_id": "5f5cdcf2fd7aa4003add0f37",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2436494,
+        "known_for_department": "Directing",
+        "name": "Domenico Emanuele de Feudis",
+        "original_name": "Domenico Emanuele de Feudis",
+        "popularity": 0.0322,
+        "profile_path": "/bFgBiULG5ze1mHw4Pa7dQ0nRjZq.jpg",
+        "credit_id": "5f5cdcf9bdc34c0038e8f7db",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2647315,
+        "known_for_department": "Sound",
+        "name": "Massimiliano Mechelli",
+        "original_name": "Massimiliano Mechelli",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5f6c3e65d55e4d003773cb42",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1998291,
+        "known_for_department": "Camera",
+        "name": "Luca Santagostino",
+        "original_name": "Luca Santagostino",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5f6c3eb7cb5c8e0036e84a01",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2677632,
+        "known_for_department": "Production",
+        "name": "Manuela De Santis",
+        "original_name": "Manuela De Santis",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5f6c3ec3d2c0c100356b99a2",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2759219,
+        "known_for_department": "Art",
+        "name": "Eugenia F. Di Napoli",
+        "original_name": "Eugenia F. Di Napoli",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "5f6c3ecafbe36f00364bdb5e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1151378,
+        "known_for_department": "Production",
+        "name": "Viola Prestieri",
+        "original_name": "Viola Prestieri",
+        "popularity": 0.654,
+        "profile_path": null,
+        "credit_id": "5f6c3ed146aed400388e16bb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933274,
+        "known_for_department": "Production",
+        "name": "Nicola Giuliano",
+        "original_name": "Nicola Giuliano",
+        "popularity": 0.906,
+        "profile_path": null,
+        "credit_id": "5f6c3edad2c0c100346e38a0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333166,
+        "known_for_department": "Production",
+        "name": "Gennaro Formisano",
+        "original_name": "Gennaro Formisano",
+        "popularity": 1.0515,
+        "profile_path": null,
+        "credit_id": "5f6c3ee1c1ffbd0036e89021",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 933273,
+        "known_for_department": "Production",
+        "name": "Francesca Cima",
+        "original_name": "Francesca Cima",
+        "popularity": 0.9688,
+        "profile_path": "/kygUwqeRSfrRVYv7ZK0UD8cHwbe.jpg",
+        "credit_id": "5f6c3ee8fbe36f0039485a0d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1341584,
+        "known_for_department": "Production",
+        "name": "Carlotta Calori",
+        "original_name": "Carlotta Calori",
+        "popularity": 0.0913,
+        "profile_path": "/iUqFcA1gxbkpbheuO4yTcVgLwRB.jpg",
+        "credit_id": "5f6c3eefa7e36300372cbefe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1986905,
+        "known_for_department": "Directing",
+        "name": "Davide Bertoni",
+        "original_name": "Davide Bertoni",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5f6c3ef7a7e363003629f90c",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

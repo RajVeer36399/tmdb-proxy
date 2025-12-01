@@ -1,0 +1,291 @@
+{
+  "adult": false,
+  "backdrop_path": "/3isUEFRBus5sX8bo8lhI04286U1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 50927,
+  "imdb_id": "tt0022994",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Helpmates",
+  "overview": "Ollie's house is a mess after a wild party from the previous night. Ollie receives a telegram from his wife (who is on vacation in Chicago), which tells him that she is returning home in the afternoon. Fearing his wife's wrath he calls Stan over to help him clean up. Things go downhill and they make more mess not less.",
+  "popularity": 5.8485,
+  "poster_path": "/4CucxeTSqx2KKL49NOwsIn8CFq7.jpg",
+  "production_companies": [
+    {
+      "id": 2159,
+      "logo_path": null,
+      "name": "Hal Roach Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1932-01-23",
+  "revenue": 0,
+  "runtime": 20,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Helpmates",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 78,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89670,
+        "known_for_department": "Acting",
+        "name": "Stan Laurel",
+        "original_name": "Stan Laurel",
+        "popularity": 1.0046,
+        "profile_path": "/eT15ERUT5T3CVyf2a9JD1VAzC6q.jpg",
+        "cast_id": 2,
+        "character": "Stan",
+        "credit_id": "52fe47dbc3a36847f814c18f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78057,
+        "known_for_department": "Acting",
+        "name": "Oliver Hardy",
+        "original_name": "Oliver Hardy",
+        "popularity": 0.9632,
+        "profile_path": "/qRMGQo5oWwcLpwgXSoArXK5riwe.jpg",
+        "cast_id": 3,
+        "character": "Ollie",
+        "credit_id": "52fe47dbc3a36847f814c193",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140817,
+        "known_for_department": "Acting",
+        "name": "Blanche Payson",
+        "original_name": "Blanche Payson",
+        "popularity": 0.1343,
+        "profile_path": "/xROiHT5bhgQgeibssJTa4Oox4X5.jpg",
+        "cast_id": 4,
+        "character": "Mrs. Hardy",
+        "credit_id": "55362203c3a36831dd00099a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121300,
+        "known_for_department": "Acting",
+        "name": "Bobby Burns",
+        "original_name": "Bobby Burns",
+        "popularity": 0.047,
+        "profile_path": "/nNp9JFUKAb9k30YzgKaIX5zjSCq.jpg",
+        "cast_id": 9,
+        "character": "Neighbor",
+        "credit_id": "56fd940a9251417bd9000147",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 324863,
+        "known_for_department": "Acting",
+        "name": "Bob Callahan",
+        "original_name": "Bob Callahan",
+        "popularity": 0.0512,
+        "profile_path": "/4G6Y5l8vnPGjgAkLjAiinNBwKkL.jpg",
+        "cast_id": 10,
+        "character": "Messenger",
+        "credit_id": "56fd941ac3a36864fa000116",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140815,
+        "known_for_department": "Directing",
+        "name": "James Parrott",
+        "original_name": "James Parrott",
+        "popularity": 0.1391,
+        "profile_path": "/AiUqKs5bK60SYN1EK0OFUUXyrhd.jpg",
+        "credit_id": "52fe47dbc3a36847f814c18b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1055287,
+        "known_for_department": "Sound",
+        "name": "Elmer Raguse",
+        "original_name": "Elmer Raguse",
+        "popularity": 0.6933,
+        "profile_path": "/hAa2h3NXkJYv7jEQurkrzMoSWRy.jpg",
+        "credit_id": "61ccd9cbe258600061f55f0f",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89738,
+        "known_for_department": "Sound",
+        "name": "Marvin Hatley",
+        "original_name": "Marvin Hatley",
+        "popularity": 0.7119,
+        "profile_path": null,
+        "credit_id": "61ccd9d7c995ee0066d077d4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131392,
+        "known_for_department": "Sound",
+        "name": "Leroy Shield",
+        "original_name": "Leroy Shield",
+        "popularity": 0.0831,
+        "profile_path": null,
+        "credit_id": "61ccd9e3bbcae00042bb4622",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131383,
+        "known_for_department": "Writing",
+        "name": "H.M. Walker",
+        "original_name": "H.M. Walker",
+        "popularity": 0.1361,
+        "profile_path": "/GHcZbXfVHagNUTn8M4V6Dut8IL.jpg",
+        "credit_id": "65aa881e7caa470128097a86",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89670,
+        "known_for_department": "Acting",
+        "name": "Stan Laurel",
+        "original_name": "Stan Laurel",
+        "popularity": 1.0046,
+        "profile_path": "/eT15ERUT5T3CVyf2a9JD1VAzC6q.jpg",
+        "credit_id": "65aa882968afd6012750e190",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78057,
+        "known_for_department": "Acting",
+        "name": "Oliver Hardy",
+        "original_name": "Oliver Hardy",
+        "popularity": 0.9632,
+        "profile_path": "/qRMGQo5oWwcLpwgXSoArXK5riwe.jpg",
+        "credit_id": "65aa882f6af8f80135be7b81",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140815,
+        "known_for_department": "Directing",
+        "name": "James Parrott",
+        "original_name": "James Parrott",
+        "popularity": 0.1391,
+        "profile_path": "/AiUqKs5bK60SYN1EK0OFUUXyrhd.jpg",
+        "credit_id": "65aa883b8d52c9012d81e336",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131406,
+        "known_for_department": "Acting",
+        "name": "Charley Rogers",
+        "original_name": "Charley Rogers",
+        "popularity": 0.1511,
+        "profile_path": "/idd27mJQDuxXGduMeM11qfznC77.jpg",
+        "credit_id": "65aa884a68afd6012750e19b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33223,
+        "known_for_department": "Production",
+        "name": "Hal Roach",
+        "original_name": "Hal Roach",
+        "popularity": 0.3509,
+        "profile_path": "/cV3xbMdZEQdNhHKdI9T6BL2PBSy.jpg",
+        "credit_id": "56fd93cdc3a368650c00013c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131410,
+        "known_for_department": "Camera",
+        "name": "Art Lloyd",
+        "original_name": "Art Lloyd",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "56fd93d69251417bd900013f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131389,
+        "known_for_department": "Editing",
+        "name": "Richard C. Currier",
+        "original_name": "Richard C. Currier",
+        "popularity": 0.3866,
+        "profile_path": "/5ZNQX170zRTZZOdcvQuWFp8jd3X.jpg",
+        "credit_id": "56fd93e29251417bd9000141",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "adult": false,
+  "backdrop_path": "/1p0xvz3eBcXx4I1QsU8MJct7znv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 49872,
+  "imdb_id": "tt0293832",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hansel & Gretel",
+  "overview": "Hansel and Gretel is a 2002 film adaptation of the Brothers Grimm children's story. It stars Jacob Smith and Taylor Momsen as the eponymous characters. It includes the Sandman, played by Howie Mandel and Sinbad as a raven.",
+  "popularity": 8.6929,
+  "poster_path": "/eNY4aIyVuYnQWu1dGWds0nGeCBO.jpg",
+  "production_companies": [
+    {
+      "id": 67871,
+      "logo_path": null,
+      "name": "Broomstick Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 67872,
+      "logo_path": null,
+      "name": "Majestic Film Partners",
+      "origin_country": ""
+    },
+    {
+      "id": 2636,
+      "logo_path": null,
+      "name": "Tag Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-10-16",
+  "revenue": 100477,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Magically Delicious! A Real Family Treat!",
+  "title": "Hansel & Gretel",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 42,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77920,
+        "known_for_department": "Acting",
+        "name": "Howie Mandel",
+        "original_name": "Howie Mandel",
+        "popularity": 1.2511,
+        "profile_path": "/lX5HyGJ6X6aVPwirx5Tt9CJcMzA.jpg",
+        "cast_id": 1,
+        "character": "The Sandman",
+        "credit_id": "52fe47acc3a36847f814226f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20480,
+        "known_for_department": "Acting",
+        "name": "Taylor Momsen",
+        "original_name": "Taylor Momsen",
+        "popularity": 2.049,
+        "profile_path": "/xhVLK5W5HvDpjwlVYztxizApNYq.jpg",
+        "cast_id": 2,
+        "character": "Gretel",
+        "credit_id": "52fe47acc3a36847f8142273",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9829,
+        "known_for_department": "Acting",
+        "name": "Jacob Smith",
+        "original_name": "Jacob Smith",
+        "popularity": 1.1431,
+        "profile_path": "/4uLv6wjfvMAUpTzomnLDAM7VM1M.jpg",
+        "cast_id": 3,
+        "character": "Hansel",
+        "credit_id": "52fe47acc3a36847f8142277",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34487,
+        "known_for_department": "Acting",
+        "name": "Delta Burke",
+        "original_name": "Delta Burke",
+        "popularity": 1.0187,
+        "profile_path": "/yfxtyiGXomUpDQXWjj60TmFIFHT.jpg",
+        "cast_id": 4,
+        "character": "Stepmother",
+        "credit_id": "52fe47acc3a36847f814227b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81395,
+        "known_for_department": "Acting",
+        "name": "Alana Austin",
+        "original_name": "Alana Austin",
+        "popularity": 1.2056,
+        "profile_path": "/cNqn4YdP2bMvTkZ9jOft82KPuiS.jpg",
+        "cast_id": 5,
+        "character": "Wood Faerie",
+        "credit_id": "52fe47acc3a36847f814227f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29512,
+        "known_for_department": "Acting",
+        "name": "Gerald McRaney",
+        "original_name": "Gerald McRaney",
+        "popularity": 1.0865,
+        "profile_path": "/eSh98sG5yTgXrYVTW6G8ptuQ3lj.jpg",
+        "cast_id": 6,
+        "character": "Father",
+        "credit_id": "52fe47acc3a36847f8142283",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29791,
+        "known_for_department": "Acting",
+        "name": "Lynn Redgrave",
+        "original_name": "Lynn Redgrave",
+        "popularity": 0.5328,
+        "profile_path": "/jIre1bJ2unStloUDFJNkUIpzA45.jpg",
+        "cast_id": 7,
+        "character": "Woman / Witch",
+        "credit_id": "52fe47acc3a36847f8142287",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 501,
+        "known_for_department": "Acting",
+        "name": "Dakota Fanning",
+        "original_name": "Dakota Fanning",
+        "popularity": 7.945,
+        "profile_path": "/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg",
+        "cast_id": 8,
+        "character": "Katie",
+        "credit_id": "52fe47acc3a36847f814228b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95024,
+        "known_for_department": "Acting",
+        "name": "Bobcat Goldthwait",
+        "original_name": "Bobcat Goldthwait",
+        "popularity": 1.2507,
+        "profile_path": "/dvx9ykvmZnpLJhXqdMx3rF00Mx7.jpg",
+        "cast_id": 9,
+        "character": "Troll (voice)",
+        "credit_id": "52fe47acc3a36847f814228f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57119,
+        "known_for_department": "Acting",
+        "name": "Sinbad",
+        "original_name": "Sinbad",
+        "popularity": 1.2117,
+        "profile_path": "/fxvKYnwFYjglBfWScjydrChRvwZ.jpg",
+        "cast_id": 10,
+        "character": "Raven (voice)",
+        "credit_id": "52fe47acc3a36847f8142293",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74036,
+        "known_for_department": "Acting",
+        "name": "Tom Arnold",
+        "original_name": "Tom Arnold",
+        "popularity": 0.8294,
+        "profile_path": "/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg",
+        "cast_id": 11,
+        "character": "Boogeyman (voice)",
+        "credit_id": "52fe47acc3a36847f8142297",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43774,
+        "known_for_department": "Acting",
+        "name": "Daniel Roebuck",
+        "original_name": "Daniel Roebuck",
+        "popularity": 1.3109,
+        "profile_path": "/y40aX3SdvUZwE7feNq77UMg3zge.jpg",
+        "cast_id": 14,
+        "character": "Dad",
+        "credit_id": "61fde1f9f6596f001bce11df",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62824,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gary J. Tunnicliffe",
+        "original_name": "Gary J. Tunnicliffe",
+        "popularity": 0.2107,
+        "profile_path": null,
+        "credit_id": "52fe47acc3a36847f814229d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93149,
+        "known_for_department": "Acting",
+        "name": "Brian Peck",
+        "original_name": "Brian Peck",
+        "popularity": 0.4697,
+        "profile_path": "/fx0ijJdSjd6wrAjhjoBS2gK9HNy.jpg",
+        "credit_id": "660c67e41495650163ba774f",
+        "department": "Crew",
+        "job": "Dialogue Coach"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2550184,
+        "known_for_department": "Crew",
+        "name": "Mary Peters",
+        "original_name": "Mary Peters",
+        "popularity": 0.2921,
+        "profile_path": "/rDazwQlKB5CIG8xUoD3lazInWoi.jpg",
+        "credit_id": "602497b3c2b9df003da31982",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1099982,
+        "known_for_department": "Sound",
+        "name": "Jonathan Bogner",
+        "original_name": "Jonathan Bogner",
+        "popularity": 0.0665,
+        "profile_path": null,
+        "credit_id": "68e6513795120cc67c29fc82",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62824,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gary J. Tunnicliffe",
+        "original_name": "Gary J. Tunnicliffe",
+        "popularity": 0.2107,
+        "profile_path": null,
+        "credit_id": "68e651477b37faa6a08a00eb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85476,
+        "known_for_department": "Writing",
+        "name": "Timothy Dolan",
+        "original_name": "Timothy Dolan",
+        "popularity": 0.2651,
+        "profile_path": null,
+        "credit_id": "68e6515b930722380aa04fd2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1099982,
+        "known_for_department": "Sound",
+        "name": "Jonathan Bogner",
+        "original_name": "Jonathan Bogner",
+        "popularity": 0.0665,
+        "profile_path": null,
+        "credit_id": "68e65196d6f3aa761ef852a3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 810040,
+        "known_for_department": "Production",
+        "name": "Steve Austin",
+        "original_name": "Steve Austin",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "68e651bfa0a061a91ba99674",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2621399,
+        "known_for_department": "Production",
+        "name": "Terry Kennedy",
+        "original_name": "Terry Kennedy",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68e651e7fe4c1a23017951ca",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2074346,
+        "known_for_department": "Sound",
+        "name": "Rusty Andrews",
+        "original_name": "Rusty Andrews",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "68e651ff6aa5d848b0795150",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137173,
+        "known_for_department": "Acting",
+        "name": "Robert Mothersbaugh",
+        "original_name": "Robert Mothersbaugh",
+        "popularity": 0.3147,
+        "profile_path": null,
+        "credit_id": "68e65217a03c301d8b3d70a6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125637,
+        "known_for_department": "Directing",
+        "name": "Brian Baugh",
+        "original_name": "Brian Baugh",
+        "popularity": 0.7077,
+        "profile_path": "/iubHdfTYaCm9Wt4uUj7MYyU5AjG.jpg",
+        "credit_id": "68e6522ffe4c1a23017951ce",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76454,
+        "known_for_department": "Editing",
+        "name": "Andrew Cohen",
+        "original_name": "Andrew Cohen",
+        "popularity": 0.3197,
+        "profile_path": "/kkUVzfhKwsYFF8KSgKzfMvhvBtm.jpg",
+        "credit_id": "68e6524ad4f7350b5829fc77",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1042653,
+        "known_for_department": "Art",
+        "name": "Deborah Raymond",
+        "original_name": "Deborah Raymond",
+        "popularity": 0.6225,
+        "profile_path": null,
+        "credit_id": "68e6525be81e2e33431eb318",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1070016,
+        "known_for_department": "Art",
+        "name": "Dorian Vernacchio",
+        "original_name": "Dorian Vernacchio",
+        "popularity": 0.1396,
+        "profile_path": null,
+        "credit_id": "68e65269018dba5c057475c2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1307549,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Julia Schklair",
+        "original_name": "Julia Schklair",
+        "popularity": 0.1946,
+        "profile_path": "/jYhzzIC99VxxWenwNyOXJKYzQCP.jpg",
+        "credit_id": "68e6527f179529826c74743a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2874,
+        "known_for_department": "Production",
+        "name": "Janet Hirshenson",
+        "original_name": "Janet Hirshenson",
+        "popularity": 1.0247,
+        "profile_path": "/btCygxvEn1lVKmbNOLl8TQBmBm8.jpg",
+        "credit_id": "68e6528ee6e1672d3ea0528a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3275,
+        "known_for_department": "Production",
+        "name": "Jane Jenkins",
+        "original_name": "Jane Jenkins",
+        "popularity": 0.2935,
+        "profile_path": "/aVOlC6UkKaxZpzvpdRxCjkMtJHI.jpg",
+        "credit_id": "68e6529dedd968e395a05011",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 928958,
+        "known_for_department": "Production",
+        "name": "Barbara Lockridge",
+        "original_name": "Barbara Lockridge",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "68e652b2e42317e9c2a99684",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  }
+}

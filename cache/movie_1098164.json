@@ -1,0 +1,347 @@
+{
+  "adult": false,
+  "backdrop_path": "/jwkappl2YX1KKbBR5QK8yVMj5xp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.netflix.com/es-en/title/81663413",
+  "id": 1098164,
+  "imdb_id": "tt27078772",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Lewis Capaldi: How I'm Feeling Now",
+  "overview": "An intimate, all-access documentary that will chronicle Lewis Capaldi's journey from a scrappy teen with a viral performance to a Grammy-nominated pop star.",
+  "popularity": 6.2371,
+  "poster_path": "/djaZtmMiKFp8zaclEaAyD8vHcvx.jpg",
+  "production_companies": [
+    {
+      "id": 57430,
+      "logo_path": "/4vWiIwU0RLJJMGiqqNUnQyBsVI5.png",
+      "name": "Pulse Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 48626,
+      "logo_path": "/NXZ7dlZxJjMUE1Hh8ZIpIrLMsQ.png",
+      "name": "BMG",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-04-05",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lewis Capaldi: How I'm Feeling Now",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 48,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2420875,
+        "known_for_department": "Acting",
+        "name": "Lewis Capaldi",
+        "original_name": "Lewis Capaldi",
+        "popularity": 0.5106,
+        "profile_path": "/hk01PxQk00yszIqrFdXVrucHyOu.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "640a8aa941a56100b28354d3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81113,
+        "known_for_department": "Acting",
+        "name": "Jeremy Clarkson",
+        "original_name": "Jeremy Clarkson",
+        "popularity": 0.574,
+        "profile_path": "/8tnYaTYfbSzmGyHeEeBCoNUzCdZ.jpg",
+        "cast_id": 8,
+        "character": "Self (archive footage)",
+        "credit_id": "644e80f1e22d280afec183f9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316240,
+        "known_for_department": "Acting",
+        "name": "Danny O'Donoghue",
+        "original_name": "Danny O'Donoghue",
+        "popularity": 0.378,
+        "profile_path": "/kKHtaI0TQ0heM6wjWzNzsKfxqpj.jpg",
+        "cast_id": 9,
+        "character": "Self (archive footage)",
+        "credit_id": "644e8116af58cb049512043f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 523,
+        "known_for_department": "Acting",
+        "name": "Tom Jones",
+        "original_name": "Tom Jones",
+        "popularity": 0.8284,
+        "profile_path": "/gP3WE86AGBTP70wuW083UcgymaG.jpg",
+        "cast_id": 10,
+        "character": "Self (archive footage)",
+        "credit_id": "644e811faf58cb02fb1203d3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58769,
+        "known_for_department": "Acting",
+        "name": "Stephen Colbert",
+        "original_name": "Stephen Colbert",
+        "popularity": 0.5831,
+        "profile_path": "/zQ6pvfqIqYiV4TB7lDoaJL52H93.jpg",
+        "cast_id": 11,
+        "character": "Self (archive footage)",
+        "credit_id": "644e812da6c1040bf8679fd3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44731,
+        "known_for_department": "Acting",
+        "name": "Jonathan Ross",
+        "original_name": "Jonathan Ross",
+        "popularity": 0.3504,
+        "profile_path": "/lHQNwKd8S96W1A4oUq3C2M9amZP.jpg",
+        "cast_id": 12,
+        "character": "Self (archive footage)",
+        "credit_id": "644e813ce22d280ca1c182a5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55466,
+        "known_for_department": "Acting",
+        "name": "James Corden",
+        "original_name": "James Corden",
+        "popularity": 1.7195,
+        "profile_path": "/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg",
+        "cast_id": 13,
+        "character": "Self (archive footage)",
+        "credit_id": "644e8144a6c1040bf8679fea",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72208,
+        "known_for_department": "Acting",
+        "name": "Alicia Keys",
+        "original_name": "Alicia Keys",
+        "popularity": 1.3246,
+        "profile_path": "/nPM0mhOgK971G3IPiALSGFDi7PL.jpg",
+        "cast_id": 14,
+        "character": "Self (archive footage)",
+        "credit_id": "644e8150af58cb02fb1203e5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2559618,
+        "known_for_department": "Acting",
+        "name": "Greg James",
+        "original_name": "Greg James",
+        "popularity": 0.1578,
+        "profile_path": "/7VogsN8jv9D9Hi0riFyuHuCnC17.jpg",
+        "cast_id": 15,
+        "character": "Self (archive footage)",
+        "credit_id": "644e815c35c30a0370614c4c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1908668,
+        "known_for_department": "Acting",
+        "name": "Roman Kemp",
+        "original_name": "Roman Kemp",
+        "popularity": 1.2286,
+        "profile_path": "/pBUoWBX2W30tGVrOlS41Phre2wZ.jpg",
+        "cast_id": 16,
+        "character": "Self (archive footage)",
+        "credit_id": "644e8164af58cb046b120482",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4036749,
+        "known_for_department": "Acting",
+        "name": "Sonny Jay",
+        "original_name": "Sonny Jay",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self (archive footage)",
+        "credit_id": "644e81744d23dd20d792e9c1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1709143,
+        "known_for_department": "Acting",
+        "name": "Sian Welby",
+        "original_name": "Sian Welby",
+        "popularity": 0.078,
+        "profile_path": "/kWjBYsMW0BB6tI2gveub5GPK8c9.jpg",
+        "cast_id": 18,
+        "character": "Self (archive footage)",
+        "credit_id": "644e8189a6c1041242677969",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1220340,
+        "known_for_department": "Acting",
+        "name": "Naga Munchetty",
+        "original_name": "Naga Munchetty",
+        "popularity": 0.0729,
+        "profile_path": "/mfkiRcz4ZQq1vwUrxKJcVTjtSHK.jpg",
+        "cast_id": 19,
+        "character": "Self (archive footage)",
+        "credit_id": "644e81b5e22d280d3ac183ab",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1930390,
+        "known_for_department": "Acting",
+        "name": "Charlie Stayt",
+        "original_name": "Charlie Stayt",
+        "popularity": 0.042,
+        "profile_path": "/qygwuECAlVj8SknAy7TyykiPHap.jpg",
+        "cast_id": 20,
+        "character": "Self (archive footage)",
+        "credit_id": "644e81c69affc01ffedf9c92",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2122937,
+        "known_for_department": "Directing",
+        "name": "Joe Pearlman",
+        "original_name": "Joe Pearlman",
+        "popularity": 0.6679,
+        "profile_path": null,
+        "credit_id": "640a8acd3a4a1200b6ea7cd0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2407377,
+        "known_for_department": "Directing",
+        "name": "Sebastian Feehan",
+        "original_name": "Sebastian Feehan",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "642da53b2dc44e01271197ca",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2273609,
+        "known_for_department": "Production",
+        "name": "Isabel Davis",
+        "original_name": "Isabel Davis",
+        "popularity": 1.3104,
+        "profile_path": null,
+        "credit_id": "642da5be2dc44e00beb03835",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2960773,
+        "known_for_department": "Sound",
+        "name": "Stephen Hodge",
+        "original_name": "Stephen Hodge",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "642da53158361b00d3390b92",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1365592,
+        "known_for_department": "Production",
+        "name": "Sam Bridger",
+        "original_name": "Sam Bridger",
+        "popularity": 0.3615,
+        "profile_path": null,
+        "credit_id": "642da5ca58361b00f2f0b307",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1914070,
+        "known_for_department": "Production",
+        "name": "Alice Rhodes",
+        "original_name": "Alice Rhodes",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "642da54b64765400d3ca3691",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

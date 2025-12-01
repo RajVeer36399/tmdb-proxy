@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/bmlG1PrtdsfIeKbLq8VE0QkIpG1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 244836,
+  "imdb_id": "tt0114097",
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_title": "Passeio com Johnny Guitar",
+  "overview": "Lord knows where João de Deus has been. He's come home wounded in the head. He's got a bit of the soundtrack to Johnny Guitar in his head. Strangely enough, there is no sign of the hole in his head. Day breaks over the city. Further strolls are in sight. It is said that Mr. Monteiro, the alter ego of João de Deus, occasionally goes out with Nicholas Ray. At least, they've been seen together.",
+  "popularity": 6.2126,
+  "poster_path": "/w4oUAtoWFQz3tMtgQ9E1L5HiYut.jpg",
+  "production_companies": [
+    {
+      "id": 11143,
+      "logo_path": null,
+      "name": "Madragoa Filmes",
+      "origin_country": "PT"
+    },
+    {
+      "id": 18861,
+      "logo_path": null,
+      "name": "G.E.R. (Grupo de Estudos e Realizações)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "1996-05-01",
+  "revenue": 0,
+  "runtime": 3,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Walk with Johnny Guitar",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 257772,
+        "known_for_department": "Directing",
+        "name": "João César Monteiro",
+        "original_name": "João César Monteiro",
+        "popularity": 0.2211,
+        "profile_path": "/vAGuQZ4Pa2sgfK92lV2QPGxraUl.jpg",
+        "cast_id": 2,
+        "character": "João de Deus",
+        "credit_id": "52fe4ef8c3a36847f82b437f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1280097,
+        "known_for_department": "Acting",
+        "name": "Ana Reis",
+        "original_name": "Ana Reis",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Girl at the window",
+        "credit_id": "52fe4ef8c3a36847f82b4383",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 257772,
+        "known_for_department": "Directing",
+        "name": "João César Monteiro",
+        "original_name": "João César Monteiro",
+        "popularity": 0.2211,
+        "profile_path": "/vAGuQZ4Pa2sgfK92lV2QPGxraUl.jpg",
+        "credit_id": "52fe4ef8c3a36847f82b437b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 940810,
+        "known_for_department": "Sound",
+        "name": "Joaquim Pinto",
+        "original_name": "Joaquim Pinto",
+        "popularity": 0.0524,
+        "profile_path": "/bJ8JGf7MV2Qyp13Dzq9ZsaOUerB.jpg",
+        "credit_id": "52fe4ef8c3a36847f82b4389",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1280098,
+        "known_for_department": "Editing",
+        "name": "João Nisa",
+        "original_name": "João Nisa",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe4ef8c3a36847f82b438f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35921,
+        "known_for_department": "Camera",
+        "name": "Dominique Chapuis",
+        "original_name": "Dominique Chapuis",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "52fe4ef8c3a36847f82b4395",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 257772,
+        "known_for_department": "Directing",
+        "name": "João César Monteiro",
+        "original_name": "João César Monteiro",
+        "popularity": 0.2211,
+        "profile_path": "/vAGuQZ4Pa2sgfK92lV2QPGxraUl.jpg",
+        "credit_id": "52fe4ef8c3a36847f82b43a1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213280,
+        "known_for_department": "Sound",
+        "name": "Henri Maïkoff",
+        "original_name": "Henri Maïkoff",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "credit_id": "5dac1d1f3d3557001670ce67",
+        "department": "Sound",
+        "job": "Sound Director"
+      }
+    ]
+  }
+}

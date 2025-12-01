@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1250064,
+  "imdb_id": null,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "A Desperate Vitality: The Films by Pier Paolo Pasolini",
+  "overview": "Movie about Pasolini by fellow gay auteur Constantine Giannaris",
+  "popularity": 5.8509,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 35651,
+      "logo_path": "/u2Z7kzR17N23Vj04TIwMsAxl9U1.png",
+      "name": "BBC Radio 2",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "1992-01-01",
+  "revenue": 0,
+  "runtime": 20,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Desperate Vitality: The Films by Pier Paolo Pasolini",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 941580,
+        "known_for_department": "Directing",
+        "name": "Constantine Giannaris",
+        "original_name": "Κωνσταντίνος Γιάνναρης",
+        "popularity": 0.8832,
+        "profile_path": "/7AuEqbztOusgNonBD3o1TE3pFf9.jpg",
+        "credit_id": "65db3d9500fb6b01864ceb27",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 941580,
+        "known_for_department": "Directing",
+        "name": "Constantine Giannaris",
+        "original_name": "Κωνσταντίνος Γιάνναρης",
+        "popularity": 0.8832,
+        "profile_path": "/7AuEqbztOusgNonBD3o1TE3pFf9.jpg",
+        "credit_id": "65db3d9c1750510187f9b990",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

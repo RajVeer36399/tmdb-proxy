@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/jUTQCr9fJvOHiUJjFifxZ1DLy0M.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 13904,
+  "imdb_id": "tt0995757",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Zomerhitte",
+  "overview": "Photographer Bob loses his girlfriend. A year later he meets Kathleen. Is she in love? Or does she use him for her dark dealings with the mafia?",
+  "popularity": 8.2306,
+  "poster_path": "/Uw0nwVbsBBqrTZmLKI8YVpSmUy.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2008-03-20",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Summer Heat",
+  "video": false,
+  "vote_average": 5.45,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87675,
+        "known_for_department": "Acting",
+        "name": "Waldemar Torenstra",
+        "original_name": "Waldemar Torenstra",
+        "popularity": 0.4763,
+        "profile_path": "/1Vcv7QE19LJPV2m1gd7ZL3351BJ.jpg",
+        "cast_id": 1,
+        "character": "Bob",
+        "credit_id": "52fe45b19251416c7505f309",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90978,
+        "known_for_department": "Acting",
+        "name": "Jelka van Houten",
+        "original_name": "Jelka van Houten",
+        "popularity": 0.3492,
+        "profile_path": "/ku5tSDws9h8Aek1f6SIfJf3yVtG.jpg",
+        "cast_id": 2,
+        "character": "Jara",
+        "credit_id": "52fe45b19251416c7505f30d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90981,
+        "known_for_department": "Acting",
+        "name": "Sophie Hilbrand",
+        "original_name": "Sophie Hilbrand",
+        "popularity": 0.1058,
+        "profile_path": "/1FuawFsuGk3TpfAGNiw7ta0u5mQ.jpg",
+        "cast_id": 3,
+        "character": "Kathleen",
+        "credit_id": "52fe45b19251416c7505f311",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41357,
+        "known_for_department": "Acting",
+        "name": "Jeroen Willems",
+        "original_name": "Jeroen Willems",
+        "popularity": 0.0952,
+        "profile_path": "/czHYyHIbuOBrL5pn2TNe64jkL1z.jpg",
+        "cast_id": 7,
+        "character": "Federico Federici",
+        "credit_id": "557b29a9c3a3683e95000075",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21445,
+        "known_for_department": "Acting",
+        "name": "Monique van de Ven",
+        "original_name": "Monique van de Ven",
+        "popularity": 1.1081,
+        "profile_path": "/h8eLWSkJr4dkphnA2joqlqTVsfO.jpg",
+        "credit_id": "52fe45b19251416c7505f317",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1319774,
+        "known_for_department": "Writing",
+        "name": "Jan Wolkers",
+        "original_name": "Jan Wolkers",
+        "popularity": 0.0764,
+        "profile_path": "/oJEn7AFLdXrrG8QLqbK7DzVCTpu.jpg",
+        "credit_id": "557b297e9251414f1d000058",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16670,
+        "known_for_department": "Acting",
+        "name": "Edwin de Vries",
+        "original_name": "Edwin de Vries",
+        "popularity": 0.1855,
+        "profile_path": "/vFedZozykBpVJntVhSU4HYqA055.jpg",
+        "credit_id": "557b298cc3a3683e8e000082",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

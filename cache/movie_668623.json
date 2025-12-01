@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.channel4.com/programmes/barrymore-the-body-in-the-pool",
+  "id": 668623,
+  "imdb_id": "tt11744784",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barrymore: The Body in the Pool",
+  "overview": "A  film following the events of March 2001 when 31-year-old Stuart Lubbock was found dead in the pool at TV presenter, Micheal Barrymore's, home in Roydon, Essex.",
+  "popularity": 4.6915,
+  "poster_path": "/yx29nkXrZJFortbw3yqVO2CrkhL.jpg",
+  "production_companies": [
+    {
+      "id": 5778,
+      "logo_path": "/2loyoQweDxvotH3AknfL2zhsthg.png",
+      "name": "Channel 4 Television",
+      "origin_country": "GB"
+    },
+    {
+      "id": 48439,
+      "logo_path": "/xRTA0PpuVnbiISBefJ5BKCzmslc.png",
+      "name": "KEO Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2020-02-06",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Barrymore: The Body in the Pool",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47989,
+        "known_for_department": "Acting",
+        "name": "Michael Barrymore",
+        "original_name": "Michael Barrymore",
+        "popularity": 1.3816,
+        "profile_path": "/d3fENT6J8m1GLvShZzLEWTZvjH1.jpg",
+        "cast_id": 2,
+        "character": "Himself (Archive)",
+        "credit_id": "5e3d7b6c43250f0015cb2961",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2619088,
+        "known_for_department": "Acting",
+        "name": "Mark Lawson",
+        "original_name": "Mark Lawson",
+        "popularity": 0.7996,
+        "profile_path": "/hpp7Sf3PjQG1nxMBkIaGnxc5MwA.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5f113c375e12000034677d53",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1451397,
+        "known_for_department": "Directing",
+        "name": "Tom Barrow",
+        "original_name": "Tom Barrow",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "5e354a4898f1f1001803db16",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

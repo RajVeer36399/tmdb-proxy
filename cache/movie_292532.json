@@ -1,0 +1,342 @@
+{
+  "adult": false,
+  "backdrop_path": "/o3aOmchAYXtPsabMhwNDOkq5VA.jpg",
+  "belongs_to_collection": null,
+  "budget": 500000,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 292532,
+  "imdb_id": "tt0235048",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wicked Spring",
+  "overview": "During the 1864 battle of the Wilderness, three Union soldiers and three Confederate Soldiers get seperated from their units as twilight engulfs the ravaged battlefield. The men wander alone through the dangerous woods, separate of each other, until they meet by chance on the banks of a quiet creek. The men meet and spend the night around a campfire, not realizing they are enemies until the next morning when the sun rises and a new day of battle begins.",
+  "popularity": 8.1393,
+  "poster_path": "/s9qtTzz7zcV6A9eMAz8Ml74TRON.jpg",
+  "production_companies": [
+    {
+      "id": 77172,
+      "logo_path": "/h29wMyK1OWD572SUoufzWT0sIQr.png",
+      "name": "LionHeart FilmWorks",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-03-02",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Six men... two armies... one dream",
+  "title": "Wicked Spring",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1575703,
+        "known_for_department": "Visual Effects",
+        "name": "Brian Merrick",
+        "original_name": "Brian Merrick",
+        "popularity": 0.4668,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Harrison Bolding",
+        "credit_id": "5741566ac3a368761b001c7e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57788,
+        "known_for_department": "Acting",
+        "name": "DJ Perry",
+        "original_name": "DJ Perry",
+        "popularity": 0.4099,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "John Sunderlin",
+        "credit_id": "5741568492514173b900195e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81307,
+        "known_for_department": "Acting",
+        "name": "Terry Jernigan",
+        "original_name": "Terry Jernigan",
+        "popularity": 0.0742,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "James McDavid Hogg",
+        "credit_id": "5741569dc3a368761b001c8e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20633,
+        "known_for_department": "Acting",
+        "name": "Aaron Jackson",
+        "original_name": "Aaron Jackson",
+        "popularity": 0.1352,
+        "profile_path": "/gajMGmXfGPPJesTdAoz1MTuHFGA.jpg",
+        "cast_id": 19,
+        "character": "After Stand Kennerly",
+        "credit_id": "5c4e434f925141544857efe8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6198,
+        "known_for_department": "Acting",
+        "name": "Vondie Curtis-Hall",
+        "original_name": "Vondie Curtis-Hall",
+        "popularity": 1.7635,
+        "profile_path": "/eJbwjnUB3VGGioAtQTmiYI4k7lH.jpg",
+        "cast_id": 8,
+        "character": "Augustus Elliot",
+        "credit_id": "574156ed92514107160000c9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623957,
+        "known_for_department": "Acting",
+        "name": "Mark Lacy",
+        "original_name": "Mark Lacy",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Pietro Brolo",
+        "credit_id": "5741570692514128f6002aae",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623958,
+        "known_for_department": "Acting",
+        "name": "Lindsey Ingram",
+        "original_name": "Lindsey Ingram",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Virginia Gordon",
+        "credit_id": "5741571d92514128f6002ab7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623959,
+        "known_for_department": "Acting",
+        "name": "Rebecca Lawlor",
+        "original_name": "Rebecca Lawlor",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Parthenia Sunderlin",
+        "credit_id": "57415733925141359c003d9b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623960,
+        "known_for_department": "Acting",
+        "name": "John Pagano",
+        "original_name": "John Pagano",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Confederate Major",
+        "credit_id": "5741574cc3a3685ee6004116",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 106141,
+        "known_for_department": "Acting",
+        "name": "Anthony Hornus",
+        "original_name": "Anthony Hornus",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Union Colonel Holden",
+        "credit_id": "57415765c3a368761b001cb5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623961,
+        "known_for_department": "Acting",
+        "name": "Jim Schruefer",
+        "original_name": "Jim Schruefer",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Harrison's Friend Jim",
+        "credit_id": "5741577d92514171790017f6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623962,
+        "known_for_department": "Acting",
+        "name": "Barry Privett",
+        "original_name": "Barry Privett",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "John's Friend Spencer",
+        "credit_id": "5741579792514171790017fd",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623964,
+        "known_for_department": "Acting",
+        "name": "Leonard J. Krawezyk",
+        "original_name": "Leonard J. Krawezyk",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Union General",
+        "credit_id": "574157b3c3a368761b001cc4",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623965,
+        "known_for_department": "Acting",
+        "name": "Leonard J. Krawczyk II",
+        "original_name": "Leonard J. Krawczyk II",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "General's Aide",
+        "credit_id": "574157ca92514173b900198d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623966,
+        "known_for_department": "Acting",
+        "name": "Mac Butler",
+        "original_name": "Mac Butler",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Union Courier",
+        "credit_id": "574157e1c3a3680727004689",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583115,
+        "known_for_department": "Directing",
+        "name": "Kevin R. Hershberger",
+        "original_name": "Kevin R. Hershberger",
+        "popularity": 0.1868,
+        "profile_path": "/yhufP1uLU5smYLRvkZZ6imB7EYl.jpg",
+        "credit_id": "57415620c3a368072700462f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583115,
+        "known_for_department": "Directing",
+        "name": "Kevin R. Hershberger",
+        "original_name": "Kevin R. Hershberger",
+        "popularity": 0.1868,
+        "profile_path": "/yhufP1uLU5smYLRvkZZ6imB7EYl.jpg",
+        "credit_id": "574155fa9251410716000097",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57788,
+        "known_for_department": "Acting",
+        "name": "DJ Perry",
+        "original_name": "DJ Perry",
+        "popularity": 0.4099,
+        "profile_path": null,
+        "credit_id": "57415636c3a3680736004d08",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583115,
+        "known_for_department": "Directing",
+        "name": "Kevin R. Hershberger",
+        "original_name": "Kevin R. Hershberger",
+        "popularity": 0.1868,
+        "profile_path": "/yhufP1uLU5smYLRvkZZ6imB7EYl.jpg",
+        "credit_id": "5741560592514173b9001945",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4133161,
+        "known_for_department": "Camera",
+        "name": "Kurt Parlow",
+        "original_name": "Kurt Parlow",
+        "popularity": 0.0755,
+        "profile_path": null,
+        "credit_id": "649a3816a6ddcb00c69e6f34",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      }
+    ]
+  }
+}

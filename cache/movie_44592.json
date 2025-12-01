@@ -1,0 +1,397 @@
+{
+  "adult": false,
+  "backdrop_path": "/iVvzZuBpagsgOGkaVkin9MDtCJU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 44592,
+  "imdb_id": "tt0043757",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lost Continent",
+  "overview": "When an experimental atomic rocket crashes somewhere off-radar, its three developing scientists are joined by three Air Force men in tracking it down to a small Pacific island, where it apparently has landed on the plateau of the island's steep-walled, taboo mountain...",
+  "popularity": 6.3244,
+  "poster_path": "/sXI8wCc5osqLWtfKsWuqztNPhpL.jpg",
+  "production_companies": [
+    {
+      "id": 5164,
+      "logo_path": null,
+      "name": "Sigmund Neufeld Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1951-08-17",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Monsters in a land that time forgot!",
+  "title": "Lost Continent",
+  "video": false,
+  "vote_average": 3.4,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4355,
+        "known_for_department": "Acting",
+        "name": "Cesar Romero",
+        "original_name": "Cesar Romero",
+        "popularity": 0.7732,
+        "profile_path": "/1UMk0r2rcMSpglnxd2QJMVgqZtI.jpg",
+        "cast_id": 2,
+        "character": "Maj. Joe Nolan",
+        "credit_id": "52fe4691c3a36847f81060ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14508,
+        "known_for_department": "Acting",
+        "name": "John Hoyt",
+        "original_name": "John Hoyt",
+        "popularity": 1.0132,
+        "profile_path": "/rtm0wKVwtsn8dyBHPQB9jWlSIcT.jpg",
+        "cast_id": 5,
+        "character": "Michael Rostov",
+        "credit_id": "52fe4691c3a36847f81060f9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38232,
+        "known_for_department": "Acting",
+        "name": "Hugh Beaumont",
+        "original_name": "Hugh Beaumont",
+        "popularity": 0.6667,
+        "profile_path": "/rRP51C3dZ0qTMdrCSDAcafiHT4L.jpg",
+        "cast_id": 9,
+        "character": "Robert Phillips",
+        "credit_id": "52fe4691c3a36847f8106109",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34286,
+        "known_for_department": "Acting",
+        "name": "Chick Chandler",
+        "original_name": "Chick Chandler",
+        "popularity": 0.2631,
+        "profile_path": "/glBfQuF3m63il8bsbfKzfQU2RBp.jpg",
+        "cast_id": 4,
+        "character": "Lt. Danny Wilson",
+        "credit_id": "52fe4691c3a36847f81060f5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94400,
+        "known_for_department": "Acting",
+        "name": "Sid Melton",
+        "original_name": "Sid Melton",
+        "popularity": 0.2569,
+        "profile_path": "/zvrLwPm8eR3ABsu31R91MOc68IP.jpg",
+        "cast_id": 7,
+        "character": "Sgt. Willie Tatlow",
+        "credit_id": "52fe4691c3a36847f8106101",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13786,
+        "known_for_department": "Acting",
+        "name": "Whit Bissell",
+        "original_name": "Whit Bissell",
+        "popularity": 0.5848,
+        "profile_path": "/ctpL0dPAv6n9ArbWRK1Cet0wvqk.jpg",
+        "cast_id": 8,
+        "character": "Stanley Briggs",
+        "credit_id": "52fe4691c3a36847f8106105",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8241,
+        "known_for_department": "Acting",
+        "name": "Hillary Brooke",
+        "original_name": "Hillary Brooke",
+        "popularity": 0.6043,
+        "profile_path": "/2R5hSW5KO1yCkLHj5MVe5dXlSSb.jpg",
+        "cast_id": 3,
+        "character": "Marla Stevens",
+        "credit_id": "52fe4691c3a36847f81060f1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14454,
+        "known_for_department": "Acting",
+        "name": "Murray Alper",
+        "original_name": "Murray Alper",
+        "popularity": 0.1822,
+        "profile_path": "/a6rLo8K41TpAHip1zSLsy58nRov.jpg",
+        "cast_id": 10,
+        "character": "Air Police Sergeant",
+        "credit_id": "52fe4691c3a36847f810610d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131056,
+        "known_for_department": "Acting",
+        "name": "Acquanetta",
+        "original_name": "Acquanetta",
+        "popularity": 0.2477,
+        "profile_path": "/7HRm5trH9ft8AzDrCkfVHsIckl2.jpg",
+        "cast_id": 6,
+        "character": "Native Girl",
+        "credit_id": "52fe4691c3a36847f81060fd",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52172,
+        "known_for_department": "Directing",
+        "name": "Sam Newfield",
+        "original_name": "Sam Newfield",
+        "popularity": 0.3761,
+        "profile_path": "/4SXjJuEUwmCLOfl9RKXqz0yO2dx.jpg",
+        "credit_id": "52fe4691c3a36847f81060e9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30040,
+        "known_for_department": "Writing",
+        "name": "Richard H. Landau",
+        "original_name": "Richard H. Landau",
+        "popularity": 0.2394,
+        "profile_path": null,
+        "credit_id": "57564ff09251416e300016fc",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223295,
+        "known_for_department": "Writing",
+        "name": "Carroll Young",
+        "original_name": "Carroll Young",
+        "popularity": 0.0955,
+        "profile_path": null,
+        "credit_id": "57564ff89251416e2d001768",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103355,
+        "known_for_department": "Writing",
+        "name": "Orville H. Hampton",
+        "original_name": "Orville H. Hampton",
+        "popularity": 0.2628,
+        "profile_path": null,
+        "credit_id": "57565000c3a3680cc4001885",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 932479,
+        "known_for_department": "Production",
+        "name": "Jack Leewood",
+        "original_name": "Jack Leewood",
+        "popularity": 0.2496,
+        "profile_path": null,
+        "credit_id": "575650089251416e280016d0",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70567,
+        "known_for_department": "Production",
+        "name": "Robert L. Lippert",
+        "original_name": "Robert L. Lippert",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "575650109251416e390016a9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52179,
+        "known_for_department": "Production",
+        "name": "Sigmund Neufeld",
+        "original_name": "Sigmund Neufeld",
+        "popularity": 0.0871,
+        "profile_path": null,
+        "credit_id": "57565019c3a3680cd70016f5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19965,
+        "known_for_department": "Sound",
+        "name": "Paul Dunlap",
+        "original_name": "Paul Dunlap",
+        "popularity": 0.5484,
+        "profile_path": null,
+        "credit_id": "575650219251416e2a0018e2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108431,
+        "known_for_department": "Camera",
+        "name": "Jack Greenhalgh",
+        "original_name": "Jack Greenhalgh",
+        "popularity": 0.4949,
+        "profile_path": null,
+        "credit_id": "57565028c3a3680cd5001953",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30412,
+        "known_for_department": "Editing",
+        "name": "Philip Cahn",
+        "original_name": "Philip Cahn",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "57565054c3a3680cc4001897",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118254,
+        "known_for_department": "Art",
+        "name": "Frank Paul Sylos",
+        "original_name": "Frank Paul Sylos",
+        "popularity": 0.1943,
+        "profile_path": null,
+        "credit_id": "5756505bc3a3680cca001834",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1343517,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Harry Ross",
+        "original_name": "Harry Ross",
+        "popularity": 0.3305,
+        "profile_path": null,
+        "credit_id": "57565071c3a3680cd7001707",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1605794,
+        "known_for_department": "Production",
+        "name": "Bert Sternbach",
+        "original_name": "Bert Sternbach",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "5756507d9251416e30001726",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20949,
+        "known_for_department": "Production",
+        "name": "Stanley Neufeld",
+        "original_name": "Stanley Neufeld",
+        "popularity": 0.1097,
+        "profile_path": null,
+        "credit_id": "575650a59251416e25001788",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10919,
+        "known_for_department": "Sound",
+        "name": "Fred Lau",
+        "original_name": "Fred Lau",
+        "popularity": 0.1208,
+        "profile_path": null,
+        "credit_id": "575650aec3a3680cd5001976",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1507551,
+        "known_for_department": "Crew",
+        "name": "Augie Lohman",
+        "original_name": "Augie Lohman",
+        "popularity": 0.1944,
+        "profile_path": null,
+        "credit_id": "575650b6c3a3680cda00181f",
+        "department": "Crew",
+        "job": "Special Effects"
+      }
+    ]
+  }
+}

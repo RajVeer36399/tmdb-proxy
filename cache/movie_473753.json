@@ -1,0 +1,323 @@
+{
+  "adult": false,
+  "backdrop_path": "/oxVQtRhghe8457Y3FFpqMUtc8Ij.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.beautifulthings.it/",
+  "id": 473753,
+  "imdb_id": "tt7343488",
+  "origin_country": [
+    "IT",
+    "CH"
+  ],
+  "original_language": "it",
+  "original_title": "Beautiful Things",
+  "overview": "A symphonic journey into our obsessive consumption. The many objects we accumulate begin their production journey in silent secluded industrial site where borderline men work in isolation without any interference. These men trigger, unconsciously, the long chain of creation, transport, commercialization and destruction of the objects feeding our bulimic lifestyle.",
+  "popularity": 12.1857,
+  "poster_path": "/u2sVWmQdRtYZhSPm5kWiJknb1BH.jpg",
+  "production_companies": [
+    {
+      "id": 17113,
+      "logo_path": null,
+      "name": "Mybosswas",
+      "origin_country": ""
+    },
+    {
+      "id": 49471,
+      "logo_path": null,
+      "name": "Zero Trans Fat Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2019-03-06",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Beautiful Things",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41352,
+        "known_for_department": "Acting",
+        "name": "Van Quattro",
+        "original_name": "Van Quattro",
+        "popularity": 0.8753,
+        "profile_path": "/3W7P7vvdf0HV6i1oL2fVRiULV7a.jpg",
+        "cast_id": 18,
+        "character": "Oil",
+        "credit_id": "62b0b45790ea4b0e49f9ad54",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1881389,
+        "known_for_department": "Acting",
+        "name": "Danilo Tribunal",
+        "original_name": "Danilo Tribunal",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "59ab21f9c3a3682c48017f3f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1881391,
+        "known_for_department": "Acting",
+        "name": "Andrea Pavoni Belli",
+        "original_name": "Andrea Pavoni Belli",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "59ab222192514107070195df",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1881392,
+        "known_for_department": "Acting",
+        "name": "Vito Mirizzi",
+        "original_name": "Vito Mirizzi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "59ab223c925141072f019f96",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1881393,
+        "known_for_department": "Acting",
+        "name": "Vittoria De Ferrari Sapetto",
+        "original_name": "Vittoria De Ferrari Sapetto",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Ballerina",
+        "credit_id": "59ab224bc3a3682cc8019bd4",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1881384,
+        "known_for_department": "Directing",
+        "name": "Giorgio Ferrero",
+        "original_name": "Giorgio Ferrero",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "59ab2004c3a3682c7c01ab22",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1881384,
+        "known_for_department": "Directing",
+        "name": "Giorgio Ferrero",
+        "original_name": "Giorgio Ferrero",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "5b2ab371c3a3683edc0012dc",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2069014,
+        "known_for_department": "Camera",
+        "name": "Federico Biasin",
+        "original_name": "Federico Biasin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5b2ab3520e0a264803001175",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899679,
+        "known_for_department": "Sound",
+        "name": "Rodolfo Mongitore",
+        "original_name": "Rodolfo Mongitore",
+        "popularity": 0.1165,
+        "profile_path": null,
+        "credit_id": "5b2ab35b9251417084000db6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1881384,
+        "known_for_department": "Directing",
+        "name": "Giorgio Ferrero",
+        "original_name": "Giorgio Ferrero",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "5b2ab343c3a3683e23001336",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2069015,
+        "known_for_department": "Editing",
+        "name": "Enrico Aleotti",
+        "original_name": "Enrico Aleotti",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5b2ab391c3a3683e1a000f6d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2069014,
+        "known_for_department": "Camera",
+        "name": "Federico Biasin",
+        "original_name": "Federico Biasin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5b2ab3790e0a26480e001129",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1881384,
+        "known_for_department": "Directing",
+        "name": "Giorgio Ferrero",
+        "original_name": "Giorgio Ferrero",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "5b2ab34c9251417090000f49",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2069014,
+        "known_for_department": "Camera",
+        "name": "Federico Biasin",
+        "original_name": "Federico Biasin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5b2ab389c3a3683e0b0013e2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1881384,
+        "known_for_department": "Directing",
+        "name": "Giorgio Ferrero",
+        "original_name": "Giorgio Ferrero",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "5b2ab3830e0a26482c001097",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2069016,
+        "known_for_department": "Editing",
+        "name": "Filippo Vallegra",
+        "original_name": "Filippo Vallegra",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5b2ab398c3a3683e23001375",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2069014,
+        "known_for_department": "Camera",
+        "name": "Federico Biasin",
+        "original_name": "Federico Biasin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5c8f64b3c3a3681c954b2dbe",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 979445,
+        "known_for_department": "Production",
+        "name": "Adam Donaghey",
+        "original_name": "Adam Donaghey",
+        "popularity": 1.0525,
+        "profile_path": "/ztDjo8QHafD2BdZxCOP2YFf4xp5.jpg",
+        "credit_id": "5c8f64d70e0a2612ef58722a",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

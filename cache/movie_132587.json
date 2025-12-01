@@ -1,0 +1,357 @@
+{
+  "adult": false,
+  "backdrop_path": "/bjhs7bLVFeoL5fSFjHkm3E5jrPI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 132587,
+  "imdb_id": "tt0093663",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Occultist",
+  "overview": "A cyborg private eye is hired to protect a Caribbean president visiting New York City. Unknown to him, the president's daughter is in league with his country's rebels who are trying to assassinate him.",
+  "popularity": 6.7611,
+  "poster_path": "/rJRTp8Gs8yuhbDvg6HBjZikFceN.jpg",
+  "production_companies": [
+    {
+      "id": 5126,
+      "logo_path": null,
+      "name": "Beyond Infinity",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-11-01",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Private dick without a brain.",
+  "title": "The Occultist",
+  "video": false,
+  "vote_average": 4.4,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99356,
+        "known_for_department": "Acting",
+        "name": "Rick Gianasi",
+        "original_name": "Rick Gianasi",
+        "popularity": 0.1831,
+        "profile_path": "/y24AyUMfwfii85TvOdT09WY4tjS.jpg",
+        "cast_id": 1,
+        "character": "Waldo Warren",
+        "credit_id": "56892439c3a3684bcc028882",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1557533,
+        "known_for_department": "Acting",
+        "name": "Joe Derrig",
+        "original_name": "Joe Derrig",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Barney Sanford",
+        "credit_id": "5689244992514132db024cae",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1557534,
+        "known_for_department": "Acting",
+        "name": "Richard Mooney",
+        "original_name": "Richard Mooney",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Harold Llewellyn",
+        "credit_id": "5689245c9251417e6300e6cf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1557535,
+        "known_for_department": "Acting",
+        "name": "Jennifer Kanter",
+        "original_name": "Jennifer Kanter",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Anjanette Davalos",
+        "credit_id": "56892473c3a368227b01bc5d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1781461,
+        "known_for_department": "Acting",
+        "name": "Mizan Nunes",
+        "original_name": "Mizan Nunes",
+        "popularity": 0.0703,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Marianna Davalos",
+        "credit_id": "58d1cdf79251411af4012b90",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99037,
+        "known_for_department": "Acting",
+        "name": "Matt Mitler",
+        "original_name": "Matt Mitler",
+        "popularity": 0.3881,
+        "profile_path": "/jdeeo4jzWekpfyabmWhOUxisSVM.jpg",
+        "cast_id": 6,
+        "character": "Colonel Esteve",
+        "credit_id": "58d1ce01c3a36838c9012fc4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36193,
+        "known_for_department": "Acting",
+        "name": "Anibal O. Lleras",
+        "original_name": "Anibal O. Lleras",
+        "popularity": 0.7968,
+        "profile_path": "/wqWoayLLTsXe80Vw2KJ5oWTxsDK.jpg",
+        "cast_id": 7,
+        "character": "President Davalos",
+        "credit_id": "58d1ce0fc3a3683908010f7e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 932200,
+        "known_for_department": "Acting",
+        "name": "Betty Vaughn",
+        "original_name": "Betty Vaughn",
+        "popularity": 0.5441,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Mama Dora",
+        "credit_id": "58d1ce219251411a9f012dea",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9209,
+        "known_for_department": "Acting",
+        "name": "Daphne Rubin-Vega",
+        "original_name": "Daphne Rubin-Vega",
+        "popularity": 0.758,
+        "profile_path": "/pbldgdHKhncPZLkyS5AE2ntqqA0.jpg",
+        "cast_id": 9,
+        "character": "Simone (as Daphne)",
+        "credit_id": "58d1ce319251411ab5012d84",
+        "order": 8
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1781462,
+        "known_for_department": "Acting",
+        "name": "Jeffrey R. Iorio",
+        "original_name": "Jeffrey R. Iorio",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Assassin",
+        "credit_id": "58d1ce73c3a3683908010fd9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1680292,
+        "known_for_department": "Acting",
+        "name": "Miriam Zucker",
+        "original_name": "Miriam Zucker",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "T.V. Reporter",
+        "credit_id": "58d1ce7d9251411ad8012672",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 156154,
+        "known_for_department": "Acting",
+        "name": "Robert DiTillio",
+        "original_name": "Robert DiTillio",
+        "popularity": 0.1465,
+        "profile_path": "/tBYRGU2Pjxq5YfPY7RbRkdZHvQk.jpg",
+        "cast_id": 12,
+        "character": "Surveillance Guard",
+        "credit_id": "58d1ce899251411ad801267d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16588,
+        "known_for_department": "Acting",
+        "name": "Christopher Grant",
+        "original_name": "Christopher Grant",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Terrorist",
+        "credit_id": "6834832161f1fefb8beb3606",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 128796,
+        "known_for_department": "Production",
+        "name": "Cynthia De Paula",
+        "original_name": "Cynthia De Paula",
+        "popularity": 0.0682,
+        "profile_path": null,
+        "credit_id": "650ef065f29d6600e2579f6f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74681,
+        "known_for_department": "Writing",
+        "name": "J. Larry Carroll",
+        "original_name": "J. Larry Carroll",
+        "popularity": 0.1229,
+        "profile_path": null,
+        "credit_id": "650ef060f29d6600ff3bbb20",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1207163,
+        "known_for_department": "Camera",
+        "name": "Arthur D. Marks",
+        "original_name": "Arthur D. Marks",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "650ef08526dac1014e216259",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19707,
+        "known_for_department": "Production",
+        "name": "Charles Band",
+        "original_name": "Charles Band",
+        "popularity": 1.1057,
+        "profile_path": "/mfTZ5yBOLqxdJ4YG0kHaA5rY0G4.jpg",
+        "credit_id": "650ef0706f53e10aa7ae749a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 128795,
+        "known_for_department": "Directing",
+        "name": "Tim Kincaid",
+        "original_name": "Tim Kincaid",
+        "popularity": 1.389,
+        "profile_path": "/niZznHoEzP77yfaBu5AcVAvKSuf.jpg",
+        "credit_id": "5689241dc3a36860750266e0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2670118,
+        "known_for_department": "Editing",
+        "name": "Joe Keiser",
+        "original_name": "Joe Keiser",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "credit_id": "5edd8a639c24fc002168d123",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 128795,
+        "known_for_department": "Directing",
+        "name": "Tim Kincaid",
+        "original_name": "Tim Kincaid",
+        "popularity": 1.389,
+        "profile_path": "/niZznHoEzP77yfaBu5AcVAvKSuf.jpg",
+        "credit_id": "5edd8a431dcb77001d02dc36",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31626,
+        "known_for_department": "Sound",
+        "name": "Carl Dante",
+        "original_name": "Carl Dante",
+        "popularity": 0.3173,
+        "profile_path": null,
+        "credit_id": "5edd8a549c24fc0020688deb",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

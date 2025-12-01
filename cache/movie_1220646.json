@@ -1,0 +1,434 @@
+{
+  "adult": false,
+  "backdrop_path": "/5gjq6xtEW9B9OUZoYIsGGKqC3eI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1220646,
+  "imdb_id": "tt28356173",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Beurk !",
+  "overview": "Yuck. Couples kissing on the mouth are gross. And the worst is, you can't miss them: when people are about to kiss, their lips become all pink and shiny. Little Léo laughs at them, just like all the kids at the summer camp. But he has a secret he won't tell his friends: his own mouth has actually begun glistening. And, in reality, Léo desperately wants to give kissing a try.",
+  "popularity": 8.2125,
+  "poster_path": "/fdDkTqzjMS63PowQ1lluMg8A2QS.jpg",
+  "production_companies": [
+    {
+      "id": 94752,
+      "logo_path": "/cNg6uSRpzMeFDqlM2PpVVlZMhlK.png",
+      "name": "Ikki Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 163404,
+      "logo_path": "/f5LLrF4O1hwrzCqfFTpYVg0buON.png",
+      "name": "Iliade et Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-02-20",
+  "revenue": 0,
+  "runtime": 14,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Yuck!",
+  "video": false,
+  "vote_average": 7.083,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2891903,
+        "known_for_department": "Acting",
+        "name": "Noé Chabbat",
+        "original_name": "Noé Chabbat",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Léo (voice)",
+        "credit_id": "6593f401ebb99d5ec29f21c2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3912170,
+        "known_for_department": "Acting",
+        "name": "Katell Varvat",
+        "original_name": "Katell Varvat",
+        "popularity": 0.0507,
+        "profile_path": "/bsslhhBMrtAZxZoDpLDk7c9vUds.jpg",
+        "cast_id": 4,
+        "character": "Lucie (voice)",
+        "credit_id": "6593f4081dcb776b19469478",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460419,
+        "known_for_department": "Acting",
+        "name": "Enzo Desmedt",
+        "original_name": "Enzo Desmedt",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "The Little Brother (voice)",
+        "credit_id": "6593f40f069f0e43d521941c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460420,
+        "known_for_department": "Acting",
+        "name": "Camille Bouisson",
+        "original_name": "Camille Bouisson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "The Little Sister (voice)",
+        "credit_id": "6593f416a589027119976f2a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460421,
+        "known_for_department": "Acting",
+        "name": "Hugo Chauvel",
+        "original_name": "Hugo Chauvel",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "The Camping Buddy (voice)",
+        "credit_id": "6593f41d1cac8c64410c7115",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2863351,
+        "known_for_department": "Acting",
+        "name": "Roman Freud",
+        "original_name": "Roman Freud",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Messi (voice)",
+        "credit_id": "6593f423e004a66cec18a174",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3990995,
+        "known_for_department": "Acting",
+        "name": "Mattias Marcussy",
+        "original_name": "Mattias Marcussy",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Ronaldo (voice)",
+        "credit_id": "6593f42a1cac8c651e0c4255",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460422,
+        "known_for_department": "Acting",
+        "name": "Mokhtar Camara",
+        "original_name": "Mokhtar Camara",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Mbappé (voice)",
+        "credit_id": "6593f432e004a66cec18a181",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460423,
+        "known_for_department": "Acting",
+        "name": "Olivia Chatain",
+        "original_name": "Olivia Chatain",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Léo's Mother (voice)",
+        "credit_id": "6593f43fce4ddc6e647ddf57",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672596,
+        "known_for_department": "Acting",
+        "name": "Théo Costa-Marini",
+        "original_name": "Théo Costa-Marini",
+        "popularity": 0.2125,
+        "profile_path": "/sudh3ObdoNGrwcgwC55seJZfqbB.jpg",
+        "cast_id": 12,
+        "character": "Léo's Father (voice)",
+        "credit_id": "6593f449028f1477bbc60c3b",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672597,
+        "known_for_department": "Directing",
+        "name": "Loïc Espuche",
+        "original_name": "Loïc Espuche",
+        "popularity": 0.0506,
+        "profile_path": null,
+        "credit_id": "6583468fea7b0e51fa27117c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672597,
+        "known_for_department": "Directing",
+        "name": "Loïc Espuche",
+        "original_name": "Loïc Espuche",
+        "popularity": 0.0506,
+        "profile_path": null,
+        "credit_id": "6593f3f86aa8e061abec5523",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3753785,
+        "known_for_department": "Production",
+        "name": "Juliette Marquet",
+        "original_name": "Juliette Marquet",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66a44bbf2016244cb37c052f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851537,
+        "known_for_department": "Sound",
+        "name": "Aliénor Doublet",
+        "original_name": "Aliénor Doublet",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "66a44bb3b6b7edaf760692f6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1823863,
+        "known_for_department": "Production",
+        "name": "Manon Messiant",
+        "original_name": "Manon Messiant",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "credit_id": "66a44bcbd5d39d81c05ff9ac",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3485212,
+        "known_for_department": "Production",
+        "name": "Florian Delhormeau",
+        "original_name": "Florian Delhormeau",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "66a44bdbf4571f42d786d0ed",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3363645,
+        "known_for_department": "Editing",
+        "name": "Marina Amaro",
+        "original_name": "Marina Amaro",
+        "popularity": 1.0253,
+        "profile_path": null,
+        "credit_id": "67a76132bf0a9f6f54e06d07",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672597,
+        "known_for_department": "Directing",
+        "name": "Loïc Espuche",
+        "original_name": "Loïc Espuche",
+        "popularity": 0.0506,
+        "profile_path": null,
+        "credit_id": "67a7616bbf0a9f6f54e06d0e",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1730235,
+        "known_for_department": "Directing",
+        "name": "Hugues Opter",
+        "original_name": "Hugues Opter",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67a76196bf0a9f6f54e06d24",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672597,
+        "known_for_department": "Directing",
+        "name": "Loïc Espuche",
+        "original_name": "Loïc Espuche",
+        "popularity": 0.0506,
+        "profile_path": null,
+        "credit_id": "67a761d81729ffa1cae06921",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2533620,
+        "known_for_department": "Sound",
+        "name": "Elias Boughedir",
+        "original_name": "Elias Boughedir",
+        "popularity": 0.0814,
+        "profile_path": null,
+        "credit_id": "67a7620d269f0bc4f5f11b53",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2231958,
+        "known_for_department": "Sound",
+        "name": "Grégoire Chauvot",
+        "original_name": "Grégoire Chauvot",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "credit_id": "67a76226269f0bc4f5f11b5e",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3416070,
+        "known_for_department": "Sound",
+        "name": "Paul Claeys",
+        "original_name": "Paul Claeys",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67a76247ad2758bac5f1138e",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1688638,
+        "known_for_department": "Sound",
+        "name": "Axel Demeyere",
+        "original_name": "Axel Demeyere",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "67a7628abf0a9f6f54e06d7b",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1965742,
+        "known_for_department": "Sound",
+        "name": "Corvo Lepesant-Lamari",
+        "original_name": "Corvo Lepesant-Lamari",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67a762b02287f3b917c8a6c3",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646497,
+        "known_for_department": "Sound",
+        "name": "Gilles Marsalet",
+        "original_name": "Gilles Marsalet",
+        "popularity": 0.9389,
+        "profile_path": null,
+        "credit_id": "67c75348a762c536f040a1ae",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2244483,
+        "known_for_department": "Sound",
+        "name": "Maxime Roy",
+        "original_name": "Maxime Roy",
+        "popularity": 0.1027,
+        "profile_path": "/aIqlCx2VJ4lABLhOY7PdSnlGI43.jpg",
+        "credit_id": "68faafe70484a93e84467365",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  }
+}

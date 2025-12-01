@@ -1,0 +1,479 @@
+{
+  "adult": false,
+  "backdrop_path": "/8dVKOpBNhI3cUWN0wA3MgWuPTly.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 13319,
+  "imdb_id": "tt0454457",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Frostbiten",
+  "overview": "Vampires terrorize a city in Norrbotten, Sweden.",
+  "popularity": 9.6116,
+  "poster_path": "/uddXdHkiEq6MuzMqcmPHJZ1SokM.jpg",
+  "production_companies": [
+    {
+      "id": 3376,
+      "logo_path": null,
+      "name": "Cinepost Studios",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2006-02-24",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dawn is a month away.",
+  "title": "Frostbitten",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 73,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 82324,
+        "known_for_department": "Acting",
+        "name": "Petra Nielsen",
+        "original_name": "Petra Nielsen",
+        "popularity": 0.1658,
+        "profile_path": "/A8Li4Ezj3MXKt64g4e8Eh2RVYV.jpg",
+        "cast_id": 5,
+        "character": "Annika",
+        "credit_id": "52fe455b9251416c75053a57",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 82325,
+        "known_for_department": "Acting",
+        "name": "Carl-Åke Eriksson",
+        "original_name": "Carl-Åke Eriksson",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Professor Gerhard Beckert",
+        "credit_id": "52fe455b9251416c75053a5b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 82326,
+        "known_for_department": "Acting",
+        "name": "Grete Havnesköld",
+        "original_name": "Grete Havnesköld",
+        "popularity": 0.6024,
+        "profile_path": "/vQxqvksMEPW5PpfZ8ONswn6mwJ7.jpg",
+        "cast_id": 7,
+        "character": "Saga",
+        "credit_id": "52fe455b9251416c75053a5f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 82327,
+        "known_for_department": "Acting",
+        "name": "Emma Åberg",
+        "original_name": "Emma Åberg",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Vega (as Emma T. Åberg)",
+        "credit_id": "52fe455b9251416c75053a63",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 82328,
+        "known_for_department": "Acting",
+        "name": "Jonas Lawes",
+        "original_name": "Jonas Lawes",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Robert",
+        "credit_id": "52fe455b9251416c75053a67",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 82329,
+        "known_for_department": "Acting",
+        "name": "Niklas Grönberg",
+        "original_name": "Niklas Grönberg",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "John",
+        "credit_id": "52fe455b9251416c75053a6b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 82330,
+        "known_for_department": "Acting",
+        "name": "Gustav Johansson",
+        "original_name": "Gustav Johansson",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Joel",
+        "credit_id": "52fe455b9251416c75053a6f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 82331,
+        "known_for_department": "Acting",
+        "name": "Linnea Jonsson",
+        "original_name": "Linnea Jonsson",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Cissi",
+        "credit_id": "52fe455b9251416c75053a73",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 82332,
+        "known_for_department": "Acting",
+        "name": "Nour El Refai",
+        "original_name": "Nour El Refai",
+        "popularity": 0.1621,
+        "profile_path": "/dSvOGEVZbYtqvJ2I5CuglM1luUG.jpg",
+        "cast_id": 13,
+        "character": "Cornelia",
+        "credit_id": "52fe455b9251416c75053a77",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82333,
+        "known_for_department": "Acting",
+        "name": "Jonas Karlström",
+        "original_name": "Jonas Karlström",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Sebastian",
+        "credit_id": "52fe455b9251416c75053a7b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74713,
+        "known_for_department": "Acting",
+        "name": "Måns Nathanaelson",
+        "original_name": "Måns Nathanaelson",
+        "popularity": 0.6169,
+        "profile_path": "/odsoIbXzhLK69NynBIuLBcHWkEj.jpg",
+        "cast_id": 15,
+        "character": "Lukas",
+        "credit_id": "52fe455b9251416c75053a7f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4546426,
+        "known_for_department": "Acting",
+        "name": "Anders Johansson",
+        "original_name": "Anders Johansson",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "6864717cba668004d1d1251c",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 82320,
+        "known_for_department": "Directing",
+        "name": "Anders Banke",
+        "original_name": "Anders Banke",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "52fe455b9251416c75053a47",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82322,
+        "known_for_department": "Writing",
+        "name": "Daniel Ojanlatva",
+        "original_name": "Daniel Ojanlatva",
+        "popularity": 0.0522,
+        "profile_path": null,
+        "credit_id": "52fe455b9251416c75053a4d",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82323,
+        "known_for_department": "Writing",
+        "name": "Pidde Andersson",
+        "original_name": "Pidde Andersson",
+        "popularity": 0.0357,
+        "profile_path": "/kKoaK5irS1Jy1qlwfkxesIOuoFj.jpg",
+        "credit_id": "52fe455b9251416c75053a53",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1155054,
+        "known_for_department": "Sound",
+        "name": "Josef Tuulse",
+        "original_name": "Josef Tuulse",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "6088631b904f6d00588086d1",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3069880,
+        "known_for_department": "Sound",
+        "name": "Jonathan Walter",
+        "original_name": "Jonathan Walter",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6088634f0c27100028626a49",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2121154,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Charlott Wolke",
+        "original_name": "Charlott Wolke",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "60886361da10f0007976d60e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2953975,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paola Billberg Johansson",
+        "original_name": "Paola Billberg Johansson",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "6088637955c926002b7cae4a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2669578,
+        "known_for_department": "Art",
+        "name": "Malin Kihlberg",
+        "original_name": "Malin Kihlberg",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "60886386da10f0007976d644",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3069882,
+        "known_for_department": "Editing",
+        "name": "Kiko C.C. Sjöberg",
+        "original_name": "Kiko C.C. Sjöberg",
+        "popularity": 0.042,
+        "profile_path": null,
+        "credit_id": "6088639ce19de90029f682b6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1000828,
+        "known_for_department": "Crew",
+        "name": "Chris Maris",
+        "original_name": "Chris Maris",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "608863bb2dda89002be6a5fc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203245,
+        "known_for_department": "Sound",
+        "name": "Anthony Lledo",
+        "original_name": "Anthony Lledo",
+        "popularity": 0.0511,
+        "profile_path": "/a9SZ1qUNL2S5RR6r2FuxBTPYJFP.jpg",
+        "credit_id": "608863c6da10f0007976d6a9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6331,
+        "known_for_department": "Production",
+        "name": "Göran Lindström",
+        "original_name": "Göran Lindström",
+        "popularity": 0.3676,
+        "profile_path": null,
+        "credit_id": "608863d484448e004126763e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 111392,
+        "known_for_department": "Production",
+        "name": "Magnus Paulsson",
+        "original_name": "Magnus Paulsson",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "608863e6b6abc4003fa37bdc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1635822,
+        "known_for_department": "Visual Effects",
+        "name": "Janak Thakker",
+        "original_name": "Janak Thakker",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68fe511a647bd7307a2aa8f0",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2088817,
+        "known_for_department": "Visual Effects",
+        "name": "Jonas Forsman",
+        "original_name": "Jonas Forsman",
+        "popularity": 0.0286,
+        "profile_path": "/17nvXEgYmXSUKR2pegreKWkxR2t.jpg",
+        "credit_id": "68fe5122647bd7307a2aa8f3",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5774907,
+        "known_for_department": "Visual Effects",
+        "name": "Michael Bazhutkin",
+        "original_name": "Michael Bazhutkin",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68fe513d0b145efb452aab9b",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2787886,
+        "known_for_department": "Crew",
+        "name": "Ilya Vostrov",
+        "original_name": "Илья Востров",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68fe5145c6f47d6cff9faf62",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1843749,
+        "known_for_department": "Visual Effects",
+        "name": "Andrey Emelyanov",
+        "original_name": "Андрей Емельянов",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "credit_id": "68fe514f239f36974eeaaf65",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  }
+}

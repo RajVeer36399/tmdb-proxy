@@ -1,0 +1,166 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1136167,
+  "imdb_id": null,
+  "origin_country": [
+    "CH"
+  ],
+  "original_language": "de",
+  "original_title": "A.R.U. - Die Türsteher",
+  "overview": "Portraits of the bouncers of the Flamingo Club in Zurich.",
+  "popularity": 5.5066,
+  "poster_path": "/bVtVia08B83XOjvMbGo5H3DWIoN.jpg",
+  "production_companies": [
+    {
+      "id": 201499,
+      "logo_path": null,
+      "name": "SFGZ Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "1993-01-01",
+  "revenue": 0,
+  "runtime": 22,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A.R.U. - Die Türsteher",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 101471,
+        "known_for_department": "Acting",
+        "name": "Eric Falk",
+        "original_name": "Eric Falk",
+        "popularity": 3.158,
+        "profile_path": "/dDVnezuAiJYrMrAoESXXLPwPINU.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "647d1aba263462011661b26c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4097434,
+        "known_for_department": "Acting",
+        "name": "Remo Michel",
+        "original_name": "Remo Michel",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "647d1acc17497300fb3b9033",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4097435,
+        "known_for_department": "Acting",
+        "name": "Adriano Breitschmid",
+        "original_name": "Adriano Breitschmid",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "647d1ad8e323f30148174e0d",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4097436,
+        "known_for_department": "Directing",
+        "name": "Stefan Meichtry",
+        "original_name": "Stefan Meichtry",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "647d1b050fb39800fb0c2fa5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4097436,
+        "known_for_department": "Directing",
+        "name": "Stefan Meichtry",
+        "original_name": "Stefan Meichtry",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "647d1afb0e29a200bf1f919e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4097438,
+        "known_for_department": "Sound",
+        "name": "Sabine Boss",
+        "original_name": "Sabine Boss",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "647d1b52e323f300e52527fb",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018881,
+        "known_for_department": "Camera",
+        "name": "Pierre Mennel",
+        "original_name": "Pierre Mennel",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "647d1b140fb39800a79f3c0d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4097437,
+        "known_for_department": "Sound",
+        "name": "Irina Mach-Pausch",
+        "original_name": "Irina Mach-Pausch",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "647d1b24cf4b8b00c3d2da7f",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  }
+}

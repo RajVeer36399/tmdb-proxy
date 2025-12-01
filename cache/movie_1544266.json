@@ -1,0 +1,400 @@
+{
+  "adult": false,
+  "backdrop_path": "/xC4xgHimdcwcoQ3V83foTBHI3vu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.jcfilms.org/webelieve",
+  "id": 1544266,
+  "imdb_id": "tt34695076",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "We Believe",
+  "overview": "WE BELIEVE remembers the story of Bill Hanlin, who in 1963, coached the St. Marys Football Team to an undefeated and unscored season. The film also tells a modern day story of Coach Jodi Mote, who has coached the St. Mary’s Blue Devil’s high school football team for over two decades. The film shares their life stories and boasts three important things: faith, family, and football.",
+  "popularity": 5.9665,
+  "poster_path": "/oK6Rw9aCxGLff0hIbmrRwGsJTxE.jpg",
+  "production_companies": [
+    {
+      "id": 112350,
+      "logo_path": "/sES78QueD3qJ3CG8dezySKzBkVa.png",
+      "name": "JCFilms",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-11-24",
+  "revenue": 0,
+  "runtime": 78,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "We Believe",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681033,
+        "known_for_department": "Acting",
+        "name": "Kathy A. Bates",
+        "original_name": "Kathy A. Bates",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Heather",
+        "credit_id": "68c0f9fff23d3e3203948709",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21721,
+        "known_for_department": "Acting",
+        "name": "Dean Cain",
+        "original_name": "Dean Cain",
+        "popularity": 2.2157,
+        "profile_path": "/vVBqgo0BJQVreLZaIW8tHI8hXYZ.jpg",
+        "cast_id": 6,
+        "character": "Announcer #1",
+        "credit_id": "68c0fa557c22ace9274e6e63",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681035,
+        "known_for_department": "Acting",
+        "name": "Addison Dattilo",
+        "original_name": "Addison Dattilo",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Lucas",
+        "credit_id": "68c0fa77c414af4dca948445",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681036,
+        "known_for_department": "Acting",
+        "name": "Christian Dattilo",
+        "original_name": "Christian Dattilo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Trey Morgan",
+        "credit_id": "68c0fa99ed4c3c544c06acfc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1197244,
+        "known_for_department": "Acting",
+        "name": "Julie Wallace Deklavon",
+        "original_name": "Julie Wallace Deklavon",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Mandy Mote",
+        "credit_id": "68c0fab24e058dc0fe9c121d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681038,
+        "known_for_department": "Acting",
+        "name": "Eddie McClintock",
+        "original_name": "Eddie McClintock",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Jodi Mote",
+        "credit_id": "68c0facc46a23182a29c1266",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1232728,
+        "known_for_department": "Acting",
+        "name": "Jim McMahon",
+        "original_name": "Jim McMahon",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Annoucer #2",
+        "credit_id": "68c0fb0b10647f072c1bd682",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3396088,
+        "known_for_department": "Acting",
+        "name": "Larry Orton",
+        "original_name": "Larry Orton",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Coach Bill Hanlin",
+        "credit_id": "68c0fb2839edc42a531bd587",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681039,
+        "known_for_department": "Acting",
+        "name": "Willow Peyton",
+        "original_name": "Willow Peyton",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Madi",
+        "credit_id": "68c0fb42de6563fdec8cfee0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4902198,
+        "known_for_department": "Acting",
+        "name": "Kate Reindel",
+        "original_name": "Kate Reindel",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Bri",
+        "credit_id": "68c0fb5cd14b5c8b829bd2ab",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2205269,
+        "known_for_department": "Acting",
+        "name": "Michael Sigler",
+        "original_name": "Michael Sigler",
+        "popularity": 0.2785,
+        "profile_path": "/dXPhMoUkdNsaI3uX1YVfyHjJkRM.jpg",
+        "cast_id": 15,
+        "character": "Pastor Jason",
+        "credit_id": "68c0fb7cb5e9c25e5798c8df",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681041,
+        "known_for_department": "Acting",
+        "name": "John Mark Wood",
+        "original_name": "John Mark Wood",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Ralph",
+        "credit_id": "68c0fb90f71a6264ec1bd7c5",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1974658,
+        "known_for_department": "Production",
+        "name": "Jason Campbell",
+        "original_name": "Jason Campbell",
+        "popularity": 0.6324,
+        "profile_path": null,
+        "credit_id": "68c0f941ad9314daf68cfbdc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681025,
+        "known_for_department": "Acting",
+        "name": "Jodi Mote",
+        "original_name": "Jodi Mote",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "68c0f9500788cf8e8b948509",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1974658,
+        "known_for_department": "Production",
+        "name": "Jason Campbell",
+        "original_name": "Jason Campbell",
+        "popularity": 0.6324,
+        "profile_path": null,
+        "credit_id": "68c0f9683493335daa1f5ffb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681027,
+        "known_for_department": "Writing",
+        "name": "Mandy Mote",
+        "original_name": "Mandy Mote",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "68c0f97ee5b0c6eb7d948a80",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1967247,
+        "known_for_department": "Camera",
+        "name": "Troy Bakewell",
+        "original_name": "Troy Bakewell",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "68c0fbfb577236088a1bd661",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681045,
+        "known_for_department": "Editing",
+        "name": "Mark Davis",
+        "original_name": "Mark Davis",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68c0fcbf1db6f1cff898c981",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681047,
+        "known_for_department": "Production",
+        "name": "Melissa Hallmark",
+        "original_name": "Melissa Hallmark",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "68c0fd104604258c058cfb52",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681048,
+        "known_for_department": "Sound",
+        "name": "Elijah Kearns",
+        "original_name": "Elijah Kearns",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68c0fd30a04c22fb9794858a",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4604817,
+        "known_for_department": "Camera",
+        "name": "Josiah Kearns",
+        "original_name": "Josiah Kearns",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68c0fd5d60c9900124948393",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4581945,
+        "known_for_department": "Acting",
+        "name": "Elijah Passmore",
+        "original_name": "Elijah Passmore",
+        "popularity": 0.0718,
+        "profile_path": "/gawz8xypKOSLqy6igxSMwFkaeDw.jpg",
+        "credit_id": "68c0fd76577236088a1bd66b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681045,
+        "known_for_department": "Editing",
+        "name": "Mark Davis",
+        "original_name": "Mark Davis",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68c0fdcb934c154ceb8cfd76",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681045,
+        "known_for_department": "Editing",
+        "name": "Mark Davis",
+        "original_name": "Mark Davis",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68c0fded88213c5ba71bd7ce",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681045,
+        "known_for_department": "Editing",
+        "name": "Mark Davis",
+        "original_name": "Mark Davis",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68c0fe0625f494771c4e7078",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  }
+}

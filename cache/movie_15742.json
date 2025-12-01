@@ -1,0 +1,554 @@
+{
+  "adult": false,
+  "backdrop_path": "/sZuuEKmEdd9Emn6QIW4WiHrRjSk.jpg",
+  "belongs_to_collection": null,
+  "budget": 2400000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.taxidermia.at",
+  "id": 15742,
+  "imdb_id": "tt0410730",
+  "origin_country": [
+    "AT",
+    "FR",
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Taxidermia",
+  "overview": "Set over three generations and beginning with a sexually frustrated orderly during WWII who relieves his tensions in the most outlandish, gross ways. The result of his liaison is a glutton who grows up to be a champion speed eater. He produces a child who becomes obsessed with taxidermy.",
+  "popularity": 8.277,
+  "poster_path": "/uRqxKim0Vr1JZPLYcR1rjFtu74p.jpg",
+  "production_companies": [
+    {
+      "id": 2665,
+      "logo_path": null,
+      "name": "Amour Fou Filmproduktion",
+      "origin_country": ""
+    },
+    {
+      "id": 16016,
+      "logo_path": null,
+      "name": "Eurofilm Stúdió",
+      "origin_country": "HU"
+    },
+    {
+      "id": 16017,
+      "logo_path": null,
+      "name": "La Cinéfacture",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1615,
+      "logo_path": "/4eBmyaFkD9um04Weu6ybnLWNSVH.png",
+      "name": "Fortissimo Films",
+      "origin_country": "NL"
+    },
+    {
+      "id": 10949,
+      "logo_path": "/2JOR75Gaz14Vzim0XSTSCmGFYsD.png",
+      "name": "Memento Films International",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11967,
+      "logo_path": null,
+      "name": "Nemzeti Kulturális Örökség Minisztériuma",
+      "origin_country": ""
+    },
+    {
+      "id": 11968,
+      "logo_path": null,
+      "name": "Magyar Mozgókép Közalapítány",
+      "origin_country": ""
+    },
+    {
+      "id": 19135,
+      "logo_path": null,
+      "name": "Duna Televízió",
+      "origin_country": ""
+    },
+    {
+      "id": 11389,
+      "logo_path": "/eKVLElq1XAbcCcwnVj89G9EXRGB.png",
+      "name": "OFI",
+      "origin_country": "AT"
+    },
+    {
+      "id": 850,
+      "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+      "name": "Eurimages",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2006-08-23",
+  "revenue": 82567,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Three stories. Three generations. Three men. One bizarre and shocking universe.",
+  "title": "Taxidermia",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 334,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1348127,
+        "known_for_department": "Acting",
+        "name": "Csaba Czene",
+        "original_name": "Csaba Czene",
+        "popularity": 0.0609,
+        "profile_path": "/f1qOLJv9360fX1DPPEK33WWdEqK.jpg",
+        "cast_id": 19,
+        "character": "Morosgoványi Vendel",
+        "credit_id": "5cbd6b1fc3a36872c988d933",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2294245,
+        "known_for_department": "Acting",
+        "name": "Gergely Trócsányi",
+        "original_name": "Gergely Trócsányi",
+        "popularity": 0.501,
+        "profile_path": "/xfJFe18RYMLj3AP8k7Is0ujbrOI.jpg",
+        "cast_id": 20,
+        "character": "Kálmán Balatony",
+        "credit_id": "5cbd6b269251410671f925c5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1194754,
+        "known_for_department": "Acting",
+        "name": "Marc Bischoff",
+        "original_name": "Marc Bischoff",
+        "popularity": 0.1431,
+        "profile_path": "/gdWWE17SL2h9GFBinCOz3aIyH2I.jpg",
+        "cast_id": 21,
+        "character": "Lajos Balatony",
+        "credit_id": "5cbd6b2dc3a368694c874e0e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1515629,
+        "known_for_department": "Acting",
+        "name": "István Gyuricza",
+        "original_name": "István Gyuricza",
+        "popularity": 0.0707,
+        "profile_path": "/woh8xOtHGMLrN0mJePL8g5wKaBt.jpg",
+        "cast_id": 23,
+        "character": "Hadnagy",
+        "credit_id": "5cbd6b3cc3a368145880a59f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125382,
+        "known_for_department": "Acting",
+        "name": "Piroska Molnár",
+        "original_name": "Piroska Molnár",
+        "popularity": 0.2245,
+        "profile_path": "/zYVaQl2dwTpeoOgJN49dEL8hIsK.jpg",
+        "cast_id": 4,
+        "character": "Hadnagyné",
+        "credit_id": "52fe46799251416c7507978d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125401,
+        "known_for_department": "Acting",
+        "name": "Gábor Máté",
+        "original_name": "Gábor Máté",
+        "popularity": 0.2215,
+        "profile_path": "/6EF2PNZxvNsEvr1qg7q4aYMkVxW.jpg",
+        "cast_id": 25,
+        "character": "Öreg Balatony Kálmán",
+        "credit_id": "636a23911e9225007a6e8744",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1390714,
+        "known_for_department": "Acting",
+        "name": "Géza D. Hegedűs",
+        "original_name": "Géza D. Hegedűs",
+        "popularity": 0.0877,
+        "profile_path": "/owixge0WJGqxHqOicodPTb6KcMc.jpg",
+        "cast_id": 26,
+        "character": "Dr. Regõczy Andor",
+        "credit_id": "636a23da9f1be7007ec9430c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 183168,
+        "known_for_department": "Acting",
+        "name": "István Hunyadkürthy",
+        "original_name": "István Hunyadkürthy",
+        "popularity": 0.6728,
+        "profile_path": "/sPqCg86FFueGqFvaDodDb3en4ww.jpg",
+        "cast_id": 27,
+        "character": "Jenõ bá",
+        "credit_id": "636a245c4c1bb0007ac49901",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3775677,
+        "known_for_department": "Acting",
+        "name": "Zoltán Koppány",
+        "original_name": "Zoltán Koppány",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Miszlényi Béla",
+        "credit_id": "636a24bb66565a007a45fc79",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3775678,
+        "known_for_department": "Acting",
+        "name": "Adél Stanczel",
+        "original_name": "Adél Stanczel",
+        "popularity": 0.0476,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Aczél Gizi",
+        "credit_id": "636a2510e7c097007aece933",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 932258,
+        "known_for_department": "Acting",
+        "name": "Mária Bodor",
+        "original_name": "Mária Bodor",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Bába",
+        "credit_id": "52fe46799251416c75079791",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 932259,
+        "known_for_department": "Acting",
+        "name": "Albert Oláh",
+        "original_name": "Albert Oláh",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Segéd",
+        "credit_id": "52fe46799251416c75079795",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 932260,
+        "known_for_department": "Acting",
+        "name": "Sándor Hamar ",
+        "original_name": "Sándor Hamar",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Böllér",
+        "credit_id": "52fe46799251416c75079799",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932261,
+        "known_for_department": "Acting",
+        "name": "János Gyuriska",
+        "original_name": "János Gyuriska",
+        "popularity": 0.0536,
+        "profile_path": "/qDdcBKRkGWIgvzEIMzvcjy4EV8g.jpg",
+        "cast_id": 8,
+        "character": "Fiatal Hadnagy",
+        "credit_id": "52fe46799251416c7507979d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1435034,
+        "known_for_department": "Acting",
+        "name": "Gina Moreno",
+        "original_name": "Gina Moreno",
+        "popularity": 0.0377,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Ferike",
+        "credit_id": "5cbd6b33c3a3686b0b8e230a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1573782,
+        "known_for_department": "Acting",
+        "name": "Julia Papp",
+        "original_name": "Julia Papp",
+        "popularity": 0.0414,
+        "profile_path": "/nvnIqHV8WCGE2Gyk5u5Cyf61GD0.jpg",
+        "cast_id": 24,
+        "character": "Dancer",
+        "credit_id": "5fdb8546b6c264004004669c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3970,
+        "known_for_department": "Acting",
+        "name": "Erwin Leder",
+        "original_name": "Erwin Leder",
+        "popularity": 0.3164,
+        "profile_path": "/4V6ewUr0KAMl8C2xvWvg8JPjsab.jpg",
+        "cast_id": 30,
+        "character": "Krisztián",
+        "credit_id": "66c5cd49256c20244a714888",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81078,
+        "known_for_department": "Directing",
+        "name": "György Pálfi",
+        "original_name": "György Pálfi",
+        "popularity": 1.2243,
+        "profile_path": "/iZUOKp6V7u6G2NRTEOf3Rw0kMwU.jpg",
+        "credit_id": "52fe46799251416c75079783",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564793,
+        "known_for_department": "Production",
+        "name": "Alexander Dumreicher-Ivanceanu",
+        "original_name": "Alexander Dumreicher-Ivanceanu",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c750797a3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 932257,
+        "known_for_department": "Writing",
+        "name": "Zsófia Ruttkay",
+        "original_name": "Zsófia Ruttkay",
+        "popularity": 0.1115,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c75079789",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1196264,
+        "known_for_department": "Production",
+        "name": "Emilie Georges",
+        "original_name": "Emilie Georges",
+        "popularity": 0.0759,
+        "profile_path": "/t0nisQcqvGR9LvTY4PWwZZj6UcJ.jpg",
+        "credit_id": "52fe46799251416c750797a9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81078,
+        "known_for_department": "Directing",
+        "name": "György Pálfi",
+        "original_name": "György Pálfi",
+        "popularity": 1.2243,
+        "profile_path": "/iZUOKp6V7u6G2NRTEOf3Rw0kMwU.jpg",
+        "credit_id": "52fe46799251416c7507977d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564794,
+        "known_for_department": "Production",
+        "name": "Gabriele Kranzelbinder",
+        "original_name": "Gabriele Kranzelbinder",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c750797af",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 49669,
+        "known_for_department": "Editing",
+        "name": "Réka Lemhényi",
+        "original_name": "Réka Lemhényi",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c750797d9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130879,
+        "known_for_department": "Sound",
+        "name": "Amon Tobin",
+        "original_name": "Amon Tobin",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c750797cd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556736,
+        "known_for_department": "Camera",
+        "name": "Gergely Pohárnok",
+        "original_name": "Gergely Pohárnok",
+        "popularity": 1.439,
+        "profile_path": "/vGSbuC8CVLhjpuMokn0vtHkXYgU.jpg",
+        "credit_id": "52fe46799251416c750797d3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76468,
+        "known_for_department": "Production",
+        "name": "Gábor Váradi",
+        "original_name": "Gábor Váradi",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c750797c1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10877,
+        "known_for_department": "Production",
+        "name": "Alexandre Mallet-Guy",
+        "original_name": "Alexandre Mallet-Guy",
+        "popularity": 0.0569,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c750797b5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52378,
+        "known_for_department": "Production",
+        "name": "Péter Miskolczi",
+        "original_name": "Péter Miskolczi",
+        "popularity": 0.135,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c750797bb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1196265,
+        "known_for_department": "Sound",
+        "name": "Albert Márkos",
+        "original_name": "Albert Márkos",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "52fe46799251416c750797c7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

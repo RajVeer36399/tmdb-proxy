@@ -1,0 +1,548 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 405870,
+  "imdb_id": "tt0051197",
+  "origin_country": [
+    "BR",
+    "XG",
+    "SU"
+  ],
+  "original_language": "de",
+  "original_title": "Die Windrose",
+  "overview": "An international anthology about the struggles of female workers around the world.",
+  "popularity": 5.7462,
+  "poster_path": "/jGBY6ycMtHA73rSE5WqB4g9Qgm1.jpg",
+  "production_companies": [
+    {
+      "id": 118245,
+      "logo_path": null,
+      "name": "Cinematográfica Maristela",
+      "origin_country": ""
+    },
+    {
+      "id": 72750,
+      "logo_path": "/bDdeZdCvlm67f3t2tbs7sNFtJxm.png",
+      "name": "DEFA-Studio für Dokumentarfilme",
+      "origin_country": "XG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1957-03-08",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Wind Rose",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2565,
+        "known_for_department": "Acting",
+        "name": "Yves Montand",
+        "original_name": "Yves Montand",
+        "popularity": 0.6799,
+        "profile_path": "/wewmvQm200D2jD14G4YjSmg0WVb.jpg",
+        "cast_id": 11,
+        "character": "Yves (archive footage)",
+        "credit_id": "57832cccc3a3680dd40032ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12266,
+        "known_for_department": "Acting",
+        "name": "Simone Signoret",
+        "original_name": "Simone Signoret",
+        "popularity": 1.1152,
+        "profile_path": "/vRI2Vt3HX911uDrVK170waQsL8b.jpg",
+        "cast_id": 12,
+        "character": "Jeanine (archive footage)",
+        "credit_id": "57832cd892514171a2006045",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1016707,
+        "known_for_department": "Acting",
+        "name": "Vanja Orico",
+        "original_name": "Vanja Orico",
+        "popularity": 0.0629,
+        "profile_path": "/lwbHrD9HhcIso5lcWTxegQLgLjl.jpg",
+        "cast_id": 13,
+        "character": "Ana (Brazilian Segment) (archive footage)",
+        "credit_id": "57832cebc3a3680d300035be",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1170421,
+        "known_for_department": "Acting",
+        "name": "Marlene França",
+        "original_name": "Marlene França",
+        "popularity": 0.0755,
+        "profile_path": "/6ZJSAJt5e0S2wSeC2LlGMPBe8Lx.jpg",
+        "cast_id": 15,
+        "character": "Retirante (Brazilian Segment) (archive footage)",
+        "credit_id": "57832d0c925141742a003383",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 553531,
+        "known_for_department": "Acting",
+        "name": "Aracy Cardoso",
+        "original_name": "Aracy Cardoso",
+        "popularity": 0.0413,
+        "profile_path": "/p3w4Funf1ZF4yQs8eXRNIkUTDiu.jpg",
+        "cast_id": 16,
+        "character": "Retirante grávida (Brazilian Segment) (archive footage)",
+        "credit_id": "57832d16925141720d00614f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1143363,
+        "known_for_department": "Acting",
+        "name": "Aurélio Teixeira",
+        "original_name": "Aurélio Teixeira",
+        "popularity": 0.0327,
+        "profile_path": "/8SoBWOSKtNbN9QbtwnS9lid2O1I.jpg",
+        "cast_id": 20,
+        "character": "Motorista (Brazilian Segment) (archive footage)",
+        "credit_id": "57832d5dc3a368611f0064a5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175177,
+        "known_for_department": "Acting",
+        "name": "Miguel Torres",
+        "original_name": "Miguel Torres",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Operário (Brazilian Segment) (archive footage)",
+        "credit_id": "57832cfbc3a3680dac003d4d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648511,
+        "known_for_department": "Acting",
+        "name": "Valdo César",
+        "original_name": "Valdo César",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Capataz (Brazilian Segment) (archive footage)",
+        "credit_id": "57832d2792514173a4003752",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648512,
+        "known_for_department": "Acting",
+        "name": "Armida Gianassi",
+        "original_name": "Armida Gianassi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Giovanna (Italian Segment) (archive footage)",
+        "credit_id": "57832d4192514173d500316e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648513,
+        "known_for_department": "Acting",
+        "name": "Carla Pozzi",
+        "original_name": "Carla Pozzi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "(Italian Segment) (archive footage)",
+        "credit_id": "57832d6492514173a40037aa",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 22662,
+        "known_for_department": "Acting",
+        "name": "Angela Brunner",
+        "original_name": "Angela Brunner",
+        "popularity": 0.1044,
+        "profile_path": "/1vxFFEmemwZEv6OXYkbGLd9mndq.jpg",
+        "cast_id": 19,
+        "character": "Narrator (voice)",
+        "credit_id": "57832d4ec3a368611f006497",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2350,
+        "known_for_department": "Acting",
+        "name": "Helene Weigel",
+        "original_name": "Helene Weigel",
+        "popularity": 0.5143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Narrator - Prolog (voice)",
+        "credit_id": "57832d73c3a3680dd400339a",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237859,
+        "known_for_department": "Directing",
+        "name": "Joris Ivens",
+        "original_name": "Joris Ivens",
+        "popularity": 0.1761,
+        "profile_path": "/fNUOfmwxX37zV05kkbK4EFSrAfY.jpg",
+        "credit_id": "57832be192514171a2005f61",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240585,
+        "known_for_department": "Writing",
+        "name": "Jorge Amado",
+        "original_name": "Jorge Amado",
+        "popularity": 0.3879,
+        "profile_path": "/o4lDllFkojBXhmheU2NbJy1HZEI.jpg",
+        "credit_id": "57832bae925141713600592a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74697,
+        "known_for_department": "Directing",
+        "name": "Alberto Cavalcanti",
+        "original_name": "Alberto Cavalcanti",
+        "popularity": 0.9865,
+        "profile_path": "/wb9sB74uuEkc5mo5hALCzAG7HgT.jpg",
+        "credit_id": "57832bc492514171a2005f3a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1467519,
+        "known_for_department": "Writing",
+        "name": "Trigueirinho Neto",
+        "original_name": "Trigueirinho Neto",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "57832bd9c3a3685c84005786",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 237675,
+        "known_for_department": "Directing",
+        "name": "Yannick Bellon",
+        "original_name": "Yannick Bellon",
+        "popularity": 0.1381,
+        "profile_path": "/okuMgkfxLzzdEDSaufo8KGh5sqB.jpg",
+        "credit_id": "57832bf3925141720d006004",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71416,
+        "known_for_department": "Writing",
+        "name": "Franco Solinas",
+        "original_name": "Franco Solinas",
+        "popularity": 0.3745,
+        "profile_path": "/guvjgiq2BPp8H8AlpvmUSLwTuGs.jpg",
+        "credit_id": "57832c3bc3a3680d300034c8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 624719,
+        "known_for_department": "Directing",
+        "name": "Sergei Gerasimov",
+        "original_name": "Сергей Герасимов",
+        "popularity": 0.9232,
+        "profile_path": "/gC2I7YQPAKBwNkHVWWIF4nQOH75.jpg",
+        "credit_id": "57832c2892514171a2005f88",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113509,
+        "known_for_department": "Writing",
+        "name": "Vladimir Pozner",
+        "original_name": "Vladimir Pozner",
+        "popularity": 0.0588,
+        "profile_path": "/wfoUdjvMrsMmruSfYwFK3unTyLF.jpg",
+        "credit_id": "57832c4b925141720d006062",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90694,
+        "known_for_department": "Directing",
+        "name": "Gillo Pontecorvo",
+        "original_name": "Gillo Pontecorvo",
+        "popularity": 0.5345,
+        "profile_path": "/iRwLtl4aRdZMsfwGBUMbgELsDG6.jpg",
+        "credit_id": "57832c009251417cba00a44b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74697,
+        "known_for_department": "Directing",
+        "name": "Alberto Cavalcanti",
+        "original_name": "Alberto Cavalcanti",
+        "popularity": 0.9865,
+        "profile_path": "/wb9sB74uuEkc5mo5hALCzAG7HgT.jpg",
+        "credit_id": "57832ba39251417136005908",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1434808,
+        "known_for_department": "Directing",
+        "name": "Alex Viany",
+        "original_name": "Alex Viany",
+        "popularity": 0.0863,
+        "profile_path": "/qedH5LLKvcbwqwsoVuqOSwLl3b7.jpg",
+        "credit_id": "57832c12c3a36862ae005c31",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21231,
+        "known_for_department": "Sound",
+        "name": "Enrico Simonetti",
+        "original_name": "Enrico Simonetti",
+        "popularity": 0.0507,
+        "profile_path": "/jsyHG87fvKCDlRSlLiaXnS6qDfq.jpg",
+        "credit_id": "5f5f1f21fd7aa4003bed45f7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2647179,
+        "known_for_department": "Acting",
+        "name": "Mario De Luca",
+        "original_name": "Mario De Luca",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5f5f1fa7d8cc4a0038ece75e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2285901,
+        "known_for_department": "Production",
+        "name": "Mário Audrá",
+        "original_name": "Mário Audrá",
+        "popularity": 0.0998,
+        "profile_path": null,
+        "credit_id": "5f5f1ee1bdc34c0036f08e03",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1325301,
+        "known_for_department": "Editing",
+        "name": "José Cañizares",
+        "original_name": "José Cañizares",
+        "popularity": 0.0443,
+        "profile_path": null,
+        "credit_id": "5f5f1f612b93200039eeaacf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1625521,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elena Mannini",
+        "original_name": "Elena Mannini",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "5f5f1f8ebdc34c0037ec4308",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237859,
+        "known_for_department": "Directing",
+        "name": "Joris Ivens",
+        "original_name": "Joris Ivens",
+        "popularity": 0.1761,
+        "profile_path": "/fNUOfmwxX37zV05kkbK4EFSrAfY.jpg",
+        "credit_id": "5f5f1efd93388b00365bd2c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23026,
+        "known_for_department": "Sound",
+        "name": "Wolfgang Hohensee",
+        "original_name": "Wolfgang Hohensee",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "5f5f1f168b959e0032ad8cec",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 22763,
+        "known_for_department": "Editing",
+        "name": "Ella Ensink",
+        "original_name": "Ella Ensink",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5f5f1f6efd7aa4003bed465b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1313476,
+        "known_for_department": "Editing",
+        "name": "Enzo Alfonsi",
+        "original_name": "Enzo Alfonsi",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "5f5f1f468b959e0034ae86a1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1089166,
+        "known_for_department": "Camera",
+        "name": "H.E. Fowle",
+        "original_name": "H.E. Fowle",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "67eeb65d4680f26bf3a7be2d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

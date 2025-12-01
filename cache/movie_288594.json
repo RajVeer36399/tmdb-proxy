@@ -1,0 +1,307 @@
+{
+  "adult": false,
+  "backdrop_path": "/cSrjhzS3jS7p77YC9r6LqMDIejN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 288594,
+  "imdb_id": "tt0166211",
+  "origin_country": [
+    "PE"
+  ],
+  "original_language": "es",
+  "original_title": "Gregorio",
+  "overview": "Gregorio, a boy from the impoverished countryside of Peru emigrates to Lima, the capital city. Experiencing a cultural shock due to the chaotic nature of the city, he must challenge himself to learn Spanish, since his native tongue is Quechua, and survive in this whole prejudiced new world. A hostile world for poor immigrants.",
+  "popularity": 7.2107,
+  "poster_path": "/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg",
+  "production_companies": [
+    {
+      "id": 30925,
+      "logo_path": "/yVB8hpFLKtZXaruQ8dRQ0wgbaV6.png",
+      "name": "Grupo Chaski",
+      "origin_country": "PE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PE",
+      "name": "Peru"
+    }
+  ],
+  "release_date": "1985-03-07",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Quechua",
+      "iso_639_1": "qu",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "A young boy from the mountains discovering the enormous and always changing city of Lima.",
+  "title": "Gregorio",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1356529,
+        "known_for_department": "Acting",
+        "name": "Marino León de la Torre",
+        "original_name": "Marino León de la Torre",
+        "popularity": 0.0398,
+        "profile_path": "/3vtwOelU19ZMI1vztleOl9f3MTq.jpg",
+        "cast_id": 0,
+        "character": "Gregorio",
+        "credit_id": "53fa0899c3a3687352003199",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1356530,
+        "known_for_department": "Acting",
+        "name": "Vetzi Pérez Palma",
+        "original_name": "Vetzi Pérez Palma",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Juana",
+        "credit_id": "53fa08a2c3a368735e00326f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198863,
+        "known_for_department": "Acting",
+        "name": "Augusto Varillas",
+        "original_name": "Augusto Varillas",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "53fa08abc3a368734c003065",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1356531,
+        "known_for_department": "Acting",
+        "name": "Manuel Acosta Ojeda",
+        "original_name": "Manuel Acosta Ojeda",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "53fa08b4c3a3687358003181",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103524,
+        "known_for_department": "Acting",
+        "name": "Rafael Hernández",
+        "original_name": "Rafael Hernández",
+        "popularity": 0.5869,
+        "profile_path": "/aOFGTGTLvDeWlM6Si5PfoKvd2gW.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5e4bbcae35811d00154bf928",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4597476,
+        "known_for_department": "Acting",
+        "name": "Oscar Huayta",
+        "original_name": "Oscar Huayta",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Retacito",
+        "credit_id": "65f63c45eb79c2017c5273dc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4597478,
+        "known_for_department": "Acting",
+        "name": "Julio Pacora",
+        "original_name": "Julio Pacora",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Chollo",
+        "credit_id": "65f63c55903c52017e27b8f7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4597479,
+        "known_for_department": "Acting",
+        "name": "Marco Jaime",
+        "original_name": "Marco Jaime",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Gitano",
+        "credit_id": "65f63c6a66469a016479a7e1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4597482,
+        "known_for_department": "Acting",
+        "name": "José Saavedra",
+        "original_name": "José Saavedra",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Tachuela",
+        "credit_id": "65f63ca381da39014a61503c",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1356534,
+        "known_for_department": "Sound",
+        "name": "Fernando Espinoza",
+        "original_name": "Fernando Espinoza",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "53fa08fec3a36873520031ad",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1356534,
+        "known_for_department": "Sound",
+        "name": "Fernando Espinoza",
+        "original_name": "Fernando Espinoza",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "53fa0978c3a368735b003171",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2287436,
+        "known_for_department": "Directing",
+        "name": "Alejandro Legaspi",
+        "original_name": "Alejandro Legaspi",
+        "popularity": 0.042,
+        "profile_path": "/ap0o78wLZYcopFPLhJlo0xxjZK1.jpg",
+        "credit_id": "53fa0992c3a368735500323e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1356535,
+        "known_for_department": "Production",
+        "name": "Stefan Kaspar",
+        "original_name": "Stefan Kaspar",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "53fa0938c3a368735e00328c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1356537,
+        "known_for_department": "Directing",
+        "name": "Francisco Adrianzén",
+        "original_name": "Francisco Adrianzén",
+        "popularity": 0.0416,
+        "profile_path": "/dY8yYdSSM827LPWY1PZpiqohbfi.jpg",
+        "credit_id": "53fa0967c3a368734c003074",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2287436,
+        "known_for_department": "Directing",
+        "name": "Alejandro Legaspi",
+        "original_name": "Alejandro Legaspi",
+        "popularity": 0.042,
+        "profile_path": "/ap0o78wLZYcopFPLhJlo0xxjZK1.jpg",
+        "credit_id": "53fa08edc3a368734c003069",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1356536,
+        "known_for_department": "Sound",
+        "name": "Arturo Ruiz del Pozo",
+        "original_name": "Arturo Ruiz del Pozo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "53fa0952c3a3687355003235",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4597490,
+        "known_for_department": "Editing",
+        "name": "Gaby Faura",
+        "original_name": "Gaby Faura",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "65f63d38eb79c2017c52788f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4597487,
+        "known_for_department": "Production",
+        "name": "Maria Barea",
+        "original_name": "Maria Barea",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65f63d01bbe1dd017df1c105",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

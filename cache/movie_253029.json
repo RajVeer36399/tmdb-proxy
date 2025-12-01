@@ -1,0 +1,403 @@
+{
+  "adult": false,
+  "backdrop_path": "/9RpEjKW7N6EXdLzyK02V6CgmVBX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 253029,
+  "imdb_id": "tt2572270",
+  "origin_country": [
+    "CH"
+  ],
+  "original_language": "de",
+  "original_title": "Akte Grüninger",
+  "overview": "1938. Austria has been annexed by Nazi Germany, and Switzerland has closed its borders for Jewish refugees - a death sentence for thousands. But not all Swiss officials observe this inhuman order.",
+  "popularity": 10.5172,
+  "poster_path": "/sTR9SNV08MU6JjJbECoitQtJC71.jpg",
+  "production_companies": [
+    {
+      "id": 6663,
+      "logo_path": "/gVL9spqQwwCQPly6moVVWuofouy.png",
+      "name": "C-Films",
+      "origin_country": "CH"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2014-01-30",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Grüninger File",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 16,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34383,
+        "known_for_department": "Acting",
+        "name": "Stefan Kurt",
+        "original_name": "Stefan Kurt",
+        "popularity": 0.176,
+        "profile_path": "/7KF37DtsXX7lbTiZH6ZzROBOZA5.jpg",
+        "cast_id": 1,
+        "character": "Paul Grüninger",
+        "credit_id": "52fe4e669251416c911305d5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49842,
+        "known_for_department": "Acting",
+        "name": "Maximilian Simonischek",
+        "original_name": "Maximilian Simonischek",
+        "popularity": 0.8583,
+        "profile_path": "/7Oqa4RQJkdqxhwAgrWLrEpuAqSH.jpg",
+        "cast_id": 4,
+        "character": "Robert Frei",
+        "credit_id": "545fcb98c3a3680b5a000f79",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62892,
+        "known_for_department": "Acting",
+        "name": "Anatole Taubman",
+        "original_name": "Anatole Taubman",
+        "popularity": 0.2731,
+        "profile_path": "/A7B7POXpFyNg7C36fGxVc4EiR2W.jpg",
+        "cast_id": 5,
+        "character": "Sidney Dreifuss",
+        "credit_id": "545fcba4c3a3680b58000e45",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54948,
+        "known_for_department": "Acting",
+        "name": "Ursina Lardi",
+        "original_name": "Ursina Lardi",
+        "popularity": 0.2587,
+        "profile_path": "/2jkpWQwylinnqcsYP6CuN4L575x.jpg",
+        "cast_id": 16,
+        "character": "Alice Grüninger",
+        "credit_id": "68fa245aee37ad65338532bb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37974,
+        "known_for_department": "Acting",
+        "name": "Helmut Förnbacher",
+        "original_name": "Helmut Förnbacher",
+        "popularity": 0.1657,
+        "profile_path": "/72fkCBni4viGAACpOLCLCsuVdu8.jpg",
+        "cast_id": 6,
+        "character": "Valentin Keel",
+        "credit_id": "565f8ae9925141790f0005c2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1497339,
+        "known_for_department": "Acting",
+        "name": "Julia Jelinek",
+        "original_name": "Julia Jelinek",
+        "popularity": 0.1278,
+        "profile_path": "/ryIhDkSpG7obMHMMhYABf7MgzeE.jpg",
+        "cast_id": 7,
+        "character": "Jüdin",
+        "credit_id": "56dcd2b09251414382001085",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83866,
+        "known_for_department": "Acting",
+        "name": "Robert Hunger-Bühler",
+        "original_name": "Robert Hunger-Bühler",
+        "popularity": 0.5053,
+        "profile_path": "/uaiGySybwRbO00aPNOu6wpDoNfz.jpg",
+        "cast_id": 8,
+        "character": "Heinrich Rothmund",
+        "credit_id": "56dcd2cfc3a368765c001182",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324891,
+        "known_for_department": "Acting",
+        "name": "Martin Klaus",
+        "original_name": "Martin Klaus",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Anton Schneider",
+        "credit_id": "571e8713c3a36833aa0009ba",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43199,
+        "known_for_department": "Acting",
+        "name": "Beat Marti",
+        "original_name": "Beat Marti",
+        "popularity": 0.4923,
+        "profile_path": "/c16CROEygl6WDo4Ej7nhw0S66cf.jpg",
+        "cast_id": 10,
+        "character": "Alfons Eigenmann",
+        "credit_id": "5b1c5e6e0e0a261f94023918",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1139639,
+        "known_for_department": "Acting",
+        "name": "Aaron Hitz",
+        "original_name": "Aaron Hitz",
+        "popularity": 0.1015,
+        "profile_path": "/m7qWgVOpFI7lSrsMEBElkNBt1YN.jpg",
+        "cast_id": 11,
+        "character": "Ernst Kamm",
+        "credit_id": "5b1c5e7b0e0a261f850235e7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240671,
+        "known_for_department": "Acting",
+        "name": "Pascal Holzer",
+        "original_name": "Pascal Holzer",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Farmer",
+        "credit_id": "5b1c5e8ac3a36848ed01dddb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233968,
+        "known_for_department": "Acting",
+        "name": "Peter Jecklin",
+        "original_name": "Peter Jecklin",
+        "popularity": 0.6225,
+        "profile_path": "/3n5L2liuCS2J6bx7XWSXDe8DEf4.jpg",
+        "cast_id": 13,
+        "character": "Walter Härtsch",
+        "credit_id": "5b1c5e999251414bb8027d50",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50175,
+        "known_for_department": "Acting",
+        "name": "Patrick Rapold",
+        "original_name": "Patrick Rapold",
+        "popularity": 0.4657,
+        "profile_path": "/hn5Bq0HVdSHG4NuB0kipHfmRNFn.jpg",
+        "cast_id": 14,
+        "character": "Ernest Prodollier",
+        "credit_id": "5b1c5eac0e0a261f94023943",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2061050,
+        "known_for_department": "Acting",
+        "name": "Monica Reyes",
+        "original_name": "Monica Reyes",
+        "popularity": 0.0286,
+        "profile_path": "/qNocz29XOHfpz33c3Lzfvkl5tR.jpg",
+        "cast_id": 15,
+        "character": "Ida Kreutner",
+        "credit_id": "5b1c5edec3a36848ed01de07",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1103837,
+        "known_for_department": "Acting",
+        "name": "Alexander E. Fennon",
+        "original_name": "Alexander E. Fennon",
+        "popularity": 0.0865,
+        "profile_path": "/VTFv5PGgLGG1e0jauO1A6Qsptg.jpg",
+        "cast_id": 17,
+        "character": "Heinrich Rothmund",
+        "credit_id": "68fa24a9da53ae7580dd93bf",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1186876,
+        "known_for_department": "Acting",
+        "name": "Therese Affolter",
+        "original_name": "Therese Affolter",
+        "popularity": 0.5939,
+        "profile_path": "/srPjoY8cAwVlfqdpzuKVOBgX5AO.jpg",
+        "cast_id": 18,
+        "character": "Wirtin",
+        "credit_id": "68fa24c83b6469f3c3dd93aa",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1858615,
+        "known_for_department": "Acting",
+        "name": "Simon Käser",
+        "original_name": "Simon Käser",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Christian Dutler",
+        "credit_id": "68fa24e027691acae5417a07",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5341891,
+        "known_for_department": "Acting",
+        "name": "Sebastian Fink",
+        "original_name": "Sebastian Fink",
+        "popularity": 0.0214,
+        "profile_path": "/fAnEe2FdhkvWRhEBVQT4GzxF6qR.jpg",
+        "cast_id": 20,
+        "character": "Samuel",
+        "credit_id": "68fa251ae4cf7a8887467044",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427830,
+        "known_for_department": "Acting",
+        "name": "Franz Weichenberger",
+        "original_name": "Franz Weichenberger",
+        "popularity": 0.0625,
+        "profile_path": "/t6GH6IrRWMiltdLvu9lxGuYQEWK.jpg",
+        "cast_id": 21,
+        "character": "Wirt",
+        "credit_id": "68fa252b2d829b42435367ce",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3258677,
+        "known_for_department": "Acting",
+        "name": "Juri Elmer",
+        "original_name": "Juri Elmer",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Soldat",
+        "credit_id": "68fa2539a70e4ac8ba1280a2",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1818003,
+        "known_for_department": "Acting",
+        "name": "Alessandra Dietzel",
+        "original_name": "Alessandra Dietzel",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Notenmädchen",
+        "credit_id": "68fa2555e4cf7a8887467049",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1974961,
+        "known_for_department": "Acting",
+        "name": "Eva-Maria Gintsberg",
+        "original_name": "Eva-Maria Gintsberg",
+        "popularity": 0.0909,
+        "profile_path": "/2MakzrPuH0ZkMVlUIr6uBSIJMBT.jpg",
+        "cast_id": 24,
+        "character": "Chane Schwarz",
+        "credit_id": "68fa2563ade8188395466fb0",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7149,
+        "known_for_department": "Writing",
+        "name": "Bernd Lange",
+        "original_name": "Bernd Lange",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "52fe4e669251416c911305e1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90220,
+        "known_for_department": "Directing",
+        "name": "Alain Gsponer",
+        "original_name": "Alain Gsponer",
+        "popularity": 0.2201,
+        "profile_path": "/p0bPXOcZyOpLVbl2eCrMsScwZT.jpg",
+        "credit_id": "52fe4e669251416c911305db",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

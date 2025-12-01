@@ -1,0 +1,562 @@
+{
+  "adult": false,
+  "backdrop_path": "/qiGF1b2vH38WRWQooLp3q9LS7m2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 18919,
+  "imdb_id": "tt0109781",
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_title": "Lekce Faust",
+  "overview": "A very free adaptation of Marlowe's \"Doctor Faustus\", Goethe's \"Faust\" and various other treatments of the old legend of the man who sold his soul to the devil. A nondescript man is lured by a strange map into a sinister puppet theatre, where he finds himself immersed in an indescribably weird version of the play, blending live actors, clay animation and giant puppets.",
+  "popularity": 9.8782,
+  "poster_path": "/pyCHHLEdRJPx0BD22n9Cs7B78Wp.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3554,
+      "logo_path": null,
+      "name": "ATHANOR",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 23483,
+      "logo_path": null,
+      "name": "Heart of Europe Prague K. Production",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 23484,
+      "logo_path": null,
+      "name": "Kominsk",
+      "origin_country": ""
+    },
+    {
+      "id": 6216,
+      "logo_path": null,
+      "name": "Lumen Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 185,
+      "logo_path": null,
+      "name": "Pandora Cinema",
+      "origin_country": ""
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1994-09-10",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Faust",
+  "video": false,
+  "vote_average": 7.451,
+  "vote_count": 72,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83882,
+        "known_for_department": "Acting",
+        "name": "Petr Čepek",
+        "original_name": "Petr Čepek",
+        "popularity": 0.22,
+        "profile_path": "/aL4DF6fXFYE3S7Bwaqr1QpZcuCM.jpg",
+        "cast_id": 6,
+        "character": "Faust",
+        "credit_id": "52fe47ab9251416c750a168f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136797,
+        "known_for_department": "Acting",
+        "name": "Jan Kraus",
+        "original_name": "Jan Kraus",
+        "popularity": 0.5093,
+        "profile_path": "/xyDo3C0VLseAqaP8jV5F3WTj45V.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "52fe47ab9251416c750a1693",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5731558,
+        "known_for_department": "Acting",
+        "name": "Jiří Suchý",
+        "original_name": "Jiří Suchý",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "",
+        "credit_id": "68e2aa665ed0b00b89961465",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320281,
+        "known_for_department": "Acting",
+        "name": "Vladimír Kudla",
+        "original_name": "Vladimír Kudla",
+        "popularity": 0.0502,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "53762715c3a3681ed40015da",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544286,
+        "known_for_department": "Acting",
+        "name": "Antonín Zacpal",
+        "original_name": "Antonín Zacpal",
+        "popularity": 1.3434,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "53762720c3a3681edb001611",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1320282,
+        "known_for_department": "Acting",
+        "name": "Viktorie Knotková",
+        "original_name": "Viktorie Knotková",
+        "popularity": 0.0758,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5376273ac3a3681efb001518",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1320283,
+        "known_for_department": "Acting",
+        "name": "Jana Mézlová",
+        "original_name": "Jana Mézlová",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "53762745c3a3681ef4001717",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1320284,
+        "known_for_department": "Acting",
+        "name": "Miluse Straková",
+        "original_name": "Miluse Straková",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "53762754c3a3681efb001520",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551678,
+        "known_for_department": "Acting",
+        "name": "Josef Fiala",
+        "original_name": "Josef Fiala",
+        "popularity": 0.0586,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "53762760c3a3681ee1001838",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320285,
+        "known_for_department": "Acting",
+        "name": "Martin Radimecký",
+        "original_name": "Martin Radimecký",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5376276bc3a3681ef400171f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320286,
+        "known_for_department": "Acting",
+        "name": "Ervín Tomendál",
+        "original_name": "Ervín Tomendál",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "53762775c3a3681ee100183c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133564,
+        "known_for_department": "Acting",
+        "name": "Frantisek Polata",
+        "original_name": "František Polata",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "53762781c3a3681f04001584",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320287,
+        "known_for_department": "Acting",
+        "name": "Josef Chodora",
+        "original_name": "Josef Chodora",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "53762791c3a3681ef4001728",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1320288,
+        "known_for_department": "Acting",
+        "name": "Karel Vidimský",
+        "original_name": "Karel Vidimský",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "5376279dc3a3681ee9001680",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80325,
+        "known_for_department": "Acting",
+        "name": "Petr Meissel",
+        "original_name": "Petr Meissel",
+        "popularity": 0.6797,
+        "profile_path": "/a0uhzqV7lC0d1vJnUpCiD9R7vFX.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "537627a7c3a3681efb00152d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1320289,
+        "known_for_department": "Acting",
+        "name": "Rudolf Ruzek",
+        "original_name": "Rudolf Ruzek",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "537627b8c3a3681edb001621",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1320290,
+        "known_for_department": "Acting",
+        "name": "Milan Vyskocil",
+        "original_name": "Milan Vyskocil",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "537627c2c3a3681ecd00153c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551677,
+        "known_for_department": "Acting",
+        "name": "Pavel Marek",
+        "original_name": "Pavel Marek",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "537627ccc3a3681ed40015eb",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1320292,
+        "known_for_department": "Acting",
+        "name": "Robert Blanda",
+        "original_name": "Robert Blanda",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "537627e4c3a3681ef4001738",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1320293,
+        "known_for_department": "Acting",
+        "name": "Michaela Tyllerová",
+        "original_name": "Michaela Tyllerová",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "537627f0c3a3681ee900168e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1320294,
+        "known_for_department": "Acting",
+        "name": "Vendula Pecová",
+        "original_name": "Vendula Pecová",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "537627fcc3a3681efb001534",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83784,
+        "known_for_department": "Directing",
+        "name": "Jan Švankmajer",
+        "original_name": "Jan Švankmajer",
+        "popularity": 0.9562,
+        "profile_path": "/yJNadsigphyaFdzFRBtRLuAUlNr.jpg",
+        "credit_id": "52fe47aa9251416c750a1673",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66797,
+        "known_for_department": "Writing",
+        "name": "Johann Wolfgang von Goethe",
+        "original_name": "Johann Wolfgang von Goethe",
+        "popularity": 0.7185,
+        "profile_path": "/sZcfT3pqAqibYjnYOjD841vXjEk.jpg",
+        "credit_id": "52fe47aa9251416c750a167f",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83784,
+        "known_for_department": "Directing",
+        "name": "Jan Švankmajer",
+        "original_name": "Jan Švankmajer",
+        "popularity": 0.9562,
+        "profile_path": "/yJNadsigphyaFdzFRBtRLuAUlNr.jpg",
+        "credit_id": "52fe47aa9251416c750a1679",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66798,
+        "known_for_department": "Writing",
+        "name": "Christopher Marlowe",
+        "original_name": "Christopher Marlowe",
+        "popularity": 1.5696,
+        "profile_path": "/WzwMfT88TVpQ3AXRruzqZSY7Kg.jpg",
+        "credit_id": "52fe47aa9251416c750a168b",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83881,
+        "known_for_department": "Writing",
+        "name": "Christian Dietrich Grabbe",
+        "original_name": "Christian Dietrich Grabbe",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "52fe47aa9251416c750a1685",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83784,
+        "known_for_department": "Directing",
+        "name": "Jan Švankmajer",
+        "original_name": "Jan Švankmajer",
+        "popularity": 0.9562,
+        "profile_path": "/yJNadsigphyaFdzFRBtRLuAUlNr.jpg",
+        "credit_id": "53762891c3a3681ee900169a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 550575,
+        "known_for_department": "Editing",
+        "name": "Marie Zemanová",
+        "original_name": "Marie Zemanová",
+        "popularity": 0.0472,
+        "profile_path": null,
+        "credit_id": "53762859c3a3681ed40015ff",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83784,
+        "known_for_department": "Directing",
+        "name": "Jan Švankmajer",
+        "original_name": "Jan Švankmajer",
+        "popularity": 0.9562,
+        "profile_path": "/yJNadsigphyaFdzFRBtRLuAUlNr.jpg",
+        "credit_id": "5376286cc3a3681efb001541",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 550576,
+        "known_for_department": "Art",
+        "name": "Eva Švankmajerová",
+        "original_name": "Eva Švankmajerová",
+        "popularity": 0.0297,
+        "profile_path": "/doUOAZuFm7nRjffGaKAWtvAdHkb.jpg",
+        "credit_id": "53762884c3a3681f04001596",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 550576,
+        "known_for_department": "Art",
+        "name": "Eva Švankmajerová",
+        "original_name": "Eva Švankmajerová",
+        "popularity": 0.0297,
+        "profile_path": "/doUOAZuFm7nRjffGaKAWtvAdHkb.jpg",
+        "credit_id": "5376289fc3a3681f04001598",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551675,
+        "known_for_department": "Camera",
+        "name": "Svatopluk Malý",
+        "original_name": "Svatopluk Malý",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "666b96a47ab85d5a9c23c29f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1949106,
+        "known_for_department": "Production",
+        "name": "Colin Rose",
+        "original_name": "Colin Rose",
+        "popularity": 0.2522,
+        "profile_path": null,
+        "credit_id": "5bb294530e0a263398021fb7",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

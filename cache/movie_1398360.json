@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/nTwfFQIT88SGv6zqSI3XjpaJssO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1398360,
+  "imdb_id": null,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Olivers testamente",
+  "overview": "Director Jessica Nilsson’s staggering documentary The Testament of Oliver chronicles her friendship with Oliver Juvonen-Peel. Oliver has schizophrenia and struggles with alcohol use disorder. He drinks to cope with his psychiatric issues, but his dual diagnosis makes it challenging to find effective treatment. He reveals  to the camera that mental health facilities reject him due to his alcohol abuse, and he’s involuntarily discharged from outpatient clinics because he’s mentally ill.  The Testament of Oliver reveals what happens to the people who fall through the cracks of the healthcare system. Nilsson’s documentary offers a raw and hardhitting account of a man in dire need  of specialized treatment and support systems. Nilsson captures her dear friend’s struggles with an unflinching eye, sharing Oliver’s soaring highs and crushing lows on his arduous road to recovery.",
+  "popularity": 5.4101,
+  "poster_path": "/AaUILfRLOXrQOGUDtJa7nXEIzy4.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "2019-01-17",
+  "revenue": 0,
+  "runtime": 58,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Testament of Oliver",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5102134,
+        "known_for_department": "Acting",
+        "name": "Oliver Juvonen-Peel",
+        "original_name": "Oliver Juvonen-Peel",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "6752f3f04624397fa8117ef2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45785,
+        "known_for_department": "Directing",
+        "name": "Jessica Nilsson",
+        "original_name": "Jessica Nilsson",
+        "popularity": 0.0807,
+        "profile_path": "/xvfHT604399nxX0HJqiPMY6iHns.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "6752f409ab6cc3a4c8fc8d65",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45785,
+        "known_for_department": "Directing",
+        "name": "Jessica Nilsson",
+        "original_name": "Jessica Nilsson",
+        "popularity": 0.0807,
+        "profile_path": "/xvfHT604399nxX0HJqiPMY6iHns.jpg",
+        "credit_id": "6752f422f043bd8a60275187",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1361790,
+        "known_for_department": "Production",
+        "name": "Jesper Jack",
+        "original_name": "Jesper Jack",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6752f446b1eaa5c891dafc0b",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

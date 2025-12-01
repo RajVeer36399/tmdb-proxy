@@ -1,0 +1,407 @@
+{
+  "adult": false,
+  "backdrop_path": "/tQBVmuHhIycRg1BJaEZrBp9M9gM.jpg",
+  "belongs_to_collection": {
+    "id": 363015,
+    "name": "Frosty the Snowman Collection",
+    "poster_path": "/p4W9r7FaSs21P9I6PRjrl6qXrXY.jpg",
+    "backdrop_path": "/9C08pJcp2gBlHrjb8ArYNG18xX4.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 28042,
+  "imdb_id": "tt0106973",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Frosty Returns",
+  "overview": "Mr. Twitchell, a greedy old businessman, has invented Summer Wheeze: a spray that instantly removes snow and slush! Now Holly has to keep Frosty from melting, and convince everybody that snow's actually a good thing.",
+  "popularity": 6.3859,
+  "poster_path": "/qYgHxkiRvjVnPihSAm9Je91kOZq.jpg",
+  "production_companies": [
+    {
+      "id": 16341,
+      "logo_path": null,
+      "name": "Bill Melendez Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 124448,
+      "logo_path": null,
+      "name": "CBS Entertainment Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1756,
+      "logo_path": "/d7YyNzysIF0lSb4lJRf1ar6MHxi.png",
+      "name": "Broadway Video",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-12-01",
+  "revenue": 0,
+  "runtime": 24,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Frosty Returns",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 108,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13593,
+        "known_for_department": "Acting",
+        "name": "Jonathan Winters",
+        "original_name": "Jonathan Winters",
+        "popularity": 0.5943,
+        "profile_path": "/c2pp7XSUBTbUyptlDjaEhoyz9QX.jpg",
+        "cast_id": 1,
+        "character": "Narrator (Voice)",
+        "credit_id": "52fe4574c3a368484e05c2ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1230,
+        "known_for_department": "Acting",
+        "name": "John Goodman",
+        "original_name": "John Goodman",
+        "popularity": 3.6115,
+        "profile_path": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg",
+        "cast_id": 4,
+        "character": "Frosty the Snowman (voice)",
+        "credit_id": "52fe4574c3a368484e05c2fd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32798,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Moss",
+        "original_name": "Elisabeth Moss",
+        "popularity": 2.392,
+        "profile_path": "/vZDe22EtLtcHvPr28l4ZM0b7qjG.jpg",
+        "cast_id": 5,
+        "character": "Holly (voice)",
+        "credit_id": "52fe4574c3a368484e05c301",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1535,
+        "known_for_department": "Acting",
+        "name": "Brian Doyle-Murray",
+        "original_name": "Brian Doyle-Murray",
+        "popularity": 1.4052,
+        "profile_path": "/3RFH00449ppcwA0tkD1uqDvP865.jpg",
+        "cast_id": 6,
+        "character": "Mr. Twitchell (voice)",
+        "credit_id": "52fe4574c3a368484e05c305",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 129332,
+        "known_for_department": "Acting",
+        "name": "Jan Hooks",
+        "original_name": "Jan Hooks",
+        "popularity": 0.2824,
+        "profile_path": "/9GQfBnfGLoJt4NdFTO5HyeJgbAM.jpg",
+        "cast_id": 7,
+        "character": "Lil (voice)",
+        "credit_id": "567c941b9251417dec004d5e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8263,
+        "known_for_department": "Acting",
+        "name": "Andrea Martin",
+        "original_name": "Andrea Martin",
+        "popularity": 1.1498,
+        "profile_path": "/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg",
+        "cast_id": 8,
+        "character": "Miss Carbuncle (voice)",
+        "credit_id": "567c9434c3a36860e900249b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56486,
+        "known_for_department": "Acting",
+        "name": "Michael Patrick Carter",
+        "original_name": "Michael Patrick Carter",
+        "popularity": 0.2954,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Charles (voice)",
+        "credit_id": "664ff6da2b7c699c7a9b3c68",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 389123,
+        "known_for_department": "Acting",
+        "name": "Steve Stoliar",
+        "original_name": "Steve Stoliar",
+        "popularity": 0.5866,
+        "profile_path": "/i7U93GhDTy3tvhicMxtBq0YfFzY.jpg",
+        "cast_id": 21,
+        "character": "News Announcer / Townspeople / Mr. Twitchell's Goons (voice)",
+        "credit_id": "664ff6fa82a2ffadf09b24f8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40348,
+        "known_for_department": "Acting",
+        "name": "Phillip Glasser",
+        "original_name": "Phillip Glasser",
+        "popularity": 0.3274,
+        "profile_path": "/hak1JvlAozZJmEuzxM50brnYw6c.jpg",
+        "cast_id": 22,
+        "character": "Kids (voice) (as Philip Glasser)",
+        "credit_id": "664ff70bfabfa6e43b068509",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732408,
+        "known_for_department": "Acting",
+        "name": "Gail Lynch",
+        "original_name": "Gail Lynch",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Townspeople / Mearle / Objective Woman (voice)",
+        "credit_id": "664ff7242b7c699c7a9b3c8d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1435338,
+        "known_for_department": "Acting",
+        "name": "Mindy Ann Martin",
+        "original_name": "Mindy Ann Martin",
+        "popularity": 0.1867,
+        "profile_path": "/jMQB8hBCko6KsyxwZXPmKBqZPxv.jpg",
+        "cast_id": 24,
+        "character": "Kids (voice)",
+        "credit_id": "664ff7344a2534688d544ac7",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123948,
+        "known_for_department": "Camera",
+        "name": "Nick Vasu",
+        "original_name": "Nick Vasu",
+        "popularity": 0.1487,
+        "profile_path": null,
+        "credit_id": "621b3aefa5743d0045e5e38f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94011,
+        "known_for_department": "Visual Effects",
+        "name": "Bill Melendez",
+        "original_name": "Bill Melendez",
+        "popularity": 0.9265,
+        "profile_path": "/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg",
+        "credit_id": "52fe4574c3a368484e05c2f9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99441,
+        "known_for_department": "Directing",
+        "name": "Evert Brown",
+        "original_name": "Evert Brown",
+        "popularity": 0.0502,
+        "profile_path": "/lgz4jjcQfXZhPQrmZFKxCNM16lN.jpg",
+        "credit_id": "52fe4574c3a368484e05c2f3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5666,
+        "known_for_department": "Sound",
+        "name": "Mark Mothersbaugh",
+        "original_name": "Mark Mothersbaugh",
+        "popularity": 0.6383,
+        "profile_path": "/wd3ZoatTz7pZaS8dErNXwYiVB6f.jpg",
+        "credit_id": "61f58c62e48860011166c398",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2284428,
+        "known_for_department": "Editing",
+        "name": "Chuck McCann",
+        "original_name": "Chuck McCann",
+        "popularity": 0.855,
+        "profile_path": null,
+        "credit_id": "61f58c6e81140f00439d8ac4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2646051,
+        "known_for_department": "Production",
+        "name": "Dinah Minot",
+        "original_name": "Dinah Minot",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "61f58c55bb105700d30217d1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223236,
+        "known_for_department": "Writing",
+        "name": "Jim Lewis",
+        "original_name": "Jim Lewis",
+        "popularity": 0.1762,
+        "profile_path": null,
+        "credit_id": "61f58c1d559d2200c7c894bd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2284420,
+        "known_for_department": "Editing",
+        "name": "Warren Taylor",
+        "original_name": "Warren Taylor",
+        "popularity": 0.8379,
+        "profile_path": null,
+        "credit_id": "61f58c7b57d37800e86f6b86",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94011,
+        "known_for_department": "Visual Effects",
+        "name": "Bill Melendez",
+        "original_name": "Bill Melendez",
+        "popularity": 0.9265,
+        "profile_path": "/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg",
+        "credit_id": "61f58c38cedac4006ccef83c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1226916,
+        "known_for_department": "Writing",
+        "name": "Eryk Casemiro",
+        "original_name": "Eryk Casemiro",
+        "popularity": 0.1526,
+        "profile_path": null,
+        "credit_id": "61f58c2abb10570045733834",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56158,
+        "known_for_department": "Production",
+        "name": "Lorne Michaels",
+        "original_name": "Lorne Michaels",
+        "popularity": 0.6075,
+        "profile_path": "/lVBbmYJmYQWOODTPJFjOZzvS4x8.jpg",
+        "credit_id": "61f58c45dcf875006844be2b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219562,
+        "known_for_department": "Writing",
+        "name": "Oliver Goldstick",
+        "original_name": "Oliver Goldstick",
+        "popularity": 0.163,
+        "profile_path": null,
+        "credit_id": "61f58c13ac8e6b001c94ff7c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1541617,
+        "known_for_department": "Production",
+        "name": "Carole Barnes",
+        "original_name": "Carole Barnes",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "6754b9690982b4626789ecc0",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  }
+}

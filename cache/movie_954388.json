@@ -1,0 +1,366 @@
+{
+  "adult": false,
+  "backdrop_path": "/nKOutYdpjpxdeftoXcDnSAaD2z8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.andresbeltran.com/quicksand",
+  "id": 954388,
+  "imdb_id": "tt19056070",
+  "origin_country": [
+    "CO",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Arenas Mortales",
+  "overview": "A married couple on the brink of divorce becomes trapped in quicksand while hiking through a Colombian rainforest. It’s a struggle for survival as they battle the elements of the jungle and must work together in order to escape.",
+  "popularity": 8.4588,
+  "poster_path": "/cVLfO3CbVg8p5Qcaifq6AidOe2w.jpg",
+  "production_companies": [
+    {
+      "id": 172265,
+      "logo_path": null,
+      "name": "Sangre Films",
+      "origin_country": "CO"
+    },
+    {
+      "id": 172266,
+      "logo_path": null,
+      "name": "222 Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 92109,
+      "logo_path": "/1wOgBio7WGOskOAQ2aTvtCHAdm8.png",
+      "name": "Dawn's Light",
+      "origin_country": "US"
+    },
+    {
+      "id": 172267,
+      "logo_path": null,
+      "name": "Elemental Stories",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-08-31",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fear will drag you deeper.",
+  "title": "Quicksand",
+  "video": false,
+  "vote_average": 6.286,
+  "vote_count": 103,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1489764,
+        "known_for_department": "Acting",
+        "name": "Carolina Gaitán",
+        "original_name": "Carolina Gaitán",
+        "popularity": 0.5836,
+        "profile_path": "/c7UPkmhIXYWmlqaQK250L8GTsPQ.jpg",
+        "cast_id": 1,
+        "character": "Sofia",
+        "credit_id": "623df0bb4fd141009615a1dc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76103,
+        "known_for_department": "Acting",
+        "name": "Allan Hawco",
+        "original_name": "Allan Hawco",
+        "popularity": 1.0722,
+        "profile_path": "/qvZoHjkmbjdA0W6C0evynt26DJ8.jpg",
+        "cast_id": 2,
+        "character": "Josh",
+        "credit_id": "623df0c77cffda005c855893",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1471515,
+        "known_for_department": "Acting",
+        "name": "Sebastián Eslava",
+        "original_name": "Sebastián Eslava",
+        "popularity": 0.4268,
+        "profile_path": "/2tw5esysZNlIgl2mpRfeL9txItF.jpg",
+        "cast_id": 12,
+        "character": "Marcos",
+        "credit_id": "64559cb45a07f5017c8a29d1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 839684,
+        "known_for_department": "Acting",
+        "name": "Andrés Castañeda",
+        "original_name": "Andrés Castañeda",
+        "popularity": 0.1317,
+        "profile_path": "/epQCqExic4Jqp3DONrkfbL2tpXe.jpg",
+        "cast_id": 13,
+        "character": "Diego",
+        "credit_id": "64559cc01db65d013dc3d9a2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4200070,
+        "known_for_department": "Acting",
+        "name": "Allison Castrillón",
+        "original_name": "Allison Castrillón",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Front Desk Clerk",
+        "credit_id": "64cf46d34d679100ff67fe9a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1112598,
+        "known_for_department": "Acting",
+        "name": "Juan Manuel Combariza",
+        "original_name": "Juan Manuel Combariza",
+        "popularity": 0.063,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Concierge",
+        "credit_id": "64cf46e74d6791011c178c7d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4200071,
+        "known_for_department": "Acting",
+        "name": "Juan Camilo Pérez",
+        "original_name": "Juan Camilo Pérez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Javier",
+        "credit_id": "64cf4700d9f4a603b875c02d",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1614750,
+        "known_for_department": "Directing",
+        "name": "Andres Beltran",
+        "original_name": "Andres Beltran",
+        "popularity": 0.1109,
+        "profile_path": null,
+        "credit_id": "623df0dd945c20004a730b38",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295214,
+        "known_for_department": "Writing",
+        "name": "Matt Pitts",
+        "original_name": "Matt Pitts",
+        "popularity": 0.0783,
+        "profile_path": null,
+        "credit_id": "623df0ead399e60089ff8af6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2290032,
+        "known_for_department": "Production",
+        "name": "Jason Cherubini",
+        "original_name": "Jason Cherubini",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "623df0fe2790bf0047946061",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593996,
+        "known_for_department": "Production",
+        "name": "Sean Patrick Burke",
+        "original_name": "Sean Patrick Burke",
+        "popularity": 1.2597,
+        "profile_path": null,
+        "credit_id": "623df122d399e6005caadb9e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1634529,
+        "known_for_department": "Production",
+        "name": "Richard Switzer",
+        "original_name": "Richard Switzer",
+        "popularity": 0.9368,
+        "profile_path": null,
+        "credit_id": "623df1369ca75900482ba786",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1077286,
+        "known_for_department": "Acting",
+        "name": "Martin Ramos",
+        "original_name": "Martin Ramos",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "623df15c5541fa0049553a1a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2627709,
+        "known_for_department": "Production",
+        "name": "John Harris",
+        "original_name": "John Harris",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "623df1769672ed0047caaa7d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1552070,
+        "known_for_department": "Production",
+        "name": "Kris Meyer",
+        "original_name": "Kris Meyer",
+        "popularity": 0.1176,
+        "profile_path": null,
+        "credit_id": "623df17f9ca759005de74131",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3334780,
+        "known_for_department": "Acting",
+        "name": "Nicolás Reyes",
+        "original_name": "Nicolás Reyes",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "623df20a9672ed0047caacb0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2637434,
+        "known_for_department": "Editing",
+        "name": "Alejo Alas",
+        "original_name": "Alejo Alas",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "64559cdb1db65d017b803b39",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4047068,
+        "known_for_department": "Crew",
+        "name": "Santiago Otoya",
+        "original_name": "Santiago Otoya",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "64559ce45b4fed010143ea4f",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3178085,
+        "known_for_department": "Sound",
+        "name": "Manuel José Gordillo",
+        "original_name": "Manuel José Gordillo",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "64559cf512197e0155c44f1b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5234093,
+        "known_for_department": "Editing",
+        "name": "Ana Maria Pulido",
+        "original_name": "Ana Maria Pulido",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67be37bc12942e54d73d3242",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

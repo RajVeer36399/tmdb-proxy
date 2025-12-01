@@ -1,0 +1,249 @@
+{
+  "adult": false,
+  "backdrop_path": "/r0EgmEiyBR3NQZ9po80m3RWPZDK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 51016,
+  "imdb_id": "tt0340057",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Copenhagen",
+  "overview": "No one knows for sure what transpired when German physicist Werner Heisenberg met with his Jewish Danish counterpart, Niels Bohr, in Copenhagen -- the event became the stuff of modern scientific mythology. Director Howard Davies puts his spin on the momentous meeting that occurred one night in September 1941, during which the longtime friends entered into a dangerous discussion about physics and politics.",
+  "popularity": 5.6199,
+  "poster_path": "/gIuDQm1Hb2t3u1CD3A9IvK31CdV.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2002-09-27",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Copenhagen",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8784,
+        "known_for_department": "Acting",
+        "name": "Daniel Craig",
+        "original_name": "Daniel Craig",
+        "popularity": 4.6283,
+        "profile_path": "/7njtBW7fv3x2avMM18milvPmKCh.jpg",
+        "cast_id": 1,
+        "character": "Werner Heisenberg",
+        "credit_id": "52fe47dec3a36847f814cab1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9029,
+        "known_for_department": "Acting",
+        "name": "Stephen Rea",
+        "original_name": "Stephen Rea",
+        "popularity": 1.2477,
+        "profile_path": "/n52WDwObYghPTfV1TZ1EOVIWUGS.jpg",
+        "cast_id": 2,
+        "character": "Niels Bohr",
+        "credit_id": "52fe47dec3a36847f814cab5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12513,
+        "known_for_department": "Acting",
+        "name": "Francesca Annis",
+        "original_name": "Francesca Annis",
+        "popularity": 0.9927,
+        "profile_path": "/rtbYkuenkq8Kfc5LwzWYtVD3eNH.jpg",
+        "cast_id": 4,
+        "character": "Margrethe Bohr",
+        "credit_id": "52fe47dec3a36847f814cabf",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223097,
+        "known_for_department": "Directing",
+        "name": "Howard Davies",
+        "original_name": "Howard Davies",
+        "popularity": 0.3827,
+        "profile_path": null,
+        "credit_id": "52fe47dec3a36847f814cabb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 70975,
+        "known_for_department": "Writing",
+        "name": "Michael Frayn",
+        "original_name": "Michael Frayn",
+        "popularity": 0.1168,
+        "profile_path": null,
+        "credit_id": "52fe47dec3a36847f814cac5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1010170,
+        "known_for_department": "Production",
+        "name": "Megan Callaway",
+        "original_name": "Megan Callaway",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "60ffceec4e52ed002e9ff93e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223097,
+        "known_for_department": "Directing",
+        "name": "Howard Davies",
+        "original_name": "Howard Davies",
+        "popularity": 0.3827,
+        "profile_path": null,
+        "credit_id": "60ffcedb5684630046854f85",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30333,
+        "known_for_department": "Production",
+        "name": "Richard Fell",
+        "original_name": "Richard Fell",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "60ffceff38e510007495b923",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21017,
+        "known_for_department": "Camera",
+        "name": "Ian Wilson",
+        "original_name": "Ian Wilson",
+        "popularity": 0.0746,
+        "profile_path": null,
+        "credit_id": "60ffd04b38e510005df253e1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1240183,
+        "known_for_department": "Production",
+        "name": "Mary Mazur",
+        "original_name": "Mary Mazur",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "60ffd015cee481005e34471b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1616666,
+        "known_for_department": "Editing",
+        "name": "Kevin Lester",
+        "original_name": "Kevin Lester",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "60ffd05c4e52ed0048b8ea63",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133502,
+        "known_for_department": "Directing",
+        "name": "Simon Curtis",
+        "original_name": "Simon Curtis",
+        "popularity": 0.2848,
+        "profile_path": "/7gQqZO7uoHNrHX6IZfCLCtXBDkU.jpg",
+        "credit_id": "60ffcfd333ec2600467da86e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1227836,
+        "known_for_department": "Production",
+        "name": "Gordon Ronald",
+        "original_name": "Gordon Ronald",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "60ffd0017304b5005c91d088",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 57269,
+        "known_for_department": "Sound",
+        "name": "Dominic Muldowney",
+        "original_name": "Dominic Muldowney",
+        "popularity": 0.0524,
+        "profile_path": null,
+        "credit_id": "6652962582da8c6a03c611f1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

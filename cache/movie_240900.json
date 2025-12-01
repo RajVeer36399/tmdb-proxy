@@ -1,0 +1,341 @@
+{
+  "adult": false,
+  "backdrop_path": "/sNu55jDskT1ITj1gSEkgyFrAJTq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 240900,
+  "imdb_id": "tt2078549",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "BlackJacks",
+  "overview": "After losing contact with a clandestine energy-research facility, a powerful venture capitalist contracts an elite team of operatives to retrieve the physicist who holds the key to an unprecedented alternate energy source.",
+  "popularity": 5.7503,
+  "poster_path": "/asNFexcb3uMVUMANN0fRkj9VwLo.jpg",
+  "production_companies": [
+    {
+      "id": 19993,
+      "logo_path": null,
+      "name": "Quorum Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 19994,
+      "logo_path": null,
+      "name": "Rogue Satellite Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 19995,
+      "logo_path": "/50TlgnTTuESDGK8k5qyffSAP3UP.png",
+      "name": "Tri-Fold Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-02-11",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "BlackJacks",
+  "video": false,
+  "vote_average": 4.3,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21315,
+        "known_for_department": "Acting",
+        "name": "Eric Roberts",
+        "original_name": "Eric Roberts",
+        "popularity": 4.2117,
+        "profile_path": "/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg",
+        "cast_id": 2,
+        "character": "Mr Cromwell",
+        "credit_id": "52fe4eaec3a36847f82a0fed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43443,
+        "known_for_department": "Acting",
+        "name": "Kristina Anapau",
+        "original_name": "Kristina Anapau",
+        "popularity": 0.5393,
+        "profile_path": "/70yrpNKrjCNYCYADKWVsr9XbtyV.jpg",
+        "cast_id": 3,
+        "character": "Lisa Westbrook",
+        "credit_id": "5425cba00e0a2616e200010d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113006,
+        "known_for_department": "Acting",
+        "name": "James C. Burns",
+        "original_name": "James C. Burns",
+        "popularity": 0.8362,
+        "profile_path": "/lo4k6Vl7lo5DlU8sSqi3e0GEAXp.jpg",
+        "cast_id": 4,
+        "character": "Lewis Locke 'Locke'",
+        "credit_id": "5425cbcac3a36848d00000fe",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 212291,
+        "known_for_department": "Acting",
+        "name": "Tina Casciani",
+        "original_name": "Tina Casciani",
+        "popularity": 0.4161,
+        "profile_path": "/fQPNjIiZZzePL6GpGdJz2xqQ426.jpg",
+        "cast_id": 5,
+        "character": "Sarah",
+        "credit_id": "5425cbf60e0a2616e8000116",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1367946,
+        "known_for_department": "Acting",
+        "name": "Courtney Compton",
+        "original_name": "Courtney Compton",
+        "popularity": 1.3448,
+        "profile_path": "/7GHqQ6A3aTVBxasAiZFbi7mKVMf.jpg",
+        "cast_id": 6,
+        "character": "Journalist",
+        "credit_id": "5425cc1a0e0a2616df00014f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367947,
+        "known_for_department": "Acting",
+        "name": "Jose Luis Cordovez",
+        "original_name": "Jose Luis Cordovez",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Chechen Terrorist",
+        "credit_id": "5425cc2d0e0a2616dc00013e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92612,
+        "known_for_department": "Acting",
+        "name": "Roark Critchlow",
+        "original_name": "Roark Critchlow",
+        "popularity": 0.8024,
+        "profile_path": "/8BbDBMItIx5OFD1YVmQeSALWQqq.jpg",
+        "cast_id": 8,
+        "character": "Dr. Whitmore",
+        "credit_id": "5425cc46c3a36848c4000113",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65716,
+        "known_for_department": "Acting",
+        "name": "Josh Daugherty",
+        "original_name": "Josh Daugherty",
+        "popularity": 0.6758,
+        "profile_path": "/rYDlOWhwgIwQXV7qWxA9zAe6GEV.jpg",
+        "cast_id": 9,
+        "character": "Edward Cox 'Ed'",
+        "credit_id": "5425cc5d0e0a2616e8000122",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367948,
+        "known_for_department": "Acting",
+        "name": "Angel McCord Donowho",
+        "original_name": "Angel McCord Donowho",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Allison Whitmore",
+        "credit_id": "5425cc710e0a2616d9000120",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 148678,
+        "known_for_department": "Directing",
+        "name": "Brett Donowho",
+        "original_name": "Brett Donowho",
+        "popularity": 0.1633,
+        "profile_path": "/4GViOtQwwZC23b0hByyNG3ltMgo.jpg",
+        "cast_id": 11,
+        "character": "Vincent Hightower 'V'",
+        "credit_id": "5425cc9b0e0a2616e5000113",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179079,
+        "known_for_department": "Acting",
+        "name": "Danny James",
+        "original_name": "Danny James",
+        "popularity": 0.7842,
+        "profile_path": "/qXyH8aRX9rb1RRU0fUt5mBpBbYu.jpg",
+        "cast_id": 12,
+        "character": "Creature",
+        "credit_id": "5425ccc8c3a36848c4000120",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 205930,
+        "known_for_department": "Acting",
+        "name": "Rich McDonald",
+        "original_name": "Rich McDonald",
+        "popularity": 0.6155,
+        "profile_path": "/kiO8DuI5xe6Aftlf1prKsx6JcnH.jpg",
+        "cast_id": 13,
+        "character": "Jonathan Gates",
+        "credit_id": "5425cceb0e0a2616eb000144",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179076,
+        "known_for_department": "Acting",
+        "name": "James C. Morris",
+        "original_name": "James C. Morris",
+        "popularity": 0.0961,
+        "profile_path": "/2Mzh0BeSPH7pjN682XODLqLjZCf.jpg",
+        "cast_id": 14,
+        "character": "Creature",
+        "credit_id": "5425ccfb0e0a2616e2000137",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367950,
+        "known_for_department": "Production",
+        "name": "Will Newman",
+        "original_name": "Will Newman",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Chechen Leader",
+        "credit_id": "5425cd2ac3a36848c400012e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1088036,
+        "known_for_department": "Acting",
+        "name": "Daniel O'Meara",
+        "original_name": "Daniel O'Meara",
+        "popularity": 0.3806,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Jeffery Preston",
+        "credit_id": "5425cd47c3a36848cd00012c",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1292149,
+        "known_for_department": "Writing",
+        "name": "Nicolas Mezzanatto",
+        "original_name": "Nicolas Mezzanatto",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "52fe4eaec3a36847f82a0fe9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367950,
+        "known_for_department": "Production",
+        "name": "Will Newman",
+        "original_name": "Will Newman",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5425cd66c3a36848be00013d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1292149,
+        "known_for_department": "Writing",
+        "name": "Nicolas Mezzanatto",
+        "original_name": "Nicolas Mezzanatto",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5425cd7cc3a36848cd000134",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367951,
+        "known_for_department": "Writing",
+        "name": "Joshua Ringle",
+        "original_name": "Joshua Ringle",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5425cd8ec3a36848d0000132",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

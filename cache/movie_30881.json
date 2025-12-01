@@ -1,0 +1,510 @@
+{
+  "adult": false,
+  "backdrop_path": "/1miArLEKKRtr0fRzSgUbfFxwk8B.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 30881,
+  "imdb_id": "tt0105785",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Vortice mortale",
+  "overview": "Three sisters - voluptuous Vida, Maria (nicknamed \"Sissy\"), and Ludmilla - live together in a run-down apartment building in Budapest.  The sisters all vie for the attentions of Yuri Petkov, a dubious middle-aged pimp who plays them off against each other.  One evening, Ludmilla claims to have found Yuri's body stuffed into their washing machine, but when Inspector Stacev arrives to investigate the body has disappeared.  The good-looking young inspector attempts to discover the truth but in doing so becomes drawn into the sisters' bizarre sex games...",
+  "popularity": 6.585,
+  "poster_path": "/4L5RHrQAJwRCDyRrlyqdMqeMCF5.jpg",
+  "production_companies": [
+    {
+      "id": 84708,
+      "logo_path": null,
+      "name": "A-Esse Cinematografica",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1993-01-01",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Washing Machine",
+  "video": false,
+  "vote_average": 4.9,
+  "vote_count": 19,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38647,
+        "known_for_department": "Acting",
+        "name": "Philippe Caroit",
+        "original_name": "Philippe Caroit",
+        "popularity": 0.1883,
+        "profile_path": "/7D5XXgNcFYWCYYXFmMO9b9hqCx2.jpg",
+        "cast_id": 16,
+        "character": "Inspector Alexander Stacev",
+        "credit_id": "5ea53cfe713ed4001f540b97",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 234734,
+        "known_for_department": "Acting",
+        "name": "Ilaria Borrelli",
+        "original_name": "Ilaria Borrelli",
+        "popularity": 0.4078,
+        "profile_path": "/dyaaCXRZbtILESxbP7UNkabQUAd.jpg",
+        "cast_id": 17,
+        "character": "Maria 'Sissy' Kolba",
+        "credit_id": "5ea53d1b5a46900025117681",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83264,
+        "known_for_department": "Acting",
+        "name": "Katarzyna Figura",
+        "original_name": "Katarzyna Figura",
+        "popularity": 0.5558,
+        "profile_path": "/soJIovC7D98Pn9CvO2vgQbhcJGf.jpg",
+        "cast_id": 18,
+        "character": "Vida Kolba",
+        "credit_id": "5ea53d433faba0002546f26e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1374917,
+        "known_for_department": "Acting",
+        "name": "Barbara Ricci",
+        "original_name": "Barbara Ricci",
+        "popularity": 0.1034,
+        "profile_path": "/5K7ySRgXpDS4r0Vpy3bQokJ0vOz.jpg",
+        "cast_id": 19,
+        "character": "Ludmilla Kolba",
+        "credit_id": "5ea53e0e7390c0001fa5fb11",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2271984,
+        "known_for_department": "Acting",
+        "name": "Laurence Regnier",
+        "original_name": "Laurence Regnier",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Nikolai",
+        "credit_id": "68bc44e7efa96fc7f71f4c1f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1597362,
+        "known_for_department": "Acting",
+        "name": "László Borbély",
+        "original_name": "László Borbély",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Music Teacher",
+        "credit_id": "5ea53e8ea2d2e90018ddd23b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1173632,
+        "known_for_department": "Acting",
+        "name": "Claudia Pozzi",
+        "original_name": "Claudia Pozzi",
+        "popularity": 0.0981,
+        "profile_path": "/5EZ44F0tSEpk3OAoL2K8PUZieU8.jpg",
+        "cast_id": 22,
+        "character": "Irina",
+        "credit_id": "5ea53eaddb72c0001dbd41b2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24696,
+        "known_for_department": "Acting",
+        "name": "Yorgo Voyagis",
+        "original_name": "Yorgo Voyagis",
+        "popularity": 0.494,
+        "profile_path": "/mEEoHZOb5OcxAXiqtE6syJRd3JK.jpg",
+        "cast_id": 23,
+        "character": "Yuri Petkov",
+        "credit_id": "5ea53ece7390c0001da5ff00",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64418,
+        "known_for_department": "Acting",
+        "name": "Vilmos Kolba",
+        "original_name": "Vilmos Kolba",
+        "popularity": 0.0908,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Blind School Instructor",
+        "credit_id": "5ea53ef9bdc34c002626dff6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615334,
+        "known_for_department": "Acting",
+        "name": "Károly Medriczky",
+        "original_name": "Károly Medriczky",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "German Tourist #1",
+        "credit_id": "5ea53f1dbdc34c002026e0a2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093158,
+        "known_for_department": "Acting",
+        "name": "Sándor Boros",
+        "original_name": "Sándor Boros",
+        "popularity": 0.1215,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "German Tourist #2",
+        "credit_id": "5ea53f536d1bb2001da45227",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615337,
+        "known_for_department": "Acting",
+        "name": "Tamás Pintér",
+        "original_name": "Tamás Pintér",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Male Orchestra Singer",
+        "credit_id": "5ea53f71bdc34c002026e0cd",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1851332,
+        "known_for_department": "Acting",
+        "name": "Ágnes Dávid",
+        "original_name": "Ágnes Dávid",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Female Orchestra Singer",
+        "credit_id": "5ea53f9dbdc34c002026e0f3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45572,
+        "known_for_department": "Directing",
+        "name": "Ruggero Deodato",
+        "original_name": "Ruggero Deodato",
+        "popularity": 0.4324,
+        "profile_path": "/bNDicvx6S1D5KbYmkWDB6eADPiN.jpg",
+        "cast_id": 29,
+        "character": "Nosy Neighbor (uncredited)",
+        "credit_id": "5ea53fc6bdc34c002626e070",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101574,
+        "known_for_department": "Camera",
+        "name": "Sergio D'Offizi",
+        "original_name": "Sergio D'Offizi",
+        "popularity": 0.0757,
+        "profile_path": "/rz8lvcxx2rotW8fCUzqij5PdCpM.jpg",
+        "credit_id": "6215482d9ba86a0067c16cc3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615346,
+        "known_for_department": "Production",
+        "name": "Corrado Canzio",
+        "original_name": "Corrado Canzio",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5ea540937390c00020a5f3c2",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16247,
+        "known_for_department": "Production",
+        "name": "Áron Sipos",
+        "original_name": "Áron Sipos",
+        "popularity": 0.0909,
+        "profile_path": null,
+        "credit_id": "5ea5423d66f2d2001e3f1a36",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615370,
+        "known_for_department": "Production",
+        "name": "Stefano Canzio",
+        "original_name": "Stefano Canzio",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "5ea54773bdc34c001e26fba5",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15055,
+        "known_for_department": "Sound",
+        "name": "Claudio Simonetti",
+        "original_name": "Claudio Simonetti",
+        "popularity": 0.5922,
+        "profile_path": "/gJxL4JXgOAANbAoXsHKP9Yc9bbY.jpg",
+        "credit_id": "5ea543cfdb72c0001dbd45e4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615380,
+        "known_for_department": "Production",
+        "name": "Corrado Trionfera",
+        "original_name": "Corrado Trionfera",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5ea5482c5a46900025118119",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 50750,
+        "known_for_department": "Editing",
+        "name": "Gianfranco Amicucci",
+        "original_name": "Gianfranco Amicucci",
+        "popularity": 0.4522,
+        "profile_path": "/haPeC7X8Mu9SToQA3nusurYosVG.jpg",
+        "credit_id": "5ea54496a2d2e9001addc1a1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 16234,
+        "known_for_department": "Art",
+        "name": "Csaba Stork",
+        "original_name": "Csaba Stork",
+        "popularity": 0.0728,
+        "profile_path": null,
+        "credit_id": "5ea544b66d1bb2001da455ed",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31610,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Adriana Spadaro",
+        "original_name": "Adriana Spadaro",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "credit_id": "5ea544e07304b5002564c172",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615386,
+        "known_for_department": "Camera",
+        "name": "Elisa Basconi",
+        "original_name": "Elisa Basconi",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5ea5488a35c30a001dbeb9e1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1193480,
+        "known_for_department": "Writing",
+        "name": "Luigi Spagnol",
+        "original_name": "Luigi Spagnol",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "5ea5402fa2d2e90021ddcaf1",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1497505,
+        "known_for_department": "Acting",
+        "name": "André Koob",
+        "original_name": "André Koob",
+        "popularity": 1.932,
+        "profile_path": null,
+        "credit_id": "5ea540efbdc34c002026e234",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1193480,
+        "known_for_department": "Writing",
+        "name": "Luigi Spagnol",
+        "original_name": "Luigi Spagnol",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "5ea540443faba0001e46e9a8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1597363,
+        "known_for_department": "Production",
+        "name": "Alessandro Canzio",
+        "original_name": "Alessandro Canzio",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "5ea5406e713ed400245410a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2074208,
+        "known_for_department": "Production",
+        "name": "Roberto Ornaro",
+        "original_name": "Roberto Ornaro",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5ea549425a469000251181db",
+        "department": "Production",
+        "job": "Accounting Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45572,
+        "known_for_department": "Directing",
+        "name": "Ruggero Deodato",
+        "original_name": "Ruggero Deodato",
+        "popularity": 0.4324,
+        "profile_path": "/bNDicvx6S1D5KbYmkWDB6eADPiN.jpg",
+        "credit_id": "5ea53ffea2d2e90021ddcada",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615387,
+        "known_for_department": "Camera",
+        "name": "Attila Bogyai",
+        "original_name": "Attila Bogyai",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5ea548aa713ed40024541a41",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853746,
+        "known_for_department": "Production",
+        "name": "Zoltán A. Kerényi",
+        "original_name": "Zoltán A. Kerényi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5ea548cc7304b5002064cc42",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      }
+    ]
+  }
+}

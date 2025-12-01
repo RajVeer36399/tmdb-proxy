@@ -1,0 +1,285 @@
+{
+  "adult": false,
+  "backdrop_path": "/yuU7sx6NGNrgiXcuBTnhSi0nlqO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1391772,
+  "imdb_id": "tt33430448",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Serious People",
+  "overview": "A successful music video director and expectant father pushes his work/life balance to the extreme as he hires a doppelgänger to work in his stead.",
+  "popularity": 6.3433,
+  "poster_path": "/g8gBavq9eHw2d2zeZ3Iy6eGhpxj.jpg",
+  "production_companies": [
+    {
+      "id": 245427,
+      "logo_path": null,
+      "name": "Long Holiday",
+      "origin_country": ""
+    },
+    {
+      "id": 193199,
+      "logo_path": null,
+      "name": "FLORENCE",
+      "origin_country": ""
+    },
+    {
+      "id": 158407,
+      "logo_path": "/zUj7hFnsY8y1hVPfiZYnDtcGTHe.png",
+      "name": "2AM",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-14",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Serious People",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1532682,
+        "known_for_department": "Directing",
+        "name": "Pasqual Gutierrez",
+        "original_name": "Pasqual Gutierrez",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6740baa04dfa06b5df92fd7e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1553596,
+        "known_for_department": "Writing",
+        "name": "Christine Yuan",
+        "original_name": "Christine Yuan",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "6740be5bcce66cf899e93838",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1532682,
+        "known_for_department": "Directing",
+        "name": "Pasqual Gutierrez",
+        "original_name": "Pasqual Gutierrez",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6740ba6332a9aaf43d968ff7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2168293,
+        "known_for_department": "Directing",
+        "name": "Ben Mullinkosson",
+        "original_name": "Ben Mullinkosson",
+        "popularity": 0.0143,
+        "profile_path": "/bU5qB7EOeAj9AzjcemYufDNGsmI.jpg",
+        "credit_id": "6740ba788b4e4c2ef6f799af",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3189121,
+        "known_for_department": "Production",
+        "name": "Laurel Thomson",
+        "original_name": "Laurel Thomson",
+        "popularity": 0.6654,
+        "profile_path": "/arYh74eVukrJDErdMQa2CsbkRla.jpg",
+        "credit_id": "6740ba8432a9aaf43d969000",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2185182,
+        "known_for_department": "Acting",
+        "name": "Teddy Lee",
+        "original_name": "Teddy Lee",
+        "popularity": 0.5084,
+        "profile_path": "/5F1J5Cz5zy9BcpjNUfrsBbEbIA9.jpg",
+        "credit_id": "6740bafedd53fa0060333968",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213390,
+        "known_for_department": "Acting",
+        "name": "Jerad Anderson",
+        "original_name": "Jerad Anderson",
+        "popularity": 0.1491,
+        "profile_path": "/v1ge8cMOXqeM7SzaU92LrKkegDJ.jpg",
+        "credit_id": "6740bb0c4b15b8ae31b00237",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3941271,
+        "known_for_department": "Production",
+        "name": "Ryan Hahn",
+        "original_name": "Ryan Hahn",
+        "popularity": 0.0268,
+        "profile_path": null,
+        "credit_id": "6740bb204b15b8ae31b0023d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2442369,
+        "known_for_department": "Editing",
+        "name": "Nick Rondeau",
+        "original_name": "Nick Rondeau",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6740bb2c4dfa06b5df92fd8d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3272587,
+        "known_for_department": "Crew",
+        "name": "Nick Bupp",
+        "original_name": "Nick Bupp",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "6740bdeaae12bafff5756f02",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5075411,
+        "known_for_department": "Crew",
+        "name": "Neema Sadeghi",
+        "original_name": "Neema Sadeghi",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "6740bdfdae12bafff5756f12",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5075413,
+        "known_for_department": "Sound",
+        "name": "Dennis Waju Broderick",
+        "original_name": "Dennis Waju Broderick",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6740be16dd53fa0060333a8a",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4624996,
+        "known_for_department": "Sound",
+        "name": "David Perlick-Molinari",
+        "original_name": "David Perlick-Molinari",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "credit_id": "6740bed38337acae076de2fd",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5143138,
+        "known_for_department": "Production",
+        "name": "Ryan Hahn",
+        "original_name": "Ryan Hahn",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "676e55dbcfe62644df12ae95",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5565284,
+        "known_for_department": "Acting",
+        "name": "Natasha Atalla Seubert",
+        "original_name": "Natasha Atalla Seubert",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6876190603eaf3871ad15fe9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3003543,
+        "known_for_department": "Production",
+        "name": "Christine D'Souza Gelb",
+        "original_name": "Christine D'Souza Gelb",
+        "popularity": 0.0774,
+        "profile_path": "/oY81IxwJq9aR5f7IWwkTbQ2snIE.jpg",
+        "credit_id": "68fbc299865b91038004f9a9",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

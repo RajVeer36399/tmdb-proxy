@@ -1,0 +1,325 @@
+{
+  "adult": false,
+  "backdrop_path": "/d8D2RV5kB6Cih3Rbp41HOGONH8w.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 84505,
+  "imdb_id": "tt0023101",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Kongo",
+  "overview": "The ruthless Flint, a disabled man, rules an isolated region of Kongo like an omnipotent god, through superstition and sadism, living only for the day when he can get revenge on the man who ruined his life.",
+  "popularity": 5.9538,
+  "poster_path": "/4mDntFmBDmQGLjKW21oIfrxFOst.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1932-10-01",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In the heart of the Kongo!",
+  "title": "Kongo",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19020,
+        "known_for_department": "Acting",
+        "name": "Walter Huston",
+        "original_name": "Walter Huston",
+        "popularity": 0.3819,
+        "profile_path": "/yLhqfB99005d2nS7CIkwWO4qzmP.jpg",
+        "cast_id": 3,
+        "character": "Flint",
+        "credit_id": "52fe48f89251416c9109e57f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89933,
+        "known_for_department": "Acting",
+        "name": "Lupe Vélez",
+        "original_name": "Lupe Vélez",
+        "popularity": 0.3114,
+        "profile_path": "/6DsvdGaLWObOzW9HZB0uYcw9Mag.jpg",
+        "cast_id": 4,
+        "character": "Tula",
+        "credit_id": "52fe48f89251416c9109e583",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141600,
+        "known_for_department": "Acting",
+        "name": "Conrad Nagel",
+        "original_name": "Conrad Nagel",
+        "popularity": 0.2425,
+        "profile_path": "/eq8mN5jfRlkKhU0AlOtbSTtZdeS.jpg",
+        "cast_id": 5,
+        "character": "Kingsland",
+        "credit_id": "52fe48f89251416c9109e587",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95314,
+        "known_for_department": "Acting",
+        "name": "Virginia Bruce",
+        "original_name": "Virginia Bruce",
+        "popularity": 0.4564,
+        "profile_path": "/9yUigFNOmafzbPHTU2WMvlRRHG3.jpg",
+        "cast_id": 6,
+        "character": "Ann",
+        "credit_id": "52fe48f89251416c9109e58b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13356,
+        "known_for_department": "Acting",
+        "name": "C. Henry Gordon",
+        "original_name": "C. Henry Gordon",
+        "popularity": 0.1992,
+        "profile_path": "/f5vA69FepgZdQZ4XjrxForUTAqP.jpg",
+        "cast_id": 7,
+        "character": "Gregg",
+        "credit_id": "52fe48f89251416c9109e58f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13558,
+        "known_for_department": "Acting",
+        "name": "Mitchell Lewis",
+        "original_name": "Mitchell Lewis",
+        "popularity": 0.6936,
+        "profile_path": "/u8t8u4huDqvZKvcBwQKxOFIJiT5.jpg",
+        "cast_id": 10,
+        "character": "Hogan",
+        "credit_id": "55bbe36d9251413e4f000825",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3371,
+        "known_for_department": "Acting",
+        "name": "Forrester Harvey",
+        "original_name": "Forrester Harvey",
+        "popularity": 0.1913,
+        "profile_path": "/vzYmee31j2aozcodvLf4BzViRUh.jpg",
+        "cast_id": 11,
+        "character": "'Cookie'",
+        "credit_id": "55bbe3799251413e49000664",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98011,
+        "known_for_department": "Acting",
+        "name": "Curtis Nero",
+        "original_name": "Curtis Nero",
+        "popularity": 0.6043,
+        "profile_path": "/P0Ol0vpGR0i99pbH33iG4Bo2qI.jpg",
+        "cast_id": 12,
+        "character": "Fuzzy",
+        "credit_id": "55bbe384c3a368653400072f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34749,
+        "known_for_department": "Acting",
+        "name": "Sarah Padden",
+        "original_name": "Sarah Padden",
+        "popularity": 0.2438,
+        "profile_path": "/63eGkQj5twYEyhZvzd7HthHEA0U.jpg",
+        "cast_id": 15,
+        "character": "Nun (uncredited)",
+        "credit_id": "55bbe3b29251413e55000765",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131612,
+        "known_for_department": "Acting",
+        "name": "Charles Irwin",
+        "original_name": "Charles Irwin",
+        "popularity": 0.2006,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Carl (uncredited)",
+        "credit_id": "55bbe3a2c3a3686528000553",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555903,
+        "known_for_department": "Acting",
+        "name": "Everett Brown",
+        "original_name": "Everett Brown",
+        "popularity": 0.1882,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Native Messenger (uncredited)",
+        "credit_id": "55bbe398c3a3686540000763",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 129284,
+        "known_for_department": "Directing",
+        "name": "William J. Cowen",
+        "original_name": "William J. Cowen",
+        "popularity": 0.0975,
+        "profile_path": null,
+        "credit_id": "52fe48f89251416c9109e57b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1504,
+        "known_for_department": "Writing",
+        "name": "Leon Gordon",
+        "original_name": "Leon Gordon",
+        "popularity": 0.129,
+        "profile_path": null,
+        "credit_id": "52fe48f89251416c9109e595",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9057,
+        "known_for_department": "Camera",
+        "name": "Harold Rosson",
+        "original_name": "Harold Rosson",
+        "popularity": 0.6716,
+        "profile_path": "/qqxZGn4yf5TKAQBTdFIv7zMy4F3.jpg",
+        "credit_id": "53aaddaf0e0a2646d8003967",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9062,
+        "known_for_department": "Art",
+        "name": "Cedric Gibbons",
+        "original_name": "Cedric Gibbons",
+        "popularity": 0.8601,
+        "profile_path": "/4490hNfDKQPh0pIn8GBSQ0UARMX.jpg",
+        "credit_id": "55bbe3c89251413e4f00082a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42065,
+        "known_for_department": "Editing",
+        "name": "Conrad A. Nervig",
+        "original_name": "Conrad A. Nervig",
+        "popularity": 0.085,
+        "profile_path": null,
+        "credit_id": "5da7a91f944a57001323da4d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1492391,
+        "known_for_department": "Writing",
+        "name": "Kilbourn Gordon",
+        "original_name": "Kilbourn Gordon",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "5da7a43b3876510012602e6a",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27969,
+        "known_for_department": "Sound",
+        "name": "Douglas Shearer",
+        "original_name": "Douglas Shearer",
+        "popularity": 0.5868,
+        "profile_path": "/tw536317kcFJ6Uft0GHHF0mKjSN.jpg",
+        "credit_id": "5da7a98b3876510018601622",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1492388,
+        "known_for_department": "Writing",
+        "name": "Chester De Vonde",
+        "original_name": "Chester De Vonde",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5da7a42d70309f001663f918",
+        "department": "Writing",
+        "job": "Theatre Play"
+      }
+    ]
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "adult": false,
+  "backdrop_path": "/sJYl4GhbOl5y3mv6yI8xRLlmp8B.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 254007,
+  "imdb_id": "tt2401181",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Der Samurai",
+  "overview": "Jakob, a young policeman from a remote village, has his world unhinged when a stranger in a dress emerges from the forest and begins killing villagers with a sword.",
+  "popularity": 6.0668,
+  "poster_path": "/2Bfxo1tuW4fApjJAh8vcYK0Rbrj.jpg",
+  "production_companies": [
+    {
+      "id": 31052,
+      "logo_path": "/pJgQoO1PyJdhOP1UOrVsDeolYw7.png",
+      "name": "Deutsche Film- und Fernsehakademie Berlin (DFFB)",
+      "origin_country": "DE"
+    },
+    {
+      "id": 41001,
+      "logo_path": null,
+      "name": "Schattenkante",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2014-02-08",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The deadliest thing from Germany since 1945!",
+  "title": "The Samurai",
+  "video": false,
+  "vote_average": 5.445,
+  "vote_count": 55,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1304172,
+        "known_for_department": "Acting",
+        "name": "Michel Diercks",
+        "original_name": "Michel Diercks",
+        "popularity": 0.0797,
+        "profile_path": "/kyU7NHGXSAJ6a85gIYbPIXC5e4G.jpg",
+        "cast_id": 2,
+        "character": "Jakob",
+        "credit_id": "532fff889251413a85005337",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115421,
+        "known_for_department": "Acting",
+        "name": "Pit Bukowski",
+        "original_name": "Pit Bukowski",
+        "popularity": 0.6387,
+        "profile_path": "/h4nHsMTehfJvtdZENWy7g9dr7k3.jpg",
+        "cast_id": 3,
+        "character": "Der Samurai",
+        "credit_id": "532fff909251413a7b00539d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212928,
+        "known_for_department": "Acting",
+        "name": "Uwe Preuss",
+        "original_name": "Uwe Preuss",
+        "popularity": 0.1815,
+        "profile_path": "/9CrAt3DSEHps4PP7LiHWah9yGMF.jpg",
+        "cast_id": 4,
+        "character": "Horvath",
+        "credit_id": "532fffbbc3a3685fbb0062d0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1304173,
+        "known_for_department": "Acting",
+        "name": "Kaja Blachnik",
+        "original_name": "Kaja Blachnik",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Karo",
+        "credit_id": "532fffc1c3a3685fbb0062d4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1304174,
+        "known_for_department": "Acting",
+        "name": "Ulrike Hanke-Haensch",
+        "original_name": "Ulrike Hanke-Haensch",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Großmutter",
+        "credit_id": "532fffc9c3a3685fcb006364",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1304175,
+        "known_for_department": "Acting",
+        "name": "Christopher Kane",
+        "original_name": "Christopher Kane",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Schölli",
+        "credit_id": "532fffcfc3a3685fac006259",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36786,
+        "known_for_department": "Acting",
+        "name": "Ulrike Bliefert",
+        "original_name": "Ulrike Bliefert",
+        "popularity": 0.3528,
+        "profile_path": "/rJnTNH69rourayPB4c0JWRPkDNv.jpg",
+        "cast_id": 8,
+        "character": "Hundebesitzerin",
+        "credit_id": "532fffd6c3a3685fc3006436",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1057076,
+        "known_for_department": "Directing",
+        "name": "Till Kleinert",
+        "original_name": "Till Kleinert",
+        "popularity": 0.0843,
+        "profile_path": "/cccvaBfhqJoNfKl1jPsJJckOmXG.jpg",
+        "credit_id": "52fe4e9e9251416c91137f09",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212041,
+        "known_for_department": "Sound",
+        "name": "Manuel Vogt",
+        "original_name": "Manuel Vogt",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "62d2ffad53f83304009f6009",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448763,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Malena Modéer",
+        "original_name": "Malena Modéer",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "551d487ac3a3683a0a0000b4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1057076,
+        "known_for_department": "Directing",
+        "name": "Till Kleinert",
+        "original_name": "Till Kleinert",
+        "popularity": 0.0843,
+        "profile_path": "/cccvaBfhqJoNfKl1jPsJJckOmXG.jpg",
+        "credit_id": "551d4838925141375300009d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1338983,
+        "known_for_department": "Visual Effects",
+        "name": "Florian Gellinger",
+        "original_name": "Florian Gellinger",
+        "popularity": 0.1309,
+        "profile_path": null,
+        "credit_id": "551d491792514137410000cd",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28561,
+        "known_for_department": "Camera",
+        "name": "Jide Tom Akinleminu",
+        "original_name": "Jide Tom Akinleminu",
+        "popularity": 0.0561,
+        "profile_path": "/cf3wJzpvGJv53YzY6xjlSdWXLB1.jpg",
+        "credit_id": "551d4972c3a3683a200000e9",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448762,
+        "known_for_department": "Art",
+        "name": "Tomoko Okada",
+        "original_name": "Tomoko Okada",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "551d4866c3a3683a200000b7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448761,
+        "known_for_department": "Art",
+        "name": "Sandra Fleischer",
+        "original_name": "Sandra Fleischer",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "551d4853c3a3683a180000b2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1201974,
+        "known_for_department": "Sound",
+        "name": "Magnus Pflüger",
+        "original_name": "Magnus Pflüger",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "551d48d7c3a3683a0d0000b0",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448759,
+        "known_for_department": "Sound",
+        "name": "Conrad Oleak",
+        "original_name": "Conrad Oleak",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "551d480f925141374c0000a7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448774,
+        "known_for_department": "Production",
+        "name": "Patrick Rupprecht",
+        "original_name": "Patrick Rupprecht",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "551d49f2c3a3683a250000da",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28543,
+        "known_for_department": "Directing",
+        "name": "Linus de Paoli",
+        "original_name": "Linus de Paoli",
+        "popularity": 0.0861,
+        "profile_path": "/3wH72ut1emhBYqlDwk32fODFqNh.jpg",
+        "credit_id": "551d47fa9251413753000094",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448772,
+        "known_for_department": "Camera",
+        "name": "Emi Maria Bohacek",
+        "original_name": "Emi Maria Bohacek",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "551d49ab92514137430000ea",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1397452,
+        "known_for_department": "Production",
+        "name": "Anna de Paoli",
+        "original_name": "Anna de Paoli",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "551d47e6925141374f00009a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59435,
+        "known_for_department": "Camera",
+        "name": "Martin Hanslmayr",
+        "original_name": "Martin Hanslmayr",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "551d4820c3a3683a1c00009a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1057076,
+        "known_for_department": "Directing",
+        "name": "Till Kleinert",
+        "original_name": "Till Kleinert",
+        "popularity": 0.0843,
+        "profile_path": "/cccvaBfhqJoNfKl1jPsJJckOmXG.jpg",
+        "credit_id": "551d47909251413745000080",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448765,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sabine Gerlach",
+        "original_name": "Sabine Gerlach",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "551d4896c3a3683a200000c3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132185,
+        "known_for_department": "Crew",
+        "name": "Dawid Szatarski",
+        "original_name": "Dawid Szatarski",
+        "popularity": 0.0843,
+        "profile_path": "/pyHfVQKcWYZKrJ8TBrFObCcMRL8.jpg",
+        "credit_id": "551d495192514137410000dd",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448769,
+        "known_for_department": "Visual Effects",
+        "name": "Bastian Hopfgarten",
+        "original_name": "Bastian Hopfgarten",
+        "popularity": 0.2016,
+        "profile_path": null,
+        "credit_id": "551d4933c3a3683a1c0000c8",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448773,
+        "known_for_department": "Lighting",
+        "name": "Alexander Hassenkamp",
+        "original_name": "Alexander Hassenkamp",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "551d49c1c3a3683a100000e5",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448771,
+        "known_for_department": "Camera",
+        "name": "Markus Kuballa",
+        "original_name": "Markus Kuballa",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "551d499392514137450000d2",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      }
+    ]
+  }
+}

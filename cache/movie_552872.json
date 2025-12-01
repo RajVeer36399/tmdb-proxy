@@ -1,0 +1,391 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Cdvg63o4y1Do3vdR50OPUiIrQ3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 552872,
+  "imdb_id": "tt7656570",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Legal Action",
+  "overview": "Big-city lawyer Casey McKay, is drawn to a small town by his ex-wife to defend her brother, accused of murdering a DA. He discovers a web of conspiracy that puts him face-to-face with the town's most corrupt land developer, Mr. Gates.",
+  "popularity": 6.1066,
+  "poster_path": "/pGmBI258wWc9QA96YQpWXTWFdPQ.jpg",
+  "production_companies": [
+    {
+      "id": 142151,
+      "logo_path": "/Aq6Bc70IcVtNIvZTN0Hc7MPfRFB.png",
+      "name": "Imagicomm Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 142153,
+      "logo_path": "/uobNAWGo2zAbV5ZZB2vXGufdaby.png",
+      "name": "INSP Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 142152,
+      "logo_path": null,
+      "name": "Sydney Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-10-08",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Legal Action",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119520,
+        "known_for_department": "Acting",
+        "name": "Eric Close",
+        "original_name": "Eric Close",
+        "popularity": 1,
+        "profile_path": "/njJYXuTlmCgI3VVHBFqkqrhiey3.jpg",
+        "cast_id": 3,
+        "character": "Casey McKay",
+        "credit_id": "5bbc250c0e0a26661500e947",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2478,
+        "known_for_department": "Acting",
+        "name": "Tommy Flanagan",
+        "original_name": "Tommy Flanagan",
+        "popularity": 2.3646,
+        "profile_path": "/5OnvT1KpEk3juZavqOCSAEYOtwl.jpg",
+        "cast_id": 4,
+        "character": "Mr. Gates",
+        "credit_id": "5bbc2522925141379a00e024",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6172,
+        "known_for_department": "Acting",
+        "name": "Tanya Clarke",
+        "original_name": "Tanya Clarke",
+        "popularity": 0.7159,
+        "profile_path": "/sxJxNhLEPy2B00bf2q16YKEhkj3.jpg",
+        "cast_id": 5,
+        "character": "Pru",
+        "credit_id": "5bbc26a9c3a368590a00ee67",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12538,
+        "known_for_department": "Acting",
+        "name": "Nick Searcy",
+        "original_name": "Nick Searcy",
+        "popularity": 0.6542,
+        "profile_path": "/AnqbYGdLLaUaMfCtE0zYiRiI7E6.jpg",
+        "cast_id": 6,
+        "character": "Soloman",
+        "credit_id": "5bbc26c6c3a368590a00ee89",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 156100,
+        "known_for_department": "Acting",
+        "name": "Kevin Sizemore",
+        "original_name": "Kevin Sizemore",
+        "popularity": 0.8665,
+        "profile_path": "/83ceJvDsSMMU4KoNcW39lvWrHTK.jpg",
+        "cast_id": 7,
+        "character": "Jay Chambers",
+        "credit_id": "5bbc26e20e0a26661800eaa9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021815,
+        "known_for_department": "Acting",
+        "name": "Christian James",
+        "original_name": "Christian James",
+        "popularity": 0.5756,
+        "profile_path": "/I3iUTkICSDBnk08uYGljCd1uFx.jpg",
+        "cast_id": 8,
+        "character": "Kit Chambers",
+        "credit_id": "5bbc27010e0a26660800f527",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37937,
+        "known_for_department": "Acting",
+        "name": "Gregory Alan Williams",
+        "original_name": "Gregory Alan Williams",
+        "popularity": 1.2836,
+        "profile_path": "/3IM9qtI4c4zgraPNtRI3kCPivAo.jpg",
+        "cast_id": 9,
+        "character": "Ben",
+        "credit_id": "5bbc2716925141378b00d2ef",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1301772,
+        "known_for_department": "Acting",
+        "name": "Mark Ashworth",
+        "original_name": "Mark Ashworth",
+        "popularity": 0.2631,
+        "profile_path": "/nfhUTghFe0izP9NguZsDVqmVgEk.jpg",
+        "cast_id": 10,
+        "character": "Geraldo",
+        "credit_id": "5bbc272f0e0a26660c00e651",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1702316,
+        "known_for_department": "Acting",
+        "name": "Gunner Willis",
+        "original_name": "Gunner Willis",
+        "popularity": 0.3149,
+        "profile_path": "/7btxsL6QQrInbRfdHJ2JmZX1cNM.jpg",
+        "cast_id": 11,
+        "character": "Dusty",
+        "credit_id": "5f8e042eac617c00377e7930",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2010762,
+        "known_for_department": "Acting",
+        "name": "Kristopher Wente",
+        "original_name": "Kristopher Wente",
+        "popularity": 1.2979,
+        "profile_path": "/qcArxYHcc57Ahs0jyjC75tFAKxG.jpg",
+        "cast_id": 14,
+        "character": "Ratchet",
+        "credit_id": "66d222c96cbf9623e681202f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590183,
+        "known_for_department": "Acting",
+        "name": "Brian Lafontaine",
+        "original_name": "Brian Lafontaine",
+        "popularity": 0.0872,
+        "profile_path": "/nR68GlbxFPQqqhBRgZWkL7vFZ6b.jpg",
+        "cast_id": 15,
+        "character": "Parker Myers",
+        "credit_id": "66d22301ea22ad562c94415c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4914071,
+        "known_for_department": "Acting",
+        "name": "George Bryant",
+        "original_name": "George Bryant",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Sunrise Cafe Owner",
+        "credit_id": "66d2233338adc2a72c003a2f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1649070,
+        "known_for_department": "Acting",
+        "name": "Stephen Ware",
+        "original_name": "Stephen Ware",
+        "popularity": 0.1204,
+        "profile_path": "/isaz34cSnHOJ6ItsMRWFod1BkYt.jpg",
+        "cast_id": 17,
+        "character": "Judge Jeb Thorne (as Stephen T.  Ware)",
+        "credit_id": "66d2235df30a7b3c8003c086",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4914075,
+        "known_for_department": "Acting",
+        "name": "Jared Simon",
+        "original_name": "Jared Simon",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Juror #1",
+        "credit_id": "66d223bbbf9c4462cc9b9082",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1455812,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Becka",
+        "original_name": "Elizabeth Becka",
+        "popularity": 0.2932,
+        "profile_path": "/1Ew2isbKKLdnK3DvKX01QELrgET.jpg",
+        "cast_id": 19,
+        "character": "Juror #2",
+        "credit_id": "66d223d54d1c3e4c89964902",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4914079,
+        "known_for_department": "Acting",
+        "name": "Adam Elrod",
+        "original_name": "Adam Elrod",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Michael \"Boots\" Killby",
+        "credit_id": "66d22460a1300cff710c27d3",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1743091,
+        "known_for_department": "Acting",
+        "name": "Gary Ray Moore",
+        "original_name": "Gary Ray Moore",
+        "popularity": 0.4956,
+        "profile_path": "/dmrnP1bFOTFw7irc47EJ1DYsYAU.jpg",
+        "cast_id": 21,
+        "character": "Jason 'Frog' Stittum",
+        "credit_id": "66d2247663aa27a5328120c8",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865267,
+        "known_for_department": "Camera",
+        "name": "Brent Christy",
+        "original_name": "Brent Christy",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "64ac12c066a0d3011d7c4000",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027620,
+        "known_for_department": "Editing",
+        "name": "Jonathan Olive",
+        "original_name": "Jonathan Olive",
+        "popularity": 0.395,
+        "profile_path": null,
+        "credit_id": "64ac12c7e24b9300aee339d7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865267,
+        "known_for_department": "Camera",
+        "name": "Brent Christy",
+        "original_name": "Brent Christy",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "5bbc239d0e0a26661800e6e9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1835131,
+        "known_for_department": "Directing",
+        "name": "Shea Sizemore",
+        "original_name": "Shea Sizemore",
+        "popularity": 0.0783,
+        "profile_path": null,
+        "credit_id": "5bbc23e0925141379f00d482",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2025714,
+        "known_for_department": "Production",
+        "name": "Jack Kelly",
+        "original_name": "Jack Kelly",
+        "popularity": 0.2009,
+        "profile_path": "/dSEkLBXJhiYdH35BS9lYWeSkg7Q.jpg",
+        "credit_id": "670cf047d5f93a3da0bbac09",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2231990,
+        "known_for_department": "Crew",
+        "name": "Matt LaBorde",
+        "original_name": "Matt LaBorde",
+        "popularity": 0.1079,
+        "profile_path": "/kjBmjGEGsYdkAdqW7jBOgQINwms.jpg",
+        "credit_id": "6846fd96631b06539a1eab8b",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  }
+}

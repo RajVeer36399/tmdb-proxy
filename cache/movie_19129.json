@@ -1,0 +1,557 @@
+{
+  "adult": false,
+  "backdrop_path": "/ycTHL2CJTHNtGQqznhFCT3PjxTr.jpg",
+  "belongs_to_collection": {
+    "id": 11140,
+    "name": "Dr. Mabuse Collection",
+    "poster_path": "/e9iMj6Xb1MSTqK7ypCa6fGQyLn2.jpg",
+    "backdrop_path": "/91bjhhNr46T07ZZisdXUGGnU7ja.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 19129,
+  "imdb_id": "tt0055008",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Im Stahlnetz des Dr. Mabuse",
+  "overview": "The supposedly dead and buried Mabuse returns to his criminal activities, as his longtime foe Police Inspector Lohmann, a dauntless girl reporter, and an American - who may be an FBI agent, or maybe a Chicago mobster - investigate a series of gruesome murders connected to a maximum security prison and involving a minister who has written a book called \"The Anatomy Of The Devil\".",
+  "popularity": 7.3774,
+  "poster_path": "/7wUn7RotbM1RSq9wdpRNJtakRWN.jpg",
+  "production_companies": [
+    {
+      "id": 12239,
+      "logo_path": null,
+      "name": "SpA Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 10563,
+      "logo_path": null,
+      "name": "Critérion Film",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1787,
+      "logo_path": "/tWdfCS6OBkxSuXao5lluNKDIvlc.png",
+      "name": "CCC Filmkunst",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1961-01-01",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Return of Dr. Mabuse",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 17,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9908,
+        "known_for_department": "Acting",
+        "name": "Gert Fröbe",
+        "original_name": "Gert Fröbe",
+        "popularity": 0.6595,
+        "profile_path": "/lIobC5BdEUf4bKHnDBaFGspb3ve.jpg",
+        "cast_id": 1,
+        "character": "Lohmann",
+        "credit_id": "52fe47bc9251416c750a3d71",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6102,
+        "known_for_department": "Acting",
+        "name": "Lex Barker",
+        "original_name": "Lex Barker",
+        "popularity": 0.6374,
+        "profile_path": "/kcNxjdzObste6GAiz5nu0BEa409.jpg",
+        "cast_id": 2,
+        "character": "Joe Como",
+        "credit_id": "52fe47bc9251416c750a3d75",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39754,
+        "known_for_department": "Acting",
+        "name": "Daliah Lavi",
+        "original_name": "Daliah Lavi",
+        "popularity": 0.3842,
+        "profile_path": "/hdttdJlwP1bve7YjM3knMmvMgOn.jpg",
+        "cast_id": 3,
+        "character": "Maria Sabrehm",
+        "credit_id": "52fe47bc9251416c750a3d79",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36839,
+        "known_for_department": "Acting",
+        "name": "Werner Peters",
+        "original_name": "Werner Peters",
+        "popularity": 0.2367,
+        "profile_path": "/q17exadTllfGAQ2qfAGO2S3plFb.jpg",
+        "cast_id": 6,
+        "character": "Böhmler",
+        "credit_id": "5352b77cc3a3681d81002ba2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57490,
+        "known_for_department": "Acting",
+        "name": "Fausto Tozzi",
+        "original_name": "Fausto Tozzi",
+        "popularity": 0.2897,
+        "profile_path": "/AkB0VBAL78vxLFXv3QPorMFsYYF.jpg",
+        "cast_id": 15,
+        "character": "Warden Wolf",
+        "credit_id": "54b567fcc3a368094e009ca1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32521,
+        "known_for_department": "Acting",
+        "name": "Joachim Mock",
+        "original_name": "Joachim Mock",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Detective Voss",
+        "credit_id": "54b568139251416fa30005ed",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37675,
+        "known_for_department": "Acting",
+        "name": "Rudolf Forster",
+        "original_name": "Rudolf Forster",
+        "popularity": 0.1458,
+        "profile_path": "/tJ75S9wMgObH97GVhIY2Y4LmrJH.jpg",
+        "cast_id": 8,
+        "character": "Julius Sabrehm",
+        "credit_id": "5352b7a5c3a3681d98002b69",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44496,
+        "known_for_department": "Acting",
+        "name": "Rudolf Fernau",
+        "original_name": "Rudolf Fernau",
+        "popularity": 0.4879,
+        "profile_path": "/iEszwwXgPjC9U3RNbLDkXWu7Ua6.jpg",
+        "cast_id": 9,
+        "character": "Reverend Brietenstein",
+        "credit_id": "5352b7bcc3a3681d93002be4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49977,
+        "known_for_department": "Acting",
+        "name": "Albert Bessler",
+        "original_name": "Albert Bessler",
+        "popularity": 0.4273,
+        "profile_path": "/iyhvL62a8S2LY5UeMyHicohPU4J.jpg",
+        "cast_id": 12,
+        "character": "Black Cloaked Peddler",
+        "credit_id": "53fd0b11c3a3684c83000128",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10026,
+        "known_for_department": "Acting",
+        "name": "Ady Berber",
+        "original_name": "Ady Berber",
+        "popularity": 0.315,
+        "profile_path": "/pzTJTvpETVQL9PWahDsoWlgbvbR.jpg",
+        "cast_id": 10,
+        "character": "Alberto Sandro",
+        "credit_id": "5352b7cac3a3681d87002ce4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1111499,
+        "known_for_department": "Acting",
+        "name": "Zeev Berlinsky",
+        "original_name": "Zeev Berlinsky",
+        "popularity": 0.0637,
+        "profile_path": "/lickxvcpsTSvwuKyocJMVo2rmrY.jpg",
+        "cast_id": 19,
+        "character": "Man With Prosthetic Leg",
+        "credit_id": "5cb3804dc3a3683c20b06e6b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2288686,
+        "known_for_department": "Acting",
+        "name": "Henri Coubet",
+        "original_name": "Henri Coubet",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "The Blind Beggar",
+        "credit_id": "5cb3803f0e0a2626cac9099d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1315106,
+        "known_for_department": "Acting",
+        "name": "Laura Solari",
+        "original_name": "Laura Solari",
+        "popularity": 0.0639,
+        "profile_path": "/apTrJOSKs5Zv6AVFFZHsiDjtAn2.jpg",
+        "cast_id": 17,
+        "character": "Mrs. Pizarro",
+        "credit_id": "54b56821925141747200943a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14121,
+        "known_for_department": "Acting",
+        "name": "Wolfgang Preiss",
+        "original_name": "Wolfgang Preiss",
+        "popularity": 0.2702,
+        "profile_path": "/oIWvhCWDMOeyMBBwLJIzSo4L4uN.jpg",
+        "cast_id": 4,
+        "character": "Dr. Mabuse",
+        "credit_id": "52fe47bc9251416c750a3d7d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36342,
+        "known_for_department": "Acting",
+        "name": "Herbert Weißbach",
+        "original_name": "Herbert Weißbach",
+        "popularity": 0.6043,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Coroner",
+        "credit_id": "5352b7e0c3a3681d98002b73",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36917,
+        "known_for_department": "Acting",
+        "name": "Jean-Roger Caussimon",
+        "original_name": "Jean-Roger Caussimon",
+        "popularity": 0.2459,
+        "profile_path": "/rP1ofBH8D3D4Wb1EihaCrp4KabV.jpg",
+        "cast_id": 20,
+        "character": "Küster",
+        "credit_id": "5e8c55dc63e6fb001484a491",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1134567,
+        "known_for_department": "Acting",
+        "name": "Lou Seitz",
+        "original_name": "Lou Seitz",
+        "popularity": 0.0493,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Mrs. Lohmann",
+        "credit_id": "5e8c5628105611001685afd5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18548,
+        "known_for_department": "Acting",
+        "name": "Alexander Engel",
+        "original_name": "Alexander Engel",
+        "popularity": 0.0734,
+        "profile_path": "/IO2sUn8p6SOs1KLq76mCxOueiS.jpg",
+        "cast_id": 23,
+        "character": "Prof. Griesinger",
+        "credit_id": "5e8c565463e6fb001484a582",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 558555,
+        "known_for_department": "Acting",
+        "name": "Erik Radolf",
+        "original_name": "Erik Radolf",
+        "popularity": 0.0716,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Oberst Haag",
+        "credit_id": "5e8c56fe3a340b0012037eeb",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33542,
+        "known_for_department": "Directing",
+        "name": "Harald Reinl",
+        "original_name": "Harald Reinl",
+        "popularity": 0.5794,
+        "profile_path": "/7rfR3HsRHhDdnMBUv36ZAKnQdcX.jpg",
+        "credit_id": "52fe47bc9251416c750a3d83",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37958,
+        "known_for_department": "Art",
+        "name": "Hans Jürgen Kiebach",
+        "original_name": "Hans-Jürgen Kiebach",
+        "popularity": 0.6175,
+        "profile_path": null,
+        "credit_id": "611453ea283ed90045f9fc15",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29135,
+        "known_for_department": "Art",
+        "name": "Otto Erdmann",
+        "original_name": "Otto Erdmann",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "credit_id": "611453d5b7abb5007d57fd35",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45621,
+        "known_for_department": "Writing",
+        "name": "Ladislas Fodor",
+        "original_name": "Ladislas Fodor",
+        "popularity": 0.3045,
+        "profile_path": "/i52qn0Fb7Q7aapeEtMcRvddpdBO.jpg",
+        "credit_id": "54b567da925141736900510e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29496,
+        "known_for_department": "Writing",
+        "name": "Marc Behm",
+        "original_name": "Marc Behm",
+        "popularity": 0.5331,
+        "profile_path": "/n4uWhHn2RopkAuBJOqTvn6nN2ut.jpg",
+        "credit_id": "54b567cd9251416fa30005e5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32528,
+        "known_for_department": "Production",
+        "name": "Wolf Brauner",
+        "original_name": "Wolf Brauner",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5e8c57581056110013859d85",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40992,
+        "known_for_department": "Sound",
+        "name": "Peter Sandloff",
+        "original_name": "Peter Sandloff",
+        "popularity": 0.0566,
+        "profile_path": null,
+        "credit_id": "5e8c57663a340b00160380f1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18553,
+        "known_for_department": "Camera",
+        "name": "Karl Löb",
+        "original_name": "Karl Löb",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "credit_id": "5e8c57780d294400127a4e72",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12737,
+        "known_for_department": "Production",
+        "name": "Artur Brauner",
+        "original_name": "Artur Brauner",
+        "popularity": 0.5924,
+        "profile_path": "/ydOQeaIPaxb8e0yz62quL6wful3.jpg",
+        "credit_id": "5e8c57440d294400147a6e49",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1568004,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Charlotte Kersten",
+        "original_name": "Charlotte Kersten",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5e8c57ce0d294400127a4f13",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1634662,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Willi Nixdorf",
+        "original_name": "Willi Nixdorf",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5e8c57dbad87f700196a988f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 55768,
+        "known_for_department": "Directing",
+        "name": "Carl von Barany",
+        "original_name": "Carl von Barany",
+        "popularity": 0.0554,
+        "profile_path": null,
+        "credit_id": "5e8c57ee0d294400127a4f58",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2592681,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gisela Nixdorf",
+        "original_name": "Gisela Nixdorf",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5e8c57bfad87f75dd76a3616",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12741,
+        "known_for_department": "Editing",
+        "name": "Hermann Haller",
+        "original_name": "Hermann Haller",
+        "popularity": 0.7004,
+        "profile_path": null,
+        "credit_id": "5e8c57863a340b00160381f2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901183,
+        "known_for_department": "Sound",
+        "name": "Eduard Kessel",
+        "original_name": "Eduard Kessel",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "5e8c57fdad87f700176a8b60",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  }
+}

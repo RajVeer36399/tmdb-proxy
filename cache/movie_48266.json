@@ -1,0 +1,548 @@
+{
+  "adult": false,
+  "backdrop_path": "/qTZAaHBjdhupfodsMIj4xZrzek0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.mamerethemovie.com/",
+  "id": 48266,
+  "imdb_id": "tt0381392",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Ma mère",
+  "overview": "After his father's death, a young man is introduced to a world of hedonism and depravity by his amoral mother.",
+  "popularity": 6.2639,
+  "poster_path": "/uYWyC1jjcEkjR3aKFZ4ruNWM1io.jpg",
+  "production_companies": [
+    {
+      "id": 6584,
+      "logo_path": null,
+      "name": "Gemini Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 102089,
+      "logo_path": "/sgtZj2tbpPqDfzkEVYICaX2SqyV.png",
+      "name": "Les Films du Camélia",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1249,
+      "logo_path": null,
+      "name": "Les Films du Lendemain",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 278037,
+      "logo_path": null,
+      "name": "S2 International Audiovisual Consulting",
+      "origin_country": "ES"
+    },
+    {
+      "id": 82794,
+      "logo_path": "/sedPv0sKMmZvHIpzZSVlOm3vhPR.png",
+      "name": "Amour Fou Vienna",
+      "origin_country": "AT"
+    },
+    {
+      "id": 278043,
+      "logo_path": null,
+      "name": "Natan Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "2004-05-19",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ma mère",
+  "video": false,
+  "vote_average": 4.4,
+  "vote_count": 168,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17882,
+        "known_for_department": "Acting",
+        "name": "Isabelle Huppert",
+        "original_name": "Isabelle Huppert",
+        "popularity": 1.6095,
+        "profile_path": "/3YQwWkpNKQeV5NUmdCH76Ne1gDP.jpg",
+        "cast_id": 3,
+        "character": "Héléne",
+        "credit_id": "52fe475cc3a36847f81318a3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16269,
+        "known_for_department": "Acting",
+        "name": "Louis Garrel",
+        "original_name": "Louis Garrel",
+        "popularity": 1.9813,
+        "profile_path": "/lrGbGrTogl6f1by8OnZEsvI63kY.jpg",
+        "cast_id": 4,
+        "character": "Pierre",
+        "credit_id": "52fe475cc3a36847f81318a7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 23392,
+        "known_for_department": "Acting",
+        "name": "Joana Preiss",
+        "original_name": "Joana Preiss",
+        "popularity": 0.2535,
+        "profile_path": "/aP3PslnXvprm0MMcAv8FuVwr3bg.jpg",
+        "cast_id": 6,
+        "character": "Réa",
+        "credit_id": "52fe475cc3a36847f81318ab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4286,
+        "known_for_department": "Acting",
+        "name": "Emma de Caunes",
+        "original_name": "Emma de Caunes",
+        "popularity": 1.2025,
+        "profile_path": "/4SGij5jBQNznmVxBHDBtc8gUD2v.jpg",
+        "cast_id": 8,
+        "character": "Hansi",
+        "credit_id": "52fe475cc3a36847f81318af",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23224,
+        "known_for_department": "Acting",
+        "name": "Jean-Baptiste Montagut",
+        "original_name": "Jean-Baptiste Montagut",
+        "popularity": 0.1988,
+        "profile_path": "/f8swUXvDbAuXfFmhGQs6RADnF9H.jpg",
+        "cast_id": 10,
+        "character": "Loulou",
+        "credit_id": "535fc5a0c3a3683099006b38",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19363,
+        "known_for_department": "Acting",
+        "name": "Dominique Reymond",
+        "original_name": "Dominique Reymond",
+        "popularity": 0.0948,
+        "profile_path": "/7FFvvt6s1M0R0edQLA1hjaeNCXE.jpg",
+        "cast_id": 11,
+        "character": "Marthe",
+        "credit_id": "535fc5aec3a368309100694f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49278,
+        "known_for_department": "Acting",
+        "name": "Olivier Rabourdin",
+        "original_name": "Olivier Rabourdin",
+        "popularity": 0.6645,
+        "profile_path": "/r15C7VnXnyMJk8JyNQOJGaauiKA.jpg",
+        "cast_id": 12,
+        "character": "Robert",
+        "credit_id": "535fc5bcc3a36830a9006a62",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64645,
+        "known_for_department": "Acting",
+        "name": "Philippe Duclos",
+        "original_name": "Philippe Duclos",
+        "popularity": 1.4945,
+        "profile_path": "/oCM9gUDBYfdYwhYmCwvxYs1l2nf.jpg",
+        "cast_id": 13,
+        "character": "The Father",
+        "credit_id": "535fc5cbc3a3683084006bac",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1314997,
+        "known_for_department": "Acting",
+        "name": "Pascal Tokatlian",
+        "original_name": "Pascal Tokatlian",
+        "popularity": 0.0546,
+        "profile_path": "/ge7u1zTIKXlVsk74qq4grgwzTnK.jpg",
+        "cast_id": 14,
+        "character": "Klaus",
+        "credit_id": "535fc5ddc3a3683084006bb3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1314998,
+        "known_for_department": "Acting",
+        "name": "Théo Hakola",
+        "original_name": "Théo Hakola",
+        "popularity": 0.1864,
+        "profile_path": "/8WrOi8k90Xolb7YATZptlUbtw2G.jpg",
+        "cast_id": 15,
+        "character": "Ian",
+        "credit_id": "535fc5eac3a3683091006957",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147100,
+        "known_for_department": "Acting",
+        "name": "Nuno Lopes",
+        "original_name": "Nuno Lopes",
+        "popularity": 0.2397,
+        "profile_path": "/677sLMqqyqtToZcDvEAV6BCwtxo.jpg",
+        "cast_id": 16,
+        "character": "The Doctor",
+        "credit_id": "535fc601c3a36830b0006928",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1315000,
+        "known_for_department": "Acting",
+        "name": "Patrick Fanik",
+        "original_name": "Patrick Fanik",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Eric",
+        "credit_id": "535fc60ec3a36830b9006cb1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1315001,
+        "known_for_department": "Acting",
+        "name": "Susi Egetenmeier",
+        "original_name": "Susi Egetenmeier",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Woman in dunes",
+        "credit_id": "535fc623c3a3683084006bbb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1315002,
+        "known_for_department": "Acting",
+        "name": "Sylvia Johnson",
+        "original_name": "Sylvia Johnson",
+        "popularity": 0.0362,
+        "profile_path": "/jR7UmQ6zmTleS4h4h4GUQuVccMI.jpg",
+        "cast_id": 19,
+        "character": "Woman of couple",
+        "credit_id": "535fc63ac3a36830a00068a9",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76910,
+        "known_for_department": "Directing",
+        "name": "Christophe Honoré",
+        "original_name": "Christophe Honoré",
+        "popularity": 0.5253,
+        "profile_path": "/vhRdx5xeSjlB6lPfXsnc0L3g02g.jpg",
+        "credit_id": "52fe475cc3a36847f813189f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76910,
+        "known_for_department": "Directing",
+        "name": "Christophe Honoré",
+        "original_name": "Christophe Honoré",
+        "popularity": 0.5253,
+        "profile_path": "/vhRdx5xeSjlB6lPfXsnc0L3g02g.jpg",
+        "credit_id": "52fe475cc3a36847f81318b5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 560045,
+        "known_for_department": "Editing",
+        "name": "Chantal Hymans",
+        "original_name": "Chantal Hymans",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "credit_id": "535fc671c3a3683091006962",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1007041,
+        "known_for_department": "Art",
+        "name": "Laurent Allaire",
+        "original_name": "Laurent Allaire",
+        "popularity": 0.0637,
+        "profile_path": null,
+        "credit_id": "535fc68dc3a3683084006bc3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89630,
+        "known_for_department": "Production",
+        "name": "Richard Rousseau",
+        "original_name": "Richard Rousseau",
+        "popularity": 0.6898,
+        "profile_path": null,
+        "credit_id": "535fc67ec3a3683091006964",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1202093,
+        "known_for_department": "Writing",
+        "name": "Georges Bataille",
+        "original_name": "Georges Bataille",
+        "popularity": 0.2738,
+        "profile_path": "/uo8ggjTQBihvazlZu8bn9eM7Q3V.jpg",
+        "credit_id": "535fc653c3a36830a00068b1",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1180408,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pierre Canitrot",
+        "original_name": "Pierre Canitrot",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "535fc69ac3a3682273002f15",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56289,
+        "known_for_department": "Camera",
+        "name": "Hélène Louvart",
+        "original_name": "Hélène Louvart",
+        "popularity": 0.3641,
+        "profile_path": "/aTcNiyNvU7j3xGBBsFdKm3OldYa.jpg",
+        "credit_id": "5506a2a89251416cb7002171",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3049427,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Frédéric Balmer",
+        "original_name": "Frédéric Balmer",
+        "popularity": 1.1794,
+        "profile_path": null,
+        "credit_id": "638cc852ab5e3400cf5fede2",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 411038,
+        "known_for_department": "Directing",
+        "name": "Bernard-Henri Lévy",
+        "original_name": "Bernard-Henri Lévy",
+        "popularity": 0.2545,
+        "profile_path": "/VYKEk2m48nXBJ4vNNqCSxTPUY.jpg",
+        "credit_id": "638cc83f8d77c40086b13aae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28669,
+        "known_for_department": "Production",
+        "name": "Dimitri de Clercq",
+        "original_name": "Dimitri de Clercq",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "638cc808c3aa3f00c89cc428",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564793,
+        "known_for_department": "Production",
+        "name": "Alexander Dumreicher-Ivanceanu",
+        "original_name": "Alexander Dumreicher-Ivanceanu",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "638cc81915376c3dc705f143",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1470205,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paul de Fisser",
+        "original_name": "Paul de Fisser",
+        "popularity": 0.0644,
+        "profile_path": null,
+        "credit_id": "638cc858c3aa3f0096e288ad",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1620820,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pierre-Olivier Persin",
+        "original_name": "Pierre-Olivier Persin",
+        "popularity": 0.0986,
+        "profile_path": "/otVgM9ngvMjHYb9WNdR55eLUyYX.jpg",
+        "credit_id": "638cc8692dc9dc00a15a0fa9",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1108618,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Delphine Jaffart",
+        "original_name": "Delphine Jaffart",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "638cc85fab5e3400af7b4476",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5268,
+        "known_for_department": "Production",
+        "name": "Paulo Branco",
+        "original_name": "Paulo Branco",
+        "popularity": 0.1201,
+        "profile_path": "/fts6IfqRE5xZuZB3iN6yeKNzfhd.jpg",
+        "credit_id": "638cc7faab5e3400af7b4452",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564794,
+        "known_for_department": "Production",
+        "name": "Gabriele Kranzelbinder",
+        "original_name": "Gabriele Kranzelbinder",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "638cc8248d77c40083edc039",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 955318,
+        "known_for_department": "Production",
+        "name": "Stéphane Sorlat",
+        "original_name": "Stéphane Sorlat",
+        "popularity": 0.0637,
+        "profile_path": "/bSCcFMxh8NYiVU8njCwmxSoD3fW.jpg",
+        "credit_id": "638cc834ab5e34007f6ad7b3",
+        "department": "Production",
+        "job": "Associate Producer"
+      }
+    ]
+  }
+}

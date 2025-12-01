@@ -1,0 +1,542 @@
+{
+  "adult": false,
+  "backdrop_path": "/A51Fr3B5ZBS97H1KsxZnU9keUnN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 597096,
+  "imdb_id": "tt7714770",
+  "origin_country": [
+    "LV"
+  ],
+  "original_language": "lv",
+  "original_title": "Oļegs",
+  "overview": "Oleg, a young Latvian butcher, arrives in Brussels in the hope of getting a better salary in a meat factory. His experience turns short after being betrayed by a colleague. Alone in a country where he doesn’t belong, he quickly falls under the yoke of Andrzej, a Polish criminal.",
+  "popularity": 7.9212,
+  "poster_path": "/xJWLN0r3hBFlpQyFzfUHYkh0JeM.jpg",
+  "production_companies": [
+    {
+      "id": 93635,
+      "logo_path": "/pLoHlno5S4gKUNo4FuRG8bLdaYJ.png",
+      "name": "Tasse Film",
+      "origin_country": "LV"
+    },
+    {
+      "id": 117493,
+      "logo_path": "/pPudAOyLIRzNvGAyVQpqguRZ8vC.png",
+      "name": "INSCRIPT",
+      "origin_country": "LT"
+    },
+    {
+      "id": 87271,
+      "logo_path": "/tXxU8K5C9HoApztCgBb7OgmxTPd.png",
+      "name": "Arizona Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22127,
+      "logo_path": "/lgkXXc4hyHH6WqVMJVUFrhFIjm5.png",
+      "name": "uFund",
+      "origin_country": "BE"
+    },
+    {
+      "id": 20482,
+      "logo_path": "/ncZtCy1XzmVeN674GNBDdvMc8b0.png",
+      "name": "Iota Production",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "LV",
+      "name": "Latvia"
+    },
+    {
+      "iso_3166_1": "LT",
+      "name": "Lithuania"
+    }
+  ],
+  "release_date": "2019-10-04",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Latvian",
+      "iso_639_1": "lv",
+      "name": "Latviešu"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Vacant position in Belgium. Slave.",
+  "title": "Oleg",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1336219,
+        "known_for_department": "Acting",
+        "name": "Valentin Novopolskij",
+        "original_name": "Valentin Novopolskij",
+        "popularity": 0.1581,
+        "profile_path": "/5rrZsUMtP9qrgCeUxZg8Pu6Zhjo.jpg",
+        "cast_id": 10,
+        "character": "Oleg",
+        "credit_id": "5cbf528f925141097dfb5b51",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277198,
+        "known_for_department": "Acting",
+        "name": "Dawid Ogrodnik",
+        "original_name": "Dawid Ogrodnik",
+        "popularity": 0.3428,
+        "profile_path": "/8knKNmMFjc7uqyXXkDEfVKYURqi.jpg",
+        "cast_id": 11,
+        "character": "Andrzej",
+        "credit_id": "5cbf52980e0a261a55f57081",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1120448,
+        "known_for_department": "Acting",
+        "name": "Anna Próchniak",
+        "original_name": "Anna Próchniak",
+        "popularity": 0.4584,
+        "profile_path": "/1WJcxrIzMp75HLm75HW9V9rxBZi.jpg",
+        "cast_id": 12,
+        "character": "Malgosia",
+        "credit_id": "5cbf52a20e0a2619d6ec8123",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1190325,
+        "known_for_department": "Acting",
+        "name": "Adam Szyszkowski",
+        "original_name": "Adam Szyszkowski",
+        "popularity": 0.2576,
+        "profile_path": "/69Cxtibt5Yez07i4igHJbYhbWhB.jpg",
+        "cast_id": 13,
+        "character": "Krzysztof",
+        "credit_id": "5cbf52ac9251417d39fbb374",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1207120,
+        "known_for_department": "Acting",
+        "name": "Guna Zariņa",
+        "original_name": "Guna Zariņa",
+        "popularity": 0.7101,
+        "profile_path": "/bokJ2mxfyday2P989bf627T9Q6f.jpg",
+        "cast_id": 14,
+        "character": "Zita",
+        "credit_id": "5cbf52b8925141097dfb5b6d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1579798,
+        "known_for_department": "Acting",
+        "name": "Edgars Samītis",
+        "original_name": "Edgars Samītis",
+        "popularity": 0.0868,
+        "profile_path": "/bmH8W1pK7pQoW5jVCwnCQNsIGGi.jpg",
+        "cast_id": 15,
+        "character": "Andris",
+        "credit_id": "5cbf52c20e0a2619d6ec812f",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4326582,
+        "known_for_department": "Production",
+        "name": "Zane Bukša",
+        "original_name": "Zane Bukša",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "652f93a2024ec8011e35f7b7",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354376,
+        "known_for_department": "Directing",
+        "name": "Juris Kursietis",
+        "original_name": "Juris Kursietis",
+        "popularity": 0.0214,
+        "profile_path": "/yprOjz3zHtwWSQOHNnH7s1aSYxJ.jpg",
+        "credit_id": "5cbeeb6d0e0a2660dcf373dc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1297789,
+        "known_for_department": "Production",
+        "name": "Lukas Trimonis",
+        "original_name": "Lukas Trimonis",
+        "popularity": 0.0297,
+        "profile_path": "/jslbCYz1kOgpZMAU2ALLfT60mJP.jpg",
+        "credit_id": "5cbf51f5c3a36809ab812ff1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1545620,
+        "known_for_department": "Production",
+        "name": "Aija Bērziņa",
+        "original_name": "Aija Bērziņa",
+        "popularity": 0.0338,
+        "profile_path": "/rxzhlFwjVz1BMmGYoSO39XmAug4.jpg",
+        "credit_id": "5cbf51dbc3a368776c89d392",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1500589,
+        "known_for_department": "Production",
+        "name": "Isabelle Truc",
+        "original_name": "Isabelle Truc",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "5cbf52060e0a26105af52b7b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1584915,
+        "known_for_department": "Art",
+        "name": "Mārtiņš Milbrets",
+        "original_name": "Mārtiņš Milbrets",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5cbf51c6c3a3686b0b90dc48",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1599475,
+        "known_for_department": "Production",
+        "name": "Alise Ģelze",
+        "original_name": "Alise Ģelze",
+        "popularity": 0.0731,
+        "profile_path": "/ufaSZh0C6YcO5gP5eV7g2u8OTAY.jpg",
+        "credit_id": "5cbf51e80e0a2660dcf3f821",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118675,
+        "known_for_department": "Production",
+        "name": "Guillaume de Seille",
+        "original_name": "Guillaume de Seille",
+        "popularity": 0.0701,
+        "profile_path": null,
+        "credit_id": "5cbf521492514151cafb8e29",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354376,
+        "known_for_department": "Directing",
+        "name": "Juris Kursietis",
+        "original_name": "Juris Kursietis",
+        "popularity": 0.0214,
+        "profile_path": "/yprOjz3zHtwWSQOHNnH7s1aSYxJ.jpg",
+        "credit_id": "5cbf51aa92514151cafb8d6d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2225076,
+        "known_for_department": "Art",
+        "name": "Laura Dišlere",
+        "original_name": "Laura Dišlere",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "credit_id": "5ccb2958c3a36836abd99f63",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1525202,
+        "known_for_department": "Sound",
+        "name": "Vytis Puronas",
+        "original_name": "Vytis Puronas",
+        "popularity": 0.0338,
+        "profile_path": "/aLC80eHTgUKueOQBrfMiDLdR7gi.jpg",
+        "credit_id": "5ccb2936c3a36836b3d9aa81",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6096,
+        "known_for_department": "Camera",
+        "name": "Bogumił Godfrejów",
+        "original_name": "Bogumił Godfrejów",
+        "popularity": 0.0579,
+        "profile_path": "/kAktkLDmtgmt01xqDqezbhIF74l.jpg",
+        "credit_id": "5ccb291e925141047d258fdf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2302721,
+        "known_for_department": "Writing",
+        "name": "Kaspars Odiņš",
+        "original_name": "Kaspars Odiņš",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "5ccb28f3c3a36836b0d9aeda",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2302722,
+        "known_for_department": "Writing",
+        "name": "Līga Celma-Kursiete",
+        "original_name": "Līga Celma-Kursiete",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "5ccb29050e0a262fb3ff9310",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537842,
+        "known_for_department": "Editing",
+        "name": "Matyas Veress",
+        "original_name": "Matyas Veress",
+        "popularity": 0.4589,
+        "profile_path": null,
+        "credit_id": "5ccb2973c3a36836b7d9ac0b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2041287,
+        "known_for_department": "Art",
+        "name": "Stephan Rubens",
+        "original_name": "Stephan Rubens",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "5ccb294c925141044e258c32",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2890634,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Inese Kalve",
+        "original_name": "Inese Kalve",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "671dc2a434c0fabd681cda4f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2784901,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maija Gundare",
+        "original_name": "Maija Gundare",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "671dc2b6b3d5cbb842f4560c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5024820,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Orly Quirico",
+        "original_name": "Orly Quirico",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "671dc2cd5d0de89042d95a29",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2195406,
+        "known_for_department": "Production",
+        "name": "Cédric Iland",
+        "original_name": "Cédric Iland",
+        "popularity": 0.6397,
+        "profile_path": "/aBF7qMxRKKWjbpSuFHzleUHEQhR.jpg",
+        "credit_id": "671dc2de2685cb6563c1108a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54205,
+        "known_for_department": "Production",
+        "name": "Nadia Khamlichi",
+        "original_name": "Nadia Khamlichi",
+        "popularity": 0.4905,
+        "profile_path": "/ngeXDXYulln8G5VQzhm1RvEiGi7.jpg",
+        "credit_id": "671dc2ed5d0de89042d95a40",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54204,
+        "known_for_department": "Production",
+        "name": "Adrian Politowski",
+        "original_name": "Adrian Politowski",
+        "popularity": 0.1812,
+        "profile_path": "/hqE3d8hi08RnY3JaYwCuHZoG7zi.jpg",
+        "credit_id": "671dc3045d0de89042d95a4f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2697094,
+        "known_for_department": "Production",
+        "name": "Iveta Dortane",
+        "original_name": "Iveta Dortane",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "671dc3295d0de89042d95a57",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1599427,
+        "known_for_department": "Sound",
+        "name": "Jonas Jurkūnas",
+        "original_name": "Jonas Jurkūnas",
+        "popularity": 0.0214,
+        "profile_path": "/uZIwHFBnDvsVNSXPlnrOmd7R9Y2.jpg",
+        "credit_id": "671dc37e4542e371fe0acf40",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1598441,
+        "known_for_department": "Production",
+        "name": "Dalia Survilaitė",
+        "original_name": "Dalia Survilaitė",
+        "popularity": 0.0286,
+        "profile_path": "/bfNFQ0iOCimsSwjV0aTPtl2d0bg.jpg",
+        "credit_id": "671dc39d427c5c19f02634c9",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1148913,
+        "known_for_department": "Production",
+        "name": "Doriane Flamand",
+        "original_name": "Doriane Flamand",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "671dc3a8427c5c19f02634d0",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  }
+}

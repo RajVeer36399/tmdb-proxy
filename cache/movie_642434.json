@@ -1,0 +1,401 @@
+{
+  "adult": false,
+  "backdrop_path": "/2j2nv09GxWNzq8YApuTOpWNtMDC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 642434,
+  "imdb_id": "tt10251962",
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_title": "Můj příběh",
+  "overview": "Young talented Elizabeth leaves a successful career in ballet for love. The man who has stolen her heart, however, has a dark side, and in a single moment Elizabeth loses everything dear to her in life.",
+  "popularity": 7.1232,
+  "poster_path": "/7NFUs5yQwcsWbL5zL0Mi4cHuWpZ.jpg",
+  "production_companies": [
+    {
+      "id": 124514,
+      "logo_path": null,
+      "name": "P.A.L. Production",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 118741,
+      "logo_path": "/2cGnYaBaCHf4vGIy46M2csSm5tx.png",
+      "name": "IS Produkce",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 119027,
+      "logo_path": null,
+      "name": "HN Film",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 124515,
+      "logo_path": null,
+      "name": "WINTERS PNP",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 118491,
+      "logo_path": null,
+      "name": "Studio Beep",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "release_date": "2019-12-26",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "My Story",
+  "video": false,
+  "vote_average": 1.8,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 138197,
+        "known_for_department": "Acting",
+        "name": "Vlastina Svátková",
+        "original_name": "Vlastina Svátková",
+        "popularity": 0.6131,
+        "profile_path": "/yChV0yfBubcsJM2B19wtprhAYGn.jpg",
+        "cast_id": 1,
+        "character": "Eli",
+        "credit_id": "5db33bee4b0c630012ebd141",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 135681,
+        "known_for_department": "Acting",
+        "name": "Vilma Cibulková",
+        "original_name": "Vilma Cibulková",
+        "popularity": 0.2026,
+        "profile_path": "/5j88OXB4F22RQgbUMrOK7TQunjO.jpg",
+        "cast_id": 2,
+        "character": "Marie",
+        "credit_id": "5db33c0ed40d4c0014f82fe0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 936603,
+        "known_for_department": "Acting",
+        "name": "Tereza Kostková",
+        "original_name": "Tereza Kostková",
+        "popularity": 0.1883,
+        "profile_path": "/1HoIuT2emPOmruMltdHkwwrdUw4.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5db33c2e4b0c630014eb53ba",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130885,
+        "known_for_department": "Acting",
+        "name": "Pavel Kříž",
+        "original_name": "Pavel Kříž",
+        "popularity": 0.4345,
+        "profile_path": "/a1lMm8jQn8U1xVOqunkDRJ1FY6N.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "5db33c4dd2c0c100180e13df",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231248,
+        "known_for_department": "Acting",
+        "name": "Saša Rašilov",
+        "original_name": "Saša Rašilov",
+        "popularity": 0.1725,
+        "profile_path": "/kqymhZNT4QRkwYSadMVAYiI5bJE.jpg",
+        "cast_id": 5,
+        "character": "Honza",
+        "credit_id": "5db33c724083b3001552c2a8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37017,
+        "known_for_department": "Acting",
+        "name": "Milan Kňažko",
+        "original_name": "Milan Kňažko",
+        "popularity": 0.2066,
+        "profile_path": "/evW0UUCitv6Ni2XNkSeXcHsu9gC.jpg",
+        "cast_id": 6,
+        "character": "Oldřich",
+        "credit_id": "5db33cad4083b300185324f4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059093,
+        "known_for_department": "Acting",
+        "name": "Alžbeta Stanková",
+        "original_name": "Alžbeta Stanková",
+        "popularity": 0.1285,
+        "profile_path": "/1FUkZc6L1Gl7MvtNnGbG6jbJjPR.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "5db33cc74b0c630012ebd29e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47839,
+        "known_for_department": "Acting",
+        "name": "Nela Boudová",
+        "original_name": "Nela Boudová",
+        "popularity": 0.1778,
+        "profile_path": "/6p2uvOJEby2KdFmmOHIKICqfisf.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "5db33cf24083b3001552c3cc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1253641,
+        "known_for_department": "Acting",
+        "name": "Zuzana Norisová",
+        "original_name": "Zuzana Norisová",
+        "popularity": 0.6751,
+        "profile_path": "/44twPkOPlH2LIoEpMztwxoDQgET.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "5db33d0a25a5360013e070dd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544297,
+        "known_for_department": "Acting",
+        "name": "Jaromír Nosek",
+        "original_name": "Jaromír Nosek",
+        "popularity": 0.1583,
+        "profile_path": "/rr3Liq9cBanSGuozL9wGyfqLyJF.jpg",
+        "cast_id": 10,
+        "character": "číšník",
+        "credit_id": "5db33d26d2c0c100160e1369",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49114,
+        "known_for_department": "Acting",
+        "name": "Zdeněk Maryška",
+        "original_name": "Zdeněk Maryška",
+        "popularity": 0.2235,
+        "profile_path": "/abUBax9dWQJJVvBFByBp6LXChMs.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5db33d38d40d4c0018f7f3a4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1186642,
+        "known_for_department": "Acting",
+        "name": "Roman Vojtek",
+        "original_name": "Roman Vojtek",
+        "popularity": 0.067,
+        "profile_path": "/3UIn6GhoeHBTvWoHLjLw9p75JKV.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "5db33d57d2c0c1001b0e080e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544276,
+        "known_for_department": "Acting",
+        "name": "Martin Stránský",
+        "original_name": "Martin Stránský",
+        "popularity": 0.5444,
+        "profile_path": "/TFKaWeTb8gLOUUojVo8wAx3j85.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "5db33d6a4b0c630012ebd4b8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1398571,
+        "known_for_department": "Acting",
+        "name": "Jiří Klem",
+        "original_name": "Jiří Klem",
+        "popularity": 0.2075,
+        "profile_path": "/dgB3lSVmRbQT4xvROwqVMXBDF1w.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5db33d8e4b0c630017eb6f2c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1604446,
+        "known_for_department": "Acting",
+        "name": "Stanislava Jachnická",
+        "original_name": "Stanislava Jachnická",
+        "popularity": 0.0741,
+        "profile_path": "/60PGzrVSSIe0in9CD6MOTJ46APn.jpg",
+        "cast_id": 15,
+        "character": "Anna",
+        "credit_id": "5db33db6f056d500180ba9d9",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2440502,
+        "known_for_department": "Writing",
+        "name": "Zora Castillo",
+        "original_name": "Zora Castillo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5db33f0d25a5360018e04360",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2440503,
+        "known_for_department": "Directing",
+        "name": "Libor Adam",
+        "original_name": "Libor Adam",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "5db33f60d2c0c100180e1974",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2440504,
+        "known_for_department": "Directing",
+        "name": "Hana Hendrychová",
+        "original_name": "Hana Hendrychová",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5db33f8fd40d4c0012f7f59b",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2440505,
+        "known_for_department": "Camera",
+        "name": "Lukáš Hendrych",
+        "original_name": "Lukáš Hendrych",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5db33fb3f056d500180bae04",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2440503,
+        "known_for_department": "Directing",
+        "name": "Libor Adam",
+        "original_name": "Libor Adam",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "5db33fd925a5360018e0449b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2440506,
+        "known_for_department": "Writing",
+        "name": "Pavla Krečmerová Šindlářová",
+        "original_name": "Pavla Krečmerová Šindlářová",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "5db3404e4083b3001352f05e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1479732,
+        "known_for_department": "Sound",
+        "name": "Klára Javoříková",
+        "original_name": "Klára Javoříková",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "5db341954083b30018532db0",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544243,
+        "known_for_department": "Sound",
+        "name": "Petr Malásek",
+        "original_name": "Petr Malásek",
+        "popularity": 0.0379,
+        "profile_path": "/4BLkoBq3SYKrPX0amiuZlDOzxuT.jpg",
+        "credit_id": "5db341b4d2c0c100180e1e40",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

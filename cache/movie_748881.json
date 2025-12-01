@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 748881,
+  "imdb_id": "tt0080693",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Altri Desideri Particolari",
+  "overview": "Rich woman leaves her husband and travels with a female hitchhiker to an island for some erotic adventures.",
+  "popularity": 18.7157,
+  "poster_path": "/2dmLDYGcxgGDmsIfF2zKD9canxz.jpg",
+  "production_companies": [
+    {
+      "id": 141126,
+      "logo_path": null,
+      "name": "La Idea International S.r.l.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1983-05-14",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Other special desires",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 104240,
+        "known_for_department": "Acting",
+        "name": "Alban Ceray",
+        "original_name": "Alban Ceray",
+        "popularity": 11.041,
+        "profile_path": "/l9znsMTgxz9hEI8ue5zplETqifr.jpg",
+        "cast_id": 4,
+        "character": "Barbara's husband",
+        "credit_id": "5f7627497b7b4d003967bb81",
+        "order": 0
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 582249,
+        "known_for_department": "Acting",
+        "name": "Hélène Shirley",
+        "original_name": "Hélène Shirley",
+        "popularity": 5.363,
+        "profile_path": "/dhkRUj2uGYPURn76lImEzVUdCiQ.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "5f76271b1967570038a555ae",
+        "order": 1
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 106412,
+        "known_for_department": "Acting",
+        "name": "Pauline Teutscher",
+        "original_name": "Pauline Teutscher",
+        "popularity": 3.709,
+        "profile_path": "/1VUKoPvTePNo5UwXrzxC9EQYbvP.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "648edf17559d2200c576fbdc",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1391488,
+        "known_for_department": "Acting",
+        "name": "Lise Pinson",
+        "original_name": "Lise Pinson",
+        "popularity": 5.82,
+        "profile_path": "/kqWeTfdPXQDgcmLyruwfnOLA0Tb.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "62126f2c41465c006c62436a",
+        "order": 3
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 44411,
+        "known_for_department": "Acting",
+        "name": "Olivier Mathot",
+        "original_name": "Olivier Mathot",
+        "popularity": 1.4,
+        "profile_path": "/75kLBKdSRJD0Q8NcIWttmEpZPyD.jpg",
+        "cast_id": 5,
+        "character": "Commissioner",
+        "credit_id": "5f7627578741c4003768638f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2799488,
+        "known_for_department": "Acting",
+        "name": "Louis Tripodi",
+        "original_name": "Louis Tripodi",
+        "popularity": 0.062,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "5f7627633429ff0038ac7cca",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 68662,
+        "known_for_department": "Directing",
+        "name": "Andrea Bianchi",
+        "original_name": "Andrea Bianchi",
+        "popularity": 3.198,
+        "profile_path": "/iiJCKpfNJmIACxPQRyDXPIVc1NW.jpg",
+        "credit_id": "5f7627f01f748b003721291c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 68662,
+        "known_for_department": "Directing",
+        "name": "Andrea Bianchi",
+        "original_name": "Andrea Bianchi",
+        "popularity": 3.198,
+        "profile_path": "/iiJCKpfNJmIACxPQRyDXPIVc1NW.jpg",
+        "credit_id": "5f7b3ae6944a570035d78722",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

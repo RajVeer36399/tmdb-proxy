@@ -1,0 +1,627 @@
+{
+  "adult": false,
+  "backdrop_path": "/RAVryc4jb0Ouc0hdQ8po2RHJiS.jpg",
+  "belongs_to_collection": {
+    "id": 192174,
+    "name": "Crows Collection",
+    "poster_path": "/cCk7eolipCWIGb9AJcnvraHRUCr.jpg",
+    "backdrop_path": "/5YqGOBbYmxWFhZJFMiQfIZdAX5R.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 253451,
+  "imdb_id": "tt2825120",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "クローズ EXPLODE",
+  "overview": "A month after Genji Takiya graduates, a new battle for supremacy at Suzuran All-Boys High School begins. Transfer student Kaburagi Kazeo combats Kagami Ryohei for the coveted top spot, amidst a brewing inter-school conflict with Kurosaki Industrial High.",
+  "popularity": 6.2186,
+  "poster_path": "/h4Zm4kxN1G3wa5bdmeMUxkb7js5.jpg",
+  "production_companies": [
+    {
+      "id": 13871,
+      "logo_path": "/7Ut5a8myNMs7uNvy9yP4FAIIpmv.png",
+      "name": "Tristone Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1393,
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+      "name": "TBS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 257274,
+      "logo_path": null,
+      "name": "TriStone Holdings",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3363,
+      "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+      "name": "MBS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 12384,
+      "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+      "name": "CBC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 193549,
+      "logo_path": "/HF2fFP8MH9juSCoN2VtQCFQYPD.png",
+      "name": "Happinet",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4640,
+      "logo_path": "/9O6sT3CwMuTc43PQ6Km2KFkjgMT.png",
+      "name": "Akita Shoten",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2014-04-12",
+  "revenue": 10315875,
+  "runtime": 129,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Crows Explode",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 106,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1185386,
+        "known_for_department": "Acting",
+        "name": "Masahiro Higashide",
+        "original_name": "東出昌大",
+        "popularity": 1.1205,
+        "profile_path": "/6YOBIQ22Y7ZCkuk50QRotvUAl7v.jpg",
+        "cast_id": 5,
+        "character": "Kazeo Kaburagi",
+        "credit_id": "54622fc60e0a2672a700256b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1384551,
+        "known_for_department": "Acting",
+        "name": "Taichi Saotome",
+        "original_name": "早乙女太一",
+        "popularity": 0.9772,
+        "profile_path": "/a2IBFtbh1ChL2wFF5cChe8nsLG3.jpg",
+        "cast_id": 11,
+        "character": "Ryohei Kagami",
+        "credit_id": "54623001c3a3686f2e002431",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25648,
+        "known_for_department": "Acting",
+        "name": "Yuya Yagira",
+        "original_name": "柳楽優弥",
+        "popularity": 1.2332,
+        "profile_path": "/5f1FKClKqSN5uKs5tg2ZuU8iBid.jpg",
+        "cast_id": 14,
+        "character": "Toru Goura",
+        "credit_id": "557de309c3a3682198000348",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96477,
+        "known_for_department": "Acting",
+        "name": "Ryo Katsuji",
+        "original_name": "勝地涼",
+        "popularity": 0.725,
+        "profile_path": "/tVQo2qd93fdYBl6lc9STDhEI6x1.jpg",
+        "cast_id": 16,
+        "character": "Kenichi Ogisu",
+        "credit_id": "5691358792514179aa000084",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1384549,
+        "known_for_department": "Acting",
+        "name": "Takanori Iwata",
+        "original_name": "岩田剛典",
+        "popularity": 1.5509,
+        "profile_path": "/c4YQfIROreyJBLja3zzhZPrYTwi.jpg",
+        "cast_id": 7,
+        "character": "Hiroki Shibata",
+        "credit_id": "54622fd6c3a3686f2e002427",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237363,
+        "known_for_department": "Acting",
+        "name": "Kento Nagayama",
+        "original_name": "永山絢斗",
+        "popularity": 0.8451,
+        "profile_path": "/p8muTVo06GfF8Ej1sb5sLbKd4Zv.jpg",
+        "cast_id": 10,
+        "character": "Fujiwara",
+        "credit_id": "54622ff60e0a2672a700256f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94017,
+        "known_for_department": "Acting",
+        "name": "Kyosuke Yabe",
+        "original_name": "やべきょうすけ",
+        "popularity": 1.1471,
+        "profile_path": "/fLyj1b956OKGlwCcJOj1vwfCHXO.jpg",
+        "cast_id": 13,
+        "character": "Katagiri, Ken",
+        "credit_id": "54623014c3a3686f44002187",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129706,
+        "known_for_department": "Acting",
+        "name": "Motoki Fukami",
+        "original_name": "深水元基",
+        "popularity": 1.2335,
+        "profile_path": "/zeAgnTG7qhokdpwweSjvyNvFA3f.jpg",
+        "cast_id": 4,
+        "character": "Megumi Hayashida / Rindaman",
+        "credit_id": "54622fbcc3a3686f4c0025d0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384547,
+        "known_for_department": "Acting",
+        "name": "Ryusuke Ito",
+        "original_name": "Ryusuke Ito",
+        "popularity": 0.5237,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "54622fcdc3a3686f3100268e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193900,
+        "known_for_department": "Directing",
+        "name": "Kenzō Maihara",
+        "original_name": "舞原賢三",
+        "popularity": 0.82,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Tetsuji Takagi",
+        "credit_id": "54622fec0e0a2672b3002650",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268632,
+        "known_for_department": "Acting",
+        "name": "Tsutomu Takahashi",
+        "original_name": "高橋努",
+        "popularity": 0.9738,
+        "profile_path": "/cHd2Te27EYkfz3rthCoiTad74no.jpg",
+        "cast_id": 12,
+        "character": "Takashi Makise",
+        "credit_id": "5462300a0e0a2672a7002575",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1454976,
+        "known_for_department": "Acting",
+        "name": "Suzu Hirose",
+        "original_name": "広瀬すず",
+        "popularity": 2.0017,
+        "profile_path": "/2QPyHhJQ0BY7GEsH3L5g8DhxPTQ.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "5874d671925141448a0075dc",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2115758,
+        "known_for_department": "Acting",
+        "name": "Joey Iwanaga",
+        "original_name": "岩永ジョーイ",
+        "popularity": 0.6799,
+        "profile_path": "/7y8sdjxKel3nxEnKiTYl9ujIjsw.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "5b830bc10e0a26459902ff77",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2051189,
+        "known_for_department": "Acting",
+        "name": "ELLY",
+        "original_name": "ELLY",
+        "popularity": 0.0958,
+        "profile_path": "/6nNxFWELZVpwN8k0Z4WC5rRsJIz.jpg",
+        "cast_id": 20,
+        "character": "Yamashita",
+        "credit_id": "5fbfc131f9475b003ec6e45a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110268,
+        "known_for_department": "Acting",
+        "name": "Onimaru",
+        "original_name": "Onimaru",
+        "popularity": 0.4,
+        "profile_path": "/2Uw5GbvhNvrAo2OZXmHwCH0BJTq.jpg",
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "63b8dbbec0a3080084cb539e",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81107,
+        "known_for_department": "Directing",
+        "name": "Toshiaki Toyoda",
+        "original_name": "豊田利晃",
+        "popularity": 0.7485,
+        "profile_path": "/sPUmgf6f5yFqDSdwotNcVyB4j2.jpg",
+        "credit_id": "52fe4e809251416c91133cb9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80910,
+        "known_for_department": "Directing",
+        "name": "Megumu Sawada",
+        "original_name": "佐和田惠",
+        "popularity": 0.762,
+        "profile_path": null,
+        "credit_id": "5e0f3f0a58361b0015bfd360",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2990216,
+        "known_for_department": "Writing",
+        "name": "Hiroshi Takahashi",
+        "original_name": "Hiroshi Takahashi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "603768d14fd141003faf1316",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1782247,
+        "known_for_department": "Camera",
+        "name": "Ryô Ohtsuka",
+        "original_name": "大塚亮",
+        "popularity": 0.7219,
+        "profile_path": null,
+        "credit_id": "6037720787a27a003d141506",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2099736,
+        "known_for_department": "Lighting",
+        "name": "Kenichi Mizuno",
+        "original_name": "水野研一",
+        "popularity": 0.6527,
+        "profile_path": null,
+        "credit_id": "60377326afa1b00043a73a51",
+        "department": "Lighting",
+        "job": "Lighting Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1921912,
+        "known_for_department": "Sound",
+        "name": "Naoki Ohtsubo",
+        "original_name": "大坪直樹",
+        "popularity": 0.2516,
+        "profile_path": null,
+        "credit_id": "6037735e97eab4003ed56b8f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198150,
+        "known_for_department": "Editing",
+        "name": "Masaki Murakami",
+        "original_name": "村上雅樹",
+        "popularity": 0.2666,
+        "profile_path": null,
+        "credit_id": "603772f23e01ea003c720afd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553217,
+        "known_for_department": "Production",
+        "name": "Mataichirô Yamamoto",
+        "original_name": "山本又一朗",
+        "popularity": 0.4578,
+        "profile_path": null,
+        "credit_id": "6037726eafa1b00043a739e6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5323481,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Seiji Moriguchi",
+        "original_name": "森口誠治",
+        "popularity": 0.2255,
+        "profile_path": null,
+        "credit_id": "67e03d1c30e65e7beec72922",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4504697,
+        "known_for_department": "Sound",
+        "name": "Hiroshi Furukawa",
+        "original_name": "古川ヒロシ",
+        "popularity": 0.1991,
+        "profile_path": null,
+        "credit_id": "68ec7e2337c9f69e779de984",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1509189,
+        "known_for_department": "Sound",
+        "name": "Kiyoshi Kakizawa",
+        "original_name": "柿澤潔",
+        "popularity": 0.9104,
+        "profile_path": null,
+        "credit_id": "68ec80139c8508001728224b",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2578570,
+        "known_for_department": "Crew",
+        "name": "Keiji Tsujii",
+        "original_name": "辻井啓伺",
+        "popularity": 0.2916,
+        "profile_path": null,
+        "credit_id": "68ec804626a53e8aa99dea22",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 80913,
+        "known_for_department": "Visual Effects",
+        "name": "Michiki Nobutaka",
+        "original_name": "道木伸隆",
+        "popularity": 0.7423,
+        "profile_path": null,
+        "credit_id": "68ec806dff818a3bbf282262",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1575274,
+        "known_for_department": "Sound",
+        "name": "Kenji Shibasaki",
+        "original_name": "柴崎憲治",
+        "popularity": 0.1945,
+        "profile_path": "/hPy2bah7M8jtlfS8MwMrmPOxepv.jpg",
+        "credit_id": "68ec808b4ae6d256af784e32",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 67082,
+        "known_for_department": "Production",
+        "name": "Mai Sugiyama",
+        "original_name": "杉山麻衣",
+        "popularity": 0.2126,
+        "profile_path": null,
+        "credit_id": "68ec8097e5bcd5f8dbd68e84",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1930533,
+        "known_for_department": "Art",
+        "name": "So Hashimoto",
+        "original_name": "橋本創",
+        "popularity": 0.3513,
+        "profile_path": null,
+        "credit_id": "68ec80ab1f506d6760d68e47",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082700,
+        "known_for_department": "Writing",
+        "name": "Kosuke Mukai",
+        "original_name": "向井康介",
+        "popularity": 0.5192,
+        "profile_path": "/nOg5PRUc1uTISEFagf7AjkwUAGb.jpg",
+        "credit_id": "68ec80c34f0f1c8314f119d2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553217,
+        "known_for_department": "Production",
+        "name": "Mataichirô Yamamoto",
+        "original_name": "山本又一朗",
+        "popularity": 0.4578,
+        "profile_path": null,
+        "credit_id": "68ec80d44ae6d256af784e40",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 235290,
+        "known_for_department": "Writing",
+        "name": "Takashi Hasegawa",
+        "original_name": "長谷川隆",
+        "popularity": 0.4634,
+        "profile_path": null,
+        "credit_id": "68ec80dcb530a0284d9dea7f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4208197,
+        "known_for_department": "Production",
+        "name": "Minoru Takeoka",
+        "original_name": "竹岡実",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "68ec80f49369c5dcb3a727da",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2743684,
+        "known_for_department": "Art",
+        "name": "Daichi Watanabe",
+        "original_name": "渡辺大智",
+        "popularity": 0.7592,
+        "profile_path": null,
+        "credit_id": "68ec811000210eb078a2147f",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136045,
+        "known_for_department": "Production",
+        "name": "Arimasa Okada",
+        "original_name": "岡田有正",
+        "popularity": 0.7839,
+        "profile_path": null,
+        "credit_id": "68ec812c48e64c2f0ea21430",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94017,
+        "known_for_department": "Acting",
+        "name": "Kyosuke Yabe",
+        "original_name": "やべきょうすけ",
+        "popularity": 1.1471,
+        "profile_path": "/fLyj1b956OKGlwCcJOj1vwfCHXO.jpg",
+        "credit_id": "68ec814987253bf7350d7a05",
+        "department": "Production",
+        "job": "Associate Producer"
+      }
+    ]
+  }
+}

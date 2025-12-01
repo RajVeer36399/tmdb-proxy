@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/35bgqWirf4N4w2B8Vkn0RcGSPCX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://salzgeber.de/international/youandi",
+  "id": 322127,
+  "imdb_id": "tt4809238",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "You & I",
+  "overview": "Summer in Berlin. Jonas is planning a trip through the little known area of the Uckermark in preparation for a photography project. He invites his best friend, Phillip, to come along. When they pick up a hitchhiker named Boris, the friendship of the two starts to fray. Maybe three’s a crowd after all? By the end of the summer, things between Jonas and Phillip won’t ever be the same again.",
+  "popularity": 7.5419,
+  "poster_path": "/59OmxhLZVh3ZXLAu6iaywYYx01S.jpg",
+  "production_companies": [
+    {
+      "id": 73126,
+      "logo_path": null,
+      "name": "Boekamp & Kriegsheim",
+      "origin_country": ""
+    },
+    {
+      "id": 8697,
+      "logo_path": "/dedjnLn70UGdQ5d0PBELGkEOzhf.png",
+      "name": "Salzgeber & Co. Medien",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2014-10-26",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "You & I",
+  "video": false,
+  "vote_average": 6.674,
+  "vote_count": 46,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105510,
+        "known_for_department": "Acting",
+        "name": "George Taylor",
+        "original_name": "George Taylor",
+        "popularity": 1.2877,
+        "profile_path": "/5mafnDadRtP6wPQngYyXfB8NwtA.jpg",
+        "cast_id": 1,
+        "character": "Philip",
+        "credit_id": "5828b974c3a368361402ca8e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1376403,
+        "known_for_department": "Acting",
+        "name": "Eric Klotzsch",
+        "original_name": "Eric Klotzsch",
+        "popularity": 0.2339,
+        "profile_path": "/iY5RRq8hmwBXNW1q9Ms8exohkij.jpg",
+        "cast_id": 2,
+        "character": "Jonas",
+        "credit_id": "5828b9849251417b2602efec",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1708322,
+        "known_for_department": "Camera",
+        "name": "Michał Grabowski",
+        "original_name": "Michał Grabowski",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Boris",
+        "credit_id": "5828b992c3a368360b030aef",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420223,
+        "known_for_department": "Directing",
+        "name": "Nils Bökamp",
+        "original_name": "Nils Bökamp",
+        "popularity": 0.0544,
+        "profile_path": "/p4ABgaN3L4CxGRjUlIBBpKQxt9d.jpg",
+        "credit_id": "54ca35ed92514157cc00da41",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420223,
+        "known_for_department": "Directing",
+        "name": "Nils Bökamp",
+        "original_name": "Nils Bökamp",
+        "popularity": 0.0544,
+        "profile_path": "/p4ABgaN3L4CxGRjUlIBBpKQxt9d.jpg",
+        "credit_id": "587f9ff592514107c9001703",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420223,
+        "known_for_department": "Directing",
+        "name": "Nils Bökamp",
+        "original_name": "Nils Bökamp",
+        "popularity": 0.0544,
+        "profile_path": "/p4ABgaN3L4CxGRjUlIBBpKQxt9d.jpg",
+        "credit_id": "58ee7dbbc3a3684818002303",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1794790,
+        "known_for_department": "Sound",
+        "name": "Ilja Köster",
+        "original_name": "Ilja Köster",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "58ee7c57c3a3684808001f52",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 52088,
+  "imdb_id": "tt0326976",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Intoxicating",
+  "overview": "Dorian Shanley, is a heart surgeon who abuses alcohol and drugs. Dorian trades stolen pharmaceuticals for cocaine , provided by his best friend and enabler, Teddy. While Dorian's life and career take a nosedive, Shanley numbs the pain of losing his father, William Shanley, to a form of Alzheimer's common in prizefighters. To further complicate circumstances, Dorian falls in love with his girlfriend's best friend from college, Anna. The film follows Shanley through a maze of pharmacies, clubs and binges and surgeries, into the heart of drug abuse",
+  "popularity": 6.3807,
+  "poster_path": "/4ErTqjXeBXKwYMSMsFWlRb7oPos.jpg",
+  "production_companies": [
+    {
+      "id": 66284,
+      "logo_path": null,
+      "name": "Rogue Arts",
+      "origin_country": "US"
+    },
+    {
+      "id": 85735,
+      "logo_path": null,
+      "name": "Film Kitchen",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-07-01",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Get separated from your senses.",
+  "title": "Intoxicating",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238001,
+        "known_for_department": "Acting",
+        "name": "Kirk Harris",
+        "original_name": "Kirk Harris",
+        "popularity": 0.7311,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Dr. Dorian Shanley",
+        "credit_id": "52fe4818c3a36847f8157b59",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47879,
+        "known_for_department": "Acting",
+        "name": "John Savage",
+        "original_name": "John Savage",
+        "popularity": 1.3916,
+        "profile_path": "/exzL5D7RSnIepF9FsFlzCs248he.jpg",
+        "cast_id": 3,
+        "character": "William Shanley",
+        "credit_id": "52fe4818c3a36847f8157b5d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21315,
+        "known_for_department": "Acting",
+        "name": "Eric Roberts",
+        "original_name": "Eric Roberts",
+        "popularity": 4.2117,
+        "profile_path": "/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg",
+        "cast_id": 4,
+        "character": "Teddy",
+        "credit_id": "52fe4818c3a36847f8157b61",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230727,
+        "known_for_department": "Acting",
+        "name": "Camilla Overbye Roos",
+        "original_name": "Camilla Overbye Roos",
+        "popularity": 0.7729,
+        "profile_path": "/8GjcLUOetLGRCOhfXpakSFLDfDS.jpg",
+        "cast_id": 5,
+        "character": "Anna Michelzewski",
+        "credit_id": "52fe4818c3a36847f8157b65",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131286,
+        "known_for_department": "Directing",
+        "name": "Mark David",
+        "original_name": "Mark David",
+        "popularity": 0.0933,
+        "profile_path": "/cmNYk1fozoQe1vxM6uPGfIeSYpN.jpg",
+        "credit_id": "5fd8042b8c44b9003dd9fa70",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

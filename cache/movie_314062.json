@@ -1,0 +1,440 @@
+{
+  "adult": false,
+  "backdrop_path": "/n9hA9O5F6JEER1h17oBZmmQJVWJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 314062,
+  "imdb_id": "tt3744880",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Die Schneekönigin",
+  "overview": "A young girl must journey through the seasons to rescue her boyfriend who has been kidnapped by the evil Snow Queen.",
+  "popularity": 9.6252,
+  "poster_path": "/jgSXwMzmy7UrV8syTdEQWSPA76R.jpg",
+  "production_companies": [
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 14169,
+      "logo_path": "/kc3DbPHZrvx0FP2aVGZfEDxm4Jn.png",
+      "name": "Kinderfilm",
+      "origin_country": "DE"
+    },
+    {
+      "id": 155134,
+      "logo_path": null,
+      "name": "Visual Norden",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2014-10-16",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Snow Queen",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68566,
+        "known_for_department": "Acting",
+        "name": "Linda Zilliacus",
+        "original_name": "Linda Zilliacus",
+        "popularity": 0.3636,
+        "profile_path": "/7CegGubLxSHuAZPX9s6FsnIIAe7.jpg",
+        "cast_id": 3,
+        "character": "Schneekönigin",
+        "credit_id": "54a1772ac3a3680b2700b4bf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1405775,
+        "known_for_department": "Acting",
+        "name": "Flora Thiemann",
+        "original_name": "Flora Thiemann",
+        "popularity": 1.0962,
+        "profile_path": "/wx2C7OBj8ksCmS2ZtIZpTd4oGIC.jpg",
+        "cast_id": 4,
+        "character": "Gerda",
+        "credit_id": "54a1773c925141198b0019ab",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105784,
+        "known_for_department": "Acting",
+        "name": "Kristo Ferkic",
+        "original_name": "Kristo Ferkic",
+        "popularity": 0.4383,
+        "profile_path": "/dxZUQiTaFuMw3rJMfRWb9DbiikR.jpg",
+        "cast_id": 5,
+        "character": "Kay",
+        "credit_id": "54a1774fc3a3682f1b00cf9e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 207598,
+        "known_for_department": "Acting",
+        "name": "Annette Frier",
+        "original_name": "Annette Frier",
+        "popularity": 1.0543,
+        "profile_path": "/zCSlTaOdwH3e5LsSlrqxEUYXUUD.jpg",
+        "cast_id": 6,
+        "character": "Frau Flora",
+        "credit_id": "54a17762c3a368764f009679",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4618,
+        "known_for_department": "Acting",
+        "name": "Steffi Kühnert",
+        "original_name": "Steffi Kühnert",
+        "popularity": 0.8008,
+        "profile_path": "/6hW85ehTO43ypWbRxrpoy6WCfZ1.jpg",
+        "cast_id": 7,
+        "character": "Räuberhauptfrau",
+        "credit_id": "54a17774c3a3682f2300d2b8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70888,
+        "known_for_department": "Acting",
+        "name": "Michael von Au",
+        "original_name": "Michael von Au",
+        "popularity": 0.3796,
+        "profile_path": "/siH5DwEGhxErhDMfXwAXRNq5tOB.jpg",
+        "cast_id": 8,
+        "character": "Räuber",
+        "credit_id": "54a17783925141190d001998",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1368894,
+        "known_for_department": "Acting",
+        "name": "Paula Knüpling",
+        "original_name": "Paula Knüpling",
+        "popularity": 0.1438,
+        "profile_path": "/zPSsxjNwBp8IzFYG6QQZZ0J3qDW.jpg",
+        "cast_id": 9,
+        "character": "Prinzessin",
+        "credit_id": "5845332dc3a36844df015305",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1262244,
+        "known_for_department": "Acting",
+        "name": "Moritz Jahn",
+        "original_name": "Moritz Jahn",
+        "popularity": 0.5784,
+        "profile_path": "/qxAmxpTpZ3mFiW6Ls5v1otsCxxH.jpg",
+        "cast_id": 10,
+        "character": "Prinz",
+        "credit_id": "5a76bfc19251410594040770",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 22663,
+        "known_for_department": "Acting",
+        "name": "Annekathrin Bürger",
+        "original_name": "Annekathrin Bürger",
+        "popularity": 0.1931,
+        "profile_path": "/tcRJqBpyUCWkzBQCrlH9Q2YGHxQ.jpg",
+        "cast_id": 11,
+        "character": "Gerdas Großmutter",
+        "credit_id": "5ff626c49ac535003fd5d93a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1554220,
+        "known_for_department": "Acting",
+        "name": "Lena Urzendowsky",
+        "original_name": "Lena Urzendowsky",
+        "popularity": 0.5967,
+        "profile_path": "/emDznsmfi8tuBTUQPfgZU7wRhfp.jpg",
+        "cast_id": 26,
+        "character": "Räubertochter",
+        "credit_id": "6838456bdd07645cc003880d",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1169518,
+        "known_for_department": "Directing",
+        "name": "Karola Hattop",
+        "original_name": "Karola Hattop",
+        "popularity": 0.1236,
+        "profile_path": "/2G1OIEZQOCwHbAWWnl8qRmHOYtW.jpg",
+        "credit_id": "54a176dcc3a368764f009668",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1290494,
+        "known_for_department": "Writing",
+        "name": "Anja Kömmerling",
+        "original_name": "Anja Kömmerling",
+        "popularity": 0.1588,
+        "profile_path": null,
+        "credit_id": "54a176f2c3a3680b2700b4bb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1290493,
+        "known_for_department": "Writing",
+        "name": "Thomas Brinx",
+        "original_name": "Thomas Brinx",
+        "popularity": 0.0941,
+        "profile_path": null,
+        "credit_id": "54a1770b9251414e28008158",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3080155,
+        "known_for_department": "Editing",
+        "name": "Ann-Sophie Schweizer",
+        "original_name": "Ann-Sophie Schweizer",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "657089ede1faed0138ad192f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1287532,
+        "known_for_department": "Camera",
+        "name": "Sebastian Hattop",
+        "original_name": "Sebastian Hattop",
+        "popularity": 0.063,
+        "profile_path": "/xPMfdQY8pTnVU53wQeCEFsdJ8R3.jpg",
+        "credit_id": "657089f6e1faed00c409fb62",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1733079,
+        "known_for_department": "Sound",
+        "name": "Thomas Warneke",
+        "original_name": "Thomas Warneke",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "65708a0441ad8d06e2eccd52",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1381607,
+        "known_for_department": "Sound",
+        "name": "Clemens Grulich",
+        "original_name": "Clemens Grulich",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "65708a0b41ad8d06e2eccd55",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2308693,
+        "known_for_department": "Sound",
+        "name": "Andreas Hintzsch",
+        "original_name": "Andreas Hintzsch",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65708a14c8a2d400fe287e41",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1705476,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Frederike Tabea May",
+        "original_name": "Frederike Tabea May",
+        "popularity": 0.056,
+        "profile_path": null,
+        "credit_id": "65708a1ee1faed00fec51fe2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3033423,
+        "known_for_department": "Art",
+        "name": "Tony Alfström",
+        "original_name": "Tony Alfström",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "65708a2441ad8d06e4d204a5",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3230893,
+        "known_for_department": "Art",
+        "name": "Lisa Staub",
+        "original_name": "Lisa Staub",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "65708a2cc8a2d4011be6de03",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63833,
+        "known_for_department": "Art",
+        "name": "Barbara Bernhard",
+        "original_name": "Barbara Bernhard",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "65708a35fad8e900c62a008e",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31240,
+        "known_for_department": "Art",
+        "name": "Josef Sanktjohanser",
+        "original_name": "Josef Sanktjohanser",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65708a3d79a1c300fe7809bf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1406295,
+        "known_for_department": "Production",
+        "name": "Annekathrin Heubner",
+        "original_name": "Annekathrin Heubner",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65708a44c8a2d400fe287e54",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1450486,
+        "known_for_department": "Writing",
+        "name": "Paul Markurt",
+        "original_name": "Paul Markurt",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "65708a51d18fb909594584e3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1911945,
+        "known_for_department": "Production",
+        "name": "Pasi Hakkio",
+        "original_name": "Pasi Hakkio",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "65708a59d18fb90957a2b0a8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1406283,
+        "known_for_department": "Production",
+        "name": "Ingelore König",
+        "original_name": "Ingelore König",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "65708a62d18fb90958e9bfd8",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "adult": false,
+  "backdrop_path": "/4Pv4JRqT7LT1F290JbbjQsaB6LD.jpg",
+  "belongs_to_collection": {
+    "id": 492969,
+    "name": "The Adventures of Tad Jones",
+    "poster_path": "/kpILOMR8xSzivfw3gbSywILJkQW.jpg",
+    "backdrop_path": "/9iTuTyvEu9TnbbPTVmuswPwZrP.jpg"
+  },
+  "budget": 10778400,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 452773,
+  "imdb_id": "tt3896102",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Tadeo Jones 2: El secreto del rey Midas",
+  "overview": "Tad dreams of becoming an archaeologist traveling the world, uncovering hidden secrets and lost treasure, but his job working construction keeps him daydreaming instead of exploring. The chance of a lifetime comes when he is invited to attend archaeologist Sara Lavrof's presentation of her latest discovery - the papyrus that proves the existence of the Necklace of Midas, the legendary King who turned everything he touched into solid gold.",
+  "popularity": 7.4543,
+  "poster_path": "/7WtFoWtGp45PLNmajM8iGtjAA7B.jpg",
+  "production_companies": [
+    {
+      "id": 37209,
+      "logo_path": null,
+      "name": "4 Cats Pictures",
+      "origin_country": "ES"
+    },
+    {
+      "id": 104632,
+      "logo_path": "/gxKYWKH1s5fYJogAorKdG1DZTvr.png",
+      "name": "Lightbox Animation Studios",
+      "origin_country": "ES"
+    },
+    {
+      "id": 2875,
+      "logo_path": "/3fNapBvM3EHlyL9TxdP5qEOUNeN.png",
+      "name": "Ikiru Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 15285,
+      "logo_path": "/wvM3yt9OZwmAYzYWE4RWn45eZeh.png",
+      "name": "Lightbox Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 103476,
+      "logo_path": "/1Wj9FXynetoCaNxUoBRvKxcKDsB.png",
+      "name": "Mogambo Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 16742,
+      "logo_path": null,
+      "name": "Telefónica Studios",
+      "origin_country": "ES"
+    },
+    {
+      "id": 105273,
+      "logo_path": null,
+      "name": "Tadeo Jones y el Secreto de Midas",
+      "origin_country": "ES"
+    },
+    {
+      "id": 108107,
+      "logo_path": null,
+      "name": "Paramount Pictures Spain",
+      "origin_country": "ES"
+    },
+    {
+      "id": 2674,
+      "logo_path": "/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png",
+      "name": "Telecinco Cinema",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2017-03-25",
+  "revenue": 34156960,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tad, the Lost Explorer, and the Secret of King Midas",
+  "video": false,
+  "vote_average": 6.718,
+  "vote_count": 426,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1164823,
+        "known_for_department": "Acting",
+        "name": "Óscar Barberán",
+        "original_name": "Óscar Barberán",
+        "popularity": 0.8162,
+        "profile_path": "/3Knf7YGrqS8sfXNPo7k15TIJe92.jpg",
+        "cast_id": 8,
+        "character": "Tad Jones (voz)",
+        "credit_id": "596a9f10925141486b012c6d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 114463,
+        "known_for_department": "Acting",
+        "name": "Michelle Jenner",
+        "original_name": "Michelle Jenner",
+        "popularity": 1.299,
+        "profile_path": "/2F6P2UcKQvnadk2ML8xBymbrlws.jpg",
+        "cast_id": 5,
+        "character": "Sara Lavrof (voz)",
+        "credit_id": "596a9e6b925141798700f940",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130260,
+        "known_for_department": "Acting",
+        "name": "Adriana Ugarte",
+        "original_name": "Adriana Ugarte",
+        "popularity": 1.685,
+        "profile_path": "/bn7tsAI8Ot0wb85v5pLp7QJ7SRB.jpg",
+        "cast_id": 4,
+        "character": "Tiffany (voz)",
+        "credit_id": "596a9e53925141382c00c189",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1021607,
+        "known_for_department": "Acting",
+        "name": "Luis Posada",
+        "original_name": "Luis Posada",
+        "popularity": 0.1584,
+        "profile_path": "/tTqHaQkpTbUDg4hPBHRoR4cJiFN.jpg",
+        "cast_id": 9,
+        "character": "Momia (voz)",
+        "credit_id": "596a9f2ec3a3683b42017d15",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042731,
+        "known_for_department": "Acting",
+        "name": "Miguel Ángel Jenner",
+        "original_name": "Miguel Ángel Jenner",
+        "popularity": 0.5892,
+        "profile_path": "/8wggOdgxvFHFojdz6WcrSddXSEC.jpg",
+        "cast_id": 10,
+        "character": "Jack Rackham (voice)",
+        "credit_id": "5a4e84d90e0a264817011009",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132450,
+        "known_for_department": "Acting",
+        "name": "José Corbacho",
+        "original_name": "José Corbacho",
+        "popularity": 0.3725,
+        "profile_path": "/egQOd80IDmyYifNOMdAp2sW4Ap9.jpg",
+        "cast_id": 7,
+        "character": "Taxista (voz)",
+        "credit_id": "596a9edd92514136f8019369",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 938638,
+        "known_for_department": "Acting",
+        "name": "Roser Batalla",
+        "original_name": "Roser Batalla",
+        "popularity": 1.0322,
+        "profile_path": "/mrivEW7lrNAxpPfwHmduvUEjqhm.jpg",
+        "cast_id": 11,
+        "character": "Henchwoman (voice)",
+        "credit_id": "5a4e858fc3a3683b8e0104f8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354967,
+        "known_for_department": "Acting",
+        "name": "Pau López",
+        "original_name": "Pau López",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Sailor 3",
+        "credit_id": "5ec85fdad2147c0023c0483f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2649790,
+        "known_for_department": "Acting",
+        "name": "Masumi Mutsuda",
+        "original_name": "Masumi Mutsuda",
+        "popularity": 0.1298,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Worker 3",
+        "credit_id": "5ec86064140bad001b19b710",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187863,
+        "known_for_department": "Acting",
+        "name": "Jordi Brau",
+        "original_name": "Jordi Brau",
+        "popularity": 0.0357,
+        "profile_path": "/rWCGifdUruwDwP7Vl2cCEnIPNDI.jpg",
+        "cast_id": 26,
+        "character": "Antiquari",
+        "credit_id": "5ec8609e140bad001d1be0b1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 938639,
+        "known_for_department": "Acting",
+        "name": "Francesc Belda",
+        "original_name": "Francesc Belda",
+        "popularity": 0.0631,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Secuaz musculoso / Capatáz (voice)",
+        "credit_id": "66b0e60b8c5e73d417481e45",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1074714,
+        "known_for_department": "Acting",
+        "name": "Manuel Osto",
+        "original_name": "Manuel Osto",
+        "popularity": 0.0214,
+        "profile_path": "/gYbpbK6R9kTRDE2hjq2qoh8zBjt.jpg",
+        "cast_id": 32,
+        "character": "Anticuario (voice)",
+        "credit_id": "66b0e65b531224c81d09b31f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2662143,
+        "known_for_department": "Acting",
+        "name": "Pablo Gómez",
+        "original_name": "Pablo Gómez",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Sailor (voice)",
+        "credit_id": "66b0e73408b600bbdf93f1ce",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2699556,
+        "known_for_department": "Acting",
+        "name": "Pep Papell",
+        "original_name": "Pep Papell",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Secuaz 1 (voice)",
+        "credit_id": "66b0e822a753648596a1237f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2561660,
+        "known_for_department": "Acting",
+        "name": "Rafael Calvo",
+        "original_name": "Rafael H. Calvo",
+        "popularity": 0.0713,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Obrero 1 (voice)",
+        "credit_id": "66b0efd0626ec09ec13a27a6",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938781,
+        "known_for_department": "Production",
+        "name": "Axel Kuschevatzky",
+        "original_name": "Axel Kuschevatzky",
+        "popularity": 0.1935,
+        "profile_path": "/1JTLhOFZKvgcVe4Irt81xw2RsO4.jpg",
+        "credit_id": "618956a8e93e95008e96a10d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1074721,
+        "known_for_department": "Directing",
+        "name": "Enrique Gato",
+        "original_name": "Enrique Gato",
+        "popularity": 0.9601,
+        "profile_path": "/7vWBeDSnsWrbVOWQWurCbxTnEs9.jpg",
+        "credit_id": "58f621d0925141277500cfd3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1133339,
+        "known_for_department": "Writing",
+        "name": "Jordi Gasull",
+        "original_name": "Jordi Gasull",
+        "popularity": 0.1433,
+        "profile_path": null,
+        "credit_id": "596a9dfdc3a3683b8c01a2a1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1236276,
+        "known_for_department": "Writing",
+        "name": "Neil Landau",
+        "original_name": "Neil Landau",
+        "popularity": 0.1479,
+        "profile_path": null,
+        "credit_id": "596a9e0ec3a3683b8c01a2bf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1133344,
+        "known_for_department": "Writing",
+        "name": "Javier López Barreira",
+        "original_name": "Javier López Barreira",
+        "popularity": 0.5054,
+        "profile_path": null,
+        "credit_id": "596a9e24925141486b012b7c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044868,
+        "known_for_department": "Editing",
+        "name": "Alexander Adams",
+        "original_name": "Alexander Adams",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "5b148569925141782b003615",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1133339,
+        "known_for_department": "Writing",
+        "name": "Jordi Gasull",
+        "original_name": "Jordi Gasull",
+        "popularity": 0.1433,
+        "profile_path": null,
+        "credit_id": "5b1485c5925141783b00405a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31409,
+        "known_for_department": "Production",
+        "name": "Edmon Roch",
+        "original_name": "Edmon Roch",
+        "popularity": 0.7815,
+        "profile_path": "/9gL0gi1H7H1Wq4YiDg5GI1nfx0X.jpg",
+        "credit_id": "5b1485ea925141789c003a59",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1423062,
+        "known_for_department": "Production",
+        "name": "Gabriel Arias-Salgado",
+        "original_name": "Gabriel Arias-Salgado",
+        "popularity": 0.1059,
+        "profile_path": "/5jGC8yRQlKXFT1pQvanWJJYnqHt.jpg",
+        "credit_id": "5b1485979251417891003a8f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 979785,
+        "known_for_department": "Production",
+        "name": "Javier Ugarte",
+        "original_name": "Javier Ugarte",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "5b1485fdc3a3685352004873",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56657,
+        "known_for_department": "Sound",
+        "name": "Zacarías M. de la Riva",
+        "original_name": "Zacarías M. de la Riva",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "5b148559c3a3685330005002",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27451,
+        "known_for_department": "Production",
+        "name": "Ghislain Barrois",
+        "original_name": "Ghislain Barrois",
+        "popularity": 0.0459,
+        "profile_path": null,
+        "credit_id": "5b1485b50e0a262dd6003df8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1133341,
+        "known_for_department": "Production",
+        "name": "Nicolás Matji",
+        "original_name": "Nicolás Matji",
+        "popularity": 0.0651,
+        "profile_path": null,
+        "credit_id": "5b1485d8925141783b004066",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2057179,
+        "known_for_department": "Writing",
+        "name": "Paco Sáez",
+        "original_name": "Paco Sáez",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "5b148508c3a3685358004bbf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16999,
+        "known_for_department": "Production",
+        "name": "Álvaro Augustin",
+        "original_name": "Álvaro Augustin",
+        "popularity": 0.5197,
+        "profile_path": null,
+        "credit_id": "5b1485a6c3a368534900474a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044876,
+        "known_for_department": "Visual Effects",
+        "name": "David Alonso",
+        "original_name": "David Alonso",
+        "popularity": 0.9201,
+        "profile_path": null,
+        "credit_id": "66b0e52bfe0db2c1ff2f436c",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

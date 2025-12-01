@@ -1,0 +1,280 @@
+{
+  "adult": false,
+  "backdrop_path": "/ZbEF1VSZZcyHoi7JuDVF0kloPg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 100349,
+  "imdb_id": "tt0039839",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Slick Hare",
+  "overview": "Humphrey Bogart visits the Mocrumbo Restaurant. He orders fried rabbit and Elmer Fudd has twenty minutes to serve it.",
+  "popularity": 7.3239,
+  "poster_path": "/oRm9Q9j8EEXTiWt5k3YHZ1aHmIL.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8298,
+      "logo_path": "/r6cuEYq7DqrHCNVa7vSanTS0cuw.png",
+      "name": "Warner Bros. Cartoons",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1947-11-01",
+  "revenue": 0,
+  "runtime": 8,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Slick Hare",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 33,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33923,
+        "known_for_department": "Acting",
+        "name": "Mel Blanc",
+        "original_name": "Mel Blanc",
+        "popularity": 0.7183,
+        "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+        "cast_id": 4,
+        "character": "Bugs Bunny / Waiter / Bartender / Ray Milland (voice)",
+        "credit_id": "52fe49d5c3a36847f81a8bed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1238851,
+        "known_for_department": "Acting",
+        "name": "Dave Barry",
+        "original_name": "Dave Barry",
+        "popularity": 0.2241,
+        "profile_path": "/sjBsu8FAne6NIJ77h1LLYqTWgYg.jpg",
+        "cast_id": 6,
+        "character": "Humphrey Bogart (voice) (uncredited)",
+        "credit_id": "53d90c3e0e0a2652dc0000fb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147117,
+        "known_for_department": "Acting",
+        "name": "Arthur Q. Bryan",
+        "original_name": "Arthur Q. Bryan",
+        "popularity": 0.5584,
+        "profile_path": "/hvNjp2xYVPgPqPNM4no24myzBUw.jpg",
+        "cast_id": 5,
+        "character": "Elmer Fudd (voice) (uncredited)",
+        "credit_id": "52fe49d5c3a36847f81a8bf1",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 457819,
+        "known_for_department": "Production",
+        "name": "Edward Selzer",
+        "original_name": "Edward Selzer",
+        "popularity": 0.9287,
+        "profile_path": null,
+        "credit_id": "52fe49d5c3a36847f81a8be3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930633,
+        "known_for_department": "Directing",
+        "name": "Friz Freleng",
+        "original_name": "Friz Freleng",
+        "popularity": 0.3288,
+        "profile_path": "/xmhr2IEs1wS8u5QY07fCrGEatva.jpg",
+        "credit_id": "52fe49d5c3a36847f81a8bdd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551674,
+        "known_for_department": "Sound",
+        "name": "Carl W. Stalling",
+        "original_name": "Carl W. Stalling",
+        "popularity": 0.3287,
+        "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+        "credit_id": "52fe49d5c3a36847f81a8be9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 375782,
+        "known_for_department": "Writing",
+        "name": "Tedd Pierce",
+        "original_name": "Tedd Pierce",
+        "popularity": 0.3357,
+        "profile_path": "/9S5zyGnMPpPXgRVLiq6rr9ioFjZ.jpg",
+        "credit_id": "55046b1fc3a36862e10011a2",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 573776,
+        "known_for_department": "Visual Effects",
+        "name": "Manuel Perez",
+        "original_name": "Manuel Perez",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "55046b799251412c5100111f",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 362742,
+        "known_for_department": "Writing",
+        "name": "Michael Maltese",
+        "original_name": "Michael Maltese",
+        "popularity": 0.4112,
+        "profile_path": "/kh0VmXGxAAUPybZHMFsir5beXiH.jpg",
+        "credit_id": "55046b2bc3a368247b00108c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 573544,
+        "known_for_department": "Art",
+        "name": "Paul Julian",
+        "original_name": "Paul Julian",
+        "popularity": 0.6434,
+        "profile_path": "/twa68PDAF7DcBYM8Vo6QRzC4Cg8.jpg",
+        "credit_id": "55046b6c92514174a7001160",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 573775,
+        "known_for_department": "Visual Effects",
+        "name": "Ken Champin",
+        "original_name": "Ken Champin",
+        "popularity": 0.3609,
+        "profile_path": null,
+        "credit_id": "55046b4e9251412b8d001030",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223588,
+        "known_for_department": "Visual Effects",
+        "name": "Virgil Ross",
+        "original_name": "Virgil Ross",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "55046b91c3a368262e001066",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.2078,
+        "profile_path": null,
+        "credit_id": "55046b4192514174a700115c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 549358,
+        "known_for_department": "Visual Effects",
+        "name": "Gerry Chiniquy",
+        "original_name": "Gerry Chiniquy",
+        "popularity": 0.9125,
+        "profile_path": null,
+        "credit_id": "55046b5cc3a368256a00105b",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121216,
+        "known_for_department": "Visual Effects",
+        "name": "Hawley Pratt",
+        "original_name": "Hawley Pratt",
+        "popularity": 0.5605,
+        "profile_path": "/eWILFLR1cCUbstcHk8pIJibpmn5.jpg",
+        "credit_id": "6473f33abe2d4900a7d66bb0",
+        "department": "Visual Effects",
+        "job": "Layout Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.2078,
+        "profile_path": null,
+        "credit_id": "5c467aff9251410e0c4fcd89",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      }
+    ]
+  }
+}

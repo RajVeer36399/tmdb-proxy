@@ -1,0 +1,507 @@
+{
+  "adult": false,
+  "backdrop_path": "/A5P13sTVDCsdbSrXqydavML4yOi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 647456,
+  "imdb_id": "tt7426078",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Crescendo",
+  "overview": "When world-famous conductor Eduard Sporck accepts the job to create an Israeli-Palestinian youth orchestra, he is quickly drawn into a tempest of sheer unsolvable problems.",
+  "popularity": 6.3799,
+  "poster_path": "/8oBxxOtvfm6gwX69KpWw7iZ7iwo.jpg",
+  "production_companies": [
+    {
+      "id": 142064,
+      "logo_path": "/lU0gJVT0WA2UfvDYiNw9O1Qo85w.png",
+      "name": "FilmVergnuegen",
+      "origin_country": "IT"
+    },
+    {
+      "id": 76663,
+      "logo_path": null,
+      "name": "MZ-Film",
+      "origin_country": ""
+    },
+    {
+      "id": 147806,
+      "logo_path": null,
+      "name": "AVE Publishing GmbH & Co. KG",
+      "origin_country": ""
+    },
+    {
+      "id": 22858,
+      "logo_path": null,
+      "name": "Niama Film",
+      "origin_country": ""
+    },
+    {
+      "id": 1787,
+      "logo_path": "/tWdfCS6OBkxSuXao5lluNKDIvlc.png",
+      "name": "CCC Filmkunst",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2020-09-30",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Crescendo",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 18,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49795,
+        "known_for_department": "Acting",
+        "name": "Peter Simonischek",
+        "original_name": "Peter Simonischek",
+        "popularity": 0.2566,
+        "profile_path": "/5Dw34hpB8dasodGZHRngZ3cmESb.jpg",
+        "cast_id": 2,
+        "character": "Eduard",
+        "credit_id": "5dcad0616e44bf0016ef58c8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32421,
+        "known_for_department": "Acting",
+        "name": "Bibiana Beglau",
+        "original_name": "Bibiana Beglau",
+        "popularity": 0.3914,
+        "profile_path": "/8jBplK38ySUGcGUatrdTu31EqXz.jpg",
+        "cast_id": 5,
+        "character": "Karla",
+        "credit_id": "5dcad0836e44bf0013ef54c5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1824198,
+        "known_for_department": "Acting",
+        "name": "Daniel Donskoy",
+        "original_name": "Daniel Donskoy",
+        "popularity": 0.3315,
+        "profile_path": "/a7wtm3P5mUnqSGO0HBQ1viGgAUK.jpg",
+        "cast_id": 12,
+        "character": "Ron",
+        "credit_id": "601e67d19c24fc003f986879",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2028714,
+        "known_for_department": "Acting",
+        "name": "Sabrina Amali",
+        "original_name": "Sabrina Amali",
+        "popularity": 0.1528,
+        "profile_path": "/y1PxD549EAFpfIae3D7f0Ig5wo5.jpg",
+        "cast_id": 13,
+        "character": "Layla",
+        "credit_id": "601e68059d2b63003f209440",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471297,
+        "known_for_department": "Acting",
+        "name": "Mehdi Meskar",
+        "original_name": "Mehdi Meskar",
+        "popularity": 0.3363,
+        "profile_path": "/3fI0vl6ifxJHkRtMEAll9z1X2P6.jpg",
+        "cast_id": 4,
+        "character": "Omar",
+        "credit_id": "5dcad079470ead00159b2cb2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1597601,
+        "known_for_department": "Acting",
+        "name": "Eyan Pinkovich",
+        "original_name": "Eyan Pinkovich",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Shira",
+        "credit_id": "61d813ed3344c60069137dce",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10744,
+        "known_for_department": "Acting",
+        "name": "Götz Otto",
+        "original_name": "Götz Otto",
+        "popularity": 0.9291,
+        "profile_path": "/gUIvsX30Uey3KXYA5VYx5XvcRqf.jpg",
+        "cast_id": 3,
+        "character": "Bellmann",
+        "credit_id": "5dcad068ab1bc70015095dce",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1298092,
+        "known_for_department": "Acting",
+        "name": "Hitham Omari",
+        "original_name": "Hitham Omari",
+        "popularity": 0.1109,
+        "profile_path": "/mt9eFsru1ii3wjpTHn3CUhs4VAF.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "61d813d33344c6001d51bf96",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2380265,
+        "known_for_department": "Acting",
+        "name": "Maya Gorkin",
+        "original_name": "Maya Gorkin",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "61d81417ed96bc00671d8861",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3612380,
+        "known_for_department": "Acting",
+        "name": "Tala Al Deen",
+        "original_name": "Tala Al Deen",
+        "popularity": 0.0563,
+        "profile_path": "/mhybladdEVuxqixyq1fZrKQ6HZs.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "62c40d939672ed23d0958d97",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3612381,
+        "known_for_department": "Acting",
+        "name": "Karin Markovich",
+        "original_name": "Karin Markovich",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "62c40d9922e4803883981d68",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3612382,
+        "known_for_department": "Acting",
+        "name": "Uri Elkayam",
+        "original_name": "Uri Elkayam",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "62c40da06a300b007c2913f1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3612383,
+        "known_for_department": "Acting",
+        "name": "Hassan Bakri",
+        "original_name": "Hassan Bakri",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "62c40daa4e4dff007d55a304",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4717427,
+        "known_for_department": "Acting",
+        "name": "Ori Yossef",
+        "original_name": "Ori Yossef",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "6645c5af3866fbb2d140fd04",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4717429,
+        "known_for_department": "Acting",
+        "name": "Jonathan Hadas",
+        "original_name": "Jonathan Hadas",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "6645c5d7bddee40c2e40fb2b",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4382371,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Julia Schell",
+        "original_name": "Julia Schell",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6557ae6d7f054018d41f33e8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23584,
+        "known_for_department": "Art",
+        "name": "Gabriele Wolff",
+        "original_name": "Gabriele Wolff",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "6557ae737f054018d78f0aed",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1598204,
+        "known_for_department": "Production",
+        "name": "Cassandra Han",
+        "original_name": "Cassandra Han",
+        "popularity": 0.8883,
+        "profile_path": null,
+        "credit_id": "6557ae83d051d900adb530ba",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3059729,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Riccarda Merten-Eicher",
+        "original_name": "Riccarda Merten-Eicher",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "6557ae6553866e00ff081cbe",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1850,
+        "known_for_department": "Camera",
+        "name": "Gero Steffen",
+        "original_name": "Gero Steffen",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "61d813727d2bc1001c718c53",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1885082,
+        "known_for_department": "Production",
+        "name": "Alice Brauner",
+        "original_name": "Alice Brauner",
+        "popularity": 0.0887,
+        "profile_path": null,
+        "credit_id": "61d81356cf1afd001c63c3bf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57932,
+        "known_for_department": "Editing",
+        "name": "Fritz Busse",
+        "original_name": "Fritz Busse",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "61d8137c5c5634001c2e31a1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1177181,
+        "known_for_department": "Sound",
+        "name": "Martin Stock",
+        "original_name": "Martin Stock",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "61d81367cf1afd001c63c3dc",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58385,
+        "known_for_department": "Directing",
+        "name": "Dror Zahavi",
+        "original_name": "Dror Zahavi",
+        "popularity": 0.0948,
+        "profile_path": "/iteCNIy6VYtDgVW0GoULLRUbtwQ.jpg",
+        "credit_id": "5dcad03d6c0e4f00153e4d8c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1885082,
+        "known_for_department": "Production",
+        "name": "Alice Brauner",
+        "original_name": "Alice Brauner",
+        "popularity": 0.0887,
+        "profile_path": null,
+        "credit_id": "5fafe9d413af5f00413ba3f6",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 572455,
+        "known_for_department": "Writing",
+        "name": "Stephen Glantz",
+        "original_name": "Stephen Glantz",
+        "popularity": 0.1778,
+        "profile_path": "/7RhlpPrmX4OpC9HSKtajiNrvdt8.jpg",
+        "credit_id": "5fafe9de498ef90040810c33",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50838,
+        "known_for_department": "Directing",
+        "name": "Marcus O. Rosenmüller",
+        "original_name": "Marcus O. Rosenmüller",
+        "popularity": 0.099,
+        "profile_path": "/iJI1d5gbexhgb0Pe21UU4APSsPw.jpg",
+        "credit_id": "5fafe9fd3a48c5003f7d477d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12737,
+        "known_for_department": "Production",
+        "name": "Artur Brauner",
+        "original_name": "Artur Brauner",
+        "popularity": 0.5924,
+        "profile_path": "/ydOQeaIPaxb8e0yz62quL6wful3.jpg",
+        "credit_id": "5fafe9c413af5f00403b88f4",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559489,
+        "known_for_department": "Acting",
+        "name": "Johannes Rotter",
+        "original_name": "Johannes Rotter",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "credit_id": "5fafea054a4bfc0042b4bed1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58385,
+        "known_for_department": "Directing",
+        "name": "Dror Zahavi",
+        "original_name": "Dror Zahavi",
+        "popularity": 0.0948,
+        "profile_path": "/iteCNIy6VYtDgVW0GoULLRUbtwQ.jpg",
+        "credit_id": "5fafea0b3a48c5003d7d370a",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

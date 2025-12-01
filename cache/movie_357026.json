@@ -1,0 +1,183 @@
+{
+  "adult": false,
+  "backdrop_path": "/r07XSdb9JGouo8PmG99T7WvEgkh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 357026,
+  "imdb_id": "tt4068162",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Óscar desafinado",
+  "overview": "\"Face the ghosts from your past\". That's all Ana is asking of Oscar so they can be together.",
+  "popularity": 6.1978,
+  "poster_path": "/cza0ARXOJ76nPlv302DApxiqPox.jpg",
+  "production_companies": [
+    {
+      "id": 65080,
+      "logo_path": null,
+      "name": "Productora Almaina Producciones",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2014-10-05",
+  "revenue": 0,
+  "runtime": 20,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tuning Oscar",
+  "video": false,
+  "vote_average": 8,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125287,
+        "known_for_department": "Acting",
+        "name": "Bárbara Goenaga",
+        "original_name": "Bárbara Goenaga",
+        "popularity": 0.7501,
+        "profile_path": "/cgBlu4aTHiyznJW2g49AF605xk.jpg",
+        "cast_id": 0,
+        "character": "Ana",
+        "credit_id": "57572324c3a36859bd0006dc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85559,
+        "known_for_department": "Acting",
+        "name": "Julián López",
+        "original_name": "Julián López",
+        "popularity": 0.2154,
+        "profile_path": "/aHbhMMVOvrPaN7ssIMezf2qVgHw.jpg",
+        "cast_id": 1,
+        "character": "Óscar",
+        "credit_id": "575723419251414eba000677",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1168829,
+        "known_for_department": "Acting",
+        "name": "Bárbara Santa-Cruz",
+        "original_name": "Bárbara Santa-Cruz",
+        "popularity": 0.4852,
+        "profile_path": "/3d9MH5ZAfS8HHY4zSLL8y6XU4Du.jpg",
+        "cast_id": 2,
+        "character": "Violeta",
+        "credit_id": "57572351c3a3680aba000196",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1170244,
+        "known_for_department": "Writing",
+        "name": "Mikel Alvariño",
+        "original_name": "Mikel Alvariño",
+        "popularity": 0.0538,
+        "profile_path": "/qEIPif37QijgbV1rBvPBs9Zhuxm.jpg",
+        "credit_id": "5ca532b4c3a3685ab00d57ec",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1170244,
+        "known_for_department": "Writing",
+        "name": "Mikel Alvariño",
+        "original_name": "Mikel Alvariño",
+        "popularity": 0.0538,
+        "profile_path": "/qEIPif37QijgbV1rBvPBs9Zhuxm.jpg",
+        "credit_id": "5feb2b9dd7107e003d25d832",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1334524,
+        "known_for_department": "Writing",
+        "name": "Susana López Rubio",
+        "original_name": "Susana López Rubio",
+        "popularity": 0.7898,
+        "profile_path": "/oHETtrbM3utJajJDwpxqVU18Isy.jpg",
+        "credit_id": "5feb2bb1d40d4c003f85aafb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2915432,
+        "known_for_department": "Sound",
+        "name": "Richard S. Roszbully",
+        "original_name": "Richard S. Roszbully",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5feb2c13c04429003ed6eaaf",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489877,
+        "known_for_department": "Editing",
+        "name": "Raúl de Torres",
+        "original_name": "Raúl de Torres",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "5feb2c29d7107e003f267fca",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1596039,
+        "known_for_department": "Crew",
+        "name": "Enrique Silguero",
+        "original_name": "Enrique Silguero",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "credit_id": "5feb2c52d40d4c003f85ac3a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

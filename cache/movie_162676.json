@@ -1,0 +1,220 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 162676,
+  "imdb_id": "tt0022584",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Yodeling Yokels",
+  "overview": "Bosko and Honey yodel happily in the Alps until a series of disasters end with Honey rushing downriver on an ice floe.",
+  "popularity": 6.8967,
+  "poster_path": "/qMkJQwgl1Mkd3cy2BnaznmfRP1U.jpg",
+  "production_companies": [
+    {
+      "id": 106840,
+      "logo_path": null,
+      "name": "Harman-Ising Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 9329,
+      "logo_path": "/aue5pVfj9TcjYEOufkcuCbAL5hE.png",
+      "name": "The Vitaphone Corporation",
+      "origin_country": "US"
+    },
+    {
+      "id": 134798,
+      "logo_path": null,
+      "name": "Leon Schlesinger Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1931-06-01",
+  "revenue": 0,
+  "runtime": 7,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Yodeling Yokels",
+  "video": false,
+  "vote_average": 4.773,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2777,
+        "known_for_department": "Acting",
+        "name": "Rochelle Hudson",
+        "original_name": "Rochelle Hudson",
+        "popularity": 0.3274,
+        "profile_path": "/2Mi0CBL9pvzLnCBTnfekH0JizcM.jpg",
+        "cast_id": 10,
+        "character": "Honey (voice) (uncredited)",
+        "credit_id": "56c65448925141245b003fb5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132058,
+        "known_for_department": "Acting",
+        "name": "Johnny Murray",
+        "original_name": "Johnny Murray",
+        "popularity": 0.3106,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Bosko (voice) (uncredited)",
+        "credit_id": "56c654519251412451003efd",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112993,
+        "known_for_department": "Production",
+        "name": "Hugh Harman",
+        "original_name": "Hugh Harman",
+        "popularity": 0.5718,
+        "profile_path": "/m9WvfNT96lT64vBTQUeseZzLiMK.jpg",
+        "credit_id": "52fe4c5cc3a36847f822a4ef",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112994,
+        "known_for_department": "Directing",
+        "name": "Rudolf Ising",
+        "original_name": "Rudolf Ising",
+        "popularity": 0.1416,
+        "profile_path": "/aCytkYY869oG2bU1oMs1qwSz52r.jpg",
+        "credit_id": "52fe4c5cc3a36847f822a4f5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112993,
+        "known_for_department": "Production",
+        "name": "Hugh Harman",
+        "original_name": "Hugh Harman",
+        "popularity": 0.5718,
+        "profile_path": "/m9WvfNT96lT64vBTQUeseZzLiMK.jpg",
+        "credit_id": "56c65405c3a3680d54003ff5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112994,
+        "known_for_department": "Directing",
+        "name": "Rudolf Ising",
+        "original_name": "Rudolf Ising",
+        "popularity": 0.1416,
+        "profile_path": "/aCytkYY869oG2bU1oMs1qwSz52r.jpg",
+        "credit_id": "56c6540d9251412696003bb0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13960,
+        "known_for_department": "Sound",
+        "name": "Bernard B. Brown",
+        "original_name": "Bernard B. Brown",
+        "popularity": 0.1766,
+        "profile_path": null,
+        "credit_id": "56c65426c3a3680d4e004270",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1132101,
+        "known_for_department": "Visual Effects",
+        "name": "Norm Blackburn",
+        "original_name": "Norm Blackburn",
+        "popularity": 0.0828,
+        "profile_path": null,
+        "credit_id": "56c6542fc3a3680d490040f0",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123191,
+        "known_for_department": "Visual Effects",
+        "name": "Rollin Hamilton",
+        "original_name": "Rollin Hamilton",
+        "popularity": 0.4353,
+        "profile_path": null,
+        "credit_id": "56c6543a9251412458003de4",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149374,
+        "known_for_department": "Production",
+        "name": "Leon Schlesinger",
+        "original_name": "Leon Schlesinger",
+        "popularity": 0.1192,
+        "profile_path": "/is9gdhtLfaCYwWdeACDgAjdDA1w.jpg",
+        "credit_id": "56c65415c3a3680d52003d41",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1306740,
+        "known_for_department": "Sound",
+        "name": "Frank Marsales",
+        "original_name": "Frank Marsales",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "56c6541dc3a3680d4e00426d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

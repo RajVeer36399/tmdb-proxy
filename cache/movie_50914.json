@@ -1,0 +1,276 @@
+{
+  "adult": false,
+  "backdrop_path": "/A0LrSgTjcd12uUUjMTs2F4GtPnZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 50914,
+  "imdb_id": "tt0023613",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Towed in a Hole",
+  "overview": "Although they are successful fishmongers, Stan convinces Ollie that they should become fishermen too, but making a boat seaworthy isn't an easy task.",
+  "popularity": 6.9563,
+  "poster_path": "/vGiSl2seDxgpkNo7rftQml5xHDk.jpg",
+  "production_companies": [
+    {
+      "id": 2159,
+      "logo_path": null,
+      "name": "Hal Roach Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1932-12-31",
+  "revenue": 0,
+  "runtime": 21,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Towed in a Hole",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 72,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89670,
+        "known_for_department": "Acting",
+        "name": "Stan Laurel",
+        "original_name": "Stan Laurel",
+        "popularity": 1.0046,
+        "profile_path": "/eT15ERUT5T3CVyf2a9JD1VAzC6q.jpg",
+        "cast_id": 2,
+        "character": "Stan",
+        "credit_id": "52fe47dbc3a36847f814bfbd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78057,
+        "known_for_department": "Acting",
+        "name": "Oliver Hardy",
+        "original_name": "Oliver Hardy",
+        "popularity": 0.9632,
+        "profile_path": "/qRMGQo5oWwcLpwgXSoArXK5riwe.jpg",
+        "cast_id": 3,
+        "character": "Ollie",
+        "credit_id": "52fe47dbc3a36847f814bfc1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5464,
+        "known_for_department": "Acting",
+        "name": "Billy Gilbert",
+        "original_name": "Billy Gilbert",
+        "popularity": 0.458,
+        "profile_path": "/xEqQLDrbtY2TlANNbXwXPG3ZDyK.jpg",
+        "cast_id": 4,
+        "character": "Joe - Junkyard Owner",
+        "credit_id": "52fe47dbc3a36847f814bfc5",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19093,
+        "known_for_department": "Directing",
+        "name": "George Marshall",
+        "original_name": "George Marshall",
+        "popularity": 0.2665,
+        "profile_path": "/xTe7JsK7eHYfof19ulwLZRjM7bE.jpg",
+        "credit_id": "52fe47dbc3a36847f814bfb9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131406,
+        "known_for_department": "Acting",
+        "name": "Charley Rogers",
+        "original_name": "Charley Rogers",
+        "popularity": 0.1511,
+        "profile_path": "/idd27mJQDuxXGduMeM11qfznC77.jpg",
+        "credit_id": "552b5777c3a368596e0051d2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33223,
+        "known_for_department": "Production",
+        "name": "Hal Roach",
+        "original_name": "Hal Roach",
+        "popularity": 0.3509,
+        "profile_path": "/cV3xbMdZEQdNhHKdI9T6BL2PBSy.jpg",
+        "credit_id": "552b5790c3a3681f56006779",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89670,
+        "known_for_department": "Acting",
+        "name": "Stan Laurel",
+        "original_name": "Stan Laurel",
+        "popularity": 1.0046,
+        "profile_path": "/eT15ERUT5T3CVyf2a9JD1VAzC6q.jpg",
+        "credit_id": "552b5782c3a3681f5c005f32",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131410,
+        "known_for_department": "Camera",
+        "name": "Art Lloyd",
+        "original_name": "Art Lloyd",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "55476a34925141499f005756",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131392,
+        "known_for_department": "Sound",
+        "name": "Leroy Shield",
+        "original_name": "Leroy Shield",
+        "popularity": 0.0831,
+        "profile_path": null,
+        "credit_id": "61cdccbde25860001dbd0af9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89738,
+        "known_for_department": "Sound",
+        "name": "Marvin Hatley",
+        "original_name": "Marvin Hatley",
+        "popularity": 0.7119,
+        "profile_path": null,
+        "credit_id": "61cdccb4a0b6b5001cbdd29a",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1347635,
+        "known_for_department": "Sound",
+        "name": "James Greene",
+        "original_name": "James Greene",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "61cdcca6a1074b0064c8d171",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78057,
+        "known_for_department": "Acting",
+        "name": "Oliver Hardy",
+        "original_name": "Oliver Hardy",
+        "popularity": 0.9632,
+        "profile_path": "/qRMGQo5oWwcLpwgXSoArXK5riwe.jpg",
+        "credit_id": "65aac6f7357c0000c2d6db07",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137400,
+        "known_for_department": "Directing",
+        "name": "Lloyd French",
+        "original_name": "Lloyd French",
+        "popularity": 0.7907,
+        "profile_path": "/1OxZbBlJrHK7QVy9NLVMdrWVEsQ.jpg",
+        "credit_id": "65aac722c433ea00c274a063",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4489644,
+        "known_for_department": "Sound",
+        "name": "Montague Ewing",
+        "original_name": "Montague Ewing",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65aac73d4557a0012a7e8f2c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19093,
+        "known_for_department": "Directing",
+        "name": "George Marshall",
+        "original_name": "George Marshall",
+        "popularity": 0.2665,
+        "profile_path": "/xTe7JsK7eHYfof19ulwLZRjM7bE.jpg",
+        "credit_id": "56fe6300c3a36821b600279c",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131389,
+        "known_for_department": "Editing",
+        "name": "Richard C. Currier",
+        "original_name": "Richard C. Currier",
+        "popularity": 0.3866,
+        "profile_path": "/5ZNQX170zRTZZOdcvQuWFp8jd3X.jpg",
+        "credit_id": "56fe63259251413106000d5a",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

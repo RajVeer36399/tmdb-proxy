@@ -1,0 +1,478 @@
+{
+  "adult": false,
+  "backdrop_path": "/ca7K6o6Qzj5Wxu9NM4bXW14FTK7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1214516,
+  "imdb_id": "tt30291991",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "As We Speak: Rap Music on Trial",
+  "overview": "Bronx rap artist Kemba explores the growing weaponization of rap lyrics in the United States criminal justice system and abroad — revealing how law enforcement has quietly used artistic creation as evidence in criminal cases for decades.",
+  "popularity": 6.4265,
+  "poster_path": "/7JnegXpSsxbghd7suwovP2PdDqv.jpg",
+  "production_companies": [
+    {
+      "id": 155145,
+      "logo_path": "/ytkGS307vQhI02ZKUOhD9toxoB9.png",
+      "name": "District 33",
+      "origin_country": "US"
+    },
+    {
+      "id": 13466,
+      "logo_path": "/d2ewBAUkCGeYMj6bv2Z9PkzL5OA.png",
+      "name": "Park Pictures Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 15787,
+      "logo_path": "/cDCuNUy2ainiiqHOMl9gtzuPaqn.png",
+      "name": "Strike Anywhere",
+      "origin_country": "US"
+    },
+    {
+      "id": 6329,
+      "logo_path": "/4lZJiVHPClma8YB9hXodraFXSwi.png",
+      "name": "MTV Entertainment Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-22",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hip Hop takes the stand.",
+  "title": "As We Speak: Rap Music on Trial",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4459325,
+        "known_for_department": "Acting",
+        "name": "Kemba",
+        "original_name": "Kemba",
+        "popularity": 0.0404,
+        "profile_path": "/oujxfZ28wuYgeMo5rRhEc1w5S92.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "65931105d5191f18070f0d9e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193151,
+        "known_for_department": "Acting",
+        "name": "Killer Mike",
+        "original_name": "Killer Mike",
+        "popularity": 0.7633,
+        "profile_path": "/d08VHgYhyFmeqzh8JdCPY4CkF1l.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "65887125b0cd20529b5833fb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224109,
+        "known_for_department": "Acting",
+        "name": "Bun B",
+        "original_name": "Bun B",
+        "popularity": 0.1375,
+        "profile_path": "/8HEl2oo9YQeV8gF5VGYpNwwDSJD.jpg",
+        "cast_id": 26,
+        "character": "Self",
+        "credit_id": "65c6380c41eee1017a963ca1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4527037,
+        "known_for_department": "Acting",
+        "name": "Mac Phipps",
+        "original_name": "Mac Phipps",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Self",
+        "credit_id": "65c6381853466101488b04fb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4527038,
+        "known_for_department": "Acting",
+        "name": "Glasses Malone",
+        "original_name": "Glasses Malone",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Self",
+        "credit_id": "65c6382a1b70ae0163a2efa4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4527039,
+        "known_for_department": "Acting",
+        "name": "Stash P",
+        "original_name": "Stash P",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Self",
+        "credit_id": "65c6383efd7aa401619846be",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2223558,
+        "known_for_department": "Acting",
+        "name": "Ari Melber",
+        "original_name": "Ari Melber",
+        "popularity": 0.159,
+        "profile_path": "/1kJbOX8wUD1Eut5w7q3ktYqQHx1.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "6588712e4772155a0b43ba70",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2956837,
+        "known_for_department": "Directing",
+        "name": "J.M. Harper",
+        "original_name": "J.M. Harper",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "6570d8761b1f3c00e1b3b6e5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4459325,
+        "known_for_department": "Acting",
+        "name": "Kemba",
+        "original_name": "Kemba",
+        "popularity": 0.0404,
+        "profile_path": "/oujxfZ28wuYgeMo5rRhEc1w5S92.jpg",
+        "credit_id": "6593124464f716682a8edffa",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1781,
+        "known_for_department": "Camera",
+        "name": "Lance Acord",
+        "original_name": "Lance Acord",
+        "popularity": 0.2228,
+        "profile_path": "/d6GFg2GBKDlIlhJdKopjSQg09oe.jpg",
+        "credit_id": "659313b0028f147694c6939d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2544922,
+        "known_for_department": "Editing",
+        "name": "Max Allman",
+        "original_name": "Max Allman",
+        "popularity": 0.0535,
+        "profile_path": null,
+        "credit_id": "659313c2e640d67ee0d678f3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1095275,
+        "known_for_department": "Production",
+        "name": "Sam Bisbee",
+        "original_name": "Sam Bisbee",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "credit_id": "659313caf5f1c576f9016225",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215805,
+        "known_for_department": "Acting",
+        "name": "Peter Cambor",
+        "original_name": "Peter Cambor",
+        "popularity": 0.481,
+        "profile_path": "/9mvUdSbOBdQdOAM5H2L0GVxBOV.jpg",
+        "credit_id": "659313d3d5191f2db20f0e2e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3576331,
+        "known_for_department": "Production",
+        "name": "Amanda Culkowski",
+        "original_name": "Amanda Culkowski",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "659313dd64f7166d9f8e9bed",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2777128,
+        "known_for_department": "Production",
+        "name": "Bruce Gillmer",
+        "original_name": "Bruce Gillmer",
+        "popularity": 0.69,
+        "profile_path": "/8wGrkcrbB05LUFFNg9nhb7E0kNE.jpg",
+        "credit_id": "659313f451a64e04e8f44714",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2956837,
+        "known_for_department": "Directing",
+        "name": "J.M. Harper",
+        "original_name": "J.M. Harper",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "659313fcce4ddc6cd37eda52",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1094150,
+        "known_for_department": "Production",
+        "name": "Jackie Kelman Bisbee",
+        "original_name": "Jackie Kelman Bisbee",
+        "popularity": 0.5981,
+        "profile_path": null,
+        "credit_id": "6593140af5f1c5783200c11d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2721617,
+        "known_for_department": "Production",
+        "name": "Danielle Massie",
+        "original_name": "Danielle Massie",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "65931416a5890272c3963913",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095029,
+        "known_for_department": "Production",
+        "name": "Christina Radburn",
+        "original_name": "Christina Radburn",
+        "popularity": 0.0481,
+        "profile_path": null,
+        "credit_id": "65931444651fcf5eba8f5fe4",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4459355,
+        "known_for_department": "Production",
+        "name": "Amit Day",
+        "original_name": "Amit Day",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65931450069f0e442b211e57",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1381803,
+        "known_for_department": "Production",
+        "name": "Cody Ryder",
+        "original_name": "Cody Ryder",
+        "popularity": 0.072,
+        "profile_path": null,
+        "credit_id": "6593145b651fcf5eba8f5fed",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3216381,
+        "known_for_department": "Production",
+        "name": "Ryan Simon",
+        "original_name": "Ryan Simon",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6593146ae640d67f40d656e9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3297485,
+        "known_for_department": "Production",
+        "name": "Lysette Urus",
+        "original_name": "Lysette Urus",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65931474028f147823c5a5a1",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3216383,
+        "known_for_department": "Production",
+        "name": "Sam Widdoes",
+        "original_name": "Sam Widdoes",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65931481e640d601abd5d764",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1155531,
+        "known_for_department": "Sound",
+        "name": "William Ryan Fritch",
+        "original_name": "William Ryan Fritch",
+        "popularity": 0.541,
+        "profile_path": null,
+        "credit_id": "659314bea58902717f96e064",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2555568,
+        "known_for_department": "Camera",
+        "name": "Allison Anderson",
+        "original_name": "Allison Anderson",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "659314c61dcb776bd645a6e1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2398221,
+        "known_for_department": "Camera",
+        "name": "Logan Triplett",
+        "original_name": "Logan Triplett",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "659314d11dcb776cb3451a45",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2378540,
+        "known_for_department": "Editing",
+        "name": "Emma Backman",
+        "original_name": "Emma Backman",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "659314dea5890271eb96aae3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2868447,
+        "known_for_department": "Production",
+        "name": "Gabriela Tessitore",
+        "original_name": "Gabriela Tessitore",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "659314e851a64e034cf4ca86",
+        "department": "Editing",
+        "job": "Co-Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2715624,
+        "known_for_department": "Lighting",
+        "name": "Ariel Nehorayoff",
+        "original_name": "Ariel Nehorayoff",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68615279f00205807e0d9294",
+        "department": "Lighting",
+        "job": "Gaffer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "adult": false,
+  "backdrop_path": "/j0pWEMrB9jLn4dOTVcRLVb3eaWo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1180879,
+  "imdb_id": "tt21839254",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Soul Mates",
+  "overview": "Two unsuspecting strangers, Jason and Allison, find themselves participants in a twisted new dating service. Led by the Matchmaker, it forces the two singles inside a nightmarish maze designed to help them find their soul mates, or die trying.",
+  "popularity": 5.4066,
+  "poster_path": "/pkwPNjh2UeVDUKIcbbDbyw4k4TS.jpg",
+  "production_companies": [
+    {
+      "id": 165664,
+      "logo_path": "/aESszJXSDJuAbUARRtSsQHfDO20.png",
+      "name": "Imani Media Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-20",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Soul Mates",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 12,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2203,
+        "known_for_department": "Acting",
+        "name": "Neal McDonough",
+        "original_name": "Neal McDonough",
+        "popularity": 4.7524,
+        "profile_path": "/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg",
+        "cast_id": 13,
+        "character": "Matchmaker",
+        "credit_id": "663937712a09bc01235aa2f3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147404,
+        "known_for_department": "Acting",
+        "name": "Charlie Weber",
+        "original_name": "Charlie Weber",
+        "popularity": 1.3916,
+        "profile_path": "/eL97dIonrg3Iq7ENBBmYolp9kGl.jpg",
+        "cast_id": 1,
+        "character": "Jason",
+        "credit_id": "650a3918cadb6b00c4f709a2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 209196,
+        "known_for_department": "Acting",
+        "name": "Annie Ilonzeh",
+        "original_name": "Annie Ilonzeh",
+        "popularity": 0.7587,
+        "profile_path": "/CTJr6V472oxa92GDCd3Eqh4jDd.jpg",
+        "cast_id": 2,
+        "character": "Allison",
+        "credit_id": "650a39211b5ae500c4aa95ab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44822,
+        "known_for_department": "Acting",
+        "name": "Starletta DuPois",
+        "original_name": "Starletta DuPois",
+        "popularity": 0.4134,
+        "profile_path": "/pRa261QaUrK03ERYG26QHYCRP0n.jpg",
+        "cast_id": 3,
+        "character": "Allison's Grandmother Marie",
+        "credit_id": "650a392b9661fc01e50df906",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2112555,
+        "known_for_department": "Acting",
+        "name": "Kayla Eva",
+        "original_name": "Kayla Eva",
+        "popularity": 0.26,
+        "profile_path": "/yB6IeDnz4MApPSdhSJVwoCu8YNM.jpg",
+        "cast_id": 4,
+        "character": "Liana",
+        "credit_id": "650a3933aede5900fe5f1619",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3083948,
+        "known_for_department": "Acting",
+        "name": "Taylor Krasne",
+        "original_name": "Taylor Krasne",
+        "popularity": 0.0656,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Stunt actor (Server)",
+        "credit_id": "650a393dcadb6b01387c8b1c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4280522,
+        "known_for_department": "Acting",
+        "name": "Saxon Cardenas",
+        "original_name": "Saxon Cardenas",
+        "popularity": 0.1124,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "David Stone",
+        "credit_id": "650a3945d6c300012fcf5324",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4280523,
+        "known_for_department": "Acting",
+        "name": "Seth Brubaker",
+        "original_name": "Seth Brubaker",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Dark Figure",
+        "credit_id": "650a394d1b5ae500e17c0d46",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4280524,
+        "known_for_department": "Acting",
+        "name": "Michael Terrell Williams",
+        "original_name": "Michael Terrell Williams",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Mike",
+        "credit_id": "650a39551b5ae500ab8173dc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4280525,
+        "known_for_department": "Acting",
+        "name": "Danel Azimova",
+        "original_name": "Danel Azimova",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Jason's Sister-in-Law",
+        "credit_id": "650a3961aede5901388588e6",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149638,
+        "known_for_department": "Acting",
+        "name": "Mark Gantt",
+        "original_name": "Mark Gantt",
+        "popularity": 0.8069,
+        "profile_path": "/9LAakxcZ8rDDqMYnojT0RpI4Yd6.jpg",
+        "credit_id": "650a397c0d5d8500aa3db556",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2681638,
+        "known_for_department": "Directing",
+        "name": "Chris LaMont",
+        "original_name": "Chris LaMont",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "650a39846c19ea012d5febc8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2026214,
+        "known_for_department": "Directing",
+        "name": "Joe Russo",
+        "original_name": "Joe Russo",
+        "popularity": 0.7631,
+        "profile_path": null,
+        "credit_id": "650a39a881c7be00adfea955",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2026214,
+        "known_for_department": "Directing",
+        "name": "Joe Russo",
+        "original_name": "Joe Russo",
+        "popularity": 0.7631,
+        "profile_path": null,
+        "credit_id": "6685c13df21127a0da4a5fdf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25294,
+        "known_for_department": "Sound",
+        "name": "Sean Murray",
+        "original_name": "Sean Murray",
+        "popularity": 0.0847,
+        "profile_path": null,
+        "credit_id": "68386ae2c4355807d303862a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1570426,
+        "known_for_department": "Camera",
+        "name": "Andrew Russo",
+        "original_name": "Andrew Russo",
+        "popularity": 0.5262,
+        "profile_path": null,
+        "credit_id": "68386b10d9feb8d29ca87f0c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

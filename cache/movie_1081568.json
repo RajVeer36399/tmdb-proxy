@@ -1,0 +1,254 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1081568,
+  "imdb_id": "tt1332097",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "kn",
+  "original_title": "Amma Nagamma",
+  "overview": "",
+  "popularity": 6.5163,
+  "poster_path": "/mUAJbQZK4p0gkNq8jCFMG5qakD9.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2001-09-18",
+  "revenue": 0,
+  "runtime": 131,
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Amma Nagamma",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584668,
+        "known_for_department": "Acting",
+        "name": "Charan Raj",
+        "original_name": "Charan Raj",
+        "popularity": 0.2462,
+        "profile_path": "/mmEb8jPvyhg6BisENTxM3LQpaCr.jpg",
+        "cast_id": 1,
+        "character": "Dr Amar",
+        "credit_id": "63db09fc85702e058eeca1ca",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2579163,
+        "known_for_department": "Acting",
+        "name": "Damini",
+        "original_name": "Damini",
+        "popularity": 0.0773,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "643b29848ec4ab04c4ae832a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1970818,
+        "known_for_department": "Acting",
+        "name": "Ragasudha",
+        "original_name": "Ragasudha",
+        "popularity": 0.5703,
+        "profile_path": "/AbrQ8m1nbrOUbyuX4jmElYyISSz.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "643b298f46aed404744f2fa3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 586685,
+        "known_for_department": "Acting",
+        "name": "Shobaraj",
+        "original_name": "Shobaraj",
+        "popularity": 0.3268,
+        "profile_path": "/tJDxu2V6zl7dRLKEIODBJrCYTbS.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "643b29b5501cf205753868a7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4012597,
+        "known_for_department": "Acting",
+        "name": "Gurudath Musuri",
+        "original_name": "Gurudath Musuri",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "643b29fdda10f002eba1a2c3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1892028,
+        "known_for_department": "Acting",
+        "name": "Jayasimha Musuri",
+        "original_name": "Jayasimha Musuri",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "643b2a094d679104f3d7353a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2643591,
+        "known_for_department": "Writing",
+        "name": "Kunigal Nagabhushan",
+        "original_name": "Kunigal Nagabhushan",
+        "popularity": 0.0648,
+        "profile_path": "/dV2p1oTbcAYZOEbsp7cFZIfAcdQ.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "643b2a172ea6b9048550f3f4",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2456302,
+        "known_for_department": "Writing",
+        "name": "Dev Kohli",
+        "original_name": "Dev Kohli",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "63db0b543dc31300c7fbc060",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3902106,
+        "known_for_department": "Directing",
+        "name": "C H Balaji Singh",
+        "original_name": "C H Balaji Singh",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63db0ae99e458600b4cf64f9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3902107,
+        "known_for_department": "Production",
+        "name": "Dilip K Shah",
+        "original_name": "Dilip K Shah",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "63db0b09a6c10400d4cae16c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3902109,
+        "known_for_department": "Writing",
+        "name": "Manoj Darpan",
+        "original_name": "Manoj Darpan",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "63db0b93955c6500847b91bd",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2728106,
+        "known_for_department": "Camera",
+        "name": "Manohar C.",
+        "original_name": "Manohar C.",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "643b2ab68ec4ab0470ae8484",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3902106,
+        "known_for_department": "Directing",
+        "name": "C H Balaji Singh",
+        "original_name": "C H Balaji Singh",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "643b2b1dda10f00455a1a2c2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3600284,
+        "known_for_department": "Editing",
+        "name": "K Narasayya",
+        "original_name": "K Narasayya",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "643b2b0b719aeb051feba749",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3902108,
+        "known_for_department": "Sound",
+        "name": "Gopikrishna",
+        "original_name": "Gopikrishna",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "643b2a73da10f002eba1a2cf",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

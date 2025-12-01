@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 145859,
+  "imdb_id": "tt0497825",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Röntgenstrahlen",
+  "overview": "A short black and white film which documents the discovery of X-Rays and how they can be used for medical purposes.",
+  "popularity": 6.792,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 12372,
+      "logo_path": "/lcQScIQXHQXuLMLFQt0loJl5gWJ.png",
+      "name": "UFA",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1937-11-04",
+  "revenue": 0,
+  "runtime": 18,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Röntgenstrahlen",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 5,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1123243,
+        "known_for_department": "Directing",
+        "name": "Martin Rikli",
+        "original_name": "Martin Rikli",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "52fe4b679251416c75101c7f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1123244,
+        "known_for_department": "Production",
+        "name": "Nicholas Kaufmann",
+        "original_name": "Nicholas Kaufmann",
+        "popularity": 0.3981,
+        "profile_path": null,
+        "credit_id": "52fe4b679251416c75101c85",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1123245,
+        "known_for_department": "Crew",
+        "name": "R. Janker",
+        "original_name": "R. Janker",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe4b679251416c75101c8b",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

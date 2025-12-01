@@ -1,0 +1,481 @@
+{
+  "adult": false,
+  "backdrop_path": "/rFgdmHbxEocgmzExT3StrRuY4xb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81620086",
+  "id": 1509871,
+  "imdb_id": "tt36754289",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "She Said Maybe",
+  "overview": "When German-raised Mavi learns she belongs to a superrich Turkish dynasty, new family expectations quickly turn her world and love life upside down.",
+  "popularity": 10.233,
+  "poster_path": "/ujNDflVpoFsBqlbVt58pc7lT1WR.jpg",
+  "production_companies": [
+    {
+      "id": 272722,
+      "logo_path": "/c2msAyOjNgF91rKgNovjh23vjPY.png",
+      "name": "CB Medya",
+      "origin_country": "TR"
+    },
+    {
+      "id": 272723,
+      "logo_path": "/sZkZldfsjFMX8x28jUioQfypsPF.png",
+      "name": "Dark Bay",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2025-09-18",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "She Said Maybe",
+  "video": false,
+  "vote_average": 5.909,
+  "vote_count": 44,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3925508,
+        "known_for_department": "Acting",
+        "name": "Beritan Balcı",
+        "original_name": "Beritan Balcı",
+        "popularity": 0.2049,
+        "profile_path": "/6S1WWlyjJLmdtRWYE10BOr11cmX.jpg",
+        "cast_id": 1,
+        "character": "Mavi",
+        "credit_id": "686bf64aa38e6c90e9ed5d38",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5687778,
+        "known_for_department": "Acting",
+        "name": "Sinan Güleç",
+        "original_name": "Sinan Güleç",
+        "popularity": 0.0486,
+        "profile_path": "/bJUBpoeFsumdKrjL0EzMdBUfuPk.jpg",
+        "cast_id": 11,
+        "character": "Can",
+        "credit_id": "68c62db0014486dd8b230acb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445032,
+        "known_for_department": "Acting",
+        "name": "Serkan Çayoğlu",
+        "original_name": "Serkan Çayoğlu",
+        "popularity": 2.536,
+        "profile_path": "/ryi7hQzOvxEzuy2Vr7DC378LlhR.jpg",
+        "cast_id": 2,
+        "character": "Kent",
+        "credit_id": "686bf7468a675c21b2702ff8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45731,
+        "known_for_department": "Acting",
+        "name": "Meral Perin",
+        "original_name": "Meral Perin",
+        "popularity": 0.2257,
+        "profile_path": "/zLcX3PZDs1uI69uwXbkwsLmt4x9.jpg",
+        "cast_id": 3,
+        "character": "Grandmother Yadigar",
+        "credit_id": "686bf76f1d0ef79eab703071",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2478337,
+        "known_for_department": "Acting",
+        "name": "Caro Daur",
+        "original_name": "Caro Daur",
+        "popularity": 0.146,
+        "profile_path": "/5PQnYWRQT0RVSZLt1iMmar8GLzW.jpg",
+        "cast_id": 20,
+        "character": "Nora",
+        "credit_id": "68cd9b8653c8c12ce097ce65",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1430831,
+        "known_for_department": "Acting",
+        "name": "Cansu Tosun",
+        "original_name": "Cansu Tosun",
+        "popularity": 0.6716,
+        "profile_path": "/l4qgUyiEcvi4v90xaaShpVD8Bzi.jpg",
+        "cast_id": 15,
+        "character": "Leyla",
+        "credit_id": "68c62dffd70093032d230ae2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455423,
+        "known_for_department": "Acting",
+        "name": "Mehmet Ateşçi",
+        "original_name": "Mehmet Ateşçi",
+        "popularity": 0.0858,
+        "profile_path": "/cGiDRsSBIipp033X4vwXBPs8kHz.jpg",
+        "cast_id": 17,
+        "character": "Edo",
+        "credit_id": "68c62e23711b171549a0f092",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1326798,
+        "known_for_department": "Acting",
+        "name": "Ilknur Boyraz",
+        "original_name": "Ilknur Boyraz",
+        "popularity": 0.2267,
+        "profile_path": "/ac5ts25eQ3VlayIJsnqGk8EVBAC.jpg",
+        "cast_id": 13,
+        "character": "Aynur",
+        "credit_id": "68c62dd9d70093032d230adc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1874,
+        "known_for_department": "Acting",
+        "name": "Katja Riemann",
+        "original_name": "Katja Riemann",
+        "popularity": 0.6991,
+        "profile_path": "/waayy0jpNbxLDQ8JO1uRDng8SLF.jpg",
+        "cast_id": 12,
+        "character": "Birgit",
+        "credit_id": "68c62dc5cda208c4e7c8fcba",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1205220,
+        "known_for_department": "Acting",
+        "name": "Anja Karmanski",
+        "original_name": "Anja Karmanski",
+        "popularity": 0.0945,
+        "profile_path": "/5P1zw3uzR9oDEOZEIHLAQPwrcIq.jpg",
+        "cast_id": 14,
+        "character": "Caroline",
+        "credit_id": "68c62ded5e59d5fd60230b0c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5687781,
+        "known_for_department": "Acting",
+        "name": "Alperen Sahin",
+        "original_name": "Alperen Sahin",
+        "popularity": 0.0583,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Private Butler",
+        "credit_id": "68c62e3572b39003c921fe4a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4560207,
+        "known_for_department": "Acting",
+        "name": "Berke Cetin",
+        "original_name": "Berke Cetin",
+        "popularity": 0.055,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Musa",
+        "credit_id": "68c62e49711b171549a0f098",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052796,
+        "known_for_department": "Acting",
+        "name": "Kerem Can",
+        "original_name": "Kerem Can",
+        "popularity": 0.3933,
+        "profile_path": "/vDn3fKe80dBB5BsTC7HKiitOl03.jpg",
+        "cast_id": 21,
+        "character": "Güney",
+        "credit_id": "68cfcd69b6836bc42997d733",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38620,
+        "known_for_department": "Acting",
+        "name": "Aykut Kayacık",
+        "original_name": "Aykut Kayacık",
+        "popularity": 0.3369,
+        "profile_path": "/u92jlsZjrHhquGmeS4PREDr9Rbq.jpg",
+        "cast_id": 22,
+        "character": "Hilmi",
+        "credit_id": "68cfcd85b6836bc42997d73f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5121,
+        "known_for_department": "Acting",
+        "name": "Meltem Cumbul",
+        "original_name": "Meltem Cumbul",
+        "popularity": 0.6454,
+        "profile_path": "/enttKT8X2yTdsvk04YsuUX00XWl.jpg",
+        "cast_id": 23,
+        "character": "Herself",
+        "credit_id": "68cfcda06403e73f8d7a4d3b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20730,
+        "known_for_department": "Acting",
+        "name": "Nursel Köse",
+        "original_name": "Nursel Köse",
+        "popularity": 1.2099,
+        "profile_path": "/qsUqTspcKJgvm8TKGghMG8x204I.jpg",
+        "cast_id": 24,
+        "character": "Rana",
+        "credit_id": "68cfcfc7afb194b888ac8198",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1246607,
+        "known_for_department": "Acting",
+        "name": "Itır Esen",
+        "original_name": "Itır Esen",
+        "popularity": 0.1823,
+        "profile_path": "/ymQH8drQZHdwsCSKDMYre9sGqoT.jpg",
+        "cast_id": 25,
+        "character": "Safiye",
+        "credit_id": "68cfcfeeafb194b888ac819c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1577496,
+        "known_for_department": "Acting",
+        "name": "Ayşen Sezerel",
+        "original_name": "Ayşen Sezerel",
+        "popularity": 0.5202,
+        "profile_path": "/znfo25t9suOLY2AwM9KnLyhza0E.jpg",
+        "cast_id": 26,
+        "character": "Meltem",
+        "credit_id": "68cfd007c523e569ff749703",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5702079,
+        "known_for_department": "Acting",
+        "name": "Hülya Yıldırım",
+        "original_name": "Hülya Yıldırım",
+        "popularity": 0.1023,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Nilgün",
+        "credit_id": "68cfd026df5ca0f79fcd75f7",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5702081,
+        "known_for_department": "Acting",
+        "name": "Kamuran Üster",
+        "original_name": "Kamuran Üster",
+        "popularity": 0.0869,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Nilüfer",
+        "credit_id": "68cfd04b67b7b3c0cd749760",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5702082,
+        "known_for_department": "Acting",
+        "name": "Selma Üstüner",
+        "original_name": "Selma Üstüner",
+        "popularity": 0.1411,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Fethiye",
+        "credit_id": "68cfd0605315e3b9e27496c8",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5702084,
+        "known_for_department": "Acting",
+        "name": "Fatma Öztekin",
+        "original_name": "Fatma Öztekin",
+        "popularity": 0.09,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Mualla",
+        "credit_id": "68cfd07067b7b3c0cd749775",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49849,
+        "known_for_department": "Camera",
+        "name": "The Chau Ngo",
+        "original_name": "The Chau Ngo",
+        "popularity": 0.7958,
+        "profile_path": "/qHt8RCNY0B8ePJk1azGoKYI3uUj.jpg",
+        "credit_id": "686bf84b4621fbdb6751e82c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66830,
+        "known_for_department": "Directing",
+        "name": "Buket Alakuş",
+        "original_name": "Buket Alakuş",
+        "popularity": 0.1489,
+        "profile_path": null,
+        "credit_id": "686bf8641a85f91c4ecee8f2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1145287,
+        "known_for_department": "Writing",
+        "name": "Ipek Zübert",
+        "original_name": "Ipek Zübert",
+        "popularity": 0.142,
+        "profile_path": null,
+        "credit_id": "686bf88c6795468251cee790",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3046738,
+        "known_for_department": "Production",
+        "name": "Saner Ayar",
+        "original_name": "Saner Ayar",
+        "popularity": 0.1244,
+        "profile_path": null,
+        "credit_id": "68b26bf271140ab30954dadc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1147565,
+        "known_for_department": "Production",
+        "name": "Cengiz Çağatay",
+        "original_name": "Cengiz Çağatay",
+        "popularity": 0.1393,
+        "profile_path": null,
+        "credit_id": "68b26c06b0cccec6011573c6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2238355,
+        "known_for_department": "Production",
+        "name": "Nurhan Şekerci-Porst",
+        "original_name": "Nurhan Şekerci-Porst",
+        "popularity": 0.0143,
+        "profile_path": "/zhdQaXqSXRzzGPTH8XASCAEy00g.jpg",
+        "credit_id": "68b26c237ee325f35e9e1390",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1493525,
+        "known_for_department": "Production",
+        "name": "Faruk Özerten",
+        "original_name": "Faruk Özerten",
+        "popularity": 0.0637,
+        "profile_path": null,
+        "credit_id": "68b26c33dc08ddffd4200082",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

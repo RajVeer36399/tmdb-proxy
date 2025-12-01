@@ -1,0 +1,383 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.hff-muenchen.de/en_EN/film-detail/woehlunds-rache.1976",
+  "id": 430085,
+  "imdb_id": "tt6218742",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Wöhlunds Rache",
+  "overview": "In the Middle Ages: Wöhlund is a blacksmith and can forge a shield with special magical powers.",
+  "popularity": 4.1999,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 665,
+      "logo_path": "/bUomMJoEX2W7XpgvNeWswCFKzrW.png",
+      "name": "Hochschule für Fernsehen und Film München",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1986-01-01",
+  "revenue": 0,
+  "runtime": 45,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Wöhlunds Rache",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145584,
+        "known_for_department": "Acting",
+        "name": "Karina Fallenstein",
+        "original_name": "Karina Fallenstein",
+        "popularity": 0.6096,
+        "profile_path": "/qHuotLz2MxnAD823cAYLIiuiIvh.jpg",
+        "cast_id": 0,
+        "character": "",
+        "credit_id": "584fcdbb9251411a46005ec8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19929,
+        "known_for_department": "Acting",
+        "name": "Uwe Fellensiek",
+        "original_name": "Uwe Fellensiek",
+        "popularity": 0.1569,
+        "profile_path": "/tWKXwB6Ufu5MvUsWIywVU6szv2q.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "584fcdc19251416fa1006c90",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1722159,
+        "known_for_department": "Acting",
+        "name": "Heinz Koch",
+        "original_name": "Heinz Koch",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "584fcdc79251411a46005ed6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4922,
+        "known_for_department": "Acting",
+        "name": "Ralf Richter",
+        "original_name": "Ralf Richter",
+        "popularity": 0.6031,
+        "profile_path": "/bHAjEep912NzHpmA4tKhEj13BmP.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "584fcdcc9251416cd0006c82",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1722160,
+        "known_for_department": "Directing",
+        "name": "Oliver Betz",
+        "original_name": "Oliver Betz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "584fce0a9251416e48007305",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1311124,
+        "known_for_department": "Writing",
+        "name": "Melanie Brügel",
+        "original_name": "Melanie Brügel",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "584fce11c3a3682e43006abc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1722161,
+        "known_for_department": "Directing",
+        "name": "Ergün Cevik",
+        "original_name": "Ergün Cevik",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "584fce1ac3a36827a5006d95",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4525,
+        "known_for_department": "Production",
+        "name": "Jakob Claussen",
+        "original_name": "Jakob Claussen",
+        "popularity": 0.0981,
+        "profile_path": "/k2mDu4miFK2XeUvmyssFjHxPBRs.jpg",
+        "credit_id": "584fce22c3a3682dfe007681",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1722162,
+        "known_for_department": "Directing",
+        "name": "Edith Eisenstecken",
+        "original_name": "Edith Eisenstecken",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "584fce2ac3a3682dfe00768a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1286138,
+        "known_for_department": "Directing",
+        "name": "Marvin Entholt",
+        "original_name": "Marvin Entholt",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "584fce329251416cd0006cdb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70155,
+        "known_for_department": "Directing",
+        "name": "Johannes Grieser",
+        "original_name": "Johannes Grieser",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "584fce3c9251416e4b00719a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33542,
+        "known_for_department": "Directing",
+        "name": "Harald Reinl",
+        "original_name": "Harald Reinl",
+        "popularity": 0.5794,
+        "profile_path": "/7rfR3HsRHhDdnMBUv36ZAKnQdcX.jpg",
+        "credit_id": "584fce459251411a46005f30",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1558188,
+        "known_for_department": "Directing",
+        "name": "Florian Richter",
+        "original_name": "Florian Richter",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "584fce4e9251416f63007228",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1344241,
+        "known_for_department": "Directing",
+        "name": "Claus-Michael Rohne",
+        "original_name": "Claus-Michael Rohne",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "584fce57c3a36827a5006db1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20605,
+        "known_for_department": "Directing",
+        "name": "Anno Saul",
+        "original_name": "Anno Saul",
+        "popularity": 0.4203,
+        "profile_path": null,
+        "credit_id": "584fce619251416e4b0071a5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4631819,
+        "known_for_department": "Editing",
+        "name": "Kerstin Specht",
+        "original_name": "Kerstin Specht",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "660d49980b5fd6017c394f3f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1722162,
+        "known_for_department": "Directing",
+        "name": "Edith Eisenstecken",
+        "original_name": "Edith Eisenstecken",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "660d49a99c97bd017ca6cb19",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4130095,
+        "known_for_department": "Editing",
+        "name": "Antje Bartram",
+        "original_name": "Antje Bartram",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "660d49be33a376017d82595f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1311124,
+        "known_for_department": "Writing",
+        "name": "Melanie Brügel",
+        "original_name": "Melanie Brügel",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "5e501c7735811d00195375e9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1286138,
+        "known_for_department": "Directing",
+        "name": "Marvin Entholt",
+        "original_name": "Marvin Entholt",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5e501c829b861600116d59e8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1722160,
+        "known_for_department": "Directing",
+        "name": "Oliver Betz",
+        "original_name": "Oliver Betz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5e501d0ea76ac50013a0775e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1558188,
+        "known_for_department": "Directing",
+        "name": "Florian Richter",
+        "original_name": "Florian Richter",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5e501d1ba93d250017465751",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38195,
+        "known_for_department": "Sound",
+        "name": "Nikolaus Glowna",
+        "original_name": "Nikolaus Glowna",
+        "popularity": 0.0866,
+        "profile_path": null,
+        "credit_id": "5e501d3735811d0019537828",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1329164,
+        "known_for_department": "Camera",
+        "name": "Thomas Merker",
+        "original_name": "Thomas Merker",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6861025860549172be9158f2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

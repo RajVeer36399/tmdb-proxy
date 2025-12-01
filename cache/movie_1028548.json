@@ -1,0 +1,462 @@
+{
+  "adult": false,
+  "backdrop_path": "/yrJwFQt3ogsUvQL86J9btnypX4Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.hallmarkchannel.com/a-fabled-holiday",
+  "id": 1028548,
+  "imdb_id": "tt22295836",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Fabled Holiday",
+  "overview": "Talia and her childhood best friend Anderson unexpectedly reunite in a curiously familiar looking town full of Christmas spirit that restores its visitors when they need it most.",
+  "popularity": 6.3488,
+  "poster_path": "/oB84nCDF6vxdgSxlmvyFfEqZ9SS.jpg",
+  "production_companies": [
+    {
+      "id": 144122,
+      "logo_path": "/sR8SZT67TuPICaEzrOv6HUHgU2H.png",
+      "name": "BRB Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 212683,
+      "logo_path": null,
+      "name": "AHF Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-12-03",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A love story not quite by the book.",
+  "title": "A Fabled Holiday",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42297,
+        "known_for_department": "Acting",
+        "name": "Brooke D'Orsay",
+        "original_name": "Brooke D'Orsay",
+        "popularity": 1.5104,
+        "profile_path": "/8lBeEbyKz8KWz6XDdbymRpKoM9N.jpg",
+        "cast_id": 2,
+        "character": "Talia",
+        "credit_id": "6338b8a7c2ff3d007d93b67b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1554734,
+        "known_for_department": "Acting",
+        "name": "Ryan Paevey",
+        "original_name": "Ryan Paevey",
+        "popularity": 1.4553,
+        "profile_path": "/sHBKqrGRayUyjmHs2BiUPUIoAiB.jpg",
+        "cast_id": 3,
+        "character": "Anderson",
+        "credit_id": "6338b8b32b113d007fb3aa18",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1475826,
+        "known_for_department": "Acting",
+        "name": "Jake Guy",
+        "original_name": "Jake Guy",
+        "popularity": 0.3224,
+        "profile_path": "/weIrEBoyEEcukzzbWQAbLCMFHn2.jpg",
+        "cast_id": 1,
+        "character": "Jake",
+        "credit_id": "6338b8994cbe1200906f13fc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2253676,
+        "known_for_department": "Acting",
+        "name": "Daphne Hoskins",
+        "original_name": "Daphne Hoskins",
+        "popularity": 0.7176,
+        "profile_path": "/nSHo4Rw3DGJ9xRkC8UtzKDyTIO8.jpg",
+        "cast_id": 10,
+        "character": "Izzy",
+        "credit_id": "63697b03d4cc8e0083ae6d2a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 100878,
+        "known_for_department": "Acting",
+        "name": "Rochelle Greenwood",
+        "original_name": "Rochelle Greenwood",
+        "popularity": 0.513,
+        "profile_path": "/pgYWXAFoR3QzDBArAP00BSENpvb.jpg",
+        "cast_id": 11,
+        "character": "Judy",
+        "credit_id": "63697b0f1e92250082629ed1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1689478,
+        "known_for_department": "Acting",
+        "name": "John Prowse",
+        "original_name": "John Prowse",
+        "popularity": 0.4592,
+        "profile_path": "/jXf2UN40fCsBNz7ysLKGKEIiLdQ.jpg",
+        "cast_id": 12,
+        "character": "Charles",
+        "credit_id": "63697b17e7c097007aec82fd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3139308,
+        "known_for_department": "Acting",
+        "name": "Benjamin Jacobson",
+        "original_name": "Benjamin Jacobson",
+        "popularity": 0.1895,
+        "profile_path": "/wxPQ9uNKBDUBRtX2vJ59vWbNCQi.jpg",
+        "cast_id": 13,
+        "character": "Ryan",
+        "credit_id": "63697b1fcaaca2007dd0d98a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1392937,
+        "known_for_department": "Acting",
+        "name": "Carmel Amit",
+        "original_name": "Carmel Amit",
+        "popularity": 1.3645,
+        "profile_path": "/qIBZ3SOsIQOo1CD2ker5YPnnuiY.jpg",
+        "cast_id": 19,
+        "character": "Diane",
+        "credit_id": "63763b36156cc700cdd4a34c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368264,
+        "known_for_department": "Acting",
+        "name": "David Attar",
+        "original_name": "David Attar",
+        "popularity": 0.6251,
+        "profile_path": "/1lIN4todYkAdC4al3GyMLfYoKlX.jpg",
+        "cast_id": 20,
+        "character": "Keith",
+        "credit_id": "63763b41e8999b00a46001f0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1874357,
+        "known_for_department": "Acting",
+        "name": "John Murphy",
+        "original_name": "John Murphy",
+        "popularity": 0.3081,
+        "profile_path": "/kRizKtn3RWdiKG9NoFynid62bLg.jpg",
+        "cast_id": 28,
+        "character": "Miles",
+        "credit_id": "64c21ebf13a3200139f12b9d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63568,
+        "known_for_department": "Acting",
+        "name": "Patti Allan",
+        "original_name": "Patti Allan",
+        "popularity": 0.4566,
+        "profile_path": "/ntFqFRTtOSYHfnNsSBUCubuop9U.jpg",
+        "cast_id": 22,
+        "character": "Mildred",
+        "credit_id": "63763b61156cc700cdd4a367",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2572526,
+        "known_for_department": "Acting",
+        "name": "Madeline Hirvonen",
+        "original_name": "Madeline Hirvonen",
+        "popularity": 0.1779,
+        "profile_path": "/lC9GA8PwKkbxjnBUXMOi6a9k7um.jpg",
+        "cast_id": 23,
+        "character": "Young Talia",
+        "credit_id": "63763b7afab3fa00aacd1739",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3790457,
+        "known_for_department": "Acting",
+        "name": "Victor Colotla",
+        "original_name": "Victor Colotla",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Young Anderson",
+        "credit_id": "63763b88fab3fa00aacd1749",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27124,
+        "known_for_department": "Acting",
+        "name": "Gerard Plunkett",
+        "original_name": "Gerard Plunkett",
+        "popularity": 0.4857,
+        "profile_path": "/2mFFh2CidSOYp6NEZ8Tmr1OQXvT.jpg",
+        "cast_id": 25,
+        "character": "Older Gentleman/Narrator",
+        "credit_id": "63763b93156cc70094347fc5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1884447,
+        "known_for_department": "Acting",
+        "name": "Angela Palmer",
+        "original_name": "Angela Palmer",
+        "popularity": 0.4924,
+        "profile_path": "/i7HaCAy9IKeFMrDLOu9p2VomnAz.jpg",
+        "cast_id": 26,
+        "character": "Sloane",
+        "credit_id": "63763b9de8999b007cc948fd",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1787057,
+        "known_for_department": "Acting",
+        "name": "Kevin Bundy",
+        "original_name": "Kevin Bundy",
+        "popularity": 0.1151,
+        "profile_path": "/sSHU55AjeAXmTnga7eq7FB0KUEZ.jpg",
+        "cast_id": 27,
+        "character": "Talia's Dad",
+        "credit_id": "63763bb6e8999b007cc94902",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1498617,
+        "known_for_department": "Acting",
+        "name": "Lindsey Stirling",
+        "original_name": "Lindsey Stirling",
+        "popularity": 0.9572,
+        "profile_path": "/RZJQ7VhEQYFw4CIeWFUY07qZs1.jpg",
+        "cast_id": 29,
+        "character": "Violinist",
+        "credit_id": "664d4666bf76ddfdbccde463",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3723532,
+        "known_for_department": "Production",
+        "name": "Krystian Watts",
+        "original_name": "Krystian Watts",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6338b9104cbe1200906f1413",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3775049,
+        "known_for_department": "Writing",
+        "name": "E.S. Dolan Dix",
+        "original_name": "E.S. Dolan Dix",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "63697ac79a64c10082eafe59",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3775049,
+        "known_for_department": "Writing",
+        "name": "E.S. Dolan Dix",
+        "original_name": "E.S. Dolan Dix",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "63697ae51b1f3c0079f07f09",
+        "department": "Writing",
+        "job": "Teleplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1182319,
+        "known_for_department": "Writing",
+        "name": "Samantha Herman",
+        "original_name": "Samantha Herman",
+        "popularity": 0.5128,
+        "profile_path": "/s5JRPP3U8ouRhthp6Dy22jyygNE.jpg",
+        "credit_id": "63697ad0ea84c700823a7b2f",
+        "department": "Writing",
+        "job": "Teleplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3246189,
+        "known_for_department": "Directing",
+        "name": "Ruby J. Munro",
+        "original_name": "Ruby J. Munro",
+        "popularity": 0.2985,
+        "profile_path": null,
+        "credit_id": "63697abf4ca6760079b2ec9a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3775050,
+        "known_for_department": "Art",
+        "name": "Ryan Karl Schmidt",
+        "original_name": "Ryan Karl Schmidt",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "63697aefea84c700823a7b40",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2715879,
+        "known_for_department": "Acting",
+        "name": "Shawn Major",
+        "original_name": "Shawn Major",
+        "popularity": 0.0614,
+        "profile_path": "/mNUAGrJvSrhdw3P4anOsSd7QAj.jpg",
+        "credit_id": "63763af911c066007b12a127",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1398555,
+        "known_for_department": "Camera",
+        "name": "Brian Whittred",
+        "original_name": "Brian Whittred",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "63763ae75b2f47007fd59eab",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346297,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Oneil Drummond",
+        "original_name": "Oneil Drummond",
+        "popularity": 0.1308,
+        "profile_path": null,
+        "credit_id": "63763b0f5b2f470091437825",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2141262,
+        "known_for_department": "Editing",
+        "name": "Rafi Spivak",
+        "original_name": "Rafi Spivak",
+        "popularity": 0.4224,
+        "profile_path": null,
+        "credit_id": "63763b05e8999b007cc948ce",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 435006,
+        "known_for_department": "Production",
+        "name": "Jackie Lind",
+        "original_name": "Jackie Lind",
+        "popularity": 1.2589,
+        "profile_path": "/dmNtnTIM84x6CFUJ9gdxMPUdyRD.jpg",
+        "credit_id": "63763b1ce8999b00843a209f",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  }
+}

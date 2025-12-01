@@ -1,0 +1,399 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Po8C1LqWzOTIJf9tRckGEh7WVD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 251602,
+  "imdb_id": "tt2559244",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Kankerlijers",
+  "overview": "Three teenagers appear to have a lot of fun on the children's oncology department on the fourth floor of a large hospital. Nick and Iwan both lost a leg as a result of bone cancer. For their friend Olivier, an amputation may be the next phase. The fourth of the bunch, Pepijn, is so ill and weak that he often stays in his room. Friendship and a deep desire to live keeps the guys mentally balanced. Their friendship changes when Gina arrives. Sickos is a humorous drama that deals with adolescence and chemotherapy.",
+  "popularity": 6.7359,
+  "poster_path": "/Dt9AiAkB4ibWHssCvjyIm1l3Yg.jpg",
+  "production_companies": [
+    {
+      "id": 9054,
+      "logo_path": "/zb7XWmOcLTLmat8ZjybzJrAwBrP.png",
+      "name": "BosBros",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2014-02-12",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sickos",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 144199,
+        "known_for_department": "Acting",
+        "name": "Marcel Hensema",
+        "original_name": "Marcel Hensema",
+        "popularity": 0.4965,
+        "profile_path": "/sb00s42PGW24rlxTFUBj0JbKcMv.jpg",
+        "cast_id": 4,
+        "character": "Oncoloog Marco",
+        "credit_id": "52fe4e1e9251416c91127071",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1245250,
+        "known_for_department": "Acting",
+        "name": "Nicolette van Dam",
+        "original_name": "Nicolette van Dam",
+        "popularity": 0.0914,
+        "profile_path": "/AqFT7eMZwQF4roIWLdqiQwBNknD.jpg",
+        "cast_id": 5,
+        "character": "Zuster Esmee",
+        "credit_id": "52fe4e1e9251416c91127075",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1279249,
+        "known_for_department": "Acting",
+        "name": "Gijs Blom",
+        "original_name": "Gijs Blom",
+        "popularity": 1.7274,
+        "profile_path": "/fBt9qOW4EA1miKaLXFIMYOHAled.jpg",
+        "cast_id": 6,
+        "character": "Olivier",
+        "credit_id": "52fe4e1e9251416c91127079",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1286983,
+        "known_for_department": "Acting",
+        "name": "Vera van der Horst",
+        "original_name": "Vera van der Horst",
+        "popularity": 0.042,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Gina",
+        "credit_id": "52fe4e1e9251416c9112707d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1286984,
+        "known_for_department": "Acting",
+        "name": "Massimo Pesik",
+        "original_name": "Massimo Pesik",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Nick",
+        "credit_id": "52fe4e1e9251416c91127081",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1286985,
+        "known_for_department": "Acting",
+        "name": "Jasha Rudge",
+        "original_name": "Jasha Rudge",
+        "popularity": 0.1578,
+        "profile_path": "/5oGoUNizhJdklX7WoDCD05IPnNQ.jpg",
+        "cast_id": 9,
+        "character": "Iwan",
+        "credit_id": "52fe4e1e9251416c91127085",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1286986,
+        "known_for_department": "Acting",
+        "name": "Jasper Pfeifer",
+        "original_name": "Jasper Pfeifer",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Coassistent Peter",
+        "credit_id": "52fe4e1e9251416c91127089",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1286987,
+        "known_for_department": "Acting",
+        "name": "Denzel von Deira",
+        "original_name": "Denzel von Deira",
+        "popularity": 0.0239,
+        "profile_path": "/8BgIBJVxLsBHExhBRi9G3osg7LX.jpg",
+        "cast_id": 11,
+        "character": "Barguy",
+        "credit_id": "52fe4e1e9251416c9112708d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114756,
+        "known_for_department": "Acting",
+        "name": "Kees Boot",
+        "original_name": "Kees Boot",
+        "popularity": 0.087,
+        "profile_path": "/naMJHK1nG8lISAmasFpWUIGDSLx.jpg",
+        "cast_id": 12,
+        "character": "Fysiotherapeut",
+        "credit_id": "613f8ee8e27260008e7330b6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 87846,
+        "known_for_department": "Acting",
+        "name": "Juul Vrijdag",
+        "original_name": "Juul Vrijdag",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Zuster Ruth",
+        "credit_id": "613f8effa6ddcb0061c5691e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1440581,
+        "known_for_department": "Acting",
+        "name": "Sem de Vlieger",
+        "original_name": "Sem de Vlieger",
+        "popularity": 0.0721,
+        "profile_path": "/yKJEKo5P6irp8BC4AbLe4vevLUk.jpg",
+        "cast_id": 14,
+        "character": "Daphne",
+        "credit_id": "613f8f5ea6ddcb0042c25601",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1026383,
+        "known_for_department": "Directing",
+        "name": "Lodewijk Crijns",
+        "original_name": "Lodewijk Crijns",
+        "popularity": 0.1203,
+        "profile_path": "/u1RNWTBlkBMjmsyEhO4VNF69l7K.jpg",
+        "credit_id": "52fe4e1e9251416c91127061",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1026383,
+        "known_for_department": "Directing",
+        "name": "Lodewijk Crijns",
+        "original_name": "Lodewijk Crijns",
+        "popularity": 0.1203,
+        "profile_path": "/u1RNWTBlkBMjmsyEhO4VNF69l7K.jpg",
+        "credit_id": "52fe4e1e9251416c91127067",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43318,
+        "known_for_department": "Writing",
+        "name": "Albert Espinosa",
+        "original_name": "Albert Espinosa",
+        "popularity": 0.2701,
+        "profile_path": "/9F69Mhh05pKwz7ttMqVFsfUlWwz.jpg",
+        "credit_id": "52fe4e1e9251416c9112706d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51473,
+        "known_for_department": "Production",
+        "name": "Burny Bos",
+        "original_name": "Burny Bos",
+        "popularity": 0.0757,
+        "profile_path": "/l6TgCmsMmRsBb2o1O3hmpt4V2ua.jpg",
+        "credit_id": "613f8f84149565002d384d03",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2631426,
+        "known_for_department": "Production",
+        "name": "Ruud van der Heyde",
+        "original_name": "Ruud van der Heyde",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "613f8f909450fe002cad9722",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1440589,
+        "known_for_department": "Sound",
+        "name": "Bart van de Lisdonk",
+        "original_name": "Bart van de Lisdonk",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "613f8fb09c97bd008f17b702",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1501753,
+        "known_for_department": "Crew",
+        "name": "Joost van Herwijnen",
+        "original_name": "Joost van Herwijnen",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "613f8fbd006b01008de57443",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23579,
+        "known_for_department": "Editing",
+        "name": "Herman P. Koerts",
+        "original_name": "Herman P. Koerts",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "613f8fced236e600936053ea",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498327,
+        "known_for_department": "Art",
+        "name": "Rosa van Gils",
+        "original_name": "Rosa van Gils",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "613f8fdc0cd32a00273b2da0",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1150113,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Manon Blom",
+        "original_name": "Manon Blom",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "613f8fea6af9dd00668b67b5",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1938510,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fleur Enderberg",
+        "original_name": "Fleur Enderberg",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "613f8ff50cd32a0062baf63a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117207,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rob Hillenbrink",
+        "original_name": "Rob Hillenbrink",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "credit_id": "613f900819ab59008d2def70",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 34878,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Monique Mierop",
+        "original_name": "Monique Mierop",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "613f9015aaf897002aff170a",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1582950,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Françoise Mol",
+        "original_name": "Françoise Mol",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "613f9025a6ddcb008af41e1e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair Assistant"
+      }
+    ]
+  }
+}

@@ -1,0 +1,593 @@
+{
+  "adult": false,
+  "backdrop_path": "/6lgZexbXll5aCqAW4xCUFlYb3sR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://1stkiss-movie.toho.co.jp/",
+  "id": 1328862,
+  "imdb_id": "tt33509780",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ファーストキス 1ST KISS",
+  "overview": "After losing her husband to death following a troubled marriage, a woman unexpectedly travels back to the moment before their first meeting, allowing them to reconnect and rekindle their romance.",
+  "popularity": 8.4985,
+  "poster_path": "/6CKSVkMr0tl0YVQqszrnQee6M6D.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 39804,
+      "logo_path": "/bT7wDgMpeT7EAewYfWIHs3gWNYE.png",
+      "name": "AOI Pro.",
+      "origin_country": "JP"
+    },
+    {
+      "id": 182161,
+      "logo_path": "/wvG4lK0m76M6jK8WbWkXNecA7SP.png",
+      "name": "TOHO Studios",
+      "origin_country": "JP"
+    },
+    {
+      "id": 8157,
+      "logo_path": "/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png",
+      "name": "jeki",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11849,
+      "logo_path": "/ssKAToULWqC6LJXOJWtd0O3VdV0.png",
+      "name": "Lawson",
+      "origin_country": "JP"
+    },
+    {
+      "id": 170927,
+      "logo_path": "/k8pquRgZwIWvy9qQcSmNGRBBox2.png",
+      "name": "Nippon Broadcasting System",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-02-07",
+  "revenue": 0,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "1st Kiss",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 13,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 111690,
+        "known_for_department": "Acting",
+        "name": "Takako Matsu",
+        "original_name": "松たか子",
+        "popularity": 0.9487,
+        "profile_path": "/9AMpsOM4cAUUmOnrz8ucX4ZHXOJ.jpg",
+        "cast_id": 1,
+        "character": "Kanna Suzuri",
+        "credit_id": "66ba389286d96922c8a5a74d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256882,
+        "known_for_department": "Acting",
+        "name": "Hokuto Matsumura",
+        "original_name": "松村北斗",
+        "popularity": 0.964,
+        "profile_path": "/omTHb8ZEB5Fv154LHiyYMy89Gkx.jpg",
+        "cast_id": 2,
+        "character": "Kakeru Suzuri",
+        "credit_id": "66ba38db7437e1378f05ff43",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1576235,
+        "known_for_department": "Acting",
+        "name": "Riho Yoshioka",
+        "original_name": "吉岡里帆",
+        "popularity": 2.7604,
+        "profile_path": "/juQdzNvEVelHY2Su1Dznx1Ismq9.jpg",
+        "cast_id": 7,
+        "character": "Ritsu Tenma",
+        "credit_id": "67128290097c3d7760f8c16c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2109360,
+        "known_for_department": "Acting",
+        "name": "Nana Mori",
+        "original_name": "森七菜",
+        "popularity": 1.4365,
+        "profile_path": "/qifxtK6MmmipIitWxNLBTYPzIHx.jpg",
+        "cast_id": 6,
+        "character": "Anri Seki",
+        "credit_id": "67128183097c3d7760f8c0ad",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123739,
+        "known_for_department": "Acting",
+        "name": "Lily Franky",
+        "original_name": "リリー・フランキー",
+        "popularity": 0.7643,
+        "profile_path": "/2MIG7VSbgekrvqUpChs931NLp6B.jpg",
+        "cast_id": 8,
+        "character": "Tenma Ichiro",
+        "credit_id": "671282c1097c3d7760f8c17b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25653,
+        "known_for_department": "Acting",
+        "name": "YOU",
+        "original_name": "YOU",
+        "popularity": 0.591,
+        "profile_path": "/dTlCW7FOwVF1kbV1c7OLWXosL0Y.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "67778106321a3a166a749204",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930345,
+        "known_for_department": "Acting",
+        "name": "Pistol Takehara",
+        "original_name": "竹原ピストル",
+        "popularity": 0.8229,
+        "profile_path": "/lRtjDTiRCAExtMF4IdXPziXVkaW.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "6777810d816b2810d166847d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3190105,
+        "known_for_department": "Acting",
+        "name": "Daisuke Matsuda",
+        "original_name": "松田大輔",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "67778123321a3a166a74921e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2089128,
+        "known_for_department": "Acting",
+        "name": "Masanari Wada",
+        "original_name": "和田雅成",
+        "popularity": 0.7285,
+        "profile_path": "/b1jhORTsto0Ejrfs1iuN5laDudK.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "6777815e321a3a166a74923a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3436,
+        "known_for_department": "Sound",
+        "name": "Keiichi Suzuki",
+        "original_name": "鈴木慶一",
+        "popularity": 0.3946,
+        "profile_path": "/jAdi7TdqTghUmegXOGXKmIYdqaL.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "6777816415521f83d96689e3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1502396,
+        "known_for_department": "Acting",
+        "name": "Misuzu Kanno",
+        "original_name": "神野三鈴",
+        "popularity": 0.7037,
+        "profile_path": "/eyUf1JwpT1YEhotYerL0J6de1Tw.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "6777817d321a3a166a749265",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1561992,
+        "known_for_department": "Directing",
+        "name": "Ayuko Tsukahara",
+        "original_name": "塚原あゆ子",
+        "popularity": 0.8559,
+        "profile_path": "/h80rfDAsANWHQAbwXWJYYolU9Ix.jpg",
+        "credit_id": "66ba392e09107b5472d76f2c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2131363,
+        "known_for_department": "Production",
+        "name": "Kenji Yamada",
+        "original_name": "山田兼司",
+        "popularity": 0.4138,
+        "profile_path": null,
+        "credit_id": "66bede97a55b05f5dd610ebe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152307,
+        "known_for_department": "Production",
+        "name": "Taichi Ito",
+        "original_name": "伊藤太一",
+        "popularity": 0.2734,
+        "profile_path": null,
+        "credit_id": "676fa43a7d1bc87de7613ce1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5155549,
+        "known_for_department": "Production",
+        "name": "Rika Arima",
+        "original_name": "有馬里香",
+        "popularity": 0.1314,
+        "profile_path": null,
+        "credit_id": "6777809125e0e91c577493f1",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110064,
+        "known_for_department": "Writing",
+        "name": "Yuji Sakamoto",
+        "original_name": "坂元裕二",
+        "popularity": 0.8108,
+        "profile_path": "/uOnkMazSKLwDHqa1REfK2gVUbeM.jpg",
+        "credit_id": "677781abb55ff939be668840",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1342698,
+        "known_for_department": "Production",
+        "name": "Toshie Tabata",
+        "original_name": "田端利江",
+        "popularity": 0.8091,
+        "profile_path": null,
+        "credit_id": "677781fcb55ff939be668861",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4839732,
+        "known_for_department": "Production",
+        "name": "Yoshihito Yokoi",
+        "original_name": "横井義人",
+        "popularity": 0.2366,
+        "profile_path": null,
+        "credit_id": "677783b538d26a2a637244ba",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3114080,
+        "known_for_department": "Editing",
+        "name": "Masahiro Ishiyama",
+        "original_name": "石山将弘",
+        "popularity": 0.2699,
+        "profile_path": null,
+        "credit_id": "677784522b097b15a2748e3a",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1057924,
+        "known_for_department": "Production",
+        "name": "Hisashi Usui",
+        "original_name": "臼井央",
+        "popularity": 0.3662,
+        "profile_path": null,
+        "credit_id": "67778485496dd952c872492d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2904124,
+        "known_for_department": "Editing",
+        "name": "Mitsuo Nishio",
+        "original_name": "西尾光男",
+        "popularity": 0.3561,
+        "profile_path": null,
+        "credit_id": "677785de9cb089e0516682f4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3557952,
+        "known_for_department": "Sound",
+        "name": "Kiyoshi Arakawa",
+        "original_name": "荒川きよし",
+        "popularity": 0.1635,
+        "profile_path": null,
+        "credit_id": "677789c055d4b38f93668858",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5155623,
+        "known_for_department": "Directing",
+        "name": "Takuji Yamada",
+        "original_name": "山田卓司",
+        "popularity": 0.3486,
+        "profile_path": null,
+        "credit_id": "67778be55ac1bd8261667f49",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5155631,
+        "known_for_department": "Production",
+        "name": "Toshiya Sugai",
+        "original_name": "菅井俊哉",
+        "popularity": 0.1342,
+        "profile_path": null,
+        "credit_id": "67778d9d5ac1bd8261667fa6",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5155636,
+        "known_for_department": "Visual Effects",
+        "name": "林達郎",
+        "original_name": "林達郎",
+        "popularity": 0.0981,
+        "profile_path": null,
+        "credit_id": "67778e2e1a2df59ad37490a0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5155641,
+        "known_for_department": "Costume & Make-Up",
+        "name": "田口慧",
+        "original_name": "田口慧",
+        "popularity": 0.8158,
+        "profile_path": null,
+        "credit_id": "67778ea71a2df59ad37490e8",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4734934,
+        "known_for_department": "Crew",
+        "name": "Junko Morimoto",
+        "original_name": "森本順子",
+        "popularity": 0.1834,
+        "profile_path": null,
+        "credit_id": "677790c22b097b15a2749003",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3043596,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mutsuki Sakai",
+        "original_name": "酒井夢月",
+        "popularity": 0.3914,
+        "profile_path": null,
+        "credit_id": "677791a89cb089e051668385",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111232,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daisuke Iga",
+        "original_name": "伊賀大介",
+        "popularity": 0.4252,
+        "profile_path": null,
+        "credit_id": "677792209cb089e0516683b0",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2431811,
+        "known_for_department": "Sound",
+        "name": "Norihito Sorimachi",
+        "original_name": "反町憲人",
+        "popularity": 0.1894,
+        "profile_path": null,
+        "credit_id": "677793ae6d7ca00e78724f7a",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111231,
+        "known_for_department": "Art",
+        "name": "Ryo Sugimoto",
+        "original_name": "杉本亮",
+        "popularity": 0.3635,
+        "profile_path": "/tsxwLAvWGQSPUrhyYkkfBwHJux5.jpg",
+        "credit_id": "677795238fd6f5109d7247f7",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5155699,
+        "known_for_department": "Art",
+        "name": "Masaki Yamato",
+        "original_name": "大和昌樹",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6777958c2b097b15a27490a7",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031199,
+        "known_for_department": "Camera",
+        "name": "Hidetoshi Shinomiya",
+        "original_name": "四宮秀俊",
+        "popularity": 0.3337,
+        "profile_path": null,
+        "credit_id": "677796429cb089e051668406",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1780564,
+        "known_for_department": "Production",
+        "name": "Akihito Watanabe",
+        "original_name": "渡辺章仁",
+        "popularity": 0.8988,
+        "profile_path": null,
+        "credit_id": "67779689c11ee61dd8749501",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5155704,
+        "known_for_department": "Production",
+        "name": "Maki Hiwara",
+        "original_name": "檜原麻希",
+        "popularity": 0.0847,
+        "profile_path": null,
+        "credit_id": "677796e3c11ee61dd8749515",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2534591,
+        "known_for_department": "Lighting",
+        "name": "Keijirô Akiyama",
+        "original_name": "秋山恵二郎",
+        "popularity": 0.4844,
+        "profile_path": null,
+        "credit_id": "6790f235fc2519b43f775df6",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170059,
+        "known_for_department": "Sound",
+        "name": "Taisei Iwasaki",
+        "original_name": "岩崎太整",
+        "popularity": 0.7032,
+        "profile_path": null,
+        "credit_id": "67c6e9505b1d8d48c504e41e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

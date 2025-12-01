@@ -1,0 +1,206 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1515340,
+  "imdb_id": "tt37615415",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "John Proctor Is the Villain",
+  "overview": "A group of high school girls in rural Georgia who are studying Arthur Miller's The Crucible create a feminism club as they try to make sense of the greater #MeToo movement and their own relationships with men -- classmates, teachers, and fathers -- in their small community.",
+  "popularity": 13.4863,
+  "poster_path": "/avXixRn2tW8kwtCrjf6fiGZPA5w.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 26402,
+      "logo_path": "/1BFbFgEhD1tJShFTYPNt87q99rD.png",
+      "name": "Little Stranger",
+      "origin_country": "US"
+    },
+    {
+      "id": 2527,
+      "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+      "name": "Marc Platt Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "title": "John Proctor Is the Villain",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1590797,
+        "known_for_department": "Acting",
+        "name": "Sadie Sink",
+        "original_name": "Sadie Sink",
+        "popularity": 26.9239,
+        "profile_path": "/vo5x9GRs2vT47LNb1HZvKUEsk8C.jpg",
+        "cast_id": 11,
+        "character": "Shelby Holcomb",
+        "credit_id": "6925c23559faf41409371106",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56323,
+        "known_for_department": "Acting",
+        "name": "Tina Fey",
+        "original_name": "Tina Fey",
+        "popularity": 1.6203,
+        "profile_path": "/yPTAi1iucXf85UpiFPtyiTSM6do.jpg",
+        "credit_id": "687a8dee49f9a4e6ef72bf76",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23485,
+        "known_for_department": "Production",
+        "name": "Marc Platt",
+        "original_name": "Marc Platt",
+        "popularity": 0.3669,
+        "profile_path": "/AdhoMikWWe1vjar68fuvekURno2.jpg",
+        "credit_id": "687a8e04df411187b5169617",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1590797,
+        "known_for_department": "Acting",
+        "name": "Sadie Sink",
+        "original_name": "Sadie Sink",
+        "popularity": 26.9239,
+        "profile_path": "/vo5x9GRs2vT47LNb1HZvKUEsk8C.jpg",
+        "credit_id": "687a8e1090c737dad7169681",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237543,
+        "known_for_department": "Production",
+        "name": "Eric Gurian",
+        "original_name": "Eric Gurian",
+        "popularity": 0.0587,
+        "profile_path": null,
+        "credit_id": "687a8e53a231441fb516959b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73453,
+        "known_for_department": "Production",
+        "name": "Adam Siegel",
+        "original_name": "Adam Siegel",
+        "popularity": 0.9154,
+        "profile_path": null,
+        "credit_id": "687a8e69692b97576e38ce4e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1974502,
+        "known_for_department": "Production",
+        "name": "Jared LeBoff",
+        "original_name": "Jared LeBoff",
+        "popularity": 0.1203,
+        "profile_path": "/2uAA6kTR0YiwiqIoE4Nb1G7OVoo.jpg",
+        "credit_id": "687a8e76dc231ac119f75dba",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3070372,
+        "known_for_department": "Writing",
+        "name": "Kimberly Belflower",
+        "original_name": "Kimberly Belflower",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68a35364a6491ec12e02d856",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3070372,
+        "known_for_department": "Writing",
+        "name": "Kimberly Belflower",
+        "original_name": "Kimberly Belflower",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68a353b89fbe4b3c39ed203c",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4272039,
+        "known_for_department": "Acting",
+        "name": "Britt Hennemuth",
+        "original_name": "Britt Hennemuth",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "68a353ca3a13231601e9537f",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

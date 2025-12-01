@@ -1,0 +1,183 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 455965,
+  "imdb_id": "tt0284013",
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_title": "Corul pompierilor",
+  "overview": "",
+  "popularity": 4.2551,
+  "poster_path": "/hfCQBU2TybGI5Hbt1LQpKUaEjt5.jpg",
+  "production_companies": [
+    {
+      "id": 70518,
+      "logo_path": null,
+      "name": "Ager Film",
+      "origin_country": "RO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    }
+  ],
+  "release_date": "2000-01-01",
+  "revenue": 0,
+  "runtime": 30,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Firemen's Choir",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145241,
+        "known_for_department": "Acting",
+        "name": "Doru Ana",
+        "original_name": "Doru Ana",
+        "popularity": 0.653,
+        "profile_path": "/q9zQiZb7WQljtIyPAptA4E0SRT2.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "590b5488c3a36869ea000162",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034687,
+        "known_for_department": "Acting",
+        "name": "Valeriu Andriuță",
+        "original_name": "Valeriu Andriuță",
+        "popularity": 0.1459,
+        "profile_path": "/lASuGh1msogVRs5jUmELugBFPAu.jpg",
+        "cast_id": 9,
+        "character": "Fire Chief",
+        "credit_id": "5a0fed7dc3a368627d029765",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55527,
+        "known_for_department": "Acting",
+        "name": "Mircea Diaconu",
+        "original_name": "Mircea Diaconu",
+        "popularity": 0.1019,
+        "profile_path": "/8bUoIseaEJHGAmwaI0KZHhdXPzM.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "590b5497c3a3686a2f000156",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1791008,
+        "known_for_department": "Writing",
+        "name": "Doru Nițescu",
+        "original_name": "Doru Nițescu",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Operatorul",
+        "credit_id": "59d15f85925141143302a96e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1461049,
+        "known_for_department": "Acting",
+        "name": "Papil Panduru",
+        "original_name": "Papil Panduru",
+        "popularity": 0.1025,
+        "profile_path": "/569IBwwss4VQjkrsDLleCR3Cayx.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "59d15f95925141468f02076f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49314,
+        "known_for_department": "Acting",
+        "name": "Ioan Gyuri Pascu",
+        "original_name": "Ioan Gyuri Pascu",
+        "popularity": 0.0907,
+        "profile_path": "/6GnUBoUfQW3eoi7qKDltEeJnonT.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "59d15f99925141142f02ab1e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1178620,
+        "known_for_department": "Acting",
+        "name": "Mărioara Sterian",
+        "original_name": "Mărioara Sterian",
+        "popularity": 0.1574,
+        "profile_path": "/v77wjgB7HR0TfPWgYKmv9LbFhlB.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "59d15fa3c3a368558e02209e",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20657,
+        "known_for_department": "Directing",
+        "name": "Cristian Mungiu",
+        "original_name": "Cristian Mungiu",
+        "popularity": 0.6523,
+        "profile_path": "/3ECIvZzvUw4DOdQj797BsqH3bRb.jpg",
+        "credit_id": "590b5448c3a3686a5c00011a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20657,
+        "known_for_department": "Directing",
+        "name": "Cristian Mungiu",
+        "original_name": "Cristian Mungiu",
+        "popularity": 0.6523,
+        "profile_path": "/3ECIvZzvUw4DOdQj797BsqH3bRb.jpg",
+        "credit_id": "59d15f68c3a36878ec02aafa",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "adult": false,
+  "backdrop_path": "/cR7nW2Pu0kannWcJjMAPYVlLalb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 104973,
+  "imdb_id": "tt0078936",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Mondo cannibale",
+  "overview": "A man is on safari in the jungle with his wife and daughter when the wife gets eaten and the daughter is captured by cannibals. Several years later he goes back to see if his daughter is still alive.",
+  "popularity": 6.6638,
+  "poster_path": "/xTQD2oshhOhwn8clVjclavo99xn.jpg",
+  "production_companies": [
+    {
+      "id": 4799,
+      "logo_path": null,
+      "name": "Eurociné",
+      "origin_country": "FR"
+    },
+    {
+      "id": 42577,
+      "logo_path": null,
+      "name": "Eurofilms",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1980-09-15",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Kidnapped by cannibals! Raised to eat human flesh!",
+  "title": "White Cannibal Queen",
+  "video": false,
+  "vote_average": 4.274,
+  "vote_count": 31,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52063,
+        "known_for_department": "Acting",
+        "name": "Al Cliver",
+        "original_name": "Al Cliver",
+        "popularity": 0.4721,
+        "profile_path": "/rXLF95N8awuRNPBalYVs9BJC3c6.jpg",
+        "cast_id": 14,
+        "character": "Jeremy Taylor",
+        "credit_id": "52fe4a44c3a36847f81c42ef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38591,
+        "known_for_department": "Acting",
+        "name": "Sabrina Siani",
+        "original_name": "Sabrina Siani",
+        "popularity": 0.8,
+        "profile_path": "/ktKhnBdvFSB6Bqrv8PBNFynBsCW.jpg",
+        "cast_id": 3,
+        "character": "Lana",
+        "credit_id": "52fe4a44c3a36847f81c42c7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1083148,
+        "known_for_department": "Acting",
+        "name": "Shirley Knight",
+        "original_name": "Shirley Knight",
+        "popularity": 0.0543,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Barbara Shelton",
+        "credit_id": "52fe4a44c3a36847f81c42cf",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 101472,
+        "known_for_department": "Acting",
+        "name": "Lina Romay",
+        "original_name": "Lina Romay",
+        "popularity": 14.779,
+        "profile_path": "/ac2RgHkvJ1MM8Z5jI1y8CSMOZZR.jpg",
+        "cast_id": 15,
+        "character": "Ana",
+        "credit_id": "52fe4a44c3a36847f81c42f3",
+        "order": 3
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 44411,
+        "known_for_department": "Acting",
+        "name": "Olivier Mathot",
+        "original_name": "Olivier Mathot",
+        "popularity": 1.4,
+        "profile_path": "/75kLBKdSRJD0Q8NcIWttmEpZPyD.jpg",
+        "cast_id": 9,
+        "character": "Charles Fenton",
+        "credit_id": "52fe4a44c3a36847f81c42db",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93093,
+        "known_for_department": "Acting",
+        "name": "Antonio Mayans",
+        "original_name": "Antonio Mayans",
+        "popularity": 0.7623,
+        "profile_path": "/vA1qDHVekxZR3QMZJYVnemIB6wN.jpg",
+        "cast_id": 8,
+        "character": "Yakaké",
+        "credit_id": "52fe4a44c3a36847f81c42d7",
+        "order": 5
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 44416,
+        "known_for_department": "Acting",
+        "name": "Pamela Stanford",
+        "original_name": "Pamela Stanford",
+        "popularity": 2.394,
+        "profile_path": "/bsH6DEBgVkAEWmy5OI3zMDOKWV9.jpg",
+        "cast_id": 13,
+        "character": "Elisabeth Taylor",
+        "credit_id": "52fe4a44c3a36847f81c42eb",
+        "order": 6
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 44414,
+        "known_for_department": "Acting",
+        "name": "Raymond Hardy",
+        "original_name": "Raymond Hardy",
+        "popularity": 0.84,
+        "profile_path": "/t2v9Gsgztb4UkhKIoFY00ARl86f.jpg",
+        "cast_id": 11,
+        "character": "John",
+        "credit_id": "52fe4a44c3a36847f81c42e3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1057470,
+        "known_for_department": "Directing",
+        "name": "Jérôme Foulon",
+        "original_name": "Jérôme Foulon",
+        "popularity": 0.1585,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Safari member",
+        "credit_id": "52fe4a44c3a36847f81c42cb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1083149,
+        "known_for_department": "Acting",
+        "name": "Anne Marie Rosier",
+        "original_name": "Anne Marie Rosier",
+        "popularity": 0.0843,
+        "profile_path": "/cwTfDys9jrW0Vx6PP8SypFbEvqx.jpg",
+        "cast_id": 12,
+        "character": "Safari Member",
+        "credit_id": "52fe4a44c3a36847f81c42e7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30956,
+        "known_for_department": "Directing",
+        "name": "Jesús Franco",
+        "original_name": "Jesús Franco",
+        "popularity": 0.9766,
+        "profile_path": "/sVhaKFvmqD80EbWLTu7sGMbGDt0.jpg",
+        "cast_id": 17,
+        "character": "Mr. Martin",
+        "credit_id": "549f5f449251414e28004874",
+        "order": 10
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 93092,
+        "known_for_department": "Acting",
+        "name": "Anouchka",
+        "original_name": "Anouchka",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Lana as a child",
+        "credit_id": "52fe4a44c3a36847f81c42d3",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30956,
+        "known_for_department": "Directing",
+        "name": "Jesús Franco",
+        "original_name": "Jesús Franco",
+        "popularity": 0.9766,
+        "profile_path": "/sVhaKFvmqD80EbWLTu7sGMbGDt0.jpg",
+        "credit_id": "52fe4a44c3a36847f81c42c3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30956,
+        "known_for_department": "Directing",
+        "name": "Jesús Franco",
+        "original_name": "Jesús Franco",
+        "popularity": 0.9766,
+        "profile_path": "/sVhaKFvmqD80EbWLTu7sGMbGDt0.jpg",
+        "credit_id": "57b5bdbc9251412021000cb3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 102049,
+        "known_for_department": "Camera",
+        "name": "Juan Soler",
+        "original_name": "Juan Soler",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "63d571b9955c6500ce0ba03f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2318677,
+        "known_for_department": "Camera",
+        "name": "Luis Colombo",
+        "original_name": "Luis Colombo",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "63d571c13dc3130082314ca0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99437,
+        "known_for_department": "Directing",
+        "name": "Franco Prosperi",
+        "original_name": "Franco Prosperi",
+        "popularity": 0.1549,
+        "profile_path": null,
+        "credit_id": "64518be310561100ff36f5a6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 102061,
+        "known_for_department": "Production",
+        "name": "Daniel Lesoeur",
+        "original_name": "Daniel Lesoeur",
+        "popularity": 0.2833,
+        "profile_path": null,
+        "credit_id": "5c01e1fbc3a368647609d39f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 98755,
+        "known_for_department": "Production",
+        "name": "Marius Lesoeur",
+        "original_name": "Marius Lesoeur",
+        "popularity": 0.1089,
+        "profile_path": null,
+        "credit_id": "5c01e1b092514169ad080ce2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 102061,
+        "known_for_department": "Production",
+        "name": "Daniel Lesoeur",
+        "original_name": "Daniel Lesoeur",
+        "popularity": 0.2833,
+        "profile_path": null,
+        "credit_id": "5c01e1a59251411080085c40",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 986425,
+        "known_for_department": "Editing",
+        "name": "Ilona Kunesova",
+        "original_name": "Ilona Kunesova",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "5c01e22ac3a368637008e05e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1458499,
+        "known_for_department": "Editing",
+        "name": "Roland Grillon",
+        "original_name": "Roland Grillon",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "5c01e1e3c3a36869ae086801",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37810,
+        "known_for_department": "Sound",
+        "name": "Roberto Pregadio",
+        "original_name": "Roberto Pregadio",
+        "popularity": 0.085,
+        "profile_path": "/xxopNoswyQQaSeg31x4FbiMMSZ9.jpg",
+        "credit_id": "5c01e1ca0e0a26360e08a37b",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

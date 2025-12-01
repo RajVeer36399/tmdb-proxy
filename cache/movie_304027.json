@@ -1,0 +1,415 @@
+{
+  "adult": false,
+  "backdrop_path": "/6NGiOaQX5rcLinwSpouQAFk8YsN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 304027,
+  "imdb_id": "tt0071964",
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "original_language": "de",
+  "original_title": "La Paloma",
+  "overview": "Nightclub singer La Paloma succumbs to the persistent courting of a chubby, rich admirer and marries him. Before the marriage, she was thought to be dying, but soon she is well. She believes her husband's love has cured her, but her efforts to love him begin to fade as she discovers true love with her husband's old school friend.",
+  "popularity": 5.9093,
+  "poster_path": "/ooLLsJ8CztEvIEi6Q3UZ5UU67X.jpg",
+  "production_companies": [
+    {
+      "id": 1530,
+      "logo_path": null,
+      "name": "Citel Films",
+      "origin_country": ""
+    },
+    {
+      "id": 223,
+      "logo_path": "/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png",
+      "name": "Les Films du Losange",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10636,
+      "logo_path": null,
+      "name": "Artco-Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "1974-08-28",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La Paloma",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45195,
+        "known_for_department": "Acting",
+        "name": "Ingrid Caven",
+        "original_name": "Ingrid Caven",
+        "popularity": 0.3639,
+        "profile_path": "/py0XImGnp27PIWYAMWIyNP78X5K.jpg",
+        "cast_id": 1,
+        "character": "Viola Schlumpf, aka 'La Paloma'",
+        "credit_id": "546b72f692514101e9001c13",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73671,
+        "known_for_department": "Acting",
+        "name": "Peter Kern",
+        "original_name": "Peter Kern",
+        "popularity": 0.356,
+        "profile_path": "/yQMAtwyj2SB3WKSMNfMcaQ2Dqjv.jpg",
+        "cast_id": 2,
+        "character": "Isidor Palewski",
+        "credit_id": "546b7304c3a3680d690021b2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39006,
+        "known_for_department": "Acting",
+        "name": "Peter Chatel",
+        "original_name": "Peter Chatel",
+        "popularity": 0.6853,
+        "profile_path": "/xWlshh3F6fLXqHvgLo863bei8x1.jpg",
+        "cast_id": 3,
+        "character": "Raoul",
+        "credit_id": "546b730d92514101ec001df5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2880729,
+        "known_for_department": "Acting",
+        "name": "Jérôme Nicolin",
+        "original_name": "Jérôme Nicolin",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "La force de l’imagination",
+        "credit_id": "649abeeb0e5aba00e2c5fbe7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5226235,
+        "known_for_department": "Acting",
+        "name": "Béatrice Stoll",
+        "original_name": "Béatrice Stoll",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Le propriétaire du casino",
+        "credit_id": "67a2a2387c860960298a6721",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5226236,
+        "known_for_department": "Acting",
+        "name": "Ludmilla Tucek",
+        "original_name": "Ludmilla Tucek",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "La servante",
+        "credit_id": "67a2a249dc24ee93d18104a7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5226241,
+        "known_for_department": "Acting",
+        "name": "Manon",
+        "original_name": "Manon",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "La maquerelle",
+        "credit_id": "67a2a28644d6863b748a6649",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5226242,
+        "known_for_department": "Acting",
+        "name": "Irene Olgiatti",
+        "original_name": "Irene Olgiatti",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Une joueuse",
+        "credit_id": "67a2a2b0ee3932a6729fc625",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4034953,
+        "known_for_department": "Acting",
+        "name": "Pierre Edernac",
+        "original_name": "Pierre Edernac",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Le magicien",
+        "credit_id": "67a2a2a0ee3932a6729fc60e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38341,
+        "known_for_department": "Acting",
+        "name": "Bulle Ogier",
+        "original_name": "Bulle Ogier",
+        "popularity": 0.4152,
+        "profile_path": "/lS4b8sdG6u2IBo7cBPTqNSqAq2O.jpg",
+        "cast_id": 7,
+        "character": "Countess Palewski",
+        "credit_id": "558e6e81c3a368686d001e89",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23393,
+        "known_for_department": "Directing",
+        "name": "Barbet Schroeder",
+        "original_name": "Barbet Schroeder",
+        "popularity": 0.283,
+        "profile_path": "/rwhqq7bmhwc7Wjq0j2KbEZOIJOz.jpg",
+        "cast_id": 12,
+        "character": "Bishop (uncredited)",
+        "credit_id": "618dec5ba313b8002a99f6ba",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5226247,
+        "known_for_department": "Acting",
+        "name": "Peter-Christian Berner",
+        "original_name": "Peter-Christian Berner",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Le fossoyeur (uncredited)",
+        "credit_id": "67a2a3292588c0d32b8a6598",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5226249,
+        "known_for_department": "Acting",
+        "name": "Roland Jouby",
+        "original_name": "Roland Jouby",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Un joueur (uncredited)",
+        "credit_id": "67a2a33fee3932a6729fc669",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5226251,
+        "known_for_department": "Acting",
+        "name": "Curt Keller",
+        "original_name": "Curt Keller",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Le médicin (uncredited)",
+        "credit_id": "67a2a355bd99d6e9a5810a24",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64219,
+        "known_for_department": "Directing",
+        "name": "Daniel Schmid",
+        "original_name": "Daniel Schmid",
+        "popularity": 0.31,
+        "profile_path": "/1ETvbiExNRPLEbhejAvuflmOqie.jpg",
+        "credit_id": "546b72d4c3a3680d6f001d5a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64219,
+        "known_for_department": "Directing",
+        "name": "Daniel Schmid",
+        "original_name": "Daniel Schmid",
+        "popularity": 0.31,
+        "profile_path": "/1ETvbiExNRPLEbhejAvuflmOqie.jpg",
+        "credit_id": "546b73c292514101f2002067",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 0.568,
+        "profile_path": "/xll1qAg0TOzcuNlfZWEEKB1JxqR.jpg",
+        "credit_id": "618dec07cf62cd008c7e0005",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35559,
+        "known_for_department": "Production",
+        "name": "Yves Peyrot",
+        "original_name": "Yves Peyrot",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "618dec6ae741460084cf82f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3764,
+        "known_for_department": "Acting",
+        "name": "Raúl Gimenez",
+        "original_name": "Raúl Gimenez",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "618dec79a14e10002c388d82",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354483,
+        "known_for_department": "Sound",
+        "name": "Luc Yersin",
+        "original_name": "Luc Yersin",
+        "popularity": 1.2019,
+        "profile_path": null,
+        "credit_id": "618dec93d768fe00929feaba",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19054,
+        "known_for_department": "Camera",
+        "name": "Renato Berta",
+        "original_name": "Renato Berta",
+        "popularity": 0.1566,
+        "profile_path": "/fXjRoyeehudjs0kqsMv5yBt7b0U.jpg",
+        "credit_id": "57ffcbecc3a368155a0012fb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1103709,
+        "known_for_department": "Sound",
+        "name": "Gottfried Hüngsberg",
+        "original_name": "Gottfried Hüngsberg",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "57ffcbf49251413ebf00098d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.9451,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "credit_id": "65dcf7bc9ae613016373bcd0",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106605,
+        "known_for_department": "Editing",
+        "name": "Ila von Hasperg",
+        "original_name": "Ila von Hasperg",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "5acab218925141430300501f",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

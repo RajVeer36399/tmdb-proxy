@@ -1,0 +1,334 @@
+{
+  "adult": false,
+  "backdrop_path": "/alsKPetzs0RKLWji4rfkNQril6T.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 381318,
+  "imdb_id": "tt5002394",
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_title": "Ilegitim",
+  "overview": "At the dinner table one night, a close-knit Romanian family is upset by a startling revelation.",
+  "popularity": 5.6972,
+  "poster_path": "/oRNHWMmM0h4c5WDPa2nAEK4eClE.jpg",
+  "production_companies": [
+    {
+      "id": 62171,
+      "logo_path": "/rAORIfdHIVUh8A44ZGuaBTuXaI5.png",
+      "name": "Film Produkcja",
+      "origin_country": "PL"
+    },
+    {
+      "id": 76421,
+      "logo_path": "/2h8aHHt9pSVedgfSvU13CLFfpjz.png",
+      "name": "Domestic Film",
+      "origin_country": "RO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2016-06-08",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Illegitimate",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 38,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113157,
+        "known_for_department": "Acting",
+        "name": "Adrian Titieni",
+        "original_name": "Adrian Titieni",
+        "popularity": 0.6637,
+        "profile_path": "/cXTDbbmrPXvxrznP2ZAGYzVv1hn.jpg",
+        "cast_id": 2,
+        "character": "Victor Anghelescu",
+        "credit_id": "572b9b69c3a3681eff0002a4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1162060,
+        "known_for_department": "Acting",
+        "name": "Alina Grigore",
+        "original_name": "Alina Grigore",
+        "popularity": 0.1599,
+        "profile_path": "/7y5p3Nji9A06YUzmUuNqNuTqAi0.jpg",
+        "cast_id": 3,
+        "character": "Sasha Anghelescu",
+        "credit_id": "572b9b86c3a3681eee0002d4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615701,
+        "known_for_department": "Acting",
+        "name": "Robi Urs",
+        "original_name": "Robi Urs",
+        "popularity": 0.8458,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Romeo Anghelescu",
+        "credit_id": "572b9ba0c3a3681eff0002b1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615703,
+        "known_for_department": "Acting",
+        "name": "Bogdan Albulescu",
+        "original_name": "Bogdan Albulescu",
+        "popularity": 0.2336,
+        "profile_path": "/4cu7VVcpRHFMb4Er3O2yfjqlGQz.jpg",
+        "cast_id": 5,
+        "character": "Cosma Anghelescu",
+        "credit_id": "572b9bb6c3a3681ef500030c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229674,
+        "known_for_department": "Acting",
+        "name": "Radu Andrei Micu",
+        "original_name": "Radu Andrei Micu",
+        "popularity": 0.9311,
+        "profile_path": "/qGD5mG1IozeHIOTEMAEBmu089zo.jpg",
+        "cast_id": 19,
+        "character": "Radu",
+        "credit_id": "67c83fb80a00576143c2a6fa",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1081061,
+        "known_for_department": "Directing",
+        "name": "Adrian Sitaru",
+        "original_name": "Adrian Sitaru",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "56b46bf092514112b9003385",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1081061,
+        "known_for_department": "Directing",
+        "name": "Adrian Sitaru",
+        "original_name": "Adrian Sitaru",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "56b46be7c3a36806fc0040b5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1615704,
+        "known_for_department": "Production",
+        "name": "Anamaria Antoci",
+        "original_name": "Anamaria Antoci",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "572b9c0b9251416cf000030d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1162060,
+        "known_for_department": "Acting",
+        "name": "Alina Grigore",
+        "original_name": "Alina Grigore",
+        "popularity": 0.1599,
+        "profile_path": "/7y5p3Nji9A06YUzmUuNqNuTqAi0.jpg",
+        "credit_id": "572b9bdf9251416cf700030b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2032064,
+        "known_for_department": "Sound",
+        "name": "Florin Alexandru Stan",
+        "original_name": "Florin Alexandru Stan",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "63d40eaa8289a00088b45c87",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1754497,
+        "known_for_department": "Production",
+        "name": "Klaudia Śmieja-Rostworowska",
+        "original_name": "Klaudia Śmieja-Rostworowska",
+        "popularity": 0.6393,
+        "profile_path": "/4tsyoPVU8CzmBUFspDKu8maupI3.jpg",
+        "credit_id": "63d40e8ebefb0900a7c2d9bc",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2947310,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elena Manea",
+        "original_name": "Elena Manea",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63d40ee8d9f4a6008fa0890a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1547389,
+        "known_for_department": "Editing",
+        "name": "Mircea Olteanu",
+        "original_name": "Mircea Olteanu",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "63d40ecec8a5ac0080e19d48",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1666019,
+        "known_for_department": "Camera",
+        "name": "Adrian Silișteanu",
+        "original_name": "Adrian Silișteanu",
+        "popularity": 0.077,
+        "profile_path": "/nUQ5sS7sNwyfpmfWRBXhUkOkh0N.jpg",
+        "credit_id": "63d40ec3d9f4a600a7600f78",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1809558,
+        "known_for_department": "Production",
+        "name": "Yohann Cornu",
+        "original_name": "Yohann Cornu",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "63d40ea1c8a5ac00940d0698",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2162347,
+        "known_for_department": "Camera",
+        "name": "Alexandru Timoșca",
+        "original_name": "Alexandru Timoșca",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "credit_id": "63d40ebe4581990084c1201f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1833460,
+        "known_for_department": "Sound",
+        "name": "Ioan Filip",
+        "original_name": "Ioan Filip",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "63d40f00594c9400b52dd1e3",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1809561,
+        "known_for_department": "Editing",
+        "name": "Théo Lichtenberger",
+        "original_name": "Théo Lichtenberger",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "63d40ed2befb0900bcd6d87d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2947310,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elena Manea",
+        "original_name": "Elena Manea",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63d40edfc8a5ac00d581d672",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2035856,
+        "known_for_department": "Production",
+        "name": "Stanisław Dziedzic",
+        "original_name": "Stanisław Dziedzic",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "5e4827a9676ce20015fdb360",
+        "department": "Production",
+        "job": "Co-Producer"
+      }
+    ]
+  }
+}

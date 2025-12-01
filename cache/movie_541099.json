@@ -1,0 +1,395 @@
+{
+  "adult": false,
+  "backdrop_path": "/aA0fyft9c8MsmFfH9HhTxemewGx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 541099,
+  "imdb_id": "tt3503068",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "DeadTectives",
+  "overview": "A team of reality TV paranormal investigators go to Mexico's most haunted house in the pursuit of better ratings. However, when the true dark secrets of the mansion begin to reveal themselves, the hapless team quickly discover that this house is no hoax. With zero genuine ghost-hunting experience, they have to figure out how to stop the ghosts and escape the house with their lives.",
+  "popularity": 8.2075,
+  "poster_path": "/o3Fo0GFHYzNVK5b1KjhyGYE05vy.jpg",
+  "production_companies": [
+    {
+      "id": 124977,
+      "logo_path": null,
+      "name": "Bad Idea",
+      "origin_country": ""
+    },
+    {
+      "id": 75357,
+      "logo_path": "/zXT1JFP82YL245wlLpauAJDZA25.png",
+      "name": "BondIt",
+      "origin_country": "US"
+    },
+    {
+      "id": 41045,
+      "logo_path": null,
+      "name": "Dark Factory Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 66217,
+      "logo_path": null,
+      "name": "Exit Strategy Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 124978,
+      "logo_path": null,
+      "name": "Little Maniac Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 119056,
+      "logo_path": "/vbhwOf0TQ4z12GIytYGWmhPJAOz.png",
+      "name": "Particular Crowd",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-09-13",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fake hunters. Real ghosts. Complete dicks.",
+  "title": "DeadTectives",
+  "video": false,
+  "vote_average": 5.929,
+  "vote_count": 84,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62879,
+        "known_for_department": "Acting",
+        "name": "Chris Geere",
+        "original_name": "Chris Geere",
+        "popularity": 0.5635,
+        "profile_path": "/y5Ti23z47KY0XG7lzSLxffB0QKn.jpg",
+        "cast_id": 2,
+        "character": "Sam",
+        "credit_id": "5b69fcecc3a3681886132523",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 212198,
+        "known_for_department": "Acting",
+        "name": "Tina Ivlev",
+        "original_name": "Tina Ivlev",
+        "popularity": 0.5304,
+        "profile_path": "/gednp71cFN0FBIzkEF3jBmhfsre.jpg",
+        "cast_id": 3,
+        "character": "Kate",
+        "credit_id": "5b69fcfc925141404f0df84b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2101948,
+        "known_for_department": "Acting",
+        "name": "David Newman",
+        "original_name": "David Newman",
+        "popularity": 1.0432,
+        "profile_path": "/9Y8ySCUX4bvBdG99JWqSpYxFTkQ.jpg",
+        "cast_id": 5,
+        "character": "Lloyd",
+        "credit_id": "5b69fd5492514140640f826a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80494,
+        "known_for_department": "Acting",
+        "name": "José María de Tavira",
+        "original_name": "José María de Tavira",
+        "popularity": 0.9867,
+        "profile_path": "/x6qV0LQLWlioWwmldyZNMidUB51.jpg",
+        "cast_id": 6,
+        "character": "Javier",
+        "credit_id": "5b69fdbfc3a36818990ed3da",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55392,
+        "known_for_department": "Acting",
+        "name": "Martha Higareda",
+        "original_name": "Martha Higareda",
+        "popularity": 2.8695,
+        "profile_path": "/kEj8kOEcJhY2lBjOwZ0TkTyalsG.jpg",
+        "cast_id": 4,
+        "character": "Abril",
+        "credit_id": "5b69fd0ec3a368189d0f52cc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1194259,
+        "known_for_department": "Acting",
+        "name": "Emilio Savinni",
+        "original_name": "Emilio Savinni",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Dead Father",
+        "credit_id": "5d6ac3190e4fc80012d86635",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5018354,
+        "known_for_department": "Acting",
+        "name": "Mark Riley",
+        "original_name": "Mark Riley",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Bob",
+        "credit_id": "67199e2f34c0fabd681c5029",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5018355,
+        "known_for_department": "Acting",
+        "name": "Valentina Zertuche",
+        "original_name": "Valentina Zertuche",
+        "popularity": 0.0895,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Dead Little Girl",
+        "credit_id": "67199e534542e371fe0a40be",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2339797,
+        "known_for_department": "Acting",
+        "name": "Matías del Castillo",
+        "original_name": "Matías del Castillo",
+        "popularity": 0.0631,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Dead Little Boy",
+        "credit_id": "644868314975600512dee732",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2166156,
+        "known_for_department": "Acting",
+        "name": "Núria Blanco",
+        "original_name": "Núria Blanco",
+        "popularity": 0.06,
+        "profile_path": "/3htfdeo0DK64EEtOIX7KrcChJRU.jpg",
+        "cast_id": 16,
+        "character": "Dead Mother",
+        "credit_id": "67199e635d0de89042d8d5d0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5018357,
+        "known_for_department": "Acting",
+        "name": "Chris Rice",
+        "original_name": "Chris Rice",
+        "popularity": 0.0956,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Konrad",
+        "credit_id": "67199e7c1ea33928297cea67",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5018360,
+        "known_for_department": "Acting",
+        "name": "Millet Gómez",
+        "original_name": "Millet Gómez",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Mrs. Sánchez Bello",
+        "credit_id": "67199eb81ea33928297cea80",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5018361,
+        "known_for_department": "Acting",
+        "name": "Raúl Aranda",
+        "original_name": "Raúl Aranda",
+        "popularity": 0.056,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Mr. Sánchez Bello",
+        "credit_id": "67199ed56e4210780f78b513",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 133400,
+        "known_for_department": "Acting",
+        "name": "Cecelia Antoinette",
+        "original_name": "Cecelia Antoinette",
+        "popularity": 0.1982,
+        "profile_path": "/rreotkHlHACHxahOClmAFI7bGRf.jpg",
+        "cast_id": 20,
+        "character": "Mabel",
+        "credit_id": "67199eec1ea33928297cea93",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5018362,
+        "known_for_department": "Acting",
+        "name": "Maria Cargutié",
+        "original_name": "Maria Cargutié",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Zoey",
+        "credit_id": "67199f021ea33928297ceaa4",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299876,
+        "known_for_department": "Production",
+        "name": "Pablo Guisa Koestinger",
+        "original_name": "Pablo Guisa Koestinger",
+        "popularity": 1.1414,
+        "profile_path": "/fe3fy6eVdwG5c6VI5GDw7TXoGfL.jpg",
+        "cast_id": 8,
+        "character": "Dead Sushi Chef",
+        "credit_id": "5d6ac2d40e4fc8000fd8680f",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3051979,
+        "known_for_department": "Editing",
+        "name": "Gilbert Juarez III",
+        "original_name": "Gilbert Juarez III",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "6076fc4318864b005ba6eddf",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1337636,
+        "known_for_department": "Art",
+        "name": "Carlos Lagunas",
+        "original_name": "Carlos Lagunas",
+        "popularity": 0.1672,
+        "profile_path": null,
+        "credit_id": "61ef153a5a788400aaad568e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2834020,
+        "known_for_department": "Production",
+        "name": "Jonathan Davis Arakelian",
+        "original_name": "Jonathan Davis",
+        "popularity": 0.0675,
+        "profile_path": "/qyb1fugSgrbctsttWLO3wc4ofc4.jpg",
+        "credit_id": "665e91f84253e9ea0c2349b1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1952663,
+        "known_for_department": "Directing",
+        "name": "Tony West",
+        "original_name": "Tony West",
+        "popularity": 0.2623,
+        "profile_path": null,
+        "credit_id": "5b69fc2b925141404f0df742",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537530,
+        "known_for_department": "Production",
+        "name": "Daniel Posada",
+        "original_name": "Daniel Posada",
+        "popularity": 1.0436,
+        "profile_path": null,
+        "credit_id": "5b69fc9e92514140640f8148",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1952663,
+        "known_for_department": "Directing",
+        "name": "Tony West",
+        "original_name": "Tony West",
+        "popularity": 0.2623,
+        "profile_path": null,
+        "credit_id": "67199fc4b3d5cbb842f3d148",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

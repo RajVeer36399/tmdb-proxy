@@ -1,0 +1,374 @@
+{
+  "adult": false,
+  "backdrop_path": "/lq2ibIRAoNCNnPA37hmFr3AH973.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.reeloneent.com/programming/creating-christmas/",
+  "id": 1129782,
+  "imdb_id": "tt27558065",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Creating Christmas",
+  "overview": "Harper, a teacher and aspiring illustrator, eager for her big break, is tapped to collaborate with Caleb, a demanding children’s book author whose celebrity is waning. When he insists on her working through Christmas week in a quaint small town in Colorado, she must use the town’s holiday celebrations to help break him out of his writer’s block.",
+  "popularity": 6.5321,
+  "poster_path": "/3xvsgQX2YF3XkRscGmNwtFC4UXP.jpg",
+  "production_companies": [
+    {
+      "id": 154154,
+      "logo_path": null,
+      "name": "CMW Autumn Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 15645,
+      "logo_path": "/lUIW54MXFbB94IKiVzwTRu1R3UX.png",
+      "name": "Reel One Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 140422,
+      "logo_path": "/bdzcN8jo9l77g5zKqPlxW3CkejM.png",
+      "name": "Champlain Media",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2023-12-14",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Creating Christmas",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 549775,
+        "known_for_department": "Acting",
+        "name": "Greer Grammer",
+        "original_name": "Greer Grammer",
+        "popularity": 0.9121,
+        "profile_path": "/1VvU1zrcPXJ7wLKvHCWaK237OvF.jpg",
+        "cast_id": 12,
+        "character": "Harper Young",
+        "credit_id": "646a79f32bcf67011bf3d58e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 965413,
+        "known_for_department": "Acting",
+        "name": "Jason Cermak",
+        "original_name": "Jason Cermak",
+        "popularity": 0.3945,
+        "profile_path": "/Am3whjOE2lmqK1cNT8uY3slgIG2.jpg",
+        "cast_id": 14,
+        "character": "Caleb Mitchell",
+        "credit_id": "646a7a0254a09800feab828f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76700,
+        "known_for_department": "Acting",
+        "name": "Briana Buckmaster",
+        "original_name": "Briana Buckmaster",
+        "popularity": 0.6401,
+        "profile_path": "/arQO0U7qQEDBWlWZrc39eOTUawJ.jpg",
+        "cast_id": 13,
+        "character": "Liz Young",
+        "credit_id": "646a79fbf85958010073c86c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3810635,
+        "known_for_department": "Acting",
+        "name": "Jim Martens",
+        "original_name": "Jim Martens",
+        "popularity": 0.1185,
+        "profile_path": "/o9ZJWn6gzwVvhfySiUmh1LAe4DI.jpg",
+        "cast_id": 15,
+        "character": "Salvation Army Volunteer",
+        "credit_id": "646a7a0a57530e0174511668",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116049,
+        "known_for_department": "Acting",
+        "name": "David-Paul Grove",
+        "original_name": "David-Paul Grove",
+        "popularity": 0.2843,
+        "profile_path": "/u5ERJwvYZBW1Fnqb4V98ycZx0nu.jpg",
+        "cast_id": 16,
+        "character": "Bookstore Employee",
+        "credit_id": "646a7a12d1857201802d5d0e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 205885,
+        "known_for_department": "Acting",
+        "name": "Chenier Hundal",
+        "original_name": "Chenier Hundal",
+        "popularity": 0.342,
+        "profile_path": "/w9Npi75aMFSXs3v2aHqufGuHGMP.jpg",
+        "cast_id": 17,
+        "character": "Pete Stillman",
+        "credit_id": "646a7a1954a09800e40f80c9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1900556,
+        "known_for_department": "Acting",
+        "name": "Jonathan Wilde",
+        "original_name": "Jonathan Wilde",
+        "popularity": 0.1978,
+        "profile_path": "/A0E4nuZ93Mr9xxRa5ELedJCKemS.jpg",
+        "cast_id": 18,
+        "character": "Owen",
+        "credit_id": "646a7a22a5046e01474d80be",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4073912,
+        "known_for_department": "Acting",
+        "name": "Taliya Brielle Evans",
+        "original_name": "Taliya Brielle Evans",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Kid 2",
+        "credit_id": "646a7a2b54a09800feab82a1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2997386,
+        "known_for_department": "Acting",
+        "name": "Trae Maridadi",
+        "original_name": "Trae Maridadi",
+        "popularity": 0.05,
+        "profile_path": "/lXa7Bn7Ko2LxCnWb0isTF9Pxi0.jpg",
+        "cast_id": 20,
+        "character": "Kid 1",
+        "credit_id": "646a7a33a5046e00e5b6ccbc",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1883235,
+        "known_for_department": "Production",
+        "name": "Sebastian Battro",
+        "original_name": "Sebastian Battro",
+        "popularity": 0.5444,
+        "profile_path": "/4wxXkceoRV9ZTWOK1O3aSb7dh4.jpg",
+        "credit_id": "646a7955a5046e01683769fb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1192003,
+        "known_for_department": "Production",
+        "name": "Bruce Harvey",
+        "original_name": "Bruce Harvey",
+        "popularity": 1.1646,
+        "profile_path": "/wY0CyWVUNjKYIIPpNXskGzpc20b.jpg",
+        "credit_id": "646a7984d1857200e5a4a04d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2443974,
+        "known_for_department": "Production",
+        "name": "Chris Langford",
+        "original_name": "Chris Langford",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "646a794c33a3760175d35577",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315119,
+        "known_for_department": "Directing",
+        "name": "Jason James",
+        "original_name": "Jason James",
+        "popularity": 0.4997,
+        "profile_path": "/ebKshr4zinUR4UE98m5oqAHXFny.jpg",
+        "credit_id": "646a78a2f85958011d73bc0c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56982,
+        "known_for_department": "Production",
+        "name": "Tom Berry",
+        "original_name": "Tom Berry",
+        "popularity": 0.3864,
+        "profile_path": "/up0VPkoOUYFIeDrKGTsLSv0HAoE.jpg",
+        "credit_id": "646a7975006b0100e6b4c751",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1872470,
+        "known_for_department": "Production",
+        "name": "Imogen Cooper",
+        "original_name": "Imogen Cooper",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "646a797d006b010147ea5efc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1511523,
+        "known_for_department": "Production",
+        "name": "Breanne Laplante",
+        "original_name": "Breanne Laplante",
+        "popularity": 0.3124,
+        "profile_path": null,
+        "credit_id": "646a798b54a09800e40f80b0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3524562,
+        "known_for_department": "Camera",
+        "name": "Diego Lozano",
+        "original_name": "Diego Lozano",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "credit_id": "646a7995a5046e00e5b6cca3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2267574,
+        "known_for_department": "Production",
+        "name": "Louisa Cadywould",
+        "original_name": "Louisa Cadywould",
+        "popularity": 0.0898,
+        "profile_path": "/r4n5TR5NhCN8NVGyZtUn1EFXBUc.jpg",
+        "credit_id": "646a7967006b010147ea5ef6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2168419,
+        "known_for_department": "Production",
+        "name": "Suzanne Chapman",
+        "original_name": "Suzanne Chapman",
+        "popularity": 0.8128,
+        "profile_path": null,
+        "credit_id": "646a796ea5046e0124685535",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4073906,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cassandra Kleinschroth",
+        "original_name": "Cassandra Kleinschroth",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "646a799d2bcf67011bf3d57c",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3801007,
+        "known_for_department": "Writing",
+        "name": "Julie Tortorici",
+        "original_name": "Julie Tortorici",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "64971329bbd0b001252a9a47",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2096319,
+        "known_for_department": "Acting",
+        "name": "Sean Ridgway",
+        "original_name": "Sean Ridgway",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "credit_id": "64971324eb79c200ff0073a8",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

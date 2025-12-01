@@ -1,0 +1,463 @@
+{
+  "adult": false,
+  "backdrop_path": "/rUq6D6cF9XYJTqItUI4kXohDWV6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 795410,
+  "imdb_id": "tt12092584",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Glück",
+  "overview": "Two sex workers meet in a Berlin brothel. In a place where the female body is a commodity, they experience moments of happiness. A feisty love story about attraction, fears and self-determination.",
+  "popularity": 6.3446,
+  "poster_path": "/549OwdlmEwd6Sv3dweEsL2FuIyo.jpg",
+  "production_companies": [
+    {
+      "id": 90219,
+      "logo_path": "/q1zjFnBBwZrQjy1dVtnvdwo7VWh.png",
+      "name": "Flare Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2021-07-22",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bliss",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1692674,
+        "known_for_department": "Acting",
+        "name": "Katharina Behrens",
+        "original_name": "Katharina Behrens",
+        "popularity": 0.3284,
+        "profile_path": "/cZq1IXurDJI37q1aTgmG2i2vn4e.jpg",
+        "cast_id": 6,
+        "character": "Sascha",
+        "credit_id": "6023e339d6c300003e6ac9e7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2223924,
+        "known_for_department": "Acting",
+        "name": "Adam Hoya",
+        "original_name": "Adam Hoya",
+        "popularity": 0.2053,
+        "profile_path": "/82KW1pRtswFk7lAjjX85zgqpms0.jpg",
+        "cast_id": 7,
+        "character": "Maria",
+        "credit_id": "6023e3416af8f8003f2c0325",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2972097,
+        "known_for_department": "Acting",
+        "name": "Nele Kayenberg",
+        "original_name": "Nele Kayenberg",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Scarlett",
+        "credit_id": "6023e350149565003f73c5a9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55311,
+        "known_for_department": "Acting",
+        "name": "Jean-Luc Bubert",
+        "original_name": "Jean-Luc Bubert",
+        "popularity": 0.1058,
+        "profile_path": "/aTGmjPAe9jsyynydllCr3nqVejL.jpg",
+        "cast_id": 9,
+        "character": "Mike",
+        "credit_id": "6023e35695c0af003e54d49d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2987506,
+        "known_for_department": "Acting",
+        "name": "Petra Kauner",
+        "original_name": "Petra Kauner",
+        "popularity": 0.0726,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Petra",
+        "credit_id": "603489e64c1d9a003fded1ed",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2042195,
+        "known_for_department": "Directing",
+        "name": "Bence Máté",
+        "original_name": "Bence Máté",
+        "popularity": 0.0286,
+        "profile_path": "/dDv8ZoQ4LKBWt7SPKHAYvdbKJTT.jpg",
+        "cast_id": 16,
+        "character": "Stefan",
+        "credit_id": "603489f20d294400405a2ab3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2987509,
+        "known_for_department": "Acting",
+        "name": "Sarah Junghauß",
+        "original_name": "Sarah Junghauß",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Lara",
+        "credit_id": "60348a0f1130bd003e443a10",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2987510,
+        "known_for_department": "Acting",
+        "name": "Mandy Schicker",
+        "original_name": "Mandy Schicker",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Maya",
+        "credit_id": "60348a1bbe55b7003f95b79f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1478433,
+        "known_for_department": "Acting",
+        "name": "Mike Hoffmann",
+        "original_name": "Mike Hoffmann",
+        "popularity": 0.122,
+        "profile_path": "/nDqF6xEKZkrVWzPHfVwsobDxRRH.jpg",
+        "cast_id": 11,
+        "character": "Markus",
+        "credit_id": "6023e36def9d72003e56fd8e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998093,
+        "known_for_department": "Acting",
+        "name": "Christina-Madalina David",
+        "original_name": "Christina-Madalina David",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Jenny",
+        "credit_id": "6040d2c679b3d400761fa72f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998094,
+        "known_for_department": "Acting",
+        "name": "Mario Feldmann",
+        "original_name": "Mario Feldmann",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Mario",
+        "credit_id": "6040d2cecede69002c4ce2b6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998095,
+        "known_for_department": "Acting",
+        "name": "Jochen Andreas Cüsow",
+        "original_name": "Jochen Andreas Cüsow",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Herr L.",
+        "credit_id": "6040d2d75690b5006fb5854f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73436,
+        "known_for_department": "Acting",
+        "name": "Mario Mentrup",
+        "original_name": "Mario Mentrup",
+        "popularity": 0.1131,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Herr W.",
+        "credit_id": "6040d2ddeea34d006e549341",
+        "order": 12
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1888437,
+        "known_for_department": "Acting",
+        "name": "Pierre Emö",
+        "original_name": "Pierre Emö",
+        "popularity": 3.366,
+        "profile_path": "/rsItk6lJAP8mrZbIqVlolC1YkV9.jpg",
+        "cast_id": 23,
+        "character": "Herr K.",
+        "credit_id": "6040d2e55be00e005ade7ca1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998096,
+        "known_for_department": "Acting",
+        "name": "Ricardas Myka",
+        "original_name": "Ricardas Myka",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Herr S.",
+        "credit_id": "6040d2f17ecd28005761d632",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998097,
+        "known_for_department": "Acting",
+        "name": "Carsten Geisler",
+        "original_name": "Carsten Geisler",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Herr Y.",
+        "credit_id": "6040d2f855c1f4005a1607a6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998098,
+        "known_for_department": "Acting",
+        "name": "Jannis Eli Pose",
+        "original_name": "Jannis Eli Pose",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Max",
+        "credit_id": "6040d2fe55c1f4005a1607b3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38220,
+        "known_for_department": "Acting",
+        "name": "Luise Helm",
+        "original_name": "Luise Helm",
+        "popularity": 0.3059,
+        "profile_path": "/tklc1G0U8qgaTYcxalylQMz3llB.jpg",
+        "cast_id": 27,
+        "character": "Katja",
+        "credit_id": "6040d3065be00e006e756d28",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998100,
+        "known_for_department": "Acting",
+        "name": "Amber Richter",
+        "original_name": "Amber Richter",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Julia",
+        "credit_id": "6040d30ccede69002c4ce337",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1203473,
+        "known_for_department": "Acting",
+        "name": "Maria Mägdefrau",
+        "original_name": "Maria Mägdefrau",
+        "popularity": 0.368,
+        "profile_path": "/gk833eCXHxLPQkiIK0Q3GHMBLTE.jpg",
+        "cast_id": 32,
+        "character": "Frau Burmester",
+        "credit_id": "63511f19c99826007ddc1c66",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2051326,
+        "known_for_department": "Sound",
+        "name": "Dascha Dauenhauer",
+        "original_name": "Dascha Dauenhauer",
+        "popularity": 0.1029,
+        "profile_path": null,
+        "credit_id": "62a19b7435d1bc17f82705b7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1638396,
+        "known_for_department": "Editing",
+        "name": "Hannah Schwegel",
+        "original_name": "Hannah Schwegel",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62a19b8ec8f858004f8a7fea",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3186208,
+        "known_for_department": "Editing",
+        "name": "Anna-Lena Laura Engelhardt",
+        "original_name": "Anna-Lena Laura Engelhardt",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62a19bfab87aec005177c8d1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1966878,
+        "known_for_department": "Directing",
+        "name": "Henrika Kull",
+        "original_name": "Henrika Kull",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "6023e318d6c300614062e7fc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1966878,
+        "known_for_department": "Directing",
+        "name": "Henrika Kull",
+        "original_name": "Henrika Kull",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "6023e31dc669ad003ec3ddcd",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1966878,
+        "known_for_department": "Directing",
+        "name": "Henrika Kull",
+        "original_name": "Henrika Kull",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "6023e322c669ad0040c3794b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1499121,
+        "known_for_department": "Production",
+        "name": "Martin Heisler",
+        "original_name": "Martin Heisler",
+        "popularity": 0.0682,
+        "profile_path": null,
+        "credit_id": "6023e32c458199003daa68b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1978433,
+        "known_for_department": "Camera",
+        "name": "Carolina Steinbrecher",
+        "original_name": "Carolina Steinbrecher",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6023e3330e597b003da7f38d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

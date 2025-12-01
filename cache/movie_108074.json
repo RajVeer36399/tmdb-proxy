@@ -1,0 +1,411 @@
+{
+  "adult": false,
+  "backdrop_path": "/yWBq6w3wZ12fBiMwscFmtFpi0m8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 108074,
+  "imdb_id": "tt0085983",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Mystère",
+  "overview": "Assassins are after a prostitute who has come into possession of a cigarette lighter that, unbeknownst to her, contains the negatives that show a politician's assassination. A delightfully playful giallo starring the beautiful Carole Bouquet as Mystère, a high class call girl who becomes the target for a couple of assassins.",
+  "popularity": 9.7893,
+  "poster_path": "/6HUCx7NuaoKI4kVlQhbNo3JWN0g.jpg",
+  "production_companies": [
+    {
+      "id": 20081,
+      "logo_path": null,
+      "name": "Tris Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1983-11-28",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dagger Eyes",
+  "video": false,
+  "vote_average": 5.132,
+  "vote_count": 19,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10500,
+        "known_for_department": "Acting",
+        "name": "Carole Bouquet",
+        "original_name": "Carole Bouquet",
+        "popularity": 1.611,
+        "profile_path": "/nCyI95wVvhXFH1GiornFHsL9YOx.jpg",
+        "cast_id": 1,
+        "character": "Mystère",
+        "credit_id": "53d13aafc3a368777100a2ab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24599,
+        "known_for_department": "Acting",
+        "name": "Duilio Del Prete",
+        "original_name": "Duilio Del Prete",
+        "popularity": 0.2635,
+        "profile_path": "/ekFjO2ZPGK3LzRPwBmQvbUNvMMq.jpg",
+        "cast_id": 11,
+        "character": "Captain Levi",
+        "credit_id": "58ab008f925141418a00445c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26700,
+        "known_for_department": "Acting",
+        "name": "John Steiner",
+        "original_name": "John Steiner",
+        "popularity": 0.5157,
+        "profile_path": "/esKMm8Izkba1PR2PMjLUcEdVdE3.jpg",
+        "cast_id": 2,
+        "character": "Ivanov",
+        "credit_id": "53d13ab9c3a368776a00a57d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31991,
+        "known_for_department": "Acting",
+        "name": "Gabriele Tinti",
+        "original_name": "Gabriele Tinti",
+        "popularity": 1.0563,
+        "profile_path": "/f2NJidxvaqX8MQSv7MN36NDK1kY.jpg",
+        "cast_id": 3,
+        "character": "Mink",
+        "credit_id": "53d13ac3c3a368776100a4aa",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18405,
+        "known_for_department": "Acting",
+        "name": "Peter Berling",
+        "original_name": "Peter Berling",
+        "popularity": 0.709,
+        "profile_path": "/oAlkmJ99mC8KfARMiaSDm4kn9nj.jpg",
+        "cast_id": 9,
+        "character": "Reinhardt",
+        "credit_id": "53fe62f30e0a262de5002974",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762189,
+        "known_for_department": "Acting",
+        "name": "Samuele Goldzader",
+        "original_name": "Samuele Goldzader",
+        "popularity": 0.0493,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "58ab00abc3a3686e8c004393",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55654,
+        "known_for_department": "Acting",
+        "name": "Janet Ågren",
+        "original_name": "Janet Agren",
+        "popularity": 0.7821,
+        "profile_path": "/qqT3oaHPE9hu40TY5s3wL2xycaC.jpg",
+        "cast_id": 4,
+        "character": "Pamela",
+        "credit_id": "53d13ad0c3a368776400a51e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066486,
+        "known_for_department": "Acting",
+        "name": "Philip Coccioletti",
+        "original_name": "Philip Coccioletti",
+        "popularity": 0.2661,
+        "profile_path": "/w9gEMYyYLyzwXtPi6lUryVt6kUH.jpg",
+        "cast_id": 10,
+        "character": "Inspector Colt",
+        "credit_id": "58ab008192514141950045ba",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1762190,
+        "known_for_department": "Acting",
+        "name": "Marcia Briscoe",
+        "original_name": "Marcia Briscoe",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Martha",
+        "credit_id": "58ab00b9c3a3686f0f00453f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224459,
+        "known_for_department": "Acting",
+        "name": "Livio Galassi",
+        "original_name": "Livio Galassi",
+        "popularity": 0.1495,
+        "profile_path": "/uLVKJlZS0QcbYVQcRIXWGuPs0Wr.jpg",
+        "cast_id": 14,
+        "character": "Pamela's Brother",
+        "credit_id": "58ab00c792514141900044c9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1414253,
+        "known_for_department": "Acting",
+        "name": "Lionello Pio Di Savoia",
+        "original_name": "Lionello Pio Di Savoia",
+        "popularity": 0.5371,
+        "profile_path": "/6K2CRvTYYzWxEmQZYv9KGQvPjMW.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "58ab00d192514141990045ac",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1229807,
+        "known_for_department": "Acting",
+        "name": "Gregory Snegoff",
+        "original_name": "Gregory Snegoff",
+        "popularity": 0.5894,
+        "profile_path": "/kDooPIo8VB3R79zNB1GVRvmStfH.jpg",
+        "cast_id": 16,
+        "character": "Police Detective",
+        "credit_id": "58ab00dec3a3686efe00416f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149300,
+        "known_for_department": "Acting",
+        "name": "Stefano Davanzati",
+        "original_name": "Stefano Davanzati",
+        "popularity": 1.6174,
+        "profile_path": "/qbBIc7OaBquv6B5gI28FVfieTy7.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "58ab00e7c3a3686e8c0043b8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1762193,
+        "known_for_department": "Acting",
+        "name": "Roberto Renna",
+        "original_name": "Roberto Renna",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "58ab00f0c3a3686ee9003bcf",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1708502,
+        "known_for_department": "Acting",
+        "name": "Sergio Tardioli",
+        "original_name": "Sergio Tardioli",
+        "popularity": 0.0281,
+        "profile_path": "/sUC3xrKYt8v1e6AEn8vK3RSLEpW.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "58ab013d92514141c6004307",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 559286,
+        "known_for_department": "Acting",
+        "name": "Leonie Forliti",
+        "original_name": "Leonie Forliti",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "58ab014992514141ac0044db",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1480108,
+        "known_for_department": "Acting",
+        "name": "Angelo Maggi",
+        "original_name": "Angelo Maggi",
+        "popularity": 0.0563,
+        "profile_path": "/wfdH3xCP6eby8zqcCWoqXfgASKR.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "58ab0151925141418a0044ec",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1627704,
+        "known_for_department": "Acting",
+        "name": "Jinny Steffan",
+        "original_name": "Jinny Steffan",
+        "popularity": 0.6531,
+        "profile_path": "/yg86GDRJP19435JhhRsfvtR4TKT.jpg",
+        "cast_id": 22,
+        "character": "Hooker",
+        "credit_id": "58ab0159c3a3686ed900434f",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29754,
+        "known_for_department": "Acting",
+        "name": "Jon Van Ness",
+        "original_name": "Jon Van Ness",
+        "popularity": 0.1801,
+        "profile_path": "/2zRd4Z99tbYs13ItBvxTaW0H4B2.jpg",
+        "cast_id": 23,
+        "character": "(uncredited)",
+        "credit_id": "58ab0168c3a3686e8c00440b",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69038,
+        "known_for_department": "Directing",
+        "name": "Carlo Vanzina",
+        "original_name": "Carlo Vanzina",
+        "popularity": 0.5035,
+        "profile_path": "/tjyANg0mvPvU7Z3pWH5rfLHP6DT.jpg",
+        "credit_id": "52ffca9fc3a3683ff20b3a1e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69038,
+        "known_for_department": "Directing",
+        "name": "Carlo Vanzina",
+        "original_name": "Carlo Vanzina",
+        "popularity": 0.5035,
+        "profile_path": "/tjyANg0mvPvU7Z3pWH5rfLHP6DT.jpg",
+        "credit_id": "53fe623f0e0a262ddc002961",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69040,
+        "known_for_department": "Writing",
+        "name": "Enrico Vanzina",
+        "original_name": "Enrico Vanzina",
+        "popularity": 3.0906,
+        "profile_path": "/Abmy1bcaHoBrQCUcOh60QE9tJiF.jpg",
+        "credit_id": "53fe624c0e0a262deb0029f7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1163642,
+        "known_for_department": "Camera",
+        "name": "Giuseppe Maccari",
+        "original_name": "Giuseppe Maccari",
+        "popularity": 0.5423,
+        "profile_path": null,
+        "credit_id": "53fe62860e0a262ddc002968",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30634,
+        "known_for_department": "Sound",
+        "name": "Armando Trovajoli",
+        "original_name": "Armando Trovajoli",
+        "popularity": 0.1771,
+        "profile_path": "/xXgpEjOyG2hsfb4lewTWbu040dV.jpg",
+        "credit_id": "53fe626c0e0a262ddc002965",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68153,
+        "known_for_department": "Camera",
+        "name": "Mauro Marchetti",
+        "original_name": "Mauro Marchetti",
+        "popularity": 0.1234,
+        "profile_path": "/2UFxNZPDMczB38qFSqIRw91ZTUW.jpg",
+        "credit_id": "67e50ff85e8e5c9bacba3865",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  }
+}

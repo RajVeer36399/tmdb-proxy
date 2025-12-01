@@ -1,0 +1,386 @@
+{
+  "adult": false,
+  "backdrop_path": "/wfToTS0NHtVD7Xf136gCZHuaLje.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 78247,
+  "imdb_id": "tt0108350",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Night Terrors",
+  "overview": "A woman visiting her father in Egypt becomes involved with the Marquis de Sade's descendant and his terrifying cult.",
+  "popularity": 7.7387,
+  "poster_path": "/1SJy6LdrlsxIE91ZGG1dFuzmRFg.jpg",
+  "production_companies": [
+    {
+      "id": 1444,
+      "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+      "name": "The Cannon Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 1978,
+      "logo_path": null,
+      "name": "Global Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 158151,
+      "logo_path": null,
+      "name": "Globus-Pierce Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-11-09",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Beware the power of your own desires.",
+  "title": "Night Terrors",
+  "video": false,
+  "vote_average": 3.9,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5139,
+        "known_for_department": "Acting",
+        "name": "Robert Englund",
+        "original_name": "Robert Englund",
+        "popularity": 1.8803,
+        "profile_path": "/cjGEkiavinHa1dnetDvnEhlD2Wm.jpg",
+        "cast_id": 2,
+        "character": "Marquis De Sade",
+        "credit_id": "52fe4994c3a368484e132a51",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105003,
+        "known_for_department": "Acting",
+        "name": "Zoe Trilling",
+        "original_name": "Zoe Trilling",
+        "popularity": 0.4291,
+        "profile_path": "/j9H2nEcMq6NTgfC6e2sZmoT4Twj.jpg",
+        "cast_id": 3,
+        "character": "Genie",
+        "credit_id": "52fe4994c3a368484e132a55",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54634,
+        "known_for_department": "Acting",
+        "name": "Chandra West",
+        "original_name": "Chandra West",
+        "popularity": 1.5358,
+        "profile_path": "/354CJGIdaKsGvNm2KyTb2TonFoV.jpg",
+        "cast_id": 4,
+        "character": "Beth",
+        "credit_id": "52fe4994c3a368484e132a59",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 583485,
+        "known_for_department": "Acting",
+        "name": "Alona Kimhi",
+        "original_name": "Alona Kimhi",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Sabina",
+        "credit_id": "52fe4994c3a368484e132a8d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066798,
+        "known_for_department": "Acting",
+        "name": "Juliano Mer-Khamis",
+        "original_name": "Juliano Mer-Khamis",
+        "popularity": 0.5639,
+        "profile_path": "/kgxwoXffcI7TAyASeyGWDtDM3Iu.jpg",
+        "cast_id": 15,
+        "character": "Mahmoud (as Juliano Mer)",
+        "credit_id": "52fe4994c3a368484e132a91",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97561,
+        "known_for_department": "Acting",
+        "name": "William Finley",
+        "original_name": "William Finley",
+        "popularity": 0.5718,
+        "profile_path": "/gwcqayLlpBpHfmL4UxwwdcPvAoY.jpg",
+        "cast_id": 16,
+        "character": "Dr. Matteson",
+        "credit_id": "52fe4994c3a368484e132a95",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 583496,
+        "known_for_department": "Acting",
+        "name": "Irit Sheleg",
+        "original_name": "Irit Sheleg",
+        "popularity": 0.1146,
+        "profile_path": "/a8gAKyqdkobVjiqXR2btGbmzPDp.jpg",
+        "cast_id": 17,
+        "character": "Fatima",
+        "credit_id": "52fe4994c3a368484e132a99",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1066799,
+        "known_for_department": "Acting",
+        "name": "Niv Cohen",
+        "original_name": "Niv Cohen",
+        "popularity": 0.093,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Chuck",
+        "credit_id": "52fe4994c3a368484e132a9d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1066800,
+        "known_for_department": "Acting",
+        "name": "Doron Barbi",
+        "original_name": "Doron Barbi",
+        "popularity": 0.072,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Ali",
+        "credit_id": "52fe4994c3a368484e132aa1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1066801,
+        "known_for_department": "Acting",
+        "name": "David Menachem",
+        "original_name": "David Menachem",
+        "popularity": 0.3123,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Arab Market Hustler",
+        "credit_id": "52fe4994c3a368484e132aa5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066795,
+        "known_for_department": "Acting",
+        "name": "Daniel Matmor",
+        "original_name": "Daniel Matmor",
+        "popularity": 0.2398,
+        "profile_path": "/p1tgkf0pPMHiATEpDUME9TjzBzb.jpg",
+        "cast_id": 25,
+        "character": "Priest",
+        "credit_id": "637ba248fbe36f00aa70e1b6",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10051,
+        "known_for_department": "Directing",
+        "name": "Tobe Hooper",
+        "original_name": "Tobe Hooper",
+        "popularity": 0.7912,
+        "profile_path": "/rE5TqnAvgaKjWwWZ9AsoU9KcUGU.jpg",
+        "credit_id": "52fe4994c3a368484e132a4d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1066793,
+        "known_for_department": "Writing",
+        "name": "Rom Globus",
+        "original_name": "Rom Globus",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe4994c3a368484e132a5f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066795,
+        "known_for_department": "Acting",
+        "name": "Daniel Matmor",
+        "original_name": "Daniel Matmor",
+        "popularity": 0.2398,
+        "profile_path": "/p1tgkf0pPMHiATEpDUME9TjzBzb.jpg",
+        "credit_id": "52fe4994c3a368484e132a65",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 47103,
+        "known_for_department": "Sound",
+        "name": "Dov Seltzer",
+        "original_name": "Dov Seltzer",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "52fe4994c3a368484e132a6b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58705,
+        "known_for_department": "Editing",
+        "name": "Alain Jakubowicz",
+        "original_name": "Alain Jakubowicz",
+        "popularity": 0.3404,
+        "profile_path": null,
+        "credit_id": "52fe4994c3a368484e132a77",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1066797,
+        "known_for_department": "Art",
+        "name": "Yossi Peled",
+        "original_name": "Yossi Peled",
+        "popularity": 0.1021,
+        "profile_path": null,
+        "credit_id": "52fe4994c3a368484e132a7d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67236,
+        "known_for_department": "Production",
+        "name": "David Varod",
+        "original_name": "David Varod",
+        "popularity": 0.3599,
+        "profile_path": null,
+        "credit_id": "52fe4994c3a368484e132a83",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 68081,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rona Doron",
+        "original_name": "Rona Doron",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "52fe4994c3a368484e132a89",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29288,
+        "known_for_department": "Production",
+        "name": "Harry Alan Towers",
+        "original_name": "Harry Alan Towers",
+        "popularity": 0.1963,
+        "profile_path": "/wD06tzNZhBJVsOVX1Adv0I2wkXC.jpg",
+        "credit_id": "52fe4994c3a368484e132aab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 172891,
+        "known_for_department": "Production",
+        "name": "Christopher Pearce",
+        "original_name": "Christopher Pearce",
+        "popularity": 0.773,
+        "profile_path": null,
+        "credit_id": "6101e6294284ea005d1646fb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 65664,
+        "known_for_department": "Camera",
+        "name": "Amnon Salomon",
+        "original_name": "Amnon Salomon",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "537ca9acc3a36854eb0012b1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33009,
+        "known_for_department": "Production",
+        "name": "Yoram Globus",
+        "original_name": "Yoram Globus",
+        "popularity": 0.2845,
+        "profile_path": "/bKbeXNvErtCQiK3pEEnFgmR9cvo.jpg",
+        "credit_id": "5d3ea0f3b87aec160f39b883",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

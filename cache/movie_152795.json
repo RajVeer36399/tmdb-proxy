@@ -1,0 +1,556 @@
+{
+  "adult": false,
+  "backdrop_path": "/c1nCz7PEip3YeqT7R4I8Toc3FOw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 152795,
+  "imdb_id": "tt1821641",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "The Congress",
+  "overview": "An aging, out-of-work actress accepts one last job, though the consequences of her decision affect her in ways she didn't consider.",
+  "popularity": 6.5603,
+  "poster_path": "/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg",
+  "production_companies": [
+    {
+      "id": 3984,
+      "logo_path": "/pvOBu9K0zTRuwJW7WII34x17kdz.png",
+      "name": "Entre Chien et Loup",
+      "origin_country": "BE"
+    },
+    {
+      "id": 6477,
+      "logo_path": "/tn6i5FOfcfCrYR3zviZVvYdolwu.png",
+      "name": "Opus Film",
+      "origin_country": "PL"
+    },
+    {
+      "id": 19437,
+      "logo_path": "/1VqbDOThEcmDR6gn7et7cAs4lwr.png",
+      "name": "Paul Thiltges Distributions",
+      "origin_country": "LU"
+    },
+    {
+      "id": 60111,
+      "logo_path": "/1l3gvsCEf5V99omjB8eMmc2lpiE.png",
+      "name": "Liverpool",
+      "origin_country": "JP"
+    },
+    {
+      "id": 140,
+      "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+      "name": "Pandora Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 225675,
+      "logo_path": null,
+      "name": "Śląski Fundusz Filmowy",
+      "origin_country": "PL"
+    },
+    {
+      "id": 250,
+      "logo_path": "/evWKasiElVQywuKv2dI72P9twz8.png",
+      "name": "Canal+ Polska",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2013-07-03",
+  "revenue": 455815,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Congress",
+  "video": false,
+  "vote_average": 6.403,
+  "vote_count": 557,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32,
+        "known_for_department": "Acting",
+        "name": "Robin Wright",
+        "original_name": "Robin Wright",
+        "popularity": 2.3401,
+        "profile_path": "/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg",
+        "cast_id": 5,
+        "character": "Robin Wright",
+        "credit_id": "52fe4b2c9251416c910d2557",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037,
+        "known_for_department": "Acting",
+        "name": "Harvey Keitel",
+        "original_name": "Harvey Keitel",
+        "popularity": 3.1235,
+        "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg",
+        "cast_id": 7,
+        "character": "Al",
+        "credit_id": "52fe4b2c9251416c910d255f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65717,
+        "known_for_department": "Acting",
+        "name": "Jon Hamm",
+        "original_name": "Jon Hamm",
+        "popularity": 4.4158,
+        "profile_path": "/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg",
+        "cast_id": 15,
+        "character": "Dylan Truliner (voice)",
+        "credit_id": "52fe4b2d9251416c910d257f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6413,
+        "known_for_department": "Acting",
+        "name": "Danny Huston",
+        "original_name": "Danny Huston",
+        "popularity": 2.5991,
+        "profile_path": "/mNz9t7MNANopavbLgcsZMMQBJ0u.jpg",
+        "cast_id": 9,
+        "character": "Jeff Green",
+        "credit_id": "52fe4b2c9251416c910d2567",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13242,
+        "known_for_department": "Acting",
+        "name": "Paul Giamatti",
+        "original_name": "Paul Giamatti",
+        "popularity": 3.4078,
+        "profile_path": "/kn7LAbFYP5RPC2r61tDx2CRUeuw.jpg",
+        "cast_id": 6,
+        "character": "Dr Barker",
+        "credit_id": "52fe4b2c9251416c910d255b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113505,
+        "known_for_department": "Acting",
+        "name": "Kodi Smit-McPhee",
+        "original_name": "Kodi Smit-McPhee",
+        "popularity": 1.5376,
+        "profile_path": "/sesCWba9NwPDYDZzbVLs7OgLOti.jpg",
+        "cast_id": 8,
+        "character": "Aaron Wright",
+        "credit_id": "52fe4b2c9251416c910d2563",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 506085,
+        "known_for_department": "Acting",
+        "name": "Sami Gayle",
+        "original_name": "Sami Gayle",
+        "popularity": 1.0064,
+        "profile_path": "/qdzSYk6tKvM9optzABPkfOcxFZ2.jpg",
+        "cast_id": 11,
+        "character": "Sarah Wright",
+        "credit_id": "52fe4b2c9251416c910d256f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51991,
+        "known_for_department": "Acting",
+        "name": "Michael Stahl-David",
+        "original_name": "Michael Stahl-David",
+        "popularity": 0.6265,
+        "profile_path": "/97a0cwKFuAHXh8X0NlxSGDvBvxn.jpg",
+        "cast_id": 13,
+        "character": "Steve",
+        "credit_id": "52fe4b2d9251416c910d2577",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79025,
+        "known_for_department": "Acting",
+        "name": "Don McManus",
+        "original_name": "Don McManus",
+        "popularity": 1.0667,
+        "profile_path": "/rGdpdQ0DDVDX4FlQzrdFGcOlRGB.jpg",
+        "cast_id": 33,
+        "character": "Bobs",
+        "credit_id": "57e44a5392514112370085c8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35431,
+        "known_for_department": "Acting",
+        "name": "Jörg Vincent Malotki",
+        "original_name": "Jörg Vincent Malotki",
+        "popularity": 0.0792,
+        "profile_path": "/AdiBrJBdUpALxaEuMGoz5WMvfqV.jpg",
+        "cast_id": 16,
+        "character": "Man in Zeppelin",
+        "credit_id": "54957258c3a3686ae10041dd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 164945,
+        "known_for_department": "Acting",
+        "name": "Sarah Shahi",
+        "original_name": "Sarah Shahi",
+        "popularity": 5.1279,
+        "profile_path": "/crKD1ax5wRRZ4QM7nQyH8K2deaA.jpg",
+        "cast_id": 36,
+        "character": "Michelle",
+        "credit_id": "62909255209f1812c4aa8b0f",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56198,
+        "known_for_department": "Directing",
+        "name": "Ari Folman",
+        "original_name": "Ari Folman",
+        "popularity": 0.2166,
+        "profile_path": "/cFTSHi8YSWBB81MIWsN8vzhaaMg.jpg",
+        "credit_id": "52fe4b2c9251416c910d2541",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56198,
+        "known_for_department": "Directing",
+        "name": "Ari Folman",
+        "original_name": "Ari Folman",
+        "popularity": 0.2166,
+        "profile_path": "/cFTSHi8YSWBB81MIWsN8vzhaaMg.jpg",
+        "credit_id": "52fe4b2c9251416c910d2547",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1133362,
+        "known_for_department": "Production",
+        "name": "David Tioulong Grumbach",
+        "original_name": "David Tioulong Grumbach",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "52fe4b2c9251416c910d254d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1133363,
+        "known_for_department": "Production",
+        "name": "Eitan Mansuri",
+        "original_name": "Eitan Mansuri",
+        "popularity": 0.0778,
+        "profile_path": null,
+        "credit_id": "52fe4b2c9251416c910d2553",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46259,
+        "known_for_department": "Production",
+        "name": "Reinhard Brundig",
+        "original_name": "Reinhard Brundig",
+        "popularity": 1.6619,
+        "profile_path": "/rXJt17EfDaClEDKM0I9xZ2X5fgF.jpg",
+        "credit_id": "55c0d56a9251410ee7001bfe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100748,
+        "known_for_department": "Production",
+        "name": "Sébastien Delloye",
+        "original_name": "Sébastien Delloye",
+        "popularity": 0.1207,
+        "profile_path": "/tnI66TgPvOxBpD6SLjAPauYYd0v.jpg",
+        "credit_id": "55c0d57e9251410ee7001c04",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936755,
+        "known_for_department": "Production",
+        "name": "Piotr Dzięcioł",
+        "original_name": "Piotr Dzięcioł",
+        "popularity": 0.7382,
+        "profile_path": null,
+        "credit_id": "55c0d591c3a3682253001b86",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 979225,
+        "known_for_department": "Production",
+        "name": "Ewa Puszczyńska",
+        "original_name": "Ewa Puszczyńska",
+        "popularity": 0.11,
+        "profile_path": "/4WSFh0zOBUHpr7DZUN9NU4XGmkj.jpg",
+        "credit_id": "55c0d5b6c3a3682379001e3c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32,
+        "known_for_department": "Acting",
+        "name": "Robin Wright",
+        "original_name": "Robin Wright",
+        "popularity": 2.3401,
+        "profile_path": "/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg",
+        "credit_id": "55c0d60e9251410f19001cec",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72574,
+        "known_for_department": "Editing",
+        "name": "Nili Feller",
+        "original_name": "Nili Feller",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "55c0d658c3a36822fd001b2b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3965,
+        "known_for_department": "Production",
+        "name": "Deborah Aquila",
+        "original_name": "Deborah Aquila",
+        "popularity": 0.4466,
+        "profile_path": "/21tKfmoNpulz84RuWXPUXHuAwU2.jpg",
+        "credit_id": "55c0d66f9251410f27001e31",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1493161,
+        "known_for_department": "Production",
+        "name": "Erin Toner",
+        "original_name": "Erin Toner",
+        "popularity": 0.1051,
+        "profile_path": null,
+        "credit_id": "55c0d6849251410d7b001acf",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1034748,
+        "known_for_department": "Production",
+        "name": "Tricia Wood",
+        "original_name": "Tricia Wood",
+        "popularity": 0.2151,
+        "profile_path": "/hSYw8hshMtY06XzuX2ZAuYluO03.jpg",
+        "credit_id": "55c0d6ac9251410f19001cf7",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 124806,
+        "known_for_department": "Art",
+        "name": "David Polonsky",
+        "original_name": "David Polonsky",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "55c0d6c3c3a36823f7001f90",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1322407,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mandi Line",
+        "original_name": "Mandi Line",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "55c0d6db9251410d7b001ad8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1493546,
+        "known_for_department": "Visual Effects",
+        "name": "Yoni Goodman",
+        "original_name": "Yoni Goodman",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "credit_id": "55c0d70fc3a36823f7001f97",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1493547,
+        "known_for_department": "Visual Effects",
+        "name": "Sefi Gayego",
+        "original_name": "Sefi Gayego",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "55c0d733c3a3682379001e7b",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1608656,
+        "known_for_department": "Directing",
+        "name": "Barbara Krieger",
+        "original_name": "Barbara Krieger",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "5718b0809251417a220094c0",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8453,
+        "known_for_department": "Writing",
+        "name": "Stanisław Lem",
+        "original_name": "Stanisław Lem",
+        "popularity": 0.222,
+        "profile_path": "/uPhE30C0GETl8lX2ncRGFad3ab4.jpg",
+        "credit_id": "5823222f9251410cac00bf74",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46266,
+        "known_for_department": "Sound",
+        "name": "Max Richter",
+        "original_name": "Max Richter",
+        "popularity": 0.2729,
+        "profile_path": "/keYPSx2YlyRCk8KY7YaZ81fZ1Y3.jpg",
+        "credit_id": "6655cfb3cb01c38fcadfd5da",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53617,
+        "known_for_department": "Camera",
+        "name": "Michał Englert",
+        "original_name": "Michał Englert",
+        "popularity": 0.1459,
+        "profile_path": "/a7jiRb6hB8TZe21C7K7BTDOMZwi.jpg",
+        "credit_id": "5a8a91b60e0a26535a072edb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

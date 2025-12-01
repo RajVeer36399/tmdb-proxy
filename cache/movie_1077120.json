@@ -1,0 +1,329 @@
+{
+  "adult": false,
+  "backdrop_path": "/tM1EkmRn5dA8RF9jW9ZJxyIMizh.jpg",
+  "belongs_to_collection": {
+    "id": 1376905,
+    "name": "Arctic Friends Collection",
+    "poster_path": "/6vQuztcOrLHvendgk5XsdlCjDw9.jpg",
+    "backdrop_path": "/2fQxfKsqbsyoEEW4ZnaZ2xGA9VW.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1077120,
+  "imdb_id": "tt24855120",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Johnny Puff: Secret Mission",
+  "overview": "Johnny Puff and his friends go on a secret mission to save Taigasville from the evil plans of the villainous engineer Otto von Walrus.",
+  "popularity": 6.4675,
+  "poster_path": "/mH1CEizCzcjl0f0S7bSf9CLLMgo.jpg",
+  "production_companies": [
+    {
+      "id": 192840,
+      "logo_path": null,
+      "name": "Archangel Digital Studios",
+      "origin_country": "IT"
+    },
+    {
+      "id": 184844,
+      "logo_path": "/gsd7K46hkePQejS6hN6Lc5RqBH1.png",
+      "name": "Iervolino & Lady Bacardi Entertainment",
+      "origin_country": "IT"
+    },
+    {
+      "id": 100706,
+      "logo_path": null,
+      "name": "Méliès Producciones Cinematográficas",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2024-01-12",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Follow Johnny Puff on his secret mission!",
+  "title": "Johnny Puff: Secret Mission",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85,
+        "known_for_department": "Acting",
+        "name": "Johnny Depp",
+        "original_name": "Johnny Depp",
+        "popularity": 6.0174,
+        "profile_path": "/drl9qDZoxPHhUbDamYcOQEhlHzW.jpg",
+        "cast_id": 1,
+        "character": "Johnny Puff (voice)",
+        "credit_id": "63cc6230e24b93008193e3ea",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1540306,
+        "known_for_department": "Acting",
+        "name": "Drew Crosby",
+        "original_name": "Drew Crosby",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Narrating Voice",
+        "credit_id": "67e5d8b1421eb8c331ba6ae7",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1895985,
+        "known_for_department": "Production",
+        "name": "Néstor F. Dennis",
+        "original_name": "Néstor F. Dennis",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "64e1f0f35ab81a011c2f8d15",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895984,
+        "known_for_department": "Production",
+        "name": "Néstor F. Dennis",
+        "original_name": "Néstor F. Dennis",
+        "popularity": 0.0311,
+        "profile_path": "/c2CQ7NNyKB49Q9AtzRGl2Z0fGfs.jpg",
+        "credit_id": "64e1f0c6a3b5e601d63b0e6c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895984,
+        "known_for_department": "Production",
+        "name": "Néstor F. Dennis",
+        "original_name": "Néstor F. Dennis",
+        "popularity": 0.0311,
+        "profile_path": "/c2CQ7NNyKB49Q9AtzRGl2Z0fGfs.jpg",
+        "credit_id": "650c477e44ea5400ad7985e3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895984,
+        "known_for_department": "Production",
+        "name": "Néstor F. Dennis",
+        "original_name": "Néstor F. Dennis",
+        "popularity": 0.0311,
+        "profile_path": "/c2CQ7NNyKB49Q9AtzRGl2Z0fGfs.jpg",
+        "credit_id": "63cc6253532acb0099706cf0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226139,
+        "known_for_department": "Acting",
+        "name": "Miloš Biković",
+        "original_name": "Милош Бикович",
+        "popularity": 1.5379,
+        "profile_path": "/3BdBZIKdvkfUbtkdYLy6DfAKPtX.jpg",
+        "credit_id": "63cc62ae09dda4008dd65a02",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3884404,
+        "known_for_department": "Production",
+        "name": "Nicola Allieta",
+        "original_name": "Nicola Allieta",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "63cc6298cee48100a447cb79",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895984,
+        "known_for_department": "Production",
+        "name": "Néstor F. Dennis",
+        "original_name": "Néstor F. Dennis",
+        "popularity": 0.0311,
+        "profile_path": "/c2CQ7NNyKB49Q9AtzRGl2Z0fGfs.jpg",
+        "credit_id": "63cc62816d97e6007c9d8b62",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2079507,
+        "known_for_department": "Production",
+        "name": "Andrea Lervolino",
+        "original_name": "Andrea Lervolino",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "63cc62cbd363e5008e8eded2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2554534,
+        "known_for_department": "Production",
+        "name": "Tatjana Žeželj Gojković",
+        "original_name": "Tatjana Žeželj Gojković",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "63cc62bccee481008efe8a7e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1385132,
+        "known_for_department": "Production",
+        "name": "Monika Bacardi",
+        "original_name": "Monika Bacardi",
+        "popularity": 0.427,
+        "profile_path": null,
+        "credit_id": "63cc62a309dda4008384874b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1330273,
+        "known_for_department": "Sound",
+        "name": "Nemanja Mosurović",
+        "original_name": "Nemanja Mosurović",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "67e245fce28af41cfc75ea76",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1851075,
+        "known_for_department": "Acting",
+        "name": "Ivan Zekić",
+        "original_name": "Ivan Zekić",
+        "popularity": 0.0504,
+        "profile_path": "/fa0q3Cs83Huekl75SmMwM2VqlgH.jpg",
+        "credit_id": "67e5d8e03e65c8ea88ba211c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5332377,
+        "known_for_department": "Writing",
+        "name": "Vukasin Soc",
+        "original_name": "Vukasin Soc",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67e5d8f8421eb8c331ba6afc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1416286,
+        "known_for_department": "Acting",
+        "name": "Mateja Popović",
+        "original_name": "Mateja Popović",
+        "popularity": 0.0735,
+        "profile_path": null,
+        "credit_id": "67e5d90a421eb8c331ba6b00",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593464,
+        "known_for_department": "Acting",
+        "name": "Stojan Đorđević",
+        "original_name": "Stojan Đorđević",
+        "popularity": 0.1545,
+        "profile_path": "/166N1kBLvAK7SnqcBUfKN4Xigg6.jpg",
+        "credit_id": "67e5d918e8a1910e6510cbf5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2135546,
+        "known_for_department": "Writing",
+        "name": "Petar Mihajlović",
+        "original_name": "Petar Mihajlović",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67e5d92af846794e9910d65f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5332384,
+        "known_for_department": "Writing",
+        "name": "Jelena Andelovski",
+        "original_name": "Jelena Andelovski",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "67e5d9413e65c8ea88ba2189",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

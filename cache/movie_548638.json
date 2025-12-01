@@ -1,0 +1,498 @@
+{
+  "adult": false,
+  "backdrop_path": "/rVDPoAxQbAbGLCHnsYkDJS9Knzl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 548638,
+  "imdb_id": "tt8575428",
+  "origin_country": [
+    "IT",
+    "CH"
+  ],
+  "original_language": "it",
+  "original_title": "Cronofobia",
+  "overview": "A mysterious lonely man and a young rebel woman, confront each other in a psychological drama about suspended identity.",
+  "popularity": 8.0263,
+  "poster_path": "/vZbFXj6ubyqhsZ1yTq0QSHSk5rk.jpg",
+  "production_companies": [
+    {
+      "id": 120306,
+      "logo_path": null,
+      "name": "Imago Film SA",
+      "origin_country": ""
+    },
+    {
+      "id": 20960,
+      "logo_path": "/9mO8Z3dcW6ISVMeCv7TbXtWXdGl.png",
+      "name": "RSI",
+      "origin_country": "CH"
+    },
+    {
+      "id": 51101,
+      "logo_path": "/m3zKm3VLMhuTFLvN5GB1RSpsaUg.png",
+      "name": "8horses",
+      "origin_country": "CH"
+    },
+    {
+      "id": 26027,
+      "logo_path": "/sHNTPJu0ePn5PqHRcA6nncNWN0L.png",
+      "name": "Teleclub",
+      "origin_country": "CH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2019-03-26",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cronofobia",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131624,
+        "known_for_department": "Acting",
+        "name": "Vinicio Marchioni",
+        "original_name": "Vinicio Marchioni",
+        "popularity": 0.6894,
+        "profile_path": "/phasNXLAL4fylSgts1dNdeXUkuZ.jpg",
+        "cast_id": 3,
+        "character": "Michael Suter",
+        "credit_id": "5c23ad4492514167fbc54063",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15480,
+        "known_for_department": "Acting",
+        "name": "Sabine Timoteo",
+        "original_name": "Sabine Timoteo",
+        "popularity": 0.2956,
+        "profile_path": "/84rbRaC1elfzmCxWo1KLXIZKdVF.jpg",
+        "cast_id": 4,
+        "character": "Anna Martini",
+        "credit_id": "5c23ad4ac3a3686fffef7965",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50791,
+        "known_for_department": "Acting",
+        "name": "Leonardo Nigro",
+        "original_name": "Leonardo Nigro",
+        "popularity": 0.2449,
+        "profile_path": "/gnuUdxZdZzxowKSQAgfoMNGfdVt.jpg",
+        "cast_id": 5,
+        "character": "Christoph",
+        "credit_id": "5c23ad549251416801c4fdbe",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 236872,
+        "known_for_department": "Acting",
+        "name": "Giorgia Salari",
+        "original_name": "Giorgia Salari",
+        "popularity": 0.2181,
+        "profile_path": "/zlnEBagWmAY9jFP76FauFF6lgqz.jpg",
+        "cast_id": 6,
+        "character": "Manager",
+        "credit_id": "5c23ad5f9251414c16c490c4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 84263,
+        "known_for_department": "Acting",
+        "name": "Jun Ichikawa",
+        "original_name": "Jun Ichikawa",
+        "popularity": 0.8084,
+        "profile_path": "/14I8xU8EbFstCKaxZ43fr7iLa6L.jpg",
+        "cast_id": 7,
+        "character": "Clara",
+        "credit_id": "5c23ad6c92514167fdc535ac",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1136018,
+        "known_for_department": "Acting",
+        "name": "Jasmin Mattei",
+        "original_name": "Jasmin Mattei",
+        "popularity": 0.0887,
+        "profile_path": "/7KzmDkkb5Fdwv54VJ7KolCp75Cb.jpg",
+        "cast_id": 8,
+        "character": "Katia",
+        "credit_id": "5c23ad8292514167fdc535bf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1844609,
+        "known_for_department": "Acting",
+        "name": "Joachim Aeschlimann",
+        "original_name": "Joachim Aeschlimann",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Sport Store Manager",
+        "credit_id": "5c23ad8ec3a368700bf0521a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25102,
+        "known_for_department": "Acting",
+        "name": "Andrea Bruschi",
+        "original_name": "Andrea Bruschi",
+        "popularity": 0.5677,
+        "profile_path": "/sWsOuuVVOAwffIaFxlF2ZThYDl.jpg",
+        "cast_id": 17,
+        "character": "Marco",
+        "credit_id": "61772aaba579f90042332aa4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2570300,
+        "known_for_department": "Acting",
+        "name": "Alberto Ruano",
+        "original_name": "Alberto Ruano",
+        "popularity": 0.1174,
+        "profile_path": "/6GAVwmwf4aEFGBF6e0RFV2z1GfO.jpg",
+        "cast_id": 18,
+        "character": "Manuel Martini",
+        "credit_id": "61772ab9e19de90029b30d29",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41206,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Gos",
+        "original_name": "Jean-Pierre Gos",
+        "popularity": 0.3046,
+        "profile_path": "/qpRbYXc7umQyTPTHg5rtJn1JGJH.jpg",
+        "cast_id": 19,
+        "character": "Anna's Father",
+        "credit_id": "61772ac4fdc4fa005f7c8ade",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1776044,
+        "known_for_department": "Acting",
+        "name": "Monica Budde",
+        "original_name": "Monica Budde",
+        "popularity": 0.0848,
+        "profile_path": "/5fXpuwpuk8SoeWGCJ5yKzQCQEDX.jpg",
+        "cast_id": 20,
+        "character": "Anna's Mother",
+        "credit_id": "61772acfa097dc0092191fcc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936461,
+        "known_for_department": "Acting",
+        "name": "Lorenzo Pedrotti",
+        "original_name": "Lorenzo Pedrotti",
+        "popularity": 0.6582,
+        "profile_path": "/lQH2AGffDCwJCNe9HXMLG2MXgf9.jpg",
+        "cast_id": 21,
+        "character": "Estate Agent",
+        "credit_id": "61772add0d5d85002af1bd34",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76236,
+        "known_for_department": "Acting",
+        "name": "Carla Cassola",
+        "original_name": "Carla Cassola",
+        "popularity": 0.8195,
+        "profile_path": "/mzx7jVIzGOVQUVxXdvq9NVHQloS.jpg",
+        "cast_id": 22,
+        "character": "Michael Suter's Mother",
+        "credit_id": "61772ae7924ce600273e0d60",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1471085,
+        "known_for_department": "Acting",
+        "name": "Adele Raes",
+        "original_name": "Adele Raes",
+        "popularity": 0.0416,
+        "profile_path": "/rAqXGMERLIkidQZ3RK1fDJEvANC.jpg",
+        "cast_id": 23,
+        "character": "Jewelry Sales Clerk",
+        "credit_id": "61772af065e0a2002bd5d523",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234013,
+        "known_for_department": "Acting",
+        "name": "Kaspar Weiss",
+        "original_name": "Kaspar Weiss",
+        "popularity": 0.1504,
+        "profile_path": "/jONbOVxxucjoXwtH0pt9lEK3Gwf.jpg",
+        "cast_id": 24,
+        "character": "Michael Suter's Colleague",
+        "credit_id": "61772b148ddc340044bb17ea",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2175091,
+        "known_for_department": "Sound",
+        "name": "Zeno Gabaglio",
+        "original_name": "Zeno Gabaglio",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "61772a54d236e600901940f1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1409456,
+        "known_for_department": "Camera",
+        "name": "Simon Guy Fässler",
+        "original_name": "Simon Guy Fässler",
+        "popularity": 0.0957,
+        "profile_path": null,
+        "credit_id": "61772a6c894ed600233dc794",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1006694,
+        "known_for_department": "Sound",
+        "name": "Riccardo Studer",
+        "original_name": "Riccardo Studer",
+        "popularity": 0.0286,
+        "profile_path": "/zSXBQo4aXF0853W3eokLRR4bOEo.jpg",
+        "credit_id": "633dd341481382007aa1678f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1029259,
+        "known_for_department": "Sound",
+        "name": "Patrick Becker",
+        "original_name": "Patrick Becker",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "633dd359481382007d4b942b",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64010,
+        "known_for_department": "Art",
+        "name": "Georg Bringolf",
+        "original_name": "Georg Bringolf",
+        "popularity": 0.051,
+        "profile_path": "/AnGxx3rI1AY7tBwDmebOkQOP1kX.jpg",
+        "credit_id": "633dd37587f3f2007f301f02",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1886725,
+        "known_for_department": "Lighting",
+        "name": "Greg Amgwerd",
+        "original_name": "Greg Amgwerd",
+        "popularity": 0.0708,
+        "profile_path": null,
+        "credit_id": "633dd39438469a007ac673ef",
+        "department": "Lighting",
+        "job": "Lighting Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2497045,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laura Pennisi",
+        "original_name": "Laura Pennisi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "633dd3be3344c600822c662c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1382241,
+        "known_for_department": "Production",
+        "name": "Roberta Corrirossi",
+        "original_name": "Roberta Corrirossi",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "633dd3d1481382007aa167ad",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2129197,
+        "known_for_department": "Directing",
+        "name": "Francesco Rizzi",
+        "original_name": "Francesco Rizzi",
+        "popularity": 0.056,
+        "profile_path": null,
+        "credit_id": "5b9e8a3292514123090007b0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2129197,
+        "known_for_department": "Directing",
+        "name": "Francesco Rizzi",
+        "original_name": "Francesco Rizzi",
+        "popularity": 0.056,
+        "profile_path": null,
+        "credit_id": "5b9e8a3a0e0a2663840007b8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1124059,
+        "known_for_department": "Writing",
+        "name": "Daniela Gambaro",
+        "original_name": "Daniela Gambaro",
+        "popularity": 0.1582,
+        "profile_path": null,
+        "credit_id": "5b9e8a54c3a36833a00008c1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 556737,
+        "known_for_department": "Editing",
+        "name": "Giuseppe Trepiccione",
+        "original_name": "Giuseppe Trepiccione",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5d1de9ba55b0c032356a6193",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1800132,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Martine Felber",
+        "original_name": "Martine Felber",
+        "popularity": 0.0214,
+        "profile_path": "/fBWNK6gIOBSRTAwoVwyJMMktCeC.jpg",
+        "credit_id": "5d1de9d094d8a820fb3db6ec",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136002,
+        "known_for_department": "Directing",
+        "name": "Villi Hermann",
+        "original_name": "Villi Hermann",
+        "popularity": 0.2787,
+        "profile_path": null,
+        "credit_id": "5d1de9ef55b0c01c356de806",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2178158,
+        "known_for_department": "Production",
+        "name": "Michela Pini",
+        "original_name": "Michela Pini",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "5d1de9fd94d8a84bf13cacb2",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

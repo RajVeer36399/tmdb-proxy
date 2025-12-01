@@ -1,0 +1,279 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 321985,
+  "imdb_id": "tt0338369",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Der Puppengräber",
+  "overview": "In a small German town roams Ben, a boy with mental disorders. When several youths are murdered Ben becomes suspect.",
+  "popularity": 5.4643,
+  "poster_path": "/9daCVAUVcjpjl7XMyLekdnwiVD3.jpg",
+  "production_companies": [
+    {
+      "id": 6904,
+      "logo_path": "/hYZGaKXbbpf6KS3slxiglZZj9kL.png",
+      "name": "Filmpool",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2003-09-24",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Puppet Grave Digger",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 142653,
+        "known_for_department": "Acting",
+        "name": "Suzanne von Borsody",
+        "original_name": "Suzanne von Borsody",
+        "popularity": 0.5482,
+        "profile_path": "/c9cODGouFyrkMuVZCdV5SdFDRAw.jpg",
+        "cast_id": 1,
+        "character": "Trude Schlösser",
+        "credit_id": "54c96fd5925141678c006b6e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18051,
+        "known_for_department": "Acting",
+        "name": "Manfred Zapatka",
+        "original_name": "Manfred Zapatka",
+        "popularity": 0.6249,
+        "profile_path": "/m3dj5Em4MBKATuEqVzOjbzvYk7d.jpg",
+        "cast_id": 2,
+        "character": "Bruno Kleu",
+        "credit_id": "54c96fe4c3a3687090002c80",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 118433,
+        "known_for_department": "Acting",
+        "name": "Karin Düwel",
+        "original_name": "Karin Düwel",
+        "popularity": 0.1008,
+        "profile_path": "/6aveylkRKfl2qT7w7lliU3WEQTP.jpg",
+        "cast_id": 3,
+        "character": "Maria Jensen",
+        "credit_id": "54c96ff492514157cc002a48",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52635,
+        "known_for_department": "Acting",
+        "name": "Paula Kalenberg",
+        "original_name": "Paula Kalenberg",
+        "popularity": 0.7533,
+        "profile_path": "/2Sf6fzb0h54I5eGDRxDFqQOgYCY.jpg",
+        "cast_id": 4,
+        "character": "Tanja Schlösser",
+        "credit_id": "54c97003925141094900208b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2349,
+        "known_for_department": "Acting",
+        "name": "Bernd Tauber",
+        "original_name": "Bernd Tauber",
+        "popularity": 0.6843,
+        "profile_path": "/i0LRTo2yBF9MPW72R7OdfCpLzfx.jpg",
+        "cast_id": 5,
+        "character": "Jakob Schlösser",
+        "credit_id": "54c97010925141678e006bb3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1327810,
+        "known_for_department": "Acting",
+        "name": "Sven Hönig",
+        "original_name": "Sven Hönig",
+        "popularity": 0.1634,
+        "profile_path": "/exSoE8CLAaKFtWiiKhvFWUXnQen.jpg",
+        "cast_id": 6,
+        "character": "Ben Schlösser",
+        "credit_id": "54c9701bc3a36874b70073ee",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46992,
+        "known_for_department": "Acting",
+        "name": "Adriana Altaras",
+        "original_name": "Adriana Altaras",
+        "popularity": 0.413,
+        "profile_path": "/LZybMQQCzFDdqKJKkPhQYP6U1X.jpg",
+        "cast_id": 7,
+        "character": "Antonia Lässler",
+        "credit_id": "54c9702a925141678e006bb6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8202,
+        "known_for_department": "Acting",
+        "name": "Matthias Brenner",
+        "original_name": "Matthias Brenner",
+        "popularity": 0.5655,
+        "profile_path": "/m28WGfLmVUeeDmxmrWjD0JgVOd8.jpg",
+        "cast_id": 8,
+        "character": "Paul Lässler",
+        "credit_id": "54c97037c3a36874ac006935",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17726,
+        "known_for_department": "Acting",
+        "name": "Sabine Wackernagel",
+        "original_name": "Sabine Wackernagel",
+        "popularity": 0.0851,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Renate Kleu",
+        "credit_id": "54c97048925141678c006b75",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1419926,
+        "known_for_department": "Acting",
+        "name": "Fabian Zapatka",
+        "original_name": "Fabian Zapatka",
+        "popularity": 0.0564,
+        "profile_path": "/5KMfwMlL7YyVOLmh1Dev6ExXDmS.jpg",
+        "cast_id": 10,
+        "character": "Dieter Kleu",
+        "credit_id": "54c970579251410949002092",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 124709,
+        "known_for_department": "Acting",
+        "name": "Karoline Schuch",
+        "original_name": "Karoline Schuch",
+        "popularity": 0.2844,
+        "profile_path": "/r7ZuNx636Znp8RyqP1yQeypdExu.jpg",
+        "cast_id": 11,
+        "character": "Marlene Jensen",
+        "credit_id": "54c97066c3a3687a65002077",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38738,
+        "known_for_department": "Acting",
+        "name": "Markus Hering",
+        "original_name": "Markus Hering",
+        "popularity": 0.0771,
+        "profile_path": "/wcBVSFpeqaUNvOp5U0Lph1zLIoa.jpg",
+        "cast_id": 12,
+        "character": "Heinz Lukka",
+        "credit_id": "56cdafe09251415cd10027d8",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 221505,
+        "known_for_department": "Directing",
+        "name": "Claudia Prietzel",
+        "original_name": "Claudia Prietzel",
+        "popularity": 0.0931,
+        "profile_path": null,
+        "credit_id": "54c96fc49251410949002088",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1327531,
+        "known_for_department": "Directing",
+        "name": "Peter Henning",
+        "original_name": "Peter Henning",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5e55755fa6d9310018599734",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2097194,
+        "known_for_department": "Writing",
+        "name": "Christoph Busch",
+        "original_name": "Christoph Busch",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5e557585a76ac50013a9b51a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1364297,
+        "known_for_department": "Writing",
+        "name": "Petra Hammesfahr",
+        "original_name": "Petra Hammesfahr",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "5e5575a6f48b340017759a56",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

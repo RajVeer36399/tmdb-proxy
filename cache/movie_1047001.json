@@ -1,0 +1,341 @@
+{
+  "adult": false,
+  "backdrop_path": "/dHfA82DK7u7meq3KtNBnCAC6glj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1047001,
+  "imdb_id": "tt23622578",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "About Us But Not About Us",
+  "overview": "A literature professor meets his student at a restaurant and, over the course of one meal, secrets and lies will be unearthed and the sinister connection to a tragedy will be revealed.",
+  "popularity": 6.9736,
+  "poster_path": "/afrQ09BPQwxmCnl1uhpkECUtTSK.jpg",
+  "production_companies": [
+    {
+      "id": 78999,
+      "logo_path": "/9qkTxdH9naTIdMHUx9HRrrxo1kb.png",
+      "name": "The IdeaFirst Company",
+      "origin_country": "PH"
+    },
+    {
+      "id": 128355,
+      "logo_path": null,
+      "name": "October Train Films",
+      "origin_country": ""
+    },
+    {
+      "id": 21293,
+      "logo_path": "/zF9tH0KxU26u93AOSb4pd7KXSD2.png",
+      "name": "Quantum Films",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2023-04-08",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "About Us But Not About Us",
+  "video": false,
+  "vote_average": 4.6,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1234471,
+        "known_for_department": "Acting",
+        "name": "Romnick Sarmenta",
+        "original_name": "Romnick Sarmenta",
+        "popularity": 0.8361,
+        "profile_path": "/lH183dNVqJx9Or6jwTzgDLZHdf4.jpg",
+        "cast_id": 1,
+        "character": "Eric",
+        "credit_id": "636e001e1684f700ab8063ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349626,
+        "known_for_department": "Acting",
+        "name": "Elijah Canlas",
+        "original_name": "Elijah Canlas",
+        "popularity": 1.1393,
+        "profile_path": "/m6ka8mftyggEFkqq5g1CIbS3oQ0.jpg",
+        "cast_id": 2,
+        "character": "Lance",
+        "credit_id": "636e002d1684f70080721533",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2345346,
+        "known_for_department": "Acting",
+        "name": "Olive Isidro",
+        "original_name": "Olive Isidro",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Prof. Dimalanta",
+        "credit_id": "6632d158c616ac012218b4d1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1490606,
+        "known_for_department": "Acting",
+        "name": "Arkin Del Rosario",
+        "original_name": "Arkin Del Rosario",
+        "popularity": 0.0985,
+        "profile_path": "/emRa52DZdZj73p4KtD0DeeBBGc6.jpg",
+        "cast_id": 20,
+        "character": "Waiter #1",
+        "credit_id": "6632d18499d5c30129564a24",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3048431,
+        "known_for_department": "Acting",
+        "name": "James Andrew Razon",
+        "original_name": "James Andrew Razon",
+        "popularity": 0.0621,
+        "profile_path": "/4rxwGKc8gZcOl0QXLl7h38DU3YW.jpg",
+        "cast_id": 21,
+        "character": "Waiter #2",
+        "credit_id": "6632d199af4324012b53c39e",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591994,
+        "known_for_department": "Writing",
+        "name": "Jun Lana",
+        "original_name": "Jun Robles Lana",
+        "popularity": 0.4748,
+        "profile_path": "/nZ8yiwZskOxveSfHXqv6mY5yTnY.jpg",
+        "credit_id": "636e003c1684f70080721542",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1209212,
+        "known_for_department": "Production",
+        "name": "Lorna Sanchez",
+        "original_name": "Lorna Sanchez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63fdb26b9f1be700e676e9b3",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1085230,
+        "known_for_department": "Camera",
+        "name": "Neil Daza",
+        "original_name": "Neil Daza",
+        "popularity": 0.1665,
+        "profile_path": "/up70A11S5v6peGR5nV0GcB1UCuT.jpg",
+        "credit_id": "63fdb32acf62cd009d18f2d7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2159452,
+        "known_for_department": "Sound",
+        "name": "Fatima Nerikka P. Salim",
+        "original_name": "Fatima Nerikka P. Salim",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "63fdb29e699fb7007d8dcaee",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2206453,
+        "known_for_department": "Art",
+        "name": "Marxie Maolen Fadul",
+        "original_name": "Marxie Maolen Fadul",
+        "popularity": 0.089,
+        "profile_path": null,
+        "credit_id": "63fdb33c9653f600b58ad6bb",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591994,
+        "known_for_department": "Writing",
+        "name": "Jun Lana",
+        "original_name": "Jun Robles Lana",
+        "popularity": 0.4748,
+        "profile_path": "/nZ8yiwZskOxveSfHXqv6mY5yTnY.jpg",
+        "credit_id": "63fdb3ad699fb7007d8dcb7c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1908125,
+        "known_for_department": "Sound",
+        "name": "Immanuel Verona",
+        "original_name": "Immanuel Verona",
+        "popularity": 0.6759,
+        "profile_path": null,
+        "credit_id": "63fdb28d7a4ee70086390acd",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1202164,
+        "known_for_department": "Editing",
+        "name": "Lawrence S. Ang",
+        "original_name": "Lawrence S. Ang",
+        "popularity": 0.0256,
+        "profile_path": "/k77Y51jrYBI6wBQN3fuLgQy5hjJ.jpg",
+        "credit_id": "63fdb2ee9653f600817e2af6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198248,
+        "known_for_department": "Production",
+        "name": "Joji Alonso",
+        "original_name": "Joji Alonso",
+        "popularity": 0.0481,
+        "profile_path": null,
+        "credit_id": "63fdb39b7a4ee7007c72638c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591994,
+        "known_for_department": "Writing",
+        "name": "Jun Lana",
+        "original_name": "Jun Robles Lana",
+        "popularity": 0.4748,
+        "profile_path": "/nZ8yiwZskOxveSfHXqv6mY5yTnY.jpg",
+        "credit_id": "63fdb3b67a4ee70086390b87",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591994,
+        "known_for_department": "Writing",
+        "name": "Jun Lana",
+        "original_name": "Jun Robles Lana",
+        "popularity": 0.4748,
+        "profile_path": "/nZ8yiwZskOxveSfHXqv6mY5yTnY.jpg",
+        "credit_id": "63fdb3599f1be700869ec139",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1375954,
+        "known_for_department": "Directing",
+        "name": "Perci Intalan",
+        "original_name": "Percival M. Intalan",
+        "popularity": 0.0704,
+        "profile_path": "/jKD9REkYxcv15FVH7929oeoaOE7.jpg",
+        "credit_id": "63fdb36ccf62cd00b20d5669",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2746715,
+        "known_for_department": "Editing",
+        "name": "Edlyn Tallada-Abuel",
+        "original_name": "Edlyn Tallada-Abuel",
+        "popularity": 0.0862,
+        "profile_path": null,
+        "credit_id": "63fdb31cc7176d00db589003",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059355,
+        "known_for_department": "Sound",
+        "name": "Teresa Barrozo",
+        "original_name": "Teresa Barrozo",
+        "popularity": 0.1349,
+        "profile_path": "/ffQO0SY8drf6mfIpqDKbigvOqbp.jpg",
+        "credit_id": "63fdb2c27a4ee700b9168469",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3618090,
+        "known_for_department": "Production",
+        "name": "Ferdy Lapuz",
+        "original_name": "Ferdy Lapuz",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "63fdb2fecf62cd009d18f2ac",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 286398,
+  "imdb_id": "tt3080148",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "bn",
+  "original_title": "Macho Mustanaa",
+  "overview": "The film commences by showing a happy and united family, consisting of Nabab, his father, grandfather, elder brother and sister-in-law (who was pregnant). One day, Nabab met Diya on the street and they fell in love with each other. Following this, they had a tough time as Diya's father, Bidhan Chattoraj, hired goons to separate them. Even after spending a lot of time escaping those goons, the goons finally catch them and Bidhan Chottoraj gets his daughter back. Since that incident, Nabab's life faces a turn as he is accused of false charges and sent to the jail. But Bidhan Chattoraj doesn't stop here. In the fire of vengeance, he decides to demolish Nabab's family. He kills Nabab's elder brother and grandfather, paralyses his father, and finally, his sister-in-law lost her unborn child. Nabab becomes fuious upon this. The events that occur next, i.e., through which Nabab gets back Diya and takes revenge on Bidhan Chattoraj, form the climax of the story.",
+  "popularity": 5.1146,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 29708,
+      "logo_path": null,
+      "name": "Remac Filmz",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2012-03-09",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Macho Mustanaa",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352374,
+        "known_for_department": "Acting",
+        "name": "Hiran Chatterjee",
+        "original_name": "Hiran Chatterjee",
+        "popularity": 0.1285,
+        "profile_path": "/8CNbmlpOM2FA9V05T7aR2t3OQtE.jpg",
+        "cast_id": 0,
+        "character": "Nabab",
+        "credit_id": "53e95aa9c3a3680eb50000ac",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1181163,
+        "known_for_department": "Acting",
+        "name": "Puja Banerjee",
+        "original_name": "Puja Banerjee",
+        "popularity": 0.9685,
+        "profile_path": "/1x750E35nVWANJSlnU8ePWszwfn.jpg",
+        "cast_id": 1,
+        "character": "Diya",
+        "credit_id": "53e95ac7c3a3680eca0000d1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1352375,
+        "known_for_department": "Acting",
+        "name": "Arun Bandyopadhyay",
+        "original_name": "Arun Bandyopadhyay",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Diya's father",
+        "credit_id": "53e95af0c3a3680ec10000b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189453,
+        "known_for_department": "Acting",
+        "name": "Bibhu Bhattacharya",
+        "original_name": "Bibhu Bhattacharya",
+        "popularity": 0.1285,
+        "profile_path": "/cwfrT2fxQFXi9BfTKO20qCvcOR.jpg",
+        "cast_id": 4,
+        "character": "Nabab's grandfather",
+        "credit_id": "53e95b25c3a3680ecc0000f1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352377,
+        "known_for_department": "Acting",
+        "name": "Shantilal Mukherjee",
+        "original_name": "Shantilal Mukherjee",
+        "popularity": 0.8935,
+        "profile_path": "/M01oPyLTsEcMfKmtyePnuquxrQ.jpg",
+        "cast_id": 5,
+        "character": "Goon",
+        "credit_id": "53e95b3fc3a3680ebd0000e0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352378,
+        "known_for_department": "Acting",
+        "name": "Debdut Ghosh",
+        "original_name": "Debdut Ghosh",
+        "popularity": 0.2599,
+        "profile_path": "/Af3MPpDvjqsBlvA0ZBNQQfrBjp6.jpg",
+        "cast_id": 6,
+        "character": "Nabab's elder brother",
+        "credit_id": "53e95b65c3a3680ec40000ca",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1352379,
+        "known_for_department": "Acting",
+        "name": "Arpita Dutta Chowdhury",
+        "original_name": "Arpita Dutta Chowdhury",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Nabab's sister-in-law",
+        "credit_id": "53e95b98c3a3680eb90000d5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1788907,
+        "known_for_department": "Acting",
+        "name": "Rajat Ganguly",
+        "original_name": "Rajat Ganguly",
+        "popularity": 0.3235,
+        "profile_path": "/uNkGnNZkJeHUPY5dvohPIulfkvW.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "630400c054508d00832a9523",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1352380,
+        "known_for_department": "Directing",
+        "name": "Reshmi Mitra",
+        "original_name": "Reshmi Mitra",
+        "popularity": 0.044,
+        "profile_path": null,
+        "credit_id": "53e95bb6c3a3680ec70000f7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1352381,
+        "known_for_department": "Production",
+        "name": "P.P Tewari",
+        "original_name": "P.P Tewari",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "53e95bfcc3a3680eb90000e8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1352382,
+        "known_for_department": "Writing",
+        "name": "Surajit Bhattacharya",
+        "original_name": "Surajit Bhattacharya",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "53e95c16c3a3680ebd0000fa",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

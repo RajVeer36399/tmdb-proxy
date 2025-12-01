@@ -1,0 +1,444 @@
+{
+  "adult": false,
+  "backdrop_path": "/d7FpXKXl4j2YUvDHXLzSHopv2QC.jpg",
+  "belongs_to_collection": null,
+  "budget": 500000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 268413,
+  "imdb_id": "tt3345952",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Panzehir",
+  "overview": "Istanbul cirminal underworld; a place of merciless families and swaggering hitmen afraid of no one. Kadir Korkut, nicknamed the \"Demon\" is the most fearsome of their kind. When he wants to retire for the love of a blind German pianist, it starts a chain of events which will paint the night red. His boss and foster father, Kara Cemal betrays and coerces Kadir by poisoning him to perform two final hits on the two largest rival families in order to receive the antidote. Outgunned, outmanned and facing impossible odds he has to team up with an outed undercover police mole Cem, and somehow survive his final night of revenge and redemption.",
+  "popularity": 6.2306,
+  "poster_path": "/gViEsHeUnLGhP4rQXJpC25LdgT9.jpg",
+  "production_companies": [
+    {
+      "id": 33601,
+      "logo_path": "/9B7EVX1z3Bxwbpxi1iFGDzVkjuI.png",
+      "name": "Insignia Productions",
+      "origin_country": "TR"
+    },
+    {
+      "id": 33602,
+      "logo_path": "/p5cIAoTVReSEqMeJsqyZEv3eoOG.png",
+      "name": "CaglarArts Entertainment",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2014-05-08",
+  "revenue": 446619,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hell's on earth",
+  "title": "Antidote",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150277,
+        "known_for_department": "Acting",
+        "name": "Emin Boztepe",
+        "original_name": "Emin Boztepe",
+        "popularity": 0.1191,
+        "profile_path": "/f0po2DerhHUZQR20gDQUo6Km3vq.jpg",
+        "cast_id": 5,
+        "character": "Kadir Korkut",
+        "credit_id": "53a541abc3a3687a2e000c41",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550947,
+        "known_for_department": "Acting",
+        "name": "Cüneyt Arkın",
+        "original_name": "Cüneyt Arkın",
+        "popularity": 0.4801,
+        "profile_path": "/7BzJu3EgxdnVpBM8B43sMECRLY9.jpg",
+        "cast_id": 3,
+        "character": "Kara Cemal",
+        "credit_id": "53a54168c3a3687a40000be4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1332491,
+        "known_for_department": "Acting",
+        "name": "Tolga Akdoğan",
+        "original_name": "Tolga Akdoğan",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Polis Cem",
+        "credit_id": "53a5414dc3a3687495000338",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2986517,
+        "known_for_department": "Acting",
+        "name": "Christina Gottschalk",
+        "original_name": "Christina Gottschalk",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Elsa Lund",
+        "credit_id": "6033717e1d3143003c0c1020",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145280,
+        "known_for_department": "Acting",
+        "name": "Emir Benderlioğlu",
+        "original_name": "Emir Benderlioğlu",
+        "popularity": 0.4035,
+        "profile_path": "/tOhlpQI14fQm2LplwhMYev2PWuc.jpg",
+        "cast_id": 4,
+        "character": "Ferit",
+        "credit_id": "53a5419bc3a3687a40000beb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332493,
+        "known_for_department": "Acting",
+        "name": "Edoardo Costa",
+        "original_name": "Edoardo Costa",
+        "popularity": 0.9832,
+        "profile_path": "/dT8roPncLy5YMogsCsKv2A77EqN.jpg",
+        "cast_id": 7,
+        "character": "Francesci Sasso",
+        "credit_id": "53a54210c3a368707a000323",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1332496,
+        "known_for_department": "Acting",
+        "name": "Florence Eugene",
+        "original_name": "Florence Eugene",
+        "popularity": 0.0264,
+        "profile_path": "/v5BAnuMo4o8cTwkpQmHBT3GmOMt.jpg",
+        "cast_id": 8,
+        "character": "Maria Sasso",
+        "credit_id": "53a5429ec3a3687a2e000c59",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2986523,
+        "known_for_department": "Acting",
+        "name": "Duygu Çiftçioğlu",
+        "original_name": "Duygu Çiftçioğlu",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Dilan",
+        "credit_id": "603373747f6c8d003c12f31c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1282326,
+        "known_for_department": "Acting",
+        "name": "Hüseyin Özay",
+        "original_name": "Hüseyin Özay",
+        "popularity": 0.0726,
+        "profile_path": "/uSrcosLsJQTja2uGoZj7DQZR4dx.jpg",
+        "cast_id": 19,
+        "character": "Haymanalı Civan",
+        "credit_id": "6033727676eecf003d68525c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332492,
+        "known_for_department": "Acting",
+        "name": "Levent Can",
+        "original_name": "Levent Can",
+        "popularity": 0.8401,
+        "profile_path": "/hYsU4KeYQ1mzHU524ERjbzICHIf.jpg",
+        "cast_id": 6,
+        "character": "Nazik Hayri",
+        "credit_id": "53a541eec3a368749500034a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2986525,
+        "known_for_department": "Acting",
+        "name": "Çağdaş Agun",
+        "original_name": "Çağdaş Agun",
+        "popularity": 0.0657,
+        "profile_path": "/iopyl0A4IZmoyGgKcxQCEIWfgPa.jpg",
+        "cast_id": 22,
+        "character": "Tatar",
+        "credit_id": "603373a61d3143003d0bebbb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1258888,
+        "known_for_department": "Acting",
+        "name": "Murat Arkın",
+        "original_name": "Murat Arkın",
+        "popularity": 0.2981,
+        "profile_path": "/eNwXr66AKrIlF1p8kAM151yA1Ws.jpg",
+        "cast_id": 16,
+        "character": "Genç Kara Cemal",
+        "credit_id": "603371ea76eecf003f68a2f0",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145408,
+        "known_for_department": "Acting",
+        "name": "Kaan Urgancıoğlu",
+        "original_name": "Kaan Urgancıoğlu",
+        "popularity": 2.5281,
+        "profile_path": "/oWYb9CAkBLh0ojzsO3OySduVjpM.jpg",
+        "cast_id": 17,
+        "character": "Mehmet Korkut",
+        "credit_id": "60337209d38b58003ff263a6",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1987590,
+        "known_for_department": "Acting",
+        "name": "Öykü Gürman",
+        "original_name": "Öykü Gürman",
+        "popularity": 0.4116,
+        "profile_path": "/zQGno9gPz4zjNN5L3v6wICg4Lue.jpg",
+        "cast_id": 18,
+        "character": "Zeynep Korkut",
+        "credit_id": "603372427d5f4b00419856a0",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2986529,
+        "known_for_department": "Acting",
+        "name": "Solmaz Kartal",
+        "original_name": "Solmaz Kartal",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Hacı Emmi",
+        "credit_id": "603373fcc26796003ccd9681",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1282323,
+        "known_for_department": "Acting",
+        "name": "Ali Aksöz",
+        "original_name": "Ali Aksöz",
+        "popularity": 0.2371,
+        "profile_path": "/9ilu18nGID6smJeeB5hkQbOKMX3.jpg",
+        "cast_id": 2,
+        "character": "Genç Hacı Emmi",
+        "credit_id": "53a5415cc3a368749500033c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1734532,
+        "known_for_department": "Acting",
+        "name": "Seyithan Özdemir",
+        "original_name": "Seyithan Özdemir",
+        "popularity": 1.1762,
+        "profile_path": "/zjt72npE4ViB2be4G5By7PjYNIV.jpg",
+        "cast_id": 24,
+        "character": "Boz Seyid",
+        "credit_id": "603374afbefb09003f919fae",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1282320,
+        "known_for_department": "Acting",
+        "name": "Çağlar Ertuğrul",
+        "original_name": "Çağlar Ertuğrul",
+        "popularity": 1.3963,
+        "profile_path": "/3955xGks8Z0m4fwpPFwZMPXzij.jpg",
+        "cast_id": 25,
+        "character": "Kağan Dağdeviren",
+        "credit_id": "6033750b20ecaf003e18b4e7",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147621,
+        "known_for_department": "Writing",
+        "name": "Alper Çağlar",
+        "original_name": "Alper Çağlar",
+        "popularity": 0.317,
+        "profile_path": "/xm2QFzeIRRXfvRcJY5jqItZy9p6.jpg",
+        "credit_id": "53a540d3c3a3687495000332",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471798,
+        "known_for_department": "Camera",
+        "name": "Mehmet Başbaran",
+        "original_name": "Mehmet Başbaran",
+        "popularity": 0.0924,
+        "profile_path": null,
+        "credit_id": "66a19ae3557d122e8518cde0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147621,
+        "known_for_department": "Writing",
+        "name": "Alper Çağlar",
+        "original_name": "Alper Çağlar",
+        "popularity": 0.317,
+        "profile_path": "/xm2QFzeIRRXfvRcJY5jqItZy9p6.jpg",
+        "credit_id": "603370d89af171004046b193",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2986520,
+        "known_for_department": "Sound",
+        "name": "Jeremy Garren",
+        "original_name": "Jeremy Garren",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "603372ebc26796003ccd95be",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147621,
+        "known_for_department": "Writing",
+        "name": "Alper Çağlar",
+        "original_name": "Alper Çağlar",
+        "popularity": 0.317,
+        "profile_path": "/xm2QFzeIRRXfvRcJY5jqItZy9p6.jpg",
+        "credit_id": "6033701c11386c003f94f942",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1931601,
+        "known_for_department": "Production",
+        "name": "Doruk Acar",
+        "original_name": "Doruk Acar",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "6033703c96e30b0041263524",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147621,
+        "known_for_department": "Writing",
+        "name": "Alper Çağlar",
+        "original_name": "Alper Çağlar",
+        "popularity": 0.317,
+        "profile_path": "/xm2QFzeIRRXfvRcJY5jqItZy9p6.jpg",
+        "credit_id": "603370500a517c00419625f9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2986516,
+        "known_for_department": "Sound",
+        "name": "Clint Bajakian",
+        "original_name": "Clint Bajakian",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6033709ebefb09004090f6c9",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

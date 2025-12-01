@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 976757,
+  "imdb_id": "tt1679649",
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_title": "Rantevoudaki e?",
+  "overview": "A young man strategizes on how to impress his date.",
+  "popularity": 5.075,
+  "poster_path": "/2sRS8Szdzmt53XDpiUUSWa30ijW.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "release_date": "1992-01-01",
+  "revenue": 0,
+  "runtime": 19,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A date, huh?",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548633,
+        "known_for_department": "Acting",
+        "name": "Renos Haralambidis",
+        "original_name": "Ρένος Χαραλαμπίδης",
+        "popularity": 0.5804,
+        "profile_path": "/oGR0Z2L3Y78lyoIbYObuR0hO2An.jpg",
+        "cast_id": 1,
+        "character": "Young man",
+        "credit_id": "6282f629a39d0b00a617b1da",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2376177,
+        "known_for_department": "Acting",
+        "name": "Vasilis Tsipidis",
+        "original_name": "Βασίλης Τσιπίδης",
+        "popularity": 0.4277,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Canteen owner",
+        "credit_id": "6282f645982f7400a04cb875",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3552919,
+        "known_for_department": "Directing",
+        "name": "Stavros Ktoris",
+        "original_name": "Stavros Ktoris",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6282f66fec455200a516c4fd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3552919,
+        "known_for_department": "Directing",
+        "name": "Stavros Ktoris",
+        "original_name": "Stavros Ktoris",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6282f68afd140b120b4a5a07",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548633,
+        "known_for_department": "Acting",
+        "name": "Renos Haralambidis",
+        "original_name": "Ρένος Χαραλαμπίδης",
+        "popularity": 0.5804,
+        "profile_path": "/oGR0Z2L3Y78lyoIbYObuR0hO2An.jpg",
+        "credit_id": "6282f69420e6a51a19def700",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

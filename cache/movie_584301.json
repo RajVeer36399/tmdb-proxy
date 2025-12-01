@@ -1,0 +1,213 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 584301,
+  "imdb_id": "tt9474806",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "Cablestreet",
+  "overview": "A cable system designed by controversial Chinese company Huawei Technologies enables communication between an expert and a machine. Time succumbs to space in a \"New Cold War\" played out in technological materials.",
+  "popularity": 5.6261,
+  "poster_path": "/luhkgyj22dwBuNywkxp6DL3GstV.jpg",
+  "production_companies": [
+    {
+      "id": 71551,
+      "logo_path": "/hT2G2iuXXqY458TYen2T2qmjlS8.png",
+      "name": "Field of Vision",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-06-03",
+  "revenue": 0,
+  "runtime": 19,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cablestreet",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2458481,
+        "known_for_department": "Acting",
+        "name": "Yiting Gao",
+        "original_name": "Yiting Gao",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "The Expert (voice)",
+        "credit_id": "5dce626579a1c30010492ed8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2458483,
+        "known_for_department": "Acting",
+        "name": "Qinyingge Luo",
+        "original_name": "Qinyingge Luo",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "The Machine (voice)",
+        "credit_id": "5dce6282b76cbb0013767634",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1600046,
+        "known_for_department": "Directing",
+        "name": "Meredith Lackey",
+        "original_name": "Meredith Lackey",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5c71e0310e0a262c117c4795",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1081390,
+        "known_for_department": "Production",
+        "name": "Charlotte Cook",
+        "original_name": "Charlotte Cook",
+        "popularity": 0.1133,
+        "profile_path": null,
+        "credit_id": "5dce62aab76cbb0016766d7f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1713735,
+        "known_for_department": "Production",
+        "name": "Yoni Golijov",
+        "original_name": "Yoni Golijov",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5dce62c479a1c3001049308e",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1600046,
+        "known_for_department": "Directing",
+        "name": "Meredith Lackey",
+        "original_name": "Meredith Lackey",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5dce62d379a1c3001049309a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 220691,
+        "known_for_department": "Directing",
+        "name": "Laura Poitras",
+        "original_name": "Laura Poitras",
+        "popularity": 2.0402,
+        "profile_path": "/gRCQMBVyEy7FlA6MAUJ0ESVobLp.jpg",
+        "credit_id": "5dce62dee263bb00177544ef",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1778309,
+        "known_for_department": "Crew",
+        "name": "Maya Rudolph",
+        "original_name": "Maya Rudolph",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "5dce6301b76cbb001376770a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2458484,
+        "known_for_department": "Sound",
+        "name": "Maxwell Sterling",
+        "original_name": "Maxwell Sterling",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5dce6326cc277c0017e4cf24",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1600046,
+        "known_for_department": "Directing",
+        "name": "Meredith Lackey",
+        "original_name": "Meredith Lackey",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5dce6334e263bb001174e3bd",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1600046,
+        "known_for_department": "Directing",
+        "name": "Meredith Lackey",
+        "original_name": "Meredith Lackey",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5dce633db76cbb001376775b",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

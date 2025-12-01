@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 340,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1013495,
+  "imdb_id": null,
+  "origin_country": [
+    "UY"
+  ],
+  "original_language": "es",
+  "original_title": "Invierno tardío",
+  "overview": "Clara, a widow in the twilight of her life, spends her days lonely. She invites someone dear to her to share a barbecue together. However, his delay will undo her plans, and her ritual around the preparation will unstabilize itself.",
+  "popularity": 3.704,
+  "poster_path": "/cKpdcG5BFNGuRBq79dmEJOSCSs6.jpg",
+  "production_companies": [
+    {
+      "id": 157326,
+      "logo_path": null,
+      "name": "Escuela de cine del Uruguay",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "UY",
+      "name": "Uruguay"
+    }
+  ],
+  "release_date": "2022-08-18",
+  "revenue": 0,
+  "runtime": 21,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Late Winter",
+  "video": false,
+  "vote_average": 2,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116587,
+        "known_for_department": "Acting",
+        "name": "Mirella Pascual",
+        "original_name": "Mirella Pascual",
+        "popularity": 12.1207,
+        "profile_path": "/x0VkowzoTH44zpxYveyKkx9D8rL.jpg",
+        "cast_id": 1,
+        "character": "Clara",
+        "credit_id": "62fba3b22dffd8007daedba5",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2449915,
+        "known_for_department": "Directing",
+        "name": "J. Recuero",
+        "original_name": "J. Recuero",
+        "popularity": 0.0628,
+        "profile_path": "/daK0Z3JYMteSM4oQZKSiInR2uTw.jpg",
+        "credit_id": "62fba3cc6e938a0091e1f13e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2463318,
+        "known_for_department": "Directing",
+        "name": "Sofía Borges Pedragosa",
+        "original_name": "Sofía Borges Pedragosa",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62fba3f5258823008220c620",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2783650,
+        "known_for_department": "Directing",
+        "name": "Victor Fernández",
+        "original_name": "Victor Fernández",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62fba3e6175051007f91440d",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3267870,
+        "known_for_department": "Lighting",
+        "name": "Agustín Rossi",
+        "original_name": "Agustín Rossi",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62fba3d91cac8c007f301c9e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2789814,
+        "known_for_department": "Acting",
+        "name": "Perí de Alencar",
+        "original_name": "Perí de Alencar",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62fba4042dffd8007daedbc7",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3666201,
+        "known_for_department": "Art",
+        "name": "Rocío Freiria",
+        "original_name": "Rocío Freiria",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62fba443175051007f914437",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2783651,
+        "known_for_department": "Editing",
+        "name": "Martín Fernández",
+        "original_name": "Martín Fernández",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "62fba415e267de00928bda08",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3640768,
+        "known_for_department": "Production",
+        "name": "Inés Vázquez",
+        "original_name": "Inés Vázquez",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "62fba4621dbc88007c8bc8c5",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  }
+}

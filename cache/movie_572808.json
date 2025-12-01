@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/c4a1zpUmE3Y4fLfKYujLgsWXs5t.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 572808,
+  "imdb_id": null,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Petrolineide",
+  "overview": "",
+  "popularity": 5.6498,
+  "poster_path": "/wwmenARhNrnfADQecsacaUum8hz.jpg",
+  "production_companies": [
+    {
+      "id": 12624,
+      "logo_path": null,
+      "name": "Società Italiana Cines",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "1949-01-01",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Petrolineide",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060712,
+        "known_for_department": "Directing",
+        "name": "Carlo Campogalliani",
+        "original_name": "Carlo Campogalliani",
+        "popularity": 0.6095,
+        "profile_path": null,
+        "credit_id": "5c307b870e0a2611b83bcdb0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228338,
+        "known_for_department": "Directing",
+        "name": "Alessandro Blasetti",
+        "original_name": "Alessandro Blasetti",
+        "popularity": 0.2439,
+        "profile_path": "/kCfrlaYan7qJfYg4PPNZeAxtXs4.jpg",
+        "credit_id": "5c307b75c3a3680835a43675",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

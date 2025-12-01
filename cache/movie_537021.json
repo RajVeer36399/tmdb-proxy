@@ -1,0 +1,320 @@
+{
+  "adult": false,
+  "backdrop_path": "/cBmHr3lCEbGxxNX7gQl9HiC1enL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 537021,
+  "imdb_id": "tt7666250",
+  "origin_country": [
+    "DE",
+    "CU",
+    "ES",
+    "GB"
+  ],
+  "original_language": "es",
+  "original_title": "Yuli",
+  "overview": "Yuli is the nickname given to Carlos Acosta by his father, Pedro, who considers him the son of Ogun, an African god and a fighter. As a child Yuli avoids discipline and education, learning from the streets of an impoverished and abandoned Havana. His father, however, has other ideas, and knowing that his son has a natural talent for dance, sends him to the National Ballet School of Cuba. Despite his repeated escapes and initial poor behaviour, the boy is inevitably drawn to the world of dance, and begins to shape his legendary career from a young age, becoming the first black dancer to be cast in some of the most prestigious ballet roles, originally written for white dancers, in companies such as the Houston Ballet or the Royal Ballet in London.",
+  "popularity": 5.6119,
+  "poster_path": "/hGGbrGNLqB0SSdH9DCuas3mSAv6.jpg",
+  "production_companies": [
+    {
+      "id": 10031,
+      "logo_path": "/cUOviFxM9l3dYuNeg89giHUaqkd.png",
+      "name": "Morena Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 834,
+      "logo_path": "/zsmK0tDOgvWJiBxuxOHUyJL8W7J.png",
+      "name": "Potboiler Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 54808,
+      "logo_path": null,
+      "name": "Producciones de la 5ª Avenida",
+      "origin_country": ""
+    },
+    {
+      "id": 7306,
+      "logo_path": "/iqCkzLmACmrws2tHO2USRLkJqXY.png",
+      "name": "The Match Factory",
+      "origin_country": "DE"
+    },
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    },
+    {
+      "id": 5175,
+      "logo_path": "/sEc4VmMYh1G09ySm8ThZ5S3gcUS.png",
+      "name": "ICAIC",
+      "origin_country": "CU"
+    },
+    {
+      "id": 850,
+      "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+      "name": "Eurimages",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "CU",
+      "name": "Cuba"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2018-12-14",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Yuli",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 96,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2088886,
+        "known_for_department": "Acting",
+        "name": "Santiago Alfonso",
+        "original_name": "Santiago Alfonso",
+        "popularity": 0.0666,
+        "profile_path": "/tGsAdaBckKkhnGNeAZppD7I34Yt.jpg",
+        "cast_id": 1,
+        "character": "Pedro",
+        "credit_id": "5b534c0f9251411f8401134e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1054298,
+        "known_for_department": "Acting",
+        "name": "Carlos Acosta",
+        "original_name": "Carlos Acosta",
+        "popularity": 0.6954,
+        "profile_path": "/vij3L9YLO1WOXVpbQbmOvZAWINg.jpg",
+        "cast_id": 2,
+        "character": "Carlos Acosta (Actual)",
+        "credit_id": "5b534c270e0a2623170125dd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2088888,
+        "known_for_department": "Acting",
+        "name": "Keyvin Martínez",
+        "original_name": "Keyvin Martínez",
+        "popularity": 0.0286,
+        "profile_path": "/bgcyW31UBcPeGmsLiCvUOrLXECS.jpg",
+        "cast_id": 3,
+        "character": "Carlos Acosta (Joven)",
+        "credit_id": "5b534c600e0a26231401195b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2088890,
+        "known_for_department": "Acting",
+        "name": "Edison Manuel Olbera",
+        "original_name": "Edison Manuel Olbera",
+        "popularity": 0.0264,
+        "profile_path": "/sQMx0UxhYwWO2Pwlj6Ro0JGa5vt.jpg",
+        "cast_id": 4,
+        "character": "Carlos Acosta (1983)",
+        "credit_id": "5b534c75c3a3680b59014d82",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 989815,
+        "known_for_department": "Acting",
+        "name": "Laura de la Uz",
+        "original_name": "Laura de la Uz",
+        "popularity": 0.1047,
+        "profile_path": "/rpMuTeMC0LXfeQroFNvfDDfz3N6.jpg",
+        "cast_id": 5,
+        "character": "Maestra Chery",
+        "credit_id": "5b534ca19251411f86011775",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1389066,
+        "known_for_department": "Acting",
+        "name": "Yerlín Pérez López",
+        "original_name": "Yerlín Pérez López",
+        "popularity": 0.1131,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "María",
+        "credit_id": "62cc48f4498bc21e73805ea5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1056181,
+        "known_for_department": "Acting",
+        "name": "Carlos Enrique Almirante",
+        "original_name": "Carlos Enrique Almirante",
+        "popularity": 0.2782,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Enrique",
+        "credit_id": "62cc4903fd4a960f4da5a323",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1779202,
+        "known_for_department": "Acting",
+        "name": "Andrea Doimeadios",
+        "original_name": "Andrea Doimeadios",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Berta",
+        "credit_id": "62cc4917e004a60347e863c8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1967814,
+        "known_for_department": "Acting",
+        "name": "Alexandra Prokhorova",
+        "original_name": "Alexandra Prokhorova",
+        "popularity": 0.7863,
+        "profile_path": "/fHx6tb8Yk0it61JZDFsQeAoPs16.jpg",
+        "cast_id": 13,
+        "character": "Amiga Inglesa",
+        "credit_id": "62cc492a595a5612b8a49ae4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1117471,
+        "known_for_department": "Acting",
+        "name": "Tamara Rojo",
+        "original_name": "Tamara Rojo",
+        "popularity": 0.0461,
+        "profile_path": "/mb5p9n38z6zitSSUMrQBhI8kbNk.jpg",
+        "cast_id": 14,
+        "character": "Julieta",
+        "credit_id": "62cc4939498bc21e73805eb3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234616,
+        "known_for_department": "Acting",
+        "name": "Héctor Noas",
+        "original_name": "Héctor Noas",
+        "popularity": 0.0847,
+        "profile_path": "/8uoJsiBNEKllHiGqqw5xeYIy5kj.jpg",
+        "cast_id": 15,
+        "character": "Guía",
+        "credit_id": "62cc494de8d028004f19d145",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 405,
+        "known_for_department": "Sound",
+        "name": "Alberto Iglesias",
+        "original_name": "Alberto Iglesias",
+        "popularity": 0.3545,
+        "profile_path": "/rCmxMuBdpvQttspXRlSHZbDNDn0.jpg",
+        "credit_id": "665918b52c7537f5811d2ae7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15490,
+        "known_for_department": "Writing",
+        "name": "Paul Laverty",
+        "original_name": "Paul Laverty",
+        "popularity": 0.9519,
+        "profile_path": "/94iBo0p6XMgtkK6OOLMzKuaHT4G.jpg",
+        "credit_id": "5b534cd59251411f8201076f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16973,
+        "known_for_department": "Directing",
+        "name": "Icíar Bollaín",
+        "original_name": "Icíar Bollaín",
+        "popularity": 0.2354,
+        "profile_path": "/r9w9yZJN6bojt8R1bQH4K73nqjL.jpg",
+        "credit_id": "5b534cc59251411f7c010a0c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6528,
+        "known_for_department": "Camera",
+        "name": "Álex Catalán",
+        "original_name": "Álex Catalán",
+        "popularity": 0.0677,
+        "profile_path": "/aRumwvqWMY2Lo1HM4jR7RPzSSQ1.jpg",
+        "credit_id": "5c10df61c3a36825180fab15",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

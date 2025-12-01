@@ -1,0 +1,348 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 825000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 199947,
+  "imdb_id": "tt0819780",
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "fi",
+  "original_title": "Keisarin salaisuus",
+  "overview": "The film stars the familiar characters from the Finnish TV show The Autocrats (a political satire of Finnish politics) in a fairy tale where the inhabitants of a small Finnish village have to defend themselves against a despotic emperor.",
+  "popularity": 6.7041,
+  "poster_path": "/7CE90im4BnCs2H49nPaMPEYEHGy.jpg",
+  "production_companies": [
+    {
+      "id": 6159,
+      "logo_path": "/pbWyMDcAM6s228tiUxjl3v1OAxr.png",
+      "name": "Helsinki-filmi",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    }
+  ],
+  "release_date": "2006-09-08",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Emperor's Secret",
+  "video": false,
+  "vote_average": 4.75,
+  "vote_count": 4,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2752435,
+        "known_for_department": "Sound",
+        "name": "Janne Jankeri",
+        "original_name": "Janne Jankeri",
+        "popularity": 0.113,
+        "profile_path": null,
+        "credit_id": "64eafc81c613ce00ac42483f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1186697,
+        "known_for_department": "Production",
+        "name": "Riina Hyytiä",
+        "original_name": "Riina Hyytiä",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "52fe4db79251416c9111f8b3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1040509,
+        "known_for_department": "Production",
+        "name": "Olli Haikka",
+        "original_name": "Olli Haikka",
+        "popularity": 0.0774,
+        "profile_path": "/jyl2XwxlVZupDWmD4Br8D0DSzym.jpg",
+        "credit_id": "651ed01bc50ad2014dd08185",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512665,
+        "known_for_department": "Sound",
+        "name": "Heikki Kossi",
+        "original_name": "Heikki Kossi",
+        "popularity": 0.6446,
+        "profile_path": "/6VipnMFz9whg3WKRGld7KJDGTlo.jpg",
+        "credit_id": "651ed21674507d011c102acc",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1186697,
+        "known_for_department": "Production",
+        "name": "Riina Hyytiä",
+        "original_name": "Riina Hyytiä",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "651ed0313d3557013a9ee7cf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2301674,
+        "known_for_department": "Editing",
+        "name": "Pasi Mäkelä",
+        "original_name": "Pasi Mäkelä",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "651ed2da5b1240013c7c2701",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3547290,
+        "known_for_department": "Editing",
+        "name": "Kari Manns",
+        "original_name": "Kari Manns",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "651ed305c50ad200ad83460e",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132047,
+        "known_for_department": "Editing",
+        "name": "Kimmo Kohtamäki",
+        "original_name": "Kimmo Kohtamäki",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "651ed1a6967cc734295f57ce",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2287570,
+        "known_for_department": "Sound",
+        "name": "Peter Nordström",
+        "original_name": "Peter Nordström",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "651ed29aea84c700eb9bf008",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1140206,
+        "known_for_department": "Sound",
+        "name": "Salla Hämäläinen",
+        "original_name": "Salla Hämäläinen",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "651ed1d53d355700adb55796",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2488206,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jouni Mervas",
+        "original_name": "Jouni Mervas",
+        "popularity": 0.0559,
+        "profile_path": null,
+        "credit_id": "651ed24a3d3557011c00383a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2571018,
+        "known_for_department": "Production",
+        "name": "Leena Mäenpää-Bentley",
+        "original_name": "Leena Mäenpää-Bentley",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "651ed26a5b124001004da2c0",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674072,
+        "known_for_department": "Camera",
+        "name": "Pini Hellstedt",
+        "original_name": "Pini Hellstedt",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "651ed185c50ad2014dd08254",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512665,
+        "known_for_department": "Sound",
+        "name": "Heikki Kossi",
+        "original_name": "Heikki Kossi",
+        "popularity": 0.6446,
+        "profile_path": "/6VipnMFz9whg3WKRGld7KJDGTlo.jpg",
+        "credit_id": "6440088695665802fc020086",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2685138,
+        "known_for_department": "Editing",
+        "name": "Petteri Linnus",
+        "original_name": "Petteri Linnus",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "66ba3a0d4a812e8357d77029",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2221809,
+        "known_for_department": "Sound",
+        "name": "Tauri Oksala",
+        "original_name": "Tauri Oksala",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "64c1fbd11cfe3a0eb282c3f7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1047923,
+        "known_for_department": "Editing",
+        "name": "Jyrki Keränen",
+        "original_name": "Jyrki Keränen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66c98a3e1068ca357e3882d7",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3158351,
+        "known_for_department": "Art",
+        "name": "Tarja Väätänen",
+        "original_name": "Tarja Väätänen",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "64d0eb016d4c97014f432211",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88864,
+        "known_for_department": "Writing",
+        "name": "Seppo Vesiluoma",
+        "original_name": "Seppo Vesiluoma",
+        "popularity": 0.1684,
+        "profile_path": null,
+        "credit_id": "5c43b8b4c3a3681a0e2370d4",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88858,
+        "known_for_department": "Production",
+        "name": "Aleksi Bardy",
+        "original_name": "Aleksi Bardy",
+        "popularity": 0.1079,
+        "profile_path": "/mj7TDCzg7fqt5lLsYGyXcXQMsdu.jpg",
+        "credit_id": "5c43b8c99251412bf4dcb5b1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88858,
+        "known_for_department": "Production",
+        "name": "Aleksi Bardy",
+        "original_name": "Aleksi Bardy",
+        "popularity": 0.1079,
+        "profile_path": "/mj7TDCzg7fqt5lLsYGyXcXQMsdu.jpg",
+        "credit_id": "5c43b8a5c3a3681a09236bfa",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88863,
+        "known_for_department": "Writing",
+        "name": "Mika Ripatti",
+        "original_name": "Mika Ripatti",
+        "popularity": 0.0978,
+        "profile_path": null,
+        "credit_id": "5c43b89a0e0a266d5ad1f971",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  }
+}

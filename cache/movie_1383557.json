@@ -1,0 +1,219 @@
+{
+  "adult": false,
+  "backdrop_path": "/pX4CA2Ul2hnuTrQuq8gaXtJc49u.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1383557,
+  "imdb_id": "tt27330370",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "en",
+  "original_title": "Revival",
+  "overview": "Two robbers on the run end up in the clutches of a doctor who experiments on people to navigate the afterlife. What seems to be an innocuous foray into a scientific and existential revolution for humanity soon takes a turn for the worse.",
+  "popularity": 9.2637,
+  "poster_path": "/1XiRapIjZwJBOVj2ZH3kx74jyVb.jpg",
+  "production_companies": [
+    {
+      "id": 113249,
+      "logo_path": null,
+      "name": "Enjoy Movies (I)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2024-11-28",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Revival",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54649,
+        "known_for_department": "Acting",
+        "name": "Louis Mandylor",
+        "original_name": "Louis Mandylor",
+        "popularity": 1.4703,
+        "profile_path": "/skvNBR83wxjbFj6XuLxWAhCZTmh.jpg",
+        "cast_id": 2,
+        "character": "Rich",
+        "credit_id": "672b4e0c26b605bc19e5a2f4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60650,
+        "known_for_department": "Acting",
+        "name": "Michael Paré",
+        "original_name": "Michael Paré",
+        "popularity": 1.9191,
+        "profile_path": "/jxrXW8OL6hwJgtJgePdMO5yHuAM.jpg",
+        "cast_id": 3,
+        "character": "Martin",
+        "credit_id": "672b4e1b42bec49877806932",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3060587,
+        "known_for_department": "Acting",
+        "name": "Yonv Joseph",
+        "original_name": "Yonv Joseph",
+        "popularity": 0.0848,
+        "profile_path": "/uewtdpOglyHZHyo8vAMkeN9znw9.jpg",
+        "cast_id": 4,
+        "character": "Grant",
+        "credit_id": "672b4e2a433c82ea267e9497",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 592528,
+        "known_for_department": "Acting",
+        "name": "Nathalie Rapti Gomez",
+        "original_name": "Nathalie Rapti Gomez",
+        "popularity": 0.3529,
+        "profile_path": "/3xmsqNOBOs19rfGDviUF3KFMSSJ.jpg",
+        "cast_id": 5,
+        "character": "Tara",
+        "credit_id": "672b4e404b30e929cd6ee0a3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90117,
+        "known_for_department": "Acting",
+        "name": "James Chalke",
+        "original_name": "James Chalke",
+        "popularity": 0.2479,
+        "profile_path": "/83XksAzD5WoJHErDBgjYQ3NrVM6.jpg",
+        "cast_id": 6,
+        "character": "Nathan",
+        "credit_id": "672b4e4f433c82ea267e94ab",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5143409,
+        "known_for_department": "Acting",
+        "name": "Giovanni Bufalini",
+        "original_name": "Giovanni Bufalini",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "6829ad937d5cfbe96b0bd2d8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446387,
+        "known_for_department": "Acting",
+        "name": "Violetta Jackson",
+        "original_name": "Violetta Jackson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "6829ada1ae9bc84d12f5578b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2041154,
+        "known_for_department": "Acting",
+        "name": "Naya Manson",
+        "original_name": "Naya Manson",
+        "popularity": 0.0429,
+        "profile_path": "/eItX5RTAmPchzVpvRPjb6SLe7Rl.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "6829adad15a01d5a44e2473d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84262,
+        "known_for_department": "Acting",
+        "name": "Robert Madison",
+        "original_name": "Robert Madison",
+        "popularity": 0.1915,
+        "profile_path": "/1y3GPJRuRebLM018GOFS16BlNgF.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "6829adb71454889f4b8c0217",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1289315,
+        "known_for_department": "Camera",
+        "name": "Dario Germani",
+        "original_name": "Dario Germani",
+        "popularity": 0.0429,
+        "profile_path": "/yauxyQ3BpD1zVS9lvAiu4erIeil.jpg",
+        "credit_id": "672b4df04b30e929cd6ee08a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4418351,
+        "known_for_department": "Directing",
+        "name": "Justin DiSandro",
+        "original_name": "Justin DiSandro",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6829ad777e07d6ffec9e30cf",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

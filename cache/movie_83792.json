@@ -1,0 +1,247 @@
+{
+  "adult": false,
+  "backdrop_path": "/hx3UIE1dpczzdZuo02rTkAxAxy1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 83792,
+  "imdb_id": "tt0037764",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hare Tonic",
+  "overview": "When Elmer Fudd brings Bugs Bunny home for dinner main course, Bugs tricks him into thinking there is a terrible outbreak of Rabbititus.",
+  "popularity": 7.6974,
+  "poster_path": "/ptPVUHBbsbT0vzxzdJzIb2kagMz.jpg",
+  "production_companies": [
+    {
+      "id": 8298,
+      "logo_path": "/r6cuEYq7DqrHCNVa7vSanTS0cuw.png",
+      "name": "Warner Bros. Cartoons",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1945-11-10",
+  "revenue": 0,
+  "runtime": 8,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hare Tonic",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 40,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33923,
+        "known_for_department": "Acting",
+        "name": "Mel Blanc",
+        "original_name": "Mel Blanc",
+        "popularity": 0.7183,
+        "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+        "cast_id": 2,
+        "character": "Bugs Bunny (voice)",
+        "credit_id": "52fe48c09251416c91097287",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147117,
+        "known_for_department": "Acting",
+        "name": "Arthur Q. Bryan",
+        "original_name": "Arthur Q. Bryan",
+        "popularity": 0.4926,
+        "profile_path": "/hvNjp2xYVPgPqPNM4no24myzBUw.jpg",
+        "cast_id": 3,
+        "character": "Elmer Fudd (voice) (uncredited)",
+        "credit_id": "52fe48c09251416c9109728b",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100888,
+        "known_for_department": "Directing",
+        "name": "Chuck Jones",
+        "original_name": "Chuck Jones",
+        "popularity": 0.4711,
+        "profile_path": "/6LaYJXpfX6hry3mT8QTEGCPIUdi.jpg",
+        "credit_id": "52fe48c09251416c91097283",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 375782,
+        "known_for_department": "Writing",
+        "name": "Tedd Pierce",
+        "original_name": "Tedd Pierce",
+        "popularity": 0.433,
+        "profile_path": "/9S5zyGnMPpPXgRVLiq6rr9ioFjZ.jpg",
+        "credit_id": "52fe48c09251416c91097291",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 155076,
+        "known_for_department": "Visual Effects",
+        "name": "Ken Harris",
+        "original_name": "Ken Harris",
+        "popularity": 0.6739,
+        "profile_path": null,
+        "credit_id": "660b32b315dea00162330313",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 573309,
+        "known_for_department": "Visual Effects",
+        "name": "Lloyd Vaughan",
+        "original_name": "Lloyd Vaughan",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "credit_id": "660b32c79c97bd0163a35119",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113285,
+        "known_for_department": "Visual Effects",
+        "name": "Ben Washam",
+        "original_name": "Ben Washam",
+        "popularity": 0.6644,
+        "profile_path": "/7qyzNgVAcuzgtOjqYffkGp7YzpO.jpg",
+        "credit_id": "660b32d7da9ef2014a555bd7",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143784,
+        "known_for_department": "Visual Effects",
+        "name": "Basil Davidovich",
+        "original_name": "Basil Davidovich",
+        "popularity": 1.0237,
+        "profile_path": null,
+        "credit_id": "660b32ece039f10130e415a2",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551674,
+        "known_for_department": "Sound",
+        "name": "Carl W. Stalling",
+        "original_name": "Carl W. Stalling",
+        "popularity": 0.3613,
+        "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+        "credit_id": "660b335a9c97bd017ca4054a",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4628206,
+        "known_for_department": "Visual Effects",
+        "name": "Earl Klein",
+        "original_name": "Earl Klein",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "660b342c149565017dba6caf",
+        "department": "Visual Effects",
+        "job": "Layout Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4628206,
+        "known_for_department": "Visual Effects",
+        "name": "Earl Klein",
+        "original_name": "Earl Klein",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "660b34741fd36f017c9a9b7f",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 573543,
+        "known_for_department": "Visual Effects",
+        "name": "Robert Gribbroek",
+        "original_name": "Robert Gribbroek",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "660b348b9c97bd017ca405e4",
+        "department": "Visual Effects",
+        "job": "Layout Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 573543,
+        "known_for_department": "Visual Effects",
+        "name": "Robert Gribbroek",
+        "original_name": "Robert Gribbroek",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "660b349dc8a5ac017c789f34",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.2431,
+        "profile_path": null,
+        "credit_id": "5b720d12925141404f16b021",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

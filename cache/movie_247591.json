@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": {
+    "id": 1108201,
+    "name": "Tutto Totò Collezione",
+    "poster_path": "/pXd74V74blZcSiS04nFTN6lbAzk.jpg",
+    "backdrop_path": "/d5Lf4gvtfOUrjsRpVZzujsuV2yv.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 247591,
+  "imdb_id": "tt0164872",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Tutto Totò - La scommessa",
+  "overview": "",
+  "popularity": 5.4932,
+  "poster_path": "/i1SMw3GfqLPwL0tXdWiZlmAQokf.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "1967-01-31",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tutto Totò - La scommessa",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132190,
+        "known_for_department": "Acting",
+        "name": "Totò",
+        "original_name": "Totò",
+        "popularity": 0.5888,
+        "profile_path": "/x8sM4HlITfhAoXJ2FZrQA7wFgXg.jpg",
+        "cast_id": 0,
+        "character": "Oberdan Lo Cascio",
+        "credit_id": "54bc5bc5c3a368142100625b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46547,
+        "known_for_department": "Acting",
+        "name": "Luisella Boni",
+        "original_name": "Luisella Boni",
+        "popularity": 0.2181,
+        "profile_path": "/zzNCPzuuYIn249Ug9cKClMrZQNn.jpg",
+        "cast_id": 1,
+        "character": "Bianca",
+        "credit_id": "5b141ed70e0a262de200076a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39019,
+        "known_for_department": "Acting",
+        "name": "Mario Pisu",
+        "original_name": "Mario Pisu",
+        "popularity": 0.4995,
+        "profile_path": "/9nEleEKOn0IVbRINF9vmywBgKBr.jpg",
+        "cast_id": 2,
+        "character": "Avv. Giulio Cesare",
+        "credit_id": "5b141efd0e0a262dd90008ef",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132198,
+        "known_for_department": "Acting",
+        "name": "Mario Castellani",
+        "original_name": "Mario Castellani",
+        "popularity": 0.4913,
+        "profile_path": "/daML7rNZgbeM1XuyoJWtjG7SLxr.jpg",
+        "cast_id": 3,
+        "character": "Maître",
+        "credit_id": "5b141f0d0e0a262df4000824",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14814,
+        "known_for_department": "Acting",
+        "name": "Walter Chiari",
+        "original_name": "Walter Chiari",
+        "popularity": 0.6842,
+        "profile_path": "/aRxI3J9SxBefqXkgcSay5XaU9G5.jpg",
+        "cast_id": 4,
+        "character": "Walter Chiari",
+        "credit_id": "5b141f170e0a262ddf000836",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 998380,
+        "known_for_department": "Acting",
+        "name": "Ivy Holzer",
+        "original_name": "Ivy Holzer",
+        "popularity": 0.1626,
+        "profile_path": "/dPkTMqVxRpkYT9U4ztg4T7NiGXE.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "5b141f280e0a262de2000799",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1659730,
+        "known_for_department": "Acting",
+        "name": "Dino Valdi",
+        "original_name": "Dino Valdi",
+        "popularity": 0.1376,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "5b141f34925141782b0006a2",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50002,
+        "known_for_department": "Directing",
+        "name": "Daniele D'Anza",
+        "original_name": "Daniele D'Anza",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "62f20767350398008212cde7",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

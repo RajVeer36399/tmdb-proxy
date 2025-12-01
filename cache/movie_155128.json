@@ -1,0 +1,243 @@
+{
+  "adult": false,
+  "backdrop_path": "/2wrUTwjGBnDc5F0TnKV6c5pgPaE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 155128,
+  "imdb_id": "tt0071362",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il corpo",
+  "overview": "A beautiful woman who lives on an island with her abusive husband, entices a young man into a murder-for-money plot.",
+  "popularity": 11.3868,
+  "poster_path": "/mWzxyWAxkv5q3VRw34UCW70JWk8.jpg",
+  "production_companies": [
+    {
+      "id": 4745,
+      "logo_path": null,
+      "name": "Produzioni Atlas Consorziate",
+      "origin_country": "IT"
+    },
+    {
+      "id": 64910,
+      "logo_path": null,
+      "name": "Filmarpa",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1974-03-06",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Shape of Things to Come!",
+  "title": "The Body",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32377,
+        "known_for_department": "Acting",
+        "name": "Enrico Maria Salerno",
+        "original_name": "Enrico Maria Salerno",
+        "popularity": 2.0072,
+        "profile_path": "/hiiJVxSyTVKq1OK4gVqGy0xu542.jpg",
+        "cast_id": 10,
+        "character": "Antoine",
+        "credit_id": "57396207c3a36813e2000cbf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 236582,
+        "known_for_department": "Acting",
+        "name": "Zeudi Araya",
+        "original_name": "Zeudi Araya",
+        "popularity": 0.6255,
+        "profile_path": "/5NYaBpwRHzGMZjaI2qqIQGSs3VO.jpg",
+        "cast_id": 8,
+        "character": "Princess",
+        "credit_id": "573961edc3a3684d4900295d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107223,
+        "known_for_department": "Acting",
+        "name": "Leonard Mann",
+        "original_name": "Leonard Mann",
+        "popularity": 0.6669,
+        "profile_path": "/bB1CIyXrmK276zsAnONYBxWwlwD.jpg",
+        "cast_id": 9,
+        "character": "Alan",
+        "credit_id": "573961fac3a36831620007f0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14701,
+        "known_for_department": "Acting",
+        "name": "Carroll Baker",
+        "original_name": "Carroll Baker",
+        "popularity": 1.2898,
+        "profile_path": "/ui9gwewS5Ofb2sop0ZWN9G8Yako.jpg",
+        "cast_id": 7,
+        "character": "Madeliene",
+        "credit_id": "573961e2c3a36831cb0008be",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239666,
+        "known_for_department": "Acting",
+        "name": "Luigi Antonio Guerra",
+        "original_name": "Luigi Antonio Guerra",
+        "popularity": 0.391,
+        "profile_path": "/2MH1gI5p2Zy0YUfjzeyYlexLj6U.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "57396210c3a3685aa40038f6",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 978927,
+        "known_for_department": "Writing",
+        "name": "Massimo Felisatti",
+        "original_name": "Massimo Felisatti",
+        "popularity": 0.1512,
+        "profile_path": null,
+        "credit_id": "52fe4b749251416c910daf69",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 103132,
+        "known_for_department": "Writing",
+        "name": "Fabio Pittorru",
+        "original_name": "Fabio Pittorru",
+        "popularity": 0.1223,
+        "profile_path": null,
+        "credit_id": "52fe4b749251416c910daf6f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101142,
+        "known_for_department": "Directing",
+        "name": "Luigi Scattini",
+        "original_name": "Luigi Scattini",
+        "popularity": 0.351,
+        "profile_path": null,
+        "credit_id": "52fe4b759251416c910daf75",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101142,
+        "known_for_department": "Directing",
+        "name": "Luigi Scattini",
+        "original_name": "Luigi Scattini",
+        "popularity": 0.351,
+        "profile_path": null,
+        "credit_id": "52fe4b759251416c910daf7b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91546,
+        "known_for_department": "Sound",
+        "name": "Piero Umiliani",
+        "original_name": "Piero Umiliani",
+        "popularity": 0.5053,
+        "profile_path": "/fvUySwSc1IzL1OmO6biTUWDSzi0.jpg",
+        "credit_id": "5739623ac3a36831cb0008d3",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1086922,
+        "known_for_department": "Crew",
+        "name": "Antonio Borghesi",
+        "original_name": "Antonio Borghesi",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5739625bc3a36819190009d4",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1620944,
+        "known_for_department": "Editing",
+        "name": "Graziella Zita",
+        "original_name": "Graziella Zita",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "5739629192514177b0000377",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 333662,
+        "known_for_department": "Production",
+        "name": "Giovanni Di Clemente",
+        "original_name": "Giovanni Di Clemente",
+        "popularity": 0.3915,
+        "profile_path": null,
+        "credit_id": "5efec8acf03174003751e4a0",
+        "department": "Production",
+        "job": "Unit Manager"
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 294640,
+  "imdb_id": "tt3774870",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Utóélet",
+  "overview": "A heavily neurotic young man starts to see his father's ghost, and while he helps the spirit cross to the otherworld, something happens that they could never achieve in their common life: they finally understand each other.",
+  "popularity": 5.513,
+  "poster_path": "/9SSrxb6ETYrrH9RxtSen5oWvZ8W.jpg",
+  "production_companies": [
+    {
+      "id": 17432,
+      "logo_path": "/wrmpBz1aEednbIOutgO1dBU7mCU.png",
+      "name": "KMH Film",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2014-09-11",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Afterlife",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367052,
+        "known_for_department": "Acting",
+        "name": "Márton Kristóf",
+        "original_name": "Márton Kristóf",
+        "popularity": 0.093,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Mózes",
+        "credit_id": "5422000e0e0a263b7a0000b8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56300,
+        "known_for_department": "Acting",
+        "name": "László Gálffi",
+        "original_name": "László Gálffi",
+        "popularity": 0.3318,
+        "profile_path": "/eORuPpYKjH9RVr5NyRwJgDl592F.jpg",
+        "cast_id": 2,
+        "character": "Mózes's father",
+        "credit_id": "54293933c3a36806b30005fa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131215,
+        "known_for_department": "Acting",
+        "name": "Zsolt Anger",
+        "original_name": "Anger Zsolt",
+        "popularity": 0.2335,
+        "profile_path": "/jfZ4BXMMLfz8uzrQJFn5N4UGrHE.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "542939540e0a265562004d93",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1368669,
+        "known_for_department": "Acting",
+        "name": "Andrea Petrik",
+        "original_name": "Andrea Petrik",
+        "popularity": 0.2281,
+        "profile_path": "/1y34bbi9WnmTChTUhxNEEJfUgkp.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "54293967c3a36806bf0005b9",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3245164,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nóra Zelenka",
+        "original_name": "Nóra Zelenka",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "614dc4c1326ec10044585815",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1367051,
+        "known_for_department": "Writing",
+        "name": "Virág Zomborácz",
+        "original_name": "Virág Zomborácz",
+        "popularity": 0.0853,
+        "profile_path": "/b57dGTFoOeXYm8phXOPM1osRazH.jpg",
+        "credit_id": "5421ffcdc3a368087d00009b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1367051,
+        "known_for_department": "Writing",
+        "name": "Virág Zomborácz",
+        "original_name": "Virág Zomborácz",
+        "popularity": 0.0853,
+        "profile_path": "/b57dGTFoOeXYm8phXOPM1osRazH.jpg",
+        "credit_id": "5429397fc3a36806b8000648",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556736,
+        "known_for_department": "Camera",
+        "name": "Gergely Pohárnok",
+        "original_name": "Gergely Pohárnok",
+        "popularity": 1.439,
+        "profile_path": "/vGSbuC8CVLhjpuMokn0vtHkXYgU.jpg",
+        "credit_id": "542939a2c3a36806bc000599",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 960383,
+        "known_for_department": "Sound",
+        "name": "Adam Balazs",
+        "original_name": "Adam Balazs",
+        "popularity": 0.4117,
+        "profile_path": null,
+        "credit_id": "556993f4c3a36876bd0010cf",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

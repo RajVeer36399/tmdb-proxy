@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1224632,
+  "imdb_id": "tt0017465",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Three Pals",
+  "overview": "The daughter of a Kentucky colonel returns from her European finishing school to help prove his innocence as he is accused of killing a major with whom he had a feud over money.",
+  "popularity": 5.0578,
+  "poster_path": "/anpR6jWh7twl9VVqzBcqS8xqcWP.jpg",
+  "production_companies": [
+    {
+      "id": 217195,
+      "logo_path": null,
+      "name": "Marilyn Mills Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1926-01-05",
+  "revenue": 0,
+  "runtime": 54,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Three Pals",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1485448,
+        "known_for_department": "Acting",
+        "name": "Marilyn Mills",
+        "original_name": "Marilyn Mills",
+        "popularity": 0.1094,
+        "profile_path": "/ayZzq6fSFzTYESgc8yG79sWVY4M.jpg",
+        "cast_id": 3,
+        "character": "Betty Girard",
+        "credit_id": "659138b6e004a66c95179e86",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133099,
+        "known_for_department": "Acting",
+        "name": "Josef Swickard",
+        "original_name": "Josef Swickard",
+        "popularity": 0.1373,
+        "profile_path": "/fvkxWMqUjAmbHrBD1a0J2U4PIMO.jpg",
+        "cast_id": 4,
+        "character": "Col. Girard",
+        "credit_id": "659138cd651fcf5f688df605",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405084,
+        "known_for_department": "Acting",
+        "name": "William H. Turner",
+        "original_name": "William H. Turner",
+        "popularity": 0.3969,
+        "profile_path": "/gcXPGWczFSEyZN7Jg6ULXnB2rXK.jpg",
+        "cast_id": 5,
+        "character": "Maj. Wingate",
+        "credit_id": "65913943e640d602e2d559ed",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4068,
+        "known_for_department": "Acting",
+        "name": "Gary Cooper",
+        "original_name": "Gary Cooper",
+        "popularity": 1.0393,
+        "profile_path": "/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg",
+        "cast_id": 6,
+        "character": "Car Driver Flirting with Betty",
+        "credit_id": "6591396ce004a66ef0170b64",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046104,
+        "known_for_department": "Directing",
+        "name": "Wilbur McGaugh",
+        "original_name": "Wilbur McGaugh",
+        "popularity": 0.1089,
+        "profile_path": null,
+        "credit_id": "659137f94f9a9975267728eb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092484,
+        "known_for_department": "Acting",
+        "name": "Bruce Mitchell",
+        "original_name": "Bruce Mitchell",
+        "popularity": 0.0961,
+        "profile_path": null,
+        "credit_id": "659138396aa8e06153eb450a",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

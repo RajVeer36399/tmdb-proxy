@@ -1,0 +1,308 @@
+{
+  "adult": false,
+  "backdrop_path": "/3U8bsnnvKKx11zSXdVGFkq7Frpd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 198645,
+  "imdb_id": "tt0068378",
+  "origin_country": [
+    "IT",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Chère Louise",
+  "overview": "Louise lives alone and seems to like it that way. She has been through a divorce and the recent death of her mother. Recently, she has moved to Annecy, a moderate-sized city, to take work as a schoolteacher. She encounters a much younger man, Luigi, an Italian who is down on his luck. Though he moved to France to find work, he was robbed of his money and papers and is stranded. When he helps her bury her dogs, which her neighbour has poisoned for barking, their relationship grows to a new level.",
+  "popularity": 6.7694,
+  "poster_path": "/tGddRdi3Obr3giogyrpV53nlskt.jpg",
+  "production_companies": [
+    {
+      "id": 7110,
+      "logo_path": null,
+      "name": "Les Films Ariane",
+      "origin_country": "FR"
+    },
+    {
+      "id": 174077,
+      "logo_path": null,
+      "name": "CC Champion",
+      "origin_country": ""
+    },
+    {
+      "id": 63235,
+      "logo_path": null,
+      "name": "Columbia France",
+      "origin_country": ""
+    },
+    {
+      "id": 1650,
+      "logo_path": null,
+      "name": "Productions et Éditions Cinématographiques Françaises",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1972-09-06",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dear Louise",
+  "video": false,
+  "vote_average": 5.143,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14812,
+        "known_for_department": "Acting",
+        "name": "Jeanne Moreau",
+        "original_name": "Jeanne Moreau",
+        "popularity": 0.6971,
+        "profile_path": "/lsIlRbcStJev5n1mypIeUUYKWuy.jpg",
+        "cast_id": 1,
+        "character": "Louise",
+        "credit_id": "52fe4d849251416c91118e4f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226071,
+        "known_for_department": "Acting",
+        "name": "Julian Negulesco",
+        "original_name": "Julian Negulesco",
+        "popularity": 0.111,
+        "profile_path": "/u3P9LVTiAkEmkB1xWxlFxpSgxRx.jpg",
+        "cast_id": 2,
+        "character": "Luigi",
+        "credit_id": "52fe4d849251416c91118e53",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99528,
+        "known_for_department": "Acting",
+        "name": "Didi Perego",
+        "original_name": "Didi Perego",
+        "popularity": 0.2771,
+        "profile_path": "/9xHul6trDwdRq6hglZRfhPmYYMB.jpg",
+        "cast_id": 3,
+        "character": "Frédérique Chibert",
+        "credit_id": "52fe4d849251416c91118e57",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25182,
+        "known_for_department": "Acting",
+        "name": "Yves Robert",
+        "original_name": "Yves Robert",
+        "popularity": 0.1678,
+        "profile_path": "/lv3f0e23sHuZ3B1KFb98nRe3WYR.jpg",
+        "cast_id": 4,
+        "character": "Magnéto, cycle merchant",
+        "credit_id": "52fe4d849251416c91118e5b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001018,
+        "known_for_department": "Acting",
+        "name": "Pippo Starnazza",
+        "original_name": "Pippo Starnazza",
+        "popularity": 0.76,
+        "profile_path": "/d3aXDaCuiBxm1vvNzke5JuRfibE.jpg",
+        "cast_id": 11,
+        "character": "Old Italian",
+        "credit_id": "626558aad1a8937094c18aee",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35362,
+        "known_for_department": "Acting",
+        "name": "Louis Navarre",
+        "original_name": "Louis Navarre",
+        "popularity": 0.0988,
+        "profile_path": "/n0whertBdC6X1KxTMtQScdf8iWX.jpg",
+        "cast_id": 12,
+        "character": "Lucien Pulpon",
+        "credit_id": "626558b67caa4714b4e865cf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35247,
+        "known_for_department": "Acting",
+        "name": "Luce Fabiole",
+        "original_name": "Luce Fabiole",
+        "popularity": 0.1141,
+        "profile_path": "/gpoMtmvKPGcQ4tDFYcTi16B5eei.jpg",
+        "cast_id": 13,
+        "character": "Anna",
+        "credit_id": "626558c1f495ee303a83705f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131973,
+        "known_for_department": "Acting",
+        "name": "Jenny Arasse",
+        "original_name": "Jenny Arasse",
+        "popularity": 0.1583,
+        "profile_path": "/pbTPPIfTeT7N3wjYfWQwvi99ksE.jpg",
+        "cast_id": 14,
+        "character": "Pauline",
+        "credit_id": "62655a1514956516539b38fa",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24884,
+        "known_for_department": "Acting",
+        "name": "Lucienne Legrand",
+        "original_name": "Lucienne Legrand",
+        "popularity": 0.7666,
+        "profile_path": "/31BZZj4j3DhavI841MgFHqCt7bS.jpg",
+        "cast_id": 15,
+        "character": "Miss Jacquier, landlady",
+        "credit_id": "62655a3caaec710067bd4263",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 581118,
+        "known_for_department": "Acting",
+        "name": "Haydée Caillot",
+        "original_name": "Haydée Caillot",
+        "popularity": 0.1103,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Customer at the cycle store (uncredited)",
+        "credit_id": "62655a4ae329430066d23d67",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34613,
+        "known_for_department": "Directing",
+        "name": "Philippe de Broca",
+        "original_name": "Philippe de Broca",
+        "popularity": 0.1336,
+        "profile_path": "/78DpaNfRB0kSDVzWeeOxYiYHBjt.jpg",
+        "credit_id": "5547566ec3a368573b00617a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25183,
+        "known_for_department": "Writing",
+        "name": "Jean-Loup Dabadie",
+        "original_name": "Jean-Loup Dabadie",
+        "popularity": 0.1623,
+        "profile_path": "/1ip5JS8ttItGVdYgfv2QV03MSvT.jpg",
+        "credit_id": "5ac8481992514162b70335c2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535,
+        "known_for_department": "Sound",
+        "name": "Georges Delerue",
+        "original_name": "Georges Delerue",
+        "popularity": 0.3215,
+        "profile_path": "/xKRsHzgZicN1KCUmnl4M09TVCxE.jpg",
+        "credit_id": "5ac8485092514162a80316ce",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1717930,
+        "known_for_department": "Writing",
+        "name": "Jean-Louis Curtis",
+        "original_name": "Jean-Louis Curtis",
+        "popularity": 0.0539,
+        "profile_path": "/2Bputf1xvwJAEzXD4PyHnMFID0S.jpg",
+        "credit_id": "5ac848250e0a26496703a368",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35374,
+        "known_for_department": "Editing",
+        "name": "Françoise Javet",
+        "original_name": "Françoise Javet",
+        "popularity": 0.3875,
+        "profile_path": null,
+        "credit_id": "5ac8483bc3a36834ce034745",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22456,
+        "known_for_department": "Camera",
+        "name": "Ricardo Aronovich",
+        "original_name": "Ricardo Aronovich",
+        "popularity": 0.1965,
+        "profile_path": "/o2QWEP5qukfzaQER9PfR2KQv0HW.jpg",
+        "credit_id": "5ac8483092514162b703367c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/pFCm7WLLpno4opmqqQS4GXZ8V7M.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81697085",
+  "id": 1581099,
+  "imdb_id": "tt38948229",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Kevin Hart: Acting My Age",
+  "overview": "Older, wiser — and still hilarious. Kevin Hart opens up about his midlife mishaps, from intimacy pills to the perils of unexpected injuries.",
+  "popularity": 18.117,
+  "poster_path": "/89HPieER8jX9sGKKzhagGIGkMxi.jpg",
+  "production_companies": [
+    {
+      "id": 40268,
+      "logo_path": "/shdAxUj8uF6exNLrF0kSqYVxCzG.png",
+      "name": "HartBeat Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-23",
+  "revenue": 0,
+  "runtime": 66,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kevin Hart: Acting My Age",
+  "video": false,
+  "vote_average": 6.333,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55638,
+        "known_for_department": "Acting",
+        "name": "Kevin Hart",
+        "original_name": "Kevin Hart",
+        "popularity": 5.8523,
+        "profile_path": "/byiNydUlM6oP8diA7WMvYbNM7a1.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "69183a3a535cb85e69ac2d44",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55638,
+        "known_for_department": "Acting",
+        "name": "Kevin Hart",
+        "original_name": "Kevin Hart",
+        "popularity": 5.8523,
+        "profile_path": "/byiNydUlM6oP8diA7WMvYbNM7a1.jpg",
+        "credit_id": "69183a3f591b1bb437a0e771",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559968,
+        "known_for_department": "Directing",
+        "name": "Leslie Small",
+        "original_name": "Leslie Small",
+        "popularity": 0.4499,
+        "profile_path": null,
+        "credit_id": "69183a9beacffe65b23a4b3d",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

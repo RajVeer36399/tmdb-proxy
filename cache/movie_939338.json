@@ -1,0 +1,669 @@
+{
+  "adult": false,
+  "backdrop_path": "/qZOuoBoKCDLSm1EvYz2eBub8Cto.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 939338,
+  "imdb_id": "tt22360682",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Pattie et la colère de Poséidon",
+  "overview": "An adventurous mouse sets off to battle dangerous creatures in Ancient Greece, including Poseidon.",
+  "popularity": 6.7555,
+  "poster_path": "/gVPw9gRPsZZhzY6cIXp6h6nep5M.jpg",
+  "production_companies": [
+    {
+      "id": 28792,
+      "logo_path": "/v50Ht1JMylIOeMfjHGO9u4YU6iF.png",
+      "name": "TAT Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 49755,
+      "logo_path": "/iom7Z8e1dzoTfCvwq8F4bJvbeIJ.png",
+      "name": "Apollo Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11699,
+      "logo_path": "/83QgqlqE0sqlpyDNfelHdUlkw6E.png",
+      "name": "Sacem",
+      "origin_country": "FR"
+    },
+    {
+      "id": 18626,
+      "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
+      "name": "Kinology",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2023-01-25",
+  "revenue": 4834952,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Small heroes, big adventure.",
+  "title": "Epic Tails",
+  "video": false,
+  "vote_average": 6.829,
+  "vote_count": 126,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1643163,
+        "known_for_department": "Acting",
+        "name": "Kaycie Chase",
+        "original_name": "Kaycie Chase",
+        "popularity": 0.8042,
+        "profile_path": "/tis8Xvy8ALtFc9Kt7JBma0ze3Xp.jpg",
+        "cast_id": 6,
+        "character": "Pattie (voice)",
+        "credit_id": "637ea48285b105008773ff88",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341087,
+        "known_for_department": "Acting",
+        "name": "Christophe Lemoine",
+        "original_name": "Christophe Lemoine",
+        "popularity": 0.1864,
+        "profile_path": "/fyjVqfL1npazimpk6BasLo5iUvE.jpg",
+        "cast_id": 7,
+        "character": "Sam (voice)",
+        "credit_id": "63b3762b0102c900b7bfffff",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37181,
+        "known_for_department": "Acting",
+        "name": "Emmanuel Curtil",
+        "original_name": "Emmanuel Curtil",
+        "popularity": 0.2469,
+        "profile_path": "/tQO8K30BgUC9SIEvj9I2286hsbF.jpg",
+        "cast_id": 8,
+        "character": "Chickos (voice)",
+        "credit_id": "63b376545ad76b00e6f9e87d",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 919016,
+        "known_for_department": "Acting",
+        "name": "Michel Tureau",
+        "original_name": "Michel Tureau",
+        "popularity": 1.533,
+        "profile_path": "/rJ4lsS5oE55tnvyl7IhmlOiP5vs.jpg",
+        "cast_id": 18,
+        "character": "Jason (voice)",
+        "credit_id": "63e7a08863aad20085872a7f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24501,
+        "known_for_department": "Acting",
+        "name": "Pierre Richard",
+        "original_name": "Pierre Richard",
+        "popularity": 1.2777,
+        "profile_path": "/2hTxDJOdBrvqJy8yFHnLzqG4yBe.jpg",
+        "cast_id": 9,
+        "character": "Zeus (voice)",
+        "credit_id": "63b3766d391b9c00c2d8773b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1872006,
+        "known_for_department": "Acting",
+        "name": "Frantz Confiac",
+        "original_name": "Frantz Confiac",
+        "popularity": 0.1164,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Bernardo (voice)",
+        "credit_id": "63f9f2b184f249007bef39fd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632533,
+        "known_for_department": "Acting",
+        "name": "Jérôme Pauwels",
+        "original_name": "Jérôme Pauwels",
+        "popularity": 0.0961,
+        "profile_path": "/pvU2lnRSpVuHULw2LbPfYR7Czu2.jpg",
+        "cast_id": 10,
+        "character": "Gerardo / Vito (voice)",
+        "credit_id": "63b3769e0102c9007bf4c9a4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1336655,
+        "known_for_department": "Acting",
+        "name": "Barbara Tissier",
+        "original_name": "Barbara Tissier",
+        "popularity": 0.1283,
+        "profile_path": "/oAhObnVhqsdJHO6vlMuW2a82Mwa.jpg",
+        "cast_id": 16,
+        "character": "Aphrodite (voice)",
+        "credit_id": "63b3778a5ad76b007dc8b394",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1446164,
+        "known_for_department": "Acting",
+        "name": "Paul Borne",
+        "original_name": "Paul Borne",
+        "popularity": 0.1535,
+        "profile_path": "/vjhn44K5M5A3eSdqslscrNCtBSY.jpg",
+        "cast_id": 13,
+        "character": "Poseidon (voice)",
+        "credit_id": "63b37711c56d2d00d843ec90",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1497778,
+        "known_for_department": "Acting",
+        "name": "Emmanuel Garijo",
+        "original_name": "Emmanuel Garijo",
+        "popularity": 0.3431,
+        "profile_path": "/ept2JUdN35WonXZgLLkA1Mr4uSL.jpg",
+        "cast_id": 11,
+        "character": "Apollon (voice)",
+        "credit_id": "63b376ba391b9c0083c160e8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2433832,
+        "known_for_department": "Acting",
+        "name": "Valérie Siclay",
+        "original_name": "Valérie Siclay",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Hera (voice)",
+        "credit_id": "63f9f2f625a53600dd6c5dd3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583852,
+        "known_for_department": "Acting",
+        "name": "Julien Bouanich",
+        "original_name": "Julien Bouanich",
+        "popularity": 0.608,
+        "profile_path": "/6ILUyFRrYy6S8f11s2d5US9RArl.jpg",
+        "cast_id": 12,
+        "character": "Hermes (voice)",
+        "credit_id": "63b377050102c900b7c0009d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1679078,
+        "known_for_department": "Acting",
+        "name": "Serge Biavan",
+        "original_name": "Serge Biavan",
+        "popularity": 0.1341,
+        "profile_path": "/yey8to3GAsd77DBJ9c2sj6meDBo.jpg",
+        "cast_id": 21,
+        "character": "Grumos (voice)",
+        "credit_id": "63f9f3346aa8e000c62c0886",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1446166,
+        "known_for_department": "Acting",
+        "name": "Pascal Casanova",
+        "original_name": "Pascal Casanova",
+        "popularity": 0.1559,
+        "profile_path": "/4zwM07CCAy6Uw4gws83SaQSDvqp.jpg",
+        "cast_id": 14,
+        "character": "Krados (voice)",
+        "credit_id": "63b3775c0102c900cc5de633",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1744181,
+        "known_for_department": "Acting",
+        "name": "Céline Monsarrat",
+        "original_name": "Céline Monsarrat",
+        "popularity": 0.0286,
+        "profile_path": "/sEdsZOlvdSPxNZ5PGlAYGGZDFw2.jpg",
+        "cast_id": 15,
+        "character": "Maites (voice)",
+        "credit_id": "63b377715ad76b0094c8ee69",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3852448,
+        "known_for_department": "Acting",
+        "name": "Aloïs Le Labourier Tiêu",
+        "original_name": "Aloïs Le Labourier Tiêu",
+        "popularity": 0.082,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "John (voice)",
+        "credit_id": "63f9f39425a53600dd6c5dfd",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3938299,
+        "known_for_department": "Acting",
+        "name": "Juliette Davis",
+        "original_name": "Juliette Davis",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Terry (voice)",
+        "credit_id": "63f9f3e184f24900ef610931",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1373142,
+        "known_for_department": "Acting",
+        "name": "Magali Rosenzweig",
+        "original_name": "Magali Rosenzweig",
+        "popularity": 0.1918,
+        "profile_path": "/fxJwBSbgrNMbAh4cDBSDmLVeJuv.jpg",
+        "cast_id": 24,
+        "character": "Theresa (voice)",
+        "credit_id": "63f9f3f296e30b00be59712f",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3938302,
+        "known_for_department": "Acting",
+        "name": "Arthur Raynal",
+        "original_name": "Arthur Raynal",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Luigi (voice)",
+        "credit_id": "63f9f41a25a53600b7089876",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1263069,
+        "known_for_department": "Acting",
+        "name": "Tom Trouffier",
+        "original_name": "Tom Trouffier",
+        "popularity": 0.0909,
+        "profile_path": "/gvXTGvRxre0HGFpbMts5YguRtup.jpg",
+        "cast_id": 26,
+        "character": "Tony (voice)",
+        "credit_id": "63f9f42a6aa8e000c62c0906",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1581423,
+        "known_for_department": "Acting",
+        "name": "Michel Mella",
+        "original_name": "Michel Mella",
+        "popularity": 0.1355,
+        "profile_path": "/vnzQDD8jqNp667U4OERo0MlXjG0.jpg",
+        "cast_id": 27,
+        "character": "Carmine (voice)",
+        "credit_id": "63f9f43b25a53600dd6c5e47",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1444806,
+        "known_for_department": "Acting",
+        "name": "Jérémy Prévost",
+        "original_name": "Jérémy Prévost",
+        "popularity": 0.2698,
+        "profile_path": "/aL2Fez3Le2cCK6rw3xkaCIxvFMT.jpg",
+        "cast_id": 17,
+        "character": "Flippant le Dauphin (voice)",
+        "credit_id": "63b377a71d1bf400d37a7e66",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3938305,
+        "known_for_department": "Acting",
+        "name": "Maëlle Bonnet",
+        "original_name": "Maëlle Bonnet",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Yvette la Chouette (voice)",
+        "credit_id": "63f9f48c344a8e008ec53fb9",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550246,
+        "known_for_department": "Acting",
+        "name": "Franck Gourlat",
+        "original_name": "Franck Gourlat",
+        "popularity": 0.1247,
+        "profile_path": "/va6B3qqzCoo76llgjjJRnoBrfOc.jpg",
+        "cast_id": 29,
+        "character": "(voice)",
+        "credit_id": "63f9f49f57176f008543eecb",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3938308,
+        "known_for_department": "Acting",
+        "name": "Vincent Ronsse",
+        "original_name": "Vincent Ronsse",
+        "popularity": 0.0143,
+        "profile_path": "/94kupvGUgYNYydZG9Yr6UInQU11.jpg",
+        "cast_id": 30,
+        "character": "(voice)",
+        "credit_id": "63f9f4ab96e30b009fc981cb",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049951,
+        "known_for_department": "Directing",
+        "name": "David Alaux",
+        "original_name": "David Alaux",
+        "popularity": 0.6894,
+        "profile_path": "/xW08I8oCSSNUHEU6xL0qeIC764b.jpg",
+        "credit_id": "6227bb4da6d931001cbd3eb5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1903957,
+        "known_for_department": "Sound",
+        "name": "Olivier Cussac",
+        "original_name": "Olivier Cussac",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "62567ae8d38b580050e1c475",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049951,
+        "known_for_department": "Directing",
+        "name": "David Alaux",
+        "original_name": "David Alaux",
+        "popularity": 0.6894,
+        "profile_path": "/xW08I8oCSSNUHEU6xL0qeIC764b.jpg",
+        "credit_id": "62fb167ba313b8007cf4a789",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049952,
+        "known_for_department": "Directing",
+        "name": "Eric Tosti",
+        "original_name": "Eric Tosti",
+        "popularity": 0.1514,
+        "profile_path": "/wfOTI2jpbxydcZnJ2KbVkhXQQMf.jpg",
+        "credit_id": "62fb16846e938a007f64d70c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1049953,
+        "known_for_department": "Production",
+        "name": "Jean-François Tosti",
+        "original_name": "Jean-François Tosti",
+        "popularity": 0.0944,
+        "profile_path": null,
+        "credit_id": "62fb169225882300822098ce",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1049953,
+        "known_for_department": "Production",
+        "name": "Jean-François Tosti",
+        "original_name": "Jean-François Tosti",
+        "popularity": 0.0944,
+        "profile_path": null,
+        "credit_id": "678b83565add61273d64ee4c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5187381,
+        "known_for_department": "Art",
+        "name": "Laurent Houis",
+        "original_name": "Laurent Houis",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "678b870d2e41634e5264e2e2",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3988259,
+        "known_for_department": "Directing",
+        "name": "Benoît Daffis",
+        "original_name": "Benoît Daffis",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "credit_id": "678b8723afcb32c49942f97b",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049952,
+        "known_for_department": "Directing",
+        "name": "Eric Tosti",
+        "original_name": "Eric Tosti",
+        "popularity": 0.1514,
+        "profile_path": "/wfOTI2jpbxydcZnJ2KbVkhXQQMf.jpg",
+        "credit_id": "678b873342f27c754c64e7e1",
+        "department": "Directing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1049953,
+        "known_for_department": "Production",
+        "name": "Jean-François Tosti",
+        "original_name": "Jean-François Tosti",
+        "popularity": 0.0944,
+        "profile_path": null,
+        "credit_id": "678b874442f27c754c64e7e6",
+        "department": "Directing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5187424,
+        "known_for_department": "Editing",
+        "name": "Magali Batut",
+        "original_name": "Magali Batut",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "678b92d3d094ea7af14305a5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 930739,
+        "known_for_department": "Directing",
+        "name": "Jean-Christian Tassy",
+        "original_name": "Jean-Christian Tassy",
+        "popularity": 0.0974,
+        "profile_path": null,
+        "credit_id": "678b92e82e41634e5264e35f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3116511,
+        "known_for_department": "Editing",
+        "name": "Perrine Bekaert",
+        "original_name": "Perrine Bekaert",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "credit_id": "678b92f8d094ea7af14305c4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5187437,
+        "known_for_department": "Visual Effects",
+        "name": "Jean-Emmanuel Vermot Desroches",
+        "original_name": "Jean-Emmanuel Vermot Desroches",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "678b9579d8a5b0d00c430135",
+        "department": "Visual Effects",
+        "job": "Lead Character Designer"
+      }
+    ]
+  }
+}

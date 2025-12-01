@@ -1,0 +1,325 @@
+{
+  "adult": false,
+  "backdrop_path": "/dvcY3IVqXPk0Oit5NjDpee4D0u4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 87364,
+  "imdb_id": "tt0076396",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Mister Deathman",
+  "overview": "Geoffrey Graves is a secret agent who comes ourt of retirement for a mission in South Africa. Stella Stevens stars as an enemy agent.",
+  "popularity": 7.123,
+  "poster_path": "/ncLj97jsEYyqhuMj1SPTqce5Q0U.jpg",
+  "production_companies": [
+    {
+      "id": 17552,
+      "logo_path": null,
+      "name": "Karat Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1977-01-01",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Spøk ikke med mr. Graves... - det kan koste deg livet! (Don’t mess with mr. Graves ... - It may cost you your life!), He delivers...",
+  "title": "Mister Deathman",
+  "video": false,
+  "vote_average": 3.625,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1147002,
+        "known_for_department": "Acting",
+        "name": "David Broadnax",
+        "original_name": "David Broadnax",
+        "popularity": 1.4449,
+        "profile_path": null,
+        "cast_id": 0,
+        "character": "Geoffrey Graves",
+        "credit_id": "5a0d60cac3a36812fe00c8b4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7631,
+        "known_for_department": "Acting",
+        "name": "Stella Stevens",
+        "original_name": "Stella Stevens",
+        "popularity": 1.1293,
+        "profile_path": "/lrDwWo1bymKbIQMlWqOa2RqWAUF.jpg",
+        "cast_id": 1,
+        "character": "Liz",
+        "credit_id": "5a0d60d29251416eed00bc93",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22623,
+        "known_for_department": "Acting",
+        "name": "Arthur Brauss",
+        "original_name": "Arthur Brauss",
+        "popularity": 0.5341,
+        "profile_path": "/agNKyZpIUdA0C7l7O7c1iynala2.jpg",
+        "cast_id": 2,
+        "character": "Vincent Napier",
+        "credit_id": "5a0d60df9251416eea00b2b2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70965,
+        "known_for_department": "Acting",
+        "name": "Lena Farugia",
+        "original_name": "Lena Farugia",
+        "popularity": 1.1383,
+        "profile_path": "/rDArEz82LdSGHON4qQpZO2Qoi2O.jpg",
+        "cast_id": 3,
+        "character": "Pamela (as Lena Nicols)",
+        "credit_id": "5a0d60ec9251416ef600c23a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33718,
+        "known_for_department": "Acting",
+        "name": "Brian O'Shaughnessy",
+        "original_name": "Brian O'Shaughnessy",
+        "popularity": 0.7472,
+        "profile_path": "/gAfYovjr5HoZAZcuTMaOcYyDHOZ.jpg",
+        "cast_id": 4,
+        "character": "Colonel Duncan",
+        "credit_id": "5a0d60f99251416eed00bcbd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230589,
+        "known_for_department": "Acting",
+        "name": "Len Sparrowhawk",
+        "original_name": "Len Sparrowhawk",
+        "popularity": 0.1949,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Customs Officer",
+        "credit_id": "5a0d6150c3a36812f300c777",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83134,
+        "known_for_department": "Acting",
+        "name": "Larry Taylor",
+        "original_name": "Larry Taylor",
+        "popularity": 0.1527,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Vlees / Vlees' Twin",
+        "credit_id": "5a0d616a9251416ef600c2eb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1087389,
+        "known_for_department": "Acting",
+        "name": "Ian Yule",
+        "original_name": "Ian Yule",
+        "popularity": 0.5903,
+        "profile_path": "/rHOKz1Ow1thTdlFla25680r150E.jpg",
+        "cast_id": 7,
+        "character": "Bill",
+        "credit_id": "5a0d61739251416ef600c2fe",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4958610,
+        "known_for_department": "Acting",
+        "name": "Ronald France",
+        "original_name": "Ronald France",
+        "popularity": 0.0718,
+        "profile_path": "/edutib1DJighaqf9MZBm1Eu6Hfq.jpg",
+        "cast_id": 19,
+        "character": "Stanwell",
+        "credit_id": "66f1a2d82d98d59ce13b13d1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59804,
+        "known_for_department": "Acting",
+        "name": "Ken Gampu",
+        "original_name": "Ken Gampu",
+        "popularity": 0.5597,
+        "profile_path": "/9Wv1WIzrettH5GbgZhVoQk1oxmq.jpg",
+        "cast_id": 9,
+        "character": "Sue",
+        "credit_id": "5a0d61859251416ee100c0a7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129334,
+        "known_for_department": "Acting",
+        "name": "Gordon Mulholland",
+        "original_name": "Gordon Mulholland",
+        "popularity": 0.9336,
+        "profile_path": "/s6gNGd4fbwLX94nk38WHYOFHSy4.jpg",
+        "cast_id": 10,
+        "character": "Dr. Halstead",
+        "credit_id": "5a0d6191c3a368130b00b79c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16758,
+        "known_for_department": "Acting",
+        "name": "Marius Weyers",
+        "original_name": "Marius Weyers",
+        "popularity": 0.4287,
+        "profile_path": "/8Ya9IhLm7T0uVVVXebCynSnrx3y.jpg",
+        "cast_id": 11,
+        "character": "Agent Donelly",
+        "credit_id": "5a0d619f9251416ee700c395",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 230585,
+        "known_for_department": "Acting",
+        "name": "Norman Coombes",
+        "original_name": "Norman Coombes",
+        "popularity": 0.0559,
+        "profile_path": "/p808byZflTS3OIO9xCiiGMUVsfC.jpg",
+        "cast_id": 12,
+        "character": "William Joyce",
+        "credit_id": "5a0d61aac3a36812ef00c34d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140123,
+        "known_for_department": "Acting",
+        "name": "Victor Melleney",
+        "original_name": "Victor Melleney",
+        "popularity": 0.0956,
+        "profile_path": "/eOH9rhN6ltYBwErn78XjVEkmqB1.jpg",
+        "cast_id": 13,
+        "character": "Major Travis",
+        "credit_id": "5a0d61b9c3a36812ef00c35e",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1059078,
+        "known_for_department": "Production",
+        "name": "Raymond R. Homer",
+        "original_name": "Raymond R. Homer",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5aad5de292514116b10151c0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83791,
+        "known_for_department": "Directing",
+        "name": "Michael D. Moore",
+        "original_name": "Michael D. Moore",
+        "popularity": 0.2216,
+        "profile_path": "/tGyfi7NHRU9WRvuxxYkXT42ieaI.jpg",
+        "credit_id": "5aad5da70e0a266588000415",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1147002,
+        "known_for_department": "Acting",
+        "name": "David Broadnax",
+        "original_name": "David Broadnax",
+        "popularity": 1.4449,
+        "profile_path": null,
+        "credit_id": "5aad5dcf92514116b10151a2",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 929000,
+        "known_for_department": "Writing",
+        "name": "Emmett Murphy",
+        "original_name": "Emmett Murphy",
+        "popularity": 0.8316,
+        "profile_path": null,
+        "credit_id": "5aad5dbe0e0a267821015a8e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1722893,
+        "known_for_department": "Camera",
+        "name": "Hans Kühle Jr.",
+        "original_name": "Hans Kühle Jr.",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "5aad5df2c3a36846ba0164ef",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

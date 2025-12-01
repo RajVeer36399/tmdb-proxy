@@ -1,0 +1,425 @@
+{
+  "adult": false,
+  "backdrop_path": "/znDydPyqoSkQk9gQkvzr4uobVjb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 111132,
+  "imdb_id": "tt0477999",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Masahista",
+  "overview": "Iliac works in a massage parlor where the gay clients are given more than a shoulder kneading and back rub. When Iliac's father dies he must reconcile his job as a sex worker with the rest of his family.",
+  "popularity": 8.9308,
+  "poster_path": "/fno3fe1vrsGfT2brBwqzv7dw0Hd.jpg",
+  "production_companies": [
+    {
+      "id": 7008,
+      "logo_path": null,
+      "name": "Centerstage Productions",
+      "origin_country": "PH"
+    },
+    {
+      "id": 34509,
+      "logo_path": null,
+      "name": "Gee Films International",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2005-10-19",
+  "revenue": 0,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Into thy hands, I commend.",
+  "title": "The Masseur",
+  "video": false,
+  "vote_average": 5.813,
+  "vote_count": 16,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56256,
+        "known_for_department": "Acting",
+        "name": "Coco Martin",
+        "original_name": "Coco Martin",
+        "popularity": 2.4886,
+        "profile_path": "/tlGnbkOApm1z0pjLkq0MCphpHsd.jpg",
+        "cast_id": 2,
+        "character": "Iliac",
+        "credit_id": "52fe4af1c3a36847f81e9cef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1191698,
+        "known_for_department": "Acting",
+        "name": "Jaclyn Jose",
+        "original_name": "Jaclyn Jose",
+        "popularity": 0.2145,
+        "profile_path": "/e7zhRnB1InkYGqFnYnsNb1YwX97.jpg",
+        "cast_id": 3,
+        "character": "Naty",
+        "credit_id": "52fe4af1c3a36847f81e9cf3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1064538,
+        "known_for_department": "Acting",
+        "name": "Allan Paule",
+        "original_name": "Allan Paule",
+        "popularity": 0.7175,
+        "profile_path": "/hzsUDaCiDI3IwRMN6H5ucdtNr5N.jpg",
+        "cast_id": 4,
+        "character": "Alfredo / Marina Hidalgo",
+        "credit_id": "52fe4af1c3a36847f81e9cf7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370950,
+        "known_for_department": "Acting",
+        "name": "Aaron Rivera",
+        "original_name": "Aaron Rivera",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Maldon",
+        "credit_id": "5430078d0e0a2646490007ad",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1263327,
+        "known_for_department": "Directing",
+        "name": "Roni Bertubin",
+        "original_name": "Roni Bertubin",
+        "popularity": 0.1162,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Manager",
+        "credit_id": "543007a20e0a26463d00077f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370951,
+        "known_for_department": "Acting",
+        "name": "Norman Pineda",
+        "original_name": "Norman Pineda",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Edmond",
+        "credit_id": "543007b0c3a36831a60007bc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370952,
+        "known_for_department": "Acting",
+        "name": "John Baltazar",
+        "original_name": "John Baltazar",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Anthony",
+        "credit_id": "543007be0e0a26463d000782",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370954,
+        "known_for_department": "Acting",
+        "name": "Jan-el Esturco",
+        "original_name": "Jan-el Esturco",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Errand Boy",
+        "credit_id": "543007cf0e0a264646000788",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370955,
+        "known_for_department": "Acting",
+        "name": "Maximiano Sultan",
+        "original_name": "Maximiano Sultan",
+        "popularity": 0.045,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Rodel",
+        "credit_id": "543007e30e0a26464f000754",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1283455,
+        "known_for_department": "Directing",
+        "name": "Monti Parungao",
+        "original_name": "Monti Parungao",
+        "popularity": 0.0615,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Client D",
+        "credit_id": "601718811511aa0041564652",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 559357,
+        "known_for_department": "Acting",
+        "name": "Paolo Rivero",
+        "original_name": "Paolo Rivero",
+        "popularity": 0.6564,
+        "profile_path": "/uBkrFRWnkk8DNZCCADsgXu0eEqR.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "5fb0f023d0b434003da06168",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2288869,
+        "known_for_department": "Acting",
+        "name": "Randell Reyes",
+        "original_name": "Randell Reyes",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "5fb0f0296262080040b3cd78",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932506,
+        "known_for_department": "Acting",
+        "name": "Kristoffer King",
+        "original_name": "Kristoffer King",
+        "popularity": 0.4297,
+        "profile_path": "/dU1vwHri198XFAGM4q4fb87R2IF.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "5fb0f033ec4552003ff82458",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56213,
+        "known_for_department": "Directing",
+        "name": "Brillante Mendoza",
+        "original_name": "Brillante Ma Mendoza",
+        "popularity": 1.2849,
+        "profile_path": "/qJbuPkCD5J4KBKUxfzhpgv9uSEd.jpg",
+        "credit_id": "52fe4af1c3a36847f81e9ceb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1193498,
+        "known_for_department": "Production",
+        "name": "Ferdinand Lapuz",
+        "original_name": "Ferdinand Lapuz",
+        "popularity": 0.104,
+        "profile_path": null,
+        "credit_id": "5430062dc3a36831b500076f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370938,
+        "known_for_department": "Production",
+        "name": "Coco Simmo",
+        "original_name": "Coco Simmo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5430067e0e0a264643000709",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370943,
+        "known_for_department": "Production",
+        "name": "Ma. Lourdes Gnileg",
+        "original_name": "Ma. Lourdes Gnileg",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "543006c60e0a264643000715",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56213,
+        "known_for_department": "Directing",
+        "name": "Brillante Mendoza",
+        "original_name": "Brillante Ma Mendoza",
+        "popularity": 1.2849,
+        "profile_path": "/qJbuPkCD5J4KBKUxfzhpgv9uSEd.jpg",
+        "credit_id": "543006400e0a26464c0006df",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1084989,
+        "known_for_department": "Writing",
+        "name": "Boots Agbayani Pastor",
+        "original_name": "Boots Agbayani Pastor",
+        "popularity": 0.1018,
+        "profile_path": null,
+        "credit_id": "54300663c3a36831b200079c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1059196,
+        "known_for_department": "Acting",
+        "name": "Ihman Esturco",
+        "original_name": "Ihman Esturco",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "543006aac3a36831b20007a4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370945,
+        "known_for_department": "Production",
+        "name": "Dante Mungcal",
+        "original_name": "Dante Mungcal",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "543006d4c3a36831bb000730",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1084989,
+        "known_for_department": "Writing",
+        "name": "Boots Agbayani Pastor",
+        "original_name": "Boots Agbayani Pastor",
+        "popularity": 0.1018,
+        "profile_path": null,
+        "credit_id": "543006520e0a26463a00077b",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370940,
+        "known_for_department": "Production",
+        "name": "Marissa Cua",
+        "original_name": "Marissa Cua",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5430068c0e0a26463d00075d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370941,
+        "known_for_department": "Production",
+        "name": "Fedelyn Geling",
+        "original_name": "Fedelyn Geling",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5430069bc3a36831a600079c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 893462,
+        "known_for_department": "Directing",
+        "name": "Jerrold Tarog",
+        "original_name": "Jerrold Tarog",
+        "popularity": 0.6908,
+        "profile_path": "/ldVeKeP0vspYEvrDbALb8wWIoXL.jpg",
+        "credit_id": "543006f30e0a2646490007a3",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370947,
+        "known_for_department": "Production",
+        "name": "Venus Mungcal",
+        "original_name": "Venus Mungcal",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "543006e5c3a36831b8000743",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

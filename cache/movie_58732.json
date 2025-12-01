@@ -1,0 +1,408 @@
+{
+  "adult": false,
+  "backdrop_path": "/gcFxYJ2BKTwlzofoUUHyymr3pHo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 58732,
+  "imdb_id": "tt0037563",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Bullfighters",
+  "overview": "Bumbling detective Stan Laurel disguises himself as a famous matador in order to hide from the vengeful Richard K. Muldoon, who spent time in prison on Stan's bogus testimony.",
+  "popularity": 5.9448,
+  "poster_path": "/sxXu8LwRR8kNalvHMdK1uB9JFOq.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1945-05-01",
+  "revenue": 0,
+  "runtime": 61,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Bullfighters",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 31,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89670,
+        "known_for_department": "Acting",
+        "name": "Stan Laurel",
+        "original_name": "Stan Laurel",
+        "popularity": 1.0046,
+        "profile_path": "/eT15ERUT5T3CVyf2a9JD1VAzC6q.jpg",
+        "cast_id": 1,
+        "character": "Stanley",
+        "credit_id": "52fe4971c3a36847f819a603",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78057,
+        "known_for_department": "Acting",
+        "name": "Oliver Hardy",
+        "original_name": "Oliver Hardy",
+        "popularity": 0.9632,
+        "profile_path": "/qRMGQo5oWwcLpwgXSoArXK5riwe.jpg",
+        "cast_id": 2,
+        "character": "Ollie",
+        "credit_id": "52fe4971c3a36847f819a607",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85438,
+        "known_for_department": "Acting",
+        "name": "Margo Woode",
+        "original_name": "Margo Woode",
+        "popularity": 0.1769,
+        "profile_path": "/3ct4YB7eOFxLEa7LbBl5MPTjvgj.jpg",
+        "cast_id": 3,
+        "character": "Señorita Tangerine",
+        "credit_id": "52fe4971c3a36847f819a60b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111464,
+        "known_for_department": "Acting",
+        "name": "Richard Lane",
+        "original_name": "Richard Lane",
+        "popularity": 0.5535,
+        "profile_path": "/mzGnnilkdUC8Fzoq5z5GhhfV7yd.jpg",
+        "cast_id": 4,
+        "character": "'Hot Shot' Coleman",
+        "credit_id": "52fe4971c3a36847f819a60f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 114403,
+        "known_for_department": "Acting",
+        "name": "Carol Andrews",
+        "original_name": "Carol Andrews",
+        "popularity": 0.1896,
+        "profile_path": "/i7rZdhsqQieS6j00XVA5RZ9D5WG.jpg",
+        "cast_id": 5,
+        "character": "Hattie Blake",
+        "credit_id": "52fe4971c3a36847f819a613",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130332,
+        "known_for_department": "Acting",
+        "name": "Diosa Costello",
+        "original_name": "Diosa Costello",
+        "popularity": 0.0865,
+        "profile_path": "/3NzO7hH6mCHDwV0tsMkenafMJvN.jpg",
+        "cast_id": 6,
+        "character": "Conchita",
+        "credit_id": "52fe4971c3a36847f819a617",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19181,
+        "known_for_department": "Acting",
+        "name": "Rory Calhoun",
+        "original_name": "Rory Calhoun",
+        "popularity": 0.4722,
+        "profile_path": "/3ZQP79a5QzY8xRwMttRAtjjNDYF.jpg",
+        "cast_id": 13,
+        "character": "El Brillante - Disgusted Matador (uncredited)",
+        "credit_id": "5631d97bc3a3681b5c011e54",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 127778,
+        "known_for_department": "Production",
+        "name": "William Girard",
+        "original_name": "William Girard",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe4971c3a36847f819a61d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33019,
+        "known_for_department": "Production",
+        "name": "Bryan Foy",
+        "original_name": "Bryan Foy",
+        "popularity": 0.144,
+        "profile_path": null,
+        "credit_id": "52fe4971c3a36847f819a623",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17667,
+        "known_for_department": "Sound",
+        "name": "David Buttolph",
+        "original_name": "David Buttolph",
+        "popularity": 0.4514,
+        "profile_path": null,
+        "credit_id": "52fe4971c3a36847f819a629",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 228315,
+        "known_for_department": "Editing",
+        "name": "Stanley Rabjohn",
+        "original_name": "Stanley Rabjohn",
+        "popularity": 0.0619,
+        "profile_path": null,
+        "credit_id": "52fe4971c3a36847f819a62f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143998,
+        "known_for_department": "Directing",
+        "name": "Malcolm St. Clair",
+        "original_name": "Malcolm St. Clair",
+        "popularity": 0.0856,
+        "profile_path": "/5wyXv4hqMppeOPg07apzDcIKJiD.jpg",
+        "credit_id": "52fe4971c3a36847f819a635",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143998,
+        "known_for_department": "Directing",
+        "name": "Malcolm St. Clair",
+        "original_name": "Malcolm St. Clair",
+        "popularity": 0.0856,
+        "profile_path": "/5wyXv4hqMppeOPg07apzDcIKJiD.jpg",
+        "credit_id": "52fe4971c3a36847f819a63b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30127,
+        "known_for_department": "Writing",
+        "name": "Scott Darling",
+        "original_name": "Scott Darling",
+        "popularity": 0.1904,
+        "profile_path": null,
+        "credit_id": "6411d2abfe6c1800bb65da05",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100580,
+        "known_for_department": "Sound",
+        "name": "Emil Newman",
+        "original_name": "Emil Newman",
+        "popularity": 0.3571,
+        "profile_path": null,
+        "credit_id": "6411d2cc323eba00c5ec5c0b",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26175,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ben Nye",
+        "original_name": "Ben Nye",
+        "popularity": 0.1922,
+        "profile_path": null,
+        "credit_id": "6411d2f8fe6c1800daef0a22",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231264,
+        "known_for_department": "Visual Effects",
+        "name": "Fred Sersen",
+        "original_name": "Fred Sersen",
+        "popularity": 0.2844,
+        "profile_path": null,
+        "credit_id": "6411d314ede1b028a2b84a20",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 792562,
+        "known_for_department": "Sound",
+        "name": "Arthur von Kirbach",
+        "original_name": "Arthur von Kirbach",
+        "popularity": 0.2032,
+        "profile_path": null,
+        "credit_id": "6411d32cede1b028c59802fe",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27732,
+        "known_for_department": "Sound",
+        "name": "Harry M. Leonard",
+        "original_name": "Harry M. Leonard",
+        "popularity": 0.1002,
+        "profile_path": null,
+        "credit_id": "6411d33ba6c10400c0c627cc",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89670,
+        "known_for_department": "Acting",
+        "name": "Stan Laurel",
+        "original_name": "Stan Laurel",
+        "popularity": 1.0046,
+        "profile_path": "/eT15ERUT5T3CVyf2a9JD1VAzC6q.jpg",
+        "credit_id": "5ea18538b7b69d002644b426",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33225,
+        "known_for_department": "Camera",
+        "name": "Norbert Brodine",
+        "original_name": "Norbert Brodine",
+        "popularity": 0.9292,
+        "profile_path": null,
+        "credit_id": "5ea18555b7b69d002644b443",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1099118,
+        "known_for_department": "Art",
+        "name": "Chester Gore",
+        "original_name": "Chester Gore",
+        "popularity": 0.5689,
+        "profile_path": null,
+        "credit_id": "5ea185699cc67b002528726f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3358,
+        "known_for_department": "Art",
+        "name": "Lyle R. Wheeler",
+        "original_name": "Lyle R. Wheeler",
+        "popularity": 0.7672,
+        "profile_path": null,
+        "credit_id": "5ea18574ea37e0001c287c1e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8508,
+        "known_for_department": "Art",
+        "name": "Thomas Little",
+        "original_name": "Thomas Little",
+        "popularity": 0.2095,
+        "profile_path": null,
+        "credit_id": "5ea18580ea37e0001c287c23",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20123,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bonnie Cashin",
+        "original_name": "Bonnie Cashin",
+        "popularity": 0.077,
+        "profile_path": null,
+        "credit_id": "5ea1859538e5100020dab64a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89670,
+        "known_for_department": "Acting",
+        "name": "Stan Laurel",
+        "original_name": "Stan Laurel",
+        "popularity": 1.0046,
+        "profile_path": "/eT15ERUT5T3CVyf2a9JD1VAzC6q.jpg",
+        "credit_id": "68d7c92010420e2e81e1bd23",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

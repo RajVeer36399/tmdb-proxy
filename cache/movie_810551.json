@@ -1,0 +1,190 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 810551,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "3 Refeições",
+  "overview": "This documentary shows a country that has lifted 36 million people out of extreme poverty in 12 years.",
+  "popularity": 5.8107,
+  "poster_path": "/fc9KUfc9MrbzNmUCdBTZDVXnbbk.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2018-05-25",
+  "revenue": 0,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The journey towards the exclusion of Brazil from the hunger map",
+  "title": "3 Meals",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141683,
+        "known_for_department": "Acting",
+        "name": "Luiz Inácio Lula da Silva",
+        "original_name": "Luiz Inácio Lula da Silva",
+        "popularity": 0.7521,
+        "profile_path": "/AtibuGdOqTQZFnNZqB7BZxKVEJr.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "605d8ac4bfeb8b005401c3e0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3059733,
+        "known_for_department": "Production",
+        "name": "Maria Coeli Vasconcelos",
+        "original_name": "Maria Coeli Vasconcelos",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "621cd95248333a004338778c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12388,
+        "known_for_department": "Production",
+        "name": "Luiz Carlos Barreto",
+        "original_name": "Luiz Carlos Barreto",
+        "popularity": 0.5175,
+        "profile_path": "/qlH0djtyWu7q8lt59dINxCYXs95.jpg",
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "621cd9afe33f83001be68da0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 149289,
+        "known_for_department": "Acting",
+        "name": "Joao Pedro Stedile",
+        "original_name": "João Pedro Stedile",
+        "popularity": 0.0363,
+        "profile_path": "/pGsmgKMFxH3APSq0Iywk4Q2Go94.jpg",
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "621cdc678efe730070acafbd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1495810,
+        "known_for_department": "Acting",
+        "name": "Betinho",
+        "original_name": "Betinho",
+        "popularity": 0.0495,
+        "profile_path": "/lzietjMIph21sWuZmOuBLNEKHCH.jpg",
+        "cast_id": 9,
+        "character": "Self (archive footage)",
+        "credit_id": "621cd9a3fdc14600425f4c10",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3447207,
+        "known_for_department": "Acting",
+        "name": "Graça Veloso",
+        "original_name": "Graça Veloso",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Antônio Conselheiro",
+        "credit_id": "621cd8e21b157d0045caaa80",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2003202,
+        "known_for_department": "Directing",
+        "name": "Deraldo Goulart",
+        "original_name": "Deraldo Goulart",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Narrator",
+        "credit_id": "621cd87b93db92006c3337d0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1780446,
+        "known_for_department": "Directing",
+        "name": "Maria Maia",
+        "original_name": "Maria Maia",
+        "popularity": 0.0678,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Narrator",
+        "credit_id": "621cd887028f1400459cd86c",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1780446,
+        "known_for_department": "Directing",
+        "name": "Maria Maia",
+        "original_name": "Maria Maia",
+        "popularity": 0.0678,
+        "profile_path": null,
+        "credit_id": "605d725afed597003d82aea9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1780446,
+        "known_for_department": "Directing",
+        "name": "Maria Maia",
+        "original_name": "Maria Maia",
+        "popularity": 0.0678,
+        "profile_path": null,
+        "credit_id": "621cd8b85a07f50063f5f363",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "adult": false,
+  "backdrop_path": "/kBBr0l2sVaLvJhjIE3uFqzvpFeT.jpg",
+  "belongs_to_collection": {
+    "id": 272416,
+    "name": "Lauras Stern Filmreihe",
+    "poster_path": "/upwpEEvHHmPTsTHBCDBbwgCYerN.jpg",
+    "backdrop_path": "/6RtSCdNmtVjunxIeeNYfwmAc4Do.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 12697,
+  "imdb_id": "tt0416908",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Lauras Stern",
+  "overview": "Laura sees a shooting star falling to earth and finds it in a park, down on the floor and with a broken point. The star is a living being, and Laura takes her home to reattach its point with a band-aid. The little star has special powers and can make people fly, or bring inanimate objects to life. But the more she stays on Earth, the weaker she becomes and her colors fade away and her powers start to fail. Laura must find a way to send the little star back into outer space.",
+  "popularity": 7.6613,
+  "poster_path": "/unNN6JJCghbDOMn3plonB6YsjnA.jpg",
+  "production_companies": [
+    {
+      "id": 8177,
+      "logo_path": null,
+      "name": "Rothkirch Cartoon Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 8178,
+      "logo_path": null,
+      "name": "Comet Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4968,
+      "logo_path": null,
+      "name": "MotionWorks",
+      "origin_country": "DE"
+    },
+    {
+      "id": 11918,
+      "logo_path": null,
+      "name": "Animationsfabrik",
+      "origin_country": "DE"
+    },
+    {
+      "id": 96105,
+      "logo_path": "/yTIbkYK1VGE64FSFqPj5jGDvLG.png",
+      "name": "Warner Bros. Film Productions Germany",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2004-09-19",
+  "revenue": 0,
+  "runtime": 75,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Laura's Star",
+  "video": false,
+  "vote_average": 6.333,
+  "vote_count": 46,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73995,
+        "known_for_department": "Acting",
+        "name": "Céline Vogt",
+        "original_name": "Céline Vogt",
+        "popularity": 0.1129,
+        "profile_path": "/2pkBIL8OKXXWr1SERPsr7LVAsQX.jpg",
+        "cast_id": 1,
+        "character": "Laura (voice)",
+        "credit_id": "52fe45159251416c7504b247",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73996,
+        "known_for_department": "Acting",
+        "name": "Sandro Iannotta",
+        "original_name": "Sandro Iannotta",
+        "popularity": 0.1072,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Tommy (voice)",
+        "credit_id": "52fe45159251416c7504b24b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68190,
+        "known_for_department": "Acting",
+        "name": "Maximilian Artajo",
+        "original_name": "Maximilian Artajo",
+        "popularity": 0.1596,
+        "profile_path": "/qVqRK2ObJ0KDLTIVzgoipNSOGl7.jpg",
+        "cast_id": 3,
+        "character": "Max (voice)",
+        "credit_id": "52fe45159251416c7504b24f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73997,
+        "known_for_department": "Acting",
+        "name": "Brit Gülland",
+        "original_name": "Brit Gülland",
+        "popularity": 0.1094,
+        "profile_path": "/w7uh3e6rm52EgsFBitxy7ujqZTe.jpg",
+        "cast_id": 4,
+        "character": "Mama (voice)",
+        "credit_id": "52fe45159251416c7504b253",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3742,
+        "known_for_department": "Acting",
+        "name": "Heinrich Schafmeister",
+        "original_name": "Heinrich Schafmeister",
+        "popularity": 0.2959,
+        "profile_path": "/m80a3kpf4diz2JXFOiEARUO840J.jpg",
+        "cast_id": 5,
+        "character": "Papa (voice)",
+        "credit_id": "52fe45159251416c7504b257",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59333,
+        "known_for_department": "Acting",
+        "name": "Mirco Nontschew",
+        "original_name": "Mirco Nontschew",
+        "popularity": 0.4544,
+        "profile_path": "/cUVAXju2ttQBKUKaASu1bsTNi2M.jpg",
+        "cast_id": 6,
+        "character": "Mechanische Katze / Bär (voice)",
+        "credit_id": "52fe45159251416c7504b25b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73998,
+        "known_for_department": "Acting",
+        "name": "Martin Reinl",
+        "original_name": "Martin Reinl",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Mini Hase (voice)",
+        "credit_id": "52fe45159251416c7504b25f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10627,
+        "known_for_department": "Acting",
+        "name": "Eva Mattes",
+        "original_name": "Eva Mattes",
+        "popularity": 0.7281,
+        "profile_path": "/63ET2xZ3ezbDGKwXxz2eqwX0pxB.jpg",
+        "cast_id": 23,
+        "character": "Sonne (voice)",
+        "credit_id": "52fe45159251416c7504b2bd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17546,
+        "known_for_department": "Acting",
+        "name": "Peter Fitz",
+        "original_name": "Peter Fitz",
+        "popularity": 0.2046,
+        "profile_path": "/uuS2Tbva1PdAeMxFKUjlO1V7eJN.jpg",
+        "cast_id": 24,
+        "character": "Mond (voice)",
+        "credit_id": "52fe45159251416c7504b2c1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1118191,
+        "known_for_department": "Acting",
+        "name": "Mogens von Gadow",
+        "original_name": "Mogens von Gadow",
+        "popularity": 0.0721,
+        "profile_path": "/rCoRM7NG8uZq7tSNxJSCOewfuuE.jpg",
+        "cast_id": 25,
+        "character": "Hausmeister (voice)",
+        "credit_id": "52fe45159251416c7504b2c5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146941,
+        "known_for_department": "Acting",
+        "name": "Hildegard Krekel",
+        "original_name": "Hildegard Krekel",
+        "popularity": 0.1789,
+        "profile_path": "/s5ZcXlVQrYvZyPHLFED6wlMfhQv.jpg",
+        "cast_id": 26,
+        "character": "Putzfrau (voice)",
+        "credit_id": "52fe45159251416c7504b2c9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125168,
+        "known_for_department": "Acting",
+        "name": "Adrian Wilms",
+        "original_name": "Adrian Wilms",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Harry (voice)",
+        "credit_id": "52fe45159251416c7504b2cd",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57323,
+        "known_for_department": "Directing",
+        "name": "Piet De Rycker",
+        "original_name": "Piet De Rycker",
+        "popularity": 0.076,
+        "profile_path": null,
+        "credit_id": "52fe45159251416c7504b265",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57324,
+        "known_for_department": "Directing",
+        "name": "Thilo Rothkirch",
+        "original_name": "Thilo Rothkirch",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "52fe45159251416c7504b26b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24079,
+        "known_for_department": "Writing",
+        "name": "Rolf Giesen",
+        "original_name": "Rolf Giesen",
+        "popularity": 0.0534,
+        "profile_path": "/h0AxgsWteJQyK6XGFOilbK3fXzO.jpg",
+        "credit_id": "52fe45159251416c7504b277",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57324,
+        "known_for_department": "Directing",
+        "name": "Thilo Rothkirch",
+        "original_name": "Thilo Rothkirch",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "52fe45159251416c7504b27d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74002,
+        "known_for_department": "Production",
+        "name": "Maya Gräfin Rothkirch",
+        "original_name": "Maya Gräfin Rothkirch",
+        "popularity": 0.1135,
+        "profile_path": null,
+        "credit_id": "52fe45159251416c7504b283",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57324,
+        "known_for_department": "Directing",
+        "name": "Thilo Rothkirch",
+        "original_name": "Thilo Rothkirch",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "52fe45159251416c7504b289",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57263,
+        "known_for_department": "Sound",
+        "name": "Nick Glennie-Smith",
+        "original_name": "Nick Glennie-Smith",
+        "popularity": 0.4436,
+        "profile_path": "/1Wzzje8n1WCyrw5UZiqtSRnXGfN.jpg",
+        "credit_id": "52fe45159251416c7504b28f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40613,
+        "known_for_department": "Sound",
+        "name": "Henning Lohner",
+        "original_name": "Henning Lohner",
+        "popularity": 0.0544,
+        "profile_path": "/AoXLOV8gZGPvrzTsP96xP3MUakD.jpg",
+        "credit_id": "52fe45159251416c7504b295",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 947,
+        "known_for_department": "Sound",
+        "name": "Hans Zimmer",
+        "original_name": "Hans Zimmer",
+        "popularity": 1.6947,
+        "profile_path": "/tpQnDeHY15szIXvpnhlprufz4d.jpg",
+        "credit_id": "52fe45159251416c7504b29b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74003,
+        "known_for_department": "Writing",
+        "name": "Alexander Lindner",
+        "original_name": "Alexander Lindner",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "52fe45159251416c7504b2a1",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57323,
+        "known_for_department": "Directing",
+        "name": "Piet De Rycker",
+        "original_name": "Piet De Rycker",
+        "popularity": 0.076,
+        "profile_path": null,
+        "credit_id": "52fe45159251416c7504b2a7",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74003,
+        "known_for_department": "Writing",
+        "name": "Alexander Lindner",
+        "original_name": "Alexander Lindner",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "52fe45159251416c7504b2ad",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125166,
+        "known_for_department": "Writing",
+        "name": "Michael Mädel",
+        "original_name": "Michael Mädel",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "credit_id": "52fe45159251416c7504b2b3",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1125167,
+        "known_for_department": "Art",
+        "name": "Manuel Arenas",
+        "original_name": "Manuel Arenas",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe45159251416c7504b2b9",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  }
+}

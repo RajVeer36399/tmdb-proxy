@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1125122,
+  "imdb_id": "tt25911378",
+  "origin_country": [
+    "UY"
+  ],
+  "original_language": "es",
+  "original_title": "Nélida",
+  "overview": "Nélida is in her 70’s and has lived alone in her small apartment for so long, that the pandemic that puts the world into confinement brings no change to her routine, except for her daughter’s visits becoming more frequent. Until the day she gets a call from a radio show that intends to introduce her to a love suitor, dynamiting the wall she built around herself and cornering her own perception of reality.",
+  "popularity": 3.451,
+  "poster_path": "/3G3gX8q7iuvdTlj462ScfTw98wM.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "UY",
+      "name": "Uruguay"
+    }
+  ],
+  "release_date": "2023-04-16",
+  "revenue": 0,
+  "runtime": 18,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Nélida",
+  "video": false,
+  "vote_average": 2,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116587,
+        "known_for_department": "Acting",
+        "name": "Mirella Pascual",
+        "original_name": "Mirella Pascual",
+        "popularity": 12.1207,
+        "profile_path": "/x0VkowzoTH44zpxYveyKkx9D8rL.jpg",
+        "cast_id": 1,
+        "character": "Nélida",
+        "credit_id": "645bde43fe077a5caae0af6a",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4055279,
+        "known_for_department": "Directing",
+        "name": "Celeste Lois",
+        "original_name": "Celeste Lois",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "645bde63156cc700ffa8e56e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2089797,
+        "known_for_department": "Acting",
+        "name": "Marina Artigas",
+        "original_name": "Marina Artigas",
+        "popularity": 0.0314,
+        "profile_path": "/5PdUwXFILAudVZRe9pSyVpRmKC.jpg",
+        "credit_id": "645bde6e6aa8e00139bcebb3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2089797,
+        "known_for_department": "Acting",
+        "name": "Marina Artigas",
+        "original_name": "Marina Artigas",
+        "popularity": 0.0314,
+        "profile_path": "/5PdUwXFILAudVZRe9pSyVpRmKC.jpg",
+        "credit_id": "645bde7a3fe160013867d5bc",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3093603,
+        "known_for_department": "Production",
+        "name": "Federico Cetta",
+        "original_name": "Federico Cetta",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "645bde8b3fe160011bed5926",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

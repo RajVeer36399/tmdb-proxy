@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1081010,
+  "imdb_id": "tt28773062",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Nikam",
+  "overview": "Ujjwal Nikam is an Indian special public prosecutor who has worked on prominent murder and terrorism cases such as the 1993 Bombay bombings, the Gulshan Kumar murder case, the Pramod Mahajan murder case, and the 2008 Mumbai attacks.",
+  "popularity": 4.6402,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 2140,
+      "logo_path": "/yJIGEhIk3yAWAIiZ4p3xEV1dzwR.png",
+      "name": "Aamir Khan Productions",
+      "origin_country": "IN"
+    },
+    {
+      "id": 86699,
+      "logo_path": null,
+      "name": "Maddock Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "title": "Nikam",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117727,
+        "known_for_department": "Acting",
+        "name": "Rajkummar Rao",
+        "original_name": "Rajkummar Rao",
+        "popularity": 1.1711,
+        "profile_path": "/ttBY7Y8x4NCpXfGS9Tc1NN8ISos.jpg",
+        "cast_id": 6,
+        "character": "Ujjwal Nikam",
+        "credit_id": "6805edd56e1a769e81ee4132",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1267400,
+        "known_for_department": "Acting",
+        "name": "Wamiqa Gabbi",
+        "original_name": "Wamiqa Gabbi",
+        "popularity": 1.4749,
+        "profile_path": "/tnXTQCsAuKEIodbsEynv2wveR6N.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "68ac8e1779e32ab66d9db7ed",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102246,
+        "known_for_department": "Production",
+        "name": "Dinesh Vijan",
+        "original_name": "Dinesh Vijan",
+        "popularity": 2.0068,
+        "profile_path": "/mYKpPjxkGvyCXMhId8HXZKAyePb.jpg",
+        "credit_id": "64ed9ac1c613ce00c9f36c81",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1348503,
+        "known_for_department": "Directing",
+        "name": "Avinash Arun",
+        "original_name": "Avinash Arun",
+        "popularity": 0.9247,
+        "profile_path": "/6TGQK6AQ6ufRB8xNWXkB8ZSXbQS.jpg",
+        "credit_id": "6582d26b180dea53498bebb0",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

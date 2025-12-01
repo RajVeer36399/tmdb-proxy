@@ -1,0 +1,262 @@
+{
+  "adult": false,
+  "backdrop_path": "/rMbm7VU01AioxKQhUO5ucQYuc28.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 539069,
+  "imdb_id": "tt6465940",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Threesomething",
+  "overview": "Zoe, Charlie, and Isaac spend a night flirting with the idea of a threesome... until it finally happens and all hell breaks loose. While two fall deeply in love, two test their sexual limits. They each discover fantasies they never thought they had and try things they never thought they would.",
+  "popularity": 5.7586,
+  "poster_path": "/xtQqdizFk7cvWEvMROIIbL4Ku3E.jpg",
+  "production_companies": [
+    {
+      "id": 107155,
+      "logo_path": null,
+      "name": "Morosini Sonenshine Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2018-03-03",
+  "revenue": 0,
+  "runtime": 71,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "Two is company, three is a crowd...or is it?",
+  "title": "Threesomething",
+  "video": false,
+  "vote_average": 3.8,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2023667,
+        "known_for_department": "Acting",
+        "name": "James Morosini",
+        "original_name": "James Morosini",
+        "popularity": 0.4548,
+        "profile_path": "/vaBLK53OiwM0E4S4IHkbvSaOKHR.jpg",
+        "cast_id": 2,
+        "character": "Isaac",
+        "credit_id": "5b5e9dbc925141522a03a6c2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095554,
+        "known_for_department": "Acting",
+        "name": "Sam Sonenshine",
+        "original_name": "Sam Sonenshine",
+        "popularity": 0.0627,
+        "profile_path": "/xHoq5Jzbr59UtXX6qEUS437qHgN.jpg",
+        "cast_id": 3,
+        "character": "Charlie",
+        "credit_id": "5b5e9de20e0a262ea103f49f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2095555,
+        "known_for_department": "Acting",
+        "name": "Isabelle Chester",
+        "original_name": "Isabelle Chester",
+        "popularity": 0.2311,
+        "profile_path": "/xPMa4Ix25c2T8ZjQ7v92A9m5coF.jpg",
+        "cast_id": 5,
+        "character": "Zoe",
+        "credit_id": "5b5e9dfe925141522a03a6fd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1740586,
+        "known_for_department": "Acting",
+        "name": "Dru Mouser",
+        "original_name": "Dru Mouser",
+        "popularity": 0.4423,
+        "profile_path": "/g3O6VLJ0OUfXqkpe4vfSdEmbTyI.jpg",
+        "cast_id": 4,
+        "character": "Ann",
+        "credit_id": "5b5e9dee9251415237039a03",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1524373,
+        "known_for_department": "Acting",
+        "name": "Michael Hudson",
+        "original_name": "Michael Hudson",
+        "popularity": 1.1399,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Mike",
+        "credit_id": "5b5e9e1c925141522403bdb8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095556,
+        "known_for_department": "Acting",
+        "name": "Tarik Jackson",
+        "original_name": "Tarik Jackson",
+        "popularity": 0.0481,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Reek",
+        "credit_id": "5b5e9e38925141522403be11",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2023667,
+        "known_for_department": "Acting",
+        "name": "James Morosini",
+        "original_name": "James Morosini",
+        "popularity": 0.4548,
+        "profile_path": "/vaBLK53OiwM0E4S4IHkbvSaOKHR.jpg",
+        "credit_id": "5b5e9d9cc3a3684221047953",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2023667,
+        "known_for_department": "Acting",
+        "name": "James Morosini",
+        "original_name": "James Morosini",
+        "popularity": 0.4548,
+        "profile_path": "/vaBLK53OiwM0E4S4IHkbvSaOKHR.jpg",
+        "credit_id": "5b5e9da30e0a262e950406e4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095554,
+        "known_for_department": "Acting",
+        "name": "Sam Sonenshine",
+        "original_name": "Sam Sonenshine",
+        "popularity": 0.0627,
+        "profile_path": "/xHoq5Jzbr59UtXX6qEUS437qHgN.jpg",
+        "credit_id": "5b5e9e51925141522703ae07",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2023667,
+        "known_for_department": "Acting",
+        "name": "James Morosini",
+        "original_name": "James Morosini",
+        "popularity": 0.4548,
+        "profile_path": "/vaBLK53OiwM0E4S4IHkbvSaOKHR.jpg",
+        "credit_id": "5b5ea0830e0a262e8d041b11",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2023667,
+        "known_for_department": "Acting",
+        "name": "James Morosini",
+        "original_name": "James Morosini",
+        "popularity": 0.4548,
+        "profile_path": "/vaBLK53OiwM0E4S4IHkbvSaOKHR.jpg",
+        "credit_id": "5b5ea1b692514152340383a3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095554,
+        "known_for_department": "Acting",
+        "name": "Sam Sonenshine",
+        "original_name": "Sam Sonenshine",
+        "popularity": 0.0627,
+        "profile_path": "/xHoq5Jzbr59UtXX6qEUS437qHgN.jpg",
+        "credit_id": "5b5ea1bfc3a368422403d301",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095558,
+        "known_for_department": "Production",
+        "name": "Debbi DiMaggio",
+        "original_name": "Debbi DiMaggio",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5b5ea2100e0a262e9f03d722",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095560,
+        "known_for_department": "Camera",
+        "name": "Ben Meserve",
+        "original_name": "Ben Meserve",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5b5ea227c3a368422f0436f7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1302523,
+        "known_for_department": "Sound",
+        "name": "Greg Vossberg",
+        "original_name": "Greg Vossberg",
+        "popularity": 0.9157,
+        "profile_path": null,
+        "credit_id": "5b5ea2399251415237039f9e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095561,
+        "known_for_department": "Sound",
+        "name": "Chase Baldocchi",
+        "original_name": "Chase Baldocchi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5b5ea252925141522403c42c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

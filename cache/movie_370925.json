@@ -1,0 +1,235 @@
+{
+  "adult": false,
+  "backdrop_path": "/t1aAZrQrrqRDwqXNc5p72duVDKs.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.3dar.com/film-vfx/uncanny-valley/",
+  "id": 370925,
+  "imdb_id": "tt5269194",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "en",
+  "original_title": "Uncanny Valley",
+  "overview": "In the slums of the future, VR junkies satisfy their violent impulses in online entertainment. An expert player discovers that the line between games and reality is starting to fade away. A glimpse into a future where First Person Shooters have become a new drug for those disillusioned with society. The films examines the consequences of this on the global society.",
+  "popularity": 8.7669,
+  "poster_path": "/7VyMCJ1HteqYDZoHfCYli3GlDbZ.jpg",
+  "production_companies": [
+    {
+      "id": 69170,
+      "logo_path": "/bjmOEX6zgWysR6DiHHcNndRpVsP.png",
+      "name": "3dar",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2015-12-01",
+  "revenue": 0,
+  "runtime": 9,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Uncanny Valley",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3741697,
+        "known_for_department": "Acting",
+        "name": "Marcela Sandra Ballestero",
+        "original_name": "Marcela Sandra Ballestero",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Doctor",
+        "credit_id": "634ac864c8a2d4007a2fd1ba",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2591361,
+        "known_for_department": "Acting",
+        "name": "Steve Kisicki",
+        "original_name": "Steve Kisicki",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Gamer #1 (young blonde)",
+        "credit_id": "634ac86f89f749007d690f36",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1208240,
+        "known_for_department": "Acting",
+        "name": "Iván Steinhardt",
+        "original_name": "Iván Steinhardt",
+        "popularity": 0.1068,
+        "profile_path": "/cSXXCrkPFkB4uKH29YztxkKSAzC.jpg",
+        "cast_id": 10,
+        "character": "Gamer #2 (fat brunet with jersey)",
+        "credit_id": "634ac882d55c3d0090b32fa5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2880085,
+        "known_for_department": "Acting",
+        "name": "Agustin Olcese",
+        "original_name": "Agustin Olcese",
+        "popularity": 0.7993,
+        "profile_path": "/aik2xwgzoTuccaRduPEIIiKnKiX.jpg",
+        "cast_id": 11,
+        "character": "Gamer #3 (young beard with beanie)",
+        "credit_id": "634ac88e1b1f3c0081a9f8a5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1816794,
+        "known_for_department": "Acting",
+        "name": "Raymond E. Lee",
+        "original_name": "Raymond E. Lee",
+        "popularity": 0.5595,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Gamer #4 (old man in couch)",
+        "credit_id": "634ac89ac175b2007f80d8ba",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3741698,
+        "known_for_department": "Acting",
+        "name": "Nicole Apstein",
+        "original_name": "Nicole Apstein",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Old Woman",
+        "credit_id": "634ac8a2501cf2007f6f18f2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3741699,
+        "known_for_department": "Acting",
+        "name": "Vojtech Cekal",
+        "original_name": "Vojtech Cekal",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Alfie",
+        "credit_id": "634ac8a91b1f3c0079e762e1",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544142,
+        "known_for_department": "Writing",
+        "name": "Federico Heller",
+        "original_name": "Federico Heller",
+        "popularity": 0.0466,
+        "profile_path": "/AbkoRMRdO6LuaAt6qs3LY6NpDd0.jpg",
+        "credit_id": "565f7b67c3a36875e00001f0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544143,
+        "known_for_department": "Production",
+        "name": "German Heller",
+        "original_name": "German Heller",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "565f7b94c3a36875e90001ed",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544145,
+        "known_for_department": "Production",
+        "name": "Brandon Maseda",
+        "original_name": "Brandon Maseda",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "565f7baac3a36875f10001be",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1168379,
+        "known_for_department": "Visual Effects",
+        "name": "Fernando Maldonado",
+        "original_name": "Fernando Maldonado",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "566001aec3a36875f4002427",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1168378,
+        "known_for_department": "Visual Effects",
+        "name": "Jorge Tereso",
+        "original_name": "Jorge Tereso",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "566001cf9251417918002387",
+        "department": "Visual Effects",
+        "job": "VFX Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544142,
+        "known_for_department": "Writing",
+        "name": "Federico Heller",
+        "original_name": "Federico Heller",
+        "popularity": 0.0466,
+        "profile_path": "/AbkoRMRdO6LuaAt6qs3LY6NpDd0.jpg",
+        "credit_id": "56600ed39251417904002712",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

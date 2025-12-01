@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/4tcHzsDPmgCB0QGxQNbrmQkjfmC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 563959,
+  "imdb_id": "tt8322068",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Lilith",
+  "overview": "Lilith would have been the first woman of humanity, but she was expelled from heaven and doomed forever for opposing the patriarchal system of the kingdom of heaven. Now she is back, with her servants and her thirst for vengeance to destroy the order created by God and the Devil.",
+  "popularity": 4.7171,
+  "poster_path": "/cpSaE4pxttfMAErkmiaOp3lnDTm.jpg",
+  "production_companies": [
+    {
+      "id": 114194,
+      "logo_path": null,
+      "name": "Spaceman Entretenimento",
+      "origin_country": "BR"
+    },
+    {
+      "id": 114195,
+      "logo_path": null,
+      "name": "Balaio Produções Culturais",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2018-05-21",
+  "revenue": 0,
+  "runtime": 20,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lilith",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1052176,
+        "known_for_department": "Acting",
+        "name": "Gilda Nomacce",
+        "original_name": "Gilda Nomacce",
+        "popularity": 0.4924,
+        "profile_path": "/21D3MifllOSVqm8BIb8hmh9JOOn.jpg",
+        "cast_id": 0,
+        "character": "Lilith",
+        "credit_id": "5bf81d879251415cc10ea5c9",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181509,
+        "known_for_department": "Directing",
+        "name": "Edem Ortegal",
+        "original_name": "Edem Ortegal",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5bf81d970e0a264cfc01638e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181509,
+        "known_for_department": "Directing",
+        "name": "Edem Ortegal",
+        "original_name": "Edem Ortegal",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5c524bafc3a368576a9877f9",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "adult": false,
+  "backdrop_path": "/t7XMsc1mZUmEkdjGuiW4N078TQs.jpg",
+  "belongs_to_collection": null,
+  "budget": 650000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.linvestigateur-lefilm.com/",
+  "id": 40895,
+  "imdb_id": "tt1092021",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "A nyomozó",
+  "overview": "Tibor Malkáv is an andaverage 37-year-old man, who though not rich, leads a comfortable and uncomplicated life. All this changes when he finds out his mother is dying of cancer and the cost of surgery is well beyond his means. A one-eyed man known as the Cyclops offers Tibor a solution to his financial woes, however, there is a catch and Tibor has to kill someone in return. What follows is a chain reaction that has long-lasting and unexpected results.",
+  "popularity": 5.655,
+  "poster_path": "/rxgDkvaV9RtTDoM0Br45i84lnVo.jpg",
+  "production_companies": [
+    {
+      "id": 5353,
+      "logo_path": "/geDx1abLYhZECj8veAG0QLCWzMj.png",
+      "name": "Fastnet Films",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2008-07-10",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Investigator",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131215,
+        "known_for_department": "Acting",
+        "name": "Zsolt Anger",
+        "original_name": "Anger Zsolt",
+        "popularity": 0.2335,
+        "profile_path": "/jfZ4BXMMLfz8uzrQJFn5N4UGrHE.jpg",
+        "cast_id": 10,
+        "character": "Tibor Malkáv",
+        "credit_id": "52fe45a9c3a36847f80d3909",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131216,
+        "known_for_department": "Acting",
+        "name": "Judit Rezes",
+        "original_name": "Judit Rezes",
+        "popularity": 0.2165,
+        "profile_path": "/3AWcbfMfjQPHCupArUSFJKLd7NI.jpg",
+        "cast_id": 11,
+        "character": "Edit Pszotka",
+        "credit_id": "52fe45a9c3a36847f80d390d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131217,
+        "known_for_department": "Acting",
+        "name": "Sándor Terhes",
+        "original_name": "Sándor Terhes",
+        "popularity": 0.843,
+        "profile_path": "/bb6l9d88ET1X9MpPnK1ePsElr3Z.jpg",
+        "cast_id": 5,
+        "character": "Ferenc Szirmai",
+        "credit_id": "52fe45a9c3a36847f80d38fd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125259,
+        "known_for_department": "Acting",
+        "name": "Ildikó Tóth",
+        "original_name": "Ildikó Tóth",
+        "popularity": 0.0814,
+        "profile_path": "/xCB2qxR2keAGMG5qYMcHqJ027Tn.jpg",
+        "cast_id": 6,
+        "character": "Mrs. Szirmai",
+        "credit_id": "52fe45a9c3a36847f80d3901",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125380,
+        "known_for_department": "Acting",
+        "name": "Éva Kerekes",
+        "original_name": "Éva Kerekes",
+        "popularity": 0.0913,
+        "profile_path": "/yIz8sI8NozRT6qiKaJRBYiUf2oJ.jpg",
+        "cast_id": 12,
+        "character": "Ágnes Kurtész",
+        "credit_id": "52fe45a9c3a36847f80d3911",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131218,
+        "known_for_department": "Acting",
+        "name": "Zsolt Zágoni",
+        "original_name": "Zsolt Zágoni",
+        "popularity": 0.1909,
+        "profile_path": "/soQq9iEIAx1qDdJjfIVceKbV5rX.jpg",
+        "cast_id": 8,
+        "character": "Küklopsz",
+        "credit_id": "52fe45a9c3a36847f80d3905",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1470035,
+        "known_for_department": "Acting",
+        "name": "Péter Blaskó",
+        "original_name": "Péter Blaskó",
+        "popularity": 0.0981,
+        "profile_path": "/iiHkfWMmfmaDRUFyEBiJi3Gx4vG.jpg",
+        "cast_id": 15,
+        "character": "Kertész  Artúr",
+        "credit_id": "5b2fdc369251416fa2006eca",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 933031,
+        "known_for_department": "Acting",
+        "name": "Ilona Kassai",
+        "original_name": "Ilona Kassai",
+        "popularity": 0.9213,
+        "profile_path": "/un4aUTKRXs3m4IW7t40vdyr62Pu.jpg",
+        "cast_id": 16,
+        "character": "Malkáv anyja",
+        "credit_id": "5b2fdc620e0a26576400711e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1353072,
+        "known_for_department": "Acting",
+        "name": "Tamás Fodor",
+        "original_name": "Tamás Fodor",
+        "popularity": 0.0918,
+        "profile_path": "/cOqINufStogR1eTsK6vaS1uyhcK.jpg",
+        "cast_id": 17,
+        "character": "Könyvárus",
+        "credit_id": "5b2fdc8a0e0a26568c007c70",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1348127,
+        "known_for_department": "Acting",
+        "name": "Csaba Czene",
+        "original_name": "Csaba Czene",
+        "popularity": 0.0609,
+        "profile_path": "/f1qOLJv9360fX1DPPEK33WWdEqK.jpg",
+        "cast_id": 18,
+        "character": "Köpcös",
+        "credit_id": "5b2fdd33c3a3685876005d99",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2071466,
+        "known_for_department": "Acting",
+        "name": "Márton Baló",
+        "original_name": "Márton Baló",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "András",
+        "credit_id": "5b2fdd59c3a36858230070b1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2071472,
+        "known_for_department": "Acting",
+        "name": "Judit Lax",
+        "original_name": "Judit Lax",
+        "popularity": 0.0143,
+        "profile_path": "/yvFgBiBlVUJClCMIi5VZ7Y8nefZ.jpg",
+        "cast_id": 20,
+        "character": "Ápolónő",
+        "credit_id": "5b2fdf0c0e0a26563c0071b0",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1171049,
+        "known_for_department": "Acting",
+        "name": "Zsuzsa Járó",
+        "original_name": "Zsuzsa Járó",
+        "popularity": 0.0546,
+        "profile_path": "/eqOs4UiAzj5B4x7BzOS5qnRlm9O.jpg",
+        "cast_id": 21,
+        "character": "Titkárnő",
+        "credit_id": "5b2fdfc70e0a2656df007d18",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1390722,
+        "known_for_department": "Acting",
+        "name": "Ferenc Pusztai",
+        "original_name": "Ferenc Pusztai",
+        "popularity": 0.0311,
+        "profile_path": "/tJxu3iJxdVQSV3GLiaiDekEMNNL.jpg",
+        "cast_id": 22,
+        "character": "József",
+        "credit_id": "5b2fe03b9251416eee0076df",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1012245,
+        "known_for_department": "Acting",
+        "name": "Júlia Nagy",
+        "original_name": "Júlia Nagy",
+        "popularity": 0.075,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Évike anyja",
+        "credit_id": "5b2fe090c3a36843c50091ba",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2071481,
+        "known_for_department": "Production",
+        "name": "Helga Mandel",
+        "original_name": "Helga Mandel",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Jegyző",
+        "credit_id": "5b2fe0c60e0a265606007231",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2071483,
+        "known_for_department": "Acting",
+        "name": "Réka Kiss",
+        "original_name": "Réka Kiss",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Lány kerékpáron",
+        "credit_id": "5b2fe132c3a36858cb006641",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1183134,
+        "known_for_department": "Acting",
+        "name": "Réka Tenki",
+        "original_name": "Réka Tenki",
+        "popularity": 0.1432,
+        "profile_path": "/ggflWIAg43Ka4x7ImIdp6IFygQS.jpg",
+        "cast_id": 26,
+        "character": "Szőke nő",
+        "credit_id": "67ade0b5f28d95adb3d0b658",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1570488,
+        "known_for_department": "Writing",
+        "name": "Attila Gigor",
+        "original_name": "Attila Gigor",
+        "popularity": 0.106,
+        "profile_path": null,
+        "credit_id": "57cf3918c3a3684f1a002e5f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1570488,
+        "known_for_department": "Writing",
+        "name": "Attila Gigor",
+        "original_name": "Attila Gigor",
+        "popularity": 0.106,
+        "profile_path": null,
+        "credit_id": "57cf3925c3a3684f1a002e69",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

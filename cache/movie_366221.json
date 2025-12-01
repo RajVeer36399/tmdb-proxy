@@ -1,0 +1,400 @@
+{
+  "adult": false,
+  "backdrop_path": "/3AYIIl5FjNKtjpmYyQzuNTExdXw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 366221,
+  "imdb_id": "tt5186078",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Frank Zappa & The Mothers: Roxy: The Movie",
+  "overview": "A Frank Zappa show goes way beyond a mere concert – it is an experience…a flight of improvisation, musicianship, and cerebral cynicism. An unparalleled Composer and Guitarist, Zappa redefined rock n roll paradigms by introducing into the mix his favorite influences from classical music, jazz, blues, doowop, traditional and non-traditional music. And he did so with unparalleled humor and audacity. But it was the music itself that influenced generations of musicians and, quite frankly, blew minds. Roxy: The Movie, filmed over three nights in December 1973, at the Roxy Theatre in Hollywood, CA, is a powerful display of this experience, and reveals what made him such a pioneering musical revolutionary.",
+  "popularity": 6.8118,
+  "poster_path": "/aTld5m5UcxnlYNPIxgJBCOjrasE.jpg",
+  "production_companies": [
+    {
+      "id": 8273,
+      "logo_path": "/pXZ6qUs6bZUsS5zsRXrojW9aZ1f.png",
+      "name": "Eagle Rock Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-09-10",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every Fan His Prisoner...Every Guitar His Slave!",
+  "title": "Frank Zappa & The Mothers: Roxy: The Movie",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98539,
+        "known_for_department": "Acting",
+        "name": "Frank Zappa",
+        "original_name": "Frank Zappa",
+        "popularity": 0.7132,
+        "profile_path": "/gkuOsRbowspoXVlLJXLc0z8wlZh.jpg",
+        "cast_id": 0,
+        "character": "Himself",
+        "credit_id": "5635fe7ec3a3681b4b0188af",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110560,
+        "known_for_department": "Acting",
+        "name": "George Duke",
+        "original_name": "George Duke",
+        "popularity": 0.5042,
+        "profile_path": "/p56jpfTYsEvBEysxWsm2DotkvCW.jpg",
+        "cast_id": 1,
+        "character": "Himself",
+        "credit_id": "5635fea09251416d5200c0a1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90587,
+        "known_for_department": "Acting",
+        "name": "Napoleon Murphy Brock",
+        "original_name": "Napoleon Murphy Brock",
+        "popularity": 0.5014,
+        "profile_path": "/mnp3NQfLnyxaQK2rijlSsplUz3B.jpg",
+        "cast_id": 2,
+        "character": "Himself",
+        "credit_id": "5635feb5c3a3681b6101ae96",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1125545,
+        "known_for_department": "Acting",
+        "name": "Ruth Underwood",
+        "original_name": "Ruth Underwood",
+        "popularity": 0.4683,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Herself",
+        "credit_id": "5635fef2c3a3681b5e019428",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22645,
+        "known_for_department": "Acting",
+        "name": "Chester Thompson",
+        "original_name": "Chester Thompson",
+        "popularity": 0.3611,
+        "profile_path": "/zChZwQuwYp2R9ggZN1rliz1mhpR.jpg",
+        "cast_id": 6,
+        "character": "Himself",
+        "credit_id": "5635fefc9251414ad8018a77",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1593201,
+        "known_for_department": "Acting",
+        "name": "Ralph Humphrey",
+        "original_name": "Ralph Humphrey",
+        "popularity": 0.6119,
+        "profile_path": "/lmkfYlE4XhzgCxzOZwkXEbssEHa.jpg",
+        "cast_id": 9,
+        "character": "Himself",
+        "credit_id": "56ee54fdc3a3682265009a63",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1076823,
+        "known_for_department": "Acting",
+        "name": "Pamela Des Barres",
+        "original_name": "Pamela Des Barres",
+        "popularity": 0.1593,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Herself",
+        "credit_id": "5b49af0e9251417d2000a949",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662374,
+        "known_for_department": "Acting",
+        "name": "Carl Franzoni",
+        "original_name": "Carl Franzoni",
+        "popularity": 0.0849,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Himself",
+        "credit_id": "6490d36026346200eb777ec0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1096203,
+        "known_for_department": "Acting",
+        "name": "Tom Fowler",
+        "original_name": "Tom Fowler",
+        "popularity": 0.3745,
+        "profile_path": "/z3u7cBP0SdRBUa0TOEjlQSFGDRK.jpg",
+        "cast_id": 24,
+        "character": "Himself",
+        "credit_id": "6808760aac02d4407bab49b7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5397540,
+        "known_for_department": "Acting",
+        "name": "Brenda Starr Light",
+        "original_name": "Brenda Starr Light",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Herself",
+        "credit_id": "680c8e5d8077d25801377b1f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5397560,
+        "known_for_department": "Acting",
+        "name": "Lana",
+        "original_name": "Lana",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Dancer",
+        "credit_id": "680c93c8e5c105c8a56e2ca7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1458856,
+        "known_for_department": "Production",
+        "name": "Gail Zappa",
+        "original_name": "Gail Zappa",
+        "popularity": 0.5762,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Herself",
+        "credit_id": "680c943be5f65549446e30c7",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98539,
+        "known_for_department": "Acting",
+        "name": "Frank Zappa",
+        "original_name": "Frank Zappa",
+        "popularity": 0.7132,
+        "profile_path": "/gkuOsRbowspoXVlLJXLc0z8wlZh.jpg",
+        "credit_id": "56ed9a7e9251412f26000670",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98539,
+        "known_for_department": "Acting",
+        "name": "Frank Zappa",
+        "original_name": "Frank Zappa",
+        "popularity": 0.7132,
+        "profile_path": "/gkuOsRbowspoXVlLJXLc0z8wlZh.jpg",
+        "credit_id": "56ed9a91c3a3682259006c14",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98539,
+        "known_for_department": "Acting",
+        "name": "Frank Zappa",
+        "original_name": "Frank Zappa",
+        "popularity": 0.7132,
+        "profile_path": "/gkuOsRbowspoXVlLJXLc0z8wlZh.jpg",
+        "credit_id": "642657338de0ae00b653a7bb",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1603908,
+        "known_for_department": "Sound",
+        "name": "Bruce Botnick",
+        "original_name": "Bruce Botnick",
+        "popularity": 0.1213,
+        "profile_path": null,
+        "credit_id": "5b168a220e0a262dd9016ed7",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231540,
+        "known_for_department": "Production",
+        "name": "Terry Shand",
+        "original_name": "Terry Shand",
+        "popularity": 0.1072,
+        "profile_path": null,
+        "credit_id": "5b168acc925141787e01566b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120039,
+        "known_for_department": "Camera",
+        "name": "Barry Feinstein",
+        "original_name": "Barry Feinstein",
+        "popularity": 0.042,
+        "profile_path": null,
+        "credit_id": "5b168a680e0a262df10171b4",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1850845,
+        "known_for_department": "Editing",
+        "name": "John Albarian",
+        "original_name": "John Albarian",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "5b168930925141789c014f5a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231538,
+        "known_for_department": "Production",
+        "name": "Geoff Kempin",
+        "original_name": "Geoff Kempin",
+        "popularity": 0.1578,
+        "profile_path": null,
+        "credit_id": "5b168abd92514178910150b8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98539,
+        "known_for_department": "Acting",
+        "name": "Frank Zappa",
+        "original_name": "Frank Zappa",
+        "popularity": 0.7132,
+        "profile_path": "/gkuOsRbowspoXVlLJXLc0z8wlZh.jpg",
+        "credit_id": "6490d3c642bf0100c7fcc86c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1458856,
+        "known_for_department": "Production",
+        "name": "Gail Zappa",
+        "original_name": "Gail Zappa",
+        "popularity": 0.5762,
+        "profile_path": null,
+        "credit_id": "6490d3d7c3c89100ae5242ff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86906,
+        "known_for_department": "Acting",
+        "name": "Ahmet Zappa",
+        "original_name": "Ahmet Zappa",
+        "popularity": 0.2136,
+        "profile_path": "/lrQVoDzAVaHKBhUhbS7dOdPwIyQ.jpg",
+        "credit_id": "6490d3cec3c891012d5f038c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3079884,
+        "known_for_department": "Acting",
+        "name": "Joe Travers",
+        "original_name": "Joe Travers",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "6490d3ee559d2200c577e9ff",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 179546,
+        "known_for_department": "Directing",
+        "name": "Jeff Stein",
+        "original_name": "Jeff Stein",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5f9f0fb82790bf003845b91a",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

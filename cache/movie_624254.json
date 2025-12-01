@@ -1,0 +1,300 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 624254,
+  "imdb_id": "tt4122532",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Rosenbaum - Bländverk",
+  "overview": "At a porn club in Stockholm, a brutal murder is committed - and one of the striptease dancers takes the blame.",
+  "popularity": 6.7725,
+  "poster_path": "/AhE8xrEpG1XOglMOvqeEh38ip5P.jpg",
+  "production_companies": [
+    {
+      "id": 157,
+      "logo_path": "/s537keIoi6wUOU8E9ztWaV2DY1H.png",
+      "name": "SVT Drama",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1993-09-13",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rosenbaum - Bländverk",
+  "video": false,
+  "vote_average": 1,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38127,
+        "known_for_department": "Acting",
+        "name": "Erland Josephson",
+        "original_name": "Erland Josephson",
+        "popularity": 0.3262,
+        "profile_path": "/dopG1nAzyT23DMAPyPoUuwbZs4a.jpg",
+        "cast_id": 1,
+        "character": "Samuel Rosenbaum",
+        "credit_id": "5d59abff0e4fc800195560ff",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72372,
+        "known_for_department": "Acting",
+        "name": "Charlotte Sieling",
+        "original_name": "Charlotte Sieling",
+        "popularity": 0.2467,
+        "profile_path": "/hcgSpUhuQV94zTsdkCuAXGUvKRL.jpg",
+        "cast_id": 2,
+        "character": "Rhea Moser",
+        "credit_id": "5d59ac1ab77d4b0014e8c4c0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 82324,
+        "known_for_department": "Acting",
+        "name": "Petra Nielsen",
+        "original_name": "Petra Nielsen",
+        "popularity": 0.1658,
+        "profile_path": "/A8Li4Ezj3MXKt64g4e8Eh2RVYV.jpg",
+        "cast_id": 3,
+        "character": "Anette Joninger",
+        "credit_id": "5d59ac2ed2c0c1423b973ccf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81213,
+        "known_for_department": "Acting",
+        "name": "Barbro Oborg",
+        "original_name": "Barbro Oborg",
+        "popularity": 0.2281,
+        "profile_path": "/6NzmCnac8Sr7j7EvqeNCPK3Ey1n.jpg",
+        "cast_id": 4,
+        "character": "Sigrid Jonsson",
+        "credit_id": "5d59ac41b77d4b0014e8c4dd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21193,
+        "known_for_department": "Acting",
+        "name": "Peter Andersson",
+        "original_name": "Peter Andersson",
+        "popularity": 0.5403,
+        "profile_path": "/3QrCFAESqlCgwg10KLv1Wre0sKL.jpg",
+        "cast_id": 5,
+        "character": "Åke Blixt",
+        "credit_id": "5d59ac7a0443c900154984e3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92422,
+        "known_for_department": "Acting",
+        "name": "Lennart Hjulström",
+        "original_name": "Lennart Hjulström",
+        "popularity": 0.8852,
+        "profile_path": "/hVWCWtpinF3Aki6Z37Xjn7Nhp47.jpg",
+        "cast_id": 6,
+        "character": "Rolf Åhlund",
+        "credit_id": "5d59ac94da9ef200148d66ff",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1081275,
+        "known_for_department": "Acting",
+        "name": "Anders Beckman",
+        "original_name": "Anders Beckman",
+        "popularity": 0.1161,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Martin Hodell",
+        "credit_id": "5d59acdbda9ef200178d646c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74710,
+        "known_for_department": "Acting",
+        "name": "Marie Göranzon",
+        "original_name": "Marie Göranzon",
+        "popularity": 0.7985,
+        "profile_path": "/qS0KyLlXTLeR95RrwQX122iD66b.jpg",
+        "cast_id": 8,
+        "character": "Kristina Hedström, prosecutor",
+        "credit_id": "5d59ad04b77d4b0014e8c5e0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131578,
+        "known_for_department": "Acting",
+        "name": "Erik Sædén",
+        "original_name": "Erik Sædén",
+        "popularity": 0.0823,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Bertil Wikman, judge",
+        "credit_id": "5d59ad700e4fc80015555d2a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568683,
+        "known_for_department": "Acting",
+        "name": "Lasse Pöysti",
+        "original_name": "Lasse Pöysti",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Erik \"Lunkan\" Lundkvist",
+        "credit_id": "5d59ad9dd2c0c10011974ae9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112853,
+        "known_for_department": "Acting",
+        "name": "Jan Mybrand",
+        "original_name": "Jan Mybrand",
+        "popularity": 0.1927,
+        "profile_path": "/vWDRweuBUsTT0ZoFfVN9AhYg9L4.jpg",
+        "cast_id": 11,
+        "character": "Wiktorsson",
+        "credit_id": "5d59adb5b77d4b0019e8c6e7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 143392,
+        "known_for_department": "Acting",
+        "name": "Sharon Dyall",
+        "original_name": "Sharon Dyall",
+        "popularity": 0.1149,
+        "profile_path": "/ii9vNN5zKI6m9uXRsoyUybGbfkC.jpg",
+        "cast_id": 12,
+        "character": "Dorrit Hayes",
+        "credit_id": "5d59adced2c0c10013974c57",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76367,
+        "known_for_department": "Directing",
+        "name": "Kjell Sundvall",
+        "original_name": "Kjell Sundvall",
+        "popularity": 0.5711,
+        "profile_path": "/A3SCeLKrH3ojtQ2cMUfNtUUlPqJ.jpg",
+        "credit_id": "5d59adfb0443c90017498568",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 107654,
+        "known_for_department": "Writing",
+        "name": "Björn Gunnarsson",
+        "original_name": "Björn Gunnarsson",
+        "popularity": 0.4944,
+        "profile_path": null,
+        "credit_id": "5d59ae0e0443c9001749857c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76367,
+        "known_for_department": "Directing",
+        "name": "Kjell Sundvall",
+        "original_name": "Kjell Sundvall",
+        "popularity": 0.5711,
+        "profile_path": "/A3SCeLKrH3ojtQ2cMUfNtUUlPqJ.jpg",
+        "credit_id": "5d59ae1cb77d4b0019e8c82d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049236,
+        "known_for_department": "Writing",
+        "name": "Olov Svedelid",
+        "original_name": "Olov Svedelid",
+        "popularity": 0.0717,
+        "profile_path": null,
+        "credit_id": "5d59ae3d0e4fc800185560af",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2390609,
+        "known_for_department": "Writing",
+        "name": "Leif Silbersky",
+        "original_name": "Leif Silbersky",
+        "popularity": 0.0261,
+        "profile_path": "/poAYKHr1e4kwYMQNcyJPXDttJjk.jpg",
+        "credit_id": "5d59ae4cd2c0c10014974abf",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  }
+}

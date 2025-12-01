@@ -1,0 +1,396 @@
+{
+  "adult": false,
+  "backdrop_path": "/tD7zvUWcx6Uw54GiE0xzpGK15pT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.nbcfilm.com/3maymun/3maymun.php?mid=1",
+  "id": 8905,
+  "imdb_id": "tt1233381",
+  "origin_country": [
+    "TR",
+    "IT",
+    "FR"
+  ],
+  "original_language": "tr",
+  "original_title": "Üç maymun",
+  "overview": "A family battles against the odds to stay together when small lies grow into an extravagant cover-up. In order to avoid hardship and responsibilities that would otherwise be impossible to endure, the family chooses to ignore the truth, not to see, hear or talk about it. But does playing “Three Monkeys” invalidate the truth of its existence?",
+  "popularity": 10.1045,
+  "poster_path": "/tyIKP8SSTkw9xEXAG9lj5jEnIfW.jpg",
+  "production_companies": [
+    {
+      "id": 186,
+      "logo_path": "/1xlcFvAz1PQIkMhO0pBLBPW4PWY.png",
+      "name": "Pyramide Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 27100,
+      "logo_path": null,
+      "name": "Zeynofilm",
+      "origin_country": "TR"
+    },
+    {
+      "id": 27101,
+      "logo_path": null,
+      "name": "NBC Film",
+      "origin_country": "TR"
+    },
+    {
+      "id": 225,
+      "logo_path": "/oTRPUgdpWotA7Hi5gpioQO0MEyk.png",
+      "name": "BiM Distribuzione",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2008-05-16",
+  "revenue": 1930628,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Three Monkeys",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 213,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87221,
+        "known_for_department": "Acting",
+        "name": "Yavuz Bingöl",
+        "original_name": "Yavuz Bingöl",
+        "popularity": 0.3382,
+        "profile_path": "/pl3P9qjtHp5jdyRFcU83UW5fT5j.jpg",
+        "cast_id": 2,
+        "character": "Eyüp",
+        "credit_id": "52fe44c6c3a36847f80a9613",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87222,
+        "known_for_department": "Acting",
+        "name": "Hatice Aslan",
+        "original_name": "Hatice Aslan",
+        "popularity": 1.1966,
+        "profile_path": "/3AfcaaXYatSN5njBi3EbMzEG3Lg.jpg",
+        "cast_id": 3,
+        "character": "Hacer",
+        "credit_id": "52fe44c6c3a36847f80a9617",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291746,
+        "known_for_department": "Acting",
+        "name": "Ahmet Rıfat Şungar",
+        "original_name": "Ahmet Rıfat Şungar",
+        "popularity": 1.9539,
+        "profile_path": "/7tgV1HWmTkPNzhCLzjX0aVX7ZEA.jpg",
+        "cast_id": 22,
+        "character": "İsmail",
+        "credit_id": "5e67980a357c0000133bcd7d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87224,
+        "known_for_department": "Acting",
+        "name": "Ercan Kesal",
+        "original_name": "Ercan Kesal",
+        "popularity": 0.412,
+        "profile_path": "/krKWIjwR9oDRP3YWET81hsx4SwX.jpg",
+        "cast_id": 5,
+        "character": "Servet",
+        "credit_id": "52fe44c6c3a36847f80a961f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87225,
+        "known_for_department": "Acting",
+        "name": "Cafer Köse",
+        "original_name": "Cafer Köse",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Bayram",
+        "credit_id": "52fe44c6c3a36847f80a9623",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 87226,
+        "known_for_department": "Acting",
+        "name": "Gürkan Aydin",
+        "original_name": "Gürkan Aydin",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Çocuk",
+        "credit_id": "52fe44c6c3a36847f80a9627",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56214,
+        "known_for_department": "Directing",
+        "name": "Nuri Bilge Ceylan",
+        "original_name": "Nuri Bilge Ceylan",
+        "popularity": 0.2619,
+        "profile_path": "/32Xm1HyO2GuwoefCoTJchPsXV7L.jpg",
+        "credit_id": "52fe44c6c3a36847f80a960f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56214,
+        "known_for_department": "Directing",
+        "name": "Nuri Bilge Ceylan",
+        "original_name": "Nuri Bilge Ceylan",
+        "popularity": 0.2619,
+        "profile_path": "/32Xm1HyO2GuwoefCoTJchPsXV7L.jpg",
+        "credit_id": "53be5b17c3a3687e59002a0e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 307141,
+        "known_for_department": "Writing",
+        "name": "Ebru Ceylan",
+        "original_name": "Ebru Ceylan",
+        "popularity": 0.8943,
+        "profile_path": "/c4u4ktKaJdJTws7FQ47Zmv1eW7x.jpg",
+        "credit_id": "53be5b2ac3a3684cf9002cf1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87224,
+        "known_for_department": "Acting",
+        "name": "Ercan Kesal",
+        "original_name": "Ercan Kesal",
+        "popularity": 0.412,
+        "profile_path": "/krKWIjwR9oDRP3YWET81hsx4SwX.jpg",
+        "credit_id": "53be5b39c3a3684cef002e16",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 301260,
+        "known_for_department": "Production",
+        "name": "Zeynep Ozbatur Atakan",
+        "original_name": "Zeynep Ozbatur Atakan",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "590d13ad9251414e8d004c98",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 456963,
+        "known_for_department": "Camera",
+        "name": "Gökhan Tiryaki",
+        "original_name": "Gökhan Tiryaki",
+        "popularity": 0.2113,
+        "profile_path": "/gQjvYKmJThmCMekno7zkI68xpvK.jpg",
+        "credit_id": "590d1660c3a36864d40054cb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56214,
+        "known_for_department": "Directing",
+        "name": "Nuri Bilge Ceylan",
+        "original_name": "Nuri Bilge Ceylan",
+        "popularity": 0.2619,
+        "profile_path": "/32Xm1HyO2GuwoefCoTJchPsXV7L.jpg",
+        "credit_id": "590d16689251414e92005193",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1162242,
+        "known_for_department": "Editing",
+        "name": "Ayhan Ergürsel",
+        "original_name": "Ayhan Ergürsel",
+        "popularity": 0.1041,
+        "profile_path": "/nsZrpC66X5L0ntUVimiBPakKcx3.jpg",
+        "credit_id": "590d1671c3a36864ec004c7a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1600453,
+        "known_for_department": "Editing",
+        "name": "Bora Göksingöl",
+        "original_name": "Bora Göksingöl",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "590d16789251414edb00521a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5137,
+        "known_for_department": "Production",
+        "name": "Harika Uygur",
+        "original_name": "Harika Uygur",
+        "popularity": 0.6773,
+        "profile_path": "/sBpAGUU1MKdWXLo1z1Kv4xkGH8z.jpg",
+        "credit_id": "590d167f9251414e890053a5",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 307141,
+        "known_for_department": "Writing",
+        "name": "Ebru Ceylan",
+        "original_name": "Ebru Ceylan",
+        "popularity": 0.8943,
+        "profile_path": "/c4u4ktKaJdJTws7FQ47Zmv1eW7x.jpg",
+        "credit_id": "590d1686c3a36864d40054e8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6099,
+        "known_for_department": "Production",
+        "name": "Valerio De Paolis",
+        "original_name": "Valerio De Paolis",
+        "popularity": 0.1136,
+        "profile_path": "/rbsYkbJPgQAMuFY71RYrYatdXWT.jpg",
+        "credit_id": "590d169ec3a368650a004ee9",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1811270,
+        "known_for_department": "Production",
+        "name": "Cemal Noyan",
+        "original_name": "Cemal Noyan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "590d16a69251414e800051bf",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 990962,
+        "known_for_department": "Production",
+        "name": "Fabienne Vonier",
+        "original_name": "Fabienne Vonier",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "590d16aec3a36864d4005503",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56214,
+        "known_for_department": "Directing",
+        "name": "Nuri Bilge Ceylan",
+        "original_name": "Nuri Bilge Ceylan",
+        "popularity": 0.2619,
+        "profile_path": "/32Xm1HyO2GuwoefCoTJchPsXV7L.jpg",
+        "credit_id": "646735bb006b01018957df4d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1393300,
+        "known_for_department": "Sound",
+        "name": "Jack Stew",
+        "original_name": "Jack Stew",
+        "popularity": 0.3488,
+        "profile_path": null,
+        "credit_id": "66fa28760f6fa2cfce5f90f1",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2699254,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gülcan Bayar Öge",
+        "original_name": "Gülcan Bayar Öge",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "credit_id": "66fa28991a9c9188fecc7f14",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  }
+}

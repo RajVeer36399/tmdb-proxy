@@ -1,0 +1,387 @@
+{
+  "adult": false,
+  "backdrop_path": "/2ZJK5NBNOzDZCgBMvcom1rXiEqP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 636594,
+  "imdb_id": "tt10540146",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Yaya e Lennie - The Walking Liberty",
+  "overview": "Immersed in the jungle, among relics of a \"forgotten future\", two kids, Yaya and Lennie, meander. The two live freely in their Eden until armed men, who carry with them an \"ancient\" concept of civilization, force them to leave their territory. It is the beginning of a journey in search of their place in a world that no longer belongs to man.",
+  "popularity": 5.8504,
+  "poster_path": "/hZP1oC1guPd1reEN2YUJYyERUE5.jpg",
+  "production_companies": [
+    {
+      "id": 123682,
+      "logo_path": "/2Nk24ubQNCkekarcDEDug0Pc9Z2.png",
+      "name": "Mad Entertainment",
+      "origin_country": "IT"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2021-11-04",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Yaya & Lennie - The Walking Liberty",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1882433,
+        "known_for_department": "Acting",
+        "name": "Ciro Priello",
+        "original_name": "Ciro Priello",
+        "popularity": 0.3247,
+        "profile_path": "/kNARdp7nQUjZeXH2GEbbRc84jiI.jpg",
+        "cast_id": 2,
+        "character": "Lennie (voice)",
+        "credit_id": "60d33c3fa27502005fd3ff63",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2864052,
+        "known_for_department": "Acting",
+        "name": "Fabiola Balestriere",
+        "original_name": "Fabiola Balestriere",
+        "popularity": 0.1798,
+        "profile_path": "/5IIqUTU33nXlhWq0E91Fy0cStuG.jpg",
+        "cast_id": 3,
+        "character": "Yaya (voice)",
+        "credit_id": "60d33ca66c8492007eb4222a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27642,
+        "known_for_department": "Acting",
+        "name": "Lina Sastri",
+        "original_name": "Lina Sastri",
+        "popularity": 0.4738,
+        "profile_path": "/vViPK2tuz69Nj7XjisEBRT4amIw.jpg",
+        "cast_id": 4,
+        "character": "Zia Claire (voice)",
+        "credit_id": "60d33cada275020047a2ad17",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88470,
+        "known_for_department": "Acting",
+        "name": "Francesco Pannofino",
+        "original_name": "Francesco Pannofino",
+        "popularity": 0.1524,
+        "profile_path": "/Awa8BwKFtQjrj9uBA1jTo6DEX26.jpg",
+        "cast_id": 5,
+        "character": "Rospoleòn (voice)",
+        "credit_id": "60d33cbb35c30a002710c55b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124624,
+        "known_for_department": "Acting",
+        "name": "Massimiliano Gallo",
+        "original_name": "Massimiliano Gallo",
+        "popularity": 0.8804,
+        "profile_path": "/stBoRhASHWEMCjG2EeC6PMlJGab.jpg",
+        "cast_id": 6,
+        "character": "Capitano Lux (voice)",
+        "credit_id": "60d33cc4a275020076d0ec55",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226353,
+        "known_for_department": "Acting",
+        "name": "Tommaso Ragno",
+        "original_name": "Tommaso Ragno",
+        "popularity": 0.523,
+        "profile_path": "/jxCSg7hYjhilnYpTjXCFjGox5v6.jpg",
+        "cast_id": 7,
+        "character": "Zio Giò (voice)",
+        "credit_id": "60d33ccd8d1b8e005eb92fcd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3134033,
+        "known_for_department": "Acting",
+        "name": "Fabrizio Botta",
+        "original_name": "Fabrizio Botta",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Andrè (voice)",
+        "credit_id": "60d33cd8a27502002fc2b913",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865276,
+        "known_for_department": "Acting",
+        "name": "Fabio Balsamo",
+        "original_name": "Fabio Balsamo",
+        "popularity": 0.0895,
+        "profile_path": "/aPrjSdBn56uapmrK1ihtspBkpQO.jpg",
+        "cast_id": 16,
+        "character": "Tom Tom (voice)",
+        "credit_id": "617a380c0d5d850043831466",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1882434,
+        "known_for_department": "Acting",
+        "name": "Federica Altamura",
+        "original_name": "Federica Altamura",
+        "popularity": 0.0558,
+        "profile_path": "/t4pQ7ZuQoWcBJpO7YJeOBFRqS2S.jpg",
+        "cast_id": 17,
+        "character": "Greta (voice)",
+        "credit_id": "61fd1b0cb7abb50091dfca47",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454486,
+        "known_for_department": "Acting",
+        "name": "Shalana Santana",
+        "original_name": "Shalana Santana",
+        "popularity": 0.1458,
+        "profile_path": "/jJq21exlVudAK8oAGsK8OoDg4FI.jpg",
+        "cast_id": 18,
+        "character": "Karol (voice)",
+        "credit_id": "61fd1b297a97ab0047e6fe1a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1273670,
+        "known_for_department": "Acting",
+        "name": "Antonio Brachi",
+        "original_name": "Antonio Brachi",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Bred Pit (voice)",
+        "credit_id": "61fd1b53d100b60043c642e9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2069037,
+        "known_for_department": "Acting",
+        "name": "Roberto del Gaudio",
+        "original_name": "Roberto del Gaudio",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Biondo (voice)",
+        "credit_id": "61fd1b795c32470116fbae01",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1002044,
+        "known_for_department": "Acting",
+        "name": "Antonin Stahly-Vishwanadan",
+        "original_name": "Antonin Stahly-Vishwanadan",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Tony (voice)",
+        "credit_id": "61fd1baf072166011ba0bc42",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1724363,
+        "known_for_department": "Writing",
+        "name": "Maurizio De Giovanni",
+        "original_name": "Maurizio De Giovanni",
+        "popularity": 0.1001,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Banconista (voice)",
+        "credit_id": "61fd1c18ce997a006bbfeff1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498166,
+        "known_for_department": "Acting",
+        "name": "Jago",
+        "original_name": "Jago",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Istitutore (voice)",
+        "credit_id": "61fd1c2afe6c1800c20c5365",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1273660,
+        "known_for_department": "Directing",
+        "name": "Alessandro Rak",
+        "original_name": "Alessandro Rak",
+        "popularity": 0.0881,
+        "profile_path": "/mrKFklqAy9DrtKwJNOTyx6BWeMj.jpg",
+        "credit_id": "60d33df9957e6d007316b3f9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1273663,
+        "known_for_department": "Production",
+        "name": "Luciano Stella",
+        "original_name": "Luciano Stella",
+        "popularity": 0.7986,
+        "profile_path": null,
+        "credit_id": "60d33e0cc9dbf90045aa7ae9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2897750,
+        "known_for_department": "Production",
+        "name": "Carlo Stella",
+        "original_name": "Carlo Stella",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "60f5f71baf58cb002f3b8b8f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3164104,
+        "known_for_department": "Crew",
+        "name": "Corrado Piscitelli",
+        "original_name": "Corrado Piscitelli",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "60f5f7414c2592005e66fc79",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1882425,
+        "known_for_department": "Writing",
+        "name": "Marino Guarnieri",
+        "original_name": "Marino Guarnieri",
+        "popularity": 0.0907,
+        "profile_path": "/bUuEfPgSEnbFrI60XEUUeM8qBVT.jpg",
+        "credit_id": "60f5f7317b7b4d005c49814a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1273660,
+        "known_for_department": "Directing",
+        "name": "Alessandro Rak",
+        "original_name": "Alessandro Rak",
+        "popularity": 0.0881,
+        "profile_path": "/mrKFklqAy9DrtKwJNOTyx6BWeMj.jpg",
+        "credit_id": "60f5f7258258fc007396c835",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2160031,
+        "known_for_department": "Production",
+        "name": "Maria Carolina Terzi",
+        "original_name": "Maria Carolina Terzi",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "60f5f7104c25921a80e260b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1273660,
+        "known_for_department": "Directing",
+        "name": "Alessandro Rak",
+        "original_name": "Alessandro Rak",
+        "popularity": 0.0881,
+        "profile_path": "/mrKFklqAy9DrtKwJNOTyx6BWeMj.jpg",
+        "credit_id": "5d97494529c6263519866586",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1363235,
+  "imdb_id": "tt32875554",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wild Animals",
+  "overview": "A father and son's hunting trip turns into a nightmare when the boy reluctantly kills a strange animal, activating a curse.",
+  "popularity": 4.1043,
+  "poster_path": "/rupvdtTiYtuOkwjaKTjckJS0b8E.jpg",
+  "production_companies": [
+    {
+      "id": 240277,
+      "logo_path": null,
+      "name": "Riot Girl Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-18",
+  "revenue": 0,
+  "runtime": 8,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Wild Animals",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31268,
+        "known_for_department": "Acting",
+        "name": "Larry Fessenden",
+        "original_name": "Larry Fessenden",
+        "popularity": 1.8614,
+        "profile_path": "/imQGskBT7IjqHLVJDQFLR1h1UPH.jpg",
+        "cast_id": 1,
+        "character": "Father",
+        "credit_id": "66f834f47f13b7b12aa219a8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968656,
+        "known_for_department": "Acting",
+        "name": "Teddy Biggins",
+        "original_name": "Teddy Biggins",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Boy",
+        "credit_id": "66f835022c4bdc9db05f3c27",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2793728,
+        "known_for_department": "Directing",
+        "name": "David B. Jacobs",
+        "original_name": "David B. Jacobs",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "66f835182c4bdc9db05f3c2c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2793728,
+        "known_for_department": "Directing",
+        "name": "David B. Jacobs",
+        "original_name": "David B. Jacobs",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "66f835287f13b7b12aa219ba",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2793708,
+        "known_for_department": "Art",
+        "name": "Deidra Catero",
+        "original_name": "Deidra Catero",
+        "popularity": 0.8586,
+        "profile_path": null,
+        "credit_id": "66f836201a9c9188fecc25b2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2963818,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Patrick Saint Jean",
+        "original_name": "Patrick Saint Jean",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "66f83677f5d56e9ed8a21e4f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2020485,
+        "known_for_department": "Directing",
+        "name": "John Robert Hammerer",
+        "original_name": "John Robert Hammerer",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "66f836b3140fbf6a1a5f4485",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4234777,
+        "known_for_department": "Directing",
+        "name": "Melissa Rodriguez",
+        "original_name": "Melissa Rodríguez",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "66f837302c4bdc9db05f3cad",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2164660,
+        "known_for_department": "Camera",
+        "name": "Sheldon J. Walker",
+        "original_name": "Sheldon J. Walker",
+        "popularity": 0.0535,
+        "profile_path": null,
+        "credit_id": "66f86dde621e8616b45f4a2e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

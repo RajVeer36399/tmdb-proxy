@@ -1,0 +1,182 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1049265,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lou Reed: Through the Years: New York 1983 - Spain 2004",
+  "overview": "Lou Reed — once the androgynous rock poet of the Velvet Underground, then a godfather of punk, now a weathered icon of courage and adventurousness in American music — in two astonishing live concerts, one from New York's fabled Bottom Line in 1983, one from the 2004 Benicassim Festival in Spain.  With selections deftly mixed and matched for maximum effect, these two concerts allow us to time-travel between key phases of an amazing career, as Reed reinvents classic songs from his Velvets and early solo period and presents adventurous new work — always with the unmistakable droning, dissonance, and literary intelligence that are part and parcel of the Lou Reed approach to rock and roll, and to his adventures in post-classical minimalism and even free jazz, all key to his unique sensibility.",
+  "popularity": 9.0569,
+  "poster_path": "/qiiQA1GXCbwKEBJthn8N87nrBo7.jpg",
+  "production_companies": [
+    {
+      "id": 149534,
+      "logo_path": null,
+      "name": "Hudson/Street",
+      "origin_country": ""
+    },
+    {
+      "id": 49252,
+      "logo_path": null,
+      "name": "Cinema One",
+      "origin_country": ""
+    },
+    {
+      "id": 38373,
+      "logo_path": null,
+      "name": "Cinevu Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-09-04",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lou Reed: Through the Years: New York 1983 - Spain 2004",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46392,
+        "known_for_department": "Acting",
+        "name": "Lou Reed",
+        "original_name": "Lou Reed",
+        "popularity": 5.8376,
+        "profile_path": "/lWFiXdQtYHqr2EXnk5nhDFm36XF.jpg",
+        "cast_id": 1,
+        "character": "Vocals / Guitar",
+        "credit_id": "6374efbbc995ee009b6d957c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1032602,
+        "known_for_department": "Acting",
+        "name": "Robert Quine",
+        "original_name": "Robert Quine",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Guitar",
+        "credit_id": "6374efd3d7dcd200cd366220",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1032603,
+        "known_for_department": "Acting",
+        "name": "Fernando Saunders",
+        "original_name": "Fernando Saunders",
+        "popularity": 0.0143,
+        "profile_path": "/uz4Lqx5QJZ7DFQTu7SQnPEMGdFv.jpg",
+        "cast_id": 3,
+        "character": "Bass / Vocals",
+        "credit_id": "6374efe8c995ee00d55a3af5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1032604,
+        "known_for_department": "Acting",
+        "name": "Fred Maher",
+        "original_name": "Fred Maher",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Drums",
+        "credit_id": "6374f005c995ee007670178d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2320023,
+        "known_for_department": "Acting",
+        "name": "Mike Rathke",
+        "original_name": "Mike Rathke",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Guitar",
+        "credit_id": "6374f02ec995ee0076701798",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2320024,
+        "known_for_department": "Acting",
+        "name": "Tony Thunder Smith",
+        "original_name": "Tony Thunder Smith",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Drums",
+        "credit_id": "6374f0557a1bd60082228143",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3788824,
+        "known_for_department": "Acting",
+        "name": "Jane Scarpantoni",
+        "original_name": "Jane Scarpantoni",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Cello",
+        "credit_id": "6374f06bc995ee009b6d95b9",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3758507,
+        "known_for_department": "Production",
+        "name": "John Matarazzo",
+        "original_name": "John Matarazzo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6374f099d7dcd200cd36625f",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

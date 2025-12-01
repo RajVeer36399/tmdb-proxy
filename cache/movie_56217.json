@@ -1,0 +1,464 @@
+{
+  "adult": false,
+  "backdrop_path": "/8LJHzy1nbTzpJVzOVu2DprML3qz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 56217,
+  "imdb_id": "tt0118811",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Call of the Wild: Dog of the Yukon",
+  "overview": "Jack London's classic story from 1903 about Buck, a dog kidnapped from his home in California and taken to the Yukon where he is mistreated until a prospector discovers him and relates to his situation. Although the two are bonded, Buck yearns to run free with the wild dogs in the wilderness.",
+  "popularity": 6.5215,
+  "poster_path": "/nbGRXPPfFCqYwn9vQt5EbfEeTLj.jpg",
+  "production_companies": [
+    {
+      "id": 4056,
+      "logo_path": "/dnz7zZ2e11usyjPG3mTYvJfyciD.png",
+      "name": "Hallmark Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 6595,
+      "logo_path": null,
+      "name": "Fries/Schultz Film Group",
+      "origin_country": ""
+    },
+    {
+      "id": 26793,
+      "logo_path": null,
+      "name": "Kingsborough Greenlight Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1997-06-22",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Call of the Wild: Dog of the Yukon",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 39,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585,
+        "known_for_department": "Acting",
+        "name": "Rutger Hauer",
+        "original_name": "Rutger Hauer",
+        "popularity": 1.2449,
+        "profile_path": "/45kp2fmVWloddrz7LF94MmT4tWf.jpg",
+        "cast_id": 1,
+        "character": "John Thornton",
+        "credit_id": "52fe48f4c3a36847f818207b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3037,
+        "known_for_department": "Acting",
+        "name": "Richard Dreyfuss",
+        "original_name": "Richard Dreyfuss",
+        "popularity": 2.3273,
+        "profile_path": "/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg",
+        "cast_id": 2,
+        "character": "Narrator (voice)",
+        "credit_id": "52fe48f4c3a36847f818207f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2074291,
+        "known_for_department": "Acting",
+        "name": "Raymond Ducasse",
+        "original_name": "Raymond Ducasse",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Judge Miller",
+        "credit_id": "5ec81c398e2e003dd6127cc3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 190060,
+        "known_for_department": "Acting",
+        "name": "Eric Hoziel",
+        "original_name": "Eric Hoziel",
+        "popularity": 0.2131,
+        "profile_path": "/tsojIjvdv5uPL6Kdw8NVhziwOmA.jpg",
+        "cast_id": 17,
+        "character": "The Kidnapper",
+        "credit_id": "5ec81c49e635710020ce5cc9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548035,
+        "known_for_department": "Acting",
+        "name": "Deano Clavet",
+        "original_name": "Deano Clavet",
+        "popularity": 0.1146,
+        "profile_path": "/2EBF4kMnu5x0JXPegmVdzGEZFDp.jpg",
+        "cast_id": 18,
+        "character": "The Baggage Man",
+        "credit_id": "5ec81c5a8e2e000020205f18",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548202,
+        "known_for_department": "Acting",
+        "name": "Barry Blake",
+        "original_name": "Barry Blake",
+        "popularity": 0.6092,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "The Man in the Red Sweater",
+        "credit_id": "5ec81c6d140bad001b1975cc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1056479,
+        "known_for_department": "Acting",
+        "name": "Luc Morissette",
+        "original_name": "Luc Morissette",
+        "popularity": 0.3827,
+        "profile_path": "/hZvd6t0NLyBDxFiNNvxXnV1dO4C.jpg",
+        "cast_id": 20,
+        "character": "M. Perrault",
+        "credit_id": "5ec81c7d140bad001c181bb7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1515816,
+        "known_for_department": "Acting",
+        "name": "Robert-Pierre Côté",
+        "original_name": "Robert-Pierre Côté",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "François",
+        "credit_id": "5ec81c906b5fc2001f4186aa",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901262,
+        "known_for_department": "Acting",
+        "name": "Bernard Ranger",
+        "original_name": "Bernard Ranger",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "The Government Clerk",
+        "credit_id": "5ec81dd0140bad001c181c48",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1177959,
+        "known_for_department": "Acting",
+        "name": "Burke Lawrence",
+        "original_name": "Burke Lawrence",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Charles",
+        "credit_id": "5ec81df7e635710022d017c9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 164275,
+        "known_for_department": "Acting",
+        "name": "Bronwen Booth",
+        "original_name": "Bronwen Booth",
+        "popularity": 0.5179,
+        "profile_path": "/d4Gx6IJwmBNmrBSloxTp2UhCiVA.jpg",
+        "cast_id": 24,
+        "character": "Mercedes",
+        "credit_id": "5ec81e139979d20020321b1f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61948,
+        "known_for_department": "Acting",
+        "name": "Howard Rosenstein",
+        "original_name": "Howard Rosenstein",
+        "popularity": 0.2023,
+        "profile_path": "/sCrGZIa5xK5COEHu5pxxlEn6Wlm.jpg",
+        "cast_id": 26,
+        "character": "The Savvy Prospector #1",
+        "credit_id": "5ec81e66140bad001c181c85",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7014,
+        "known_for_department": "Acting",
+        "name": "Michel Perron",
+        "original_name": "Michel Perron",
+        "popularity": 0.2401,
+        "profile_path": "/uRSJnvcmA8WOC4FFwv8Iz7bRs3T.jpg",
+        "cast_id": 27,
+        "character": "The Savvy Prospector #2",
+        "credit_id": "5ec81e7c9979d200213a88ac",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 218899,
+        "known_for_department": "Acting",
+        "name": "John Dunn-Hill",
+        "original_name": "John Dunn-Hill",
+        "popularity": 0.256,
+        "profile_path": "/gyTy14cdl7XIDLA6rpRtnOO5GA.jpg",
+        "cast_id": 28,
+        "character": "Hans",
+        "credit_id": "5ec81f59595a56001bb92a3d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32887,
+        "known_for_department": "Acting",
+        "name": "Christopher Heyerdahl",
+        "original_name": "Christopher Heyerdahl",
+        "popularity": 1.5866,
+        "profile_path": "/pTPZa3TFIkxRbqM5adXYE51a99s.jpg",
+        "cast_id": 29,
+        "character": "Fellow Gambler #2",
+        "credit_id": "64c8620ef794ad011cb045e9",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81308,
+        "known_for_department": "Acting",
+        "name": "Charles Edwin Powell",
+        "original_name": "Charles Edwin Powell",
+        "popularity": 0.2258,
+        "profile_path": "/mowURgrpAtbFn0OU1rrtTo6LXzQ.jpg",
+        "cast_id": 31,
+        "character": "Hal",
+        "credit_id": "655f19c7244182014e87ba5c",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147792,
+        "known_for_department": "Directing",
+        "name": "Peter Svatek",
+        "original_name": "Peter Svatek",
+        "popularity": 0.235,
+        "profile_path": null,
+        "credit_id": "52fe48f4c3a36847f8182085",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2941189,
+        "known_for_department": "Production",
+        "name": "Graham Ludlow",
+        "original_name": "Graham Ludlow",
+        "popularity": 0.0831,
+        "profile_path": "/kEZQ0sTqswNG7oQ0bjfQiaVjqo6.jpg",
+        "credit_id": "6510f740e1faed013a0b67e0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57815,
+        "known_for_department": "Production",
+        "name": "John Buchanan",
+        "original_name": "John Buchanan",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "5ec6bc58140bad001b181293",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1318146,
+        "known_for_department": "Art",
+        "name": "Michael Devine",
+        "original_name": "Michael Devine",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "5ec6bb8be635710022cdf6d0",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59004,
+        "known_for_department": "Production",
+        "name": "Walter Josten",
+        "original_name": "Walter Josten",
+        "popularity": 0.0929,
+        "profile_path": null,
+        "credit_id": "5ec6bcf18e2e0000201ec8b3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59003,
+        "known_for_department": "Production",
+        "name": "Jeff Geoffray",
+        "original_name": "Jeff Geoffray",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "credit_id": "5ec6bcc49979d20020312ae3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 947738,
+        "known_for_department": "Production",
+        "name": "Julie Allan",
+        "original_name": "Julie Allan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5ec6bd86d2147c0023bde737",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23862,
+        "known_for_department": "Production",
+        "name": "Gary Howsam",
+        "original_name": "Gary Howsam",
+        "popularity": 0.1765,
+        "profile_path": null,
+        "credit_id": "5ec6bc8c5a5ed00020440680",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71759,
+        "known_for_department": "Writing",
+        "name": "Jack London",
+        "original_name": "Jack London",
+        "popularity": 0.2295,
+        "profile_path": "/yPxh8d81glVOfv5xosR5L1vxdJs.jpg",
+        "credit_id": "5ec6b43ae635710021cc052a",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71956,
+        "known_for_department": "Production",
+        "name": "Pieter Kroonenburg",
+        "original_name": "Pieter Kroonenburg",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "credit_id": "5ec6bd52e635710021cc0a93",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 52340,
+        "known_for_department": "Camera",
+        "name": "Sylvain Brault",
+        "original_name": "Sylvain Brault",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5ec81b7e6b5fc2001d417f7b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413896,
+        "known_for_department": "Sound",
+        "name": "Alan Reeves",
+        "original_name": "Alan Reeves",
+        "popularity": 0.6476,
+        "profile_path": null,
+        "credit_id": "67c74aae84da21133eac9521",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

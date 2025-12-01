@@ -1,0 +1,308 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 458896,
+  "imdb_id": "tt4540534",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Nightingale",
+  "overview": "The lives of two French sisters are torn apart by the onset of World War II.",
+  "popularity": 6.2302,
+  "poster_path": "/ghcC57Zl7qmOZWFqvc6aPBUC2fA.jpg",
+  "production_companies": [
+    {
+      "id": 71170,
+      "logo_path": null,
+      "name": "The Cantillon Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 559,
+      "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 142741,
+      "logo_path": null,
+      "name": "Lewellen Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 105382,
+      "logo_path": "/b94sYzp4YUqi3DqIUnWnfrmxlN.png",
+      "name": "Hello Sunshine",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2027-02-11",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "title": "The Nightingale",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18050,
+        "known_for_department": "Acting",
+        "name": "Elle Fanning",
+        "original_name": "Elle Fanning",
+        "popularity": 28.2748,
+        "profile_path": "/e8CUyxQSE99y5IOfzSLtHC0B0Ch.jpg",
+        "cast_id": 6,
+        "character": "Isabelle",
+        "credit_id": "5de8703011386c001156861a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 501,
+        "known_for_department": "Acting",
+        "name": "Dakota Fanning",
+        "original_name": "Dakota Fanning",
+        "popularity": 7.945,
+        "profile_path": "/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg",
+        "cast_id": 7,
+        "character": "Vianne",
+        "credit_id": "5de870373faba00013148f96",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1932549,
+        "known_for_department": "Writing",
+        "name": "Kristin Hannah",
+        "original_name": "Kristin Hannah",
+        "popularity": 0.1209,
+        "profile_path": "/kZEMbXcUjScNlmmxdgnAG2Xx092.jpg",
+        "credit_id": "5a20570bc3a3680b8f093798",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11898,
+        "known_for_department": "Acting",
+        "name": "Dana Stevens",
+        "original_name": "Dana Stevens",
+        "popularity": 0.4205,
+        "profile_path": "/jk8v5NkjlaVDB6cvvuhVtEu87SQ.jpg",
+        "credit_id": "5de8709211386c0016572109",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1366450,
+        "known_for_department": "Directing",
+        "name": "Michael Morris",
+        "original_name": "Michael Morris",
+        "popularity": 0.9645,
+        "profile_path": "/2tvHMQ1OcOUxeAMDQPI4cWGwnRo.jpg",
+        "credit_id": "687fe3323cf100600b5295e4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 501,
+        "known_for_department": "Acting",
+        "name": "Dakota Fanning",
+        "original_name": "Dakota Fanning",
+        "popularity": 7.945,
+        "profile_path": "/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg",
+        "credit_id": "687fe3451d76c9aaa9f771f5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18050,
+        "known_for_department": "Acting",
+        "name": "Elle Fanning",
+        "original_name": "Elle Fanning",
+        "popularity": 28.2748,
+        "profile_path": "/e8CUyxQSE99y5IOfzSLtHC0B0Ch.jpg",
+        "credit_id": "687fe34c8beea02e6e8a5202",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56760,
+        "known_for_department": "Production",
+        "name": "Elizabeth Cantillon",
+        "original_name": "Elizabeth Cantillon",
+        "popularity": 0.4056,
+        "profile_path": null,
+        "credit_id": "687fe360d43cbc8a1355d79a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1941137,
+        "known_for_department": "Production",
+        "name": "Brittany Kahan Ward",
+        "original_name": "Brittany Kahan Ward",
+        "popularity": 0.1161,
+        "profile_path": "/2tg1aL2zzsyEMpBqYJk3J6rwVzU.jpg",
+        "credit_id": "687fe36f72ce78392c8a534c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 368,
+        "known_for_department": "Acting",
+        "name": "Reese Witherspoon",
+        "original_name": "Reese Witherspoon",
+        "popularity": 3.4913,
+        "profile_path": "/o1z4UwW2137IViFIRk8AV8hWze1.jpg",
+        "credit_id": "687fe380dff0081dac72d430",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2059513,
+        "known_for_department": "Production",
+        "name": "Lauren Neustadter",
+        "original_name": "Lauren Neustadter",
+        "popularity": 0.2559,
+        "profile_path": null,
+        "credit_id": "687fe387b756a2f57d529590",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1335159,
+        "known_for_department": "Art",
+        "name": "Suzie Davies",
+        "original_name": "Suzie Davies",
+        "popularity": 0.5322,
+        "profile_path": "/oxF1ivR63u1BWOW9c2gpr3Wp3lE.jpg",
+        "credit_id": "68b8a54c7618bd35c11bb379",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1443027,
+        "known_for_department": "Art",
+        "name": "Peter Findley",
+        "original_name": "Peter Findley",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "68b8a5667adab25efd9bb063",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1571109,
+        "known_for_department": "Art",
+        "name": "Zsuzsanna Borvendég",
+        "original_name": "Zsuzsanna Borvendég",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "68b8a586835743b3c7068aa4",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1024844,
+        "known_for_department": "Art",
+        "name": "Charlotte Dirickx",
+        "original_name": "Charlotte Dirickx",
+        "popularity": 0.6594,
+        "profile_path": "/nccg8qvOToFVaMA1Jfzh3wSlsNl.jpg",
+        "credit_id": "68b8a5a3ae986077d29bb01c",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1540833,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tracey Wells",
+        "original_name": "Tracey Wells",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "68b8a5c3bf527c93a54e4c43",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1540833,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tracey Wells",
+        "original_name": "Tracey Wells",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "68b8a5ca344b8fee0d98a9b1",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      }
+    ]
+  }
+}

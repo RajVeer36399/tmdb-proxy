@@ -1,0 +1,162 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Apjnxx4BQ2opZr022r5Me5J8zi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81388349",
+  "id": 1497036,
+  "imdb_id": "tt37677952",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dr. Seuss's The Sneetches",
+  "overview": "An unexpected friendship forms between two young Sneetches on an island surrounded by beaches in this sweet musical special set in the world of Seuss.",
+  "popularity": 14.9747,
+  "poster_path": "/5jqpfOY6q8ltnCFEfUPY3c0bpR5.jpg",
+  "production_companies": [
+    {
+      "id": 39033,
+      "logo_path": "/iVDEwAZnPNw90hdeyBvcAcDYoBi.png",
+      "name": "Brown Bag Films",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2025-11-03",
+  "revenue": 0,
+  "runtime": 45,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dr. Seuss's The Sneetches",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2732113,
+        "known_for_department": "Acting",
+        "name": "Amari McCoy",
+        "original_name": "Amari McCoy",
+        "popularity": 0.2328,
+        "profile_path": "/oDXrAAXZQYjCBEGdOZ9vlzuYRIc.jpg",
+        "cast_id": 4,
+        "character": "Stella (voice)",
+        "credit_id": "6894cd117b4e7864029db2e9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4690954,
+        "known_for_department": "Acting",
+        "name": "Sophie Petersen",
+        "original_name": "Sophie Petersen",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Pearl (voice)",
+        "credit_id": "6894cd191458dfb99c4d92d2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 186311,
+        "known_for_department": "Acting",
+        "name": "Christopher Fitzgerald",
+        "original_name": "Christopher Fitzgerald",
+        "popularity": 0.1985,
+        "profile_path": "/iEqwgdX7yW3qS70mGubrAeVwg1E.jpg",
+        "cast_id": 6,
+        "character": "Pelican (voice)",
+        "credit_id": "6894cd218ef7623de999a9b8",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094090,
+        "known_for_department": "Creator",
+        "name": "Dustin Ferrer",
+        "original_name": "Dustin Ferrer",
+        "popularity": 0.0931,
+        "profile_path": null,
+        "credit_id": "684b8f5b9ea5102d9f1ebca3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3263963,
+        "known_for_department": "Creator",
+        "name": "Bronagh O'Hanlon",
+        "original_name": "Bronagh O'Hanlon",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "6894ccdd9547de4f2d28a5d5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1026999,
+        "known_for_department": "Sound",
+        "name": "Gregory Nicolett",
+        "original_name": "Gregory Nicolett",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "6894ccff404952eb677958f6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65705,
+        "known_for_department": "Writing",
+        "name": "Dr. Seuss",
+        "original_name": "Dr. Seuss",
+        "popularity": 0.5609,
+        "profile_path": "/610hjTL3wQsgXaOPKTJ1bTQzgnG.jpg",
+        "credit_id": "68950c07a871f4e1f766e9f9",
+        "department": "Writing",
+        "job": "Book"
+      }
+    ]
+  }
+}

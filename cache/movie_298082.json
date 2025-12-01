@@ -1,0 +1,359 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 298082,
+  "imdb_id": "tt0241931",
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Seesterne",
+  "overview": "Athletes secretly rehearse a water show in the pool at night to prevent the pool from being demolished and to get more people interested in swimming.",
+  "popularity": 5.2632,
+  "poster_path": "/c0UtKGPou5y3sjxhUKjQApqjsv7.jpg",
+  "production_companies": [
+    {
+      "id": 129927,
+      "logo_path": null,
+      "name": "Nova Film",
+      "origin_country": "AT"
+    },
+    {
+      "id": 26093,
+      "logo_path": null,
+      "name": "Wien-Film",
+      "origin_country": "AT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "1952-12-23",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Seesterne",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1283312,
+        "known_for_department": "Acting",
+        "name": "Eva Kerbler",
+        "original_name": "Eva Kerbler",
+        "popularity": 0.072,
+        "profile_path": "/iIxr3E5rZT12ECuzj4RXcbw2f5D.jpg",
+        "cast_id": 1,
+        "character": "Anna",
+        "credit_id": "5442aa000e0a26633600282f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51258,
+        "known_for_department": "Acting",
+        "name": "Pepi Glöckner-Kramer",
+        "original_name": "Pepi Glöckner-Kramer",
+        "popularity": 0.0571,
+        "profile_path": "/md8XanoCdghvoPITbR9ktE9c6kk.jpg",
+        "cast_id": 2,
+        "character": "Mutter Riedl",
+        "credit_id": "5442aa120e0a2663330029f0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46563,
+        "known_for_department": "Acting",
+        "name": "Rudolf Carl",
+        "original_name": "Rudolf Carl",
+        "popularity": 0.1895,
+        "profile_path": "/dssc7XtL5zSIiGpzOKtuKtIJFFo.jpg",
+        "cast_id": 3,
+        "character": "Merz",
+        "credit_id": "5442aa28c3a3683df200276a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26447,
+        "known_for_department": "Acting",
+        "name": "Fritz Eckhardt",
+        "original_name": "Fritz Eckhardt",
+        "popularity": 0.2001,
+        "profile_path": "/2lOV9v2MSseH5AheJhFUJOluPr1.jpg",
+        "cast_id": 4,
+        "character": "Weber",
+        "credit_id": "5442aa460e0a26633600283d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281226,
+        "known_for_department": "Acting",
+        "name": "Franz Messner",
+        "original_name": "Franz Messner",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Peter",
+        "credit_id": "5a29522a0e0a264cc11109e2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23754,
+        "known_for_department": "Acting",
+        "name": "Fritz Muliar",
+        "original_name": "Fritz Muliar",
+        "popularity": 0.367,
+        "profile_path": "/319qoBvXe14OOkEoxm0V0RItWEu.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "5a29524492514103291193cf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1709520,
+        "known_for_department": "Acting",
+        "name": "Edith Klinger",
+        "original_name": "Edith Klinger",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Susi",
+        "credit_id": "5ef0a163283ed900358ee6fe",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51159,
+        "known_for_department": "Acting",
+        "name": "Karl Skraup",
+        "original_name": "Karl Skraup",
+        "popularity": 0.0286,
+        "profile_path": "/zA3YUF40s965Z9wf22iUqpPWNyN.jpg",
+        "cast_id": 13,
+        "character": "Der König von Vineta",
+        "credit_id": "5ef0a1a1568463003302bf31",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37677,
+        "known_for_department": "Acting",
+        "name": "Richard Eybner",
+        "original_name": "Richard Eybner",
+        "popularity": 0.0789,
+        "profile_path": "/1PxynRRNf6YXPiuAUERwpdhsYq9.jpg",
+        "cast_id": 14,
+        "character": "Finanzminister von Vineta",
+        "credit_id": "5ef0a1bc10dad60031c176a8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1133022,
+        "known_for_department": "Acting",
+        "name": "Walter Regelsberger",
+        "original_name": "Walter Regelsberger",
+        "popularity": 0.0659,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Walter",
+        "credit_id": "5ef0a1d45684630034035b2a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14279,
+        "known_for_department": "Acting",
+        "name": "Joseph Egger",
+        "original_name": "Joseph Egger",
+        "popularity": 0.6947,
+        "profile_path": "/qbYagO1s87kPadJLBCYTuihO2CV.jpg",
+        "cast_id": 16,
+        "character": "(unconfirmed)",
+        "credit_id": "5ef0a20110dad60031c176eb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1318552,
+        "known_for_department": "Acting",
+        "name": "Curt Eilers",
+        "original_name": "Curt Eilers",
+        "popularity": 0.0728,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "5ef0a211283ed900358ee7a7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1071098,
+        "known_for_department": "Acting",
+        "name": "Helmut Janatsch",
+        "original_name": "Helmut Janatsch",
+        "popularity": 0.045,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "5ef0a22041429100346d0e5d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2687573,
+        "known_for_department": "Acting",
+        "name": "Erwin Liederer",
+        "original_name": "Erwin Liederer",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Turmspringer",
+        "credit_id": "5ef0a237568463003203f604",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 41106,
+        "known_for_department": "Acting",
+        "name": "Fritz Zecha",
+        "original_name": "Fritz Zecha",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "5ef0a290568463003203f634",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46797,
+        "known_for_department": "Acting",
+        "name": "Carlo Böhm",
+        "original_name": "Carlo Böhm",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Polier der Hallenabreisserpartie (uncredited)",
+        "credit_id": "5ef0a2af2e2b2c00366f7582",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49418,
+        "known_for_department": "Directing",
+        "name": "J.A. Hübler-Kahla",
+        "original_name": "J.A. Hübler-Kahla",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5442a9dbc3a3683e0800264a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1437204,
+        "known_for_department": "Camera",
+        "name": "Hanns König",
+        "original_name": "Hanns König",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5e60c9e455c926001359a158",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32583,
+        "known_for_department": "Art",
+        "name": "Otto Pischinger",
+        "original_name": "Otto Pischinger",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "5ef0a12441429100336c8f5f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2687561,
+        "known_for_department": "Writing",
+        "name": "Dr. Brand",
+        "original_name": "Dr. Brand",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "5ef0a0dc6e3deb0038a3b57c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49225,
+        "known_for_department": "Sound",
+        "name": "Nico Dostal",
+        "original_name": "Nico Dostal",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "5ef0a0f2283ed900368e16d2",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

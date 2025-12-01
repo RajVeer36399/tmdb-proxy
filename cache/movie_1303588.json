@@ -1,0 +1,584 @@
+{
+  "adult": false,
+  "backdrop_path": "/mDZjG39m6OkyhuJzkNScqJKdW3P.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://next-film.pl/en/film/dziadku-wiejemy-granpa-we-blow/",
+  "id": 1303588,
+  "imdb_id": "tt33265408",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Dziadku, wiejemy!",
+  "overview": "One day Grandpa Jeremi causes such a commotion in the retirement home that he is threatened with transfer to a psychiatric hospital. Marta, his daughter, agrees to take him in, although this is difficult for her, since Jeremi is unpredictable and has a vivid imagination. The situation is complicated by Jagoda, Marta’s daughter, who adores her grandfather and shares his crazy ideas. When Jeremi refuses to live with the family, Jagoda decides to take matters into her own hands.",
+  "popularity": 8.3417,
+  "poster_path": "/vWrigNQ6WUn1JRMxoBkGqCEtZLx.jpg",
+  "production_companies": [
+    {
+      "id": 167232,
+      "logo_path": null,
+      "name": "Dolnośląskie Centrum Filmowe",
+      "origin_country": "PL"
+    },
+    {
+      "id": 120612,
+      "logo_path": null,
+      "name": "New Wave Film",
+      "origin_country": "PL"
+    },
+    {
+      "id": 46855,
+      "logo_path": "/mWbWalzonARoUitPBhNgqYJMTz1.png",
+      "name": "Moloko Film",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 180267,
+      "logo_path": "/oOaeKYgVCu8jOtRyXvK9BfexJ9z.png",
+      "name": "Moderator Inwestycje",
+      "origin_country": "PL"
+    },
+    {
+      "id": 129370,
+      "logo_path": "/c7OFocnzGIZ86DrcNAzosYNssKZ.png",
+      "name": "EC1 Łódź",
+      "origin_country": "PL"
+    },
+    {
+      "id": 180269,
+      "logo_path": null,
+      "name": "Abstraction Plan",
+      "origin_country": "PL"
+    },
+    {
+      "id": 253726,
+      "logo_path": null,
+      "name": "Instytut Kultury Miejskiej w Gdańsku",
+      "origin_country": "PL"
+    },
+    {
+      "id": 135022,
+      "logo_path": "/fjNz3pIgYuIZ3ab5nbiF8RVqIPa.png",
+      "name": "Wytwórnia Filmów Fabularnych we Wrocławiu",
+      "origin_country": "PL"
+    },
+    {
+      "id": 2466,
+      "logo_path": "/596Eq7ivA0DpNfB5zzDU7yMeTB4.png",
+      "name": "Wytwórnia Filmów Dokumentalnych i Fabularnych",
+      "origin_country": "PL"
+    },
+    {
+      "id": 253727,
+      "logo_path": null,
+      "name": "Fale Loki Koki",
+      "origin_country": "PL"
+    },
+    {
+      "id": 253729,
+      "logo_path": null,
+      "name": "FURIA Film",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "release_date": "2025-05-09",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Grandpa, Let's Go!",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4783182,
+        "known_for_department": "Acting",
+        "name": "Anna Nowak",
+        "original_name": "Anna Nowak",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Jagoda",
+        "credit_id": "66728a3b0828a199b1559f37",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41047,
+        "known_for_department": "Acting",
+        "name": "Jan Peszek",
+        "original_name": "Jan Peszek",
+        "popularity": 0.1084,
+        "profile_path": "/4cCrKR5JHw6uJMxLZLHyHXKAqBN.jpg",
+        "cast_id": 9,
+        "character": "Jeremi",
+        "credit_id": "6669568066ded6dbb81c766a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105562,
+        "known_for_department": "Acting",
+        "name": "Agnieszka Grochowska",
+        "original_name": "Agnieszka Grochowska",
+        "popularity": 1.1024,
+        "profile_path": "/9XBjnqR2PWw4KdcyTRaTZCFllxu.jpg",
+        "cast_id": 10,
+        "character": "Marta",
+        "credit_id": "6669568774a86759e4ea1f58",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4783189,
+        "known_for_department": "Acting",
+        "name": "Filip Tkaczyk",
+        "original_name": "Filip Tkaczyk",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Adam",
+        "credit_id": "66728a8b0bd9d0ec5f3462e6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107865,
+        "known_for_department": "Acting",
+        "name": "Wiktor Zborowski",
+        "original_name": "Wiktor Zborowski",
+        "popularity": 0.1805,
+        "profile_path": "/5ehaVgrIBh73wK50hZyv4wkPFzZ.jpg",
+        "cast_id": 11,
+        "character": "Waldemar",
+        "credit_id": "6669568ed0b60109caa722d6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1695356,
+        "known_for_department": "Acting",
+        "name": "Michał Majnicz",
+        "original_name": "Michał Majnicz",
+        "popularity": 0.0688,
+        "profile_path": "/vYUMJZQzZWG7HdneB0vBrS33cnq.jpg",
+        "cast_id": 24,
+        "character": "Jacek",
+        "credit_id": "66a22a23e72a2e874ba0ce25",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4392100,
+        "known_for_department": "Acting",
+        "name": "Klementyna Lamort De Gail",
+        "original_name": "Klementyna Lamort De Gail",
+        "popularity": 0.0239,
+        "profile_path": "/2Vc8M23v11dk4gbXeXTjJ3gJr3m.jpg",
+        "cast_id": 30,
+        "character": "Maryna",
+        "credit_id": "682708707daf349b974b571b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2238550,
+        "known_for_department": "Acting",
+        "name": "Sonia Roszczuk",
+        "original_name": "Sonia Roszczuk",
+        "popularity": 0.1193,
+        "profile_path": "/xM6de3KYjcBeQSSq2I9W2qKIoav.jpg",
+        "cast_id": 26,
+        "character": "Smoczna",
+        "credit_id": "66a22a484c1501bf0d6e8663",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17903,
+        "known_for_department": "Acting",
+        "name": "Bogusława Schubert",
+        "original_name": "Bogusława Schubert",
+        "popularity": 0.676,
+        "profile_path": "/38Dnr9XG2ZxZbQbpH3ORnzqkSPx.jpg",
+        "cast_id": 14,
+        "character": "Jabłońska",
+        "credit_id": "66728a66dbc136011d90dc61",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136627,
+        "known_for_department": "Acting",
+        "name": "Włodzimierz Press",
+        "original_name": "Włodzimierz Press",
+        "popularity": 0.1469,
+        "profile_path": "/v5BgnkxRk3xqrodqr7saJ3YTsyn.jpg",
+        "cast_id": 25,
+        "character": "Maurycy",
+        "credit_id": "66a22a3b52bc5a256df78d9c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1397115,
+        "known_for_department": "Acting",
+        "name": "Tereza Hofová",
+        "original_name": "Tereza Hofová",
+        "popularity": 0.7733,
+        "profile_path": "/7V7SLSnAywv9VreLmOF3Ut4uF5B.jpg",
+        "cast_id": 31,
+        "character": "Dżezi",
+        "credit_id": "682708a56e5bb4e1304b562d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3334232,
+        "known_for_department": "Acting",
+        "name": "Błażej Peszek",
+        "original_name": "Błażej Peszek",
+        "popularity": 0.0327,
+        "profile_path": "/7IAP6PxZMvudIxWmq2d28Ho2eyS.jpg",
+        "cast_id": 32,
+        "character": "Jeremi (young)",
+        "credit_id": "682708db5834ae58f45a4281",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4349615,
+        "known_for_department": "Acting",
+        "name": "Maksymilian Piotrowski",
+        "original_name": "Maksymilian Piotrowski",
+        "popularity": 0.0286,
+        "profile_path": "/fu8F65dAJgJiyH5X5fTJGX2Pv8u.jpg",
+        "cast_id": 33,
+        "character": "Guy",
+        "credit_id": "682708e7b90c27d095ada81e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4372601,
+        "known_for_department": "Acting",
+        "name": "Magdalena Dębicka",
+        "original_name": "Magdalena Dębicka",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "682708ef7daf349b974b5722",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583956,
+        "known_for_department": "Acting",
+        "name": "Rafał Dajbor",
+        "original_name": "Rafał Dajbor",
+        "popularity": 0.0814,
+        "profile_path": "/85YQBMdYkFKLmDefl05NhEyAHaM.jpg",
+        "cast_id": 35,
+        "character": "Nurse",
+        "credit_id": "682708f9b90c27d095ada821",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1815430,
+        "known_for_department": "Camera",
+        "name": "Bartosz Bieniek",
+        "original_name": "Bartosz Bieniek",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "66695576cbefa8b0f6c82dc9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3324338,
+        "known_for_department": "Production",
+        "name": "Karolina Galuba",
+        "original_name": "Karolina Galuba",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "666955668a775edab8f886af",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4123266,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ewa Szwed",
+        "original_name": "Ewa Szwed",
+        "popularity": 1.4534,
+        "profile_path": null,
+        "credit_id": "6669558b677d0a7340c82cb0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3444634,
+        "known_for_department": "Art",
+        "name": "Marcelina Początek-Kunikowska",
+        "original_name": "Marcelina Początek-Kunikowska",
+        "popularity": 0.0559,
+        "profile_path": null,
+        "credit_id": "6669553a3de51bfa4c1c6356",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1421497,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anna Englert",
+        "original_name": "Anna Englert",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "6669559fe71034010fbeab7f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1955526,
+        "known_for_department": "Directing",
+        "name": "Olga Chajdas",
+        "original_name": "Olga Chajdas",
+        "popularity": 0.0747,
+        "profile_path": "/6j8JypOfQwx1u0UGxfBdLm30Uan.jpg",
+        "credit_id": "6669550c081ce24260ea2376",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3324340,
+        "known_for_department": "Production",
+        "name": "Małgorzata Małysa",
+        "original_name": "Małgorzata Małysa",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "666955570baf15e0affd17a8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1991229,
+        "known_for_department": "Crew",
+        "name": "Tomasz Lewandowski",
+        "original_name": "Tomasz Lewandowski",
+        "popularity": 1.0224,
+        "profile_path": null,
+        "credit_id": "66728aef4234e2d0e534607c",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4783193,
+        "known_for_department": "Production",
+        "name": "Aneta Graff-Dąbrowska",
+        "original_name": "Aneta Graff-Dąbrowska",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66728ad4de5361566790d491",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2904584,
+        "known_for_department": "Production",
+        "name": "Paulina Krajnik",
+        "original_name": "Paulina Krajnik",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "credit_id": "66728b075e075f5b74a39997",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4392987,
+        "known_for_department": "Production",
+        "name": "Małgorzata Banaszkiewicz",
+        "original_name": "Małgorzata Banaszkiewicz",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "66728ab3e53a15a64016981c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2371328,
+        "known_for_department": "Sound",
+        "name": "Jarosław Bajdowski",
+        "original_name": "Jarosław Bajdowski",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "66728b6af0e34c3c8c345dec",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2465036,
+        "known_for_department": "Camera",
+        "name": "Mariusz Drążyk",
+        "original_name": "Mariusz Drążyk",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "66728b31f086d8a7ab2a6b6f",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3275314,
+        "known_for_department": "Lighting",
+        "name": "Janusz Bulanda",
+        "original_name": "Janusz Bulanda",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "66728b1ebcabf73e842a61df",
+        "department": "Lighting",
+        "job": "Master Lighting Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4412023,
+        "known_for_department": "Art",
+        "name": "Robert Michalski",
+        "original_name": "Robert Michalski",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "66728b4f5e075f5b74a3999b",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1765370,
+        "known_for_department": "Sound",
+        "name": "Grzegorz Kucharski",
+        "original_name": "Grzegorz Kucharski",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "66ad24c7f5691cd971011d69",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1055085,
+        "known_for_department": "Sound",
+        "name": "Andrzej Smolik",
+        "original_name": "Andrzej Smolik",
+        "popularity": 0.1342,
+        "profile_path": null,
+        "credit_id": "66ad2453f6fbe402c6716a7e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2142806,
+        "known_for_department": "Editing",
+        "name": "Pavel Hrdlička",
+        "original_name": "Pavel Hrdlička",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "66ad24391e281b866e64ac45",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4770653,
+        "known_for_department": "Writing",
+        "name": "Emil Płoszajski",
+        "original_name": "Emil Płoszajski",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "68c57832c6e3c4bece327797",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "adult": false,
+  "backdrop_path": "/gKcFbx4QsanSNyblcsnycCEgKdq.jpg",
+  "belongs_to_collection": null,
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "http://www.heavenlyswordmovie.com",
+  "id": 256766,
+  "imdb_id": "tt2006753",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Heavenly Sword",
+  "overview": "The film's plot follows that of the game closely. Nariko, a member of an ancient tribe who have guarded an ancient magical sword for thousands of years, is charged with bringing the sword to its destined wielder, a deity reincarnated who will bring peace to the land. But on her quest, Nariko must wield the sword herself against the forces of King Bohan, who wishes to possess the weapon himself.",
+  "popularity": 7.0087,
+  "poster_path": "/wZzMbYDomCgj6LUN1b33ha7BiGh.jpg",
+  "production_companies": [
+    {
+      "id": 30786,
+      "logo_path": null,
+      "name": "Blockade Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 30808,
+      "logo_path": null,
+      "name": "AZ Works",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-06-30",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Heavenly Sword",
+  "video": false,
+  "vote_average": 6.337,
+  "vote_count": 104,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30084,
+        "known_for_department": "Acting",
+        "name": "Anna Torv",
+        "original_name": "Anna Torv",
+        "popularity": 2.735,
+        "profile_path": "/2oOYpdlQyNQfXvtyaoAHNsWhqZz.jpg",
+        "cast_id": 0,
+        "character": "Nariko (voice)",
+        "credit_id": "53f7ff0fc3a368735b0006b3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 658,
+        "known_for_department": "Acting",
+        "name": "Alfred Molina",
+        "original_name": "Alfred Molina",
+        "popularity": 2.645,
+        "profile_path": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg",
+        "cast_id": 3,
+        "character": "King Bohan (voice)",
+        "credit_id": "53f801e00e0a267a75000ad7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11155,
+        "known_for_department": "Acting",
+        "name": "Thomas Jane",
+        "original_name": "Thomas Jane",
+        "popularity": 2.8814,
+        "profile_path": "/9frnlc2zoDcoeqZALB6aeYSQddl.jpg",
+        "cast_id": 2,
+        "character": "Loki (voice)",
+        "credit_id": "53f7ff8fc3a36873610006ce",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94481,
+        "known_for_department": "Acting",
+        "name": "Ashleigh Ball",
+        "original_name": "Ashleigh Ball",
+        "popularity": 0.6012,
+        "profile_path": "/qd1vVJkIyJZgSnSxQ7NmamAwuhL.jpg",
+        "cast_id": 30,
+        "character": "Kai (voice)",
+        "credit_id": "557b3224c3a3683e8400012e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72742,
+        "known_for_department": "Acting",
+        "name": "Barry Dennen",
+        "original_name": "Barry Dennen",
+        "popularity": 0.2289,
+        "profile_path": "/6m6LMpQZlHLYDuMxbPU4R5gr75l.jpg",
+        "cast_id": 31,
+        "character": "Flying Fox / Prophet Takashi (voice)",
+        "credit_id": "557b3244c3a3683e98000127",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1162029,
+        "known_for_department": "Acting",
+        "name": "Renae Geerlings",
+        "original_name": "Renae Geerlings",
+        "popularity": 0.1043,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Whiptail, Old Woman (voice)",
+        "credit_id": "557b32649251414f18000111",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19508,
+        "known_for_department": "Acting",
+        "name": "Nolan North",
+        "original_name": "Nolan North",
+        "popularity": 1.7825,
+        "profile_path": "/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg",
+        "cast_id": 33,
+        "character": "Roach / Kyo / Master Shen (voice)",
+        "credit_id": "557b3291c3a3683e9800012e",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1011452,
+        "known_for_department": "Production",
+        "name": "Marcy Levitas Hamilton",
+        "original_name": "Marcy Levitas Hamilton",
+        "popularity": 0.4241,
+        "profile_path": null,
+        "credit_id": "53f8074a0e0a267a75000bef",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355878,
+        "known_for_department": "Sound",
+        "name": "Sandy Gendler",
+        "original_name": "Sandy Gendler",
+        "popularity": 0.4278,
+        "profile_path": null,
+        "credit_id": "53f8088dc3a368734f00078a",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 30745,
+        "known_for_department": "Sound",
+        "name": "Brian O'Hara",
+        "original_name": "Brian O'Hara",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "53f80907c3a36873550007e5",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355886,
+        "known_for_department": "Visual Effects",
+        "name": "Hyunju Cho",
+        "original_name": "Hyunju Cho",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "53f80a2fc3a36873580007ca",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355877,
+        "known_for_department": "Art",
+        "name": "Ed Lee",
+        "original_name": "Ed Lee",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "53f8085dc3a36873520007ca",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355872,
+        "known_for_department": "Directing",
+        "name": "Jang Gun-ho",
+        "original_name": "Jang Gun-ho",
+        "popularity": 0.0582,
+        "profile_path": null,
+        "credit_id": "53f806420e0a267a66000c08",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355802,
+        "known_for_department": "Production",
+        "name": "Brad Foxhoven",
+        "original_name": "Brad Foxhoven",
+        "popularity": 0.0569,
+        "profile_path": null,
+        "credit_id": "53f8078d0e0a267a7b000b32",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355876,
+        "known_for_department": "Sound",
+        "name": "Justin Michael La Vallee",
+        "original_name": "Justin Michael La Vallee",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "53f807f50e0a267a6c000b99",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355879,
+        "known_for_department": "Sound",
+        "name": "Phillip Raves",
+        "original_name": "Phillip Raves",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "53f8091bc3a368735e0007e0",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355887,
+        "known_for_department": "Production",
+        "name": "Junho Choi",
+        "original_name": "Junho Choi",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "53f80a4dc3a3687352000804",
+        "department": "Production",
+        "job": "Character Technical Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355873,
+        "known_for_department": "Production",
+        "name": "Stacy Burstin",
+        "original_name": "Stacy Burstin",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "53f807010e0a267a69000bfa",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19499,
+        "known_for_department": "Directing",
+        "name": "Kevin Munroe",
+        "original_name": "Kevin Munroe",
+        "popularity": 0.1361,
+        "profile_path": "/oSuXWn6TZVxzNvkktjqs01Y7lwA.jpg",
+        "credit_id": "53f807720e0a267a66000c40",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355880,
+        "known_for_department": "Sound",
+        "name": "Steven Tarabokia",
+        "original_name": "Steven Tarabokia",
+        "popularity": 0.6087,
+        "profile_path": null,
+        "credit_id": "53f80938c3a36873550007ed",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61117,
+        "known_for_department": "Writing",
+        "name": "Todd Farmer",
+        "original_name": "Todd Farmer",
+        "popularity": 0.286,
+        "profile_path": "/saWdV1jSTRaJLw3OsimrMsUF1We.jpg",
+        "credit_id": "53f806c10e0a267a6c000b59",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355885,
+        "known_for_department": "Visual Effects",
+        "name": "Yoosung Shin",
+        "original_name": "Yoosung Shin",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "53f80a04c3a368735b0007b5",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355804,
+        "known_for_department": "Production",
+        "name": "David Wohl",
+        "original_name": "David Wohl",
+        "popularity": 0.1921,
+        "profile_path": null,
+        "credit_id": "53f807c80e0a267a69000c22",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355878,
+        "known_for_department": "Sound",
+        "name": "Sandy Gendler",
+        "original_name": "Sandy Gendler",
+        "popularity": 0.4278,
+        "profile_path": null,
+        "credit_id": "53f808afc3a36873550007d2",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355875,
+        "known_for_department": "Production",
+        "name": "David Charles Sheldon",
+        "original_name": "David Charles Sheldon",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "53f807af0e0a267a78000b9f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355880,
+        "known_for_department": "Sound",
+        "name": "Steven Tarabokia",
+        "original_name": "Steven Tarabokia",
+        "popularity": 0.6087,
+        "profile_path": null,
+        "credit_id": "552699b6925141118a002765",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355880,
+        "known_for_department": "Sound",
+        "name": "Steven Tarabokia",
+        "original_name": "Steven Tarabokia",
+        "popularity": 0.6087,
+        "profile_path": null,
+        "credit_id": "552699abc3a3686b17002afc",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355888,
+        "known_for_department": "Editing",
+        "name": "Andrew Balis",
+        "original_name": "Andrew Balis",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "602996f10e4419003e94733d",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  }
+}

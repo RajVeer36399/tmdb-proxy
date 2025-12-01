@@ -1,0 +1,432 @@
+{
+  "adult": false,
+  "backdrop_path": "/fWr4cUpHBu4CzSOBrIgx3v448Mo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 51330,
+  "imdb_id": "tt0153997",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "You're a Good Man, Charlie Brown",
+  "overview": "The Peanuts gang perform the classic Broadway musical. In addition to the classic songs, we see Charlie Brown and his friends perform the various comedy sketches of the play.",
+  "popularity": 6.4966,
+  "poster_path": "/jbuCcWHp0LFRa9yLyJ5E4nE0MhB.jpg",
+  "production_companies": [
+    {
+      "id": 16345,
+      "logo_path": null,
+      "name": "United Media Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 16339,
+      "logo_path": "/wx2xFdBxcrDFoB2ethHQ8LjiknX.png",
+      "name": "Charles M. Schulz Creative Associates",
+      "origin_country": "US"
+    },
+    {
+      "id": 16340,
+      "logo_path": null,
+      "name": "Lee Mendelson Film Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 16341,
+      "logo_path": null,
+      "name": "Bill Melendez Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1985-11-06",
+  "revenue": 0,
+  "runtime": 49,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Happiness With the Peanuts Gang!",
+  "title": "You're a Good Man, Charlie Brown",
+  "video": false,
+  "vote_average": 6.792,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123957,
+        "known_for_department": "Acting",
+        "name": "Kevin Brando",
+        "original_name": "Kevin Brando",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Charlie Brown (singing voice)",
+        "credit_id": "5f336273ef8b3200371366f5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 123954,
+        "known_for_department": "Acting",
+        "name": "Michael Dockery",
+        "original_name": "Michael Dockery",
+        "popularity": 0.0502,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Marcie (voice)",
+        "credit_id": "5f33627fef8b32003713671b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1217176,
+        "known_for_department": "Acting",
+        "name": "Brad Kesten",
+        "original_name": "Brad Kesten",
+        "popularity": 0.0955,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Charlie Brown (voice)",
+        "credit_id": "63b6f657f44f2700bdde5495",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 143945,
+        "known_for_department": "Acting",
+        "name": "Jeremy Scott Reinbolt",
+        "original_name": "Jeremy Scott Reinbolt",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Schroeder (voice)",
+        "credit_id": "5f3362bd0582240034ab7fe4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 143946,
+        "known_for_department": "Acting",
+        "name": "Tiffany Reinbolt",
+        "original_name": "Tiffany Reinbolt",
+        "popularity": 0.0465,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Sally Brown (voice)",
+        "credit_id": "5f3362d0ef8b3200371367fd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2739316,
+        "known_for_department": "Acting",
+        "name": "Jessica Lee Smith",
+        "original_name": "Jessica Lee Smith",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Lucy van Pelt (voice)",
+        "credit_id": "5f3362dc0582240035abfdcd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106868,
+        "known_for_department": "Acting",
+        "name": "Robert Towers",
+        "original_name": "Robert Towers",
+        "popularity": 0.7332,
+        "profile_path": "/10IvifDWHMk37r5ZuWep97mdww8.jpg",
+        "cast_id": 20,
+        "character": "Snoopy (singing voice)",
+        "credit_id": "5f3362e929c62600335c69d3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44679,
+        "known_for_department": "Writing",
+        "name": "David Wagner",
+        "original_name": "David Wagner",
+        "popularity": 0.2141,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Linus van Pelt (voice)",
+        "credit_id": "5f336303ef8b32003912aca8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94011,
+        "known_for_department": "Visual Effects",
+        "name": "Bill Melendez",
+        "original_name": "Bill Melendez",
+        "popularity": 0.9265,
+        "profile_path": "/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg",
+        "cast_id": 22,
+        "character": "Snoopy / Woodstock (voice) (uncredited)",
+        "credit_id": "5f33630e8a88b200349e5a5c",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94011,
+        "known_for_department": "Visual Effects",
+        "name": "Bill Melendez",
+        "original_name": "Bill Melendez",
+        "popularity": 0.9265,
+        "profile_path": "/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg",
+        "credit_id": "52fe47eec3a36847f814fd3d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123946,
+        "known_for_department": "Production",
+        "name": "Lee Mendelson",
+        "original_name": "Lee Mendelson",
+        "popularity": 0.1188,
+        "profile_path": "/4hqliDGi8BU8k468k2GKyDiaiSF.jpg",
+        "credit_id": "52fe47eec3a36847f814fd49",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123945,
+        "known_for_department": "Writing",
+        "name": "Charles M. Schulz",
+        "original_name": "Charles M. Schulz",
+        "popularity": 0.2695,
+        "profile_path": "/g10j0ZfIcy8O9QWby7zcvKMO02R.jpg",
+        "credit_id": "52fe47eec3a36847f814fd31",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78624,
+        "known_for_department": "Acting",
+        "name": "Desiree Goyette",
+        "original_name": "Desiree Goyette",
+        "popularity": 0.1298,
+        "profile_path": "/ihn5QOSlar2zSMxBIJCI1xUeocI.jpg",
+        "credit_id": "52fe47eec3a36847f814fd43",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143948,
+        "known_for_department": "Directing",
+        "name": "Sam Jaimes",
+        "original_name": "Sam Jaimes",
+        "popularity": 0.5503,
+        "profile_path": "/rTSZE57unW9nloyjPmjschQ4FIw.jpg",
+        "credit_id": "52fe47eec3a36847f814fd2b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 143949,
+        "known_for_department": "Writing",
+        "name": "Clark Gesner",
+        "original_name": "Clark Gesner",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "52fe47eec3a36847f814fd37",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78624,
+        "known_for_department": "Acting",
+        "name": "Desiree Goyette",
+        "original_name": "Desiree Goyette",
+        "popularity": 0.1298,
+        "profile_path": "/ihn5QOSlar2zSMxBIJCI1xUeocI.jpg",
+        "credit_id": "6761a030d183d1e25ccbf435",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 143949,
+        "known_for_department": "Writing",
+        "name": "Clark Gesner",
+        "original_name": "Clark Gesner",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "6761a03ad183d1e25ccbf442",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73274,
+        "known_for_department": "Sound",
+        "name": "Ed Bogas",
+        "original_name": "Ed Bogas",
+        "popularity": 0.0692,
+        "profile_path": null,
+        "credit_id": "6761a0a7e1086d94bfb506fa",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224804,
+        "known_for_department": "Visual Effects",
+        "name": "Bill Littlejohn",
+        "original_name": "Bill Littlejohn",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "6761a0ef44476b5b60b50579",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3141270,
+        "known_for_department": "Visual Effects",
+        "name": "Hank Smith",
+        "original_name": "Hank Smith",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "credit_id": "6761a0f744476b5b60b50587",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124563,
+        "known_for_department": "Directing",
+        "name": "Larry Leichliter",
+        "original_name": "Larry Leichliter",
+        "popularity": 0.1642,
+        "profile_path": "/ynXUAeUASvr7tV0k6Vlg2gap46A.jpg",
+        "credit_id": "6761a1009b0cfe05cc18a2c0",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3173498,
+        "known_for_department": "Visual Effects",
+        "name": "Al Pabian",
+        "original_name": "Al Pabian",
+        "popularity": 0.9698,
+        "profile_path": null,
+        "credit_id": "6761a10844476b5b60b50597",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3616707,
+        "known_for_department": "Visual Effects",
+        "name": "Oliver Callahan",
+        "original_name": "Oliver Callahan",
+        "popularity": 0.0682,
+        "profile_path": null,
+        "credit_id": "6761a11c37ee013bdc18a491",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 173625,
+        "known_for_department": "Visual Effects",
+        "name": "Bob Matz",
+        "original_name": "Bob Matz",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "6761a12352ccac57cfcbecfc",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3604266,
+        "known_for_department": "Acting",
+        "name": "Leslie Margolin",
+        "original_name": "Leslie Margolin",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6761a13044476b5b60b505af",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123945,
+        "known_for_department": "Writing",
+        "name": "Charles M. Schulz",
+        "original_name": "Charles M. Schulz",
+        "popularity": 0.2695,
+        "profile_path": "/g10j0ZfIcy8O9QWby7zcvKMO02R.jpg",
+        "credit_id": "6761a22237ee013bdc18a525",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  }
+}

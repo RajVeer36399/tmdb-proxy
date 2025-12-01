@@ -1,0 +1,219 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 328875,
+  "imdb_id": "tt0359208",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Echte Männer?",
+  "overview": "",
+  "popularity": 4.9841,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2003-03-20",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Echte Männer?",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17525,
+        "known_for_department": "Acting",
+        "name": "Barnaby Metschurat",
+        "original_name": "Barnaby Metschurat",
+        "popularity": 0.5754,
+        "profile_path": "/iWBe6D6l0idyTNJ2qeLplSBSthn.jpg",
+        "cast_id": 1,
+        "character": "Peter Krieger",
+        "credit_id": "54f85f99c3a36833bb0043d3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7805,
+        "known_for_department": "Acting",
+        "name": "Wotan Wilke Möhring",
+        "original_name": "Wotan Wilke Möhring",
+        "popularity": 0.3923,
+        "profile_path": "/1kBAiXcXhaZBKw3UZ9JxCT3XEMp.jpg",
+        "cast_id": 3,
+        "character": "Mike Krieger",
+        "credit_id": "54f85fb3c3a36834a5003fb8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1859,
+        "known_for_department": "Acting",
+        "name": "Christiane Paul",
+        "original_name": "Christiane Paul",
+        "popularity": 0.6803,
+        "profile_path": "/h1Cr9GA5C29FhDzbRZ6qrLTydjB.jpg",
+        "cast_id": 2,
+        "character": "Sophie",
+        "credit_id": "54f85fa5c3a368351d003e8e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6674,
+        "known_for_department": "Acting",
+        "name": "Julia Dietze",
+        "original_name": "Julia Dietze",
+        "popularity": 0.7487,
+        "profile_path": "/6qPKqFVDr5BC7ROaT0iMruLY4qh.jpg",
+        "cast_id": 4,
+        "character": "Melli",
+        "credit_id": "54f85fbe9251412411004729",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147446,
+        "known_for_department": "Acting",
+        "name": "Sönke Möhring",
+        "original_name": "Sönke Möhring",
+        "popularity": 0.7225,
+        "profile_path": "/txawC7WCa9YdoCfjLYBRrpcfN9e.jpg",
+        "cast_id": 5,
+        "character": "Hip Hopper",
+        "credit_id": "54f85fcc9251416ee4003b39",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5515,
+        "known_for_department": "Acting",
+        "name": "Christel Peters",
+        "original_name": "Christel Peters",
+        "popularity": 0.3071,
+        "profile_path": "/792FmTWgwepF6h1tylyQ665SzUM.jpg",
+        "cast_id": 6,
+        "character": "Passantin",
+        "credit_id": "54f85fdc925141181200136d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71514,
+        "known_for_department": "Acting",
+        "name": "Christoph Bach",
+        "original_name": "Christoph Bach",
+        "popularity": 0.7976,
+        "profile_path": "/DjyM6g981W3qiHQZl4PUvjM2OJ.jpg",
+        "cast_id": 7,
+        "character": "Opa",
+        "credit_id": "54f85fec92514118ba0013f0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32932,
+        "known_for_department": "Acting",
+        "name": "Edgar M. Böhlke",
+        "original_name": "Edgar M. Böhlke",
+        "popularity": 0.0905,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Wilhelm",
+        "credit_id": "54f85ffac3a3683a5700476b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1089465,
+        "known_for_department": "Acting",
+        "name": "Jana Thies",
+        "original_name": "Jana Thies",
+        "popularity": 0.1255,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Larissa",
+        "credit_id": "54f86006c3a36834a5003fbd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72217,
+        "known_for_department": "Acting",
+        "name": "Igor Dolgatschew",
+        "original_name": "Igor Dolgatschew",
+        "popularity": 0.2092,
+        "profile_path": "/jp5h9zE4GBNbFwLAQRC7kwzuedT.jpg",
+        "cast_id": 10,
+        "character": "Junge",
+        "credit_id": "562bf4e59251414006004155",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1245164,
+        "known_for_department": "Acting",
+        "name": "Uta Schorn",
+        "original_name": "Uta Schorn",
+        "popularity": 0.1797,
+        "profile_path": "/8lVp5VGLrFsab1orRkwCJnuIdX6.jpg",
+        "cast_id": 11,
+        "character": "Beate",
+        "credit_id": "650de01d93db9200c4f723a0",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17700,
+        "known_for_department": "Writing",
+        "name": "Christian Zübert",
+        "original_name": "Christian Zübert",
+        "popularity": 0.2279,
+        "profile_path": "/3E3TvkH67WMde0PUBJf5Pt8xxaP.jpg",
+        "credit_id": "54f85f7bc3a368126c001509",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

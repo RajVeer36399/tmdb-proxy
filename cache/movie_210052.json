@@ -1,0 +1,420 @@
+{
+  "adult": false,
+  "backdrop_path": "/8NFEVNLzqP5yu5NzW1K7n5vefxM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 210052,
+  "imdb_id": "tt2582320",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Wolfskinder",
+  "overview": "The story of a boy who, driven by the search for his lost brother in the turmoil of WWII, joins a group of children in order to survive the chaos of post-war anarchy in the haunted forests of Lithuania.",
+  "popularity": 6.7399,
+  "poster_path": "/5FyJ3rMjsMSnbzW6iM5ZxOtPFp2.jpg",
+  "production_companies": [
+    {
+      "id": 9291,
+      "logo_path": "/g6GYZXQrjB86Z5ocVliUZF1i3Tz.png",
+      "name": "HR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 587,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    },
+    {
+      "id": 65263,
+      "logo_path": null,
+      "name": "Zum Goldenen Lamm Filmproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2013-08-28",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Wolf Children",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73926,
+        "known_for_department": "Acting",
+        "name": "Jördis Triebel",
+        "original_name": "Jördis Triebel",
+        "popularity": 1.4034,
+        "profile_path": "/ccKpVED4GwvqpbDpSDvZ5a7Be2Z.jpg",
+        "cast_id": 5,
+        "character": "Mutter",
+        "credit_id": "52fe4d74c3a368484e1ea197",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193609,
+        "known_for_department": "Acting",
+        "name": "Levin Liam",
+        "original_name": "Levin Liam",
+        "popularity": 0.1367,
+        "profile_path": "/mH8yb881TCJF9YbsE3zgFr50vx4.jpg",
+        "cast_id": 6,
+        "character": "Hans",
+        "credit_id": "52fe4d74c3a368484e1ea19b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1193610,
+        "known_for_department": "Acting",
+        "name": "Helena Phil",
+        "original_name": "Helena Phil",
+        "popularity": 0.1043,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Christel",
+        "credit_id": "52fe4d74c3a368484e1ea19f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1630631,
+        "known_for_department": "Acting",
+        "name": "Vivien Ciskowski",
+        "original_name": "Vivien Ciskowski",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Asta",
+        "credit_id": "5752f3bcc3a3684b9600031f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1630632,
+        "known_for_department": "Acting",
+        "name": "Patrick Lorenczat",
+        "original_name": "Patrick Lorenczat",
+        "popularity": 0.0362,
+        "profile_path": "/bQ3HjLVp39u3ayKRItpFpM4TsJE.jpg",
+        "cast_id": 9,
+        "character": "Fritzchen",
+        "credit_id": "5752f3cd9251414c5d002ed2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1630633,
+        "known_for_department": "Acting",
+        "name": "Willow Voges-Fernandes",
+        "original_name": "Willow Voges-Fernandes",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Karl",
+        "credit_id": "5752f3e4c3a3680e8600259d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1630634,
+        "known_for_department": "Acting",
+        "name": "Til-Niklas Theinert",
+        "original_name": "Til-Niklas Theinert",
+        "popularity": 0.08,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Paul",
+        "credit_id": "5752f3f6c3a3684c10000341",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1843868,
+        "known_for_department": "Acting",
+        "name": "Hannah Lehmann",
+        "original_name": "Hannah Lehmann",
+        "popularity": 0.0453,
+        "profile_path": "/wsJIvENvdqRiVycrjXi2OIHzqUy.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "61a9dee7d7a70a0021bb454b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5514,
+        "known_for_department": "Acting",
+        "name": "Vincent Redetzki",
+        "original_name": "Vincent Redetzki",
+        "popularity": 0.6848,
+        "profile_path": "/7loFI0Arjl7kIL6Ltd55USDFjy0.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "61a9df021d3143002db0d919",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1339348,
+        "known_for_department": "Acting",
+        "name": "Dainius Gavenonis",
+        "original_name": "Dainius Gavenonis",
+        "popularity": 0.0582,
+        "profile_path": "/sXUAeLGj5jhHQIDPcfghVmDHRMQ.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "61a9df110816c70043052be6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1506764,
+        "known_for_department": "Acting",
+        "name": "Aldona Bendoriute",
+        "original_name": "Aldona Bendoriute",
+        "popularity": 0.0339,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "61a9df72a24c50002c5c8c54",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1325238,
+        "known_for_department": "Acting",
+        "name": "Laisvūnas Raudonis",
+        "original_name": "Laisvūnas Raudonis",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "61a9df83d2f5b500452c5d99",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1316745,
+        "known_for_department": "Acting",
+        "name": "Arturas Nemanis",
+        "original_name": "Arturas Nemanis",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "61a9df92d7a70a009337aa58",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203626,
+        "known_for_department": "Acting",
+        "name": "Aleksas Kazanavičius",
+        "original_name": "Aleksas Kazanavičius",
+        "popularity": 0.0632,
+        "profile_path": "/f09qxGmtQkvUjS6dTJXn9gzyLp6.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "61a9dfa4a6a4c1002d4991e0",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1040128,
+        "known_for_department": "Acting",
+        "name": "Vidas Petkevicius",
+        "original_name": "Vidas Petkevičius",
+        "popularity": 0.144,
+        "profile_path": "/4Sv3qlok1sTagInsVKG6F3Sdljt.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "61a9dfc60486380045bd7718",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1340306,
+        "known_for_department": "Acting",
+        "name": "Elvyra Žebertavičiūtė",
+        "original_name": "Elvyra Žebertavičiūtė",
+        "popularity": 0.0434,
+        "profile_path": "/dQeOrET4Lqqdod5tkXutPQDxJcu.jpg",
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "61a9dfda02842000664c6f7e",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193607,
+        "known_for_department": "Directing",
+        "name": "Rick Ostermann",
+        "original_name": "Rick Ostermann",
+        "popularity": 0.053,
+        "profile_path": "/2Yr4ueIGpXGEudNyCui6DcTdz2I.jpg",
+        "credit_id": "52fe4d74c3a368484e1ea189",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73010,
+        "known_for_department": "Camera",
+        "name": "Leah Striker",
+        "original_name": "Leah Striker",
+        "popularity": 0.058,
+        "profile_path": null,
+        "credit_id": "52fe4d74c3a368484e1ea18f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193607,
+        "known_for_department": "Directing",
+        "name": "Rick Ostermann",
+        "original_name": "Rick Ostermann",
+        "popularity": 0.053,
+        "profile_path": "/2Yr4ueIGpXGEudNyCui6DcTdz2I.jpg",
+        "credit_id": "52fe4d74c3a368484e1ea183",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1330660,
+        "known_for_department": "Production",
+        "name": "Stefan Sporbert",
+        "original_name": "Stefan Sporbert",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "61a9de71180dea0064003b71",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560227,
+        "known_for_department": "Sound",
+        "name": "Julian Maas",
+        "original_name": "Julian Maas",
+        "popularity": 0.1218,
+        "profile_path": "/xhwfeqpHcogTHyQ2fpUq82zi9s4.jpg",
+        "credit_id": "61a9dea002842000457f3631",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231627,
+        "known_for_department": "Production",
+        "name": "Rüdiger Heinze",
+        "original_name": "Rüdiger Heinze",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "61a9de84028420002dbd74b4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57518,
+        "known_for_department": "Sound",
+        "name": "Christoph Kaiser",
+        "original_name": "Christoph Kaiser",
+        "popularity": 0.073,
+        "profile_path": null,
+        "credit_id": "61a9de953d4d960045a3e4fc",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615248,
+        "known_for_department": "Editing",
+        "name": "Stefan Blau",
+        "original_name": "Stefan Blau",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "61a9deb7a24c500045d3500b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 56428,
+        "known_for_department": "Editing",
+        "name": "Antje Lass",
+        "original_name": "Antje Lass",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "61a9dec44a52f8002cd13ab4",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

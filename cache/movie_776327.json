@@ -1,0 +1,461 @@
+{
+  "adult": false,
+  "backdrop_path": "/6WfZAveeI3OHZwtBx7vHhlvrUSZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 776327,
+  "imdb_id": "tt14625702",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Blackout Love",
+  "overview": "Valeria is a woman who never looks back, passing from one man to another. But one day everything changes: an ex who made her feel bad in the past reappears in her life.",
+  "popularity": 8.6931,
+  "poster_path": "/odcXPBoW07VwErOW18YfhILLhVh.jpg",
+  "production_companies": [
+    {
+      "id": 86177,
+      "logo_path": "/3AKkfIbKVXiMUBx5RRaU4T7Y9d8.png",
+      "name": "Groenlandia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 208236,
+      "logo_path": "/hYREaYiVyoGVP26CbDpAWD3wDRD.png",
+      "name": "Amazon Studios",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2022-09-13",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Blackout Love",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 586953,
+        "known_for_department": "Acting",
+        "name": "Anna Foglietta",
+        "original_name": "Anna Foglietta",
+        "popularity": 1.0538,
+        "profile_path": "/nGhTLZx7CfjYojeCn1qPrrTWXF3.jpg",
+        "cast_id": 1,
+        "character": "Valeria",
+        "credit_id": "5fd8b681b0ba7e003f2f0a5a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1074529,
+        "known_for_department": "Acting",
+        "name": "Alessandro Tedeschi",
+        "original_name": "Alessandro Tedeschi",
+        "popularity": 0.9357,
+        "profile_path": "/pLIMMEoa10hbvlyfcMUeZS6AoKn.jpg",
+        "cast_id": 2,
+        "character": "Marco",
+        "credit_id": "5fd8b6901d3143003cbc5cf7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225301,
+        "known_for_department": "Acting",
+        "name": "Anna Bonaiuto",
+        "original_name": "Anna Bonaiuto",
+        "popularity": 0.9091,
+        "profile_path": "/1istMMsr34yfaYCnNyW8SFVMuU5.jpg",
+        "cast_id": 3,
+        "character": "Rosemary",
+        "credit_id": "5fd8b698a127e50041143c07",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1901421,
+        "known_for_department": "Acting",
+        "name": "Barbara Chichiarelli",
+        "original_name": "Barbara Chichiarelli",
+        "popularity": 1.0273,
+        "profile_path": "/hTaARRojE5OQjivkQTzTx3xHSwz.jpg",
+        "cast_id": 8,
+        "character": "Silvia",
+        "credit_id": "60cb2b1618864b0029788ed1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482134,
+        "known_for_department": "Acting",
+        "name": "Alessio Praticò",
+        "original_name": "Alessio Praticò",
+        "popularity": 0.4625,
+        "profile_path": "/dKOx2OS3YWG3CAg5c7BGLINhxyj.jpg",
+        "cast_id": 9,
+        "character": "Fabrizio",
+        "credit_id": "60cb2b2242d8a50056db0755",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2758389,
+        "known_for_department": "Acting",
+        "name": "Giancarlo Commare",
+        "original_name": "Giancarlo Commare",
+        "popularity": 0.4832,
+        "profile_path": "/zRvTWXlvGIUEpeNCc6rnZQm5CTT.jpg",
+        "cast_id": 10,
+        "character": "Giulio",
+        "credit_id": "60cb2b2b66ae4d007af10aba",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1133638,
+        "known_for_department": "Acting",
+        "name": "Christian Ginepro",
+        "original_name": "Christian Ginepro",
+        "popularity": 0.1397,
+        "profile_path": "/vw88mHEofEYOarzCem9QEdL5CFa.jpg",
+        "cast_id": 16,
+        "character": "Dottor Anselmi",
+        "credit_id": "60da27390b5fd6002d30b6bf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3170287,
+        "known_for_department": "Acting",
+        "name": "Allegra Peluso",
+        "original_name": "Allegra Peluso",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Alice",
+        "credit_id": "60fc22743d355700759e055c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3170289,
+        "known_for_department": "Acting",
+        "name": "Elisabetta Anella",
+        "original_name": "Elisabetta Anella",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Giulia",
+        "credit_id": "60fc228d99d5c30047e9e5cc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3170290,
+        "known_for_department": "Acting",
+        "name": "Maria Elena Antini",
+        "original_name": "Maria Elena Antini",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Alice",
+        "credit_id": "60fc22a317792c002d747620",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1728836,
+        "known_for_department": "Acting",
+        "name": "Emmanuele Aita",
+        "original_name": "Emmanuele Aita",
+        "popularity": 0.6222,
+        "profile_path": "/mSIfBcmY9GYE6IgIt1qbrhjwNN0.jpg",
+        "cast_id": 15,
+        "character": "Carabiniere",
+        "credit_id": "60cb2c2442d8a50056db07e4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2574480,
+        "known_for_department": "Acting",
+        "name": "Dharma Mangia Woods",
+        "original_name": "Dharma Mangia Woods",
+        "popularity": 0.1928,
+        "profile_path": "/myrHxn2gyDoX6msZIfHlfq0P3NG.jpg",
+        "cast_id": 20,
+        "character": "Stella",
+        "credit_id": "60fc22e617792c0046e9acac",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1281147,
+        "known_for_department": "Acting",
+        "name": "Nolasco Cruz Sta Isabel",
+        "original_name": "Nolasco Cruz Sta Isabel",
+        "popularity": 0.0327,
+        "profile_path": "/413hcpvjXo0t9luV9HvE2IAEera.jpg",
+        "cast_id": 21,
+        "character": "Gladys",
+        "credit_id": "60fc22fd848eb9008671a361",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3170293,
+        "known_for_department": "Acting",
+        "name": "Flaminia Martinelli",
+        "original_name": "Flaminia Martinelli",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Figlia piccola Silvia",
+        "credit_id": "60fc2315e24b93005f9fe6dc",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3170294,
+        "known_for_department": "Acting",
+        "name": "Lorenzo Alexander Heimo Hanig",
+        "original_name": "Lorenzo Alexander Heimo Hanig",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Edoardo ragazzo Alessia",
+        "credit_id": "60fc232f31032500237379df",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3170295,
+        "known_for_department": "Acting",
+        "name": "Camilla Lazzaretti",
+        "original_name": "Camilla Lazzaretti",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Ludovica",
+        "credit_id": "60fc23470dea6e0047b98b21",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3124177,
+        "known_for_department": "Writing",
+        "name": "Tommaso Renzoni",
+        "original_name": "Tommaso Renzoni",
+        "popularity": 0.8362,
+        "profile_path": "/4Wykl6Nu2YpuywuwRUOdTz5QYr7.jpg",
+        "credit_id": "60cb2ad105a5330079fe5723",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3124177,
+        "known_for_department": "Writing",
+        "name": "Tommaso Renzoni",
+        "original_name": "Tommaso Renzoni",
+        "popularity": 0.8362,
+        "profile_path": "/4Wykl6Nu2YpuywuwRUOdTz5QYr7.jpg",
+        "credit_id": "60cb2ae74f3a4c0057caa410",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1501196,
+        "known_for_department": "Camera",
+        "name": "Claudio Cofrancesco",
+        "original_name": "Claudio Cofrancesco",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "credit_id": "60cb2b44c390c5005733356e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2825165,
+        "known_for_department": "Editing",
+        "name": "Francesco Loffredo",
+        "original_name": "Francesco Loffredo",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "60cb2b4f18864b0040187dbd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2469688,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sara Fanelli",
+        "original_name": "Sara Fanelli",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "60cb2b59b0040a0029c1148f",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2894806,
+        "known_for_department": "Directing",
+        "name": "Francesca Marino",
+        "original_name": "Francesca Marino",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "60cb2bd50fb39800408857c3",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1688244,
+        "known_for_department": "Production",
+        "name": "Giulio Gallozzi",
+        "original_name": "Giulio Gallozzi",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "60fc237ff29d660046aa314b",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2216200,
+        "known_for_department": "Production",
+        "name": "Sara Casani",
+        "original_name": "Sara Casani",
+        "popularity": 0.2722,
+        "profile_path": "/yUMRFKUVvUujEyPgvoAgl5aaFDT.jpg",
+        "credit_id": "60fc23ab99d5c3005ff00a75",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2320461,
+        "known_for_department": "Directing",
+        "name": "Flavia Carimini",
+        "original_name": "Flavia Carimini",
+        "popularity": 0.0813,
+        "profile_path": null,
+        "credit_id": "60fc23d1e24b93005f9fe80b",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1984314,
+        "known_for_department": "Directing",
+        "name": "Roberto D'Ippolito",
+        "original_name": "Roberto D'Ippolito",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "60fc23f9c439c0004666ba9d",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2894806,
+        "known_for_department": "Directing",
+        "name": "Francesca Marino",
+        "original_name": "Francesca Marino",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "5fd8b6a668188800409ab078",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108174,
+        "known_for_department": "Directing",
+        "name": "Matteo Rovere",
+        "original_name": "Matteo Rovere",
+        "popularity": 0.651,
+        "profile_path": "/vSV2IIr3xtNJGK696Q1K78GhGRe.jpg",
+        "credit_id": "5fd8b6b1cf4b8b003d9c355e",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

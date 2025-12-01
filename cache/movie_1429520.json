@@ -1,0 +1,431 @@
+{
+  "adult": false,
+  "backdrop_path": "/iMxWTPRqWJJKVW7KYBlmirSeazw.jpg",
+  "belongs_to_collection": {
+    "id": 1434906,
+    "name": "Sidelined: The QB and Me Collection",
+    "poster_path": "/eVL42Ros9yhf4rKtr8N6Od4yChA.jpg",
+    "backdrop_path": "/brBU7ZwFo6bJqcVyU8infazCPBC.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1429520,
+  "imdb_id": "tt35672930",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sidelined 2: Intercepted",
+  "overview": "Freshman star quarterback Drayton struggles with the weight of expectations after a devastating setback, while dancer Dallas begins to question the future she thought she wanted. As their high school relationship begins to unravel under the pressures of distance and self-discovery, they’ll learn that the bravest versions of themselves emerge when they let life redirect them.",
+  "popularity": 57.5932,
+  "poster_path": "/rdBS9IHET7X2dD2y3eS2D3o5g7b.jpg",
+  "production_companies": [
+    {
+      "id": 182897,
+      "logo_path": "/5jZX93pvheCYowROn9LAz499FC5.png",
+      "name": "Wattpad WEBTOON Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 94607,
+      "logo_path": null,
+      "name": "Marshall Arts",
+      "origin_country": "CA"
+    },
+    {
+      "id": 81242,
+      "logo_path": "/qDqp143aZVXkykSiqivXfkSmX0b.png",
+      "name": "Great Pacific Media",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-27",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When it's all on the line, hold on tight.",
+  "title": "Sidelined 2: Intercepted",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3032312,
+        "known_for_department": "Acting",
+        "name": "Noah Beck",
+        "original_name": "Noah Beck",
+        "popularity": 3.9213,
+        "profile_path": "/67BJ1o03CpMbRj40jjiAG13TqPe.jpg",
+        "cast_id": 1,
+        "character": "Drayton Lahey",
+        "credit_id": "67a3983f7c860960298a8162",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1537084,
+        "known_for_department": "Acting",
+        "name": "Siena Agudong",
+        "original_name": "Siena Agudong",
+        "popularity": 2.9616,
+        "profile_path": "/yztIHfFmlKpJnMtFlq5aAfsXQvp.jpg",
+        "cast_id": 2,
+        "character": "Dallas Bryan",
+        "credit_id": "67a3984a7c860960298a816c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1475818,
+        "known_for_department": "Acting",
+        "name": "Drew Ray Tanner",
+        "original_name": "Drew Ray Tanner",
+        "popularity": 1.5233,
+        "profile_path": "/hEDc4uUmrx0pE93bwYoUWE6jvSB.jpg",
+        "cast_id": 5,
+        "character": "Nathan Bryan",
+        "credit_id": "67e5c3a0a6dd9b080800532a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19210,
+        "known_for_department": "Acting",
+        "name": "James Van Der Beek",
+        "original_name": "James Van Der Beek",
+        "popularity": 1.1381,
+        "profile_path": "/5CzRqYzRMNevIu6rB8gUFKpsKZL.jpg",
+        "cast_id": 6,
+        "character": "Leroy Lahey",
+        "credit_id": "67e5c3c5f8cba94bbcba3d37",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044745,
+        "known_for_department": "Acting",
+        "name": "Charlie Gillespie",
+        "original_name": "Charlie Gillespie",
+        "popularity": 1.6931,
+        "profile_path": "/5wjj2z7lqc5HvIiTQQ5Wv0yRUxV.jpg",
+        "cast_id": 7,
+        "character": "Skyler",
+        "credit_id": "67e5c404027e737406001310",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1677354,
+        "known_for_department": "Acting",
+        "name": "Roan Curtis",
+        "original_name": "Roan Curtis",
+        "popularity": 0.5007,
+        "profile_path": "/9UXVOFccWt6lqWjebLXqAzOtJLQ.jpg",
+        "cast_id": 8,
+        "character": "Charlotte",
+        "credit_id": "67e5c41bb8fc39899610c07f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1094134,
+        "known_for_department": "Acting",
+        "name": "Kolton Stewart",
+        "original_name": "Kolton Stewart",
+        "popularity": 2.2241,
+        "profile_path": "/4ceX0uLzgAAOHmraWM5rjcHHKkw.jpg",
+        "cast_id": 9,
+        "character": "Zach",
+        "credit_id": "67e5c47cb8fc39899610c0a7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2674944,
+        "known_for_department": "Acting",
+        "name": "Sage Linder",
+        "original_name": "Sage Linder",
+        "popularity": 0.5713,
+        "profile_path": "/unJav3w9EJapyumwBlQerzeyJ5M.jpg",
+        "cast_id": 10,
+        "character": "Miley",
+        "credit_id": "67e5c48a5f3e0ac188003e86",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1853189,
+        "known_for_department": "Acting",
+        "name": "Terry Mullany",
+        "original_name": "Terry Mullany",
+        "popularity": 0.1399,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Ryan",
+        "credit_id": "67e5c498f8cba94bbcba3da1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 956556,
+        "known_for_department": "Acting",
+        "name": "Michael Xavier",
+        "original_name": "Michael Xavier",
+        "popularity": 1.4571,
+        "profile_path": "/ArbdxFYyveY4FerHdC9OKLYt24f.jpg",
+        "cast_id": 12,
+        "character": "Coach Watson",
+        "credit_id": "67e5c4a3e8a1910e6510c8ae",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3676020,
+        "known_for_department": "Acting",
+        "name": "Asia Lizardo",
+        "original_name": "Asia Lizardo",
+        "popularity": 0.8971,
+        "profile_path": "/rGLPjtx9Z5t541c0ZgQ6blBLJXu.jpg",
+        "cast_id": 25,
+        "character": "Gabby",
+        "credit_id": "68dadf2afc18143c40b9a898",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3714470,
+        "known_for_department": "Acting",
+        "name": "Jason Fernandes",
+        "original_name": "Jason Fernandes",
+        "popularity": 0.3221,
+        "profile_path": "/uNO3t6ePWj8ELXTXOMNmvrFRPpm.jpg",
+        "cast_id": 26,
+        "character": "Josh Lahey",
+        "credit_id": "68dadf4797e02aea2ebb11f1",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2681771,
+        "known_for_department": "Directing",
+        "name": "Justin Wu",
+        "original_name": "Justin Wu",
+        "popularity": 0.5776,
+        "profile_path": "/gLFkaiQls6lHJRuSS1KKNCksYHT.jpg",
+        "credit_id": "67a398687c860960298a8184",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3488176,
+        "known_for_department": "Writing",
+        "name": "Tay Marley",
+        "original_name": "Tay Marley",
+        "popularity": 0.6443,
+        "profile_path": "/wNxQ6z4ZhMODcdcfExRtozI8BDq.jpg",
+        "credit_id": "67b122838dce29e3fbe0c2b7",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63777,
+        "known_for_department": "Production",
+        "name": "Lindsay MacAdam",
+        "original_name": "Lindsay MacAdam",
+        "popularity": 0.3028,
+        "profile_path": "/7PLNfAKYNXCI8Nr15sAo3hA98F5.jpg",
+        "credit_id": "67e5c51c3e65c8ea88ba1acc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3055946,
+        "known_for_department": "Production",
+        "name": "Aron Levitz",
+        "original_name": "Aron Levitz",
+        "popularity": 0.6645,
+        "profile_path": "/jEQRMnBRWr8ZElgYONI3DkBzM52.jpg",
+        "credit_id": "67e5c52f33a74341e310c3e1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4608268,
+        "known_for_department": "Production",
+        "name": "David Madden",
+        "original_name": "David Madden",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "67e5c53df846794e9910d11b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70779,
+        "known_for_department": "Production",
+        "name": "Jason Goldberg",
+        "original_name": "Jason Goldberg",
+        "popularity": 0.1254,
+        "profile_path": "/j36u2ljMbYeqkFRzPAfjq2Q6bKL.jpg",
+        "credit_id": "67e5c5593e65c8ea88ba1adf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3488178,
+        "known_for_department": "Production",
+        "name": "Adam Wescott",
+        "original_name": "Adam Wescott",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "67e5c5683e65c8ea88ba1ae8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3488181,
+        "known_for_department": "Production",
+        "name": "Maxwell Mitcheson",
+        "original_name": "Maxwell Mitcheson",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "67e5c58f33a74341e310c403",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2264751,
+        "known_for_department": "Production",
+        "name": "Jason Fischer",
+        "original_name": "Jason Fischer",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "67e5c5a8a6dd9b0808005401",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3032312,
+        "known_for_department": "Acting",
+        "name": "Noah Beck",
+        "original_name": "Noah Beck",
+        "popularity": 3.9213,
+        "profile_path": "/67BJ1o03CpMbRj40jjiAG13TqPe.jpg",
+        "credit_id": "67e5c5b7027e737406001369",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1537084,
+        "known_for_department": "Acting",
+        "name": "Siena Agudong",
+        "original_name": "Siena Agudong",
+        "popularity": 2.9616,
+        "profile_path": "/yztIHfFmlKpJnMtFlq5aAfsXQvp.jpg",
+        "credit_id": "67e5c5ceb8fc39899610c112",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2681771,
+        "known_for_department": "Directing",
+        "name": "Justin Wu",
+        "original_name": "Justin Wu",
+        "popularity": 0.5776,
+        "profile_path": "/gLFkaiQls6lHJRuSS1KKNCksYHT.jpg",
+        "credit_id": "67e5c5dc3e65c8ea88ba1af4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3208720,
+        "known_for_department": "Writing",
+        "name": "Crystal Ferreiro",
+        "original_name": "Crystal Ferreiro",
+        "popularity": 0.4448,
+        "profile_path": null,
+        "credit_id": "67e5c5fca6dd9b0808005430",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3208720,
+        "known_for_department": "Writing",
+        "name": "Crystal Ferreiro",
+        "original_name": "Crystal Ferreiro",
+        "popularity": 0.4448,
+        "profile_path": null,
+        "credit_id": "67e5c60d5e8e5c9bacba6103",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

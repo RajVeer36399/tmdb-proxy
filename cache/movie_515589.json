@@ -1,0 +1,612 @@
+{
+  "adult": false,
+  "backdrop_path": "/65sac8bW5gFCCULuuhRrvK13qbQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://salomelamas.info/EXTINCAO-EXTINCTION",
+  "id": 515589,
+  "imdb_id": "tt8126440",
+  "origin_country": [
+    "DE",
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_title": "Extinção",
+  "overview": "The end of the Cold War did not bring about a definitive thaw in the former republics of the Soviet Union, so that today there are several frozen conflicts, unresolved for decades, in that vast territory. As in Transnistria, an unrecognized state, seceded from Moldova since 1990. Kolja is a silent witness of how borders and bureaucracy shape the lives of citizens, finally forced to lose their identity.",
+  "popularity": 5.9777,
+  "poster_path": "/kOepTECxAD7Niz08MHdsKpO4t2Q.jpg",
+  "production_companies": [
+    {
+      "id": 121291,
+      "logo_path": null,
+      "name": "Lamaland",
+      "origin_country": "PT"
+    },
+    {
+      "id": 93871,
+      "logo_path": null,
+      "name": "Mengamuk Films",
+      "origin_country": "DE"
+    },
+    {
+      "id": 121292,
+      "logo_path": null,
+      "name": "Walla Collective",
+      "origin_country": "PT"
+    },
+    {
+      "id": 121293,
+      "logo_path": null,
+      "name": "Screen Miguel Nabinho",
+      "origin_country": "PT"
+    },
+    {
+      "id": 121294,
+      "logo_path": null,
+      "name": "Bikini Films",
+      "origin_country": "PT"
+    },
+    {
+      "id": 9020,
+      "logo_path": "/qAcfiiC2WPGrfotZPnoHkDtQ6lr.png",
+      "name": "O Som e a Fúria",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "2018-07-20",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Extinction",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2372675,
+        "known_for_department": "Acting",
+        "name": "Christoph Both-Asmus",
+        "original_name": "Christoph Both-Asmus",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "The Tree Walker",
+        "credit_id": "5d3d39dfa1d332568f0b13b1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2372560,
+        "known_for_department": "Acting",
+        "name": "Kolja Kravchenko",
+        "original_name": "Kolja Kravchenko",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "5d3d0a2621621b000ff00c7a",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044178,
+        "known_for_department": "Sound",
+        "name": "António Porém Pires",
+        "original_name": "António Porém Pires",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "63083470c39266007f19754f",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2417849,
+        "known_for_department": "Editing",
+        "name": "Paulo Américo",
+        "original_name": "Paulo Américo",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "63083491dcb6a3007bb30d26",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3677164,
+        "known_for_department": "Production",
+        "name": "Cristina Almeida",
+        "original_name": "Cristina Almeida",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "6308372bb7d3520080a511d1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3677165,
+        "known_for_department": "Production",
+        "name": "Fabienne Martinot",
+        "original_name": "Fabienne Martinot",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "630837526e938a009237abb3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3677177,
+        "known_for_department": "Production",
+        "name": "Sofia Bénard",
+        "original_name": "Sofia Bénard",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "63083ac2ca7ec6007bcc5bc4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574795,
+        "known_for_department": "Production",
+        "name": "Michel Balagué",
+        "original_name": "Michel Balagué",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "63083b083dd126007ed835b4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1993730,
+        "known_for_department": "Editing",
+        "name": "Eugénio Marques",
+        "original_name": "Eugénio Marques",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "63083bd8194186008334fd44",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3677186,
+        "known_for_department": "Production",
+        "name": "Ariana Couvinha",
+        "original_name": "Ariana Couvinha",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "63083c603dd126007b2de681",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3677188,
+        "known_for_department": "Production",
+        "name": "Vera Amaro",
+        "original_name": "Vera Amaro",
+        "popularity": 0.1221,
+        "profile_path": null,
+        "credit_id": "63083c7418864b0080e3d1a1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1183164,
+        "known_for_department": "Sound",
+        "name": "Tiago Matos",
+        "original_name": "Tiago Matos",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63083c98b042280082ea6576",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1310870,
+        "known_for_department": "Directing",
+        "name": "Marcin Malaszczak",
+        "original_name": "Marcin Malaszczak",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "63083cf718864b007b18dc64",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2417849,
+        "known_for_department": "Editing",
+        "name": "Paulo Américo",
+        "original_name": "Paulo Américo",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "63083d646c19ea0079a4c988",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3677193,
+        "known_for_department": "Production",
+        "name": "Miguel Nabinho",
+        "original_name": "Miguel Nabinho",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "63083d96dcb6a3008358cfd0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1712869,
+        "known_for_department": "Sound",
+        "name": "Miguel Martins",
+        "original_name": "Miguel Martins",
+        "popularity": 0.4701,
+        "profile_path": null,
+        "credit_id": "63083dcc3dd126007ed83693",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565171,
+        "known_for_department": "Writing",
+        "name": "Ryszard Kapuściński",
+        "original_name": "Ryszard Kapuściński",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "63083f7afdf8b7007d75eb1a",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172166,
+        "known_for_department": "Directing",
+        "name": "Salomé Lamas",
+        "original_name": "Salomé Lamas",
+        "popularity": 0.2056,
+        "profile_path": "/AnHUcBUlttHojpeGvPbHKs2XcnU.jpg",
+        "credit_id": "5ac1ccc80e0a260c01015a9f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172166,
+        "known_for_department": "Directing",
+        "name": "Salomé Lamas",
+        "original_name": "Salomé Lamas",
+        "popularity": 0.2056,
+        "profile_path": "/AnHUcBUlttHojpeGvPbHKs2XcnU.jpg",
+        "credit_id": "5d3d1605ede1b00013ecbb28",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2213427,
+        "known_for_department": "Camera",
+        "name": "Jorge Piquer Rodríguez",
+        "original_name": "Jorge Piquer Rodríguez",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "5d3d16c5a1d332000f0db27b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1936730,
+        "known_for_department": "Production",
+        "name": "Stanislav Danylyshyn",
+        "original_name": "Stanislav Danylyshyn",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5d3d170cede1b00014eccfe2",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2372581,
+        "known_for_department": "Production",
+        "name": "Iulia Puica",
+        "original_name": "Iulia Puica",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "5d3d1744a1d33200110dba44",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1936730,
+        "known_for_department": "Production",
+        "name": "Stanislav Danylyshyn",
+        "original_name": "Stanislav Danylyshyn",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5d3d175aede1b0617eebdafb",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1936730,
+        "known_for_department": "Production",
+        "name": "Stanislav Danylyshyn",
+        "original_name": "Stanislav Danylyshyn",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5d3d1777a1d33200120dcc2f",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172166,
+        "known_for_department": "Directing",
+        "name": "Salomé Lamas",
+        "original_name": "Salomé Lamas",
+        "popularity": 0.2056,
+        "profile_path": "/AnHUcBUlttHojpeGvPbHKs2XcnU.jpg",
+        "credit_id": "5d3d1784a1d332568f0acd66",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150511,
+        "known_for_department": "Editing",
+        "name": "Telmo Churro",
+        "original_name": "Telmo Churro",
+        "popularity": 0.1466,
+        "profile_path": "/jtvSbabZAP9am1anHIBFJ3Tu7z4.jpg",
+        "credit_id": "5d3d179aa1d332000f0db3bf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1271354,
+        "known_for_department": "Editing",
+        "name": "Francisco Moreira",
+        "original_name": "Francisco Moreira",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "5d3d17a721621b0013f03d23",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1712869,
+        "known_for_department": "Sound",
+        "name": "Miguel Martins",
+        "original_name": "Miguel Martins",
+        "popularity": 0.4701,
+        "profile_path": null,
+        "credit_id": "5d3d17cbede1b0617eebdcb8",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2372583,
+        "known_for_department": "Sound",
+        "name": "Andreia Pinto Correia",
+        "original_name": "Andreia Pinto Correia",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5d3d1803a1d332000f0db487",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 888974,
+        "known_for_department": "Production",
+        "name": "Luís Urbano",
+        "original_name": "Luís Urbano",
+        "popularity": 0.0683,
+        "profile_path": "/qlI3peVuonO8qVN1kXk8Fp2HDIP.jpg",
+        "credit_id": "5d3d182221621b0013f03df5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 876106,
+        "known_for_department": "Production",
+        "name": "Sandro Aguilar",
+        "original_name": "Sandro Aguilar",
+        "popularity": 0.2607,
+        "profile_path": "/w7Cu3dxPatWhdUQ9BMuz8JBn3Dc.jpg",
+        "credit_id": "5d3d184121621b0013f03e2b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172166,
+        "known_for_department": "Directing",
+        "name": "Salomé Lamas",
+        "original_name": "Salomé Lamas",
+        "popularity": 0.2056,
+        "profile_path": "/AnHUcBUlttHojpeGvPbHKs2XcnU.jpg",
+        "credit_id": "5d3d184eede1b00014ecd2cd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2372667,
+        "known_for_department": "Production",
+        "name": "Alexandru Cuciuc",
+        "original_name": "Alexandru Cuciuc",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "5d3d366da1d33200120e0a2f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2372667,
+        "known_for_department": "Production",
+        "name": "Alexandru Cuciuc",
+        "original_name": "Alexandru Cuciuc",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "5d3d3676ede1b0617eec1cab",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172166,
+        "known_for_department": "Directing",
+        "name": "Salomé Lamas",
+        "original_name": "Salomé Lamas",
+        "popularity": 0.2056,
+        "profile_path": "/AnHUcBUlttHojpeGvPbHKs2XcnU.jpg",
+        "credit_id": "5d3d36cea1d33200100dff52",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172166,
+        "known_for_department": "Directing",
+        "name": "Salomé Lamas",
+        "original_name": "Salomé Lamas",
+        "popularity": 0.2056,
+        "profile_path": "/AnHUcBUlttHojpeGvPbHKs2XcnU.jpg",
+        "credit_id": "5d3d36d9ede1b041ebe9f8bf",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2372671,
+        "known_for_department": "Visual Effects",
+        "name": "Rodolfo Pereira",
+        "original_name": "Rodolfo Pereira",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5d3d377da1d33200110e019b",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2372673,
+        "known_for_department": "Art",
+        "name": "Sara Bozzini",
+        "original_name": "Sara Bozzini",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5d3d3875ede1b00014ed19c8",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1712869,
+        "known_for_department": "Sound",
+        "name": "Miguel Martins",
+        "original_name": "Miguel Martins",
+        "popularity": 0.4701,
+        "profile_path": null,
+        "credit_id": "5d3d38d1ede1b00013ed0008",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  }
+}

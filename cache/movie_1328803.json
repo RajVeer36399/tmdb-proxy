@@ -1,0 +1,431 @@
+{
+  "adult": false,
+  "backdrop_path": "/yGByIyqgJerCw7AAphTrTAlrdkJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 1328803,
+  "imdb_id": "tt33057137",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Prisoner of War",
+  "overview": "British RAF Wing Commander James Wright is captured by the Japanese during WWII and forced to fight in brutal hand-to-hand combat. The Japanese soldiers get more than they bargained for when Wright’s years of martial arts training in Hong Kong prove him to be a formidable opponent.",
+  "popularity": 19.8937,
+  "poster_path": "/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg",
+  "production_companies": [
+    {
+      "id": 238345,
+      "logo_path": null,
+      "name": "Brand in Motion",
+      "origin_country": ""
+    },
+    {
+      "id": 238346,
+      "logo_path": null,
+      "name": "Myriad Entertainment Corp.",
+      "origin_country": ""
+    },
+    {
+      "id": 3835,
+      "logo_path": "/4gD398zUF6VaBti3sVjJkr0sDUX.png",
+      "name": "Odyssey Motion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 238347,
+      "logo_path": null,
+      "name": "Reality RR Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-19",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fight to survive.",
+  "title": "Prisoner of War",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 123,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78110,
+        "known_for_department": "Acting",
+        "name": "Scott Adkins",
+        "original_name": "Scott Adkins",
+        "popularity": 5.2466,
+        "profile_path": "/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg",
+        "cast_id": 1,
+        "character": "James Wright",
+        "credit_id": "66ba2076b2a998faf19126e3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 172994,
+        "known_for_department": "Acting",
+        "name": "Peter Shinkoda",
+        "original_name": "Peter Shinkoda",
+        "popularity": 0.9604,
+        "profile_path": "/lCQl28poQr4bLwqZjhryGkV73jO.jpg",
+        "cast_id": 3,
+        "character": "Benjiro Ito",
+        "credit_id": "66db7b3dd01e50993096364e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78036,
+        "known_for_department": "Acting",
+        "name": "Michael Copon",
+        "original_name": "Michael Copon",
+        "popularity": 0.7399,
+        "profile_path": "/i3k6kmAA3LLlPFEzkOs5hRIfwg6.jpg",
+        "cast_id": 4,
+        "character": "Gabriel Villanueva",
+        "credit_id": "66db7b4c519edd98f8f9868f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105271,
+        "known_for_department": "Acting",
+        "name": "Donald Cerrone",
+        "original_name": "Donald Cerrone",
+        "popularity": 0.2749,
+        "profile_path": "/yHRgWTQuKr5tAMeR3qTtsOQU0Jb.jpg",
+        "cast_id": 5,
+        "character": "Captain Collins",
+        "credit_id": "66db7b5db7b3f9b3d895a579",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1309195,
+        "known_for_department": "Acting",
+        "name": "Michael Rene Walton",
+        "original_name": "Michael Rene Walton",
+        "popularity": 0.985,
+        "profile_path": "/t7yY3Cyei6hH5CVI7y2TtG1oJVX.jpg",
+        "cast_id": 6,
+        "character": "The Beard",
+        "credit_id": "66db7b67519edd98f8f98693",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1323453,
+        "known_for_department": "Acting",
+        "name": "Gary Cairns",
+        "original_name": "Gary Cairns",
+        "popularity": 0.3548,
+        "profile_path": "/2J26NSBfmtborzz32ZqRpCkmr15.jpg",
+        "cast_id": 7,
+        "character": "Jonesy",
+        "credit_id": "66db7b71c2b0458e903403c2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1045069,
+        "known_for_department": "Acting",
+        "name": "Shane Kosugi",
+        "original_name": "Shane Kosugi",
+        "popularity": 0.4843,
+        "profile_path": "/5ePVKMbW8aaI6oBtFoClJOZGpMl.jpg",
+        "cast_id": 8,
+        "character": "Corporal Hirano",
+        "credit_id": "66db7b797170ff75369636a3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227618,
+        "known_for_department": "Acting",
+        "name": "Masanori Mimoto",
+        "original_name": "三元雅芸",
+        "popularity": 0.993,
+        "profile_path": "/koSSsi2LU6gJm3S6o0OgJaxJExx.jpg",
+        "cast_id": 9,
+        "character": "Captain Endo",
+        "credit_id": "66db7b919d95ddce18cce8d2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1949603,
+        "known_for_department": "Acting",
+        "name": "Gabbi Garcia",
+        "original_name": "Gabbi Garcia",
+        "popularity": 0.909,
+        "profile_path": "/ymGQhMZaNoCyXY4rNb2vDl4mKNT.jpg",
+        "cast_id": 10,
+        "character": "Theresa",
+        "credit_id": "66db7b9ad49a1f5c68340408",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2682053,
+        "known_for_department": "Acting",
+        "name": "Sol Eugenio",
+        "original_name": "Sol Eugenio",
+        "popularity": 0.042,
+        "profile_path": "/gb7PMq9wZPM3WJJup5fWAkEOnFC.jpg",
+        "cast_id": 16,
+        "character": "Japanese Soldier",
+        "credit_id": "66dc4cb81a6274862f9dbaa0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5819682,
+        "known_for_department": "Acting",
+        "name": "Fitim Krasniqi",
+        "original_name": "Fitim Krasniqi",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "The Greek",
+        "credit_id": "69191d34f125b88b5631d239",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54649,
+        "known_for_department": "Acting",
+        "name": "Louis Mandylor",
+        "original_name": "Louis Mandylor",
+        "popularity": 1.4703,
+        "profile_path": "/skvNBR83wxjbFj6XuLxWAhCZTmh.jpg",
+        "credit_id": "66ba209cb32715fc66257881",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1561149,
+        "known_for_department": "Acting",
+        "name": "Brandon Menchen",
+        "original_name": "Brandon Menchen",
+        "popularity": 0.1503,
+        "profile_path": "/uvoKebS3dpmjHkovWL37YB2DtyS.jpg",
+        "credit_id": "66db7bb2c2b0458e903403c6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86521,
+        "known_for_department": "Directing",
+        "name": "Marc Clebanoff",
+        "original_name": "Marc Clebanoff",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "credit_id": "66db7be1f1db30c35bcce8ef",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86521,
+        "known_for_department": "Directing",
+        "name": "Marc Clebanoff",
+        "original_name": "Marc Clebanoff",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "credit_id": "66db7becd9e13d57fef5b77b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1587898,
+        "known_for_department": "Production",
+        "name": "Brennan Lane",
+        "original_name": "Brennan Lane",
+        "popularity": 0.0745,
+        "profile_path": null,
+        "credit_id": "66db7c0f8098633ddfee015e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1883452,
+        "known_for_department": "Production",
+        "name": "Doris Pfardrescher",
+        "original_name": "Doris Pfardrescher",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "credit_id": "66db7c18d01e50993096365a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384694,
+        "known_for_department": "Camera",
+        "name": "Austin Nordell",
+        "original_name": "Austin Nordell",
+        "popularity": 0.1199,
+        "profile_path": null,
+        "credit_id": "69191b346b8a39a9afac32ca",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5819681,
+        "known_for_department": "Art",
+        "name": "Claister Martillana",
+        "original_name": "Claister Martillana",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "69191b489b2ed4e73f9c5f30",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3643022,
+        "known_for_department": "Camera",
+        "name": "Niccolo De La Fere",
+        "original_name": "Niccolo De La Fere",
+        "popularity": 0.0474,
+        "profile_path": "/2ePjVnpucxxd2fBOKkF7fh8fkUc.jpg",
+        "credit_id": "69191b59ad78ce5faeac3190",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2097722,
+        "known_for_department": "Sound",
+        "name": "Tasos Eliopoulos",
+        "original_name": "Tasos Eliopoulos",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "69191b6e6b8a39a9afac32d2",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1206725,
+        "known_for_department": "Writing",
+        "name": "Andy Andico",
+        "original_name": "Andy Andico",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "69191b874ad087595b877400",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4992154,
+        "known_for_department": "Directing",
+        "name": "Melchor Berja",
+        "original_name": "Melchor Berja",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "69191b98c14a37294e4ca4c8",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86521,
+        "known_for_department": "Directing",
+        "name": "Marc Clebanoff",
+        "original_name": "Marc Clebanoff",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "credit_id": "69191ba55ffda4900c4ca23f",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      }
+    ]
+  }
+}

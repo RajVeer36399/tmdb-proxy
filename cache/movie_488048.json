@@ -1,0 +1,298 @@
+{
+  "adult": false,
+  "backdrop_path": "/z5dhKgorWkGqoi5DX7XCEZzP0WC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 488048,
+  "imdb_id": "tt1590240",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Massenet: Werther",
+  "overview": "Werther loves Charlotte, but she promised her mother on her deathbed that she would marry Albert. After the marriage Charlotte suggests that Werther should travel - but not forget her. In addition to the singing and orchestral accompaniment, the entire cast acts very convincingly. And, there's no backstage mugging, entrances and spoken nonsense to spoil the experience of the drama.",
+  "popularity": 5.8824,
+  "poster_path": "/yblYaFrnhJfoH5fZumlMDn0goiE.jpg",
+  "production_companies": [
+    {
+      "id": 15355,
+      "logo_path": "/bGLlMG6AcL7HcpeOUuFX5XbYJQN.png",
+      "name": "Opéra National de Paris",
+      "origin_country": "FR"
+    },
+    {
+      "id": 18872,
+      "logo_path": "/9PNdO6L1bh8ZVjIwOKjveRia3Ku.png",
+      "name": "Decca",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2010-01-26",
+  "revenue": 0,
+  "runtime": 145,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Massenet: Werther",
+  "video": false,
+  "vote_average": 8.8,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1006158,
+        "known_for_department": "Acting",
+        "name": "Jonas Kaufmann",
+        "original_name": "Jonas Kaufmann",
+        "popularity": 0.5733,
+        "profile_path": "/phtOzy9kcTClC9mU7N6Mr2q1yFV.jpg",
+        "cast_id": 0,
+        "character": "Werther",
+        "credit_id": "5a12081892514138f605b5d2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1116781,
+        "known_for_department": "Acting",
+        "name": "Sophie Koch",
+        "original_name": "Sophie Koch",
+        "popularity": 0.0286,
+        "profile_path": "/131B2Dd2tMylZgQPEBjkv8ZfQrS.jpg",
+        "cast_id": 4,
+        "character": "Charlotte",
+        "credit_id": "5a12083fc3a368628006158b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267405,
+        "known_for_department": "Acting",
+        "name": "Ludovic Tézier",
+        "original_name": "Ludovic Tézier",
+        "popularity": 0.4601,
+        "profile_path": "/u9OD8isxAGK1oLJBs2HSHFCYo07.jpg",
+        "cast_id": 1,
+        "character": "Albert",
+        "credit_id": "5a12081f9251416184014d15",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437804,
+        "known_for_department": "Acting",
+        "name": "Alain Vernhes",
+        "original_name": "Alain Vernhes",
+        "popularity": 0.0495,
+        "profile_path": "/gM9qWD94mF02uhqZGExEov9mCdE.jpg",
+        "cast_id": 2,
+        "character": "Le Bailli",
+        "credit_id": "5a12082892514138f605b5ea",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1926504,
+        "known_for_department": "Acting",
+        "name": "Andreas Jäggi",
+        "original_name": "Andreas Jäggi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Schmidt",
+        "credit_id": "5a12083892514138e705db27",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1881014,
+        "known_for_department": "Acting",
+        "name": "Anne-Catherine Gillet",
+        "original_name": "Anne-Catherine Gillet",
+        "popularity": 0.0214,
+        "profile_path": "/unFIhpWVwr5HhRqAOPP6YHhuKHu.jpg",
+        "cast_id": 5,
+        "character": "Sophie",
+        "credit_id": "5a120847c3a368628f0583b2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1926505,
+        "known_for_department": "Acting",
+        "name": "Christian Tréguier",
+        "original_name": "Christian Tréguier",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Johann",
+        "credit_id": "5a120859c3a36862800615aa",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2923085,
+        "known_for_department": "Acting",
+        "name": "Paris Opera Orchestra",
+        "original_name": "Paris Opera Orchestra",
+        "popularity": 0.044,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "5ff956d6dd83fa003d6e1dee",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229263,
+        "known_for_department": "Directing",
+        "name": "Benoît Jacquot",
+        "original_name": "Benoît Jacquot",
+        "popularity": 0.5201,
+        "profile_path": "/n1qaZFqxYxm4nPzfpSYH93QH0eo.jpg",
+        "credit_id": "5a12087592514138f90598f3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1926509,
+        "known_for_department": "Crew",
+        "name": "Georges Hartmann",
+        "original_name": "Georges Hartmann",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a12088f92514138f305d6d7",
+        "department": "Crew",
+        "job": "Poem"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1926506,
+        "known_for_department": "Crew",
+        "name": "Edouard Blau",
+        "original_name": "Edouard Blau",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a12087f92514138e405a27e",
+        "department": "Crew",
+        "job": "Poem"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 411527,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christian Gasc",
+        "original_name": "Christian Gasc",
+        "popularity": 0.5967,
+        "profile_path": "/62UvJgknuvIAyzy3muva4gqxtoe.jpg",
+        "credit_id": "5a1208db92514138ea05b939",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48053,
+        "known_for_department": "Sound",
+        "name": "Jules Massenet",
+        "original_name": "Jules Massenet",
+        "popularity": 0.0382,
+        "profile_path": "/fMB6VUi0gIcQEu3WBoP7G8rQMCD.jpg",
+        "credit_id": "5a1208fbc3a368628c0528cb",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1926508,
+        "known_for_department": "Crew",
+        "name": "Paul Milliet",
+        "original_name": "Paul Milliet",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5a120887c3a3686292056405",
+        "department": "Crew",
+        "job": "Poem"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574898,
+        "known_for_department": "Sound",
+        "name": "Michel Plasson",
+        "original_name": "Michel Plasson",
+        "popularity": 0.069,
+        "profile_path": "/f23WvxpPANp5xwnyhHeXebD7ayH.jpg",
+        "credit_id": "5a12090ac3a368628905a067",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1926513,
+        "known_for_department": "Camera",
+        "name": "André Diot",
+        "original_name": "André Diot",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "5a1208f192514138ea05b958",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66797,
+        "known_for_department": "Writing",
+        "name": "Johann Wolfgang von Goethe",
+        "original_name": "Johann Wolfgang von Goethe",
+        "popularity": 0.7185,
+        "profile_path": "/sZcfT3pqAqibYjnYOjD841vXjEk.jpg",
+        "credit_id": "5a1208c492514138ea05b922",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  }
+}

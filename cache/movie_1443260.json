@@ -1,0 +1,404 @@
+{
+  "adult": false,
+  "backdrop_path": "/vONneKzrIed5QCbxTfnDRl6hZX5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1443260,
+  "imdb_id": "tt34493926",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Rob1n",
+  "overview": "When a robotics expert channels the grief of losing his 11 year-old son into building 'Robin', a fully functioning robotic doll, a series of horrific events makes it clear Robin will do whatever it takes to have his creator all to himself.",
+  "popularity": 7.3753,
+  "poster_path": "/5lJ2ftNE18iYGCdOQsQirzHHtnX.jpg",
+  "production_companies": [
+    {
+      "id": 150062,
+      "logo_path": null,
+      "name": "Fowler Media",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-03-20",
+  "revenue": 25242,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He would kill to have you all to himself.",
+  "title": "Rob1n",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 50,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1657121,
+        "known_for_department": "Acting",
+        "name": "Ethan Taylor",
+        "original_name": "Ethan Taylor",
+        "popularity": 0.6369,
+        "profile_path": "/fJ0LqegrsjrSMBEAGUnp9mMIpm.jpg",
+        "cast_id": 4,
+        "character": "Leo",
+        "credit_id": "67c7726a7d97ec5341ac9da0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1890542,
+        "known_for_department": "Acting",
+        "name": "Leona Clarke",
+        "original_name": "Leona Clarke",
+        "popularity": 0.2084,
+        "profile_path": "/dFinXe44XEDiNKYy8I2ashz1PoZ.jpg",
+        "cast_id": 8,
+        "character": "Lexi",
+        "credit_id": "67c7730026b4e196b1f072e0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1438982,
+        "known_for_department": "Acting",
+        "name": "Simon Davies",
+        "original_name": "Simon Davies",
+        "popularity": 0.0454,
+        "profile_path": "/c0q1u7sbHQkbdSPI7huqFXHg3D5.jpg",
+        "cast_id": 9,
+        "character": "Aiden",
+        "credit_id": "67c773bc7d01032752ac9e51",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1662821,
+        "known_for_department": "Acting",
+        "name": "Michaela Longden",
+        "original_name": "Michaela Longden",
+        "popularity": 0.151,
+        "profile_path": "/4nzQJ91bK9pUsTNSpBLSJh29eQD.jpg",
+        "cast_id": 6,
+        "character": "Freya",
+        "credit_id": "67c772bb7d97ec5341ac9de9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1364365,
+        "known_for_department": "Acting",
+        "name": "Luke James",
+        "original_name": "Luke James",
+        "popularity": 0.294,
+        "profile_path": "/vESm2pgfZ8cg1VE2vGTEfszFYLR.jpg",
+        "cast_id": 10,
+        "character": "Sam",
+        "credit_id": "67c773f11dedd571f540a231",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3897015,
+        "known_for_department": "Acting",
+        "name": "Maximillian Cherry",
+        "original_name": "Maximillian Cherry",
+        "popularity": 0.0972,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Young Robin",
+        "credit_id": "67c7721e84da21133eaca0ec",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345044,
+        "known_for_department": "Acting",
+        "name": "Lucas Edwards",
+        "original_name": "Lucas Edwards",
+        "popularity": 0.052,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Young Aiden",
+        "credit_id": "685a867b067f87cc9ee64c75",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2977460,
+        "known_for_department": "Acting",
+        "name": "Gareth Tidball",
+        "original_name": "Gareth Tidball",
+        "popularity": 0.2355,
+        "profile_path": "/uqhFXcfgjNDdbCGk5cflwE5ioEV.jpg",
+        "cast_id": 3,
+        "character": "Robin's Mother",
+        "credit_id": "67c772537d97ec5341ac9d99",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2992695,
+        "known_for_department": "Acting",
+        "name": "Victor Mellors",
+        "original_name": "Victor Mellors",
+        "popularity": 0.0942,
+        "profile_path": "/1gLII7elgVoX0JqsWgbU12OrLYB.jpg",
+        "cast_id": 5,
+        "character": "Detective Proctor",
+        "credit_id": "67c772a2c3da0a8c6f40a65c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2992685,
+        "known_for_department": "Acting",
+        "name": "Mollie Hindle-Pérez",
+        "original_name": "Mollie Hindle-Pérez",
+        "popularity": 0.2185,
+        "profile_path": "/ygNh5tJgtLz8nLm5gxZVxflqUPn.jpg",
+        "cast_id": 7,
+        "character": "Detective Farmer",
+        "credit_id": "67c772d826b4e196b1f072ca",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5524439,
+        "known_for_department": "Acting",
+        "name": "Nadia Adjibade",
+        "original_name": "Nadia Adjibade",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Wedding Host",
+        "credit_id": "685a7ff65716d20c9221c90d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5262069,
+        "known_for_department": "Acting",
+        "name": "John Jenner",
+        "original_name": "John Jenner",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Party Guest",
+        "credit_id": "685a86fa751582831b21c9a2",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1976339,
+        "known_for_department": "Directing",
+        "name": "Lawrence Fowler",
+        "original_name": "Lawrence Fowler",
+        "popularity": 0.2092,
+        "profile_path": "/4r2ZI45E36Ej5rbxeGgEZOfCzMc.jpg",
+        "credit_id": "67c770df784c571b4fac9c7a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1976339,
+        "known_for_department": "Directing",
+        "name": "Lawrence Fowler",
+        "original_name": "Lawrence Fowler",
+        "popularity": 0.2092,
+        "profile_path": "/4r2ZI45E36Ej5rbxeGgEZOfCzMc.jpg",
+        "credit_id": "67c77482784c571b4fac9dba",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1976339,
+        "known_for_department": "Directing",
+        "name": "Lawrence Fowler",
+        "original_name": "Lawrence Fowler",
+        "popularity": 0.2092,
+        "profile_path": "/4r2ZI45E36Ej5rbxeGgEZOfCzMc.jpg",
+        "credit_id": "67c774940bcafd0d3cf0767e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3316435,
+        "known_for_department": "Sound",
+        "name": "Christoph Allerstorfer",
+        "original_name": "Christoph Allerstorfer",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67c774e2a75500a87640a179",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1976340,
+        "known_for_department": "Production",
+        "name": "Geoff Fowler",
+        "original_name": "Geoff Fowler",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67c775531dedd571f540a2cb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2523577,
+        "known_for_department": "Production",
+        "name": "Glenn Kendrick Ackermann",
+        "original_name": "Glenn Kendrick Ackermann",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "685a7e48dc41941eb0e64cbf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1976339,
+        "known_for_department": "Directing",
+        "name": "Lawrence Fowler",
+        "original_name": "Lawrence Fowler",
+        "popularity": 0.2092,
+        "profile_path": "/4r2ZI45E36Ej5rbxeGgEZOfCzMc.jpg",
+        "credit_id": "685a7e65bbc3879ec3572fb0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5524422,
+        "known_for_department": "Production",
+        "name": "David Marsh",
+        "original_name": "David Marsh",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "685a7ebd9c3cf3926c08d822",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4599819,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lucy Ioannou",
+        "original_name": "Lucy Ioannou",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "685a7edaa43172823be64f57",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5524425,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Emma Procter",
+        "original_name": "Emma Procter",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "685a7ee912df08ea4a4f6bc5",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5524426,
+        "known_for_department": "Production",
+        "name": "Ruby Fowler",
+        "original_name": "Ruby Fowler",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "685a7ef5190c571a0f0ccefd",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5524428,
+        "known_for_department": "Sound",
+        "name": "Simon Haglund",
+        "original_name": "Simon Haglund",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "685a7f057c2399bbdea84d3a",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5524433,
+        "known_for_department": "Crew",
+        "name": "Samuel Rush",
+        "original_name": "Samuel Rush",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "685a7f4a73bd8ae250e64c51",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      }
+    ]
+  }
+}

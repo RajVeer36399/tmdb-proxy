@@ -1,0 +1,290 @@
+{
+  "adult": false,
+  "backdrop_path": "/fZMhuFjyQ7QDFIsLDSQKxe3icce.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1380998,
+  "imdb_id": "tt13161694",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "The Book",
+  "overview": "",
+  "popularity": 15.3001,
+  "poster_path": "/qlOWxBek4G7Jw52ZBuCKzy4RlKm.jpg",
+  "production_companies": [
+    {
+      "id": 243509,
+      "logo_path": null,
+      "name": "La Caja de Expresiones",
+      "origin_country": ""
+    },
+    {
+      "id": 243510,
+      "logo_path": null,
+      "name": "BHC Creativa",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2024-11-08",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Book",
+  "video": false,
+  "vote_average": 4.167,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1441201,
+        "known_for_department": "Acting",
+        "name": "Nahia Laiz",
+        "original_name": "Nahia Laiz",
+        "popularity": 0.0492,
+        "profile_path": "/zhPVK93hZjRqDwGCY0EE4uc8gEz.jpg",
+        "cast_id": 1,
+        "character": "Verónica",
+        "credit_id": "6724c0d312d1a073a38d7bee",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1149052,
+        "known_for_department": "Acting",
+        "name": "Abdelatif Hwidar",
+        "original_name": "Abdelatif Hwidar",
+        "popularity": 0.3549,
+        "profile_path": "/zeJjozJIvaa0qlZRufSC0J2sr86.jpg",
+        "cast_id": 2,
+        "character": "Anticuario",
+        "credit_id": "6724c0e23985f3f41ad1c002",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2042760,
+        "known_for_department": "Acting",
+        "name": "Miguel Ramiro",
+        "original_name": "Miguel Ramiro",
+        "popularity": 0.0481,
+        "profile_path": "/v0RIRMLLBCzh0qOcaSZPGqICzc.jpg",
+        "cast_id": 20,
+        "character": "Álex",
+        "credit_id": "6724c6380174b9909cdf2336",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034715,
+        "known_for_department": "Acting",
+        "name": "Celina Ruiz",
+        "original_name": "Celina Ruiz",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6724c2160df4e66d4d924ddb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034719,
+        "known_for_department": "Acting",
+        "name": "Moncha Molina",
+        "original_name": "Moncha Molina",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "6724c22912d1a073a38d7c66",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3446970,
+        "known_for_department": "Directing",
+        "name": "Bernardo Hernández",
+        "original_name": "Bernardo Hernández",
+        "popularity": 0.0143,
+        "profile_path": "/2UFRLQGcaRmMYeZvkzkKFY4O4au.jpg",
+        "credit_id": "6724c15701c4dbfa94f68847",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3446971,
+        "known_for_department": "Writing",
+        "name": "Fran J. Marber",
+        "original_name": "Fran J. Marber",
+        "popularity": 0.0311,
+        "profile_path": "/6fdUJS46bXugRm7Dh50BdOEK7wE.jpg",
+        "credit_id": "6724c17801c4dbfa94f6886a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1698552,
+        "known_for_department": "Sound",
+        "name": "Josué Vergara",
+        "original_name": "Josué Vergara",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "6724c1b68d192614066160f7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034721,
+        "known_for_department": "Camera",
+        "name": "Gerardo Diego García",
+        "original_name": "Gerardo Diego García",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6724c2520df4e66d4d924df9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3109889,
+        "known_for_department": "Sound",
+        "name": "Rubén Climent",
+        "original_name": "Rubén Climent",
+        "popularity": 0.0377,
+        "profile_path": null,
+        "credit_id": "6724c37c01c4dbfa94f68984",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034735,
+        "known_for_department": "Crew",
+        "name": "Juanchi Ruiz",
+        "original_name": "Juanchi Ruiz",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6724c3fce7b37c73c69d2356",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034737,
+        "known_for_department": "Camera",
+        "name": "Paolo Natale",
+        "original_name": "Paolo Natale",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6724c41801c4dbfa94f689ea",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034739,
+        "known_for_department": "Camera",
+        "name": "Pedro Darso",
+        "original_name": "Pedro Darso",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6724c42b01c4dbfa94f68a0d",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034740,
+        "known_for_department": "Production",
+        "name": "Brayan Paqui",
+        "original_name": "Brayan Paqui",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6724c43dbb1ff9551a6d5529",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034741,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Charo Cecilia",
+        "original_name": "Charo Cecilia",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6724c4552a4deb99bd9dc16b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034742,
+        "known_for_department": "Costume & Make-Up",
+        "name": "María Miñarro",
+        "original_name": "María Miñarro",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6724c46ce7b37c73c69d2379",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3446970,
+        "known_for_department": "Directing",
+        "name": "Bernardo Hernández",
+        "original_name": "Bernardo Hernández",
+        "popularity": 0.0143,
+        "profile_path": "/2UFRLQGcaRmMYeZvkzkKFY4O4au.jpg",
+        "credit_id": "6724c4848d19261406616125",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

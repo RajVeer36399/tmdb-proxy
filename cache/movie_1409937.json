@@ -1,0 +1,253 @@
+{
+  "adult": false,
+  "backdrop_path": "/tmEZKWEBII9fm0uK1l1Y6JB5Qj5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1409937,
+  "imdb_id": "tt34896955",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Cuatro paredes",
+  "overview": "",
+  "popularity": 5.9596,
+  "poster_path": "/75zBgOZDVGM86eK5WThXzzuXhzp.jpg",
+  "production_companies": [
+    {
+      "id": 230423,
+      "logo_path": "/vrGKABihKaOeii3xZKcmRX1Qm2Q.png",
+      "name": "Mundo Cero",
+      "origin_country": "ES"
+    },
+    {
+      "id": 159699,
+      "logo_path": null,
+      "name": "Save the Children",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-06-06",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cuatro paredes",
+  "video": false,
+  "vote_average": 5.75,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3925017,
+        "known_for_department": "Acting",
+        "name": "Sofía Otero",
+        "original_name": "Sofía Otero",
+        "popularity": 0.0538,
+        "profile_path": "/4B2F3TwZlpDnyBPWkEk2kv1zj12.jpg",
+        "cast_id": 1,
+        "character": "Sofía",
+        "credit_id": "677341505f1c4fa473618ce7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26279,
+        "known_for_department": "Acting",
+        "name": "Manuela Vellés",
+        "original_name": "Manuela Vellés",
+        "popularity": 0.2811,
+        "profile_path": "/tehIQs0SgHA7vNJ3fzPPZ1hO8Mk.jpg",
+        "cast_id": 3,
+        "character": "Juana",
+        "credit_id": "6773416f6234c1b46f6164f0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5057018,
+        "known_for_department": "Acting",
+        "name": "Julene Puente Nafarrate",
+        "original_name": "Julene Puente Nafarrate",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "677341606234c1b46f6164ea",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225017,
+        "known_for_department": "Acting",
+        "name": "Roberto Álamo",
+        "original_name": "Roberto Álamo",
+        "popularity": 0.2818,
+        "profile_path": "/9EJAj1cWR9QiATiWUT3zs8Qsn9H.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "67de1491338e77783ff580c3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1471610,
+        "known_for_department": "Acting",
+        "name": "Elena Irueta",
+        "original_name": "Elena Irueta",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "67de149ac70acdd9df69b6bb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24987,
+        "known_for_department": "Acting",
+        "name": "Ramón Barea",
+        "original_name": "Ramón Barea",
+        "popularity": 0.3671,
+        "profile_path": "/7KJMpbljybgVMhHuNosECDrzact.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "67de14a64aa966ce8c699f6a",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1128094,
+        "known_for_department": "Production",
+        "name": "Ibon Cormenzana",
+        "original_name": "Ibon Cormenzana",
+        "popularity": 0.1691,
+        "profile_path": "/hy75AqWyznuetMtXeqMDFGSgxFu.jpg",
+        "credit_id": "6773417a6234c1b46f6164f7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1128094,
+        "known_for_department": "Production",
+        "name": "Ibon Cormenzana",
+        "original_name": "Ibon Cormenzana",
+        "popularity": 0.1691,
+        "profile_path": "/hy75AqWyznuetMtXeqMDFGSgxFu.jpg",
+        "credit_id": "67734182d8dc22e6c6928cb5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1489446,
+        "known_for_department": "Writing",
+        "name": "Roger Danès",
+        "original_name": "Roger Danès",
+        "popularity": 0.4496,
+        "profile_path": null,
+        "credit_id": "6773418d2efbf3b41d926b56",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1489447,
+        "known_for_department": "Writing",
+        "name": "Alfred Pérez-Fargas",
+        "original_name": "Alfred Pérez-Fargas",
+        "popularity": 0.4346,
+        "profile_path": null,
+        "credit_id": "67734198d8dc22e6c6928cb9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1477912,
+        "known_for_department": "Directing",
+        "name": "Alejo Levis",
+        "original_name": "Alejo Levis",
+        "popularity": 0.0362,
+        "profile_path": "/rFMsKZdI1HxzciVfGOhgUY9uspt.jpg",
+        "credit_id": "67de14c01fee87c1bc7a9017",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2496989,
+        "known_for_department": "Sound",
+        "name": "Aitor Etxebarria",
+        "original_name": "Aitor Etxebarria",
+        "popularity": 0.0286,
+        "profile_path": "/zw7WSgLZJGnm6RK9HgVZMgn9HM1.jpg",
+        "credit_id": "67de14ce4aa966ce8c699f70",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1477912,
+        "known_for_department": "Directing",
+        "name": "Alejo Levis",
+        "original_name": "Alejo Levis",
+        "popularity": 0.0362,
+        "profile_path": "/rFMsKZdI1HxzciVfGOhgUY9uspt.jpg",
+        "credit_id": "67de14d94aa966ce8c699f77",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26279,
+        "known_for_department": "Acting",
+        "name": "Manuela Vellés",
+        "original_name": "Manuela Vellés",
+        "popularity": 0.2811,
+        "profile_path": "/tehIQs0SgHA7vNJ3fzPPZ1hO8Mk.jpg",
+        "credit_id": "683c1eb5bf4a0f67e6689859",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

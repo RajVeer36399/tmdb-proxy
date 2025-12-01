@@ -1,0 +1,300 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 264678,
+  "imdb_id": "tt0037705",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Die Fledermaus",
+  "overview": "Theater director Falke, dressed as a bat, ends up in prison after a merry carnival night. Director Frank only releases him after some time. Falke decides to take revenge on his friend Gabriel von Eisenstein, to whom he owes the whole affair. The annual masked ball at Prince Orlofsky's provides the opportunity. Falke stages a game of mistaken identity in which Eisenstein does not recognize his own wife and courts her, while maid Adele appears as the countess. Eisenstein is duped, Falke has taken his revenge.",
+  "popularity": 6.4098,
+  "poster_path": "/adoc4ehITmOz98TYR7icaZgMyD.jpg",
+  "production_companies": [
+    {
+      "id": 619,
+      "logo_path": null,
+      "name": "Terra-Filmkunst",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1946-08-16",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Die Fledermaus",
+  "video": false,
+  "vote_average": 8,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 50284,
+        "known_for_department": "Acting",
+        "name": "Marte Harell",
+        "original_name": "Marte Harell",
+        "popularity": 0.093,
+        "profile_path": "/b9albQTnAKvNvSsDxWeDXS1otnR.jpg",
+        "cast_id": 1,
+        "character": "Rosalinde Eisenstein",
+        "credit_id": "534c4aa8c3a368049700020b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47352,
+        "known_for_department": "Acting",
+        "name": "Johannes Heesters",
+        "original_name": "Johannes Heesters",
+        "popularity": 0.2101,
+        "profile_path": "/xH4eozg4D5gLyQyYxc1fixC0sOL.jpg",
+        "cast_id": 2,
+        "character": "Herbert Eisenstein",
+        "credit_id": "534c4abbc3a368048e0001de",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33077,
+        "known_for_department": "Acting",
+        "name": "Will Dohm",
+        "original_name": "Will Dohm",
+        "popularity": 0.2733,
+        "profile_path": "/bLfb9huX0cDpNQUInwXxYWp0q0Q.jpg",
+        "cast_id": 3,
+        "character": "Theaterdirektor Michael Falke",
+        "credit_id": "534c4acfc3a368049700020f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46844,
+        "known_for_department": "Acting",
+        "name": "Dorit Kreysler",
+        "original_name": "Dorit Kreysler",
+        "popularity": 0.0311,
+        "profile_path": "/c8igmBemOg0uf7KWZ1nyTurMzeQ.jpg",
+        "cast_id": 5,
+        "character": "Adele",
+        "credit_id": "534c4aebc3a3680431000212",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13893,
+        "known_for_department": "Acting",
+        "name": "Willy Fritsch",
+        "original_name": "Willy Fritsch",
+        "popularity": 0.2532,
+        "profile_path": "/7MKVQWgy8VncbRxF249WimBxfxm.jpg",
+        "cast_id": 6,
+        "character": "Gefängnisdirektor Frank",
+        "credit_id": "534c4af9c3a36804b40001c9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591493,
+        "known_for_department": "Acting",
+        "name": "Hans Brausewetter",
+        "original_name": "Hans Brausewetter",
+        "popularity": 0.0801,
+        "profile_path": "/53iVqCwG5YEjsezcR4hstKcg16S.jpg",
+        "cast_id": 7,
+        "character": "Tenor Alfred Melzer",
+        "credit_id": "534c4b09c3a36804410001f1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14279,
+        "known_for_department": "Acting",
+        "name": "Joseph Egger",
+        "original_name": "Joseph Egger",
+        "popularity": 0.6947,
+        "profile_path": "/qbYagO1s87kPadJLBCYTuihO2CV.jpg",
+        "cast_id": 8,
+        "character": "Frosch",
+        "credit_id": "563d385292514118670006f8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15386,
+        "known_for_department": "Acting",
+        "name": "Siegfried Breuer",
+        "original_name": "Siegfried Breuer",
+        "popularity": 0.0657,
+        "profile_path": "/rXhySWLa7Sj1Q9yy6pe9lFqKyce.jpg",
+        "cast_id": 13,
+        "character": "Prinz Orlowsky",
+        "credit_id": "5a0015d8925141473305913b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28070,
+        "known_for_department": "Acting",
+        "name": "Heinz Salfner",
+        "original_name": "Heinz Salfner",
+        "popularity": 0.0784,
+        "profile_path": "/i6bpJ6d5Et6fGcvUWLvn1SMExdq.jpg",
+        "cast_id": 14,
+        "character": "Inspektor",
+        "credit_id": "5a0015f7c3a368687e0506e2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591911,
+        "known_for_department": "Acting",
+        "name": "Franz Böheim",
+        "original_name": "Franz Böheim",
+        "popularity": 0.1301,
+        "profile_path": "/l3jBHE1e39KYR89ZeqEgD7XM5CV.jpg",
+        "cast_id": 15,
+        "character": "Office writer I.T. prison",
+        "credit_id": "5a0015ff9251414705059482",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1618071,
+        "known_for_department": "Acting",
+        "name": "Hermine Ziegler",
+        "original_name": "Hermine Ziegler",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "5a00160a92514146d405cb3a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 591912,
+        "known_for_department": "Acting",
+        "name": "Mimi Stelzer",
+        "original_name": "Mimi Stelzer",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Cook at Eisensteins",
+        "credit_id": "5a00161592514146d405cb4f",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51590,
+        "known_for_department": "Directing",
+        "name": "Géza von Bolváry",
+        "original_name": "Géza von Bolváry",
+        "popularity": 0.1686,
+        "profile_path": "/rQV26CqpTwNLrJeC77OZUmbe4RB.jpg",
+        "credit_id": "534c4a97c3a36804ab0001ea",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13671,
+        "known_for_department": "Editing",
+        "name": "Alice Ludwig",
+        "original_name": "Alice Ludwig",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "5a001565c3a368683505de21",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140783,
+        "known_for_department": "Sound",
+        "name": "Johann Strauss",
+        "original_name": "Johann Strauss",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "5a001585c3a36868a70507ca",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6241,
+        "known_for_department": "Directing",
+        "name": "Ernst Marischka",
+        "original_name": "Ernst Marischka",
+        "popularity": 0.5816,
+        "profile_path": "/s9bHUr73uv3E9oIfj7JgHWAKLLE.jpg",
+        "credit_id": "5a001531c3a36868a7050767",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47160,
+        "known_for_department": "Camera",
+        "name": "Willy Winterstein",
+        "original_name": "Willy Winterstein",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5a001553925141470c05b055",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

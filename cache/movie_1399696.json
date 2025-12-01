@@ -1,0 +1,498 @@
+{
+  "adult": false,
+  "backdrop_path": "/xw0GqVJSAqZRpBGOhpbICsL0EpJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1399696,
+  "imdb_id": "tt30129207",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Hysteria",
+  "overview": "A film shoot takes a dark turn when the burning of a Quran throws the crew into turmoil. Caught in accusations, intern Elif is drawn into a dangerous game of secrets and lies, finding herself at the heart of an all-absorbing conspiracy.",
+  "popularity": 8.3093,
+  "poster_path": "/7UOVLIlPm5RmSJ8Y0kbOKVqzNfO.jpg",
+  "production_companies": [
+    {
+      "id": 113426,
+      "logo_path": "/deKazYDjPTseNpBgts4VyjnGh0V.png",
+      "name": "filmfaust",
+      "origin_country": "DE"
+    },
+    {
+      "id": 242631,
+      "logo_path": "/9l53h4TYA8ptXcM4JPDabycZO4v.png",
+      "name": "Das kleine Fernsehspiel",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-05-02",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hysteria",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1888322,
+        "known_for_department": "Acting",
+        "name": "Devrim Lingnau",
+        "original_name": "Devrim Lingnau",
+        "popularity": 0.9758,
+        "profile_path": "/vRKhVZFPhtpPv6VbXRGXTdbucZZ.jpg",
+        "cast_id": 1,
+        "character": "Elif",
+        "credit_id": "6756f2919cc0b6fc319a7487",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471297,
+        "known_for_department": "Acting",
+        "name": "Mehdi Meskar",
+        "original_name": "Mehdi Meskar",
+        "popularity": 0.3363,
+        "profile_path": "/3fI0vl6ifxJHkRtMEAll9z1X2P6.jpg",
+        "cast_id": 2,
+        "character": "Said",
+        "credit_id": "6756f2a9431108aa23d12dd3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1500592,
+        "known_for_department": "Acting",
+        "name": "Serkan Kaya",
+        "original_name": "Serkan Kaya",
+        "popularity": 0.8845,
+        "profile_path": "/eh1jNuwjcZYFeUtNrSePr9ae0S2.jpg",
+        "cast_id": 3,
+        "character": "Yiğit",
+        "credit_id": "6756f2b619b04e715447204c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33040,
+        "known_for_department": "Acting",
+        "name": "Nicolette Krebitz",
+        "original_name": "Nicolette Krebitz",
+        "popularity": 0.3369,
+        "profile_path": "/9thj9IJmbvfMgE1Z4MrbgkybBb4.jpg",
+        "cast_id": 4,
+        "character": "Lilith",
+        "credit_id": "6756f2c419b04e715447205b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1911402,
+        "known_for_department": "Acting",
+        "name": "Aziz Çapkurt",
+        "original_name": "Aziz Çapkurt",
+        "popularity": 0.3235,
+        "profile_path": "/c4Xo3ysMTRleXYBDOkBwGaRKLCk.jpg",
+        "cast_id": 5,
+        "character": "Mustafa",
+        "credit_id": "6756f2d119b04e715447206c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587154,
+        "known_for_department": "Acting",
+        "name": "Nazmi Kırık",
+        "original_name": "Nazmi Kırık",
+        "popularity": 0.8259,
+        "profile_path": "/meCWtcNFKWeTImLmB6ILYKWOYsW.jpg",
+        "cast_id": 6,
+        "character": "Majid",
+        "credit_id": "6756f2e0431108aa23d12e0e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1414192,
+        "known_for_department": "Acting",
+        "name": "Lola Klamroth",
+        "original_name": "Lola Klamroth",
+        "popularity": 0.0673,
+        "profile_path": "/5SVt4MihniZumXOIQBJGNh65JEN.jpg",
+        "cast_id": 18,
+        "character": "Assistant Director",
+        "credit_id": "68154585ed8c7d198396844c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1464147,
+        "known_for_department": "Acting",
+        "name": "Sahin Eryilmaz",
+        "original_name": "Sahin Eryilmaz",
+        "popularity": 0.1734,
+        "profile_path": "/j9s23nA1yWTY2tDjhhwRXKGtLqu.jpg",
+        "cast_id": 25,
+        "character": "Taxi Driver",
+        "credit_id": "681545cd52918a051f3ae314",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797930,
+        "known_for_department": "Sound",
+        "name": "Helin Sezen Korkmaz",
+        "original_name": "Helin Sezen Korkmaz",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Interpreter",
+        "credit_id": "681545985f9ca5ac99a20df9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5412146,
+        "known_for_department": "Acting",
+        "name": "Till Bortloff",
+        "original_name": "Till Bortloff",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Refugee center manager",
+        "credit_id": "681545a08e9129ff6a96859d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3645481,
+        "known_for_department": "Acting",
+        "name": "Minna Wündrich",
+        "original_name": "Minna Wündrich",
+        "popularity": 0.0978,
+        "profile_path": "/mpZ6q1keLQKpoOVvr3mQchhXLog.jpg",
+        "cast_id": 22,
+        "character": "Police Officer",
+        "credit_id": "681545ac10a4efb5d7912c31",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5412151,
+        "known_for_department": "Acting",
+        "name": "Nawid Faalnazari",
+        "original_name": "Nawid Faalnazari",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Police Officer",
+        "credit_id": "681545e0214f94baeb907ca3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5412148,
+        "known_for_department": "Acting",
+        "name": "Osman Çiftçi",
+        "original_name": "Osman Çiftçi",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Key Maker",
+        "credit_id": "681545b75fa8121ecabe8fd0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5412149,
+        "known_for_department": "Acting",
+        "name": "Mohammed Bouhamed",
+        "original_name": "Mohammed Bouhamed",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Postal worker",
+        "credit_id": "681545c2c18b196deea20d33",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1329117,
+        "known_for_department": "Acting",
+        "name": "Ferhat Keskin",
+        "original_name": "Ferhat Keskin",
+        "popularity": 0.0484,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Locksmith",
+        "credit_id": "6815458d3e4285f88c912c5d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2934657,
+        "known_for_department": "Directing",
+        "name": "Simon Steinhorst",
+        "original_name": "Simon Steinhorst",
+        "popularity": 0.0714,
+        "profile_path": "/qPaaez0PyP0LzNNtBBuc4fSfhkI.jpg",
+        "cast_id": 26,
+        "character": "Locksmith",
+        "credit_id": "681545d78f4921c6f5a20dc4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5412152,
+        "known_for_department": "Acting",
+        "name": "Tony Attaallah",
+        "original_name": "Tony Attaallah",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Extra #1",
+        "credit_id": "681545eb06538de6fa3ae27f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5412155,
+        "known_for_department": "Acting",
+        "name": "Zeynel Abidin Çal",
+        "original_name": "Zeynel Abidin Çal",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Extra #2",
+        "credit_id": "681546071f3b8f5003959220",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5412156,
+        "known_for_department": "Acting",
+        "name": "Moaid Forani",
+        "original_name": "Moaid Forani",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Extra #3",
+        "credit_id": "6815460f580d625e699591b8",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2215331,
+        "known_for_department": "Directing",
+        "name": "Mehmet Akif Büyükatalay",
+        "original_name": "Mehmet Akif Büyükatalay",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "6756f2f119b04e7154472086",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2215331,
+        "known_for_department": "Directing",
+        "name": "Mehmet Akif Büyükatalay",
+        "original_name": "Mehmet Akif Büyükatalay",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "6756f300a18cb8695afd8cd9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2215331,
+        "known_for_department": "Directing",
+        "name": "Mehmet Akif Büyükatalay",
+        "original_name": "Mehmet Akif Büyükatalay",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "6756f306a18cb8695afd8cdf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2215485,
+        "known_for_department": "Production",
+        "name": "Claus Reichel",
+        "original_name": "Claus Reichel",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "6756f3139bc20eaa49680727",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2215488,
+        "known_for_department": "Camera",
+        "name": "Christian Kochmann",
+        "original_name": "Christian Kochmann",
+        "popularity": 0.0281,
+        "profile_path": "/7M3rnEkDZK5QM79aQfcb5zyctdx.jpg",
+        "credit_id": "67a2e112ee3932a6729fcf39",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1157384,
+        "known_for_department": "Editing",
+        "name": "Denys Darahan",
+        "original_name": "Denys Darahan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67a2e143a8b6fce55d8a6e46",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098635,
+        "known_for_department": "Editing",
+        "name": "Andreas Menn",
+        "original_name": "Andreas Menn",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "67a2e15238bd9fdbbe810e0e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2318218,
+        "known_for_department": "Sound",
+        "name": "Marvin Miller",
+        "original_name": "Marvin Miller",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67a2e168a8b6fce55d8a6e60",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2446674,
+        "known_for_department": "Sound",
+        "name": "Steffen Pfauth",
+        "original_name": "Steffen Pfauth",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67a2e182a8b6fce55d8a6e67",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4291696,
+        "known_for_department": "Production",
+        "name": "Mayte Sophie Hellenthal",
+        "original_name": "Mayte Sophie Hellenthal",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "67a2e1ae2588c0d32b8a6c68",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2215489,
+        "known_for_department": "Production",
+        "name": "Kerstin Neuwirth",
+        "original_name": "Kerstin Neuwirth",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67a2e1c42588c0d32b8a6c70",
+        "department": "Production",
+        "job": "Casting Director"
+      }
+    ]
+  }
+}

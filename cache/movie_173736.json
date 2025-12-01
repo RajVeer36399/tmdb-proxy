@@ -1,0 +1,299 @@
+{
+  "adult": false,
+  "backdrop_path": "/u1L5uCF55hRrOKQGPeDhYHRkPLu.jpg",
+  "belongs_to_collection": {
+    "id": 173738,
+    "name": "The Cave of the Golden Rose Collection",
+    "poster_path": "/4YXzYVSCeKDdFNq2uyCsLPxu94w.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 173736,
+  "imdb_id": "tt0108768",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Fantaghirò 4",
+  "overview": "A black cloud travels across country, kills animals and plants and dries up the rivers. When the cloud reaches Fantaghiro's kingdom she meets Prince Parsel who follows the cloud to get his stolen castle back. After her castle vanishes, too, Fantaghiro joins Parsel on his journey to find her home, her people, her family and her love.",
+  "popularity": 11.0972,
+  "poster_path": "/97MClGvx4qztBC3rXaygwwmLgUi.jpg",
+  "production_companies": [
+    {
+      "id": 1242,
+      "logo_path": "/qOvcm1WCLlAdNoQ1kCkk2J7bhWk.png",
+      "name": "Reteitalia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 8694,
+      "logo_path": null,
+      "name": "Silvio Berlusconi Communications",
+      "origin_country": "IT"
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1994-12-19",
+  "revenue": 0,
+  "runtime": 200,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Cave of the Golden Rose 4",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 90,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63895,
+        "known_for_department": "Acting",
+        "name": "Alessandra Martines",
+        "original_name": "Alessandra Martines",
+        "popularity": 0.3377,
+        "profile_path": "/xMfeR8rsf7wwYBG3JYFlcFzYgGR.jpg",
+        "cast_id": 1,
+        "character": "Fantaghirò",
+        "credit_id": "52fe4d3ac3a36847f8255a2b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149308,
+        "known_for_department": "Acting",
+        "name": "Nicholas Rogers",
+        "original_name": "Nicholas Rogers",
+        "popularity": 0.5453,
+        "profile_path": "/egc3fFwnB8cnAAElBV5mqEScPeo.jpg",
+        "cast_id": 3,
+        "character": "Tarabas",
+        "credit_id": "52fe4d3ac3a36847f8255a35",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5789,
+        "known_for_department": "Acting",
+        "name": "Horst Buchholz",
+        "original_name": "Horst Buchholz",
+        "popularity": 1.21,
+        "profile_path": "/9V38Di9T0qsjKBl2dR7sZMN1N0i.jpg",
+        "cast_id": 4,
+        "character": "Darken",
+        "credit_id": "52fe4d3ac3a36847f8255a39",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9871,
+        "known_for_department": "Acting",
+        "name": "Ursula Andress",
+        "original_name": "Ursula Andress",
+        "popularity": 1.5258,
+        "profile_path": "/mZSFE3vayIgXmfot4btC7K1rECZ.jpg",
+        "cast_id": 5,
+        "character": "Xellesia",
+        "credit_id": "52fe4d3ac3a36847f8255a3d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 921,
+        "known_for_department": "Acting",
+        "name": "Brigitte Nielsen",
+        "original_name": "Brigitte Nielsen",
+        "popularity": 2.0499,
+        "profile_path": "/lkP0qKkDOvVk0ETZX0bx3Qmufkm.jpg",
+        "cast_id": 6,
+        "character": "Strega Nera",
+        "credit_id": "52fe4d3ac3a36847f8255a41",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 149324,
+        "known_for_department": "Acting",
+        "name": "Gaia Bulferi Bulferetti",
+        "original_name": "Gaia Bulferi Bulferetti",
+        "popularity": 0.1673,
+        "profile_path": "/nxKLyRzsT9z2dOIDKbJfRNR6lGq.jpg",
+        "cast_id": 7,
+        "character": "Parsel",
+        "credit_id": "589a29b9c3a3683a340006d8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53903,
+        "known_for_department": "Acting",
+        "name": "Agathe de La Fontaine",
+        "original_name": "Agathe de La Fontaine",
+        "popularity": 0.4752,
+        "profile_path": "/vrlthtFEzZz2nQ4zX862nlK0sq4.jpg",
+        "cast_id": 8,
+        "character": "Angelica",
+        "credit_id": "589a2a1c9251413ab800078a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66166,
+        "known_for_department": "Acting",
+        "name": "Kim Rossi Stuart",
+        "original_name": "Kim Rossi Stuart",
+        "popularity": 2.0581,
+        "profile_path": "/hrv0rI4OKKufipR87vfF0Zdxe0K.jpg",
+        "cast_id": 10,
+        "character": "Romualdo",
+        "credit_id": "589a2df49251413ab8000a1a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 255923,
+        "known_for_department": "Acting",
+        "name": "Marc de Jonge",
+        "original_name": "Marc de Jonge",
+        "popularity": 0.5346,
+        "profile_path": "/7KNFKt8futWgLRLQBBlFL9n0PoL.jpg",
+        "cast_id": 11,
+        "character": "Tohor",
+        "credit_id": "589a2e24c3a3683a38000a60",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100951,
+        "known_for_department": "Acting",
+        "name": "Riccardo Serventi Longhi",
+        "original_name": "Riccardo Serventi Longhi",
+        "popularity": 0.0834,
+        "profile_path": "/axlUUoKTU3N5212HATCTo2JSkZE.jpg",
+        "cast_id": 12,
+        "character": "Fiodor",
+        "credit_id": "589a2e519251413abe000b00",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2074475,
+        "known_for_department": "Acting",
+        "name": "Oreste Guidi",
+        "original_name": "Oreste Guidi",
+        "popularity": 0.1615,
+        "profile_path": "/ozll0iS8FwHAv1hQR7otzGlF1pW.jpg",
+        "cast_id": 13,
+        "character": "Rufus",
+        "credit_id": "5b35e50d9251413c70029bb5",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44955,
+        "known_for_department": "Directing",
+        "name": "Lamberto Bava",
+        "original_name": "Lamberto Bava",
+        "popularity": 0.79,
+        "profile_path": "/alCOCvgUarpfuFaf750r0r7adp7.jpg",
+        "credit_id": "52fe4d3ac3a36847f8255a31",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87684,
+        "known_for_department": "Writing",
+        "name": "Gianni Romoli",
+        "original_name": "Gianni Romoli",
+        "popularity": 0.159,
+        "profile_path": "/3IkQ46HfkgLj1Ibr3UFQUmAGe2u.jpg",
+        "credit_id": "589a2cc9c3a3683a47000923",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1688233,
+        "known_for_department": "Sound",
+        "name": "Amedeo Minghi",
+        "original_name": "Amedeo Minghi",
+        "popularity": 0.0745,
+        "profile_path": null,
+        "credit_id": "68328c18a61ef8421deb2b16",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91306,
+        "known_for_department": "Camera",
+        "name": "Romano Albani",
+        "original_name": "Romano Albani",
+        "popularity": 0.0987,
+        "profile_path": "/3tPeC3bKPTwj9VWMPaZ7umzT7CW.jpg",
+        "credit_id": "68328c2213b91a37ca2b6f48",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

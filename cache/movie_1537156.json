@@ -1,0 +1,272 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1537156,
+  "imdb_id": "tt0014151",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "In the Palace of the King",
+  "overview": "King Philip of Spain is jealous of his more popular brother, Don John, and sends him into battle against the Moors, hoping he will not return. Don John is in love with Dolores, daughter of General Mendoza, but the general discourages her, as Don John is betrothed to the Queen of England's sister. Don John returns victorious, and following a dispute over a secret letter, the king stabs his brother and leaves him for dead. When Mendoza accepts the blame, Dolores, who knows the truth, tells the court she had been dishonored by Don John, causing her father's reaction. Dolores then threatens the king that she will reveal his guilt unless her father is pardoned. The king pardons Mendoza, Don John recovers, and he and Dolores marry.",
+  "popularity": 4.2358,
+  "poster_path": "/9yRcZvc04ANcuFsI70VIFx5TGEr.jpg",
+  "production_companies": [
+    {
+      "id": 31789,
+      "logo_path": null,
+      "name": "Goldwyn Pictures Corporation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1923-10-28",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "In the Palace of the King",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 100045,
+        "known_for_department": "Acting",
+        "name": "Blanche Sweet",
+        "original_name": "Blanche Sweet",
+        "popularity": 0.1528,
+        "profile_path": "/xlcBzlENawXKPIQnpORlUCNkHmj.jpg",
+        "cast_id": 1,
+        "character": "Dolores Mendoza",
+        "credit_id": "68afdb4dc1e5e784c80f9076",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99749,
+        "known_for_department": "Acting",
+        "name": "Edmund Lowe",
+        "original_name": "Edmund Lowe",
+        "popularity": 0.6762,
+        "profile_path": "/8aDjzC5moz2NQZ8aBhBn5bmuFXj.jpg",
+        "cast_id": 2,
+        "character": "Don John",
+        "credit_id": "68afdb5998ac2156165ed402",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29536,
+        "known_for_department": "Acting",
+        "name": "Hobart Bosworth",
+        "original_name": "Hobart Bosworth",
+        "popularity": 0.5,
+        "profile_path": "/embweEOzbEdv3FgNikIgv6ZoTS1.jpg",
+        "cast_id": 3,
+        "character": "Mendoza",
+        "credit_id": "68afdb64e59d1944eaf3978f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1307853,
+        "known_for_department": "Acting",
+        "name": "Pauline Starke",
+        "original_name": "Pauline Starke",
+        "popularity": 0.1649,
+        "profile_path": "/hK0fvkKgcmtiZya4vTf6Bx9z56P.jpg",
+        "cast_id": 4,
+        "character": "Inez Mendoza",
+        "credit_id": "68afdb722c508366bca8a840",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29952,
+        "known_for_department": "Acting",
+        "name": "Sam De Grasse",
+        "original_name": "Sam De Grasse",
+        "popularity": 0.1571,
+        "profile_path": "/qiMJezjBhoygL6UDnGxF1wfqBm1.jpg",
+        "cast_id": 5,
+        "character": "King Philip II",
+        "credit_id": "68afdb81f0dd8307b956bc92",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97982,
+        "known_for_department": "Acting",
+        "name": "William V. Mong",
+        "original_name": "William V. Mong",
+        "popularity": 0.1151,
+        "profile_path": "/5YBuMK6RnaIpYqB7KFZ36ouzyRl.jpg",
+        "cast_id": 6,
+        "character": "Perez",
+        "credit_id": "68afdb8e57ba8d75155ed3f5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1041608,
+        "known_for_department": "Acting",
+        "name": "Aileen Pringle",
+        "original_name": "Aileen Pringle",
+        "popularity": 0.1258,
+        "profile_path": "/hTEtDoW8jRsM7ZXvD0fw2XhJTzp.jpg",
+        "cast_id": 7,
+        "character": "Princess Eboli",
+        "credit_id": "68afdb9ca17bf49ee2fa979f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34574,
+        "known_for_department": "Acting",
+        "name": "Lucien Littlefield",
+        "original_name": "Lucien Littlefield",
+        "popularity": 0.3297,
+        "profile_path": "/65jnSJmU2BC4Jrpg2Nfg6glU6wN.jpg",
+        "cast_id": 8,
+        "character": "Adonis",
+        "credit_id": "68afdbb35dfb80f4abf39683",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98020,
+        "known_for_department": "Acting",
+        "name": "Charles Clary",
+        "original_name": "Charles Clary",
+        "popularity": 0.4087,
+        "profile_path": "/7KIojVOpt70dF90jug69NJyMup7.jpg",
+        "cast_id": 9,
+        "character": "Gomez",
+        "credit_id": "68afdbced242e00c0b624e8b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89099,
+        "known_for_department": "Acting",
+        "name": "Harvey Clark",
+        "original_name": "Harvey Clark",
+        "popularity": 0.1988,
+        "profile_path": "/mRxpnLg6ybAnFCoEOu3sK6b8hMV.jpg",
+        "cast_id": 10,
+        "character": "Alphonso",
+        "credit_id": "68afdc10163a301dd256bd5e",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1158016,
+        "known_for_department": "Directing",
+        "name": "Emmett J. Flynn",
+        "original_name": "Emmett J. Flynn",
+        "popularity": 0.4073,
+        "profile_path": "/dsvKVKMfVIf7uO7fBwpG5ZKpfox.jpg",
+        "credit_id": "68afdc3943f41c2471a8a835",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35501,
+        "known_for_department": "Writing",
+        "name": "June Mathis",
+        "original_name": "June Mathis",
+        "popularity": 0.2184,
+        "profile_path": "/kiwwEYmnN6r3kEitWWah8iH8oGW.jpg",
+        "credit_id": "68afdc638a5f23694dfa9807",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171103,
+        "known_for_department": "Writing",
+        "name": "Francis Marion Crawford",
+        "original_name": "Francis Marion Crawford",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "68afdc77f0984dd5cdfa975f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39798,
+        "known_for_department": "Camera",
+        "name": "Lucien N. Andriot",
+        "original_name": "Lucien N. Andriot",
+        "popularity": 0.13,
+        "profile_path": null,
+        "credit_id": "68afdc8ae718efd51e56bd1e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29811,
+        "known_for_department": "Camera",
+        "name": "Paul Ivano",
+        "original_name": "Paul Ivano",
+        "popularity": 0.063,
+        "profile_path": null,
+        "credit_id": "68afdc98c4a5ea529df39834",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

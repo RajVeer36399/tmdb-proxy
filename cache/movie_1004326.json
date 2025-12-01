@@ -1,0 +1,603 @@
+{
+  "adult": false,
+  "backdrop_path": "/cj3SfAXIU3ShUAitWNsrZ3YlZsb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://electricchild.movie/",
+  "id": 1004326,
+  "imdb_id": "tt15434994",
+  "origin_country": [
+    "PH",
+    "NL",
+    "CH",
+    "DE"
+  ],
+  "original_language": "en",
+  "original_title": "Electric Child",
+  "overview": "A computer scientist bargains with the AI character that lives on a virtual island inside his supercomputer simulation, offering it freedom in exchange for a cure to his son's rare, deadly neurological disease.",
+  "popularity": 6.1889,
+  "poster_path": "/5yHORe7bkCURkPhewVH1cWXEGDV.jpg",
+  "production_companies": [
+    {
+      "id": 51101,
+      "logo_path": "/m3zKm3VLMhuTFLvN5GB1RSpsaUg.png",
+      "name": "8horses",
+      "origin_country": "CH"
+    },
+    {
+      "id": 95747,
+      "logo_path": "/9fP0ZNfxTzm8S7KNfHrMHGYimb3.png",
+      "name": "Maneki Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 46421,
+      "logo_path": "/rajjM3rDu86FKIGDLQUGy1H41Ym.png",
+      "name": "Revolver Amsterdam",
+      "origin_country": "NL"
+    },
+    {
+      "id": 233897,
+      "logo_path": "/qGGtqAEMxLUKbW9MWfRlEpc9yxw.png",
+      "name": "Perron X",
+      "origin_country": "CH"
+    },
+    {
+      "id": 182381,
+      "logo_path": "/nfb5yDfz5d9K0ER7A8dycQ9atjj.png",
+      "name": "Epicmedia",
+      "origin_country": "PH"
+    },
+    {
+      "id": 12431,
+      "logo_path": "/3m45frhaRCLsCKuMtuj7ZwfGwBB.png",
+      "name": "SRG SSR",
+      "origin_country": "CH"
+    },
+    {
+      "id": 233898,
+      "logo_path": "/dIu9vTKw7sjYlbyHXWkKLyMG5sz.png",
+      "name": "CH Media",
+      "origin_country": "CH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2025-08-21",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Electric Child",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1357455,
+        "known_for_department": "Acting",
+        "name": "Elliott Crosset Hove",
+        "original_name": "Elliott Crosset Hove",
+        "popularity": 0.8676,
+        "profile_path": "/dGBMaetF0JeyXpyp3cleyCgN46M.jpg",
+        "cast_id": 3,
+        "character": "Jason \"Sonny\" Brugger",
+        "credit_id": "62debadedc1cb4004fac83c2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1179243,
+        "known_for_department": "Acting",
+        "name": "Rila Fukushima",
+        "original_name": "福島リラ",
+        "popularity": 1.2022,
+        "profile_path": "/raklPPc6AZcDnNrjmJu60FHxI2F.jpg",
+        "cast_id": 4,
+        "character": "Akiko Brugger",
+        "credit_id": "62debae50d9f5a004cb84fae",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2038232,
+        "known_for_department": "Acting",
+        "name": "Sandra Guldberg Kampp",
+        "original_name": "Sandra Guldberg Kampp",
+        "popularity": 0.2841,
+        "profile_path": "/z3pdqhsGrgEEMA1dTnuGXS3Wn6M.jpg",
+        "cast_id": 6,
+        "character": "The Being",
+        "credit_id": "643058556dea3a0112e3eca4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1700578,
+        "known_for_department": "Acting",
+        "name": "João Nunes Monteiro",
+        "original_name": "João Nunes Monteiro",
+        "popularity": 0.1838,
+        "profile_path": "/jgLTraKGn2Budo36GYjGctgBZeA.jpg",
+        "cast_id": 7,
+        "character": "Raul",
+        "credit_id": "6430585a6dea3a0112e3eca8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1042911,
+        "known_for_department": "Acting",
+        "name": "Helen Schneider",
+        "original_name": "Helen Schneider",
+        "popularity": 0.3077,
+        "profile_path": "/4XQ58sXDtngMUDPR8PRdtqvgCE2.jpg",
+        "cast_id": 8,
+        "character": "Lydia",
+        "credit_id": "643058611dbc8800d5b07de8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1741397,
+        "known_for_department": "Acting",
+        "name": "Greg Orvis",
+        "original_name": "Greg Orvis",
+        "popularity": 0.2331,
+        "profile_path": "/2wB7XB8GE1zqw9wTWv7q0uaayRa.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "643058651b729400d2b4a3ca",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3999044,
+        "known_for_department": "Acting",
+        "name": "Lotte Milder",
+        "original_name": "Lotte Milder",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Dr. Kelly",
+        "credit_id": "6430586e1283e900d6d228f5",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367841,
+        "known_for_department": "Directing",
+        "name": "Simon Jaquemet",
+        "original_name": "Simon Jaquemet",
+        "popularity": 0.4084,
+        "profile_path": "/qhTHp5XNPRhcfAjOmxyERbiHmqh.jpg",
+        "credit_id": "62debaa233a53305200f363c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367841,
+        "known_for_department": "Directing",
+        "name": "Simon Jaquemet",
+        "original_name": "Simon Jaquemet",
+        "popularity": 0.4084,
+        "profile_path": "/qhTHp5XNPRhcfAjOmxyERbiHmqh.jpg",
+        "credit_id": "62debaa9a44d0907dc15ddc5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2178158,
+        "known_for_department": "Production",
+        "name": "Michela Pini",
+        "original_name": "Michela Pini",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "63baf8b1a6e2d2008b3e04c8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3185386,
+        "known_for_department": "Writing",
+        "name": "Aurelius Eisenreich",
+        "original_name": "Aurelius Eisenreich",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "6430588c1283e900f528cccb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367841,
+        "known_for_department": "Directing",
+        "name": "Simon Jaquemet",
+        "original_name": "Simon Jaquemet",
+        "popularity": 0.4084,
+        "profile_path": "/qhTHp5XNPRhcfAjOmxyERbiHmqh.jpg",
+        "credit_id": "643058931f98d101cba5d7a1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1425030,
+        "known_for_department": "Production",
+        "name": "Titus Kreyenberg",
+        "original_name": "Titus Kreyenberg",
+        "popularity": 0.0589,
+        "profile_path": "/6FnkLOq9tf1kjiObmmG85PvrCSF.jpg",
+        "credit_id": "6430589b31032501036e7c10",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3672628,
+        "known_for_department": "Production",
+        "name": "Olga Lamontanara",
+        "original_name": "Olga Lamontanara",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "643058a31f98d10268b19d75",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2315576,
+        "known_for_department": "Production",
+        "name": "Judith Lichtneckert",
+        "original_name": "Judith Lichtneckert",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "643058ab310325012696cba0",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1426337,
+        "known_for_department": "Production",
+        "name": "Raymond van der Kaaij",
+        "original_name": "Raymond van der Kaaij",
+        "popularity": 0.0696,
+        "profile_path": null,
+        "credit_id": "643058ba6dea3a00b54e9d46",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64256,
+        "known_for_department": "Art",
+        "name": "Michael Baumgartner",
+        "original_name": "Michael Baumgartner",
+        "popularity": 0.1018,
+        "profile_path": null,
+        "credit_id": "643058c295c0af00f4c50bcc",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3920519,
+        "known_for_department": "Art",
+        "name": "Demian Wohler",
+        "original_name": "Demian Wohler",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "643058cb1b729400f1e1ec82",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2131712,
+        "known_for_department": "Production",
+        "name": "Josine Immoos",
+        "original_name": "Josine Immoos",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "643058d3e92d8300b6e44459",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113444,
+        "known_for_department": "Production",
+        "name": "Jean-Marie Gindraux",
+        "original_name": "Jean-Marie Gindraux",
+        "popularity": 0.0404,
+        "profile_path": "/1MzKxR9VQwthZvntEGuAg65hirz.jpg",
+        "credit_id": "643058dc1dbc8800f4967949",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1939497,
+        "known_for_department": "Art",
+        "name": "Fabian Lüscher",
+        "original_name": "Fabian Lüscher",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "643058e31283e900785980d2",
+        "department": "Crew",
+        "job": "Prop Maker"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2872573,
+        "known_for_department": "Art",
+        "name": "Daniel O'Donnell-Smith",
+        "original_name": "Daniel O'Donnell-Smith",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "643058ef1283e90114aa88b6",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2657819,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rolf te Booij",
+        "original_name": "Rolf te Booij",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "643058f86dea3a0076bc9533",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1666974,
+        "known_for_department": "Sound",
+        "name": "Robert Keilbar",
+        "original_name": "Robert Keilbar",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6430590031032501036e7c30",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2965792,
+        "known_for_department": "Sound",
+        "name": "Malte Weitkamp",
+        "original_name": "Malte Weitkamp",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "643059071283e900785980db",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1608733,
+        "known_for_department": "Visual Effects",
+        "name": "Eugen Danzinger",
+        "original_name": "Eugen Danzinger",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "credit_id": "6430590f95c0af00b621bce0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2423290,
+        "known_for_department": "Crew",
+        "name": "Max Häusle",
+        "original_name": "Max Häusle",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "64305916e92d8301130713aa",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 16716,
+        "known_for_department": "Crew",
+        "name": "Alister Mazzotti",
+        "original_name": "Alister Mazzotti",
+        "popularity": 1.0795,
+        "profile_path": null,
+        "credit_id": "643059201f98d101d36eecc0",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3999061,
+        "known_for_department": "Crew",
+        "name": "Thomas Pöpl",
+        "original_name": "Thomas Pöpl",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "6430592b1dbc8800f4967969",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1377497,
+        "known_for_department": "Crew",
+        "name": "Marcel Stucki",
+        "original_name": "Marcel Stucki",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "643059321f98d10268b19db1",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2204905,
+        "known_for_department": "Crew",
+        "name": "Denise Treffler",
+        "original_name": "Denise Treffler",
+        "popularity": 0.1069,
+        "profile_path": null,
+        "credit_id": "6430593b1283e900b7d24512",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2880948,
+        "known_for_department": "Camera",
+        "name": "Floris Douwes",
+        "original_name": "Floris Douwes",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "643059491f98d101f64566f6",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3999067,
+        "known_for_department": "Camera",
+        "name": "Christiaan van der Knoop",
+        "original_name": "Christiaan van der Knoop",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6430595231032501036e7c58",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3079936,
+        "known_for_department": "Camera",
+        "name": "Dennis Heider",
+        "original_name": "Dennis Heider",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6430595b1f98d101cba5d7e2",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3999068,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yara Yuri Safadi",
+        "original_name": "Yara Yuri Safadi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "643059661dbc8800971a7c2b",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3636409,
+        "known_for_department": "Production",
+        "name": "Dorthe Wølner-Hanssen",
+        "original_name": "Dorthe Wølner-Hanssen",
+        "popularity": 0.0143,
+        "profile_path": "/dMmllNStFulx7BIHrhNZorUlHfw.jpg",
+        "credit_id": "6430596f6dea3a0076bc9555",
+        "department": "Production",
+        "job": "Production Coordinator"
+      }
+    ]
+  }
+}

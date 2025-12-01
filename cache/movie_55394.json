@@ -1,0 +1,519 @@
+{
+  "adult": false,
+  "backdrop_path": "/t5Pk18EBcg7ZKaAmjyrnrhNTeL4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 55394,
+  "imdb_id": "tt0115909",
+  "origin_country": [
+    "IL"
+  ],
+  "original_language": "he",
+  "original_title": "Clara Hakedosha",
+  "overview": "The year is 1999 and the storyline is actually a number of sub-plots all revolving around the 13-year old Clara, a girl that can predict the future and has telekinetic powers. The sub-plots include a boy in her class who has a crush on her, his family, her family and her principal that keeps talking French for some strange reason.",
+  "popularity": 6.178,
+  "poster_path": "/7CjldlI2PXlVbh8hTTsc5AfwCOS.jpg",
+  "production_companies": [
+    {
+      "id": 26629,
+      "logo_path": null,
+      "name": "Transfax Film Productions",
+      "origin_country": "IL"
+    },
+    {
+      "id": 4520,
+      "logo_path": "/cbTP5NRekgyIdIWjKCULenRF3p0.png",
+      "name": "Israeli Film Fund",
+      "origin_country": "IL"
+    },
+    {
+      "id": 68234,
+      "logo_path": null,
+      "name": "Paralight Ltd.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    }
+  ],
+  "release_date": "1996-06-06",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Revolution Will Start Here",
+  "title": "Saint Clara",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 585503,
+        "known_for_department": "Acting",
+        "name": "Lucy Dubinchik",
+        "original_name": "Lucy Dubinchik",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Clara Chanov",
+        "credit_id": "52fe48cac3a36847f8179819",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2494659,
+        "known_for_department": "Acting",
+        "name": "Halil Elohev",
+        "original_name": "Halil Elohev",
+        "popularity": 0.0593,
+        "profile_path": "/5ZJqOgfWM4l1lxuAiBdUOj41aJ3.jpg",
+        "cast_id": 21,
+        "character": "Eddie Tikel",
+        "credit_id": "5e0abaa366540800113c3297",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2494660,
+        "known_for_department": "Acting",
+        "name": "Johnny Peterson",
+        "original_name": "Johnny Peterson",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Rosy",
+        "credit_id": "5e0abab8d5dbc20015fc2811",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584154,
+        "known_for_department": "Acting",
+        "name": "Maya Maron",
+        "original_name": "Maya Maron",
+        "popularity": 0.215,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Libby",
+        "credit_id": "5e0abac4595a56001314073b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2494661,
+        "known_for_department": "Acting",
+        "name": "Maya De-Fries",
+        "original_name": "Maya De-Fries",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Eleanor Galash",
+        "credit_id": "5e0abae143494f0010c46ad1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2494662,
+        "known_for_department": "Acting",
+        "name": "Tal Feigenboim",
+        "original_name": "Tal Feigenboim",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Galit Biron",
+        "credit_id": "5e0abaf3ae2811001540c371",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41316,
+        "known_for_department": "Acting",
+        "name": "Igal Naor",
+        "original_name": "Igal Naor",
+        "popularity": 0.7153,
+        "profile_path": "/ttVDrNvtOKBIoGIhJbZ2QzK52pu.jpg",
+        "cast_id": 26,
+        "character": "Headmaster Tissona",
+        "credit_id": "5e0abb0643494f0010c46b16",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 95562,
+        "known_for_department": "Acting",
+        "name": "Joe El Dror",
+        "original_name": "Joe El Dror",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Teacher Mounitz",
+        "credit_id": "5e0abb179369a20018908ff1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 583765,
+        "known_for_department": "Acting",
+        "name": "Orly Zilberschatz",
+        "original_name": "אורלי זילברשץ",
+        "popularity": 0.5331,
+        "profile_path": "/3f5tFqYmd3PHu03bHdnorHrVPa3.jpg",
+        "cast_id": 4,
+        "character": "TV Reporter",
+        "credit_id": "52fe48cac3a36847f817981d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1576092,
+        "known_for_department": "Acting",
+        "name": "Tal Ben-Bina",
+        "original_name": "Tal Ben-Bina",
+        "popularity": 0.042,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Tikel's Mom",
+        "credit_id": "5e0abb528741c400120822c1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95558,
+        "known_for_department": "Acting",
+        "name": "Menashe Noy",
+        "original_name": "מנשה נוי",
+        "popularity": 0.7669,
+        "profile_path": "/dS0KM4vNOXb6A3Aij7jt0yRuOnX.jpg",
+        "cast_id": 5,
+        "character": "Tikel's Dad",
+        "credit_id": "52fe48cac3a36847f8179821",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95541,
+        "known_for_department": "Acting",
+        "name": "Evgenia Dodina",
+        "original_name": "Evgenia Dodina",
+        "popularity": 0.6183,
+        "profile_path": "/2TicglmKpmu7EAZj9orDqgrmJZp.jpg",
+        "cast_id": 6,
+        "character": "Clara's Mom",
+        "credit_id": "52fe48cac3a36847f8179825",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2494663,
+        "known_for_department": "Acting",
+        "name": "Ronald Heilovsky",
+        "original_name": "Ronald Heilovsky",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Clara's Dad",
+        "credit_id": "5e0abb5f896b8f0013817ad7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 584172,
+        "known_for_department": "Acting",
+        "name": "Israel Damidov",
+        "original_name": "Israel Damidov",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Elvis Chanov",
+        "credit_id": "52fe48cac3a36847f8179829",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2494664,
+        "known_for_department": "Acting",
+        "name": "Ronny Bachar",
+        "original_name": "Ronny Bachar",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Vered Rosental",
+        "credit_id": "5e0abb7168b1ea00184e7f37",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56198,
+        "known_for_department": "Directing",
+        "name": "Ari Folman",
+        "original_name": "Ari Folman",
+        "popularity": 0.2166,
+        "profile_path": "/cFTSHi8YSWBB81MIWsN8vzhaaMg.jpg",
+        "credit_id": "52fe48cac3a36847f817980f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585502,
+        "known_for_department": "Directing",
+        "name": "Ori Sivan",
+        "original_name": "Ori Sivan",
+        "popularity": 0.088,
+        "profile_path": null,
+        "credit_id": "52fe48cac3a36847f8179815",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56198,
+        "known_for_department": "Directing",
+        "name": "Ari Folman",
+        "original_name": "Ari Folman",
+        "popularity": 0.2166,
+        "profile_path": "/cFTSHi8YSWBB81MIWsN8vzhaaMg.jpg",
+        "credit_id": "52fe48cac3a36847f817982f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585502,
+        "known_for_department": "Directing",
+        "name": "Ori Sivan",
+        "original_name": "Ori Sivan",
+        "popularity": 0.088,
+        "profile_path": null,
+        "credit_id": "52fe48cac3a36847f8179835",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1154857,
+        "known_for_department": "Writing",
+        "name": "Jelena Kohout",
+        "original_name": "Jelena Kohout",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "52fe48cac3a36847f817983b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548072,
+        "known_for_department": "Writing",
+        "name": "Pavel Kohout",
+        "original_name": "Pavel Kohout",
+        "popularity": 0.1716,
+        "profile_path": "/dzyTnFJ9GaBPnQvN8hS2THNzQiH.jpg",
+        "credit_id": "52fe48cac3a36847f8179841",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20434,
+        "known_for_department": "Production",
+        "name": "Marek Rozenbaum",
+        "original_name": "Marek Rozenbaum",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "564dbc26c3a3682a1a00539b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1310406,
+        "known_for_department": "Production",
+        "name": "Uri Sabag",
+        "original_name": "Uri Sabag",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "credit_id": "564dbc3c9251414dc4009e9e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1538300,
+        "known_for_department": "Sound",
+        "name": "Berry Sakharof",
+        "original_name": "Berry Sakharof",
+        "popularity": 0.0214,
+        "profile_path": "/8BrRCcWyXKe2gzF3pvRdGXt556h.jpg",
+        "credit_id": "564dbc4ec3a368603500a2bd",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1538302,
+        "known_for_department": "Camera",
+        "name": "Valentin Belonogov",
+        "original_name": "Валентин Белоногов",
+        "popularity": 0.2611,
+        "profile_path": null,
+        "credit_id": "564dbc609251414dc4009ea5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 985011,
+        "known_for_department": "Editing",
+        "name": "Dov Steuer",
+        "original_name": "Dov Steuer",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "564dbc72c3a368602e00a280",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 42425,
+        "known_for_department": "Production",
+        "name": "Orit Azoulay",
+        "original_name": "Orit Azoulay",
+        "popularity": 0.1162,
+        "profile_path": null,
+        "credit_id": "564dbc86c3a368603500a2c8",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1269665,
+        "known_for_department": "Art",
+        "name": "Ariel Glazer",
+        "original_name": "Ariel Glazer",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "564dbca09251414dcb00a844",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1538305,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Natan Elkanovich",
+        "original_name": "Natan Elkanovich",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "564dbcb592514158f60057a0",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1145495,
+        "known_for_department": "Directing",
+        "name": "Silvina Landesman",
+        "original_name": "Silvina Landesman",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "564dbcd79251416de3006d1a",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1269665,
+        "known_for_department": "Art",
+        "name": "Ariel Glazer",
+        "original_name": "Ariel Glazer",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "5e0abbbd43494f0012c42222",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2494666,
+        "known_for_department": "Production",
+        "name": "Eyal Sadan",
+        "original_name": "Eyal Sadan",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "5e0abbeb68b1ea00154e6fc9",
+        "department": "Production",
+        "job": "Line Producer"
+      }
+    ]
+  }
+}

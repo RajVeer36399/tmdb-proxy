@@ -1,0 +1,535 @@
+{
+  "adult": false,
+  "backdrop_path": "/47k6DIR6JgzLcDtK9PeHIVF2bZE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.picturetree-international.com/films/details/soul-of-a-beast.html",
+  "id": 846791,
+  "imdb_id": "tt10825610",
+  "origin_country": [
+    "CH"
+  ],
+  "original_language": "de",
+  "original_title": "Soul of a Beast",
+  "overview": "During the summer, Gabriel, a teenage father, falls in love with the mysterious Corey, the girlfriend of Joel, his best friend, who, deeply hurt, reveals the truth about Gabriel's past.",
+  "popularity": 5.4414,
+  "poster_path": "/cNpSQFV9hj05pbbBFO16Mv2H07H.jpg",
+  "production_companies": [
+    {
+      "id": 116775,
+      "logo_path": null,
+      "name": "Hesse Film",
+      "origin_country": ""
+    },
+    {
+      "id": 51101,
+      "logo_path": "/m3zKm3VLMhuTFLvN5GB1RSpsaUg.png",
+      "name": "8horses",
+      "origin_country": "CH"
+    },
+    {
+      "id": 42145,
+      "logo_path": "/fX8uY3tXWh814PLVqKM0IJEoDPW.png",
+      "name": "SRF",
+      "origin_country": "CH"
+    },
+    {
+      "id": 158714,
+      "logo_path": null,
+      "name": "Milan Film",
+      "origin_country": ""
+    },
+    {
+      "id": 180302,
+      "logo_path": "/iGHBdl3b2htqsdV0YI6EvvyT6lB.png",
+      "name": "The Hub Media",
+      "origin_country": "CH"
+    },
+    {
+      "id": 26025,
+      "logo_path": "/dCodJldpENhvsu9erly8L1ct5IG.png",
+      "name": "Ascot Elite Entertainment Group",
+      "origin_country": "CH"
+    },
+    {
+      "id": 12431,
+      "logo_path": "/3m45frhaRCLsCKuMtuj7ZwfGwBB.png",
+      "name": "SRG SSR",
+      "origin_country": "CH"
+    },
+    {
+      "id": 156682,
+      "logo_path": "/cZiD0yy530os4Dh3fjyIs2fgYQc.png",
+      "name": "Blue Entertainment",
+      "origin_country": "CH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2021-08-06",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Soul of a Beast",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3658714,
+        "known_for_department": "Acting",
+        "name": "Art Bllaca",
+        "original_name": "Art Bllaca",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Jamie",
+        "credit_id": "62f3f83b6f31af007d65823a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1323202,
+        "known_for_department": "Acting",
+        "name": "Pablo Caprez",
+        "original_name": "Pablo Caprez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Gabriel",
+        "credit_id": "61bcb819fa40460087122a96",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1438688,
+        "known_for_department": "Acting",
+        "name": "Ella Rumpf",
+        "original_name": "Ella Rumpf",
+        "popularity": 0.609,
+        "profile_path": "/4igT9ZxHs26m6ttyMcZH50NrWgd.jpg",
+        "cast_id": 5,
+        "character": "Corey",
+        "credit_id": "61bcb839498ef9001d16221d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3658718,
+        "known_for_department": "Acting",
+        "name": "Tonatiuh Radzi",
+        "original_name": "Tonatiuh Radzi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Joel",
+        "credit_id": "62f3f8785b2f47007ffb844a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1502016,
+        "known_for_department": "Acting",
+        "name": "Luna Wedler",
+        "original_name": "Luna Wedler",
+        "popularity": 0.6878,
+        "profile_path": "/1tcXZhNuw6zg2TWTxyW2f2l7Eta.jpg",
+        "cast_id": 6,
+        "character": "Zoé",
+        "credit_id": "61bcb846894ed6001cebe1f1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56242,
+        "known_for_department": "Acting",
+        "name": "Lolita Chammah",
+        "original_name": "Lolita Chammah",
+        "popularity": 0.5691,
+        "profile_path": "/1A8NamRmw1DHRRIqkioenRDDouf.jpg",
+        "cast_id": 4,
+        "character": "Zoé's Mother",
+        "credit_id": "61bcb82bf288380062a37e17",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3658723,
+        "known_for_department": "Acting",
+        "name": "Angelique La Douce",
+        "original_name": "Angelique La Douce",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Afua",
+        "credit_id": "62f3f8cddb72c0007fce81ac",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237198,
+        "known_for_department": "Acting",
+        "name": "Yoshi Amao",
+        "original_name": "Yoshi Amao",
+        "popularity": 0.1326,
+        "profile_path": "/m4sYj0w3nXWM8LPakhKeXTYj0F.jpg",
+        "cast_id": 25,
+        "character": "Japanese Narrator",
+        "credit_id": "62f3f90a0b5fd6007c527afe",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268972,
+        "known_for_department": "Crew",
+        "name": "Lorenz Merz",
+        "original_name": "Lorenz Merz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "60de7039ef9d72007e0ad153",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1975686,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laura Locher",
+        "original_name": "Laura Locher",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "credit_id": "62f3f508594c94007f47fdf3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2845495,
+        "known_for_department": "Sound",
+        "name": "Julian Sartorius",
+        "original_name": "Julian Sartorius",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "62f3fbb9ecbde9007a7322e0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268972,
+        "known_for_department": "Crew",
+        "name": "Lorenz Merz",
+        "original_name": "Lorenz Merz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62f3fbfa813cb600923b905d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1975687,
+        "known_for_department": "Editing",
+        "name": "Noemi Preiswerk",
+        "original_name": "Noemi Preiswerk",
+        "popularity": 0.0409,
+        "profile_path": "/s0TljsEDbRfcMl5z8GQlwKezpyQ.jpg",
+        "credit_id": "62f3fb190b5fd600933bd845",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3658768,
+        "known_for_department": "Visual Effects",
+        "name": "Giordano Canova",
+        "original_name": "Giordano Canova",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "62f3fc3e594c940082d016e0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1408650,
+        "known_for_department": "Sound",
+        "name": "Manu Gerber",
+        "original_name": "Manu Gerber",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62f3fc15a24232007d56f938",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1334474,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tanja Koller",
+        "original_name": "Tanja Koller",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "62f3f992594c94007aa639f9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268972,
+        "known_for_department": "Crew",
+        "name": "Lorenz Merz",
+        "original_name": "Lorenz Merz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62f3fae45b2f47007ffb84f2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268972,
+        "known_for_department": "Crew",
+        "name": "Lorenz Merz",
+        "original_name": "Lorenz Merz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62f3faee813cb6007b351a46",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1984994,
+        "known_for_department": "Sound",
+        "name": "Fatima Dunn",
+        "original_name": "Fatima Dunn",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "62f3fba2a24232007d56f91e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3409179,
+        "known_for_department": "Art",
+        "name": "Nicole Hoesli",
+        "original_name": "Nicole Hoesli",
+        "popularity": 0.1248,
+        "profile_path": null,
+        "credit_id": "62f3f949db72c0007a069470",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3658791,
+        "known_for_department": "Production",
+        "name": "Patrick Gantner",
+        "original_name": "Patrick Gantner",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "credit_id": "62f3fd22594c94007aa63ac8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2283000,
+        "known_for_department": "Production",
+        "name": "Urs Fitze",
+        "original_name": "Urs Fitze",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "62f3fcce1f748b0084886803",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1608733,
+        "known_for_department": "Visual Effects",
+        "name": "Eugen Danzinger",
+        "original_name": "Eugen Danzinger",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "credit_id": "62f3fc5d594c94007f47ff7a",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3658788,
+        "known_for_department": "Production",
+        "name": "Anke Beining-Wellhausen",
+        "original_name": "Anke Beining-Wellhausen",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "62f3fd08fea6e3009135d241",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2282999,
+        "known_for_department": "Production",
+        "name": "Cyril Gerber",
+        "original_name": "Cyril Gerber",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "62f0eebed207f3007fd033f2",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2505218,
+        "known_for_department": "Production",
+        "name": "Rhea Plangg",
+        "original_name": "Rhea Plangg",
+        "popularity": 0,
+        "profile_path": "/1kB4Y46Qa3oxIyb6HDbQk7QpGTQ.jpg",
+        "credit_id": "62f0ee9ad207f3007a0ac736",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1975094,
+        "known_for_department": "Production",
+        "name": "Simon Hesse",
+        "original_name": "Simon Hesse",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "62f0eedb813cb6007b3407d4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2383482,
+        "known_for_department": "Sound",
+        "name": "Oscar van Hoogevest",
+        "original_name": "Oscar van Hoogevest",
+        "popularity": 0.0734,
+        "profile_path": null,
+        "credit_id": "62f0eeef85b105007df0dce6",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3655277,
+        "known_for_department": "Camera",
+        "name": "Fabian Kimoto",
+        "original_name": "Fabian Kimoto",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "62f0ee77514c4a007ab59d39",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3214246,
+        "known_for_department": "Directing",
+        "name": "Julien Wagner",
+        "original_name": "Julien Wagner",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62f0eed1514c4a007f8b7be3",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268972,
+        "known_for_department": "Crew",
+        "name": "Lorenz Merz",
+        "original_name": "Lorenz Merz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62f0ee94a1074b00920f8f9b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1845512,
+        "known_for_department": "Production",
+        "name": "Andrea Blaser",
+        "original_name": "Andrea Blaser",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62f0eeb477e1f600824cbabe",
+        "department": "Production",
+        "job": "Line Producer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "adult": false,
+  "backdrop_path": "/lVnUdJ7nqho86UievvSr1LpfU6k.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 222,
+  "imdb_id": "tt0017668",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Berlin, die Symphonie der Großstadt",
+  "overview": "A day in the city of Berlin, which experienced an industrial boom in the 1920s, and still provides an insight into the living and working conditions at that time. Germany had just recovered a little from the worst consequences of the First World War, the great economic crisis was still a few years away and Hitler was not yet an issue at the time.",
+  "popularity": 6.6723,
+  "poster_path": "/1APQoI9PKgZtg6PWZjIbr0U7GvZ.jpg",
+  "production_companies": [
+    {
+      "id": 50,
+      "logo_path": null,
+      "name": "Deutsche Vereinsfilm AG",
+      "origin_country": "DE"
+    },
+    {
+      "id": 51,
+      "logo_path": null,
+      "name": "Fox Europa Produktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1927-09-23",
+  "revenue": 0,
+  "runtime": 69,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Berlin: Symphony of a Great City",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 124,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2797,
+        "known_for_department": "Acting",
+        "name": "Paul von Hindenburg",
+        "original_name": "Paul von Hindenburg",
+        "popularity": 0.1255,
+        "profile_path": "/6jh2oUY9DlnxGNgRXGYSsP15Kp0.jpg",
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "52fe4228c3a36847f8008829",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70,
+        "known_for_department": "Camera",
+        "name": "Karl Freund",
+        "original_name": "Karl Freund",
+        "popularity": 0.5464,
+        "profile_path": "/radUQdNeGHtn7vhQOTnHBVPH2vE.jpg",
+        "credit_id": "52fe4228c3a36847f80087fb",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2792,
+        "known_for_department": "Writing",
+        "name": "Carl Mayer",
+        "original_name": "Carl Mayer",
+        "popularity": 0.1892,
+        "profile_path": null,
+        "credit_id": "52fe4228c3a36847f8008801",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2793,
+        "known_for_department": "Sound",
+        "name": "Edmund Meisel",
+        "original_name": "Edmund Meisel",
+        "popularity": 0.1459,
+        "profile_path": null,
+        "credit_id": "52fe4228c3a36847f8008807",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2794,
+        "known_for_department": "Camera",
+        "name": "Robert Baberske",
+        "original_name": "Robert Baberske",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "52fe4228c3a36847f800880d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2795,
+        "known_for_department": "Camera",
+        "name": "Reimar Kuntze",
+        "original_name": "Reimar Kuntze",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "52fe4228c3a36847f8008813",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70,
+        "known_for_department": "Camera",
+        "name": "Karl Freund",
+        "original_name": "Karl Freund",
+        "popularity": 0.5464,
+        "profile_path": "/radUQdNeGHtn7vhQOTnHBVPH2vE.jpg",
+        "credit_id": "52fe4228c3a36847f8008819",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2796,
+        "known_for_department": "Camera",
+        "name": "Laszlo Schäffer",
+        "original_name": "Laszlo Schäffer",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "52fe4228c3a36847f800881f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70,
+        "known_for_department": "Camera",
+        "name": "Karl Freund",
+        "original_name": "Karl Freund",
+        "popularity": 0.5464,
+        "profile_path": "/radUQdNeGHtn7vhQOTnHBVPH2vE.jpg",
+        "credit_id": "52fe4228c3a36847f8008825",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2798,
+        "known_for_department": "Directing",
+        "name": "Walter Ruttmann",
+        "original_name": "Walter Ruttmann",
+        "popularity": 0.4345,
+        "profile_path": "/tadF9CxIFsJMTMhyPRWtgDqBzsi.jpg",
+        "credit_id": "52fe4228c3a36847f800882f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2798,
+        "known_for_department": "Directing",
+        "name": "Walter Ruttmann",
+        "original_name": "Walter Ruttmann",
+        "popularity": 0.4345,
+        "profile_path": "/tadF9CxIFsJMTMhyPRWtgDqBzsi.jpg",
+        "credit_id": "52fe4228c3a36847f8008835",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2798,
+        "known_for_department": "Directing",
+        "name": "Walter Ruttmann",
+        "original_name": "Walter Ruttmann",
+        "popularity": 0.4345,
+        "profile_path": "/tadF9CxIFsJMTMhyPRWtgDqBzsi.jpg",
+        "credit_id": "52fe4228c3a36847f800883b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12369,
+        "known_for_department": "Art",
+        "name": "Erich Kettelhut",
+        "original_name": "Erich Kettelhut",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "credit_id": "5b72263bc3a36818861ee869",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  }
+}

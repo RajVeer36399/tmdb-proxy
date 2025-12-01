@@ -1,0 +1,391 @@
+{
+  "adult": false,
+  "backdrop_path": "/l77LVhj9usY0xyS869289RMPUUX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 115153,
+  "imdb_id": "tt0391274",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Kismat",
+  "overview": "Tony works as a hit-man for gangster, Vikas Patil, who owes his allegiance to wealthy Raj Mallya. Raj Mallya is involved in marketing spurious and out-dated drugs, and as a result is the subject of an investigation by the Food & Drugs Administration's inspector Dr. Hargobind Gosai. Raj asks Vikas to take care of Hargobind through Tony, which Tony does, and in this manner, Raj is absolved of all wrong-doing. Then Tony meets with attractive starlet named Sapna, and falls head over heels in love with her. When Sapna tells him that she is engaged to be married to Dr. Ajay Saxena, he is heart-broken. Then a scandal breaks out, and Hargobind is implicated in the deaths of three children that were killed by Raj's spurious drugs. All the evidence points against Hargobind, and not a single lawyer is willing to take his case; his wife kills herself, and the marriage of his daughter has been canceled.",
+  "popularity": 6.349,
+  "poster_path": "/pFV0U1TlXRipGNZBTk3OPhMXw6z.jpg",
+  "production_companies": [
+    {
+      "id": 90950,
+      "logo_path": null,
+      "name": "Time Magnetics",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2004-02-20",
+  "revenue": 0,
+  "runtime": 143,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kismat",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 12,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77235,
+        "known_for_department": "Acting",
+        "name": "Bobby Deol",
+        "original_name": "Bobby Deol",
+        "popularity": 2.7864,
+        "profile_path": "/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+        "cast_id": 1,
+        "character": "Tony",
+        "credit_id": "52fe4b62c3a36847f8201173",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77234,
+        "known_for_department": "Acting",
+        "name": "Priyanka Chopra Jonas",
+        "original_name": "Priyanka Chopra Jonas",
+        "popularity": 5.5976,
+        "profile_path": "/stEZxIVAWFlrifbWkeULsD4LHnf.jpg",
+        "cast_id": 2,
+        "character": "Sapna Gosai",
+        "credit_id": "52fe4b62c3a36847f8201177",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10510,
+        "known_for_department": "Acting",
+        "name": "Kabir Bedi",
+        "original_name": "Kabir Bedi",
+        "popularity": 0.5942,
+        "profile_path": "/jTvXd0iXyKa9KBBFOxt9DASK5QG.jpg",
+        "cast_id": 3,
+        "character": "Raj Mallya",
+        "credit_id": "52fe4b62c3a36847f820117b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87330,
+        "known_for_department": "Acting",
+        "name": "Sanjay Narvekar",
+        "original_name": "Sanjay Narvekar",
+        "popularity": 0.6915,
+        "profile_path": "/h38ZGwKVIZYFve4TZNsR61r4s5J.jpg",
+        "cast_id": 4,
+        "character": "Goli",
+        "credit_id": "52fe4b62c3a36847f820117f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105442,
+        "known_for_department": "Acting",
+        "name": "Mohan Joshi",
+        "original_name": "Mohan Joshi",
+        "popularity": 0.6695,
+        "profile_path": "/hTZ61kTsGlxGebxjWmFDWmkgnjq.jpg",
+        "cast_id": 5,
+        "character": "Dr. Hargobind Gosai",
+        "credit_id": "52fe4b62c3a36847f8201183",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1004279,
+        "known_for_department": "Acting",
+        "name": "Shahbaz Khan",
+        "original_name": "Shahbaz Khan",
+        "popularity": 0.9849,
+        "profile_path": "/d639Nj7VoFS6fqofYhv1nMwsFx6.jpg",
+        "cast_id": 16,
+        "character": "Vicky",
+        "credit_id": "5aeed516c3a36813ff006242",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43414,
+        "known_for_department": "Acting",
+        "name": "Smita Jaykar",
+        "original_name": "Smita Jaykar",
+        "popularity": 0.4868,
+        "profile_path": "/5YpJqn2u69d9MaEkn0ucD2tbz4x.jpg",
+        "cast_id": 7,
+        "character": "Mrs. Gosai",
+        "credit_id": "52fe4b62c3a36847f820118b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32335,
+        "known_for_department": "Acting",
+        "name": "Mushtaq Khan",
+        "original_name": "Mushtaq Khan",
+        "popularity": 0.779,
+        "profile_path": "/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg",
+        "cast_id": 9,
+        "character": "Pankaj Bhai (Sapna's secretary)",
+        "credit_id": "52fe4b62c3a36847f8201193",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86024,
+        "known_for_department": "Acting",
+        "name": "Veerendra Saxena",
+        "original_name": "Veerendra Saxena",
+        "popularity": 0.3954,
+        "profile_path": "/jTZBvMmUiVpP1OsdRagmrEGnCDU.jpg",
+        "cast_id": 10,
+        "character": "Sinha (Mallya's secretary)",
+        "credit_id": "52fe4b62c3a36847f8201197",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85684,
+        "known_for_department": "Acting",
+        "name": "Ashish Vidhyarthi",
+        "original_name": "Ashish Vidhyarthi",
+        "popularity": 0.3931,
+        "profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
+        "cast_id": 15,
+        "character": "Vikas Patil",
+        "credit_id": "53454fde0e0a267bcd001b64",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3185675,
+        "known_for_department": "Acting",
+        "name": "Vivek Shrivastav",
+        "original_name": "Vivek Shrivastav",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Guna",
+        "credit_id": "6109c9038d22fc0047169de7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2361650,
+        "known_for_department": "Acting",
+        "name": "Imran Khan",
+        "original_name": "Imran Khan",
+        "popularity": 0.0627,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Vijay",
+        "credit_id": "6109ca326331b20045c7c4e0",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.2161,
+        "profile_path": null,
+        "credit_id": "52fe4b62c3a36847f82011a3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 950979,
+        "known_for_department": "Writing",
+        "name": "Sutanu Gupta",
+        "original_name": "Sutanu Gupta",
+        "popularity": 0.0788,
+        "profile_path": null,
+        "credit_id": "52fe4b62c3a36847f82011a9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1039606,
+        "known_for_department": "Writing",
+        "name": "Dilip Shukla",
+        "original_name": "Dilip Shukla",
+        "popularity": 0.3416,
+        "profile_path": "/j3iSgL8rL2dulmgzQyLAw3YvxAy.jpg",
+        "credit_id": "52fe4b62c3a36847f82011af",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1826163,
+        "known_for_department": "Production",
+        "name": "Dhirajlal Shah",
+        "original_name": "Dhirajlal Shah",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6109c6f3c613ce0047d3d23f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3185671,
+        "known_for_department": "Production",
+        "name": "Hasmukh Shah",
+        "original_name": "Hasmukh Shah",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6109c7136331b20073c903e4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3185672,
+        "known_for_department": "Production",
+        "name": "Pravin Shah",
+        "original_name": "Pravin Shah",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6109c727db154f0074a0d4c7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3185673,
+        "known_for_department": "Production",
+        "name": "Asif Shaikh",
+        "original_name": "Asif Shaikh",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6109c75e7719d7002ca12578",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1039576,
+        "known_for_department": "Sound",
+        "name": "Anand Raj Anand",
+        "original_name": "Anand Raj Anand",
+        "popularity": 0.0959,
+        "profile_path": null,
+        "credit_id": "6109c7878d22fc005fa29991",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1973239,
+        "known_for_department": "Crew",
+        "name": "Sripad Natu",
+        "original_name": "Sripad Natu",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6109c7ae8d22fc0030120f80",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 641166,
+        "known_for_department": "Editing",
+        "name": "A. Muthu",
+        "original_name": "A. Muthu",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "credit_id": "6109c7c9323eba005dd3339c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113607,
+        "known_for_department": "Art",
+        "name": "R. Verman Shetty",
+        "original_name": "R. Verman Shetty",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6109c7e62f8d090048eb2e13",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 625416,
+        "known_for_department": "Directing",
+        "name": "Guddu Dhanoa",
+        "original_name": "Guddu Dhanoa",
+        "popularity": 0.161,
+        "profile_path": "/tYLOzHH6rIDlgYObRIIydfEkIHj.jpg",
+        "credit_id": "5b4a15a39251417d270111bd",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

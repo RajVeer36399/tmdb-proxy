@@ -1,0 +1,230 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1524152,
+  "imdb_id": "tt1879064",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Big Lebowski 2 with Tara Reid",
+  "overview": "Parody trailer for a Big Lebowski sequel",
+  "popularity": 6.547,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 21213,
+      "logo_path": "/wV3mBqWgfgdRtFEkh6hHpHW9Cb1.png",
+      "name": "Funny or Die",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-04-12",
+  "revenue": 0,
+  "runtime": 3,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Big Lebowski 2 with Tara Reid",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1234,
+        "known_for_department": "Acting",
+        "name": "Tara Reid",
+        "original_name": "Tara Reid",
+        "popularity": 3.8861,
+        "profile_path": "/94484Iheg04yA1UbiXoBAOB6330.jpg",
+        "cast_id": 1,
+        "character": "The Dude / Walter / Donnie / The Big Lebowski",
+        "credit_id": "688e328ba3a4424a8ab7ebe2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 441567,
+        "known_for_department": "Acting",
+        "name": "James Adomian",
+        "original_name": "James Adomian",
+        "popularity": 0.4624,
+        "profile_path": "/auQ2a6mGhPiujtlSqDNSk6l7i1G.jpg",
+        "cast_id": 2,
+        "character": "The Stranger (voice)",
+        "credit_id": "688e32b335fab36f6611d731",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 929697,
+        "known_for_department": "Directing",
+        "name": "Christopher Farah",
+        "original_name": "Christopher Farah",
+        "popularity": 0.3468,
+        "profile_path": null,
+        "credit_id": "688e32e6ef31e50002b7ed1e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 929697,
+        "known_for_department": "Directing",
+        "name": "Christopher Farah",
+        "original_name": "Christopher Farah",
+        "popularity": 0.3468,
+        "profile_path": null,
+        "credit_id": "688e3319bc4b318ee4f3df1c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 929697,
+        "known_for_department": "Directing",
+        "name": "Christopher Farah",
+        "original_name": "Christopher Farah",
+        "popularity": 0.3468,
+        "profile_path": null,
+        "credit_id": "688e33241cf4a8dbbaa4605f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3653962,
+        "known_for_department": "Production",
+        "name": "Sean Boyle",
+        "original_name": "Sean Boyle",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "688e344a085c857133b7eb03",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1516869,
+        "known_for_department": "Production",
+        "name": "Mike Farah",
+        "original_name": "Mike Farah",
+        "popularity": 0.0766,
+        "profile_path": null,
+        "credit_id": "688e346164a704406861ec35",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1669575,
+        "known_for_department": "Production",
+        "name": "Anna Wenger",
+        "original_name": "Anna Wenger",
+        "popularity": 1.6168,
+        "profile_path": "/rMn2S2Fza4PFBe247CLlbb4FjXq.jpg",
+        "credit_id": "688e34a127936ea2e911d53f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3069674,
+        "known_for_department": "Visual Effects",
+        "name": "Ryan McNeely",
+        "original_name": "Ryan McNeely",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "688e3638859974670b7cf15a",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1570142,
+        "known_for_department": "Editing",
+        "name": "Morgan Pritchard",
+        "original_name": "Morgan Pritchard",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "688e36542e409f1f3e61eb55",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759302,
+        "known_for_department": "Art",
+        "name": "Alexi Gomez",
+        "original_name": "Alexi Gomez",
+        "popularity": 0.8902,
+        "profile_path": null,
+        "credit_id": "688e367d916fb18cde61ebbb",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5602351,
+        "known_for_department": "Production",
+        "name": "Dal Wolf",
+        "original_name": "Dal Wolf",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "688e3695e0da2462c22615b2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031765,
+        "known_for_department": "Crew",
+        "name": "Ellie Del Campo",
+        "original_name": "Ellie Del Campo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "688e36e964a704406861ec58",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  }
+}

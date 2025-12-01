@@ -1,0 +1,459 @@
+{
+  "adult": false,
+  "backdrop_path": "/h8oqzUTbz148vFO1edt8ak0yXeJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 272610,
+  "imdb_id": "tt3266724",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Black Rose",
+  "overview": "A Russian Police Major is enlisted by the LAPD to help solve a series of gruesome murders perpetrated against young women by a sadistic sociopathic killer on the mean streets of Hollywood.",
+  "popularity": 7.7079,
+  "poster_path": "/8Ytda9gbdG7XZLMbC7TDCISwm4A.jpg",
+  "production_companies": [
+    {
+      "id": 87722,
+      "logo_path": null,
+      "name": "Czar Pictures",
+      "origin_country": "RU"
+    },
+    {
+      "id": 79736,
+      "logo_path": null,
+      "name": "Hollywood Storm",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2014-04-17",
+  "revenue": 855450,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Russian In USA",
+  "title": "Black Rose",
+  "video": false,
+  "vote_average": 2.8,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146402,
+        "known_for_department": "Acting",
+        "name": "Alexander Nevsky",
+        "original_name": "Alexander Nevsky",
+        "popularity": 0.8159,
+        "profile_path": "/gm0ul2fVDs95DBNDUMhw4AAYHJM.jpg",
+        "cast_id": 6,
+        "character": "Vladimir Kazatov",
+        "credit_id": "5386c27ac3a3681add0024cc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7218,
+        "known_for_department": "Acting",
+        "name": "Kristanna Loken",
+        "original_name": "Kristanna Loken",
+        "popularity": 2.0248,
+        "profile_path": "/bcKHChmSGFoxFkLFm7AjfGQObin.jpg",
+        "cast_id": 9,
+        "character": "Emily Smith",
+        "credit_id": "5386c36fc3a3681af0002420",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71900,
+        "known_for_department": "Acting",
+        "name": "Adrian Paul",
+        "original_name": "Adrian Paul",
+        "popularity": 0.7526,
+        "profile_path": "/eWvjUly7IO420nJLYY1sumXswGo.jpg",
+        "cast_id": 7,
+        "character": "Matt Robinson",
+        "credit_id": "5386c2a3c3a3681af300255e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2055,
+        "known_for_department": "Acting",
+        "name": "Robert Davi",
+        "original_name": "Robert Davi",
+        "popularity": 1.4637,
+        "profile_path": "/yizOUAKs59CwKM6pU30gIP9gTup.jpg",
+        "cast_id": 8,
+        "character": "Captain Frank Dalano",
+        "credit_id": "5386c2cfc3a3681aea0022a5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37250,
+        "known_for_department": "Acting",
+        "name": "Matthias Hues",
+        "original_name": "Matthias Hues",
+        "popularity": 1.0677,
+        "profile_path": "/ngdHx4jWdyeZB65YfNvcPXlMpsj.jpg",
+        "cast_id": 10,
+        "character": "Oleg",
+        "credit_id": "5386c400c3a3681ad70023c1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240368,
+        "known_for_department": "Acting",
+        "name": "Emmanuil Vitorgan",
+        "original_name": "Эммануил Виторган",
+        "popularity": 0.5469,
+        "profile_path": "/8qkSoafIyc1qxCP2slsk5jPDuGZ.jpg",
+        "cast_id": 12,
+        "character": "Colonel Gromov",
+        "credit_id": "58c6b0bdc3a36840b80188a8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1775765,
+        "known_for_department": "Acting",
+        "name": "Oksana Sidorenko",
+        "original_name": "Оксана Сидоренко",
+        "popularity": 0.3986,
+        "profile_path": "/midwnMWt4RRf5D8vRldw3QIv3ap.jpg",
+        "cast_id": 11,
+        "character": "Sandra",
+        "credit_id": "58c6b0a49251411d300187ba",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154548,
+        "known_for_department": "Acting",
+        "name": "Robert Madrid",
+        "original_name": "Robert Madrid",
+        "popularity": 0.2372,
+        "profile_path": "/x3tDah8yDpHK3SqyTseHeAxNYLg.jpg",
+        "cast_id": 18,
+        "character": "Antonio Banuelos",
+        "credit_id": "60061b80223e20003ebb5466",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2472022,
+        "known_for_department": "Acting",
+        "name": "Viktor Efremov",
+        "original_name": "Виктор Ефремов",
+        "popularity": 0.2925,
+        "profile_path": "/k9jmhxUxhS2vAWubA2BfCnd6fZt.jpg",
+        "cast_id": 21,
+        "character": "Det. Alekseev",
+        "credit_id": "61a097c23e2ec8006743c2c8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 566726,
+        "known_for_department": "Acting",
+        "name": "Olga Rodionova",
+        "original_name": "Olga Rodionova",
+        "popularity": 0.0387,
+        "profile_path": "/zeCLSJoIjIDo7PrGu4zWErYIeBT.jpg",
+        "cast_id": 13,
+        "character": "Natalya",
+        "credit_id": "58c6b0d5c3a368410c017663",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1775766,
+        "known_for_department": "Acting",
+        "name": "Polina Butorina",
+        "original_name": "Polina Butorina",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Polina",
+        "credit_id": "58c6b0ef9251411d1901940a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2373798,
+        "known_for_department": "Acting",
+        "name": "Andrey Bazhin",
+        "original_name": "Andrey Bazhin",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Police Negotiator",
+        "credit_id": "61a097533d4d96002e5e90b3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1666415,
+        "known_for_department": "Acting",
+        "name": "Arturs Pupols-Kochanevskiy",
+        "original_name": "Артурс Пуполс-Кочаневский",
+        "popularity": 0.3442,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Detective (uncredited)",
+        "credit_id": "61a0975d0582240042ab0da8",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60585,
+        "known_for_department": "Writing",
+        "name": "George Saunders",
+        "original_name": "George Saunders",
+        "popularity": 0.5846,
+        "profile_path": "/bb5PLeJA01Av3bFUPgANIsGxlTl.jpg",
+        "credit_id": "5386bb89c3a3681ada0023ce",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146402,
+        "known_for_department": "Acting",
+        "name": "Alexander Nevsky",
+        "original_name": "Alexander Nevsky",
+        "popularity": 0.8159,
+        "profile_path": "/gm0ul2fVDs95DBNDUMhw4AAYHJM.jpg",
+        "credit_id": "5386bb2ac3a3681ad70022f2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84648,
+        "known_for_department": "Acting",
+        "name": "Brent Huff",
+        "original_name": "Brent Huff",
+        "popularity": 0.9597,
+        "profile_path": "/dMH054u4eDgZlMhf7SBdxdtlnQu.jpg",
+        "credit_id": "5386bb6cc3a3681add00241d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146402,
+        "known_for_department": "Acting",
+        "name": "Alexander Nevsky",
+        "original_name": "Alexander Nevsky",
+        "popularity": 0.8159,
+        "profile_path": "/gm0ul2fVDs95DBNDUMhw4AAYHJM.jpg",
+        "credit_id": "5386bb45c3a3681ae30023ba",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25294,
+        "known_for_department": "Sound",
+        "name": "Sean Murray",
+        "original_name": "Sean Murray",
+        "popularity": 0.0847,
+        "profile_path": null,
+        "credit_id": "62e87d221c635b0060ae4086",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88026,
+        "known_for_department": "Directing",
+        "name": "Bryan Goeres",
+        "original_name": "Bryan Goeres",
+        "popularity": 0.086,
+        "profile_path": null,
+        "credit_id": "61a09a6f470ead00440533a4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2051369,
+        "known_for_department": "Writing",
+        "name": "Alexander Izotov",
+        "original_name": "Alexander Izotov",
+        "popularity": 0.0509,
+        "profile_path": "/vAwAZdliezGmqfcRGBoend9vN0S.jpg",
+        "credit_id": "61a09a8bd1332400905f7755",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154548,
+        "known_for_department": "Acting",
+        "name": "Robert Madrid",
+        "original_name": "Robert Madrid",
+        "popularity": 0.2372,
+        "profile_path": "/x3tDah8yDpHK3SqyTseHeAxNYLg.jpg",
+        "credit_id": "61a09aab05822400266432d7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16590,
+        "known_for_department": "Writing",
+        "name": "Sheldon Lettich",
+        "original_name": "Sheldon Lettich",
+        "popularity": 0.5922,
+        "profile_path": "/eTwzTAJ4X48FalI9eDDsyvpooOP.jpg",
+        "credit_id": "61a09a9ded28b90024d010db",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25296,
+        "known_for_department": "Editing",
+        "name": "Stephen Adrianson",
+        "original_name": "Stephen Adrianson",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "58c6b20cc3a368413b0174cf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1775768,
+        "known_for_department": "Sound",
+        "name": "Ethan Molomut",
+        "original_name": "Ethan Molomut",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "58c6b1db9251411d47019d06",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 979055,
+        "known_for_department": "Camera",
+        "name": "Rudy Harbon",
+        "original_name": "Rudy Harbon",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "58c6b1c09251411d11018d70",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3096169,
+        "known_for_department": "Directing",
+        "name": "Evgeny Dostal",
+        "original_name": "Evgeny Dostal",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "646656d4d185720161905750",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3354777,
+        "known_for_department": "Acting",
+        "name": "Maria Leicy",
+        "original_name": "Maria Leicy",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "646656bf2bcf6700e3b970a6",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2469701,
+        "known_for_department": "Camera",
+        "name": "Fyodor Glazachyov",
+        "original_name": "Fyodor Glazachyov",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6466570b006b010147e8d5cd",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      }
+    ]
+  }
+}

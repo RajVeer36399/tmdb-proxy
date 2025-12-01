@@ -1,0 +1,423 @@
+{
+  "adult": false,
+  "backdrop_path": "/jmvrvcJge7YnbjyS5dsk6IDDlfW.jpg",
+  "belongs_to_collection": null,
+  "budget": 4700000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 21024,
+  "imdb_id": "tt0081433",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Roadie",
+  "overview": "A young Texas good ol' boy has a knack with electronic equipment, and that talent gets him a job as a roadie with a raucous traveling rock-and-roll show.",
+  "popularity": 29.5637,
+  "poster_path": "/4vAzTfw0g70BM1dAx7vdRNIhKMm.jpg",
+  "production_companies": [
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1980-06-13",
+  "revenue": 4226370,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Bands make it Rock...Roadies make it Roll!",
+  "title": "Roadie",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7470,
+        "known_for_department": "Acting",
+        "name": "Meat Loaf",
+        "original_name": "Meat Loaf",
+        "popularity": 0.7599,
+        "profile_path": "/7gKLR1u46OB8WJ6m06LemNBCMx6.jpg",
+        "cast_id": 7,
+        "character": "Travis W. Redfish",
+        "credit_id": "52fe4408c3a368484e00b931",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86994,
+        "known_for_department": "Acting",
+        "name": "Kaki Hunter",
+        "original_name": "Kaki Hunter",
+        "popularity": 0.6816,
+        "profile_path": "/faPk2sD8Nu1KZspInabHdvS1QNX.jpg",
+        "cast_id": 3,
+        "character": "Lola Bouilliabase",
+        "credit_id": "52fe4408c3a368484e00b921",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40176,
+        "known_for_department": "Acting",
+        "name": "Art Carney",
+        "original_name": "Art Carney",
+        "popularity": 0.4859,
+        "profile_path": "/dXuApUbw2Wlfj5jg3Qv4PwCanR6.jpg",
+        "cast_id": 1,
+        "character": "Corpus C. Redfish",
+        "credit_id": "52fe4408c3a368484e00b919",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2886,
+        "known_for_department": "Acting",
+        "name": "Gailard Sartain",
+        "original_name": "Gailard Sartain",
+        "popularity": 0.5517,
+        "profile_path": "/oYCs7TlrvnwcNujQ2yzG4x7fz7f.jpg",
+        "cast_id": 16,
+        "character": "B.B. Muldoon",
+        "credit_id": "5ab370e0c3a368616300596b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1242131,
+        "known_for_department": "Acting",
+        "name": "Rhonda Bates",
+        "original_name": "Rhonda Bates",
+        "popularity": 0.1012,
+        "profile_path": "/qqiTHillIpRXn9dqhFzIZN1joID.jpg",
+        "cast_id": 15,
+        "character": "Alice Poo Redfish",
+        "credit_id": "5ab3704b9251417afb00506d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141368,
+        "known_for_department": "Acting",
+        "name": "Don Cornelius",
+        "original_name": "Don Cornelius",
+        "popularity": 0.299,
+        "profile_path": "/pL4fghs7qPQKLshDFP5RxIVJpP4.jpg",
+        "cast_id": 24,
+        "character": "Mohammed Johnson",
+        "credit_id": "5b2847b09251412c4e000326",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63214,
+        "known_for_department": "Acting",
+        "name": "Sonny Carl Davis",
+        "original_name": "Sonny Carl Davis",
+        "popularity": 0.5546,
+        "profile_path": "/rT9gvwfifLVt0Sz56k9EVrYX5mM.jpg",
+        "cast_id": 9,
+        "character": "Bird",
+        "credit_id": "581f58ed92514168a4000654",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8192,
+        "known_for_department": "Acting",
+        "name": "Joe Spano",
+        "original_name": "Joe Spano",
+        "popularity": 1.2595,
+        "profile_path": "/rHiJspLrlb4uDmWfchwd8Fv13k7.jpg",
+        "cast_id": 25,
+        "character": "Ace",
+        "credit_id": "5b2847e49251412c93000281",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35824,
+        "known_for_department": "Acting",
+        "name": "Alice Cooper",
+        "original_name": "Alice Cooper",
+        "popularity": 0.5093,
+        "profile_path": "/nyJVaHPZSPMvJyS5aSal7a793qJ.jpg",
+        "cast_id": 2,
+        "character": "Alice Cooper",
+        "credit_id": "52fe4408c3a368484e00b91d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22868,
+        "known_for_department": "Acting",
+        "name": "Roy Orbison",
+        "original_name": "Roy Orbison",
+        "popularity": 0.6788,
+        "profile_path": "/15zBIv3qhHj5vXwWOFl4ZfDb2bO.jpg",
+        "cast_id": 6,
+        "character": "Roy Orbison",
+        "credit_id": "52fe4408c3a368484e00b92d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86995,
+        "known_for_department": "Acting",
+        "name": "Hank Williams, Jr.",
+        "original_name": "Hank Williams, Jr.",
+        "popularity": 0.17,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Hank Williams, Jr.",
+        "credit_id": "52fe4408c3a368484e00b929",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 102,
+        "known_for_department": "Acting",
+        "name": "Debbie Harry",
+        "original_name": "Debbie Harry",
+        "popularity": 0.7614,
+        "profile_path": "/reqwsCzLcEBgzZ9uerQx3mD1fGy.jpg",
+        "cast_id": 4,
+        "character": "Debbie Harry",
+        "credit_id": "52fe4408c3a368484e00b925",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1239839,
+        "known_for_department": "Acting",
+        "name": "Jimmy Destri",
+        "original_name": "Jimmy Destri",
+        "popularity": 0.3152,
+        "profile_path": "/rIJMB1Y8HHHu1RFlNyoUifbhvYi.jpg",
+        "cast_id": 10,
+        "character": "Jimmy Destri",
+        "credit_id": "5ab3603e0e0a265f270045db",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1774673,
+        "known_for_department": "Acting",
+        "name": "Nigel Harrison",
+        "original_name": "Nigel Harrison",
+        "popularity": 0.2439,
+        "profile_path": "/ilrtRbqbysfx3ZKwE9gTzO04l1L.jpg",
+        "cast_id": 11,
+        "character": "Nigel Harrison",
+        "credit_id": "5ab3604ec3a3686163004a22",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1231233,
+        "known_for_department": "Acting",
+        "name": "Frank Infante",
+        "original_name": "Frank Infante",
+        "popularity": 0.1764,
+        "profile_path": "/nSUVezmvomO9hJQKsvBFaSlR2O3.jpg",
+        "cast_id": 13,
+        "character": "Frank Infante",
+        "credit_id": "5ab3606a9251417b0b0044c8",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936885,
+        "known_for_department": "Acting",
+        "name": "Chris Stein",
+        "original_name": "Chris Stein",
+        "popularity": 0.1493,
+        "profile_path": "/rmu3ZHUw2DALxPrY6YttSfq33Ce.jpg",
+        "cast_id": 14,
+        "character": "Chris Stein",
+        "credit_id": "5ab360829251417af900423d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1069722,
+        "known_for_department": "Acting",
+        "name": "Clem Burke",
+        "original_name": "Clem Burke",
+        "popularity": 0.127,
+        "profile_path": "/ihIQ9bj1vQRMzGVamgRh8Y1EIG6.jpg",
+        "cast_id": 17,
+        "character": "Clem Burke",
+        "credit_id": "5ae52771c3a3683407000800",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72427,
+        "known_for_department": "Directing",
+        "name": "Alan Rudolph",
+        "original_name": "Alan Rudolph",
+        "popularity": 0.2742,
+        "profile_path": "/vJD43MfiVQTCOMnz2JnBltYm8nf.jpg",
+        "credit_id": "52fe4408c3a368484e00b937",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12948,
+        "known_for_department": "Crew",
+        "name": "Conrad E. Palmisano",
+        "original_name": "Conrad E. Palmisano",
+        "popularity": 0.2025,
+        "profile_path": "/9012ElbfHVSrl0Jzvip19rFaLBP.jpg",
+        "credit_id": "653d4de8109cd000c947f124",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1336877,
+        "known_for_department": "Writing",
+        "name": "Big Boy Medlin",
+        "original_name": "Big Boy Medlin",
+        "popularity": 0.0786,
+        "profile_path": null,
+        "credit_id": "5ae6817ac3a368135d003019",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1082881,
+        "known_for_department": "Writing",
+        "name": "Michael Ventura",
+        "original_name": "Michael Ventura",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5ae681869251410d28004b69",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9213,
+        "known_for_department": "Camera",
+        "name": "David Myers",
+        "original_name": "David Myers",
+        "popularity": 0.189,
+        "profile_path": "/Ah4gtSxGZNDampCyKti0iDOGwkD.jpg",
+        "credit_id": "5ae681930e0a261060005525",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491246,
+        "known_for_department": "Editing",
+        "name": "Tom Walls",
+        "original_name": "Tom Walls",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "5ae681aa0e0a2610700054a1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21589,
+        "known_for_department": "Art",
+        "name": "Paul Peters",
+        "original_name": "Paul Peters",
+        "popularity": 0.2296,
+        "profile_path": null,
+        "credit_id": "5ae681c69251410d28004b82",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59469,
+        "known_for_department": "Production",
+        "name": "Carolyn Pfeiffer",
+        "original_name": "Carolyn Pfeiffer",
+        "popularity": 1.0671,
+        "profile_path": null,
+        "credit_id": "5ae681e69251410d0200571f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42113,
+        "known_for_department": "Directing",
+        "name": "Zalman King",
+        "original_name": "Zalman King",
+        "popularity": 0.6656,
+        "profile_path": "/7nB4hQFfqMAvW1U1glPOOkrihwK.jpg",
+        "credit_id": "5c1666d392514132bd0ba650",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

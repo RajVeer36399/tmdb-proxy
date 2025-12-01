@@ -1,0 +1,446 @@
+{
+  "adult": false,
+  "backdrop_path": "/hV4akPPOYqyNPJKLFfzn0aX9iga.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81488054",
+  "id": 914268,
+  "imdb_id": "tt16379454",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Martha Mitchell Effect",
+  "overview": "She was once as famous as Jackie O—and then she tried to take down a President. Martha Mitchell was the unlikeliest of whistleblowers: a Republican wife who was discredited by Nixon to keep her quiet. Until now.",
+  "popularity": 6.5751,
+  "poster_path": "/gbv5THLM8FbvnPXUiRZQHdEiW6n.jpg",
+  "production_companies": [
+    {
+      "id": 153886,
+      "logo_path": "/wcOgb8591a6a506L1bUqxEiRv1B.png",
+      "name": "Foothill Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 153888,
+      "logo_path": null,
+      "name": "Hazel Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 175876,
+      "logo_path": null,
+      "name": "Outspoken Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-01-20",
+  "revenue": 0,
+  "runtime": 40,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Martha Mitchell Effect",
+  "video": false,
+  "vote_average": 6.382,
+  "vote_count": 72,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3633182,
+        "known_for_department": "Acting",
+        "name": "Martha Mitchell",
+        "original_name": "Martha Mitchell",
+        "popularity": 0.0327,
+        "profile_path": "/mKAlRJf3mC20Hnz0nMTFZ3Kfspv.jpg",
+        "cast_id": 3,
+        "character": "Self (archive footage)",
+        "credit_id": "62d9d9318261ee0054e4f237",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27765,
+        "known_for_department": "Acting",
+        "name": "Richard Nixon",
+        "original_name": "Richard Nixon",
+        "popularity": 0.2963,
+        "profile_path": "/uCJeC6LXnv3KVA1YUNTpBh8uAhC.jpg",
+        "cast_id": 4,
+        "character": "Self (archive footage)",
+        "credit_id": "62d9d9390d2944004f5c39b4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96149,
+        "known_for_department": "Acting",
+        "name": "Connie Chung",
+        "original_name": "Connie Chung",
+        "popularity": 0.2159,
+        "profile_path": "/nlxI93q8LIRVaIOdHlo4JUwdlV.jpg",
+        "cast_id": 5,
+        "character": "Self (voice)",
+        "credit_id": "62d9d9589d89390056d6f8d4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1191973,
+        "known_for_department": "Acting",
+        "name": "Dwight L. Chapin",
+        "original_name": "Dwight L. Chapin",
+        "popularity": 0.455,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Self (voice)",
+        "credit_id": "62d9dd35a31440004fad99cd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3633198,
+        "known_for_department": "Acting",
+        "name": "Piper Dankworth",
+        "original_name": "Piper Dankworth",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self (voice)",
+        "credit_id": "62d9dd43e10f46004f961ed0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 112579,
+        "known_for_department": "Acting",
+        "name": "John Dean",
+        "original_name": "John Dean",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Self (voice)",
+        "credit_id": "62d9dd509d89390056d6f9bd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3633199,
+        "known_for_department": "Acting",
+        "name": "Dan Romaine Kirkham",
+        "original_name": "Dan Romaine Kirkham",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self (voice)",
+        "credit_id": "62d9dd6bf6596f00b6fdf2c3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1935381,
+        "known_for_department": "Acting",
+        "name": "Sally Quinn",
+        "original_name": "Sally Quinn",
+        "popularity": 0.1851,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self (voice)",
+        "credit_id": "62d9dd77bd32090055ddf925",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13717,
+        "known_for_department": "Acting",
+        "name": "Bob Woodward",
+        "original_name": "Bob Woodward",
+        "popularity": 0.1027,
+        "profile_path": "/5hf9YjElQC9i3JuEIbHcqTFaNTm.jpg",
+        "cast_id": 19,
+        "character": "Self (voice)",
+        "credit_id": "62d9dd8561bac400670cbf82",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93328,
+        "known_for_department": "Acting",
+        "name": "David Frost",
+        "original_name": "David Frost",
+        "popularity": 0.2867,
+        "profile_path": "/oWbeL1KLjGjlmNmkmkbea4LxJo0.jpg",
+        "cast_id": 21,
+        "character": "Self (archive footage)",
+        "credit_id": "630775b465c26c007aaab6f0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3231543,
+        "known_for_department": "Acting",
+        "name": "J. William Fulbright",
+        "original_name": "J. William Fulbright",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self (archive footage)",
+        "credit_id": "63077767dcb6a3007bb2ce42",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192021,
+        "known_for_department": "Acting",
+        "name": "George McGovern",
+        "original_name": "George McGovern",
+        "popularity": 0.489,
+        "profile_path": "/9YEDCZa8hh2n9mV59wlbT1TI4Cf.jpg",
+        "cast_id": 23,
+        "character": "Self (archive footage)",
+        "credit_id": "6307969dca7ec600924695f3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3676504,
+        "known_for_department": "Acting",
+        "name": "Bonnie Angelo",
+        "original_name": "Bonnie Angelo",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Self (archive footage)",
+        "credit_id": "6307a233481382007e87ec10",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 565115,
+        "known_for_department": "Acting",
+        "name": "John Mitchell",
+        "original_name": "John Mitchell",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Self (archive footage)",
+        "credit_id": "6307a323481382007bbdc8fb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83786,
+        "known_for_department": "Acting",
+        "name": "Walter Cronkite",
+        "original_name": "Walter Cronkite",
+        "popularity": 0.1663,
+        "profile_path": "/hCIBybvwP7aMqwJFxcmVEyNrRyB.jpg",
+        "cast_id": 26,
+        "character": "Self (archive footage)",
+        "credit_id": "6307a33315794a007e3fcc75",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10437,
+        "known_for_department": "Acting",
+        "name": "Lily Tomlin",
+        "original_name": "Lily Tomlin",
+        "popularity": 0.8791,
+        "profile_path": "/eoFMSqRykiaXMGCiz7Kxehfqy1W.jpg",
+        "cast_id": 27,
+        "character": "Self (archive footage) (uncredited)",
+        "credit_id": "63fd8e54cf62cd007ba68548",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1778478,
+        "known_for_department": "Production",
+        "name": "Judith Mizrachy",
+        "original_name": "Judith Mizrachy",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62d9dcd0f6596f00b6fdf294",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2019246,
+        "known_for_department": "Directing",
+        "name": "Anne Alvergue",
+        "original_name": "Anne Alvergue",
+        "popularity": 0.8795,
+        "profile_path": "/blCbMXOB9YzsFCrHQ9fs5AZO0LN.jpg",
+        "credit_id": "62d9dcaf1c6aa7004c9e9a35",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1811836,
+        "known_for_department": "Sound",
+        "name": "Chris Ruggiero",
+        "original_name": "Chris Ruggiero",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "credit_id": "62d9dcf8f6596f00b6fdf2a5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1108491,
+        "known_for_department": "Production",
+        "name": "Beth Levison",
+        "original_name": "Beth Levison",
+        "popularity": 0.5505,
+        "profile_path": null,
+        "credit_id": "62d9dcc81c6aa7005ea4e144",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2374171,
+        "known_for_department": "Production",
+        "name": "Nathalie Seaver",
+        "original_name": "Nathalie Seaver",
+        "popularity": 0.9219,
+        "profile_path": "/xAPe3VHBFbBT3dl7m7uXyFbMhpy.jpg",
+        "credit_id": "62d9dd1b8261ee004c191ee3",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1000854,
+        "known_for_department": "Sound",
+        "name": "Nathan Halpern",
+        "original_name": "Nathan Halpern",
+        "popularity": 1.0514,
+        "profile_path": "/kFKPw61KwSYhmmkDsQGMv1MzYj0.jpg",
+        "credit_id": "62d9dce290dde0010f37b26e",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3209880,
+        "known_for_department": "Sound",
+        "name": "Robert Pycior",
+        "original_name": "Robert Pycior",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "62d9dcee1c6aa7005ea4e14b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2129349,
+        "known_for_department": "Editing",
+        "name": "Stewart Griffin",
+        "original_name": "Stewart Griffin",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "62d9ddc1f6596f00b751233c",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2096222,
+        "known_for_department": "Production",
+        "name": "Jamie Wolf",
+        "original_name": "Jamie Wolf",
+        "popularity": 1.3391,
+        "profile_path": null,
+        "credit_id": "62d9dd08aafebd004c2ed021",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2680717,
+        "known_for_department": "Directing",
+        "name": "Debra McClutchy",
+        "original_name": "Debra McClutchy",
+        "popularity": 0.0546,
+        "profile_path": "/it2qrkOwzeGfzqzYOSH30sGE2v0.jpg",
+        "credit_id": "61b440cecb75d1006129ab24",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2019246,
+        "known_for_department": "Directing",
+        "name": "Anne Alvergue",
+        "original_name": "Anne Alvergue",
+        "popularity": 0.8795,
+        "profile_path": "/blCbMXOB9YzsFCrHQ9fs5AZO0LN.jpg",
+        "credit_id": "61b440c5bfeb8b0063bad99e",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

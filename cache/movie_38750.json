@@ -1,0 +1,472 @@
+{
+  "adult": false,
+  "backdrop_path": "/rGmMQxGBTc8XVgAfmdciUdgDSo5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 38750,
+  "imdb_id": "tt0055139",
+  "origin_country": [
+    "JP",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Manster",
+  "overview": "An American journalist stationed in Japan is given a mysterious injection by a mad scientist, turning him into a murderous, two-headed monster.",
+  "popularity": 5.871,
+  "poster_path": "/5wsGBmJg7Z2agUwQkADE1RD0oq.jpg",
+  "production_companies": [
+    {
+      "id": 39125,
+      "logo_path": null,
+      "name": "Lopert Pictures Corporation",
+      "origin_country": ""
+    },
+    {
+      "id": 107095,
+      "logo_path": null,
+      "name": "Shaw-Breakston Enterprises",
+      "origin_country": ""
+    },
+    {
+      "id": 107096,
+      "logo_path": null,
+      "name": "United Artists of Japan",
+      "origin_country": ""
+    },
+    {
+      "id": 107097,
+      "logo_path": null,
+      "name": "William Shelton",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1959-07-01",
+  "revenue": 0,
+  "runtime": 73,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Half-Man, Half-Monster!",
+  "title": "The Manster",
+  "video": false,
+  "vote_average": 4.4,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121192,
+        "known_for_department": "Acting",
+        "name": "Peter Dyneley",
+        "original_name": "Peter Dyneley",
+        "popularity": 0.3227,
+        "profile_path": "/9uXHcV30B8OQkz9I0JgvUUU22vh.jpg",
+        "cast_id": 21,
+        "character": "Larry Stanford",
+        "credit_id": "52fe46da9251416c91061dd3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97675,
+        "known_for_department": "Acting",
+        "name": "Jane Hylton",
+        "original_name": "Jane Hylton",
+        "popularity": 0.1821,
+        "profile_path": "/6VmBA8QJgRj2l8hltNz3kf6WFa9.jpg",
+        "cast_id": 22,
+        "character": "Linda Stanford",
+        "credit_id": "52fe46da9251416c91061dd7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121193,
+        "known_for_department": "Acting",
+        "name": "Tetsu Nakamura",
+        "original_name": "中村哲",
+        "popularity": 0.8599,
+        "profile_path": "/nZjYxc8WiTsqEfAvgLAXEsa4CM5.jpg",
+        "cast_id": 23,
+        "character": "Dr. Robert Suzuki",
+        "credit_id": "52fe46da9251416c91061ddb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 121194,
+        "known_for_department": "Acting",
+        "name": "Terri Zimmern",
+        "original_name": "Terri Zimmern",
+        "popularity": 0.0402,
+        "profile_path": "/zAgiYSHZ7FE8dA6FhewDtcl8kHj.jpg",
+        "cast_id": 24,
+        "character": "Tara",
+        "credit_id": "52fe46da9251416c91061ddf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121195,
+        "known_for_department": "Acting",
+        "name": "Norman Van Hawley",
+        "original_name": "Norman Van Hawley",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Ian Matthews",
+        "credit_id": "52fe46da9251416c91061de3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121196,
+        "known_for_department": "Acting",
+        "name": "Jerry Itō",
+        "original_name": "ジェリー伊藤",
+        "popularity": 0.7209,
+        "profile_path": "/3i56XICjQxeVmRuZR9oSBnUq3RW.jpg",
+        "cast_id": 26,
+        "character": "Police Supt. Aida",
+        "credit_id": "52fe46da9251416c91061de7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 121197,
+        "known_for_department": "Acting",
+        "name": "Toyoko Takechi",
+        "original_name": "武智豊子",
+        "popularity": 0.828,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Emiko Suzuki",
+        "credit_id": "52fe46da9251416c91061deb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121198,
+        "known_for_department": "Acting",
+        "name": "Alan Tarlton",
+        "original_name": "Alan Tarlton",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Dr. H.B. Jennsen",
+        "credit_id": "52fe46da9251416c91061def",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 121199,
+        "known_for_department": "Acting",
+        "name": "Fujie Satsuki",
+        "original_name": "Fujie Satsuki",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Old woman in hotel",
+        "credit_id": "52fe46da9251416c91061df3",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121177,
+        "known_for_department": "Writing",
+        "name": "William J. Sheldon",
+        "original_name": "William J. Sheldon",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061d6f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121191,
+        "known_for_department": "Acting",
+        "name": "Kazuo Suzuki",
+        "original_name": "鈴木和夫",
+        "popularity": 0.6811,
+        "profile_path": "/yzeSTcbZ9bATL1Njp1oUrpUjkDJ.jpg",
+        "credit_id": "52fe46da9251416c91061dcf",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121185,
+        "known_for_department": "Production",
+        "name": "Richard Herbine",
+        "original_name": "Richard Herbine",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061dab",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121186,
+        "known_for_department": "Production",
+        "name": "Yuji Honda",
+        "original_name": "Yuji Honda",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061db1",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121178,
+        "known_for_department": "Production",
+        "name": "William Shelton",
+        "original_name": "William Shelton",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061d75",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121175,
+        "known_for_department": "Acting",
+        "name": "George P. Breakston",
+        "original_name": "George P. Breakston",
+        "popularity": 0.1737,
+        "profile_path": "/1pR2MFhw47ur0AnjCcUOfG7mb6K.jpg",
+        "credit_id": "52fe46da9251416c91061d7b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121175,
+        "known_for_department": "Acting",
+        "name": "George P. Breakston",
+        "original_name": "George P. Breakston",
+        "popularity": 0.1737,
+        "profile_path": "/1pR2MFhw47ur0AnjCcUOfG7mb6K.jpg",
+        "credit_id": "52fe46da9251416c91061d69",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121180,
+        "known_for_department": "Production",
+        "name": "Robert V. Perkins",
+        "original_name": "Robert V. Perkins",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061d87",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121183,
+        "known_for_department": "Art",
+        "name": "Noboru Miyakuni",
+        "original_name": "Noboru Miyakuni",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061d9f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121181,
+        "known_for_department": "Sound",
+        "name": "Hirooki Ogawa",
+        "original_name": "小川寛興",
+        "popularity": 0.275,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061d8d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121187,
+        "known_for_department": "Production",
+        "name": "C.D. Sykes",
+        "original_name": "C.D. Sykes",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061db7",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121179,
+        "known_for_department": "Production",
+        "name": "Ryuichi Aimono",
+        "original_name": "Ryuichi Aimono",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061d81",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121175,
+        "known_for_department": "Acting",
+        "name": "George P. Breakston",
+        "original_name": "George P. Breakston",
+        "popularity": 0.1737,
+        "profile_path": "/1pR2MFhw47ur0AnjCcUOfG7mb6K.jpg",
+        "credit_id": "52fe46da9251416c91061d5d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121190,
+        "known_for_department": "Acting",
+        "name": "Shinpei Takagi",
+        "original_name": "高木新平",
+        "popularity": 0.4185,
+        "profile_path": "/qXuhGryqHToin3yHSvrfefRkyzF.jpg",
+        "credit_id": "52fe46da9251416c91061dc9",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121189,
+        "known_for_department": "Sound",
+        "name": "Chisato Ota",
+        "original_name": "Chisato Ota",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061dc3",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121184,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fumiko Yamamoto",
+        "original_name": "Fumiko Yamamoto",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "52fe46da9251416c91061da5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121176,
+        "known_for_department": "Editing",
+        "name": "Kenneth G. Crane",
+        "original_name": "Kenneth G. Crane",
+        "popularity": 0.5479,
+        "profile_path": null,
+        "credit_id": "53cbcc170e0a265df30022ad",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121176,
+        "known_for_department": "Editing",
+        "name": "Kenneth G. Crane",
+        "original_name": "Kenneth G. Crane",
+        "popularity": 0.5479,
+        "profile_path": null,
+        "credit_id": "53cbcc1f0e0a265dfa002147",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121182,
+        "known_for_department": "Camera",
+        "name": "David Mason",
+        "original_name": "David Mason",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6202a87c1443f4006958133c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121188,
+        "known_for_department": "Crew",
+        "name": "Dan Takahashi",
+        "original_name": "Dan Takahashi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5b5c573a9251415224012b1c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  }
+}

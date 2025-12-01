@@ -1,0 +1,188 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.darkrealmmovie.com/",
+  "id": 224511,
+  "imdb_id": "tt3038680",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dark Realm",
+  "overview": "Dark Realm is the story of a Master Illusionist inspired by the Occult who may actually be in league with evil forces to assure his success. It may also bring destruction for him, and everyone else in his macabre show.",
+  "popularity": 5.8398,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-09-29",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Master Illusionist with a Deadly Secret",
+  "title": "Dark Realm",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104471,
+        "known_for_department": "Acting",
+        "name": "Ron Fitzgerald",
+        "original_name": "Ron Fitzgerald",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Master of the Realm",
+        "credit_id": "52fe4e409251416c751503b3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98670,
+        "known_for_department": "Acting",
+        "name": "Vinnie Bilancio",
+        "original_name": "Vinnie Bilancio",
+        "popularity": 0.1531,
+        "profile_path": "/800QdNHyNsYVj6kSf6VZi4tqVOK.jpg",
+        "cast_id": 3,
+        "character": "Price",
+        "credit_id": "52fe4e409251416c751503b7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 228362,
+        "known_for_department": "Acting",
+        "name": "Kaylee Williams",
+        "original_name": "Kaylee Williams",
+        "popularity": 0.7995,
+        "profile_path": "/k9VsCuvsKYGNTjgkaUbhD6BtuZL.jpg",
+        "cast_id": 4,
+        "character": "Raven",
+        "credit_id": "52fe4e409251416c751503bb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1210090,
+        "known_for_department": "Acting",
+        "name": "Cherries Jubalie",
+        "original_name": "Cherries Jubalie",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Scary Cherrie",
+        "credit_id": "52fe4e409251416c751503bf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031244,
+        "known_for_department": "Acting",
+        "name": "Heather Dorff",
+        "original_name": "Heather Dorff",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Sister Midnight",
+        "credit_id": "52fe4e409251416c751503c3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104473,
+        "known_for_department": "Acting",
+        "name": "Al Burke",
+        "original_name": "Al Burke",
+        "popularity": 0.1579,
+        "profile_path": "/gMQmzq2C2eUEpOBKrb3RpE5G1jc.jpg",
+        "cast_id": 7,
+        "character": "Head of Security",
+        "credit_id": "52fe4e409251416c751503c7",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98670,
+        "known_for_department": "Acting",
+        "name": "Vinnie Bilancio",
+        "original_name": "Vinnie Bilancio",
+        "popularity": 0.1531,
+        "profile_path": "/800QdNHyNsYVj6kSf6VZi4tqVOK.jpg",
+        "credit_id": "52fe4e409251416c751503af",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98670,
+        "known_for_department": "Acting",
+        "name": "Vinnie Bilancio",
+        "original_name": "Vinnie Bilancio",
+        "popularity": 0.1531,
+        "profile_path": "/800QdNHyNsYVj6kSf6VZi4tqVOK.jpg",
+        "credit_id": "52fe4e409251416c751503d3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104471,
+        "known_for_department": "Acting",
+        "name": "Ron Fitzgerald",
+        "original_name": "Ron Fitzgerald",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "credit_id": "52fe4e409251416c751503cd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19707,
+        "known_for_department": "Production",
+        "name": "Charles Band",
+        "original_name": "Charles Band",
+        "popularity": 1.1057,
+        "profile_path": "/mfTZ5yBOLqxdJ4YG0kHaA5rY0G4.jpg",
+        "credit_id": "650effe36f53e10aa3bff7cc",
+        "department": "Production",
+        "job": "Associate Producer"
+      }
+    ]
+  }
+}

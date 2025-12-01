@@ -1,0 +1,519 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "http://shockwavedarkside.com/",
+  "id": 279965,
+  "imdb_id": "tt1972752",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shockwave Darkside",
+  "overview": "The nano-plague that poisoned Earth’s water supply has reached its 60-year critical mass. The Unlight enemy forced the first exodus to the moon where the outlawed banished population was supposed to die. But now the Unlights have launched from Earth and are amassing on the south-west sector of the darkside of the moon for a massive ice-mining operation. It will be the last Great War and lunar troops are sent into battle for the precious resource. However one squad is shot down and the five surviving soldiers find themselves stranded. Cut off and behind enemy lines, they start a dangerous journey through snipers and minefields back to their extraction point with only 36 hours of oxygen left. As their numbers dwindle and nerves fray, they make an amazing discovery about Earth’s satellite that just might save their lives. From THE BANSHEE CHAPTER producers comes a space shocker with gravity.",
+  "popularity": 5.4605,
+  "poster_path": "/vR6KqoDWFnXXb9dTLF3QddCAsgC.jpg",
+  "production_companies": [
+    {
+      "id": 77029,
+      "logo_path": null,
+      "name": "Red Giant Media",
+      "origin_country": ""
+    },
+    {
+      "id": 19601,
+      "logo_path": null,
+      "name": "Favorit Film",
+      "origin_country": "RU"
+    },
+    {
+      "id": 77028,
+      "logo_path": "/4d2dzq45lPrCJLZhWdh9BCT1LnY.png",
+      "name": "Pipeline Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-08-22",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Shockwave Darkside",
+  "video": false,
+  "vote_average": 1.2,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32029,
+        "known_for_department": "Acting",
+        "name": "Bill Sage",
+        "original_name": "Bill Sage",
+        "popularity": 0.5126,
+        "profile_path": "/3q2r6eDcC843GgVHVA7mSehcqC9.jpg",
+        "cast_id": 3,
+        "character": "Dalton",
+        "credit_id": "53b483a80e0a26597d00d2c6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1031067,
+        "known_for_department": "Acting",
+        "name": "Sonequa Martin-Green",
+        "original_name": "Sonequa Martin-Green",
+        "popularity": 1.8351,
+        "profile_path": "/xhxKESzX3R47VXLIN3lCHYHHaY7.jpg",
+        "cast_id": 4,
+        "character": "Private Lang",
+        "credit_id": "53b484030e0a26598900d3ef",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73590,
+        "known_for_department": "Acting",
+        "name": "Meiling Melançon",
+        "original_name": "Meiling Melançon",
+        "popularity": 0.2382,
+        "profile_path": "/wajlMthHDX85HstRRvc2STExty6.jpg",
+        "cast_id": 2,
+        "character": "The Machine",
+        "credit_id": "53b483230e0a26598c00d6a3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141041,
+        "known_for_department": "Acting",
+        "name": "Rich Ceraulo Ko",
+        "original_name": "Rich Ceraulo Ko",
+        "popularity": 0.2612,
+        "profile_path": "/gQvp09PdcGaUC1vsHytENzt4ALw.jpg",
+        "cast_id": 28,
+        "character": "Corporal Kim",
+        "credit_id": "573dc81592514138d50003d6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 168280,
+        "known_for_department": "Acting",
+        "name": "Alexander Cendese",
+        "original_name": "Alexander Cendese",
+        "popularity": 0.2236,
+        "profile_path": "/TbQkF7raot9QUYew7KY7FjqNJ.jpg",
+        "cast_id": 29,
+        "character": "Private Schorr",
+        "credit_id": "573dc82f92514138d50003e3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622415,
+        "known_for_department": "Acting",
+        "name": "Nedra Gallegos",
+        "original_name": "Nedra Gallegos",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Brooks",
+        "credit_id": "573dc846c3a36875840003c1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622416,
+        "known_for_department": "Acting",
+        "name": "Conan Marchi",
+        "original_name": "Conan Marchi",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Private Kiminski",
+        "credit_id": "573dc85dc3a3685e4c0011fa",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1336732,
+        "known_for_department": "Writing",
+        "name": "Jay Weisman",
+        "original_name": "Jay Weisman",
+        "popularity": 0.089,
+        "profile_path": null,
+        "credit_id": "53b482070e0a26598300d23d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1336732,
+        "known_for_department": "Writing",
+        "name": "Jay Weisman",
+        "original_name": "Jay Weisman",
+        "popularity": 0.089,
+        "profile_path": null,
+        "credit_id": "53b482bb0e0a26597d00d29b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1622395,
+        "known_for_department": "Camera",
+        "name": "Joe Gabriel",
+        "original_name": "Joe Gabriel",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "631dc59d9c24fc007a4628d7",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1622403,
+        "known_for_department": "Art",
+        "name": "Christopher Plummer",
+        "original_name": "Christopher Plummer",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "573dc5bdc3a3686dc500038d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622409,
+        "known_for_department": "Visual Effects",
+        "name": "Wayne Harry Johnson Jr.",
+        "original_name": "Wayne Harry Johnson Jr.",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "573dc6e0c3a3685e4c0011c4",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58228,
+        "known_for_department": "Writing",
+        "name": "Kevin Fox",
+        "original_name": "Kevin Fox",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "573dc00c92514138d50002de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622401,
+        "known_for_department": "Editing",
+        "name": "Doug Fitch",
+        "original_name": "Doug Fitch",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "573dc54c92514136720023f8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622411,
+        "known_for_department": "Visual Effects",
+        "name": "Keith McGregor",
+        "original_name": "Keith McGregor",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "573dc70f9251413db5000365",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622392,
+        "known_for_department": "Writing",
+        "name": "Dan DeFilippo",
+        "original_name": "Dan DeFilippo",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "573dbfbd92514147d40010e2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489549,
+        "known_for_department": "Production",
+        "name": "Eric S. Dow",
+        "original_name": "Eric S. Dow",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "573dc5389251414bd8001153",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622404,
+        "known_for_department": "Visual Effects",
+        "name": "Ryan O'Rourke",
+        "original_name": "Ryan O'Rourke",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "573dc5e59251413db5000328",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232170,
+        "known_for_department": "Lighting",
+        "name": "Sam Krueger",
+        "original_name": "Sam Krueger",
+        "popularity": 0.0655,
+        "profile_path": "/gHkc2UkFtMALkOMvp3z5p92xrL5.jpg",
+        "credit_id": "573dc690c3a3680190000d67",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622393,
+        "known_for_department": "Production",
+        "name": "Dave Marken",
+        "original_name": "Dave Marken",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "573dc02192514138d50002e1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45900,
+        "known_for_department": "Sound",
+        "name": "Andreas Weidinger",
+        "original_name": "Andreas Weidinger",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "573dc060c3a3687518000233",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459737,
+        "known_for_department": "Visual Effects",
+        "name": "Leslie Watters",
+        "original_name": "Leslie Watters",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "573dc5f9c3a3687584000360",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586989,
+        "known_for_department": "Sound",
+        "name": "John Northcraft",
+        "original_name": "John Northcraft",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "573dc781c3a3685e4c0011db",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94470,
+        "known_for_department": "Production",
+        "name": "Stephen Vincent",
+        "original_name": "Stephen Vincent",
+        "popularity": 0.5171,
+        "profile_path": null,
+        "credit_id": "573dc58b92514147d40011a3",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61312,
+        "known_for_department": "Production",
+        "name": "Aimee Schoof",
+        "original_name": "Aimee Schoof",
+        "popularity": 0.0773,
+        "profile_path": "/s2v0wUsxlwk6UX2E1lQloXT4etz.jpg",
+        "credit_id": "573dc04dc3a3680190000cb0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622402,
+        "known_for_department": "Production",
+        "name": "Mike DeMayo",
+        "original_name": "Mike DeMayo",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "573dc573c3a3681b4e00285d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622414,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eric Rodrigues",
+        "original_name": "Eric Rodrigues",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "573dc7cbc3a3685e4c0011e9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4906,
+        "known_for_department": "Production",
+        "name": "Sig De Miguel",
+        "original_name": "Sig De Miguel",
+        "popularity": 0.1093,
+        "profile_path": null,
+        "credit_id": "573dc55d9251413dfc0002f2",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61310,
+        "known_for_department": "Production",
+        "name": "Isen Robbins",
+        "original_name": "Isen Robbins",
+        "popularity": 0.6059,
+        "profile_path": "/rIp0iNuSEedqVb1jsIJdfgGOunX.jpg",
+        "credit_id": "573dc039925141392b0003a4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622394,
+        "known_for_department": "Crew",
+        "name": "Robert Fiske",
+        "original_name": "Robert Fiske",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "573dc0c9c3a3685e4c001108",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1622413,
+        "known_for_department": "Sound",
+        "name": "Allison Howe",
+        "original_name": "Allison Howe",
+        "popularity": 0.1686,
+        "profile_path": null,
+        "credit_id": "5c13b64c0e0a2603853b99fa",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622412,
+        "known_for_department": "Crew",
+        "name": "Spencer Witter",
+        "original_name": "Spencer Witter",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5c13b65fc3a36866c535c5f1",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1790899,
+        "known_for_department": "Editing",
+        "name": "Jeremy Wanek",
+        "original_name": "Jeremy Wanek",
+        "popularity": 0.7265,
+        "profile_path": null,
+        "credit_id": "5c15e5c20e0a2641003b3300",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  }
+}

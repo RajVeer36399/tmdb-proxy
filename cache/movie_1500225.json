@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1500225,
+  "imdb_id": null,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "MANGIA!",
+  "overview": "",
+  "popularity": 5.4172,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 82708,
+      "logo_path": null,
+      "name": "Bella Film",
+      "origin_country": ""
+    },
+    {
+      "id": 104800,
+      "logo_path": "/dQcywJCmWry749huSdi3jQbP5i.png",
+      "name": "Apulia Film Commission",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-04-30",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "MANGIA!",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5512813,
+        "known_for_department": "Directing",
+        "name": "Anna Piscopo",
+        "original_name": "Anna Piscopo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "68d43e73c3d8c7db4684024a",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5512813,
+        "known_for_department": "Directing",
+        "name": "Anna Piscopo",
+        "original_name": "Anna Piscopo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6852d1c6d398368fdf312804",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5512813,
+        "known_for_department": "Directing",
+        "name": "Anna Piscopo",
+        "original_name": "Anna Piscopo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68d43996584c0febe51f9122",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5512813,
+        "known_for_department": "Directing",
+        "name": "Anna Piscopo",
+        "original_name": "Anna Piscopo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68d439a2b2596d90d60e3dc7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052172,
+        "known_for_department": "Production",
+        "name": "Galliano Juso",
+        "original_name": "Galliano Juso",
+        "popularity": 1.0267,
+        "profile_path": "/dNjN6nj1IHMC1oq4v1N2UY9sFxU.jpg",
+        "credit_id": "68d43a12b1bd15054449f6bc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052172,
+        "known_for_department": "Production",
+        "name": "Galliano Juso",
+        "original_name": "Galliano Juso",
+        "popularity": 1.0267,
+        "profile_path": "/dNjN6nj1IHMC1oq4v1N2UY9sFxU.jpg",
+        "credit_id": "68d43a246018a181656d5505",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

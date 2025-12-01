@@ -1,0 +1,425 @@
+{
+  "adult": false,
+  "backdrop_path": "/iHYGFviChoxJ9orjTlfkc65sA2Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 874251,
+  "imdb_id": "tt17663362",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Royal Seaside Romance",
+  "overview": "A real estate agent helps a prince who keeps his identity a secret buy property in his magical seaside hometown. After seeing the houses and spending time together, they become friends and then team up to stop the rebuilding of the town's port. But will the prince's true identity prevent a romance between them?",
+  "popularity": 5.9478,
+  "poster_path": "/ihhHKmRyloQFtx1fKfZ6FGS5omN.jpg",
+  "production_companies": [
+    {
+      "id": 140422,
+      "logo_path": "/bdzcN8jo9l77g5zKqPlxW3CkejM.png",
+      "name": "Champlain Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 148674,
+      "logo_path": null,
+      "name": "CME Spring Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 15645,
+      "logo_path": "/lUIW54MXFbB94IKiVzwTRu1R3UX.png",
+      "name": "Reel One Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2022-06-22",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Royal Seaside Romance",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1050328,
+        "known_for_department": "Acting",
+        "name": "Brittany Bristow",
+        "original_name": "Brittany Bristow",
+        "popularity": 1.1423,
+        "profile_path": "/e0eJSoJ2ntcCmf3PaTtCa0D8a4H.jpg",
+        "cast_id": 2,
+        "character": "Erin",
+        "credit_id": "61fc01011e259a009df53fc0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229557,
+        "known_for_department": "Acting",
+        "name": "Dan Jeannotte",
+        "original_name": "Dan Jeannotte",
+        "popularity": 0.9201,
+        "profile_path": "/8isY18xvGnYwYnqw9880zUT1tty.jpg",
+        "cast_id": 3,
+        "character": "Theo",
+        "credit_id": "61fc01088c0a4800c0fc3cda",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81099,
+        "known_for_department": "Acting",
+        "name": "Scott Wentworth",
+        "original_name": "Scott Wentworth",
+        "popularity": 0.206,
+        "profile_path": "/doMJiwnxFI0xdLDU72jcjJkm8Jc.jpg",
+        "cast_id": 5,
+        "character": "Frank",
+        "credit_id": "6202f60dd04d1a001e309a0f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1968192,
+        "known_for_department": "Acting",
+        "name": "Liz Taylor",
+        "original_name": "Liz Taylor",
+        "popularity": 0.0951,
+        "profile_path": "/ssLr1pVOBkAGXMOTW7a4SRGbhKS.jpg",
+        "cast_id": 6,
+        "character": "Bess",
+        "credit_id": "6202f629a44d090044908001",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2980402,
+        "known_for_department": "Acting",
+        "name": "Dianne Aguilar",
+        "original_name": "Dianne Aguilar",
+        "popularity": 0.3278,
+        "profile_path": "/nCVZidyE1Jx6Uwvpi9Z9Mz29YWL.jpg",
+        "cast_id": 7,
+        "character": "Harper",
+        "credit_id": "6202f6324a52f8006a794d2a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1016019,
+        "known_for_department": "Acting",
+        "name": "Neil Whitely",
+        "original_name": "Neil Whitely",
+        "popularity": 0.6514,
+        "profile_path": "/taPe9RjvEkgamMXiWqjC9EWSKRt.jpg",
+        "cast_id": 8,
+        "character": "Mitch",
+        "credit_id": "6202f63b4a52f8006a794d41",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87147,
+        "known_for_department": "Acting",
+        "name": "Sarah Deakins",
+        "original_name": "Sarah Deakins",
+        "popularity": 0.5005,
+        "profile_path": "/qvZUGjRpxmLPnCQ0O40Ug9ieMT7.jpg",
+        "cast_id": 9,
+        "character": "Martha",
+        "credit_id": "6202f64409ed8f00d2674d08",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123973,
+        "known_for_department": "Acting",
+        "name": "Peter Cockett",
+        "original_name": "Peter Cockett",
+        "popularity": 0.8177,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "King Henry",
+        "credit_id": "6202f64c31d09b00b32b38af",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90365,
+        "known_for_department": "Directing",
+        "name": "Graeme Campbell",
+        "original_name": "Graeme Campbell",
+        "popularity": 0.2263,
+        "profile_path": null,
+        "credit_id": "6140d9e7aaf897002a0161e6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3418620,
+        "known_for_department": "Directing",
+        "name": "Aaron Duncan",
+        "original_name": "Aaron Duncan",
+        "popularity": 1.3936,
+        "profile_path": null,
+        "credit_id": "6202f91131d09b00dea7f372",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1883235,
+        "known_for_department": "Production",
+        "name": "Sebastian Battro",
+        "original_name": "Sebastian Battro",
+        "popularity": 0.5444,
+        "profile_path": "/4wxXkceoRV9ZTWOK1O3aSb7dh4.jpg",
+        "credit_id": "6202f89d10923000b642bef2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2216863,
+        "known_for_department": "Production",
+        "name": "Rebeca Hughes",
+        "original_name": "Rebeca Hughes",
+        "popularity": 0.6327,
+        "profile_path": "/6OlMyZkipnbDoKd9aFj5CoGGHRK.jpg",
+        "credit_id": "6202f8d4db8a000106ba788b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3418619,
+        "known_for_department": "Art",
+        "name": "Sarah Nicole Lang",
+        "original_name": "Sarah Nicole Lang",
+        "popularity": 0.6758,
+        "profile_path": null,
+        "credit_id": "6202f905a44d09009610b0b2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1795616,
+        "known_for_department": "Editing",
+        "name": "Robert K. Sprogis",
+        "original_name": "Robert K. Sprogis",
+        "popularity": 0.0659,
+        "profile_path": null,
+        "credit_id": "6202f8f941eee100681cd3e7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56982,
+        "known_for_department": "Production",
+        "name": "Tom Berry",
+        "original_name": "Tom Berry",
+        "popularity": 0.3864,
+        "profile_path": "/up0VPkoOUYFIeDrKGTsLSv0HAoE.jpg",
+        "credit_id": "6202f8a530f79c008d83f138",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2174366,
+        "known_for_department": "Production",
+        "name": "Dominic Ewenson",
+        "original_name": "Dominic Ewenson",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6202f8bdce997a004356d549",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2267574,
+        "known_for_department": "Production",
+        "name": "Louisa Cadywould",
+        "original_name": "Louisa Cadywould",
+        "popularity": 0.0898,
+        "profile_path": "/r4n5TR5NhCN8NVGyZtUn1EFXBUc.jpg",
+        "credit_id": "6202f8ac6cf3d500d58f287e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1511523,
+        "known_for_department": "Production",
+        "name": "Breanne Laplante",
+        "original_name": "Breanne Laplante",
+        "popularity": 0.3124,
+        "profile_path": null,
+        "credit_id": "6202f8cdffd44d0069066d86",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1742048,
+        "known_for_department": "Crew",
+        "name": "Marc Forand",
+        "original_name": "Marc Forand",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6202f8f252497800981a3459",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3418621,
+        "known_for_department": "Art",
+        "name": "Baldeep Randhawa",
+        "original_name": "Baldeep Randhawa",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6202f92bd04d1a01172fe705",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2168419,
+        "known_for_department": "Production",
+        "name": "Suzanne Chapman",
+        "original_name": "Suzanne Chapman",
+        "popularity": 0.8128,
+        "profile_path": null,
+        "credit_id": "6202f8b5629b2c0066c9e43b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223951,
+        "known_for_department": "Writing",
+        "name": "Steve Turner",
+        "original_name": "Steve Turner",
+        "popularity": 0.1037,
+        "profile_path": null,
+        "credit_id": "6202f5f2982f74009aefb182",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2613079,
+        "known_for_department": "Sound",
+        "name": "Ari Posner",
+        "original_name": "Ari Posner",
+        "popularity": 0.0682,
+        "profile_path": "/3sCgYKd01OVGXkXMIagI7BYsjHA.jpg",
+        "credit_id": "6202f8e6271ca5001c43694f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1261269,
+        "known_for_department": "Production",
+        "name": "Linda Stregger",
+        "original_name": "Linda Stregger",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "6202f8dca44d09009610b026",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1886335,
+        "known_for_department": "Production",
+        "name": "Adam Gowland",
+        "original_name": "Adam Gowland",
+        "popularity": 0.8077,
+        "profile_path": "/uNHwHtENr02inNtrPZGk5tVSU6z.jpg",
+        "credit_id": "6202f8c641eee100cb1f02ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3264712,
+        "known_for_department": "Directing",
+        "name": "Alessia Meta",
+        "original_name": "Alessia Meta",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6202f9206e938a001d58944f",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      }
+    ]
+  }
+}

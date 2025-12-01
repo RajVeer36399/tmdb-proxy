@@ -1,0 +1,170 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1526965,
+  "imdb_id": "tt0152491",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Sneha Bandhan",
+  "overview": "Snehalata’s life takes a dramatic turn when love, duty, and circumstance pull her between a poor orphan she once cared for and the wealthy man she marries. Her journey weaves through sacrifice, suspicion, separation, and an unexpected rise to fame, as the ties of love and family are tested across years of hardship and change.",
+  "popularity": 6.6456,
+  "poster_path": "/tS6g9yO6GtrLPHRUzZbw2rR5JGM.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1940-12-20",
+  "revenue": 0,
+  "runtime": 142,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sneha Bandhan",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2281767,
+        "known_for_department": "Acting",
+        "name": "Bibbo",
+        "original_name": "Bibbo",
+        "popularity": 0.0858,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Snehlata",
+        "credit_id": "689581abb880bfd73c99ad06",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1475730,
+        "known_for_department": "Acting",
+        "name": "Eddie Billimoria",
+        "original_name": "Eddie Billimoria",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Pratap",
+        "credit_id": "689581b87e1e2deb77a330f2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5546741,
+        "known_for_department": "Acting",
+        "name": "Navin Yagnik",
+        "original_name": "Navin Yagnik",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Gopal",
+        "credit_id": "689581c27ab59621c7795aea",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4453496,
+        "known_for_department": "Acting",
+        "name": "Muzammil Khan",
+        "original_name": "Muzammil Khan",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Kamal",
+        "credit_id": "689581cf223615fd5a9db6c0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 630116,
+        "known_for_department": "Acting",
+        "name": "Pratima Devi",
+        "original_name": "Pratima Devi",
+        "popularity": 0.5033,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "6895829708a8e46ddb92268f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1341928,
+        "known_for_department": "Acting",
+        "name": "Rajkumari",
+        "original_name": "Rajkumari",
+        "popularity": 0.0327,
+        "profile_path": "/k74QtdrIZnxTMNEfXWpAglXnM0m.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "6895829e85bd9095da795c5d",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4211450,
+        "known_for_department": "Directing",
+        "name": "Jagatrai Pesumal Advani",
+        "original_name": "Jagatrai Pesumal Advani",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "689581e969b67aafb0c6eaf0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4211450,
+        "known_for_department": "Directing",
+        "name": "Jagatrai Pesumal Advani",
+        "original_name": "Jagatrai Pesumal Advani",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6895820d042ec8940b99ab05",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1752140,
+        "known_for_department": "Sound",
+        "name": "Pannalal Ghosh",
+        "original_name": "Pannalal Ghosh",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68958223ef104ce52207c98b",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

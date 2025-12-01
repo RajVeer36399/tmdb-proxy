@@ -1,0 +1,312 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1150369,
+  "imdb_id": "tt36963968",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "John Rambo",
+  "overview": "The origin story of a young John Rambo during the Vietnam War.",
+  "popularity": 6.3053,
+  "poster_path": "/xARFzMAEjTQWWXinmFPtm78CRY3.jpg",
+  "production_companies": [
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 126013,
+      "logo_path": null,
+      "name": "Templeton Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 148930,
+      "logo_path": "/5vQU9dfSiYNQyTuciY8T3tUfI4a.png",
+      "name": "Bonfire Legend",
+      "origin_country": "US"
+    },
+    {
+      "id": 106544,
+      "logo_path": "/psd84iF7PTGrKf4yFOStKj8JbAh.png",
+      "name": "AGBO",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "title": "John Rambo",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1253353,
+        "known_for_department": "Acting",
+        "name": "Noah Centineo",
+        "original_name": "Noah Centineo",
+        "popularity": 5.0069,
+        "profile_path": "/kXLuzSWRqM2P45uNcgb0v3H8dnE.jpg",
+        "cast_id": 16,
+        "character": "John Rambo",
+        "credit_id": "689a22dbba053036a66d703b",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 16545,
+        "known_for_department": "Writing",
+        "name": "David Morrell",
+        "original_name": "David Morrell",
+        "popularity": 1.025,
+        "profile_path": "/7qROomgiNAvmm0EWzb8y7fJ6fXy.jpg",
+        "credit_id": "64fd9304efea7a0137d10eda",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16483,
+        "known_for_department": "Acting",
+        "name": "Sylvester Stallone",
+        "original_name": "Sylvester Stallone",
+        "popularity": 8.9266,
+        "profile_path": "/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+        "credit_id": "64ac421043494f01032b9a1c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145228,
+        "known_for_department": "Directing",
+        "name": "Jalmari Helander",
+        "original_name": "Jalmari Helander",
+        "popularity": 0.8294,
+        "profile_path": "/vqmzsl8dQpjiFklM40HGCSRAcis.jpg",
+        "credit_id": "6826be3714ec3e44d10a84ef",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2804291,
+        "known_for_department": "Writing",
+        "name": "Rory Haines",
+        "original_name": "Rory Haines",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "6826be5a2917a8276b6ef86c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2456703,
+        "known_for_department": "Writing",
+        "name": "Sohrab Noshirvani",
+        "original_name": "Sohrab Noshirvani",
+        "popularity": 1.3031,
+        "profile_path": null,
+        "credit_id": "6826be66d332be6464a179b9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2153271,
+        "known_for_department": "Production",
+        "name": "Amanda Presmyk",
+        "original_name": "Amanda Presmyk",
+        "popularity": 1.0678,
+        "profile_path": "/hzYeBmu63Lh3pn52goDur1X1j2I.jpg",
+        "credit_id": "6826cddd232a066bb176823e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939456,
+        "known_for_department": "Production",
+        "name": "Dallas Sonnier",
+        "original_name": "Dallas Sonnier",
+        "popularity": 1.2458,
+        "profile_path": "/lkPw23rSkKujUKYXyKmIT3xDaus.jpg",
+        "credit_id": "6826cde51b561641f04b56b0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45829,
+        "known_for_department": "Production",
+        "name": "Trevor Short",
+        "original_name": "Trevor Short",
+        "popularity": 0.6402,
+        "profile_path": null,
+        "credit_id": "6826cded555633850eada5de",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17209,
+        "known_for_department": "Production",
+        "name": "Avi Lerner",
+        "original_name": "Avi Lerner",
+        "popularity": 0.3559,
+        "profile_path": "/tjQG1pIvtGL0wgvRlo76pMkUX0b.jpg",
+        "credit_id": "6826cdf6555633850eada5e1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1409855,
+        "known_for_department": "Production",
+        "name": "Jonathan Yunger",
+        "original_name": "Jonathan Yunger",
+        "popularity": 0.8696,
+        "profile_path": "/pnn5PwmyTJSBIjK2n8HPJn2GqtK.jpg",
+        "credit_id": "6826cdfdef9ce2e32d0a85a8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 16486,
+        "known_for_department": "Production",
+        "name": "Kevin King Templeton",
+        "original_name": "Kevin King Templeton",
+        "popularity": 1.0182,
+        "profile_path": "/aG1wPhMwLoJD5pYVeylMQ45DoyT.jpg",
+        "credit_id": "6826ce0c541d4596197681ee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17207,
+        "known_for_department": "Production",
+        "name": "Les Weldon",
+        "original_name": "Les Weldon",
+        "popularity": 0.5744,
+        "profile_path": null,
+        "credit_id": "6826ce139b20cff7d67689aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145228,
+        "known_for_department": "Directing",
+        "name": "Jalmari Helander",
+        "original_name": "Jalmari Helander",
+        "popularity": 0.8294,
+        "profile_path": "/vqmzsl8dQpjiFklM40HGCSRAcis.jpg",
+        "credit_id": "6827486b555633850eada7ef",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19272,
+        "known_for_department": "Directing",
+        "name": "Joe Russo",
+        "original_name": "Joe Russo",
+        "popularity": 0.6142,
+        "profile_path": "/o0OXjFzL10jCy89iAs7UzzSbyoK.jpg",
+        "credit_id": "690bbbdb7abb084efb78a767",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19271,
+        "known_for_department": "Directing",
+        "name": "Anthony Russo",
+        "original_name": "Anthony Russo",
+        "popularity": 0.8207,
+        "profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg",
+        "credit_id": "690bbbead41017421578a5be",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1751775,
+        "known_for_department": "Production",
+        "name": "Angela Russo-Otstot",
+        "original_name": "Angela Russo-Otstot",
+        "popularity": 0.2289,
+        "profile_path": "/outhE6HJdAv8V4hMRdeWwQotxEA.jpg",
+        "credit_id": "690bbc11f942afb935e18871",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1397011,
+        "known_for_department": "Production",
+        "name": "Michael Disco",
+        "original_name": "Michael Disco",
+        "popularity": 0.4521,
+        "profile_path": "/f0QTlbrBQOhDtSl9flRJAnzb0r8.jpg",
+        "credit_id": "690bbc27ed025a428df6d1d8",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/amIWhQ4D6eBV4kLwOG5a3urE3E8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 471872,
+  "imdb_id": "tt10499474",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "10 Days In Sun City",
+  "overview": "A potpourri of love, drama, passion and culture, \"10 Days in Sun City\" is a comedy-drama that sees Akpos on another ‘adventure’, this time, to South Africa, with his girlfriend Bianca.",
+  "popularity": 6.2135,
+  "poster_path": "/ghLfQZ7ngsYlWk1M6CNHrHgpIiZ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NG",
+      "name": "Nigeria"
+    }
+  ],
+  "release_date": "2017-06-24",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "10 Days In Sun City",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1746322,
+        "known_for_department": "Acting",
+        "name": "Adesua Etomi",
+        "original_name": "Adesua Etomi",
+        "popularity": 0.7854,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "adesua",
+        "credit_id": "5ad34cfa0e0a266c31028a16",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1680718,
+        "known_for_department": "Acting",
+        "name": "Yvonne Jegede",
+        "original_name": "Yvonne Jegede",
+        "popularity": 0.1769,
+        "profile_path": "/5nXsMPYA7leMU79a2m5tTxj19g0.jpg",
+        "cast_id": 2,
+        "character": "-",
+        "credit_id": "5ad34d0cc3a3683ef10284b0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1920947,
+        "known_for_department": "Acting",
+        "name": "Ayodeji Richard Makun",
+        "original_name": "Ayodeji Richard Makun",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "AY",
+        "credit_id": "5ad34d2fc3a3683eed0277f3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349408,
+        "known_for_department": "Acting",
+        "name": "Richard Mofe-Damijo",
+        "original_name": "Richard Mofe-Damijo",
+        "popularity": 0.2642,
+        "profile_path": "/ycEuQzNuKwTNiCniVR2X8YbPUWP.jpg",
+        "cast_id": 4,
+        "character": "RMD",
+        "credit_id": "5ad34d479251417367025471",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1804957,
+        "known_for_department": "Acting",
+        "name": "Alexx Ekubo",
+        "original_name": "Alexx Ekubo",
+        "popularity": 0.2101,
+        "profile_path": "/6cAd0NkWHpDJJZRl6BRP8FGg1s4.jpg",
+        "cast_id": 5,
+        "character": "Alex Ekubo",
+        "credit_id": "5ad34d76925141737902715f",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1294887,
+        "known_for_department": "Camera",
+        "name": "Trevor A. Brown",
+        "original_name": "Trevor A. Brown",
+        "popularity": 0.4565,
+        "profile_path": null,
+        "credit_id": "60dab028b7fbbd0047cc9f1a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3140266,
+        "known_for_department": "Writing",
+        "name": "Kehinde Ogunlola",
+        "original_name": "Kehinde Ogunlola",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "60dab019d11e0e00763b6375",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1873813,
+        "known_for_department": "Directing",
+        "name": "Adze Ugah",
+        "original_name": "Adze Ugah",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "599ae10ac3a36868d701016c",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

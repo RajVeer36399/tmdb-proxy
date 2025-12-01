@@ -1,0 +1,367 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 165915,
+  "imdb_id": "tt0050382",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Faustina",
+  "overview": "A conquering woman of love, power, and fame is challenged by the devil, as he too wants to conquer all. Even the devil learns that there is no wrath like a woman’s scorn.",
+  "popularity": 6.6942,
+  "poster_path": "/dzPaoKjqlfdjLGcthoT6K7c18Cw.jpg",
+  "production_companies": [
+    {
+      "id": 87971,
+      "logo_path": null,
+      "name": "Chapalo Film",
+      "origin_country": "ES"
+    },
+    {
+      "id": 8051,
+      "logo_path": null,
+      "name": "Cesáreo González",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1957-05-13",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Faustina",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 996588,
+        "known_for_department": "Acting",
+        "name": "María Félix",
+        "original_name": "María Félix",
+        "popularity": 0.5048,
+        "profile_path": "/yyZfq511V7SHFi8BgvtUlOBisi9.jpg",
+        "cast_id": 2,
+        "character": "Faustina",
+        "credit_id": "52fe4c93c3a36847f8234ea1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 965,
+        "known_for_department": "Acting",
+        "name": "Fernando Fernán Gómez",
+        "original_name": "Fernando Fernán Gómez",
+        "popularity": 0.3303,
+        "profile_path": "/2itwZtBNlvA4B6tmFmNbQN9qvmu.jpg",
+        "cast_id": 3,
+        "character": "Mogon",
+        "credit_id": "52fe4c93c3a36847f8234ea5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14821,
+        "known_for_department": "Acting",
+        "name": "Fernando Rey",
+        "original_name": "Fernando Rey",
+        "popularity": 1.3018,
+        "profile_path": "/wBm61E3RVGaD6XShiPgBu5tEKn0.jpg",
+        "cast_id": 4,
+        "character": "Valentín",
+        "credit_id": "52fe4c93c3a36847f8234ea9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44424,
+        "known_for_department": "Acting",
+        "name": "Elisa Montés",
+        "original_name": "Elisa Montés",
+        "popularity": 0.2233,
+        "profile_path": "/m1bLYj62hv5KjE4G9rXrpbkTsho.jpg",
+        "cast_id": 5,
+        "character": "Elena",
+        "credit_id": "52fe4c93c3a36847f8234ead",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37584,
+        "known_for_department": "Acting",
+        "name": "José Isbert",
+        "original_name": "José Isbert",
+        "popularity": 0.2683,
+        "profile_path": "/7cyvDJ7H1snghX1qpmrWumehkci.jpg",
+        "cast_id": 6,
+        "character": "Sacerdote - tio de Guillermo",
+        "credit_id": "52fe4c93c3a36847f8234eb1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42411,
+        "known_for_department": "Acting",
+        "name": "Juan de Landa",
+        "original_name": "Juan de Landa",
+        "popularity": 0.0639,
+        "profile_path": "/hJ12HZOdSLqsKH6a3ky70R9GiBS.jpg",
+        "cast_id": 7,
+        "character": "Mefistófeles",
+        "credit_id": "52fe4c93c3a36847f8234eb5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12089,
+        "known_for_department": "Acting",
+        "name": "Tony Leblanc",
+        "original_name": "Tony Leblanc",
+        "popularity": 0.3137,
+        "profile_path": "/jOhUQZ8vCZ5pFpUXCFNTOf4qZbG.jpg",
+        "cast_id": 8,
+        "character": "Novio de Nieves",
+        "credit_id": "52fe4c93c3a36847f8234eb9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544572,
+        "known_for_department": "Acting",
+        "name": "Tomás Blanco",
+        "original_name": "Tomás Blanco",
+        "popularity": 0.4644,
+        "profile_path": "/oXITtURcZk9PpmwPOGA42Cx28zD.jpg",
+        "cast_id": 9,
+        "character": "Don José",
+        "credit_id": "52fe4c93c3a36847f8234ebd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228498,
+        "known_for_department": "Acting",
+        "name": "Xan das Bolas",
+        "original_name": "Xan das Bolas",
+        "popularity": 0.1047,
+        "profile_path": "/I3SknXZhJSkuKetGDLtmhoyji6.jpg",
+        "cast_id": 10,
+        "character": "Lipio",
+        "credit_id": "52fe4c93c3a36847f8234ec1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240202,
+        "known_for_department": "Acting",
+        "name": "Guillermo Marín",
+        "original_name": "Guillermo Marín",
+        "popularity": 0.5042,
+        "profile_path": "/3Fuc81RIxSZIbQxvmS8eXLbMRFP.jpg",
+        "cast_id": 13,
+        "character": "Príncipe Natalio",
+        "credit_id": "52fe4c93c3a36847f8234ec9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32146,
+        "known_for_department": "Art",
+        "name": "Santiago Ontañón",
+        "original_name": "Santiago Ontañón",
+        "popularity": 0.1545,
+        "profile_path": "/O0UYH3WGGdm1OZLV52SsIlrOLU.jpg",
+        "cast_id": 12,
+        "character": "Don Fernando",
+        "credit_id": "52fe4c93c3a36847f8234ec5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103529,
+        "known_for_department": "Acting",
+        "name": "Antonio Casas",
+        "original_name": "Antonio Casas",
+        "popularity": 0.5987,
+        "profile_path": "/x3CWO3b5ZlJiAXWtMvnF5n3ntwB.jpg",
+        "cast_id": 23,
+        "character": "Médico",
+        "credit_id": "5ad571839251415dc600c15c",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932708,
+        "known_for_department": "Directing",
+        "name": "José Luis Sáenz de Heredia",
+        "original_name": "José Luis Sáenz de Heredia",
+        "popularity": 0.1291,
+        "profile_path": "/m5cLYJUnoLjjSFGh5OzefrhekSW.jpg",
+        "credit_id": "52fe4c93c3a36847f8234e9d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932708,
+        "known_for_department": "Directing",
+        "name": "José Luis Sáenz de Heredia",
+        "original_name": "José Luis Sáenz de Heredia",
+        "popularity": 0.1291,
+        "profile_path": "/m5cLYJUnoLjjSFGh5OzefrhekSW.jpg",
+        "credit_id": "5ad570fe0e0a2660b300dcf8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66797,
+        "known_for_department": "Writing",
+        "name": "Johann Wolfgang von Goethe",
+        "original_name": "Johann Wolfgang von Goethe",
+        "popularity": 0.7185,
+        "profile_path": "/sZcfT3pqAqibYjnYOjD841vXjEk.jpg",
+        "credit_id": "5ad571050e0a2660b300dcfd",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1804975,
+        "known_for_department": "Production",
+        "name": "Eduardo de la Fuente",
+        "original_name": "Eduardo de la Fuente",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5ad5710f9251415dc300c879",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932708,
+        "known_for_department": "Directing",
+        "name": "José Luis Sáenz de Heredia",
+        "original_name": "José Luis Sáenz de Heredia",
+        "popularity": 0.1291,
+        "profile_path": "/m5cLYJUnoLjjSFGh5OzefrhekSW.jpg",
+        "credit_id": "5ad57117c3a3680c0f00dc39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1195031,
+        "known_for_department": "Sound",
+        "name": "Juan Quintero",
+        "original_name": "Juan Quintero",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "5ad5711e9251415dc600c0e7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 961531,
+        "known_for_department": "Camera",
+        "name": "Alfredo Fraile",
+        "original_name": "Alfredo Fraile",
+        "popularity": 0.0668,
+        "profile_path": null,
+        "credit_id": "5ad57125c3a3680c0500c4a1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1028290,
+        "known_for_department": "Editing",
+        "name": "Julio Peña",
+        "original_name": "Julio Peña",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "credit_id": "5ad5712fc3a3680c0f00dc7d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 976017,
+        "known_for_department": "Art",
+        "name": "Ramiro Gómez",
+        "original_name": "Ramiro Gómez",
+        "popularity": 0.5286,
+        "profile_path": null,
+        "credit_id": "5ad571380e0a2660b900d844",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1022668,
+        "known_for_department": "Directing",
+        "name": "Mateo Cano",
+        "original_name": "Mateo Cano",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "5ad5714bc3a3680bff00ba3d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "adult": false,
+  "backdrop_path": "/8lreZPhAuNjGmqukZWzY9sORmyl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 1262299,
+  "imdb_id": "tt31353337",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "El Apocalipsis de san Juan",
+  "overview": "Embark on an epic journey through time and faith with 'The Apocalypse of Saint John.' Join the Apostle John in a stunning visual narrative that unravels the visions of the End Times. Experience each vision like never before, with striking visual effects and epic scenes that immerse you in the apocalyptic narrative.",
+  "popularity": 11.0846,
+  "poster_path": "/zzXU586n4uDBgMtVMPPQW7UJwu8.jpg",
+  "production_companies": [
+    {
+      "id": 228871,
+      "logo_path": null,
+      "name": "Caravel Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2024-10-07",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "El Apocalipsis de san Juan",
+  "video": false,
+  "vote_average": 8.383,
+  "vote_count": 60,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593456,
+        "known_for_department": "Acting",
+        "name": "Ricardo Castro",
+        "original_name": "Ricardo Castro",
+        "popularity": 0.071,
+        "profile_path": "/v3c3w1QqdQoneuMu3pYHPq6g3zf.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "65fb436c3fe1600164f34806",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4605148,
+        "known_for_department": "Acting",
+        "name": "Miguel Angel Marchessi",
+        "original_name": "Miguel Angel Marchessi",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "65fb4375a199a6017cde6250",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4605149,
+        "known_for_department": "Acting",
+        "name": "Héctor Hugo Larriera",
+        "original_name": "Héctor Hugo Larriera",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "65fb4380a199a6017cde625c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4991982,
+        "known_for_department": "Acting",
+        "name": "Carlos Secilio",
+        "original_name": "Carlos Secilio",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6707da031d96dc6d476a33e8",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4605151,
+        "known_for_department": "Directing",
+        "name": "Simón Delacre",
+        "original_name": "Simón Delacre",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "65fb439c3fe160014af2fcf7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3742645,
+        "known_for_department": "Editing",
+        "name": "Patricio Dondo",
+        "original_name": "Patricio Dondo",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "65fb43919408ec014afb3742",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4605151,
+        "known_for_department": "Directing",
+        "name": "Simón Delacre",
+        "original_name": "Simón Delacre",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "6707d9ee6718012fc233c356",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

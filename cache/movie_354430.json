@@ -1,0 +1,229 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 354430,
+  "imdb_id": "tt4783254",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Deux Rémi, Deux",
+  "overview": "Thirty years old, a nothing job, a timid love affair: Rémi is a little at sea in his life. Until the day when he must share it with his double, another him, invasive and not so nice. Which one will be the true Rémi?",
+  "popularity": 5.4838,
+  "poster_path": "/fd4gbZktzxGqBaJV3OH42AsI9Kh.jpg",
+  "production_companies": [
+    {
+      "id": 109247,
+      "logo_path": null,
+      "name": "Barberousse Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2015-08-12",
+  "revenue": 0,
+  "runtime": 62,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Two Rémi, Two",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 12,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149880,
+        "known_for_department": "Directing",
+        "name": "Serge Bozon",
+        "original_name": "Serge Bozon",
+        "popularity": 0.1742,
+        "profile_path": "/2EFavTUWy728oyKQrfKEXB3GS7N.jpg",
+        "cast_id": 2,
+        "character": "Philippe Pardon",
+        "credit_id": "56d9b1bfc3a3682cef011d36",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73650,
+        "known_for_department": "Acting",
+        "name": "Pascal Cervo",
+        "original_name": "Pascal Cervo",
+        "popularity": 0.6327,
+        "profile_path": "/7lQE4tcYTP6DBffAGwNzFABjLfF.jpg",
+        "cast_id": 3,
+        "character": "Rémi Pardon",
+        "credit_id": "56d9b1c9c3a3681e44025a06",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1546848,
+        "known_for_department": "Acting",
+        "name": "Luna Picoli-Truffaut",
+        "original_name": "Luna Picoli-Truffaut",
+        "popularity": 0.1122,
+        "profile_path": "/aEgM8OushynppRtPHC7sDIInJJz.jpg",
+        "cast_id": 4,
+        "character": "Delphine Murat",
+        "credit_id": "56d9b1d0c3a36870ac010445",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1359334,
+        "known_for_department": "Acting",
+        "name": "Bernard Eisenschitz",
+        "original_name": "Bernard Eisenschitz",
+        "popularity": 0.4833,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Jacques Murat",
+        "credit_id": "5a44e4e8c3a3685844061b93",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19776,
+        "known_for_department": "Acting",
+        "name": "Jean-Christophe Bouvet",
+        "original_name": "Jean-Christophe Bouvet",
+        "popularity": 0.428,
+        "profile_path": "/w57t3esYfYjb3LhYsWP8K0pPUZo.jpg",
+        "cast_id": 6,
+        "character": "Gauthier",
+        "credit_id": "5a44e4f89251411f4f079788",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1593303,
+        "known_for_department": "Directing",
+        "name": "Pascale Bodet",
+        "original_name": "Pascale Bodet",
+        "popularity": 0.1006,
+        "profile_path": "/vYZO6ZAqu85pJB0JnDEU1cgb9YB.jpg",
+        "cast_id": 7,
+        "character": "Carole",
+        "credit_id": "5a44e50bc3a3685890059e99",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 65580,
+        "known_for_department": "Editing",
+        "name": "Martial Salomon",
+        "original_name": "Martial Salomon",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Landru",
+        "credit_id": "5a44e51a0e0a264fb9065939",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 284816,
+        "known_for_department": "Directing",
+        "name": "Patricia Mazuy",
+        "original_name": "Patricia Mazuy",
+        "popularity": 0.5877,
+        "profile_path": "/bVCKuTLRJJPFwfx74Vfj8fRwJAk.jpg",
+        "cast_id": 9,
+        "character": "Pierrette Murat",
+        "credit_id": "5a44e547aa525f38ab006d68",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1160008,
+        "known_for_department": "Directing",
+        "name": "Jackie Raynal",
+        "original_name": "Jackie Raynal",
+        "popularity": 1.1763,
+        "profile_path": "/ejNm5oRLHIUguZlZcbosHa5FtMb.jpg",
+        "cast_id": 10,
+        "character": "Esther Pardon",
+        "credit_id": "5a44e55b0e0a264fb906596f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2898232,
+        "known_for_department": "Acting",
+        "name": "Simon P.R. Bewick",
+        "original_name": "Simon P.R. Bewick",
+        "popularity": 0.0557,
+        "profile_path": "/8ROuYImaJkRO6ijC69kh0fBq3F7.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5fdbd4f00d5d85003e301e7b",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1161202,
+        "known_for_department": "Acting",
+        "name": "Pierre Léon",
+        "original_name": "Pierre Léon",
+        "popularity": 0.13,
+        "profile_path": "/vJjWWu9Vf8jaTPcOFoyUbrLU2aB.jpg",
+        "credit_id": "55cd25eb925141319f000a3d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1161202,
+        "known_for_department": "Acting",
+        "name": "Pierre Léon",
+        "original_name": "Pierre Léon",
+        "popularity": 0.13,
+        "profile_path": "/vJjWWu9Vf8jaTPcOFoyUbrLU2aB.jpg",
+        "credit_id": "55cd25e1925141319f000a3b",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

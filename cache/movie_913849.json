@@ -1,0 +1,599 @@
+{
+  "adult": false,
+  "backdrop_path": "/w9UPGJ1pFIw7pJMAgj9BpFAwdGe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://films.nationalgeographic.com/the-territory",
+  "id": 913849,
+  "imdb_id": "tt16378164",
+  "origin_country": [
+    "BR",
+    "DK",
+    "US"
+  ],
+  "original_language": "pt",
+  "original_title": "The Territory",
+  "overview": "The Indigenous Uru-eu-wau-wau people have seen their population dwindle and their culture threatened since coming into contact with non-Native Brazilians. Though promised dominion over their own rainforest territory, they have faced illegal incursions from environmentally destructive logging and mining, and, most recently, land-grabbing invasions spurred on by right-wing politicians like President Jair Bolsonaro. With deforestation escalating as a result, the stakes have become global.",
+  "popularity": 6.5432,
+  "poster_path": "/jtN984vGSVGKBVY03tdL0KHWpuJ.jpg",
+  "production_companies": [
+    {
+      "id": 161148,
+      "logo_path": null,
+      "name": "Documist",
+      "origin_country": "CA"
+    },
+    {
+      "id": 128976,
+      "logo_path": "/6ZfJiskmTdzvYs8861ynrFNMSzk.png",
+      "name": "XTR",
+      "origin_country": "US"
+    },
+    {
+      "id": 156093,
+      "logo_path": "/t8POzVUpEWkennWeE4Jm7zDCQtL.png",
+      "name": "TIME Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 7503,
+      "logo_path": "/3K8wbNkTn7O4wX89ucnp1ZYR1XF.png",
+      "name": "Protozoa Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11594,
+      "logo_path": "/4w31g1L8zrpOuZ7s7f83qkmfOVZ.png",
+      "name": "Passion Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 168486,
+      "logo_path": "/wJIDzf771eSmtSRjBMi8vJBWz8t.png",
+      "name": "Real Lava",
+      "origin_country": "DK"
+    },
+    {
+      "id": 189457,
+      "logo_path": "/a0ruFlMfEs2pTOLZ1tPHqzDH7Fc.png",
+      "name": "National Geographic Documentary Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-08-19",
+  "revenue": 69316,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The battle for home.",
+  "title": "The Territory",
+  "video": false,
+  "vote_average": 6.813,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3815443,
+        "known_for_department": "Acting",
+        "name": "Neidinha Bandeira",
+        "original_name": "Neidinha Bandeira",
+        "popularity": 0.0327,
+        "profile_path": "/nO0cEh1Cq7CwXLQILwoRRz4TDJN.jpg",
+        "cast_id": 32,
+        "character": "Self",
+        "credit_id": "638cf0f00e64af00adab0be7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3815444,
+        "known_for_department": "Acting",
+        "name": "Bitaté Uru-Eu-Wau-Wau",
+        "original_name": "Bitaté Uru-Eu-Wau-Wau",
+        "popularity": 0.0698,
+        "profile_path": "/vX2KAKkbFCuiYpSdofxgdXCUU5Q.jpg",
+        "cast_id": 33,
+        "character": "Self",
+        "credit_id": "638cf1087d5db50fdd1274c6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3815445,
+        "known_for_department": "Acting",
+        "name": "Ari Uru-Eu-Wau-Wau",
+        "original_name": "Ari Uru-Eu-Wau-Wau",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Self",
+        "credit_id": "638cf117c3aa3f00c89ccd1a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5351510,
+        "known_for_department": "Production",
+        "name": "Txai Suruí",
+        "original_name": "Txai Suruí",
+        "popularity": 0.0214,
+        "profile_path": "/6JmuOxTLUKOfEULWdsptdaBVd1n.jpg",
+        "cast_id": 38,
+        "character": "herself",
+        "credit_id": "67f28a7cf5a80aa54599e77c",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3342398,
+        "known_for_department": "Directing",
+        "name": "Alex Pritz",
+        "original_name": "Alex Pritz",
+        "popularity": 0.0143,
+        "profile_path": "/dADAEl4ExaGtgCnfXWjBX8T1UfL.jpg",
+        "credit_id": "6254b626158c850050473299",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3342398,
+        "known_for_department": "Directing",
+        "name": "Alex Pritz",
+        "original_name": "Alex Pritz",
+        "popularity": 0.0143,
+        "profile_path": "/dADAEl4ExaGtgCnfXWjBX8T1UfL.jpg",
+        "credit_id": "6254b630e54d5d00508e6b32",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6431,
+        "known_for_department": "Directing",
+        "name": "Darren Aronofsky",
+        "original_name": "Darren Aronofsky",
+        "popularity": 1.3402,
+        "profile_path": "/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg",
+        "credit_id": "6254b60aa802360066592a1f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2498038,
+        "known_for_department": "Sound",
+        "name": "Katya Mihailova",
+        "original_name": "Katya Mihailova",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "6254b5fb1b1f3c009d14e31d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391205,
+        "known_for_department": "Production",
+        "name": "Tangãi Uru-eu-wau-wau",
+        "original_name": "Tangãi Uru-eu-wau-wau",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "6254b61ba8023600502c8b66",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2259272,
+        "known_for_department": "Editing",
+        "name": "Carlos Rojas Felice",
+        "original_name": "Carlos Rojas Felice",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "6254b63d158c850050473331",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3503152,
+        "known_for_department": "Art",
+        "name": "Hodja Diallo Berlev",
+        "original_name": "Hodja Diallo Berlev",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "6254b647158c85009ba3b5a0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3342398,
+        "known_for_department": "Directing",
+        "name": "Alex Pritz",
+        "original_name": "Alex Pritz",
+        "popularity": 0.0143,
+        "profile_path": "/dADAEl4ExaGtgCnfXWjBX8T1UfL.jpg",
+        "credit_id": "61b2db2262f33500607ed7fc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16836,
+        "known_for_department": "Production",
+        "name": "Ari Handel",
+        "original_name": "Ari Handel",
+        "popularity": 0.758,
+        "profile_path": "/i7wfVYOYxKdDDYdMX7W1EWUzeU6.jpg",
+        "credit_id": "61e9f50f13a3880067b7e78a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3116841,
+        "known_for_department": "Production",
+        "name": "Lizzie Gillett",
+        "original_name": "Lizzie Gillett",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "61e9f568ea37e0001b748da6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 547781,
+        "known_for_department": "Directing",
+        "name": "Danfung Dennis",
+        "original_name": "Danfung Dennis",
+        "popularity": 0.0987,
+        "profile_path": null,
+        "credit_id": "61e9f499b513a80091a1ce26",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3391201,
+        "known_for_department": "Production",
+        "name": "Loren Hammonds",
+        "original_name": "Loren Hammonds",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "61e9f4d2b513a800691259e4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2356578,
+        "known_for_department": "Production",
+        "name": "Rebecca Teitel",
+        "original_name": "Rebecca Teitel",
+        "popularity": 0.391,
+        "profile_path": null,
+        "credit_id": "61e9f4b7fdf8b70043db1586",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391202,
+        "known_for_department": "Production",
+        "name": "Dylan Golden",
+        "original_name": "Dylan Golden",
+        "popularity": 0.0775,
+        "profile_path": null,
+        "credit_id": "61e9f4dcdf2945001b867c3f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391203,
+        "known_for_department": "Production",
+        "name": "Romain Besson",
+        "original_name": "Romain Besson",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "61e9f4fcb513a800bc020e23",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391200,
+        "known_for_department": "Production",
+        "name": "Rafael Georges da Cruz",
+        "original_name": "Rafael Georges da Cruz",
+        "popularity": 0.0356,
+        "profile_path": null,
+        "credit_id": "61e9f4aed37197001cb80092",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3162740,
+        "known_for_department": "Production",
+        "name": "Brendan Naylor",
+        "original_name": "Brendan Naylor",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "61e9f4e6ce5d820043151aa3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391199,
+        "known_for_department": "Production",
+        "name": "Felipe Estefan",
+        "original_name": "Felipe Estefan",
+        "popularity": 0.0828,
+        "profile_path": null,
+        "credit_id": "61e9f4a3944a57004357e99b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391207,
+        "known_for_department": "Production",
+        "name": "Anonymous Anonymous",
+        "original_name": "Anonymous Anonymous",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "61e9f54bb513a800e576e243",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391205,
+        "known_for_department": "Production",
+        "name": "Tangãi Uru-eu-wau-wau",
+        "original_name": "Tangãi Uru-eu-wau-wau",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "61e9f529d75bd6009952b74b",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227911,
+        "known_for_department": "Production",
+        "name": "Andrew Ruhemann",
+        "original_name": "Andrew Ruhemann",
+        "popularity": 0.3163,
+        "profile_path": null,
+        "credit_id": "61e9f4f1df2945001b867c85",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391208,
+        "known_for_department": "Production",
+        "name": "Will N. Miller",
+        "original_name": "Will N. Miller",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "61e9f557ea37e0001b748d9a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1031133,
+        "known_for_department": "Production",
+        "name": "Sigrid Dyekjær",
+        "original_name": "Sigrid Dyekjær",
+        "popularity": 0.0446,
+        "profile_path": "/mlS7Yol3sEAzWlnTrUdaxeWqEeo.jpg",
+        "credit_id": "61e9f56013a388001b35068f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391206,
+        "known_for_department": "Production",
+        "name": "Tejubi Uru-eu-wau-wau",
+        "original_name": "Tejubi Uru-eu-wau-wau",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "61e9f538fea0d7006ad40c92",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1474925,
+        "known_for_department": "Production",
+        "name": "Philippe Levasseur",
+        "original_name": "Philippe Levasseur",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "61e9f50731644b010c11547c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2498038,
+        "known_for_department": "Sound",
+        "name": "Katya Mihailova",
+        "original_name": "Katya Mihailova",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "61e9f51ecd204600e5721cf6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 139846,
+        "known_for_department": "Production",
+        "name": "Alexandra Johnes",
+        "original_name": "Alexandra Johnes",
+        "popularity": 0.477,
+        "profile_path": "/dJnK4q5hPCtFrQzOiUHFwiyHIkO.jpg",
+        "credit_id": "61e9f4c23faba000e172154f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607507,
+        "known_for_department": "Production",
+        "name": "Bryn Mooser",
+        "original_name": "Bryn Mooser",
+        "popularity": 0.4393,
+        "profile_path": null,
+        "credit_id": "61fd4108559d227d962e83ea",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2440824,
+        "known_for_department": "Production",
+        "name": "Kathryn Everett",
+        "original_name": "Kathryn Everett",
+        "popularity": 0.6873,
+        "profile_path": null,
+        "credit_id": "61fd41146f31af001b6b9ba5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2535955,
+        "known_for_department": "Production",
+        "name": "Justin Lacob",
+        "original_name": "Justin Lacob",
+        "popularity": 0.1581,
+        "profile_path": "/v8qNKGma9i6AqX6G3MTXk5alhT1.jpg",
+        "credit_id": "61fd4122b7abb500bec06ce8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4515038,
+        "known_for_department": "Production",
+        "name": "Gabriel Uchida",
+        "original_name": "Gabriel Uchida",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65bd8f66902012012fc99452",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512665,
+        "known_for_department": "Sound",
+        "name": "Heikki Kossi",
+        "original_name": "Heikki Kossi",
+        "popularity": 0.6446,
+        "profile_path": "/6VipnMFz9whg3WKRGld7KJDGTlo.jpg",
+        "credit_id": "64403802eb093204711e6517",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5351510,
+        "known_for_department": "Production",
+        "name": "Txai Suruí",
+        "original_name": "Txai Suruí",
+        "popularity": 0.0214,
+        "profile_path": "/6JmuOxTLUKOfEULWdsptdaBVd1n.jpg",
+        "credit_id": "67f28a651bb0472899992504",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

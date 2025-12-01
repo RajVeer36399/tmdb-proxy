@@ -1,0 +1,590 @@
+{
+  "adult": false,
+  "backdrop_path": "/mmWrKwZ8bxX0cLGzshcNNFEkEAN.jpg",
+  "belongs_to_collection": {
+    "id": 9309,
+    "name": "Winnetou Collection",
+    "poster_path": "/63hexCX9ssm2DvaxknsMMou0t7A.jpg",
+    "backdrop_path": "/aHiXRJsN9PYL8TSXKHMFlE0mZaU.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 9547,
+  "imdb_id": "tt0057380",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Old Shatterhand",
+  "overview": "Renegades trying to get the army to abandon their fort get the Indians addicted to whiskey, then convince them to attack and drive out the soldiers.",
+  "popularity": 7.8275,
+  "poster_path": "/4SsCDjWXbCtlJynQ1XhoV1QxoNN.jpg",
+  "production_companies": [
+    {
+      "id": 4843,
+      "logo_path": null,
+      "name": "Serena",
+      "origin_country": "IT"
+    },
+    {
+      "id": 5940,
+      "logo_path": "/pJR6Hhx3FsRPzoh4LyJyHEa6cD3.png",
+      "name": "Avala Film",
+      "origin_country": "YU"
+    },
+    {
+      "id": 10563,
+      "logo_path": null,
+      "name": "Critérion Film",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1787,
+      "logo_path": "/tWdfCS6OBkxSuXao5lluNKDIvlc.png",
+      "name": "CCC Filmkunst",
+      "origin_country": "DE"
+    },
+    {
+      "id": 177099,
+      "logo_path": null,
+      "name": "Serena Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "release_date": "1964-04-30",
+  "revenue": 0,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Old Shatterhand",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 77,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6102,
+        "known_for_department": "Acting",
+        "name": "Lex Barker",
+        "original_name": "Lex Barker",
+        "popularity": 0.6374,
+        "profile_path": "/kcNxjdzObste6GAiz5nu0BEa409.jpg",
+        "cast_id": 1,
+        "character": "Old Shatterhand",
+        "credit_id": "52fe4507c3a36847f80b837d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33543,
+        "known_for_department": "Acting",
+        "name": "Pierre Brice",
+        "original_name": "Pierre Brice",
+        "popularity": 0.7461,
+        "profile_path": "/fJGOEJ6udYxiRFXQIoUqdoTz1Yw.jpg",
+        "cast_id": 3,
+        "character": "Winnetou",
+        "credit_id": "52fe4507c3a36847f80b8385",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39754,
+        "known_for_department": "Acting",
+        "name": "Daliah Lavi",
+        "original_name": "Daliah Lavi",
+        "popularity": 0.3842,
+        "profile_path": "/hdttdJlwP1bve7YjM3knMmvMgOn.jpg",
+        "cast_id": 4,
+        "character": "Paloma",
+        "credit_id": "52fe4507c3a36847f80b8389",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40201,
+        "known_for_department": "Acting",
+        "name": "Guy Madison",
+        "original_name": "Guy Madison",
+        "popularity": 0.3533,
+        "profile_path": "/5jaWavTg1nFqjZEqkxyXej2m6eY.jpg",
+        "cast_id": 2,
+        "character": "Capt. Bradley",
+        "credit_id": "52fe4507c3a36847f80b8381",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5796,
+        "known_for_department": "Acting",
+        "name": "Ralf Wolter",
+        "original_name": "Ralf Wolter",
+        "popularity": 0.4571,
+        "profile_path": "/ndE1KW9QE4xeGGibQJtUjqqD4ih.jpg",
+        "cast_id": 16,
+        "character": "Sam Hawkens",
+        "credit_id": "52fe4508c3a36847f80b83bd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30830,
+        "known_for_department": "Acting",
+        "name": "Gustavo Rojo",
+        "original_name": "Gustavo Rojo",
+        "popularity": 0.4224,
+        "profile_path": "/mTBNGXL9m7nxY5cW04b3LKw611.jpg",
+        "cast_id": 17,
+        "character": "Corporal Bush",
+        "credit_id": "52fe4508c3a36847f80b83c1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5565,
+        "known_for_department": "Acting",
+        "name": "Rik Battaglia",
+        "original_name": "Rik Battaglia",
+        "popularity": 0.8913,
+        "profile_path": "/brWak7RZkaukSHam1C6BuwOAG2z.jpg",
+        "cast_id": 18,
+        "character": "Dixon",
+        "credit_id": "52fe4508c3a36847f80b83c5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1469765,
+        "known_for_department": "Acting",
+        "name": "Kitty Mattern",
+        "original_name": "Kitty Mattern",
+        "popularity": 0.1127,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Rosemary",
+        "credit_id": "5a00e96fc3a3680756006aa5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101591,
+        "known_for_department": "Acting",
+        "name": "Charles Fawcett",
+        "original_name": "Charles Fawcett",
+        "popularity": 0.6708,
+        "profile_path": "/2ADdlWU1wlctjUnQrqOY9I4b9lT.jpg",
+        "cast_id": 20,
+        "character": "General Taylor",
+        "credit_id": "52fe4508c3a36847f80b83cd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140436,
+        "known_for_department": "Acting",
+        "name": "Mirko Ellis",
+        "original_name": "Mirko Ellis",
+        "popularity": 0.1841,
+        "profile_path": "/xeVNpzxsPGi6Nhsp34rmnU21THJ.jpg",
+        "cast_id": 24,
+        "character": "Joe Burker",
+        "credit_id": "52fe4508c3a36847f80b83db",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46109,
+        "known_for_department": "Acting",
+        "name": "Bill Ramsey",
+        "original_name": "Bill Ramsey",
+        "popularity": 0.1918,
+        "profile_path": "/jCy3j90kOeC71qYpcCzvdsrkE6r.jpg",
+        "cast_id": 22,
+        "character": "Timpe",
+        "credit_id": "52fe4508c3a36847f80b83d1",
+        "order": 10
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 239384,
+        "known_for_department": "Acting",
+        "name": "Alain Tissier",
+        "original_name": "Alain Tissier",
+        "popularity": 0.431,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Tujunga",
+        "credit_id": "52fe4508c3a36847f80b83c9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37747,
+        "known_for_department": "Acting",
+        "name": "Nikola Popović",
+        "original_name": "Nikola Popović",
+        "popularity": 0.1088,
+        "profile_path": "/zKDCWGZUtmQOMFpEJZmdgP7uSLU.jpg",
+        "cast_id": 26,
+        "character": "Sheriff Brandon",
+        "credit_id": "5eccc49219690c001d70c93b",
+        "order": 12
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 31775,
+        "known_for_department": "Directing",
+        "name": "Joe D'Amato",
+        "original_name": "Joe D'Amato",
+        "popularity": 7.729,
+        "profile_path": "/6cj3AKDSeANiZk2w9vFzcPWGlfF.jpg",
+        "cast_id": 27,
+        "character": "Col. Hunter",
+        "credit_id": "5eccc4ee19690c001e70800e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2348055,
+        "known_for_department": "Art",
+        "name": "Georg Attlfellner",
+        "original_name": "Georg Attlfellner",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Barbier (uncredited)",
+        "credit_id": "5eccc520e2bca800208aa789",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63884,
+        "known_for_department": "Acting",
+        "name": "Mirko Boman",
+        "original_name": "Mirko Boman",
+        "popularity": 0.4891,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Dick Stone (uncredited)",
+        "credit_id": "5eccc529021cee00218a8b95",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1144620,
+        "known_for_department": "Acting",
+        "name": "Živojin Denić",
+        "original_name": "Živojin Denić",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Schmied (uncredited)",
+        "credit_id": "5eccc533e2bca8001e8a15c5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1533742,
+        "known_for_department": "Acting",
+        "name": "Aleksandar Đurić",
+        "original_name": "Aleksandar Đurić",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Grosser Bär (uncredited)",
+        "credit_id": "5eccc5aa021cee002089f25a",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22588,
+        "known_for_department": "Acting",
+        "name": "Gojko Mitić",
+        "original_name": "Gojko Mitić",
+        "popularity": 0.8945,
+        "profile_path": "/mPHF1GvdLVDJXtRq7X0Qe4uKFl.jpg",
+        "cast_id": 32,
+        "character": "Apache (uncredited)",
+        "credit_id": "5eccc5de021cee00218a8d6c",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 40998,
+        "known_for_department": "Acting",
+        "name": "Ulla Moritz",
+        "original_name": "Ulla Moritz",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Track Girl (uncredited)",
+        "credit_id": "5eccc5e919690c001d70cc7d",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537240,
+        "known_for_department": "Acting",
+        "name": "Vojkan Pavlović",
+        "original_name": "Vojkan Pavlović",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Will Parker (uncredited)",
+        "credit_id": "5eccc61635818f0021c09ef5",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1223469,
+        "known_for_department": "Directing",
+        "name": "Stevan Petrović",
+        "original_name": "Stevan Petrović",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Bandit (uncredited)",
+        "credit_id": "5eccc62035818f0021c09f0e",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1090592,
+        "known_for_department": "Acting",
+        "name": "Milivoje 'Mavid' Popović",
+        "original_name": "Mavid Popović",
+        "popularity": 0.1295,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Lata Nalgut (uncredited)",
+        "credit_id": "5eccc637021cee002089f309",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128435,
+        "known_for_department": "Acting",
+        "name": "Andrea Scotti",
+        "original_name": "Andrea Scotti",
+        "popularity": 0.2109,
+        "profile_path": "/dxRQlqPDpjh54FU9feXGjyCZGYG.jpg",
+        "cast_id": 37,
+        "character": "Sgt. Flanner (uncredited)",
+        "credit_id": "5eccc65be2bca800208aaa20",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1473918,
+        "known_for_department": "Acting",
+        "name": "Dušan Tadić",
+        "original_name": "Dušan Tadić",
+        "popularity": 0.1097,
+        "profile_path": "/6oAFzvdzvRQvigemgCzkmVxLraR.jpg",
+        "cast_id": 38,
+        "character": "Lieutenant Baxter (uncredited)",
+        "credit_id": "5eccc67635818f0021c0a047",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2682254,
+        "known_for_department": "Acting",
+        "name": "Tom Putzgruber",
+        "original_name": "Tom Putzgruber",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Tom Kampendijk",
+        "credit_id": "5eea5e46dd926a00359fc2d0",
+        "order": 25
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37899,
+        "known_for_department": "Directing",
+        "name": "Robert A. Stemmle",
+        "original_name": "Robert A. Stemmle",
+        "popularity": 0.1367,
+        "profile_path": null,
+        "credit_id": "52fe4507c3a36847f80b839b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31336,
+        "known_for_department": "Directing",
+        "name": "Hugo Fregonese",
+        "original_name": "Hugo Fregonese",
+        "popularity": 0.085,
+        "profile_path": "/bkC6QgoJf7e6aa7mtoCrhINjDMw.jpg",
+        "credit_id": "52fe4507c3a36847f80b838f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45621,
+        "known_for_department": "Writing",
+        "name": "Ladislas Fodor",
+        "original_name": "Ladislas Fodor",
+        "popularity": 0.3045,
+        "profile_path": "/i52qn0Fb7Q7aapeEtMcRvddpdBO.jpg",
+        "credit_id": "52fe4507c3a36847f80b8395",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33804,
+        "known_for_department": "Sound",
+        "name": "Riz Ortolani",
+        "original_name": "Riz Ortolani",
+        "popularity": 0.9176,
+        "profile_path": "/nFJdprMcg4MJTk9WP5BHfDQvCWm.jpg",
+        "credit_id": "52fe4508c3a36847f80b83a1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12737,
+        "known_for_department": "Production",
+        "name": "Artur Brauner",
+        "original_name": "Artur Brauner",
+        "popularity": 0.5924,
+        "profile_path": "/ydOQeaIPaxb8e0yz62quL6wful3.jpg",
+        "credit_id": "52fe4508c3a36847f80b83d7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6245,
+        "known_for_department": "Editing",
+        "name": "Alfred Srp",
+        "original_name": "Alfred Srp",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "credit_id": "52fe4508c3a36847f80b83a7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1090623,
+        "known_for_department": "Production",
+        "name": "Georg M. Reuther",
+        "original_name": "Georg M. Reuther",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "52fe4508c3a36847f80b83b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33766,
+        "known_for_department": "Writing",
+        "name": "Karl May",
+        "original_name": "Karl May",
+        "popularity": 0.2168,
+        "profile_path": "/azcSMQirhT5smDsLUcbBnDEKPJZ.jpg",
+        "credit_id": "52fe4508c3a36847f80b83ad",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22521,
+        "known_for_department": "Camera",
+        "name": "Siegfried Hold",
+        "original_name": "Siegfried Hold",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "65b8321f33a376016285121c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

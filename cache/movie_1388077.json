@@ -1,0 +1,402 @@
+{
+  "adult": false,
+  "backdrop_path": "/2jT6p0lGhnOlNXtw9WM90cAKksF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1388077,
+  "imdb_id": "tt38799034",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Ness et Ryan",
+  "overview": "",
+  "popularity": 5.5626,
+  "poster_path": "/af9eGoMwaxVJUTve9Ip6wwkR0Zn.jpg",
+  "production_companies": [
+    {
+      "id": 113839,
+      "logo_path": null,
+      "name": "Kam&Ka",
+      "origin_country": ""
+    },
+    {
+      "id": 4347,
+      "logo_path": null,
+      "name": "Ramona Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-04-28",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ness et Ryan",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1434974,
+        "known_for_department": "Acting",
+        "name": "Nadia Roz",
+        "original_name": "Nadia Roz",
+        "popularity": 0.2372,
+        "profile_path": "/sVO30Z7WjFwAbfhs80mS4LMhDCT.jpg",
+        "cast_id": 4,
+        "character": "Ness",
+        "credit_id": "6736582f71ef66978cfaef74",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1984597,
+        "known_for_department": "Acting",
+        "name": "Iliès Kadri",
+        "original_name": "Iliès Kadri",
+        "popularity": 0.1886,
+        "profile_path": "/ulihI4lsvtiGF93SGhgX9XvgfAr.jpg",
+        "cast_id": 5,
+        "character": "Rayan",
+        "credit_id": "67365836dd2c72a8a9039935",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2837674,
+        "known_for_department": "Acting",
+        "name": "Salomé Diénis Meulien",
+        "original_name": "Salomé Diénis Meulien",
+        "popularity": 0.0409,
+        "profile_path": "/mUWzS5sShDcAJFNkxIc9whbMgjy.jpg",
+        "cast_id": 6,
+        "character": "Paulette",
+        "credit_id": "6736583c71ef66978cfaef7e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1414120,
+        "known_for_department": "Acting",
+        "name": "Julien Ratel",
+        "original_name": "Julien Ratel",
+        "popularity": 0.0797,
+        "profile_path": "/bA9239tpKiKnfYnVvz1C26VQ4ey.jpg",
+        "cast_id": 7,
+        "character": "Manu",
+        "credit_id": "6736584271ef66978cfaef86",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16374,
+        "known_for_department": "Acting",
+        "name": "Stéphane Debac",
+        "original_name": "Stéphane Debac",
+        "popularity": 0.2346,
+        "profile_path": "/w7xgfKBoADFX4kOt65vmgzsVnT2.jpg",
+        "cast_id": 8,
+        "character": "Thierry",
+        "credit_id": "6736585ea102d269c03f04d6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5059724,
+        "known_for_department": "Acting",
+        "name": "Albane You",
+        "original_name": "Albane You",
+        "popularity": 0.0239,
+        "profile_path": "/66tT5EeHoBAC8KSQRJMeKyfEQlm.jpg",
+        "cast_id": 9,
+        "character": "Margaux",
+        "credit_id": "67365868a102d269c03f04ea",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112765,
+        "known_for_department": "Acting",
+        "name": "Eric Métayer",
+        "original_name": "Eric Métayer",
+        "popularity": 0.5592,
+        "profile_path": "/36DH0axgKHqk9kU5PAf2rL2A95a.jpg",
+        "cast_id": 10,
+        "character": "Franck Salce",
+        "credit_id": "6736586ea102d269c03f04f3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1952532,
+        "known_for_department": "Acting",
+        "name": "Bénédicte Dessombz",
+        "original_name": "Bénédicte Dessombz",
+        "popularity": 0.0532,
+        "profile_path": "/apClQ04EUzQd3RgGrNnhLpJoOhm.jpg",
+        "cast_id": 11,
+        "character": "Marie Salce",
+        "credit_id": "6736587429197b69875dd334",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5059726,
+        "known_for_department": "Acting",
+        "name": "Frédéric Deguilhem",
+        "original_name": "Frédéric Deguilhem",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Lucas",
+        "credit_id": "6736589729197b69875dd34c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5059728,
+        "known_for_department": "Acting",
+        "name": "Nils Seval",
+        "original_name": "Nils Seval",
+        "popularity": 0,
+        "profile_path": "/CKINYJ08QZQxPge3mWs8sDPAAt.jpg",
+        "cast_id": 13,
+        "character": "Wardog",
+        "credit_id": "673658b2a102d269c03f0540",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1580657,
+        "known_for_department": "Acting",
+        "name": "Rachid Hafassa",
+        "original_name": "Rachid Hafassa",
+        "popularity": 0.0457,
+        "profile_path": "/auyd1mshNV8ME03zzJaEglKIg44.jpg",
+        "cast_id": 14,
+        "character": "M. Benami",
+        "credit_id": "673658b829197b69875dd35c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5059730,
+        "known_for_department": "Acting",
+        "name": "Florent Martins",
+        "original_name": "Florent Martins",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Organisateur Fight",
+        "credit_id": "673658c471ef66978cfaefa7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2796253,
+        "known_for_department": "Acting",
+        "name": "François Nuyttens",
+        "original_name": "François Nuyttens",
+        "popularity": 0.0791,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Platek",
+        "credit_id": "673658ca71ef66978cfaefb1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3769135,
+        "known_for_department": "Acting",
+        "name": "Godefroy Donzel",
+        "original_name": "Godefroy Donzel",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Kevin",
+        "credit_id": "6907e28da6014a5f302feb56",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2548718,
+        "known_for_department": "Acting",
+        "name": "Sébastien Boissavit",
+        "original_name": "Sébastien Boissavit",
+        "popularity": 0.0543,
+        "profile_path": "/7TobuhF6i2Qe5cXGpdNw86G5EMU.jpg",
+        "cast_id": 18,
+        "character": "Max",
+        "credit_id": "6907e2a4022e519fe12fed06",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4507376,
+        "known_for_department": "Acting",
+        "name": "Rose Thibault",
+        "original_name": "Rose Thibault",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Infirmière urgence",
+        "credit_id": "6907e2d4c9e03067f7463e9f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5191499,
+        "known_for_department": "Acting",
+        "name": "Pascal Franks",
+        "original_name": "Pascal Franks",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Gendarme",
+        "credit_id": "6907e32d38195f6a2af931e5",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2355191,
+        "known_for_department": "Directing",
+        "name": "Julie Manoukian",
+        "original_name": "Julie Manoukian",
+        "popularity": 0.0897,
+        "profile_path": "/5AbZd3KdRQARgwwg7jaQBQiVSqH.jpg",
+        "credit_id": "67365803021223a874c5f587",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2224452,
+        "known_for_department": "Creator",
+        "name": "Stéphane Kaminka",
+        "original_name": "Stéphane Kaminka",
+        "popularity": 0.0676,
+        "profile_path": null,
+        "credit_id": "6736580fdd2c72a8a903992b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5059722,
+        "known_for_department": "Writing",
+        "name": "Paul Kaminka",
+        "original_name": "Paul Kaminka",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "credit_id": "673658196bd4889bfbc78a31",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2224452,
+        "known_for_department": "Creator",
+        "name": "Stéphane Kaminka",
+        "original_name": "Stéphane Kaminka",
+        "popularity": 0.0676,
+        "profile_path": null,
+        "credit_id": "6907e5db0cde7c8cef472bb0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2913832,
+        "known_for_department": "Creator",
+        "name": "Samuel Kaminka",
+        "original_name": "Samuel Kaminka",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "6907e5e783237f8d55472dd9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1160271,
+        "known_for_department": "Production",
+        "name": "Jean-Pierre Alessandrini",
+        "original_name": "Jean-Pierre Alessandrini",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6907e5f332347e983bf931bd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92307,
+        "known_for_department": "Writing",
+        "name": "Olga Vincent",
+        "original_name": "Olga Vincent",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "6907e5fe244c1efe05e12ec1",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

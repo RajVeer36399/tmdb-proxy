@@ -1,0 +1,468 @@
+{
+  "adult": false,
+  "backdrop_path": "/ojKwxNmwohiOxJ2PY4UZBNdkOML.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 847208,
+  "imdb_id": "tt13475394",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "3 ½ Stunden",
+  "overview": "August 13, 1961: The passengers on the interzonal train from Munich to East Berlin learn 3½ hours before crossing the border that the Wall is being built in Berlin. They have 3½ hours to make a life-changing decision: to get off the train or keep going.",
+  "popularity": 5.5297,
+  "poster_path": "/q7iLgsIJf0olGxxjBvh33hT4mR4.jpg",
+  "production_companies": [
+    {
+      "id": 83859,
+      "logo_path": "/bPo858SHmLWObfdWxnxr5nZ9RoV.png",
+      "name": "Real Film Berlin",
+      "origin_country": "DE"
+    },
+    {
+      "id": 15193,
+      "logo_path": "/erXgXZ0bKMkatH9O5tPryHiEjwk.png",
+      "name": "Amalia Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    },
+    {
+      "id": 986,
+      "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
+      "name": "ARD Degeto",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2021-07-02",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "3 1/2 Hours",
+  "video": false,
+  "vote_average": 6.484,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19230,
+        "known_for_department": "Acting",
+        "name": "Peter Schneider",
+        "original_name": "Peter Schneider",
+        "popularity": 0.7422,
+        "profile_path": "/f8s0gmEMafI2drpv5bb3fomZVFh.jpg",
+        "cast_id": 4,
+        "character": "Rudolph Hoffmann",
+        "credit_id": "60e0168e071650007e427006",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1841129,
+        "known_for_department": "Acting",
+        "name": "Jeff Wilbusch",
+        "original_name": "Jeff Wilbusch",
+        "popularity": 0.4611,
+        "profile_path": "/cDDkZuOhm48mITvYp5fAR1yECRN.jpg",
+        "cast_id": 5,
+        "character": "Sasha Goldberg",
+        "credit_id": "60e01698945d360074ecb8ad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73926,
+        "known_for_department": "Acting",
+        "name": "Jördis Triebel",
+        "original_name": "Jördis Triebel",
+        "popularity": 1.4034,
+        "profile_path": "/ccKpVED4GwvqpbDpSDvZ5a7Be2Z.jpg",
+        "cast_id": 6,
+        "character": "Christa Hartmann",
+        "credit_id": "60e016a5b686b9005e473abc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17547,
+        "known_for_department": "Acting",
+        "name": "Susanne Bormann",
+        "original_name": "Susanne Bormann",
+        "popularity": 0.4488,
+        "profile_path": "/tsSdHKw7pJJ9UQWzWLXs7RKAKy0.jpg",
+        "cast_id": 7,
+        "character": "Marlis Kügler",
+        "credit_id": "60e016ae55b0c0002c945bf4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17405,
+        "known_for_department": "Acting",
+        "name": "Martin Feifel",
+        "original_name": "Martin Feifel",
+        "popularity": 0.4229,
+        "profile_path": "/pqJIPUoL1rPAjBHJtXGNPfiyDtW.jpg",
+        "cast_id": 8,
+        "character": "Arthur Koch",
+        "credit_id": "60e016c183ee67005ddc3118",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1791876,
+        "known_for_department": "Acting",
+        "name": "Hannah Schiller",
+        "original_name": "Hannah Schiller",
+        "popularity": 0.9922,
+        "profile_path": "/wVCry3OSn8OAGzupbnL2AlRImgF.jpg",
+        "cast_id": 9,
+        "character": "Sabine Schulz",
+        "credit_id": "60e016ce9979d2007f4c14ca",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2129882,
+        "known_for_department": "Acting",
+        "name": "Alli Neumann",
+        "original_name": "Alli Neumann",
+        "popularity": 0.1454,
+        "profile_path": "/d9Y5kcEPBLdAqDHciALDstO5GXc.jpg",
+        "cast_id": 10,
+        "character": "Carla Engel",
+        "credit_id": "60e016e4ef9d72005e923c7f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 118528,
+        "known_for_department": "Acting",
+        "name": "Katrin Filzen",
+        "original_name": "Katrin Filzen",
+        "popularity": 0.136,
+        "profile_path": "/wygqDF4cA7pQPnJv3TTHNVrsJKP.jpg",
+        "cast_id": 11,
+        "character": "Ingrid Born",
+        "credit_id": "60e016f91e9225007ed1147e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48711,
+        "known_for_department": "Acting",
+        "name": "Uwe Kockisch",
+        "original_name": "Uwe Kockisch",
+        "popularity": 0.1609,
+        "profile_path": "/vStW4J8Opo8TmtNXxNpCa9dnfBR.jpg",
+        "cast_id": 12,
+        "character": "Paul Fuchs",
+        "credit_id": "60e01710071650005d9b9d3a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1658379,
+        "known_for_department": "Acting",
+        "name": "Luisa-Céline Gaffron",
+        "original_name": "Luisa-Céline Gaffron",
+        "popularity": 0.6648,
+        "profile_path": "/tOf2gUN32v2vzngjf2GwKzfpsJ9.jpg",
+        "cast_id": 13,
+        "character": "Edith Salzmann",
+        "credit_id": "60e0171c4544af0074fae025",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69965,
+        "known_for_department": "Acting",
+        "name": "Jan Krauter",
+        "original_name": "Jan Krauter",
+        "popularity": 0.1248,
+        "profile_path": "/gtqcWe8jN9x7aD2oyaEYIp6aVzu.jpg",
+        "cast_id": 14,
+        "character": "Gerd Kügler",
+        "credit_id": "60e0173b83ee670074b9c8d5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1323754,
+        "known_for_department": "Acting",
+        "name": "Moritz Katzmair",
+        "original_name": "Moritz Katzmair",
+        "popularity": 0.0773,
+        "profile_path": "/tfDL19IWLPgSTzFFgl9uCMP5Hic.jpg",
+        "cast_id": 15,
+        "character": "Andi Erler",
+        "credit_id": "60e0176d83ee670046efd785",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291449,
+        "known_for_department": "Acting",
+        "name": "Harry Täschner",
+        "original_name": "Harry Täschner",
+        "popularity": 0.0765,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Ernst Melchior",
+        "credit_id": "60e0178662fcd3007f31ecbf",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3118273,
+        "known_for_department": "Acting",
+        "name": "Franz-Xaver Zeller",
+        "original_name": "Franz-Xaver Zeller",
+        "popularity": 0.065,
+        "profile_path": "/qP4PCtvTrQOIiHz0pHija5nIvew.jpg",
+        "cast_id": 17,
+        "character": "Schaffner",
+        "credit_id": "60e01798344a8e005fc0bad6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2908716,
+        "known_for_department": "Acting",
+        "name": "Micha R. Scholze",
+        "original_name": "Micha R. Scholze",
+        "popularity": 0.0791,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Älterer Ostdeutscher",
+        "credit_id": "60e017a30f365500468ca34f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1861692,
+        "known_for_department": "Acting",
+        "name": "Birgit Berthold",
+        "original_name": "Birgit Berthold",
+        "popularity": 0.1186,
+        "profile_path": "/m4reh17VtJV9XrTdKJiT93Zoe39.jpg",
+        "cast_id": 19,
+        "character": "Anna Melchior",
+        "credit_id": "60e017b20f3655002f6e73f8",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1836056,
+        "known_for_department": "Acting",
+        "name": "Brian Völkner",
+        "original_name": "Brian Völkner",
+        "popularity": 0.0682,
+        "profile_path": "/g86ZfiRQtBYoVpOFFD9ySyPXSMG.jpg",
+        "cast_id": 20,
+        "character": "Zugbegleiter (Ost)",
+        "credit_id": "60e017bfef9d72002d996e03",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4618,
+        "known_for_department": "Acting",
+        "name": "Steffi Kühnert",
+        "original_name": "Steffi Kühnert",
+        "popularity": 0.8008,
+        "profile_path": "/6hW85ehTO43ypWbRxrpoy6WCfZ1.jpg",
+        "cast_id": 26,
+        "character": "VP Ulrike",
+        "credit_id": "611fcc12d96c3c0045bf43ea",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5514,
+        "known_for_department": "Acting",
+        "name": "Vincent Redetzki",
+        "original_name": "Vincent Redetzki",
+        "popularity": 0.6848,
+        "profile_path": "/7loFI0Arjl7kIL6Ltd55USDFjy0.jpg",
+        "cast_id": 27,
+        "character": "Kurt Blochwitz",
+        "credit_id": "611fccee2dc44e002c492985",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 219492,
+        "known_for_department": "Directing",
+        "name": "Ed Herzog",
+        "original_name": "Ed Herzog",
+        "popularity": 0.1327,
+        "profile_path": "/8Zdf0my71vyE87NlQiQWzY52ec8.jpg",
+        "credit_id": "60e014fa4544af002d384703",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552978,
+        "known_for_department": "Writing",
+        "name": "Robert Krause",
+        "original_name": "Robert Krause",
+        "popularity": 0.0796,
+        "profile_path": null,
+        "credit_id": "60e0150cfbe36f0074054a46",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1469927,
+        "known_for_department": "Writing",
+        "name": "Beate Fraunholz",
+        "original_name": "Beate Fraunholz",
+        "popularity": 0.1091,
+        "profile_path": null,
+        "credit_id": "60e01526945d360074ecb79b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49849,
+        "known_for_department": "Camera",
+        "name": "The Chau Ngo",
+        "original_name": "The Chau Ngo",
+        "popularity": 0.7958,
+        "profile_path": "/qHt8RCNY0B8ePJk1azGoKYI3uUj.jpg",
+        "credit_id": "60e017f4344a8e005fc0baf7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1707461,
+        "known_for_department": "Production",
+        "name": "Henning Kamm",
+        "original_name": "Henning Kamm",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "60f1af82a9b9a4005d3959a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2421281,
+        "known_for_department": "Production",
+        "name": "Michael Lehmann",
+        "original_name": "Michael Lehmann",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "60f1af905294e7002c209d55",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2275209,
+        "known_for_department": "Production",
+        "name": "Sibylle Stellbrink",
+        "original_name": "Sibylle Stellbrink",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "60f1af9d74507d002fc003e6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2239041,
+        "known_for_department": "Editing",
+        "name": "Simon Blasi",
+        "original_name": "Simon Blasi",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "60f1afb888055100302804c1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2336,
+        "known_for_department": "Sound",
+        "name": "Stefan Will",
+        "original_name": "Stefan Will",
+        "popularity": 0.8732,
+        "profile_path": null,
+        "credit_id": "67b71dbced0bbcc50f6577d1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

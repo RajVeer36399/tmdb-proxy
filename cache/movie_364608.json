@@ -1,0 +1,260 @@
+{
+  "adult": false,
+  "backdrop_path": "/b66MRUQyYyKSV1jG7YBS6ZLZsEX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 364608,
+  "imdb_id": "tt0039088",
+  "origin_country": [
+    "XC"
+  ],
+  "original_language": "cs",
+  "original_title": "Vánoční sen",
+  "overview": "Christmas has arrived. As a little girl and her parents enter the room, the little girl finds all kinds of toys under the Christmas Tree. She immediately throws her old doll aside and starts playing with her new dolls. But that night she has a dream. Or maybe it isn't a dream?",
+  "popularity": 6.9507,
+  "poster_path": "/6nIKtN98iQy1715kT82AXO06Hyn.jpg",
+  "production_companies": [
+    {
+      "id": 132029,
+      "logo_path": null,
+      "name": "Bapoz",
+      "origin_country": "XC"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "XC",
+      "name": "Czechoslovakia"
+    }
+  ],
+  "release_date": "1945-10-26",
+  "revenue": 0,
+  "runtime": 11,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Christmas Dream",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2582651,
+        "known_for_department": "Acting",
+        "name": "Jana Hrdličková",
+        "original_name": "Jana Hrdličková",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Girl",
+        "credit_id": "5f1830944284ea0035361e02",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192439,
+        "known_for_department": "Acting",
+        "name": "Eduard Dubský",
+        "original_name": "Eduard Dubský",
+        "popularity": 0.9081,
+        "profile_path": "/53hyhnyXwY75HxqfVUVJvpDOTEA.jpg",
+        "cast_id": 6,
+        "character": "Father",
+        "credit_id": "5f1830c2c92c5d0034328627",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44216,
+        "known_for_department": "Directing",
+        "name": "Bořivoj Zeman",
+        "original_name": "Bořivoj Zeman",
+        "popularity": 0.0766,
+        "profile_path": "/jGRznL9ZD7oS8yBVLTtBnrZZb7I.jpg",
+        "credit_id": "562614089251413980004264",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53859,
+        "known_for_department": "Directing",
+        "name": "Karel Zeman",
+        "original_name": "Karel Zeman",
+        "popularity": 0.9371,
+        "profile_path": "/5qaI4llWgNWIukSArZhfOEjACYz.jpg",
+        "credit_id": "56261415925141179d002873",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53859,
+        "known_for_department": "Directing",
+        "name": "Karel Zeman",
+        "original_name": "Karel Zeman",
+        "popularity": 0.9371,
+        "profile_path": "/5qaI4llWgNWIukSArZhfOEjACYz.jpg",
+        "credit_id": "56e924a49251417636000187",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136212,
+        "known_for_department": "Editing",
+        "name": "Zdeněk Stehlík",
+        "original_name": "Zdeněk Stehlík",
+        "popularity": 0.0218,
+        "profile_path": null,
+        "credit_id": "56e924829251417bc0002b1b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44216,
+        "known_for_department": "Directing",
+        "name": "Bořivoj Zeman",
+        "original_name": "Bořivoj Zeman",
+        "popularity": 0.0766,
+        "profile_path": "/jGRznL9ZD7oS8yBVLTtBnrZZb7I.jpg",
+        "credit_id": "5f18325c51e6ab0038d1c263",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2388816,
+        "known_for_department": "Production",
+        "name": "Ladislav Kolda",
+        "original_name": "Ladislav Kolda",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5f1832a951e6ab0036ca9ce5",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352638,
+        "known_for_department": "Art",
+        "name": "Vilém Rittershain",
+        "original_name": "Vilém Rittershain",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5f183284c92c5d0034328ac7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2649243,
+        "known_for_department": "Camera",
+        "name": "Josef Míček",
+        "original_name": "Josef Míček",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5f18327ca6d931003781ddf0",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1426712,
+        "known_for_department": "Camera",
+        "name": "Pavel Hrdlička",
+        "original_name": "Pavel Hrdlička",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5f1832737a1bd60038e71e30",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53859,
+        "known_for_department": "Directing",
+        "name": "Karel Zeman",
+        "original_name": "Karel Zeman",
+        "popularity": 0.9371,
+        "profile_path": "/5qaI4llWgNWIukSArZhfOEjACYz.jpg",
+        "credit_id": "5f18328e78570e00346f6263",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44216,
+        "known_for_department": "Directing",
+        "name": "Bořivoj Zeman",
+        "original_name": "Bořivoj Zeman",
+        "popularity": 0.0766,
+        "profile_path": "/jGRznL9ZD7oS8yBVLTtBnrZZb7I.jpg",
+        "credit_id": "5f183265db952d003493c191",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537580,
+        "known_for_department": "Sound",
+        "name": "František Černý",
+        "original_name": "František Černý",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5f1832a04284ea003436659b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11724,
+        "known_for_department": "Sound",
+        "name": "Jiří Šust",
+        "original_name": "Jiří Šust",
+        "popularity": 0.1497,
+        "profile_path": null,
+        "credit_id": "603a676a706e560051d23be9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

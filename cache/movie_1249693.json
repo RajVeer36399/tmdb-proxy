@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1249693,
+  "imdb_id": "tt34096616",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Psycho",
+  "overview": "A new film adaptation of Bret Easton Ellis's influential novel 'American Psycho'. It aims to reimagine Patrick Bateman in the fast-paced modern era.",
+  "popularity": 6.0412,
+  "poster_path": "/g2J5CM5zvdQUDjTUNNDjc4XP3AF.jpg",
+  "production_companies": [
+    {
+      "id": 46344,
+      "logo_path": "/qpSdIjnGHiz6UNIQWGIJkDnG79l.png",
+      "name": "Frenesy Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 6455,
+      "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+      "name": "Pressman Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "title": "American Psycho",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16379,
+        "known_for_department": "Writing",
+        "name": "Bret Easton Ellis",
+        "original_name": "Bret Easton Ellis",
+        "popularity": 0.673,
+        "profile_path": "/aDN2rzD9ezgD2wSOK7l6oHXWeAq.jpg",
+        "credit_id": "65da3737688cd00186120ee2",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78160,
+        "known_for_department": "Directing",
+        "name": "Luca Guadagnino",
+        "original_name": "Luca Guadagnino",
+        "popularity": 2.4447,
+        "profile_path": "/lO2GD4s6fRloZLEhsZgBlhJQasE.jpg",
+        "credit_id": "6712a31f98f6a758cd54d3d9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19014,
+        "known_for_department": "Writing",
+        "name": "Scott Z. Burns",
+        "original_name": "Scott Z. Burns",
+        "popularity": 0.6586,
+        "profile_path": "/9MW15WXIrGDDXvz0fabmyUhc1qB.jpg",
+        "credit_id": "6712a32c25c70b8b1d67d5d1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2242239,
+        "known_for_department": "Production",
+        "name": "Sam Pressman",
+        "original_name": "Sam Pressman",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6712a3ad8e844657b7fb3f9b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78160,
+        "known_for_department": "Directing",
+        "name": "Luca Guadagnino",
+        "original_name": "Luca Guadagnino",
+        "popularity": 2.4447,
+        "profile_path": "/lO2GD4s6fRloZLEhsZgBlhJQasE.jpg",
+        "credit_id": "6712a42298f6a758cd54d485",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16379,
+        "known_for_department": "Writing",
+        "name": "Bret Easton Ellis",
+        "original_name": "Bret Easton Ellis",
+        "popularity": 0.673,
+        "profile_path": "/aDN2rzD9ezgD2wSOK7l6oHXWeAq.jpg",
+        "credit_id": "675ce3fba2a333736fd7f692",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4023023,
+        "known_for_department": "Production",
+        "name": "Paula Paizes",
+        "original_name": "Paula Paizes",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "681606eb75da7af71a089b10",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

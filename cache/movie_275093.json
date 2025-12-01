@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 275093,
+  "imdb_id": "tt0153569",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "I visionari",
+  "overview": "A film about a love triangle between a theater director, an actress and an actor. Exchanges take place between fiction and reality, the stage and life. The actress one day leaves the theater director for the actor. But after a few days, she begins to doubt her new relationship. Inspired by the writings by Robert Musil.",
+  "popularity": 6.4981,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "1968-04-01",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Visionaries",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1068819,
+        "known_for_department": "Acting",
+        "name": "Pierluigi Aprà",
+        "original_name": "Pierluigi Aprà",
+        "popularity": 0.4511,
+        "profile_path": "/9Ou7IyUX8UYGVTCPYDHaCMihXZg.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "539555fcc3a3686434003cc7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44110,
+        "known_for_department": "Acting",
+        "name": "Adriana Asti",
+        "original_name": "Adriana Asti",
+        "popularity": 0.5373,
+        "profile_path": "/7uRyFyBghtTpOJBxAnuUJrPiAWU.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5395560bc3a3686423003d20",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 206409,
+        "known_for_department": "Acting",
+        "name": "Lidia Biondi",
+        "original_name": "Lidia Biondi",
+        "popularity": 0.7269,
+        "profile_path": "/2GgxiJsvSBOCqEcnl9tbhOKOtAl.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "53955613c3a368642b003deb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70488,
+        "known_for_department": "Acting",
+        "name": "Olimpia Carlisi",
+        "original_name": "Olimpia Carlisi",
+        "popularity": 0.5567,
+        "profile_path": "/7imfGuYkW1ntJltlDtRJtSkt6Qg.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "65af73e06af8f800cd7ae13e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26163,
+        "known_for_department": "Acting",
+        "name": "Jean-Marc Bory",
+        "original_name": "Jean-Marc Bory",
+        "popularity": 0.5813,
+        "profile_path": "/mfLxQHoawGJC2XPHb7N0b0h6Dxc.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "65af73e767b61300eb534a79",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229575,
+        "known_for_department": "Directing",
+        "name": "Maurizio Ponzi",
+        "original_name": "Maurizio Ponzi",
+        "popularity": 0.7178,
+        "profile_path": "/2EOFViw4U2woaMOZVPOMbQluSyg.jpg",
+        "credit_id": "539555dac3a3686446003d1c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133491,
+        "known_for_department": "Writing",
+        "name": "Robert Musil",
+        "original_name": "Robert Musil",
+        "popularity": 0.1343,
+        "profile_path": null,
+        "credit_id": "539555e8c3a3684e36000550",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  }
+}

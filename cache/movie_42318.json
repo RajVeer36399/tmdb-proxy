@@ -1,0 +1,450 @@
+{
+  "adult": false,
+  "backdrop_path": "/9BNLMapdN5EzdPmUcDSg9p3NuLR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 42318,
+  "imdb_id": "tt0396630",
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_title": "Hardcore",
+  "overview": "Leaving behind a hard life with their families, two young girls end up in a brothel, fall in love and support one another against the adversities and violence of the night.",
+  "popularity": 6.96,
+  "poster_path": "/vbh1iQ7tWvQTtwn6SQG7IeY3dNx.jpg",
+  "production_companies": [
+    {
+      "id": 27279,
+      "logo_path": null,
+      "name": "Zaza Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 27280,
+      "logo_path": null,
+      "name": "Ideefixe Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 20678,
+      "logo_path": null,
+      "name": "Odeon",
+      "origin_country": "GR"
+    },
+    {
+      "id": 18395,
+      "logo_path": "/gYbUf9evLBRgZEkrx6XwWfkOLSt.png",
+      "name": "FilmNet",
+      "origin_country": "IR"
+    },
+    {
+      "id": 7254,
+      "logo_path": "/hDJO96mUfqtB9ia7ef7mEvguPxl.png",
+      "name": "Greek Film Centre",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "release_date": "2004-03-12",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They're young, sexy and fully loaded.",
+  "title": "Hardcore",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 35,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 127769,
+        "known_for_department": "Acting",
+        "name": "Katerina Tsavalou",
+        "original_name": "Κατερίνα Τσάβαλου",
+        "popularity": 0.6708,
+        "profile_path": "/zogpdw1hhBSQEuED2Ic0QXDiF2R.jpg",
+        "cast_id": 1,
+        "character": "Martha",
+        "credit_id": "52fe45fcc3a36847f80e5ac9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1404666,
+        "known_for_department": "Acting",
+        "name": "Danae Skiadi",
+        "original_name": "Δανάη Σκιάδη",
+        "popularity": 0.4651,
+        "profile_path": "/7PS7iuG9pEXCSxZzoo37X5P2ynj.jpg",
+        "cast_id": 14,
+        "character": "Nadia",
+        "credit_id": "62bb3c12356a71008b63dc59",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 428967,
+        "known_for_department": "Acting",
+        "name": "Ioannis Papazisis",
+        "original_name": "Ιωάννης Παπαζήσης",
+        "popularity": 0.8386,
+        "profile_path": "/iq47Uv3Qh8HkyBGFdp0S0iUvpz5.jpg",
+        "cast_id": 4,
+        "character": "Argyris",
+        "credit_id": "52fe45fcc3a36847f80e5ad1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1334800,
+        "known_for_department": "Acting",
+        "name": "Omiros Poulakis",
+        "original_name": "Όμηρος Πουλάκης",
+        "popularity": 1.0424,
+        "profile_path": "/yHtFroWOVEG2HXnrR8CaXnYCwr8.jpg",
+        "cast_id": 8,
+        "character": "Miltos",
+        "credit_id": "53ad40dfc3a3682edb001517",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1640856,
+        "known_for_department": "Acting",
+        "name": "Andreas Marianos",
+        "original_name": "Ανδρέας Μαριανός",
+        "popularity": 0.4424,
+        "profile_path": "/o12rcGTVZ1Yoc6A8pVu0A0B3uSB.jpg",
+        "cast_id": 9,
+        "character": "Boss",
+        "credit_id": "5fcb9d81e32943003c3de071",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1375392,
+        "known_for_department": "Acting",
+        "name": "Dimitris Liolios",
+        "original_name": "Δημήτρης Λιόλιος",
+        "popularity": 0.9045,
+        "profile_path": "/fgXRcpv70NbuRvXGrm45BaB58qf.jpg",
+        "cast_id": 10,
+        "character": "Sentimental",
+        "credit_id": "5fcb9d96b0040a00422961da",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2882633,
+        "known_for_department": "Acting",
+        "name": "Konstadinos Avarikiotis",
+        "original_name": "Κωνσταντίνος Αβαρικιώτης",
+        "popularity": 0.4933,
+        "profile_path": "/xQrdyFCBSG2HMVu7rf0eZMN7B2R.jpg",
+        "cast_id": 11,
+        "character": "Sfyrihtras",
+        "credit_id": "5fcb9dbe43999b003d18087d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1009362,
+        "known_for_department": "Acting",
+        "name": "Yannis Stankoglou",
+        "original_name": "Γιάννης Στάνκογλου",
+        "popularity": 0.9527,
+        "profile_path": "/5W0k7Avq0rVyFC2H6rYXUQWNhbC.jpg",
+        "cast_id": 12,
+        "character": "Zois",
+        "credit_id": "5fcb9dd211386c003ecf4b39",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5210257,
+        "known_for_department": "Acting",
+        "name": "Antonis Peratikos",
+        "original_name": "Antonis Peratikos",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "67997b640400ec6f45c0c272",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3431688,
+        "known_for_department": "Acting",
+        "name": "Stelios Hristoforidis",
+        "original_name": "Στέλιος Χριστοφορίδης",
+        "popularity": 0.2106,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "67997b79fc14d24e35a96a52",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2882638,
+        "known_for_department": "Acting",
+        "name": "Yannis Stefopoulos",
+        "original_name": "Γιάννης Στεφόπουλος",
+        "popularity": 0.456,
+        "profile_path": "/tIIFgrLTTh92xwTXg3I6uVx3pZD.jpg",
+        "cast_id": 13,
+        "character": "Martha's Customer",
+        "credit_id": "5fcb9f59383df2003d59a18c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1620649,
+        "known_for_department": "Acting",
+        "name": "Vyzantia Pyriohou Guy",
+        "original_name": "Βυζαντία Πυριόχου Γκυ",
+        "popularity": 0.3434,
+        "profile_path": "/it5u0c0Xr4tsw2sR7bEz7fCKweM.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "62dabd8bb39e35004cf0cc5b",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94108,
+        "known_for_department": "Directing",
+        "name": "Dennis Iliadis",
+        "original_name": "Ντένης Ηλιάδης",
+        "popularity": 0.9481,
+        "profile_path": "/ip0kDZb1QtqodZ1PNLNbgNnzAlQ.jpg",
+        "credit_id": "52fe45fcc3a36847f80e5ad7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1128434,
+        "known_for_department": "Camera",
+        "name": "Thimios Bakatakis",
+        "original_name": "Θύμιος Μπακατάκης",
+        "popularity": 0.9545,
+        "profile_path": "/fAb6P0zjPhC2uK5xcX9HQTlmn00.jpg",
+        "credit_id": "62df4145955c65004c93a7b6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72525,
+        "known_for_department": "Editing",
+        "name": "Yorgos Mavropsaridis",
+        "original_name": "Γιώργος Μαυροψαρίδης",
+        "popularity": 0.4952,
+        "profile_path": "/14I99sGV038xGQxHF6qlCAk2fwX.jpg",
+        "credit_id": "62df48f35ca7040b28567999",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3438669,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sofia Katsarou",
+        "original_name": "Sofia Katsarou",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67997bf397540c9fc92795c1",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3399324,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giorgos Doudesis",
+        "original_name": "Γιώργος Δουδέσης",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "67997c8b97540c9fc92795f9",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1578763,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daniel Babek",
+        "original_name": "Daniel Babek",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "67997ce749fbe46901c0c7d0",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147813,
+        "known_for_department": "Sound",
+        "name": "Stefanos Efthymiou",
+        "original_name": "Στέφανος Ευθυμίου",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "67997d163d5e6b33ec2796a9",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1604771,
+        "known_for_department": "Sound",
+        "name": "Giorgos Mikrogiannakis",
+        "original_name": "Γιώργος Μικρογιαννάκης",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "67997d2b0400ec6f45c0c2a6",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1488729,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elli Papageorgakopoulou",
+        "original_name": "Elli Papageorgakopoulou",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "67997d4ffc14d24e35a96b53",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1488729,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elli Papageorgakopoulou",
+        "original_name": "Elli Papageorgakopoulou",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "67997d600400ec6f45c0c2d4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3090644,
+        "known_for_department": "Production",
+        "name": "Fenia Kosovitsa",
+        "original_name": "Fenia Kosovitsa",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "67997d9297540c9fc9279680",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1334799,
+        "known_for_department": "Writing",
+        "name": "Aleka Laskou",
+        "original_name": "Aleka Laskou",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67997db23d5e6b33ec2796c6",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94108,
+        "known_for_department": "Directing",
+        "name": "Dennis Iliadis",
+        "original_name": "Ντένης Ηλιάδης",
+        "popularity": 0.9481,
+        "profile_path": "/ip0kDZb1QtqodZ1PNLNbgNnzAlQ.jpg",
+        "credit_id": "67997dbfa05b63435ca963c1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94108,
+        "known_for_department": "Directing",
+        "name": "Dennis Iliadis",
+        "original_name": "Ντένης Ηλιάδης",
+        "popularity": 0.9481,
+        "profile_path": "/ip0kDZb1QtqodZ1PNLNbgNnzAlQ.jpg",
+        "credit_id": "67997dd6a05b63435ca963cd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933681,
+        "known_for_department": "Production",
+        "name": "Iraklis Mavroidis",
+        "original_name": "Ηρακλής Μαυροειδής",
+        "popularity": 0.0637,
+        "profile_path": "/pSM7JjsoWQowGxyN4SAMv1Fsu9c.jpg",
+        "credit_id": "67997de2a05b63435ca963d6",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

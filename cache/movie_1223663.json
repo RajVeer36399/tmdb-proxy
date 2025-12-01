@@ -1,0 +1,384 @@
+{
+  "adult": false,
+  "backdrop_path": "/GpdtBihDzlDBs56XJPbEV95Jkx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1223663,
+  "imdb_id": "tt29306667",
+  "origin_country": [
+    "GT",
+    "US"
+  ],
+  "original_language": "es",
+  "original_title": "Rita",
+  "overview": "Rita, a 13 year old girl, runs away from her abusive father to the big city. She finds solace until she's placed in a safe house run by the State. Rita and her cellmates plots an escape that ends in a shocking act of violence.",
+  "popularity": 5.8124,
+  "poster_path": "/sbU6MmIoPNsvsLls6MUksnKIJBX.jpg",
+  "production_companies": [
+    {
+      "id": 125345,
+      "logo_path": "/z3Ly3BKafB4PUkvVmkTwLQ8V8yS.png",
+      "name": "Concordia Studio",
+      "origin_country": "US"
+    },
+    {
+      "id": 121106,
+      "logo_path": "/xcyxmXBpj6STPBPe4f9C9RQ9yLg.png",
+      "name": "La Casa de Producción",
+      "origin_country": "GT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GT",
+      "name": "Guatemala"
+    }
+  ],
+  "release_date": "2024-07-18",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Put on your wings.",
+  "title": "Rita",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712852,
+        "known_for_department": "Acting",
+        "name": "Giuliana Santa Cruz",
+        "original_name": "Giuliana Santa Cruz",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Rita",
+        "credit_id": "6642dafae50af2c2da35615f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712853,
+        "known_for_department": "Acting",
+        "name": "Ángela Quevedo",
+        "original_name": "Ángela Quevedo",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Sulmy",
+        "credit_id": "6642db07dbfa2a42d6183444",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712854,
+        "known_for_department": "Acting",
+        "name": "Alejandra Vázquez",
+        "original_name": "Alejandra Vázquez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Bebé",
+        "credit_id": "6642db2c7427131bca70e4c2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712855,
+        "known_for_department": "Acting",
+        "name": "Isabel Aldana",
+        "original_name": "Isabel Aldana",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "La Terca",
+        "credit_id": "6642db3b0caab4d340b88eb7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712856,
+        "known_for_department": "Acting",
+        "name": "Glendy Rucal",
+        "original_name": "Glendy Rucal",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Gladys",
+        "credit_id": "6642db4ed088e74113b88b83",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712857,
+        "known_for_department": "Acting",
+        "name": "Ernesto Molina Samperio",
+        "original_name": "Ernesto Molina Samperio",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "William",
+        "credit_id": "6642db5e735af17a6235ae6d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1460794,
+        "known_for_department": "Acting",
+        "name": "María Telón",
+        "original_name": "María Telón",
+        "popularity": 0.2137,
+        "profile_path": "/usv2QPBLlmincUzjgNORJiFrauD.jpg",
+        "cast_id": 10,
+        "character": "Celia",
+        "credit_id": "6642db69617132a5af2b2fb3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346508,
+        "known_for_department": "Acting",
+        "name": "Sabrina De La Hoz",
+        "original_name": "Sabrina De La Hoz",
+        "popularity": 0.0953,
+        "profile_path": "/xnMkzYdZoTNrjXtvHGP5LKllYHW.jpg",
+        "cast_id": 11,
+        "character": "Monitora",
+        "credit_id": "6642db769303c8617c59e9ef",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2369327,
+        "known_for_department": "Acting",
+        "name": "Margarita Kénefic",
+        "original_name": "Margarita Kénefic",
+        "popularity": 0.8691,
+        "profile_path": "/3sInti9ooxMFR3FkAUQzVjxgK6M.jpg",
+        "cast_id": 12,
+        "character": "Ernestina",
+        "credit_id": "6642db84be6bc27b14f1f5b1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 572098,
+        "known_for_department": "Acting",
+        "name": "Juan Pablo Olyslager",
+        "original_name": "Juan Pablo Olyslager",
+        "popularity": 0.9876,
+        "profile_path": "/mVcT70Tyr4sUS8GsYRvYJYA57rp.jpg",
+        "cast_id": 13,
+        "character": "Jefe de Policia",
+        "credit_id": "6642db943ef98a9fbfcb489a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5662410,
+        "known_for_department": "Acting",
+        "name": "Karla García",
+        "original_name": "Karla García",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "(parte del clan de las Lobas)",
+        "credit_id": "68b4e81dbf4d65d413200db7",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19012,
+        "known_for_department": "Directing",
+        "name": "Davis Guggenheim",
+        "original_name": "Davis Guggenheim",
+        "popularity": 0.2213,
+        "profile_path": "/v0uvixJWNvXjur5kXoPDlAkTsEL.jpg",
+        "credit_id": "658dd797a33612593e596ce9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416379,
+        "known_for_department": "Directing",
+        "name": "Jayro Bustamante",
+        "original_name": "Jayro Bustamante",
+        "popularity": 0.1432,
+        "profile_path": "/Bix4OwfvtFLIrq3IKA5eyirojm.jpg",
+        "credit_id": "658dd77dfdfc9f605ce058f8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416379,
+        "known_for_department": "Directing",
+        "name": "Jayro Bustamante",
+        "original_name": "Jayro Bustamante",
+        "popularity": 0.1432,
+        "profile_path": "/Bix4OwfvtFLIrq3IKA5eyirojm.jpg",
+        "credit_id": "658dd78220e6a5343d8b48b4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712859,
+        "known_for_department": "Production",
+        "name": "Matt Brodlie",
+        "original_name": "Matt Brodlie",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6642dc738c0ffa838aba8ae6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1186828,
+        "known_for_department": "Sound",
+        "name": "Pascual Reyes",
+        "original_name": "Pascual Reyes",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "6642dd088995b0e685cb4611",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2369334,
+        "known_for_department": "Editing",
+        "name": "Gustavo Matheu",
+        "original_name": "Gustavo Matheu",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6642dcf701ab728e0e355d7c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712860,
+        "known_for_department": "Production",
+        "name": "Brittany DeVries",
+        "original_name": "Brittany DeVries",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6642dc9470bcd06e332b23c0",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712861,
+        "known_for_department": "Production",
+        "name": "Yasmin Hormozi",
+        "original_name": "Yasmin Hormozi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6642dcb2af8106e8edba9501",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187096,
+        "known_for_department": "Camera",
+        "name": "Inti Briones",
+        "original_name": "Inti Briones",
+        "popularity": 0.4591,
+        "profile_path": "/o9kUUUVnBTnKBUAfvcHJeDcUYqC.jpg",
+        "credit_id": "6642dd18f33ff64dcdcb4000",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416379,
+        "known_for_department": "Directing",
+        "name": "Jayro Bustamante",
+        "original_name": "Jayro Bustamante",
+        "popularity": 0.1432,
+        "profile_path": "/Bix4OwfvtFLIrq3IKA5eyirojm.jpg",
+        "credit_id": "6642dc41c6e79f20f970e428",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712863,
+        "known_for_department": "Production",
+        "name": "Jonathan King",
+        "original_name": "Jonathan King",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6642dce5e1f7abc21495fdeb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10684,
+        "known_for_department": "Production",
+        "name": "Jonathan King",
+        "original_name": "Jonathan King",
+        "popularity": 0.4026,
+        "profile_path": "/v9jHbrlUXxxz5BazZaaWpAIQCSU.jpg",
+        "credit_id": "668fff3a31abcb96bb054986",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

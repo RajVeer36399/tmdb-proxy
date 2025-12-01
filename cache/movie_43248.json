@@ -1,0 +1,359 @@
+{
+  "adult": false,
+  "backdrop_path": "/gBRBDlLWrw2DE7R2Ws0jONlqHyd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 43248,
+  "imdb_id": "tt0050210",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Brain from Planet Arous",
+  "overview": "An evil alien brain, bent on world domination, takes over the body of an atomic scientist, while a \"good\" alien brain inhabits the body of the scientist's dog and waits for an opportunity to defeat the evil brain.",
+  "popularity": 6.5238,
+  "poster_path": "/vpxIaxnnld60lEI5Ix8gQVsNDtg.jpg",
+  "production_companies": [
+    {
+      "id": 12334,
+      "logo_path": null,
+      "name": "Marquette Productions Ltd.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1957-10-01",
+  "revenue": 0,
+  "runtime": 71,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Science-Fiction's most astounding story!",
+  "title": "The Brain from Planet Arous",
+  "video": false,
+  "vote_average": 4.956,
+  "vote_count": 45,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103071,
+        "known_for_department": "Acting",
+        "name": "John Agar",
+        "original_name": "John Agar",
+        "popularity": 0.9592,
+        "profile_path": "/1aVDeOdgbijupFWleRjdbwJftAC.jpg",
+        "cast_id": 3,
+        "character": "Steve March",
+        "credit_id": "52fe4637c3a36847f80f30bb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131049,
+        "known_for_department": "Acting",
+        "name": "Joyce Meadows",
+        "original_name": "Joyce Meadows",
+        "popularity": 0.4972,
+        "profile_path": "/ckolAZvXI41qapwhMVNvstZlrKE.jpg",
+        "cast_id": 4,
+        "character": "Sally Fallon",
+        "credit_id": "52fe4637c3a36847f80f30bf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38129,
+        "known_for_department": "Acting",
+        "name": "Robert Fuller",
+        "original_name": "Robert Fuller",
+        "popularity": 1.3643,
+        "profile_path": "/fmqLOoR07z1dj4iFIFKhmCWunNj.jpg",
+        "cast_id": 5,
+        "character": "Dan Murphy",
+        "credit_id": "52fe4637c3a36847f80f30c3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82748,
+        "known_for_department": "Acting",
+        "name": "Thomas Browne Henry",
+        "original_name": "Thomas Browne Henry",
+        "popularity": 0.2655,
+        "profile_path": "/wnTeUTLHbYxPV3DpVeRzinHzfXg.jpg",
+        "cast_id": 6,
+        "character": "John Fallon",
+        "credit_id": "52fe4637c3a36847f80f30c7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131051,
+        "known_for_department": "Acting",
+        "name": "Henry Travis",
+        "original_name": "Henry Travis",
+        "popularity": 0.4481,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Colonel Frogley",
+        "credit_id": "52fe4637c3a36847f80f30cf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131052,
+        "known_for_department": "Acting",
+        "name": "E. Leslie Thomas",
+        "original_name": "E. Leslie Thomas",
+        "popularity": 0.091,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "General Brown",
+        "credit_id": "52fe4637c3a36847f80f30d3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131053,
+        "known_for_department": "Acting",
+        "name": "Tim Graham",
+        "original_name": "Tim Graham",
+        "popularity": 0.6852,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Sheriff Wiley Pane",
+        "credit_id": "52fe4637c3a36847f80f30d7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131054,
+        "known_for_department": "Acting",
+        "name": "Bill Giorgio",
+        "original_name": "Bill Giorgio",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Russian",
+        "credit_id": "52fe4637c3a36847f80f30db",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1234564,
+        "known_for_department": "Acting",
+        "name": "Ken Terrell",
+        "original_name": "Ken Terrell",
+        "popularity": 0.3835,
+        "profile_path": "/7gyt6pjo1hVtQ9XAriGmcQrMsnW.jpg",
+        "cast_id": 19,
+        "character": "Colonel in Conference Room",
+        "credit_id": "5757a16492514130730001ac",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586171,
+        "known_for_department": "Production",
+        "name": "Dale Tate",
+        "original_name": "Dale Tate",
+        "popularity": 0.09,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Professor/voices of Gor & Vol (uncredited)",
+        "credit_id": "685fd79f86337a800b0d8d74",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102783,
+        "known_for_department": "Sound",
+        "name": "Walter Greene",
+        "original_name": "Walter Greene",
+        "popularity": 0.0826,
+        "profile_path": null,
+        "credit_id": "52fe4638c3a36847f80f30e7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40392,
+        "known_for_department": "Camera",
+        "name": "Jacques R. Marquette",
+        "original_name": "Jacques R. Marquette",
+        "popularity": 0.2254,
+        "profile_path": null,
+        "credit_id": "52fe4638c3a36847f80f30ed",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131048,
+        "known_for_department": "Writing",
+        "name": "Ray Buffum",
+        "original_name": "Ray Buffum",
+        "popularity": 0.0707,
+        "profile_path": null,
+        "credit_id": "52fe4637c3a36847f80f30b7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44878,
+        "known_for_department": "Directing",
+        "name": "Nathan Juran",
+        "original_name": "Nathan Juran",
+        "popularity": 0.2998,
+        "profile_path": "/hwvJYzy9o87gDKeL430BwStUPWI.jpg",
+        "credit_id": "52fe4637c3a36847f80f30b1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40392,
+        "known_for_department": "Camera",
+        "name": "Jacques R. Marquette",
+        "original_name": "Jacques R. Marquette",
+        "popularity": 0.2254,
+        "profile_path": null,
+        "credit_id": "52fe4637c3a36847f80f30e1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1305668,
+        "known_for_department": "Editing",
+        "name": "Irving M. Schoenberg",
+        "original_name": "Irving M. Schoenberg",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65475b169cc67b00df93a152",
+        "department": "Editing",
+        "job": "Supervising Film Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1866932,
+        "known_for_department": "Directing",
+        "name": "Bert Chervin",
+        "original_name": "Bert Chervin",
+        "popularity": 0.0554,
+        "profile_path": null,
+        "credit_id": "65475b2b924ce600e53f288c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2119709,
+        "known_for_department": "Sound",
+        "name": "Philip Mitchell",
+        "original_name": "Philip Mitchell",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "credit_id": "65475b40924ce6013bb6b118",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586171,
+        "known_for_department": "Production",
+        "name": "Dale Tate",
+        "original_name": "Dale Tate",
+        "popularity": 0.09,
+        "profile_path": null,
+        "credit_id": "56d9826d9251412e28004c0f",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586173,
+        "known_for_department": "Production",
+        "name": "J. Francis White",
+        "original_name": "J. Francis White",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "56d982a49251414291009fe3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586172,
+        "known_for_department": "Production",
+        "name": "Joy N. Houck",
+        "original_name": "Joy N. Houck",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "56d982979251414291009fdc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29813,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jack Pierce",
+        "original_name": "Jack Pierce",
+        "popularity": 0.1292,
+        "profile_path": "/c2aJVAbSInjwOlqvVd3UbLmg4I9.jpg",
+        "credit_id": "56d982be9251412fe8006136",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  }
+}

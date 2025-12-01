@@ -1,0 +1,158 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 855912,
+  "imdb_id": "tt14564384",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Badass Bunyip",
+  "overview": "\"Badass Bunyip\" is a a schlocky, gory, Australian Christmas movie. When Shazza and Dazza accidentally choose an sacred Aboriginal site to have their Christmas lunch, all hell breaks loose.",
+  "popularity": 5.8738,
+  "poster_path": "/orxeVbG6yqwTGMKKcRFcLYokVi0.jpg",
+  "production_companies": [
+    {
+      "id": 182333,
+      "logo_path": null,
+      "name": "David Black Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2021-07-29",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No Rhyme, No Reason, No Chance",
+  "title": "Badass Bunyip",
+  "video": false,
+  "vote_average": 1,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2108601,
+        "known_for_department": "Acting",
+        "name": "David Black",
+        "original_name": "David Black",
+        "popularity": 0.8734,
+        "profile_path": "/pNALofteIpxLX4JMG1UyFQAsUdA.jpg",
+        "cast_id": 1,
+        "character": "Dazza / Bunyip / Great Great Grandfather / Professor Grubelshnik",
+        "credit_id": "6103e7ceee43e8007f31f442",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3178966,
+        "known_for_department": "Acting",
+        "name": "Anastasia C. Koulouxas",
+        "original_name": "Anastasia C. Koulouxas",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Shazza",
+        "credit_id": "6103e7f06517d6005e3a1b46",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4427950,
+        "known_for_department": "Acting",
+        "name": "Benji Wragg",
+        "original_name": "Benji Wragg",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "The Waterboard Technician",
+        "credit_id": "6579b8747a3c52012d01763f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1708026,
+        "known_for_department": "Lighting",
+        "name": "Glen Cook",
+        "original_name": "Glen Cook",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Pissing Victim",
+        "credit_id": "6579bb38e93e95218dcc9707",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3178968,
+        "known_for_department": "Directing",
+        "name": "Gerardo Chierchia",
+        "original_name": "Gerardo Chierchia",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6103e83f2a210c002b3bf4bc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2108601,
+        "known_for_department": "Acting",
+        "name": "David Black",
+        "original_name": "David Black",
+        "popularity": 0.8734,
+        "profile_path": "/pNALofteIpxLX4JMG1UyFQAsUdA.jpg",
+        "credit_id": "6103e85042d837002de32308",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2108601,
+        "known_for_department": "Acting",
+        "name": "David Black",
+        "original_name": "David Black",
+        "popularity": 0.8734,
+        "profile_path": "/pNALofteIpxLX4JMG1UyFQAsUdA.jpg",
+        "credit_id": "6103e8684f33ad00453df27d",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

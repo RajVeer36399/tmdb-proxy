@@ -1,0 +1,239 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "http://www.xenonpictures.com/theresistance/",
+  "id": 378184,
+  "imdb_id": "tt2071628",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Resistance",
+  "overview": "　　In 1937, Japan began their invasion of China by murdering over 300,000 people in the capital of Nanjing. The atrocities committed against women and their daughters are especially barbaric. One of them is Xiaoyun, a peasant girl who fights with the Chinese resistance group. On her way to freedom she must fight against Japanese soldiers, ninjas, a killer geisha, Nazis, and the evil General of the Japanese imperial army.",
+  "popularity": 6.0564,
+  "poster_path": "/378aFktlNr3UFn6vMHJJIBHphlp.jpg",
+  "production_companies": [
+    {
+      "id": 13626,
+      "logo_path": null,
+      "name": "1Tentertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 4717,
+      "logo_path": "/yFGKPJmDmKmWDrZK83qOQzWBWKE.png",
+      "name": "Xenon Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 151311,
+      "logo_path": null,
+      "name": "Ningxia Film Group",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-11-10",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In a time of war, when an invasion turns to genocide, a peasant girl must choose between death or The Resistance",
+  "title": "The Resistance",
+  "video": false,
+  "vote_average": 8,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1153146,
+        "known_for_department": "Acting",
+        "name": "Sang Hu",
+        "original_name": "Sang Hu",
+        "popularity": 0.2176,
+        "profile_path": "/fzCGB7rSJZDtkgFOPZDrefBdyHR.jpg",
+        "cast_id": 0,
+        "character": "Xiaoyun",
+        "credit_id": "569d5c75c3a36858c30040f4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1565435,
+        "known_for_department": "Acting",
+        "name": "Jeremy Marr Williams",
+        "original_name": "Jeremy Marr Williams",
+        "popularity": 0.0647,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Steven",
+        "credit_id": "569d5c859251415e5e0041fb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1565436,
+        "known_for_department": "Acting",
+        "name": "Zhao Jun Long",
+        "original_name": "Zhao Jun Long",
+        "popularity": 0.4403,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Chen",
+        "credit_id": "569d5c8e9251415e700041e1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042848,
+        "known_for_department": "Acting",
+        "name": "Johan Karlberg",
+        "original_name": "Johan Karlberg",
+        "popularity": 0.396,
+        "profile_path": "/wJenqkKAMOgVKM3BdCb3b0vOUxD.jpg",
+        "cast_id": 3,
+        "character": "Schultz",
+        "credit_id": "569d5c9bc3a36858d2003f17",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1826114,
+        "known_for_department": "Acting",
+        "name": "Wang Yin",
+        "original_name": "Wang Yin",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Akita",
+        "credit_id": "592db714c3a3684a78000ea8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570282,
+        "known_for_department": "Acting",
+        "name": "Peng Zhang Li",
+        "original_name": "Peng Zhang Li",
+        "popularity": 0.5098,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Takeshi",
+        "credit_id": "569d5cbfc3a36858c6004778",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3851220,
+        "known_for_department": "Acting",
+        "name": "Li Baolong",
+        "original_name": "Li Baolong",
+        "popularity": 0.0379,
+        "profile_path": "/xsn3BeLYKhMOC11OTOLVoZBa5tL.jpg",
+        "cast_id": 11,
+        "character": "Wangshu",
+        "credit_id": "6655a4b7e43eeaba8d74bf6b",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570282,
+        "known_for_department": "Acting",
+        "name": "Peng Zhang Li",
+        "original_name": "Peng Zhang Li",
+        "popularity": 0.5098,
+        "profile_path": null,
+        "credit_id": "569d5cddc3a36858e50043bd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570282,
+        "known_for_department": "Acting",
+        "name": "Peng Zhang Li",
+        "original_name": "Peng Zhang Li",
+        "popularity": 0.5098,
+        "profile_path": null,
+        "credit_id": "569d5ce49251410958000ae2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1565441,
+        "known_for_department": "Writing",
+        "name": "Scott Timmins",
+        "original_name": "Scott Timmins",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "569d5cf59251415e6d003d76",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3851220,
+        "known_for_department": "Acting",
+        "name": "Li Baolong",
+        "original_name": "Li Baolong",
+        "popularity": 0.0379,
+        "profile_path": "/xsn3BeLYKhMOC11OTOLVoZBa5tL.jpg",
+        "credit_id": "6655a4ff71d53364d61cbcdd",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  }
+}

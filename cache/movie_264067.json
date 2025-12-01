@@ -1,0 +1,223 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 264067,
+  "imdb_id": "tt0049122",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Dany, bitte schreiben Sie",
+  "overview": "",
+  "popularity": 5.6323,
+  "poster_path": "/hpFMpajypQvvinUxlqlpOLD05gY.jpg",
+  "production_companies": [
+    {
+      "id": 29707,
+      "logo_path": null,
+      "name": "Ceo-Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1956-05-07",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dany, bitte schreiben Sie",
+  "video": false,
+  "vote_average": 4,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117787,
+        "known_for_department": "Acting",
+        "name": "Sonja Ziemann",
+        "original_name": "Sonja Ziemann",
+        "popularity": 0.2406,
+        "profile_path": "/uSX5UyE7agZuucRSnnyipVYIXM3.jpg",
+        "cast_id": 1,
+        "character": "Daniela „Dany“ Ruland",
+        "credit_id": "5346ffd3c3a3682efd0019ab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51009,
+        "known_for_department": "Acting",
+        "name": "Rudolf Prack",
+        "original_name": "Rudolf Prack",
+        "popularity": 0.201,
+        "profile_path": "/WwUXaHCgrhcrbumn45FGT4Jwpu.jpg",
+        "cast_id": 2,
+        "character": "Hannes Pratt",
+        "credit_id": "5346ffe3c3a3682f26001a6d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1093688,
+        "known_for_department": "Acting",
+        "name": "Anneliese Uhlig",
+        "original_name": "Anneliese Uhlig",
+        "popularity": 0.0506,
+        "profile_path": "/n6ZWOypL3Q1GwI0p9QGjNB4hHOg.jpg",
+        "cast_id": 3,
+        "character": "Helen Turner",
+        "credit_id": "5346fff2c3a3682f0b0019c3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1305408,
+        "known_for_department": "Acting",
+        "name": "Fita Benkhoff",
+        "original_name": "Fita Benkhoff",
+        "popularity": 0.2044,
+        "profile_path": "/7Y4OgNVvWx0zKYYpXXn4gbDSSCF.jpg",
+        "cast_id": 4,
+        "character": "Madame Georgette",
+        "credit_id": "53470016c3a3682f0400199c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36841,
+        "known_for_department": "Acting",
+        "name": "Helen Vita",
+        "original_name": "Helen Vita",
+        "popularity": 0.1385,
+        "profile_path": "/3T2ttjqhghxl1m0xN20wUtZKgZC.jpg",
+        "cast_id": 5,
+        "character": "Ossi Orla",
+        "credit_id": "5347003fc3a3682efd0019b1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5798,
+        "known_for_department": "Acting",
+        "name": "Hubert von Meyerinck",
+        "original_name": "Hubert von Meyerinck",
+        "popularity": 0.3602,
+        "profile_path": "/8APjW4PoDWOX3EmP0JHBsB06dpJ.jpg",
+        "cast_id": 6,
+        "character": "Geschäftsführer Schnattke",
+        "credit_id": "53470051c3a3682f040019a1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 48482,
+        "known_for_department": "Acting",
+        "name": "Liesl Karlstadt",
+        "original_name": "Liesl Karlstadt",
+        "popularity": 0.1309,
+        "profile_path": "/f5UBfVpLcVk7QEh39fUHIkXENrD.jpg",
+        "cast_id": 7,
+        "character": "Frau Bichler",
+        "credit_id": "53470060c3a3682f0b0019ca",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1134565,
+        "known_for_department": "Acting",
+        "name": "Peter Garden",
+        "original_name": "Peter Garden",
+        "popularity": 0.0521,
+        "profile_path": "/cYp43zaa4ZaCJyBQ6F3EwSCOoFH.jpg",
+        "cast_id": 8,
+        "character": "Wolfgang, Billys Bruder",
+        "credit_id": "5494a823c3a3680ff5000d4d",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193299,
+        "known_for_department": "Directing",
+        "name": "Eduard von Borsody",
+        "original_name": "Eduard von Borsody",
+        "popularity": 0.3919,
+        "profile_path": "/qhXfWw2lm4xXyKCKnifFV6wWgkD.jpg",
+        "credit_id": "5346ffc1c3a3682f12001b14",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46506,
+        "known_for_department": "Editing",
+        "name": "Luise Dreyer-Sachsenberg",
+        "original_name": "Luise Dreyer-Sachsenberg",
+        "popularity": 0.0732,
+        "profile_path": null,
+        "credit_id": "5e5cb84e66ae4d001488e5e1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21891,
+        "known_for_department": "Camera",
+        "name": "Heinz Hölscher",
+        "original_name": "Heinz Hölscher",
+        "popularity": 0.0834,
+        "profile_path": "/79u4WSDHuvlJ69nlJej4hRisrTQ.jpg",
+        "credit_id": "5e5cb860357c0000132b43a9",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28055,
+        "known_for_department": "Sound",
+        "name": "Hans-Otto Borgmann",
+        "original_name": "Hans-Otto Borgmann",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5e5cb87a357c0000132b43e3",
+        "department": "Crew",
+        "job": "Compositor"
+      }
+    ]
+  }
+}

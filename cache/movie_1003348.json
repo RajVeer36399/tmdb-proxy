@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1003348,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Doctor Down Under",
+  "overview": "Australian Doctor Who fandom developed in a completely different way to either the British or American experience.  In a vast country, half way round the world, with a population of only 20 million (compared to 60 million in Britain and 250 million in the USA), Australian fans were in many ways isolated from the programme they loved and the people who made it.  Here, in this absorbing documentary, we travel round Australia talking to fans and finding out how they managed to pursue their interest in Doctor Who with so many obstacles in the way… the first of which was ABC’s decision to stop showing the programme!",
+  "popularity": 9.9641,
+  "poster_path": "/d9oUGK7P8exlJJborEtqmhunXeF.jpg",
+  "production_companies": [
+    {
+      "id": 51415,
+      "logo_path": "/o5qBQfB646D9Ooyqo8OHpllmXWr.png",
+      "name": "Reeltime Pictures",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2004-12-01",
+  "revenue": 0,
+  "runtime": 51,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Doctor Down Under",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213417,
+        "known_for_department": "Acting",
+        "name": "Mark Strickson",
+        "original_name": "Mark Strickson",
+        "popularity": 0.3171,
+        "profile_path": "/xqk0PxWC4d2nHyZcgZ13uu2l0Ae.jpg",
+        "cast_id": 1,
+        "character": "Host",
+        "credit_id": "62dbea392866fa00c4ecc3d1",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187330,
+        "known_for_department": "Production",
+        "name": "Keith Barnfather",
+        "original_name": "Keith Barnfather",
+        "popularity": 0.309,
+        "profile_path": "/nc5XBOgyj8cy4R6t4d9Ilf3Rl6h.jpg",
+        "credit_id": "62dbeab7c439c00051b4078a",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

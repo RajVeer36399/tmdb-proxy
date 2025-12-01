@@ -1,0 +1,207 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1339730,
+  "imdb_id": null,
+  "origin_country": [
+    "UY"
+  ],
+  "original_language": "es",
+  "original_title": "Cuando yo existía",
+  "overview": "",
+  "popularity": 3.132,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 196704,
+      "logo_path": null,
+      "name": "El Cielo Cine",
+      "origin_country": "UY"
+    },
+    {
+      "id": 130875,
+      "logo_path": "/kGs7fwMxgxpYkFDxCGG6kKqPdnw.png",
+      "name": "Mr. Miyagi",
+      "origin_country": "ES"
+    },
+    {
+      "id": 52846,
+      "logo_path": "/w2nzPUUGenayZtb3stEdfpOdz2s.png",
+      "name": "Metropolis Films",
+      "origin_country": "UY"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "UY",
+      "name": "Uruguay"
+    }
+  ],
+  "release_date": "",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Post Production",
+  "tagline": "",
+  "title": "Cuando yo existía",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54190,
+        "known_for_department": "Acting",
+        "name": "César Troncoso",
+        "original_name": "César Troncoso",
+        "popularity": 0.3829,
+        "profile_path": "/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "66ce49883c371cc6f24003f3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 933618,
+        "known_for_department": "Acting",
+        "name": "Silvia Kutika",
+        "original_name": "Silvia Kutika",
+        "popularity": 0.173,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "66ce499209a4d7244c3cdb6e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548835,
+        "known_for_department": "Acting",
+        "name": "Néstor Guzzini",
+        "original_name": "Néstor Guzzini",
+        "popularity": 0.0616,
+        "profile_path": "/sIxuUnMnHGG0Z0ohQYfF3AmI7nw.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "66ce499881f25c5887e2e095",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1143300,
+        "known_for_department": "Acting",
+        "name": "Mónica Gonzaga",
+        "original_name": "Mónica Gonzaga",
+        "popularity": 0.3111,
+        "profile_path": "/9Ev7UHIqP3Px8sjL5yt0XmBsHZG.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "66ce499bb6013bba2869dd70",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1329524,
+        "known_for_department": "Acting",
+        "name": "Eduardo Miglionico",
+        "original_name": "Eduardo Miglionico",
+        "popularity": 0.0404,
+        "profile_path": "/4QF7a2d5CLG5TPbcb8VXoNYswcZ.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "66ce49a59a1b95988b69dd64",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2721979,
+        "known_for_department": "Acting",
+        "name": "Ariel Caldarelli",
+        "original_name": "Ariel Caldarelli",
+        "popularity": 0.0561,
+        "profile_path": "/xD344sflv9o3YCu4ShP54KmGx7g.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "66ce49ab769077a514d3ce77",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116587,
+        "known_for_department": "Acting",
+        "name": "Mirella Pascual",
+        "original_name": "Mirella Pascual",
+        "popularity": 12.1207,
+        "profile_path": "/x0VkowzoTH44zpxYveyKkx9D8rL.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "66ce49aee9d8ab8bc4de0301",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4907822,
+        "known_for_department": "Directing",
+        "name": "Martín Avdolov",
+        "original_name": "Martín Avdolov",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "66ce4975afa925ee704acb69",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1707689,
+        "known_for_department": "Visual Effects",
+        "name": "Alejandro Damiani",
+        "original_name": "Alejandro Damiani",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "66ce4968d41af2938ba45acc",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

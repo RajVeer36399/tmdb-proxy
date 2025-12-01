@@ -1,0 +1,317 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 314126,
+  "imdb_id": "tt0159007",
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Die Superbullen",
+  "overview": "Franz is unlucky. After a motorcycle accident, the super cop is placed on sick leave. His incompetent rival cop, Kleiber, who has long been under pressure from his position, takes over command of the police station. His bad luck is that he attracts misfortune like a magnet. When a young couple with a millionaire heiress moves into the nearby castle, Franz ignores his sick leave and takes a job as a caretaker, secretly uncovering a major murder plot. And indeed, little Funny's uncle is hatching murderous plans. A finely spun web of murderous suspicions quickly emerges, fitting together perfectly in a seemingly perfectly orchestrated crime puzzle made up of incriminating evidence. But before Franz can bring the alleged perpetrators to justice, he himself is mistaken for the murderer.",
+  "popularity": 6.4556,
+  "poster_path": "/ek3Dpv2B1MMk6ep5DeHLXC24AN6.jpg",
+  "production_companies": [
+    {
+      "id": 1018,
+      "logo_path": null,
+      "name": "Lisa Film",
+      "origin_country": "AT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1997-01-01",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Die Superbullen",
+  "video": false,
+  "vote_average": 3,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38974,
+        "known_for_department": "Acting",
+        "name": "Wolfgang Fierek",
+        "original_name": "Wolfgang Fierek",
+        "popularity": 0.1747,
+        "profile_path": "/6cjipSR0fddxsu6iDJGtGMCAg1L.jpg",
+        "cast_id": 0,
+        "character": "Franz Faltinger",
+        "credit_id": "549fa2b99251413123009cbf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38719,
+        "known_for_department": "Acting",
+        "name": "Ottfried Fischer",
+        "original_name": "Ottfried Fischer",
+        "popularity": 0.1632,
+        "profile_path": "/gGN5k6mIFUZFDqtU3ZEqdMmEOVp.jpg",
+        "cast_id": 1,
+        "character": "Hans Kleiber",
+        "credit_id": "549fa2ccc3a3682f23009f9e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69523,
+        "known_for_department": "Acting",
+        "name": "Harald Krassnitzer",
+        "original_name": "Harald Krassnitzer",
+        "popularity": 0.2897,
+        "profile_path": "/6TDRB8wDTG4OCUCX9drkEeAwYVR.jpg",
+        "cast_id": 2,
+        "character": "Thomas Torberg",
+        "credit_id": "549fa2dec3a3685542006afa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 48148,
+        "known_for_department": "Acting",
+        "name": "Christina Plate",
+        "original_name": "Christina Plate",
+        "popularity": 0.3999,
+        "profile_path": "/p4ZUFSpaPgLD4PLqpHhFwmsGKJt.jpg",
+        "cast_id": 3,
+        "character": "Claudia Torberg",
+        "credit_id": "549fa2ee925141312900a45a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1167185,
+        "known_for_department": "Acting",
+        "name": "Rebecca Horner",
+        "original_name": "Rebecca Horner",
+        "popularity": 0.06,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Fanny",
+        "credit_id": "549fa300c3a3682f1e009bc9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18726,
+        "known_for_department": "Acting",
+        "name": "Fritz Karl",
+        "original_name": "Fritz Karl",
+        "popularity": 1.2234,
+        "profile_path": "/jvkg9ugmuCjAM4OOQyEmIeiVWn1.jpg",
+        "cast_id": 5,
+        "character": "Peter Bachler",
+        "credit_id": "549fa312c3a3680b2700875a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23798,
+        "known_for_department": "Acting",
+        "name": "Kurt Weinzierl",
+        "original_name": "Kurt Weinzierl",
+        "popularity": 0.5052,
+        "profile_path": "/5s0IFldd5senpGKXV7YL6DBvqBl.jpg",
+        "cast_id": 8,
+        "character": "Leo",
+        "credit_id": "549fa533c3a3682f21009e30",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1353329,
+        "known_for_department": "Acting",
+        "name": "Gudrun Velisek",
+        "original_name": "Gudrun Velisek",
+        "popularity": 0.1817,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Eliette",
+        "credit_id": "549fa543c3a3682f1b009c68",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26958,
+        "known_for_department": "Acting",
+        "name": "Veronika Faber",
+        "original_name": "Veronika Faber",
+        "popularity": 0.1486,
+        "profile_path": "/umqNJ7ztlah0ENkMGNEpStMLPiC.jpg",
+        "cast_id": 10,
+        "character": "Anna",
+        "credit_id": "549fa5519251414e280050cb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3970,
+        "known_for_department": "Acting",
+        "name": "Erwin Leder",
+        "original_name": "Erwin Leder",
+        "popularity": 0.3164,
+        "profile_path": "/4V6ewUr0KAMl8C2xvWvg8JPjsab.jpg",
+        "cast_id": 11,
+        "character": "Guftler",
+        "credit_id": "549fa561c3a3682f1b009c6d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1291286,
+        "known_for_department": "Acting",
+        "name": "Hanns Eybl",
+        "original_name": "Hanns Eybl",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "549fa5779251413132009abc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1405132,
+        "known_for_department": "Acting",
+        "name": "Claudia Kleiber",
+        "original_name": "Claudia Kleiber",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "549fa585c3a3682f21009e3b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291282,
+        "known_for_department": "Acting",
+        "name": "Adi  Peichl",
+        "original_name": "Adi  Peichl",
+        "popularity": 0.083,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "549fa594c3a3682f1b009c73",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1405133,
+        "known_for_department": "Acting",
+        "name": "Robert Weigmüller",
+        "original_name": "Robert Weigmüller",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "549fa5a1c3a3685542006b45",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1191116,
+        "known_for_department": "Acting",
+        "name": "Silvia Vas",
+        "original_name": "Silvia Vas",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Liane",
+        "credit_id": "554f46cb9251416984003fc2",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38843,
+        "known_for_department": "Acting",
+        "name": "Otto Retzer",
+        "original_name": "Otto Retzer",
+        "popularity": 0.7338,
+        "profile_path": "/wOcAxvoCAgR0ntkzDpufLvy1PIu.jpg",
+        "credit_id": "549fa65b9251414d27004f1c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22618,
+        "known_for_department": "Writing",
+        "name": "Erich Tomek",
+        "original_name": "Erich Tomek",
+        "popularity": 0.7,
+        "profile_path": null,
+        "credit_id": "549fa666925141236b000db9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2612899,
+        "known_for_department": "Sound",
+        "name": "Georg Gabler",
+        "original_name": "Georg Gabler",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5ea260c8c6006d001ffcd9e5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

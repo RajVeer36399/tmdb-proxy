@@ -1,0 +1,226 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 199720,
+  "imdb_id": "tt1483362",
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_title": "Dies Irae",
+  "overview": "One guy, whom we can call X, leads a monotonous life with work, family and football. But one day the club loses ...",
+  "popularity": 7.0192,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "2003-06-05",
+  "revenue": 0,
+  "runtime": 15,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dies Irae",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2324618,
+        "known_for_department": "Acting",
+        "name": "Teresa Sobral",
+        "original_name": "Teresa Sobral",
+        "popularity": 0.0496,
+        "profile_path": "/3W1jZKA8Tm0hUo2umTmu9dOyFjL.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "5f0f7d03a313b80034331b04",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001677,
+        "known_for_department": "Acting",
+        "name": "Miguel Borges",
+        "original_name": "Miguel Borges",
+        "popularity": 0.2373,
+        "profile_path": "/oMhms5ZGPZZgMUkSgqh4YNoG8TQ.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "5f0f7d0ae22d280035c878e4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1363244,
+        "known_for_department": "Acting",
+        "name": "Pedro Carraca",
+        "original_name": "Pedro Carraca",
+        "popularity": 0.0434,
+        "profile_path": "/bipcMYetF031o33Bb1SdkUzFj3U.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5f0f7d2360620a003583b18e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1159556,
+        "known_for_department": "Acting",
+        "name": "Sérgio Gomes",
+        "original_name": "Sérgio Gomes",
+        "popularity": 0.0256,
+        "profile_path": "/m8ulQ0ON2qV3Ow4fPR6azyPZf8j.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "5f0f7d2e0231f20038fe0cb3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2713435,
+        "known_for_department": "Acting",
+        "name": "Andreia Bento",
+        "original_name": "Andreia Bento",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "5f0fd6a93429ff0036e3513d",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1159224,
+        "known_for_department": "Production",
+        "name": "Humberto Santana",
+        "original_name": "Humberto Santana",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4da99251416c9111dcc5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1159224,
+        "known_for_department": "Production",
+        "name": "Humberto Santana",
+        "original_name": "Humberto Santana",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4da99251416c9111dccb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1179964,
+        "known_for_department": "Visual Effects",
+        "name": "João Morais Ribeiro",
+        "original_name": "João Morais Ribeiro",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4da99251416c9111dcd7",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1179966,
+        "known_for_department": "Sound",
+        "name": "Paulo Curado",
+        "original_name": "Paulo Curado",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "52fe4da99251416c9111dcdd",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1179965,
+        "known_for_department": "Crew",
+        "name": "André Militão",
+        "original_name": "André Militão",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4da99251416c9111dcd1",
+        "department": "Crew",
+        "job": "Mixing Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1179964,
+        "known_for_department": "Visual Effects",
+        "name": "João Morais Ribeiro",
+        "original_name": "João Morais Ribeiro",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4da99251416c9111dcbf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1179967,
+        "known_for_department": "Visual Effects",
+        "name": "Armando Coelho",
+        "original_name": "Armando Coelho",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe4da99251416c9111dce9",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1179964,
+        "known_for_department": "Visual Effects",
+        "name": "João Morais Ribeiro",
+        "original_name": "João Morais Ribeiro",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4da99251416c9111dce3",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  }
+}

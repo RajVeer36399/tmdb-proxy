@@ -1,0 +1,192 @@
+{
+  "adult": false,
+  "backdrop_path": "/vQkIAFCtxLrkWk6S2LeTrvx5nJI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 297019,
+  "imdb_id": "tt3848888",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "hi",
+  "original_title": "The Shaukeens",
+  "overview": "Three friends in their 60s try to do everything that they couldn't do in their younger days - before death arrives.",
+  "popularity": 6.6262,
+  "poster_path": "/hAAzlXKdYtheXSVrWQKTQ6Dy0oR.jpg",
+  "production_companies": [
+    {
+      "id": 35063,
+      "logo_path": "/r7pvX3K2k3iNVBVt4xufCIEIcnP.png",
+      "name": "Cape Of Good Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 35064,
+      "logo_path": "/mAqgOSWkUTQ3EMYBuy6pMRTFOmQ.png",
+      "name": "Cine1 Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 35065,
+      "logo_path": null,
+      "name": "Ashwin Varde Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 115635,
+      "logo_path": "/sVq1TAk4WPKak5omzG9LICWmsEM.png",
+      "name": "Trilogic Digital Media",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2014-11-07",
+  "revenue": 0,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Shaukeens",
+  "video": false,
+  "vote_average": 4.4,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 8.4866,
+        "profile_path": "/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg",
+        "cast_id": 4,
+        "character": "Akshay Kumar",
+        "credit_id": "5438ff4c0e0a266fd9001742",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130591,
+        "known_for_department": "Acting",
+        "name": "Lisa Haydon",
+        "original_name": "Lisa Haydon",
+        "popularity": 0.4481,
+        "profile_path": "/7umJVTP16jHt8R1tFpFIock1G4e.jpg",
+        "cast_id": 20,
+        "character": "Ahana",
+        "credit_id": "54390000c3a3680f6a0015b6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217,
+        "known_for_department": "Acting",
+        "name": "Anupam Kher",
+        "original_name": "Anupam Kher",
+        "popularity": 0.6806,
+        "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "54390017c3a3680f6c0015ed",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110199,
+        "known_for_department": "Acting",
+        "name": "Annu Kapoor",
+        "original_name": "Annu Kapoor",
+        "popularity": 0.29,
+        "profile_path": "/jeWOeGZYWHAvP3fwSgPyozOyW80.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "543900230e0a265f77000799",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127790,
+        "known_for_department": "Acting",
+        "name": "Piyush Mishra",
+        "original_name": "Piyush Mishra",
+        "popularity": 0.9117,
+        "profile_path": "/2nDekGUGEjPJ6Kymme0wp55emwl.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "5a3e9f1cc3a3680bb001451f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35790,
+        "known_for_department": "Acting",
+        "name": "Rati Agnihotri",
+        "original_name": "Rati Agnihotri",
+        "popularity": 0.8798,
+        "profile_path": "/a4E2eoMZAt8bxRwSzX208UXBza5.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "5a3e9f2ac3a3680bc70148d0",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 230441,
+        "known_for_department": "Directing",
+        "name": "Abhishek Sharma",
+        "original_name": "Abhishek Sharma",
+        "popularity": 0.354,
+        "profile_path": null,
+        "credit_id": "545a4070c3a3682606000163",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1078260,
+        "known_for_department": "Sound",
+        "name": "Yo Yo Honey Singh",
+        "original_name": "Yo Yo Honey Singh",
+        "popularity": 0.4311,
+        "profile_path": "/w54B446zi7xrdq0vEBNplMDMM6K.jpg",
+        "credit_id": "5d6532c6813cb60013f9d59c",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

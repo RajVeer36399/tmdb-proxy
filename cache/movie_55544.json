@@ -1,0 +1,370 @@
+{
+  "adult": false,
+  "backdrop_path": "/1vmfytDgYC7YZNK38jT3zbA22Fg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 55544,
+  "imdb_id": "tt0017448",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Herr Tartüff",
+  "overview": "A young man shows his millionaire grandfather a film based on Molière's play \"Tartuffe\" in order to expose the old man's hypocritical governess who covets the young man's inheritance.",
+  "popularity": 5.5343,
+  "poster_path": "/xRin1lHzsK8s8EMfT54wgxiD61H.jpg",
+  "production_companies": [
+    {
+      "id": 12372,
+      "logo_path": "/lcQScIQXHQXuLMLFQt0loJl5gWJ.png",
+      "name": "UFA",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1926-01-25",
+  "revenue": 0,
+  "runtime": 62,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tartuffe",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 74,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2895,
+        "known_for_department": "Acting",
+        "name": "Emil Jannings",
+        "original_name": "Emil Jannings",
+        "popularity": 0.3828,
+        "profile_path": "/yX7AFfYgYit6WlPshockLsP40LB.jpg",
+        "cast_id": 4,
+        "character": "Tartüff",
+        "credit_id": "52fe48d2c3a36847f817b42b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3000,
+        "known_for_department": "Acting",
+        "name": "Werner Krauss",
+        "original_name": "Werner Krauß",
+        "popularity": 0.1693,
+        "profile_path": "/xlyS30qzcndmczxG5JdJWwJ1heI.jpg",
+        "cast_id": 8,
+        "character": "Herr Orgon",
+        "credit_id": "52fe48d2c3a36847f817b43b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3005,
+        "known_for_department": "Acting",
+        "name": "Lil Dagover",
+        "original_name": "Lil Dagover",
+        "popularity": 0.5097,
+        "profile_path": "/eNdCKI0PjnDapWEbTuZln7U2hCl.jpg",
+        "cast_id": 9,
+        "character": "Frau Elmire / Elmire, Orgon's wife",
+        "credit_id": "52fe48d2c3a36847f817b43f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222579,
+        "known_for_department": "Acting",
+        "name": "Hermann Picha",
+        "original_name": "Hermann Picha",
+        "popularity": 0.153,
+        "profile_path": "/rHNFH1lDVQOVioEHNTLhfGPYi0X.jpg",
+        "cast_id": 5,
+        "character": "Der Greis",
+        "credit_id": "52fe48d2c3a36847f817b42f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2898,
+        "known_for_department": "Acting",
+        "name": "Rosa Valetti",
+        "original_name": "Rosa Valetti",
+        "popularity": 0.1294,
+        "profile_path": "/6FkyTtJRJJIkHQbU5G6HLnqOtms.jpg",
+        "cast_id": 6,
+        "character": "Seine Haushälterin / Housekeeper",
+        "credit_id": "52fe48d2c3a36847f817b433",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222580,
+        "known_for_department": "Acting",
+        "name": "André Mattoni",
+        "original_name": "André Mattoni",
+        "popularity": 0.0413,
+        "profile_path": "/y12dLU18dNeMmu9bM6pm8ZNw7Ty.jpg",
+        "cast_id": 7,
+        "character": "Sein Enkel / Grandson",
+        "credit_id": "52fe48d2c3a36847f817b437",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 222581,
+        "known_for_department": "Acting",
+        "name": "Lucie Höflich",
+        "original_name": "Lucie Höflich",
+        "popularity": 0.1263,
+        "profile_path": "/hgeqPfgUQPp0fcXqLn09MX9rlD2.jpg",
+        "cast_id": 10,
+        "character": "Dorine",
+        "credit_id": "52fe48d2c3a36847f817b443",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 48938,
+        "known_for_department": "Acting",
+        "name": "Camilla Horn",
+        "original_name": "Camilla Horn",
+        "popularity": 0.214,
+        "profile_path": "/sdtzpHPJPS08ey7yMXxxDW01hqa.jpg",
+        "cast_id": 23,
+        "character": "(uncredited)",
+        "credit_id": "63990aae7cffda00e0cbe863",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9076,
+        "known_for_department": "Directing",
+        "name": "F. W. Murnau",
+        "original_name": "F. W. Murnau",
+        "popularity": 0.4175,
+        "profile_path": "/keLp43iiIkkllroUwExIJITeR7a.jpg",
+        "credit_id": "52fe48d2c3a36847f817b41b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70196,
+        "known_for_department": "Writing",
+        "name": "Molière",
+        "original_name": "Molière",
+        "popularity": 0.099,
+        "profile_path": "/kmUl9Zw58sqaPFSTrQYmUa4Zceq.jpg",
+        "credit_id": "52fe48d2c3a36847f817b421",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29153,
+        "known_for_department": "Art",
+        "name": "Robert Herlth",
+        "original_name": "Robert Herlth",
+        "popularity": 0.0679,
+        "profile_path": null,
+        "credit_id": "56b98ddc9251416872000843",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1309016,
+        "known_for_department": "Art",
+        "name": "Walter Röhrig",
+        "original_name": "Walter Röhrig",
+        "popularity": 0.1224,
+        "profile_path": null,
+        "credit_id": "56b98de5c3a3681e6800257e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67,
+        "known_for_department": "Production",
+        "name": "Erich Pommer",
+        "original_name": "Erich Pommer",
+        "popularity": 0.1573,
+        "profile_path": "/tDYZA5sghHNO1g4hpkRbDei2SoK.jpg",
+        "credit_id": "56b98db192514106af00178f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70,
+        "known_for_department": "Camera",
+        "name": "Karl Freund",
+        "original_name": "Karl Freund",
+        "popularity": 0.5464,
+        "profile_path": "/radUQdNeGHtn7vhQOTnHBVPH2vE.jpg",
+        "credit_id": "56b98dc792514106af001798",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29153,
+        "known_for_department": "Art",
+        "name": "Robert Herlth",
+        "original_name": "Robert Herlth",
+        "popularity": 0.0679,
+        "profile_path": null,
+        "credit_id": "56b98dce92514106af00179a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1523498,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Waldemar Jabs",
+        "original_name": "Waldemar Jabs",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "56b98def92514106aa0018b5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1309016,
+        "known_for_department": "Art",
+        "name": "Walter Röhrig",
+        "original_name": "Walter Röhrig",
+        "popularity": 0.1224,
+        "profile_path": null,
+        "credit_id": "56b98dd592514106aa0018af",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2996,
+        "known_for_department": "Sound",
+        "name": "Giuseppe Becce",
+        "original_name": "Giuseppe Becce",
+        "popularity": 0.0389,
+        "profile_path": "/sGeG2nB5a9aPkc9uXkqRygDyALj.jpg",
+        "credit_id": "56b98dbd92514106af001794",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1713811,
+        "known_for_department": "Sound",
+        "name": "Kurt Graunke",
+        "original_name": "Kurt Graunke",
+        "popularity": 0.0451,
+        "profile_path": null,
+        "credit_id": "5f6031ec156cc70036db83b3",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1572241,
+        "known_for_department": "Sound",
+        "name": "Frank Strobel",
+        "original_name": "Frank Strobel",
+        "popularity": 0.13,
+        "profile_path": null,
+        "credit_id": "5f6031f93f7e1d0036945918",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 48938,
+        "known_for_department": "Acting",
+        "name": "Camilla Horn",
+        "original_name": "Camilla Horn",
+        "popularity": 0.214,
+        "profile_path": "/sdtzpHPJPS08ey7yMXxxDW01hqa.jpg",
+        "credit_id": "5f6031bbfd7aa4003bf217c6",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2794,
+        "known_for_department": "Camera",
+        "name": "Robert Baberske",
+        "original_name": "Robert Baberske",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "5f6031de1684f700353b84cb",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2792,
+        "known_for_department": "Writing",
+        "name": "Carl Mayer",
+        "original_name": "Carl Mayer",
+        "popularity": 0.1892,
+        "profile_path": null,
+        "credit_id": "67e52bcf2580eef1e8003cd2",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

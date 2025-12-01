@@ -1,0 +1,526 @@
+{
+  "adult": false,
+  "backdrop_path": "/23dSPWUTawpYmOytw7diq0aPHRG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.garorourke.com/portfolio/sanatorium",
+  "id": 1415669,
+  "imdb_id": "tt35820341",
+  "origin_country": [
+    "IE",
+    "UA"
+  ],
+  "original_language": "uk",
+  "original_title": "Sanatorium",
+  "overview": "Despite a war raging close by, mud treatments and electroshock therapies continue at Kuyalnik Sanatorium, an enormous 1970s brutalist building on the shores of Odesa, where a small group search for love, healing, and happiness.",
+  "popularity": 6.4431,
+  "poster_path": "/f0DbnNH2FIZpuH10D6cEZWqtUmr.jpg",
+  "production_companies": [
+    {
+      "id": 11076,
+      "logo_path": "/s6avUerrSgm77yEs6sx5BJKtYEs.png",
+      "name": "Venom Films",
+      "origin_country": "IE"
+    },
+    {
+      "id": 256925,
+      "logo_path": "/l1dZ2FS7pkBOLJPf6OzoOkwwLpT.png",
+      "name": "MetFilm Sales",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    },
+    {
+      "id": 149648,
+      "logo_path": null,
+      "name": "Petite Maison Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 50510,
+      "logo_path": "/fNWALeT5F0pOcTtBAeV1No8fB9f.png",
+      "name": "BBC Storyville",
+      "origin_country": "GB"
+    },
+    {
+      "id": 100886,
+      "logo_path": "/zTgOHuAj3Kc9vM9DtIw9Qgcwves.png",
+      "name": "Creative Europe Media",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-09-05",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "Український"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Welcome to Kuyalnyk Sanatorium. Ukraine's favourite frontline holiday resort.",
+  "title": "Sanatorium",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 1,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2462853,
+        "known_for_department": "Directing",
+        "name": "Gar O'Rourke",
+        "original_name": "Gar O'Rourke",
+        "popularity": 0.0243,
+        "profile_path": null,
+        "credit_id": "6781a6552b29a918d04e935f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1055944,
+        "known_for_department": "Production",
+        "name": "Andrew Freedman",
+        "original_name": "Andrew Freedman",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "67b1c4a76689678bae9fa94e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141348,
+        "known_for_department": "Directing",
+        "name": "Ken Wardrop",
+        "original_name": "Ken Wardrop",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "67b1c4bf6510be227fe0d33b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5250064,
+        "known_for_department": "Production",
+        "name": "Samantha Corr",
+        "original_name": "Samantha Corr",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67b1c50a6689678bae9fa96b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674899,
+        "known_for_department": "Editing",
+        "name": "John Murphy",
+        "original_name": "John Murphy",
+        "popularity": 0.8222,
+        "profile_path": "/oLMXX4xKelZBg6X4GzSTMth0uY0.jpg",
+        "credit_id": "67b1c51a80270b0e089fae1d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2439819,
+        "known_for_department": "Camera",
+        "name": "Denys Melnyk",
+        "original_name": "Denys Melnyk",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "68002f5383c6e567c7d960ca",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4651303,
+        "known_for_department": "Sound",
+        "name": "Denis Kilty",
+        "original_name": "Denis Kilty",
+        "popularity": 0,
+        "profile_path": "/xEe3oKFzhB9ypN6NE3DrZa2XyUQ.jpg",
+        "credit_id": "68002f6983c6e567c7d960d6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777007,
+        "known_for_department": "Production",
+        "name": "Serhiy Solodko",
+        "original_name": "Serhiy Solodko",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff874ed927b68bb092757f",
+        "department": "Production",
+        "job": "Casting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777010,
+        "known_for_department": "Production",
+        "name": "Mariya Panasyuk",
+        "original_name": "Mariya Panasyuk",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff878fa2fd3117562ab033",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777013,
+        "known_for_department": "Production",
+        "name": "Katya Iachina",
+        "original_name": "Katya Iachina",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff87d4120319b2d02aae3d",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777016,
+        "known_for_department": "Production",
+        "name": "Sasha Cherniavsky",
+        "original_name": "Sasha Cherniavsky",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff881198a96ce27ea634f2",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1088616,
+        "known_for_department": "Production",
+        "name": "Greg Martin",
+        "original_name": "Greg Martin",
+        "popularity": 0.0607,
+        "profile_path": null,
+        "credit_id": "68ff88b6a2fd3117562ab055",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2046946,
+        "known_for_department": "Production",
+        "name": "Zak Brilliant",
+        "original_name": "Zak Brilliant",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "68ff88fe7958eafc8e3bff5a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1289924,
+        "known_for_department": "Directing",
+        "name": "Tessa Louise-Salomé",
+        "original_name": "Tessa Louise-Salomé",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "68ff89627abdd644ffeab5d1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777027,
+        "known_for_department": "Production",
+        "name": "Luc Sorrel",
+        "original_name": "Luc Sorrel",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff899c8aec7a0bb1938fbd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1198315,
+        "known_for_department": "Production",
+        "name": "Emma Hindley",
+        "original_name": "Emma Hindley",
+        "popularity": 0.0578,
+        "profile_path": null,
+        "credit_id": "68ff89ec3a61d287ebbbf86f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777050,
+        "known_for_department": "Production",
+        "name": "Iryna Kyporenko",
+        "original_name": "Iryna Kyporenko",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff8b1aa0605844a992757d",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2761374,
+        "known_for_department": "Camera",
+        "name": "Vadym Smarchenko",
+        "original_name": "Vadym Smarchenko",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68ff8b54699749ccf4da022c",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2303902,
+        "known_for_department": "Sound",
+        "name": "Volodymyr Lysenko",
+        "original_name": "Volodymyr Lysenko",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff8bcf5daf6de04beab4d3",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777056,
+        "known_for_department": "Camera",
+        "name": "Volodymyr Tomashevskyi",
+        "original_name": "Volodymyr Tomashevskyi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff8c1e6096e11fceeab41c",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777063,
+        "known_for_department": "Production",
+        "name": "Emma Leddy",
+        "original_name": "Emma Leddy",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff8c9dc6f47d6cff9fb526",
+        "department": "Production",
+        "job": "Post Production Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777067,
+        "known_for_department": "Production",
+        "name": "Jennifer Connelly",
+        "original_name": "Jennifer Connelly",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff8d190be636983aa634f4",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1938969,
+        "known_for_department": "Editing",
+        "name": "Gary Curran",
+        "original_name": "Gary Curran",
+        "popularity": 0.0872,
+        "profile_path": null,
+        "credit_id": "68ff8d49b9804d36a9938f62",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777072,
+        "known_for_department": "Editing",
+        "name": "Dominic Lord",
+        "original_name": "Dominic Lord",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff8da37958eafc8e3bff75",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5151093,
+        "known_for_department": "Sound",
+        "name": "Colm O'Rourke",
+        "original_name": "Colm O'Rourke",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68ff8e61ef26b30f944e8df6",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3778756,
+        "known_for_department": "Sound",
+        "name": "Andy Kirwan",
+        "original_name": "Andy Kirwan",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "68ff8e97c296bbaa11276446",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4431816,
+        "known_for_department": "Sound",
+        "name": "Steven Maher",
+        "original_name": "Steven Maher",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68ff8edb9e50829caea634cf",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4431816,
+        "known_for_department": "Sound",
+        "name": "Steven Maher",
+        "original_name": "Steven Maher",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68ff8f03cb10ef53d54e8dd7",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4814458,
+        "known_for_department": "Production",
+        "name": "Elaine Brennan O'Dwyer",
+        "original_name": "Elaine Brennan O'Dwyer",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff8f3df57d1caf913bfe9c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4651303,
+        "known_for_department": "Sound",
+        "name": "Denis Kilty",
+        "original_name": "Denis Kilty",
+        "popularity": 0,
+        "profile_path": "/xEe3oKFzhB9ypN6NE3DrZa2XyUQ.jpg",
+        "credit_id": "68ff8f77a0605844a9927599",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5777086,
+        "known_for_department": "Sound",
+        "name": "Valeriy Mirnyi",
+        "original_name": "Valeriy Mirnyi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff8fb41a38147514a311cc",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3688707,
+        "known_for_department": "Production",
+        "name": "Jessie Hayden",
+        "original_name": "Jessie Hayden",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff9031582dc8ce7cda0339",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2978804,
+        "known_for_department": "Production",
+        "name": "Lucie Kon",
+        "original_name": "Lucie Kon",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68ff911fc296bbaa11276459",
+        "department": "Crew",
+        "job": "Commissioning Editor"
+      }
+    ]
+  }
+}

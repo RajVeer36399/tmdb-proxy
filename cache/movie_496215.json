@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 496215,
+  "imdb_id": "tt0165276",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "xx",
+  "original_title": "Die Durchgängerin",
+  "overview": "",
+  "popularity": 5.04,
+  "poster_path": "/9mWgqr46OY9vpj2ksmAyIRAGhDP.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1928-04-18",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Die Durchgängerin",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 590761,
+        "known_for_department": "Acting",
+        "name": "Käthe von Nagy",
+        "original_name": "Käthe von Nagy",
+        "popularity": 0.0637,
+        "profile_path": "/dP0fB5yzACRMv1C4zvNVzE35DRJ.jpg",
+        "cast_id": 1,
+        "character": "Ilsebill",
+        "credit_id": "5a4d75de925141734300099c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591493,
+        "known_for_department": "Acting",
+        "name": "Hans Brausewetter",
+        "original_name": "Hans Brausewetter",
+        "popularity": 0.0801,
+        "profile_path": "/53iVqCwG5YEjsezcR4hstKcg16S.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "5a4d75e80e0a26480b000a1f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32007,
+        "known_for_department": "Acting",
+        "name": "Mathias Wieman",
+        "original_name": "Mathias Wieman",
+        "popularity": 0.387,
+        "profile_path": "/lrTjCfMpZUJSvkWt6s2aqVPmXh.jpg",
+        "cast_id": 3,
+        "character": "Vladimir Pekoff",
+        "credit_id": "5a4d75f80e0a2648200009c2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225291,
+        "known_for_department": "Acting",
+        "name": "Karl Platen",
+        "original_name": "Karl Platen",
+        "popularity": 0.2678,
+        "profile_path": "/pD8jhGfCS1Dw8AZYZIh1TcwEWKS.jpg",
+        "cast_id": 4,
+        "character": "Franz",
+        "credit_id": "5a4d76060e0a26481a0009d2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28071,
+        "known_for_department": "Acting",
+        "name": "Adele Sandrock",
+        "original_name": "Adele Sandrock",
+        "popularity": 0.1289,
+        "profile_path": "/fMRJoHuvEXH6tnuy1VtGqOrCORc.jpg",
+        "cast_id": 5,
+        "character": "Leokadia Spannagel",
+        "credit_id": "5a4d76320e0a264810000a6a",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590666,
+        "known_for_department": "Directing",
+        "name": "Hanns Schwarz",
+        "original_name": "Hanns Schwarz",
+        "popularity": 0.456,
+        "profile_path": "/dSlQmfvcwZUCy2CMcensbOdN5YE.jpg",
+        "credit_id": "5a4d75c3c3a3683b76000a98",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193300,
+        "known_for_department": "Writing",
+        "name": "Ludwig Fulda",
+        "original_name": "Ludwig Fulda",
+        "popularity": 0.0311,
+        "profile_path": "/iWLkOcbMcOK3XRyrbObI1muz6y9.jpg",
+        "credit_id": "5e630abb459ad60013568b98",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5029,
+        "known_for_department": "Directing",
+        "name": "Robert Siodmak",
+        "original_name": "Robert Siodmak",
+        "popularity": 0.6924,
+        "profile_path": "/6Az7VLGpET7wtVLQPfsrCJGPaL8.jpg",
+        "credit_id": "5e630ac5459ad6001855f4b2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 222669,
+        "known_for_department": "Writing",
+        "name": "Rolf E. Vanloo",
+        "original_name": "Rolf E. Vanloo",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "5e630acd55c92600175c39cf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37847,
+        "known_for_department": "Camera",
+        "name": "Werner Brandes",
+        "original_name": "Werner Brandes",
+        "popularity": 0.0971,
+        "profile_path": null,
+        "credit_id": "5e630ad8357c00001134d2f8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

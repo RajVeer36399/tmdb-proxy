@@ -1,0 +1,325 @@
+{
+  "adult": false,
+  "backdrop_path": "/AcNivR6wHUjBh2VhXChmBfsL6Bt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 36700,
+  "imdb_id": "tt0066825",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Bennys badekar",
+  "overview": "A boy explores the hidden depths of his bathtub in a grey world dominated by boring adults.",
+  "popularity": 6.4955,
+  "poster_path": "/rjCJVALdtnU17AXLtiUtvXayKvm.jpg",
+  "production_companies": [
+    {
+      "id": 55867,
+      "logo_path": null,
+      "name": "Fiasco Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "1971-03-06",
+  "revenue": 0,
+  "runtime": 41,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Benny's Bathtub",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 13,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4416420,
+        "known_for_department": "Acting",
+        "name": "Bo Jakobsen",
+        "original_name": "Bo Jakobsen",
+        "popularity": 0.0409,
+        "profile_path": "/lFFtkxjyF4z64x10gxrViDkBMlw.jpg",
+        "cast_id": 12,
+        "character": "Benny (voice)",
+        "credit_id": "6570b3de0d1e7f00ea2d4614",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105903,
+        "known_for_department": "Acting",
+        "name": "Jesper Klein",
+        "original_name": "Jesper Klein",
+        "popularity": 0.0963,
+        "profile_path": "/dErOedSLqTRHCRzyWDQ3MSp94Z9.jpg",
+        "cast_id": 1,
+        "character": "Tadpole (voice)",
+        "credit_id": "52fe46039251416c910461fb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1143305,
+        "known_for_department": "Acting",
+        "name": "Peter Belli",
+        "original_name": "Peter Belli",
+        "popularity": 0.0868,
+        "profile_path": "/9PAFwTHreTRcI2cP5VYXgElwaHI.jpg",
+        "cast_id": 2,
+        "character": "Octopus (voice)",
+        "credit_id": "52fe46039251416c910461ff",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 935774,
+        "known_for_department": "Acting",
+        "name": "Jytte Abildstrøm",
+        "original_name": "Jytte Abildstrøm",
+        "popularity": 0.8273,
+        "profile_path": "/8cJIxXLKpWmTxbcva7d9MDW7Y9f.jpg",
+        "cast_id": 10,
+        "character": "Dagny (voice)",
+        "credit_id": "52fe46039251416c91046223",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137366,
+        "known_for_department": "Acting",
+        "name": "Otto Brandenburg",
+        "original_name": "Otto Brandenburg",
+        "popularity": 0.475,
+        "profile_path": "/f6BPJPWIDV5oau4NPRc9Co7BgOg.jpg",
+        "cast_id": 4,
+        "character": "Lobster Boy (voice)",
+        "credit_id": "52fe46039251416c91046203",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1438197,
+        "known_for_department": "Writing",
+        "name": "Jytte Hauch-Fausbøll",
+        "original_name": "Jytte Hauch-Fausbøll",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Benny's Mother (voice)",
+        "credit_id": "6570b43e9ac53501f13266ba",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4416428,
+        "known_for_department": "Acting",
+        "name": "Rolf Krogh",
+        "original_name": "Rolf Krogh",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Ornithologist (voice)",
+        "credit_id": "6570b4629ac53501f232d6d9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1356775,
+        "known_for_department": "Acting",
+        "name": "Povl Dissing",
+        "original_name": "Povl Dissing",
+        "popularity": 0.0143,
+        "profile_path": "/A1imteN8LBD41szQVOQdQx1huRo.jpg",
+        "cast_id": 15,
+        "character": "First Pirate (voice)",
+        "credit_id": "6570b4960bb07600e193d898",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 343124,
+        "known_for_department": "Acting",
+        "name": "Per Bentzon Goldschmidt",
+        "original_name": "Per Goldschmidt",
+        "popularity": 0.1247,
+        "profile_path": "/ubH4GEOr1jxYCs6P3BK5CojUVcM.jpg",
+        "cast_id": 5,
+        "character": "Second Pirate (voice)",
+        "credit_id": "52fe46039251416c91046207",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2602674,
+        "known_for_department": "Directing",
+        "name": "Per Tønnes Nielsen",
+        "original_name": "Per Tønnes Nielsen",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Cowboy (voice)",
+        "credit_id": "6570b4bddcb6a300c7f162a8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4416437,
+        "known_for_department": "Acting",
+        "name": "Aya",
+        "original_name": "Aya",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Mermaid (voice)",
+        "credit_id": "6570b4d9f36a3200ac25d78d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4416438,
+        "known_for_department": "Acting",
+        "name": "Maia Årskov",
+        "original_name": "Maia Årskov",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Mermaid (voice)",
+        "credit_id": "6570b4ec4539d000fe57638f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4416440,
+        "known_for_department": "Acting",
+        "name": "Trille",
+        "original_name": "Trille",
+        "popularity": 0.0496,
+        "profile_path": "/l93Zk9XQRb6ZtszZoTWk8SlK4C9.jpg",
+        "cast_id": 19,
+        "character": "Mermaid (voice)",
+        "credit_id": "6570b4fef36a3200e1975174",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1443467,
+        "known_for_department": "Acting",
+        "name": "Christian Sievert",
+        "original_name": "Christian Sievert",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Crab (voice)",
+        "credit_id": "6570b511dcb6a3011ebd3f27",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3014313,
+        "known_for_department": "Acting",
+        "name": "Allan Botschinsky",
+        "original_name": "Allan Botschinsky",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Seahorse (voice)",
+        "credit_id": "6570b5229ac53501f6bad0f9",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 567202,
+        "known_for_department": "Writing",
+        "name": "Flemming Quist Møller",
+        "original_name": "Flemming Quist Møller",
+        "popularity": 0.2332,
+        "profile_path": null,
+        "credit_id": "52fe46039251416c91046219",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225306,
+        "known_for_department": "Directing",
+        "name": "Jannik Hastrup",
+        "original_name": "Jannik Hastrup",
+        "popularity": 0.3587,
+        "profile_path": "/dysoEkxjaTNKTIlxYFsv63JXiI1.jpg",
+        "credit_id": "52fe46039251416c9104620d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 567202,
+        "known_for_department": "Writing",
+        "name": "Flemming Quist Møller",
+        "original_name": "Flemming Quist Møller",
+        "popularity": 0.2332,
+        "profile_path": null,
+        "credit_id": "52fe46039251416c91046213",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56877,
+        "known_for_department": "Production",
+        "name": "Per Holst",
+        "original_name": "Per Holst",
+        "popularity": 0.1079,
+        "profile_path": "/eRjCnnzgTqsLy78eKNThvQpl2q5.jpg",
+        "credit_id": "56e6cfaac3a3685aa000a8ed",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

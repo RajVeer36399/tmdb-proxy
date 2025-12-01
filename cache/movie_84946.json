@@ -1,0 +1,315 @@
+{
+  "adult": false,
+  "backdrop_path": "/4poVDneChHbxPKTJAxAPKzsxiUw.jpg",
+  "belongs_to_collection": {
+    "id": 844887,
+    "name": "Diary Collection",
+    "poster_path": "/vMIY3DXmIO2X1ugKe93eIFVEgJk.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 84946,
+  "imdb_id": "tt0084388",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Napló gyermekeimnek",
+  "overview": "After having lost her parents, young Juli returns from the Soviet Union to her native Budapest. Scarred by the wounds of the past, the ghost of Stalin’s oppression haunts her as she reunites with her aunt and adoptive mother Magda.",
+  "popularity": 5.8885,
+  "poster_path": "/7Hvy8UNr1AH7OZFuUgx33GddDTX.jpg",
+  "production_companies": [
+    {
+      "id": 56053,
+      "logo_path": null,
+      "name": "Budapest Játékfilmstúdió",
+      "origin_country": "HU"
+    },
+    {
+      "id": 8100,
+      "logo_path": "/1HuVRo0SYPSzYvduxVf4baaWqOI.png",
+      "name": "Mafilm",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "1984-05-03",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Diary for My Children",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 31,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 586243,
+        "known_for_department": "Acting",
+        "name": "Czinkóczi Zsuzsa",
+        "original_name": "Czinkóczi Zsuzsa",
+        "popularity": 0.1445,
+        "profile_path": "/7FNyw2zyZtHs0ozqOKFMaPPPi5Z.jpg",
+        "cast_id": 3,
+        "character": "Juli",
+        "credit_id": "52fe49199251416c910a2a4d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 931480,
+        "known_for_department": "Acting",
+        "name": "Anna Polony",
+        "original_name": "Anna Polony",
+        "popularity": 0.1817,
+        "profile_path": "/5Q3TosxA7Xgi779V7RPay76Vgj1.jpg",
+        "cast_id": 5,
+        "character": "Magda",
+        "credit_id": "52fe49199251416c910a2a55",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63005,
+        "known_for_department": "Acting",
+        "name": "Földi Teri",
+        "original_name": "Földi Teri",
+        "popularity": 0.1417,
+        "profile_path": "/qjeQLqvnUYfAbtCB1J6dHKkeFIf.jpg",
+        "cast_id": 10,
+        "character": "Magda (voice)",
+        "credit_id": "5eba3d40c3514c00206071da",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72373,
+        "known_for_department": "Acting",
+        "name": "Jan Nowicki",
+        "original_name": "Jan Nowicki",
+        "popularity": 0.6238,
+        "profile_path": "/dHpabF5Gp0SygJNMmzNlLNZmMIY.jpg",
+        "cast_id": 4,
+        "character": "Janos",
+        "credit_id": "52fe49199251416c910a2a51",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092609,
+        "known_for_department": "Acting",
+        "name": "Sándor Oszter",
+        "original_name": "Sándor Oszter",
+        "popularity": 0.2219,
+        "profile_path": "/cufw1KMT87Ti2xfQ0eVy3pdmLZ9.jpg",
+        "cast_id": 11,
+        "character": "János (voice)",
+        "credit_id": "5eba3d55cc277c002171f832",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1298254,
+        "known_for_department": "Directing",
+        "name": "Pál Zolnay",
+        "original_name": "Pál Zolnay",
+        "popularity": 0.0409,
+        "profile_path": "/r9TJFImV6LF9ASrwowZNlfqZpvf.jpg",
+        "cast_id": 14,
+        "character": "Grandfather",
+        "credit_id": "5eba3d87cc277c002171f85f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1090606,
+        "known_for_department": "Acting",
+        "name": "Vilmos Kun",
+        "original_name": "Vilmos Kun",
+        "popularity": 0.0352,
+        "profile_path": "/b4dVTQeXXBSTNWFWF6IuprlwHbw.jpg",
+        "cast_id": 13,
+        "character": "Grandfather (voice)",
+        "credit_id": "5eba3d757d2bc1001eff6693",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1297679,
+        "known_for_department": "Acting",
+        "name": "Mari Szemes",
+        "original_name": "Mari Szemes",
+        "popularity": 0.0744,
+        "profile_path": "/fvo4XFLrynjZnFLNP55rppDxDE6.jpg",
+        "cast_id": 12,
+        "character": "Grandmother",
+        "credit_id": "5eba3d657d2bc1001d01d727",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70913,
+        "known_for_department": "Acting",
+        "name": "Ildikó Bánsági",
+        "original_name": "Ildikó Bánsági",
+        "popularity": 0.583,
+        "profile_path": "/hTNuQ775RF4oEeuXwO3X5wyEzea.jpg",
+        "cast_id": 15,
+        "character": "Juli's mother",
+        "credit_id": "5eba3d98511d09001fd5a471",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1352759,
+        "known_for_department": "Acting",
+        "name": "Éva Szabó",
+        "original_name": "Éva Szabó",
+        "popularity": 0.0416,
+        "profile_path": "/r9b8CFiSnoPc0jD7PbD2LwBFi5i.jpg",
+        "cast_id": 16,
+        "character": "Ilonka - Magda's housekeeper",
+        "credit_id": "5eba3da9bbe1dd002187d5dc",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1504321,
+        "known_for_department": "Acting",
+        "name": "Tamás Tóth",
+        "original_name": "Tamás Tóth",
+        "popularity": 0.1516,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Andras - János' son",
+        "credit_id": "5eba3dbd7d2bc1001cfd8fdd",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 233717,
+        "known_for_department": "Directing",
+        "name": "Márta Mészáros",
+        "original_name": "Márta Mészáros",
+        "popularity": 0.4374,
+        "profile_path": "/p0fZlJMGYRjgD5lYpcPsLhp5bz9.jpg",
+        "credit_id": "52fe49199251416c910a2a49",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 233717,
+        "known_for_department": "Directing",
+        "name": "Márta Mészáros",
+        "original_name": "Márta Mészáros",
+        "popularity": 0.4374,
+        "profile_path": "/p0fZlJMGYRjgD5lYpcPsLhp5bz9.jpg",
+        "credit_id": "52fe49199251416c910a2a43",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2498408,
+        "known_for_department": "Sound",
+        "name": "Zsolt Döme",
+        "original_name": "Zsolt Döme",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "credit_id": "613bc92bfe5c91002c473dd3",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 233720,
+        "known_for_department": "Editing",
+        "name": "Éva Kármentő",
+        "original_name": "Éva Kármentő",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5d5ffd7be375c030311c2497",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2118777,
+        "known_for_department": "Art",
+        "name": "Éva Martin",
+        "original_name": "Éva Martin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5d5ffd8be375c000151c68b9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1603105,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fanny Kemenes",
+        "original_name": "Fanny Kemenes",
+        "popularity": 0.0493,
+        "profile_path": "/akdQOMJFxhtqh86TCraUWxttYvx.jpg",
+        "credit_id": "5d5ffda0e375c030311c24b7",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037856,
+        "known_for_department": "Camera",
+        "name": "Nyika Jancsó",
+        "original_name": "Nyika Jancsó",
+        "popularity": 0.5239,
+        "profile_path": null,
+        "credit_id": "5d5ffd64924ce523051477c0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "adult": false,
+  "backdrop_path": "/xOukYlFEuiY9FZXd5kjWiigjBJA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 736604,
+  "imdb_id": "tt13009186",
+  "origin_country": [
+    "CO",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Boy from Medellín",
+  "overview": "Colombian reggaeton singer J Balvin prepares for his 2019 homecoming concert amid intense political turmoil.",
+  "popularity": 6.0827,
+  "poster_path": "/tPREBSgPBFeua20bUvYI9yrPHul.jpg",
+  "production_companies": [
+    {
+      "id": 52707,
+      "logo_path": "/tdwDYDKNAqHz7NoP43xoR0UD3ri.png",
+      "name": "Our Time Projects",
+      "origin_country": "US"
+    },
+    {
+      "id": 105899,
+      "logo_path": null,
+      "name": "SB Projects",
+      "origin_country": "US"
+    },
+    {
+      "id": 20580,
+      "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+      "name": "Amazon Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 100640,
+      "logo_path": "/5BR67T28TVm2UMH8GCRDftafsaJ.png",
+      "name": "Endeavor Content",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-09-11",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Boy from Medellín",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 89,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1931804,
+        "known_for_department": "Acting",
+        "name": "J Balvin",
+        "original_name": "J Balvin",
+        "popularity": 0.3672,
+        "profile_path": "/5GIHixpuqbwlmNL6YNj4QhsehCP.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "60e9eb7883ee67004601789e",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1931804,
+        "known_for_department": "Acting",
+        "name": "J Balvin",
+        "original_name": "J Balvin",
+        "popularity": 0.3672,
+        "profile_path": "/5GIHixpuqbwlmNL6YNj4QhsehCP.jpg",
+        "credit_id": "60e9ead622e4800047af6433",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1319484,
+        "known_for_department": "Editing",
+        "name": "Sebastian Hernandez",
+        "original_name": "Sebastian Hernandez",
+        "popularity": 0.0707,
+        "profile_path": null,
+        "credit_id": "60e9eaef2efe4e0075b8f5c5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971292,
+        "known_for_department": "Directing",
+        "name": "Matthew Heineman",
+        "original_name": "Matthew Heineman",
+        "popularity": 0.1912,
+        "profile_path": "/8oCaZnxxJfJuYUSfnotfiyyu5Dm.jpg",
+        "credit_id": "60e9eac16ee3d7005e593481",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971292,
+        "known_for_department": "Directing",
+        "name": "Matthew Heineman",
+        "original_name": "Matthew Heineman",
+        "popularity": 0.1912,
+        "profile_path": "/8oCaZnxxJfJuYUSfnotfiyyu5Dm.jpg",
+        "credit_id": "60e9eb1012b10e007405e3c2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62705,
+        "known_for_department": "Sound",
+        "name": "H. Scott Salinas",
+        "original_name": "H. Scott Salinas",
+        "popularity": 0.0718,
+        "profile_path": "/2qo8ZKr3KSI1xkizNEnlQ4FNRlv.jpg",
+        "credit_id": "60e9eaab8de0ae0046a1a785",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2297629,
+        "known_for_department": "Camera",
+        "name": "Max Preiss",
+        "original_name": "Max Preiss",
+        "popularity": 0.0286,
+        "profile_path": "/2bzfzcRAR98e8k0YiBLzJ02KEIu.jpg",
+        "credit_id": "60e9eb24b76cbb002d4bcd8e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1609038,
+        "known_for_department": "Camera",
+        "name": "Clair Popkin",
+        "original_name": "Clair Popkin",
+        "popularity": 0.9449,
+        "profile_path": "/tfiB1vn46WYG81yTSLWrGw86A17.jpg",
+        "credit_id": "60e9eb608de0ae0046a1a9ba",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1164081,
+        "known_for_department": "Camera",
+        "name": "Drew Daniels",
+        "original_name": "Drew Daniels",
+        "popularity": 0.5538,
+        "profile_path": "/oSNijQ9hlY3SquqhP5Z7f84tYR7.jpg",
+        "credit_id": "60f01e5ba579f900746252c3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971292,
+        "known_for_department": "Directing",
+        "name": "Matthew Heineman",
+        "original_name": "Matthew Heineman",
+        "popularity": 0.1912,
+        "profile_path": "/8oCaZnxxJfJuYUSfnotfiyyu5Dm.jpg",
+        "credit_id": "658b5f051685da7c2662b5ec",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971292,
+        "known_for_department": "Directing",
+        "name": "Matthew Heineman",
+        "original_name": "Matthew Heineman",
+        "popularity": 0.1912,
+        "profile_path": "/8oCaZnxxJfJuYUSfnotfiyyu5Dm.jpg",
+        "credit_id": "658b5e9bbdd5685a5a38ca3e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3673301,
+        "known_for_department": "Directing",
+        "name": "Juan Camilo Cruz",
+        "original_name": "Juan Camilo Cruz",
+        "popularity": 0.0502,
+        "profile_path": null,
+        "credit_id": "65ba5e8330f79c0162aa968b",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

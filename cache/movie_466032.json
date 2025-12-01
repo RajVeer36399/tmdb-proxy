@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 466032,
+  "imdb_id": "tt6793452",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Verão Saturno",
+  "overview": "About to turn 35 years old and in the imminence of having to give up his music, Samuel comes to Lisbon to do a concert. He stays over at Teresa's, the attractive mother of his girlfriend, a woman who resists getting old. During 3 days, accomplices and inert, they create a silent intimacy, feeling time overcome them without knowing where to go.",
+  "popularity": 6.4965,
+  "poster_path": "/bqX1yBupof7B0AkkrHpVo2i1OLG.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "2017-07-11",
+  "revenue": 0,
+  "runtime": 30,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Summer Saturn",
+  "video": false,
+  "vote_average": 4.6,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937204,
+        "known_for_department": "Acting",
+        "name": "Rita Loureiro",
+        "original_name": "Rita Loureiro",
+        "popularity": 0.0626,
+        "profile_path": "/wWtyzGPBAYSZGRMdC13lIsBjeK7.jpg",
+        "cast_id": 3,
+        "character": "Teresa",
+        "credit_id": "68e2b01ac7094f6d9336e40e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1057159,
+        "known_for_department": "Acting",
+        "name": "Jaime Freitas",
+        "original_name": "Jaime Freitas",
+        "popularity": 1.2817,
+        "profile_path": "/xTMEsp63vHYpSsBLzJAZP0JRhhT.jpg",
+        "cast_id": 4,
+        "character": "Samuel",
+        "credit_id": "68e2b025039d42b270bd9567",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203453,
+        "known_for_department": "Acting",
+        "name": "Nuno Nunes",
+        "original_name": "Nuno Nunes",
+        "popularity": 0.0752,
+        "profile_path": "/mLM3KJC0C94uoK5Mv5HrTbbSzA.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "68e2b02fddb950ce8d36e2dc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1037854,
+        "known_for_department": "Acting",
+        "name": "Joana de Verona",
+        "original_name": "Joana de Verona",
+        "popularity": 0.4229,
+        "profile_path": "/kvHgSdSIWMgYcBDnndAJhP59cil.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "68e2b03792b7410d0436e5d6",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1849790,
+        "known_for_department": "Directing",
+        "name": "Mónica Lima",
+        "original_name": "Mónica Lima",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "5965ff8192514121f0108d01",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1849791,
+        "known_for_department": "Writing",
+        "name": "Gonçalo Branco",
+        "original_name": "Gonçalo Branco",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5965ffae9251415a400f5e61",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1849790,
+        "known_for_department": "Directing",
+        "name": "Mónica Lima",
+        "original_name": "Mónica Lima",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "5965ff6e9251417904087d46",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

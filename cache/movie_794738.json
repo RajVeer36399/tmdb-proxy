@@ -1,0 +1,451 @@
+{
+  "adult": false,
+  "backdrop_path": "/8nnSXBq4wu5DdyAnmbXKyLxfWZB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 794738,
+  "imdb_id": "tt5783532",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Fade Out",
+  "overview": "A pair of paranormal investigators arrive in a small Italian village to investigate the bizarre case of a sleepwalking man plagued by hallucinations.",
+  "popularity": 6.3182,
+  "poster_path": "/kuFx9VlrunhyeLP4o88NInojvsX.jpg",
+  "production_companies": [
+    {
+      "id": 128966,
+      "logo_path": null,
+      "name": "Cine 1 Italia",
+      "origin_country": ""
+    },
+    {
+      "id": 40595,
+      "logo_path": null,
+      "name": "Explorer Entertainment (Italia)",
+      "origin_country": ""
+    },
+    {
+      "id": 191337,
+      "logo_path": null,
+      "name": "Phoenix Worldwide Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2021-03-02",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fade Out",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1106228,
+        "known_for_department": "Acting",
+        "name": "Jennifer Mischiati",
+        "original_name": "Jennifer Mischiati",
+        "popularity": 0.3853,
+        "profile_path": "/aS3IPS4KqWV0PibR2d6Wkca6yM0.jpg",
+        "cast_id": 2,
+        "character": "Michelle",
+        "credit_id": "60211bb2bf77440040ade5da",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239921,
+        "known_for_department": "Acting",
+        "name": "Paola Lavini",
+        "original_name": "Paola Lavini",
+        "popularity": 0.4464,
+        "profile_path": "/jNUXZHJFUGtu4n0v94lqPsH2Jha.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "60211bb95690b5003f225fd1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 557004,
+        "known_for_department": "Acting",
+        "name": "Loredana Cannata",
+        "original_name": "Loredana Cannata",
+        "popularity": 0.8536,
+        "profile_path": "/vOGrntUNUw3WDAIH3x62NbCcHic.jpg",
+        "cast_id": 4,
+        "character": "Psicologa",
+        "credit_id": "60211bc060b58d003fd891a4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1790756,
+        "known_for_department": "Acting",
+        "name": "Luca Di Giovanni",
+        "original_name": "Luca Di Giovanni",
+        "popularity": 0.187,
+        "profile_path": "/nfTnvyRoIJ4gvZslqs6thwDZ6RH.jpg",
+        "cast_id": 5,
+        "character": "Damiano Marani",
+        "credit_id": "60211bdbd6c300003f655b64",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2969562,
+        "known_for_department": "Acting",
+        "name": "Martina Tonarelli",
+        "original_name": "Martina Tonarelli",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Lisa",
+        "credit_id": "60211bdfbf7744003eadc692",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2969563,
+        "known_for_department": "Acting",
+        "name": "Giovanni Geo Johnson",
+        "original_name": "Giovanni Geo Johnson",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Harold",
+        "credit_id": "60211be6a806730040417096",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2969564,
+        "known_for_department": "Acting",
+        "name": "Mathilde Maggi",
+        "original_name": "Mathilde Maggi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Alessia",
+        "credit_id": "60211beedd25890040b80c97",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1396718,
+        "known_for_department": "Camera",
+        "name": "Francesco Ciccone",
+        "original_name": "Francesco Ciccone",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "credit_id": "63c9f95f03f0b600b91db17c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1396718,
+        "known_for_department": "Camera",
+        "name": "Francesco Ciccone",
+        "original_name": "Francesco Ciccone",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "credit_id": "63c9f9750398ab007cf9e455",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2535481,
+        "known_for_department": "Editing",
+        "name": "Daniele Camaioni",
+        "original_name": "Daniele Camaioni",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63c9f98cbb070d00818393b4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3275567,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Silvia Castellucci",
+        "original_name": "Silvia Castellucci",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "63c9f9a70398ab008e2332e5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3560643,
+        "known_for_department": "Directing",
+        "name": "Fiorenza Salvador",
+        "original_name": "Fiorenza Salvador",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "credit_id": "63c9f9d203f0b60079043b4b",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2595826,
+        "known_for_department": "Writing",
+        "name": "Filippo Santaniello",
+        "original_name": "Filippo Santaniello",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "63c9f9e2ed96bc00838d5b5a",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3560643,
+        "known_for_department": "Directing",
+        "name": "Fiorenza Salvador",
+        "original_name": "Fiorenza Salvador",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "credit_id": "63c9f9f303f0b600b91db1ec",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2595826,
+        "known_for_department": "Writing",
+        "name": "Filippo Santaniello",
+        "original_name": "Filippo Santaniello",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "63c9fa01bb070d0081839410",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2535484,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Caterina Nardi",
+        "original_name": "Caterina Nardi",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "63c9fa1bed96bc00c3949e6e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2656968,
+        "known_for_department": "Sound",
+        "name": "Celeste Frontino",
+        "original_name": "Celeste Frontino",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "63c9fa6a68afd6007c713af5",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2595826,
+        "known_for_department": "Writing",
+        "name": "Filippo Santaniello",
+        "original_name": "Filippo Santaniello",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "63c9fa7ded96bc007b4fe3e6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2512694,
+        "known_for_department": "Production",
+        "name": "Salvatore Lizzio",
+        "original_name": "Salvatore Lizzio",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63c9fa8ebb070d0087fe3d62",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3882021,
+        "known_for_department": "Production",
+        "name": "Mirko Menichelli",
+        "original_name": "Mirko Menichelli",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "63c9faa50398ab00cc1b205e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3097193,
+        "known_for_department": "Production",
+        "name": "Pete Maggi",
+        "original_name": "Pete Maggi",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "63c9fab5ed96bc00c3949ecd",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2747878,
+        "known_for_department": "Sound",
+        "name": "Luigi Marani",
+        "original_name": "Luigi Marani",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "credit_id": "63c9face006b010084eff857",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2512694,
+        "known_for_department": "Production",
+        "name": "Salvatore Lizzio",
+        "original_name": "Salvatore Lizzio",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63c9fae4ed96bc00838d5c20",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598975,
+        "known_for_department": "Production",
+        "name": "Daniele Gramiccia",
+        "original_name": "Daniele Gramiccia",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "63c9fb0803f0b600843d375b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2535485,
+        "known_for_department": "Production",
+        "name": "Federica Folli",
+        "original_name": "Federica Folli",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "63c9fb17bb070d007c80e264",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23861,
+        "known_for_department": "Production",
+        "name": "Michael Cowan",
+        "original_name": "Michael Cowan",
+        "popularity": 0.1258,
+        "profile_path": null,
+        "credit_id": "63c9fb31ed96bc009bf61085",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1176647,
+        "known_for_department": "Production",
+        "name": "Giorgio Bruno",
+        "original_name": "Giorgio Bruno",
+        "popularity": 0.373,
+        "profile_path": "/5saIYme6wdi0N6vvmlwkI17axr0.jpg",
+        "credit_id": "63c9fb44ed96bc00838d5c73",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1450708,
+        "known_for_department": "Writing",
+        "name": "Mirko Virgili",
+        "original_name": "Mirko Virgili",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "60211ba6dd2589003fb7a3e7",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

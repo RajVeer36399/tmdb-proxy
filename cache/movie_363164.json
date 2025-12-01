@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 363164,
+  "imdb_id": "tt0409066",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Mummy",
+  "overview": "An electric current accidentally brings a female mummy back to life with decidedly romantic inclinations, much to the surprise of a young Egyptologist and his less than understanding fiancée. This film is presumed lost.",
+  "popularity": 7.0576,
+  "poster_path": "/qb5bXnMDgdKT6rsEjhCFrxpyvzt.jpg",
+  "production_companies": [
+    {
+      "id": 35353,
+      "logo_path": "/rVxiD2rIVla7S1liKIox42U6GkW.png",
+      "name": "Thanhouser Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1911-03-07",
+  "revenue": 0,
+  "runtime": 10,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Mummy",
+  "video": false,
+  "vote_average": 9,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120818,
+        "known_for_department": "Acting",
+        "name": "William Garwood",
+        "original_name": "William Garwood",
+        "popularity": 0.0832,
+        "profile_path": "/sFq3FeCnxyEbbNkfnueRbZLDyD8.jpg",
+        "cast_id": 0,
+        "character": "Jack",
+        "credit_id": "5617a2c792514166e20015d1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1387987,
+        "known_for_department": "Acting",
+        "name": "Harry Benham",
+        "original_name": "Harry Benham",
+        "popularity": 0.0849,
+        "profile_path": "/eMuZofkdtw44bbjxbbHF3zQCC8R.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "5617a2d19251412aec002352",
+        "order": 1
+      }
+    ],
+    "crew": []
+  }
+}

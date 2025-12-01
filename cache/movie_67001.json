@@ -1,0 +1,234 @@
+{
+  "adult": false,
+  "backdrop_path": "/hUm13KvhX4uGvLwFRotHVBVh71R.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 67001,
+  "imdb_id": "tt0040588",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mickey and the Seal",
+  "overview": "Mickey accidentally takes a seal home, after it sneaks into his picnic basket. When Mickey takes a bath, the seal is discovered and Mickey returns him to the park. Later, however, Mickey and Pluto discover that the bathroom is filled with seals!",
+  "popularity": 5.0406,
+  "poster_path": "/77I5naRsWdziY5rQucMYfk6uKk8.jpg",
+  "production_companies": [
+    {
+      "id": 3166,
+      "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+      "name": "Walt Disney Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1948-12-03",
+  "revenue": 0,
+  "runtime": 7,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mickey and Pluto get into trouble with a mischievous seal.",
+  "title": "Mickey and the Seal",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 56,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137461,
+        "known_for_department": "Acting",
+        "name": "James MacDonald",
+        "original_name": "James MacDonald",
+        "popularity": 0.7638,
+        "profile_path": "/qf3IMvOrc39jKz6Bddtv4Ur2ski.jpg",
+        "cast_id": 12,
+        "character": "Mickey Mouse",
+        "credit_id": "52fe4754c3a368484e0c0f0d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5462,
+        "known_for_department": "Acting",
+        "name": "Pinto Colvig",
+        "original_name": "Pinto Colvig",
+        "popularity": 0.3885,
+        "profile_path": "/jslBLHuV1cOKsyx763CA1RqsrQU.jpg",
+        "cast_id": 13,
+        "character": "Pluto",
+        "credit_id": "52fe4754c3a368484e0c0f11",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148178,
+        "known_for_department": "Art",
+        "name": "Ralph Hulett",
+        "original_name": "Ralph Hulett",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "52fe4754c3a368484e0c0ef7",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2106,
+        "known_for_department": "Production",
+        "name": "Walt Disney",
+        "original_name": "Walt Disney",
+        "popularity": 0.9755,
+        "profile_path": "/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg",
+        "credit_id": "52fe4753c3a368484e0c0edf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149272,
+        "known_for_department": "Visual Effects",
+        "name": "Phil Duncan",
+        "original_name": "Phil Duncan",
+        "popularity": 0.8202,
+        "profile_path": null,
+        "credit_id": "52fe4753c3a368484e0c0eeb",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150755,
+        "known_for_department": "Visual Effects",
+        "name": "George Nicholas",
+        "original_name": "George Nicholas",
+        "popularity": 0.1973,
+        "profile_path": null,
+        "credit_id": "52fe4754c3a368484e0c0f09",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64868,
+        "known_for_department": "Sound",
+        "name": "Oliver Wallace",
+        "original_name": "Oliver Wallace",
+        "popularity": 0.1435,
+        "profile_path": null,
+        "credit_id": "52fe4753c3a368484e0c0ee5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148161,
+        "known_for_department": "Writing",
+        "name": "Milt Schaffer",
+        "original_name": "Milt Schaffer",
+        "popularity": 0.2277,
+        "profile_path": null,
+        "credit_id": "52fe4753c3a368484e0c0ed9",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 148244,
+        "known_for_department": "Visual Effects",
+        "name": "Dan MacManus",
+        "original_name": "Dan MacManus",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "52fe4754c3a368484e0c0f03",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148075,
+        "known_for_department": "Writing",
+        "name": "Nick George",
+        "original_name": "Nick George",
+        "popularity": 0.0742,
+        "profile_path": null,
+        "credit_id": "52fe4753c3a368484e0c0ed3",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106834,
+        "known_for_department": "Directing",
+        "name": "Charles August Nichols",
+        "original_name": "Charles August Nichols",
+        "popularity": 0.3064,
+        "profile_path": null,
+        "credit_id": "52fe4754c3a368484e0c0f17",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224698,
+        "known_for_department": "Visual Effects",
+        "name": "Hugh Fraser",
+        "original_name": "Hugh Fraser",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "credit_id": "52fe4754c3a368484e0c0ef1",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570145,
+        "known_for_department": "Directing",
+        "name": "Karl Karpé",
+        "original_name": "Karl Karpé",
+        "popularity": 0.0645,
+        "profile_path": null,
+        "credit_id": "569f59bcc3a36858cb008806",
+        "department": "Directing",
+        "job": "Layout"
+      }
+    ]
+  }
+}

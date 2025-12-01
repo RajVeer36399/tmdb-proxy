@@ -1,0 +1,435 @@
+{
+  "adult": false,
+  "backdrop_path": "/vKt9Ip6rfyipRRZkUmnuOfKFmdh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 592551,
+  "imdb_id": "tt9238590",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "jam",
+  "overview": "A traditional ballad singer Hiroshi has enthusiastic middle-aged female fans. Takeru believes that by doing good things to others, he could cause a miracle to happen and cure his beloved girlfriend who is in coma. Tetsuo avenges himself on yakuza for putting him in a jail and now is chased by them. These three men's paths are somehow intertwined and drawing them toward a showdown.",
+  "popularity": 7.613,
+  "poster_path": "/yepI9IzBLYha1yizJuFrGw0RncB.jpg",
+  "production_companies": [
+    {
+      "id": 108566,
+      "logo_path": "/fn9pJCCQcMcuxmbUYLs3LYfPprr.png",
+      "name": "LDH Pictures",
+      "origin_country": "JP"
+    },
+    {
+      "id": 60184,
+      "logo_path": "/9LyMEzOIP3eyPJkooddqDS2GF5r.png",
+      "name": "Rapid Eye Movies",
+      "origin_country": "DE"
+    },
+    {
+      "id": 11009,
+      "logo_path": "/hZuQIikrZNIvJXx4dkIwfeC0IO7.png",
+      "name": "The Post Republic",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2018-12-01",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jam",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367226,
+        "known_for_department": "Acting",
+        "name": "Sho Aoyagi",
+        "original_name": "青柳翔",
+        "popularity": 0.8188,
+        "profile_path": "/pN2JQVg5OyNSdxSLAHE8ncSAnpT.jpg",
+        "cast_id": 13,
+        "character": "Hiroshi",
+        "credit_id": "5ed784d1c4f552001fc1cda3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1480297,
+        "known_for_department": "Acting",
+        "name": "Keita Machida",
+        "original_name": "町田啓太",
+        "popularity": 2.6665,
+        "profile_path": "/fbc42SNQgPSbx3jtv2Z5Vsrt6MO.jpg",
+        "cast_id": 3,
+        "character": "Takeru",
+        "credit_id": "5ca35c430e0a2605a18e667f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1202404,
+        "known_for_department": "Acting",
+        "name": "Nobuyuki Suzuki",
+        "original_name": "鈴木伸之",
+        "popularity": 0.7231,
+        "profile_path": "/xtqy7WCwD9QFFfaZCbB2nsokbZS.jpg",
+        "cast_id": 8,
+        "character": "Tetsuo",
+        "credit_id": "5ca35c680e0a26059b8e700d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1480299,
+        "known_for_department": "Acting",
+        "name": "Masayasu Yagi",
+        "original_name": "八木将康",
+        "popularity": 0.8864,
+        "profile_path": "/oBXdgJ7JpG3utoBO03Swspmkss3.jpg",
+        "cast_id": 10,
+        "character": "Kaneshiro",
+        "credit_id": "5ca35c7692514140bf497fde",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1735510,
+        "known_for_department": "Acting",
+        "name": "Hayato Onozuka",
+        "original_name": "小野塚勇人",
+        "popularity": 0.7597,
+        "profile_path": "/zkh9idEmZ7twzGn3CBtzIz3nD8o.jpg",
+        "cast_id": 5,
+        "character": "Takiguchi",
+        "credit_id": "5ca35c51c3a3682b1610e035",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1680187,
+        "known_for_department": "Acting",
+        "name": "Kanta Sato",
+        "original_name": "佐藤寛太",
+        "popularity": 0.3506,
+        "profile_path": "/axfo43IeEVQkm4sN8UWe0EODYkt.jpg",
+        "cast_id": 7,
+        "character": "Leslie",
+        "credit_id": "5ca35c5dc3a3682b2d10dfe2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1117063,
+        "known_for_department": "Acting",
+        "name": "Mariko Tsutsui",
+        "original_name": "筒井真理子",
+        "popularity": 1.5957,
+        "profile_path": "/1pHQEi0VkIXaua99UWFIqBnCE5T.jpg",
+        "cast_id": 9,
+        "character": "Masako",
+        "credit_id": "5ca35c70c3a3682b1610e05f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1406126,
+        "known_for_department": "Acting",
+        "name": "Shintaro Akiyama",
+        "original_name": "Shintaro Akiyama",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Takashi",
+        "credit_id": "60e76e0843250f00765967d9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2118552,
+        "known_for_department": "Acting",
+        "name": "Yuta Ozawa",
+        "original_name": "小澤雄太",
+        "popularity": 0.5476,
+        "profile_path": "/9JCbMRRz2eIKYx8icK92ZINsBFo.jpg",
+        "cast_id": 28,
+        "character": "Sera",
+        "credit_id": "643ebd02d7a70a053cab4d6a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405927,
+        "known_for_department": "Acting",
+        "name": "SWAY",
+        "original_name": "SWAY",
+        "popularity": 0.1971,
+        "profile_path": "/x1ubaUxcHslvwjD8zCLJyyRrljp.jpg",
+        "cast_id": 29,
+        "character": "Takashi",
+        "credit_id": "643ebd86c6006d031580d381",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2413641,
+        "known_for_department": "Sound",
+        "name": "Filip Stefanowski",
+        "original_name": "Filip Stefanowski",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "621dbed45c324700448ec373",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2119481,
+        "known_for_department": "Sound",
+        "name": "Jacek Wiśniewski",
+        "original_name": "Jacek Wiśniewski",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "621dbee9519bbb004486134d",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54963,
+        "known_for_department": "Sound",
+        "name": "Lars Ginzel",
+        "original_name": "Lars Ginzel",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "621dbf405c324700448ec475",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68193,
+        "known_for_department": "Sound",
+        "name": "Manuel Laval",
+        "original_name": "Manuel Laval",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "621dbf61eea34d0068fa88eb",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2137650,
+        "known_for_department": "Production",
+        "name": "EXILE HIRO",
+        "original_name": "EXILE HIRO",
+        "popularity": 0.0559,
+        "profile_path": null,
+        "credit_id": "63af08f157530e00a358954e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551659,
+        "known_for_department": "Camera",
+        "name": "Hiro'o Yanagida",
+        "original_name": "柳田裕男",
+        "popularity": 0.8334,
+        "profile_path": null,
+        "credit_id": "63af090727d9cc00c868dc55",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1520561,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Akiteru Nakada",
+        "original_name": "中田彰輝",
+        "popularity": 0.381,
+        "profile_path": null,
+        "credit_id": "63af09135ad76b00e6f8360b",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1758780,
+        "known_for_department": "Art",
+        "name": "China Hayashi",
+        "original_name": "林チナ",
+        "popularity": 0.2506,
+        "profile_path": null,
+        "credit_id": "63af0922c56d2d00d8423cbd",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1758776,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kazuyo Koiso",
+        "original_name": "小磯和代",
+        "popularity": 0.8382,
+        "profile_path": null,
+        "credit_id": "63af092c8741c4008cb7d1e3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58614,
+        "known_for_department": "Directing",
+        "name": "SABU",
+        "original_name": "SABU",
+        "popularity": 0.454,
+        "profile_path": "/qNjgqL33xBtkEJfW51G2Cc08pu6.jpg",
+        "credit_id": "63af09347ef3811f6c15eed7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333053,
+        "known_for_department": "Sound",
+        "name": "Junichi Matsumoto",
+        "original_name": "松本淳一",
+        "popularity": 0.7662,
+        "profile_path": null,
+        "credit_id": "63af094057530e00a3589571",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58614,
+        "known_for_department": "Directing",
+        "name": "SABU",
+        "original_name": "SABU",
+        "popularity": 0.454,
+        "profile_path": "/qNjgqL33xBtkEJfW51G2Cc08pu6.jpg",
+        "credit_id": "5ca35ca10e0a26059b8e714b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58614,
+        "known_for_department": "Directing",
+        "name": "SABU",
+        "original_name": "SABU",
+        "popularity": 0.454,
+        "profile_path": "/qNjgqL33xBtkEJfW51G2Cc08pu6.jpg",
+        "credit_id": "5ca35ca892514140cf496cdb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5190779,
+        "known_for_department": "Production",
+        "name": "清水洋一",
+        "original_name": "清水洋一",
+        "popularity": 0.2463,
+        "profile_path": null,
+        "credit_id": "678dceb99cb0719f7464e903",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3171407,
+        "known_for_department": "Visual Effects",
+        "name": "Kazuyori Kosaka",
+        "original_name": "小坂一順",
+        "popularity": 0.6077,
+        "profile_path": null,
+        "credit_id": "678dceec9cb0719f7464e91c",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 126060,
+        "known_for_department": "Crew",
+        "name": "Tatsuro Koike",
+        "original_name": "小池達朗",
+        "popularity": 0.2585,
+        "profile_path": null,
+        "credit_id": "678dcf0b274f9b08cd6ddd28",
+        "department": "Directing",
+        "job": "Action Director"
+      }
+    ]
+  }
+}

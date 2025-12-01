@@ -1,0 +1,225 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 445764,
+  "imdb_id": "tt1094577",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Amped",
+  "overview": "A detective investigates the mysterious death of a rock singer.",
+  "popularity": 6.0848,
+  "poster_path": "/1qLO5jdrowrykgllHgP1mkSY0yj.jpg",
+  "production_companies": [
+    {
+      "id": 87518,
+      "logo_path": null,
+      "name": "Poche Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-12-01",
+  "revenue": 0,
+  "runtime": 70,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "She wanted to live fast. She wanted to die young...She got her wish.",
+  "title": "Amped",
+  "video": false,
+  "vote_average": 3.5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130766,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Di Prinzio",
+        "original_name": "Elizabeth Di Prinzio",
+        "popularity": 0.6585,
+        "profile_path": "/AkBm6lph7J7nG3qp6JFpcAOYQuY.jpg",
+        "cast_id": 0,
+        "character": "Magnolia Leonard",
+        "credit_id": "58c000829251412e1a007661",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1772220,
+        "known_for_department": "Acting",
+        "name": "Ray Bachman",
+        "original_name": "Ray Bachman",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Jimmy",
+        "credit_id": "58c000919251412e090078e0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1772221,
+        "known_for_department": "Acting",
+        "name": "Shelby Barendrick",
+        "original_name": "Shelby Barendrick",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Cassandra Reed",
+        "credit_id": "58c0009fc3a36868ee006e51",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1772222,
+        "known_for_department": "Acting",
+        "name": "Stuart Brazell",
+        "original_name": "Stuart Brazell",
+        "popularity": 0.042,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Lynn Straw",
+        "credit_id": "58c000b3c3a36868ee006e68",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1772223,
+        "known_for_department": "Acting",
+        "name": "Trish Christensen",
+        "original_name": "Trish Christensen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Veronica Low",
+        "credit_id": "58c000c69251412e09007909",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1772224,
+        "known_for_department": "Acting",
+        "name": "Emily Muhl",
+        "original_name": "Emily Muhl",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Christine",
+        "credit_id": "58c000d5c3a3686938006915",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200111,
+        "known_for_department": "Acting",
+        "name": "Cliff Poche",
+        "original_name": "Cliff Poche",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Officer",
+        "credit_id": "58c000ef9251412e3b0074bf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200107,
+        "known_for_department": "Directing",
+        "name": "Richard Poche",
+        "original_name": "Richard Poche",
+        "popularity": 0.4022,
+        "profile_path": "/gXNm4CQYaGw2uKb9Tu7f0eVPxaA.jpg",
+        "cast_id": 7,
+        "character": "Detective Robert Holden",
+        "credit_id": "58c000fe9251412e160073a3",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200107,
+        "known_for_department": "Directing",
+        "name": "Richard Poche",
+        "original_name": "Richard Poche",
+        "popularity": 0.4022,
+        "profile_path": "/gXNm4CQYaGw2uKb9Tu7f0eVPxaA.jpg",
+        "credit_id": "58c0012e9251412e3b0074ec",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200107,
+        "known_for_department": "Directing",
+        "name": "Richard Poche",
+        "original_name": "Richard Poche",
+        "popularity": 0.4022,
+        "profile_path": "/gXNm4CQYaGw2uKb9Tu7f0eVPxaA.jpg",
+        "credit_id": "58c001399251412e0e0074f7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200111,
+        "known_for_department": "Acting",
+        "name": "Cliff Poche",
+        "original_name": "Cliff Poche",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "58c001449251412e1a0076e8",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200107,
+        "known_for_department": "Directing",
+        "name": "Richard Poche",
+        "original_name": "Richard Poche",
+        "popularity": 0.4022,
+        "profile_path": "/gXNm4CQYaGw2uKb9Tu7f0eVPxaA.jpg",
+        "credit_id": "58c0014f9251412e09007950",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

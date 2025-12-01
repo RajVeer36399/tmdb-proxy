@@ -1,0 +1,337 @@
+{
+  "adult": false,
+  "backdrop_path": "/mp3L49abn09idRXIy2jfYQWUtZa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 346723,
+  "imdb_id": "tt4026642",
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_title": "Domácí péče",
+  "overview": "Dedicated home care nurse Vlasta attends her whimsical patients in Czech wine country and lives for her husband Lada and her daughter, but one day things change and Vlasta is forced to reach outside of her comfort zone. Drama and gentle humor intertwine as Vlasta realizes, for the first time in her life, that she might need some care, too.",
+  "popularity": 5.7183,
+  "poster_path": "/8lENrJcRrSYPNTIuZ0vjv63khHb.jpg",
+  "production_companies": [
+    {
+      "id": 56779,
+      "logo_path": null,
+      "name": "Sokol Kollár",
+      "origin_country": "SK"
+    },
+    {
+      "id": 56780,
+      "logo_path": null,
+      "name": "TVORBA films",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 56782,
+      "logo_path": null,
+      "name": "Svoboda & Williams",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 29036,
+      "logo_path": null,
+      "name": "Fog'n'Desire Films",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 487,
+      "logo_path": "/x3BUIowxU2skXOpnOeOkl7kIYDo.png",
+      "name": "Česká televize",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 24023,
+      "logo_path": "/yz6m1ty4qGvlkfReuqPZxdmD8V2.png",
+      "name": "RTVS",
+      "origin_country": "SK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    },
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "release_date": "2015-07-16",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Home Care",
+  "video": false,
+  "vote_average": 5.467,
+  "vote_count": 15,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47834,
+        "known_for_department": "Acting",
+        "name": "Tatiana Dyková",
+        "original_name": "Tatiana Dyková",
+        "popularity": 0.351,
+        "profile_path": "/3JYxGajhsu6oIjnZHVMvAhxGnPk.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "559109a292514175830006b0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30737,
+        "known_for_department": "Acting",
+        "name": "Bolek Polívka",
+        "original_name": "Bolek Polívka",
+        "popularity": 0.2062,
+        "profile_path": "/gQ40joDui2BoDrMplvGERa1WVQC.jpg",
+        "cast_id": 2,
+        "character": "Láďa",
+        "credit_id": "559109b1925141757a00064f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 996558,
+        "known_for_department": "Acting",
+        "name": "Alena Mihulová",
+        "original_name": "Alena Mihulová",
+        "popularity": 0.6987,
+        "profile_path": "/lPxm93nRndIRQaLRxa1FMyYzjQA.jpg",
+        "cast_id": 3,
+        "character": "Vlasta",
+        "credit_id": "559109c2925141757a000651",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1482818,
+        "known_for_department": "Acting",
+        "name": "Sara Venclovská",
+        "original_name": "Sara Venclovská",
+        "popularity": 0.0569,
+        "profile_path": "/wQFHVBYoCy10FSgKY9WfgDnTvNM.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "559109e2c3a3680804000656",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 550394,
+        "known_for_department": "Acting",
+        "name": "Zuzana Kronerová",
+        "original_name": "Zuzana Kronerová",
+        "popularity": 0.4099,
+        "profile_path": "/Ashfu5sYHKpduqJYD4E4UgRRp45.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "559109eb925141757c00075f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25706,
+        "known_for_department": "Acting",
+        "name": "Mikuláš Křen",
+        "original_name": "Mikuláš Křen",
+        "popularity": 0.123,
+        "profile_path": "/AnbAx8pN50EniY7b8HDuUzb5D8r.jpg",
+        "cast_id": 26,
+        "character": "Mikuláš Lapčík",
+        "credit_id": "5b094aac0e0a267c0b0030e3",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482819,
+        "known_for_department": "Writing",
+        "name": "Slávek Horák",
+        "original_name": "Slávek Horák",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "55910ab6c3a36807f90006f0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482819,
+        "known_for_department": "Writing",
+        "name": "Slávek Horák",
+        "original_name": "Slávek Horák",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "55910a1bc3a368080000078b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482819,
+        "known_for_department": "Writing",
+        "name": "Slávek Horák",
+        "original_name": "Slávek Horák",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "55910a0b925141758800066a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1032823,
+        "known_for_department": "Editing",
+        "name": "Vladimír Barák",
+        "original_name": "Vladimír Barák",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "credit_id": "55910aaa9251417586000647",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482820,
+        "known_for_department": "Camera",
+        "name": "Jan Šťastný",
+        "original_name": "Jan Šťastný",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "59e7f3ffc3a368282e002f56",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2318794,
+        "known_for_department": "Crew",
+        "name": "Jan Gogola",
+        "original_name": "Jan Gogola",
+        "popularity": 0.0256,
+        "profile_path": "/rj2XACX9EgJU9uPrFQRD4RlDCeu.jpg",
+        "credit_id": "5d260477a698cf0010ac933a",
+        "department": "Crew",
+        "job": "Dramaturgy"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2286124,
+        "known_for_department": "Sound",
+        "name": "Juraj Baláž",
+        "original_name": "Juraj Baláž",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "5d2604cfa698cf0010ac93e9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2358781,
+        "known_for_department": "Directing",
+        "name": "Vlastimil Kadeřábek",
+        "original_name": "Vlastimil Kadeřábek",
+        "popularity": 0.0741,
+        "profile_path": null,
+        "credit_id": "5d26046237b3a902ce5410b6",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2358784,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Natálie Steklová",
+        "original_name": "Natálie Steklová",
+        "popularity": 0.0493,
+        "profile_path": null,
+        "credit_id": "5d2604b037b3a902ce54116e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2358783,
+        "known_for_department": "Crew",
+        "name": "Magdaléna Glasnerová",
+        "original_name": "Magdaléna Glasnerová",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5d260490a698cf3087a8b50f",
+        "department": "Crew",
+        "job": "Dramaturgy"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2358785,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Adriana Bartošová",
+        "original_name": "Adriana Bartošová",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5d2604b8a698cf0010ac93cd",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2358786,
+        "known_for_department": "Sound",
+        "name": "Peter Surový",
+        "original_name": "Peter Surový",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5d2604c537b3a90011544afb",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  }
+}

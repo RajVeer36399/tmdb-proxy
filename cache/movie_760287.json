@@ -1,0 +1,397 @@
+{
+  "adult": false,
+  "backdrop_path": "/ml5QYTdjAVrVddJD32k3hSCHY94.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.bestfriendforever.be/films/corsicansummer",
+  "id": 760287,
+  "imdb_id": "tt12826450",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "I Comete",
+  "overview": "Summer in Corsica. In a Corsican village nestled in the mountains everyone experiences summer in his or her own way: children play, teenagers flirt, and the elders comment on the passage of time at their local bar. In the August heat, it doesn't take long for tensions to rise as one family struggles to keep grudges from bubbling to the surface. Sometimes a spark is all that is needed to set the maquis alight.",
+  "popularity": 7.1211,
+  "poster_path": "/kmja0BvuRw54icQ5cbl84wTfPop.jpg",
+  "production_companies": [
+    {
+      "id": 108590,
+      "logo_path": null,
+      "name": "5à 7 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 143058,
+      "logo_path": null,
+      "name": "Lotta Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2022-04-20",
+  "revenue": 0,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Corsican",
+      "iso_639_1": "co",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Corsican Summer",
+  "video": false,
+  "vote_average": 4.2,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559648,
+        "known_for_department": "Acting",
+        "name": "Jean-Christophe Folly",
+        "original_name": "Jean-Christophe Folly",
+        "popularity": 0.4727,
+        "profile_path": "/75KkhPqt8cc9e4F7SutU2asisCw.jpg",
+        "cast_id": 1,
+        "character": "François-Régis",
+        "credit_id": "5fa10a59f48e0d0039ec074d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1580289,
+        "known_for_department": "Acting",
+        "name": "Cédric Appietto",
+        "original_name": "Cédric Appietto",
+        "popularity": 0.1428,
+        "profile_path": "/tSoarnjFuuIqhnOE6uVKhOY5NNq.jpg",
+        "cast_id": 3,
+        "character": "Bastien",
+        "credit_id": "5fa10a6bbdc34c00366c6e07",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2009199,
+        "known_for_department": "Acting",
+        "name": "Jérémy Alberti",
+        "original_name": "Jérémy Alberti",
+        "popularity": 0.1179,
+        "profile_path": "/kEyD7TpqjqtyRg9cYWawIPc2fqy.jpg",
+        "cast_id": 4,
+        "character": "Greg",
+        "credit_id": "5fa10af8bcf8c900363b5a9c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2253550,
+        "known_for_department": "Acting",
+        "name": "Davia Benedetti",
+        "original_name": "Davia Benedetti",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Carina",
+        "credit_id": "5fa10b5b67825900369e7cc1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1369434,
+        "known_for_department": "Directing",
+        "name": "Pascal Tagnati",
+        "original_name": "Pascal Tagnati",
+        "popularity": 0.1063,
+        "profile_path": "/sT1yBn1uLOpvHdgore0OFYeIHrM.jpg",
+        "cast_id": 2,
+        "character": "Théo",
+        "credit_id": "5fa10a60f48e0d0039ec0751",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2841860,
+        "known_for_department": "Acting",
+        "name": "Appollonia Bouchain",
+        "original_name": "Appollonia Bouchain",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Amandine",
+        "credit_id": "5fa10b63439be1003b62b074",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2253554,
+        "known_for_department": "Acting",
+        "name": "Roselyne de Nobili",
+        "original_name": "Roselyne de Nobili",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Lucienne",
+        "credit_id": "602a693454f6eb003f4c804d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2978734,
+        "known_for_department": "Acting",
+        "name": "Éric Patris de Breuil",
+        "original_name": "Éric Patris de Breuil",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Auguste",
+        "credit_id": "602a693e2e2b2c003d4e9889",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2978735,
+        "known_for_department": "Acting",
+        "name": "Maryse Miège",
+        "original_name": "Maryse Miège",
+        "popularity": 0.1291,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Cindy",
+        "credit_id": "602a69452e2b2c00404eca2a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2978736,
+        "known_for_department": "Acting",
+        "name": "Ange-Marie Bisgambiglia",
+        "original_name": "Ange-Marie Bisgambiglia",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Charles",
+        "credit_id": "602a6951d6d64d003ec6d5a5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2978737,
+        "known_for_department": "Acting",
+        "name": "Joseph Castelliti",
+        "original_name": "Joseph Castelliti",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Lisandru",
+        "credit_id": "602a69587e12f00041f4c3a3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2978738,
+        "known_for_department": "Acting",
+        "name": "Livia Vittini",
+        "original_name": "Livia Vittini",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Nina",
+        "credit_id": "602a695ed6d64d003ec6d5e3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2978740,
+        "known_for_department": "Acting",
+        "name": "Thomas Augugliaro",
+        "original_name": "Thomas Augugliaro",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Paulan",
+        "credit_id": "602a696d81140f00419187dc",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3478183,
+        "known_for_department": "Acting",
+        "name": "Palma Vittini",
+        "original_name": "Palma Vittini",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Letizia",
+        "credit_id": "623c4880d7dcd200492e822f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2978739,
+        "known_for_department": "Acting",
+        "name": "Lesia Demedardi",
+        "original_name": "Lesia Demedardi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "602a6965a33612003f06aea0",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1982422,
+        "known_for_department": "Production",
+        "name": "Martin Bertier",
+        "original_name": "Martin Bertier",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "credit_id": "5fa10b8c0c12550037270184",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1369434,
+        "known_for_department": "Directing",
+        "name": "Pascal Tagnati",
+        "original_name": "Pascal Tagnati",
+        "popularity": 0.1063,
+        "profile_path": "/sT1yBn1uLOpvHdgore0OFYeIHrM.jpg",
+        "credit_id": "5fa10b7796e30b003a32fff6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2841862,
+        "known_for_department": "Production",
+        "name": "Delphine Leoni",
+        "original_name": "Delphine Leoni",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5fa10b9acb6db500372ebb05",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1369434,
+        "known_for_department": "Directing",
+        "name": "Pascal Tagnati",
+        "original_name": "Pascal Tagnati",
+        "popularity": 0.1063,
+        "profile_path": "/sT1yBn1uLOpvHdgore0OFYeIHrM.jpg",
+        "credit_id": "5fa10b703a9650003aacee43",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1369434,
+        "known_for_department": "Directing",
+        "name": "Pascal Tagnati",
+        "original_name": "Pascal Tagnati",
+        "popularity": 0.1063,
+        "profile_path": "/sT1yBn1uLOpvHdgore0OFYeIHrM.jpg",
+        "credit_id": "5fa10b7e5a5ed000384c1e93",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1982423,
+        "known_for_department": "Production",
+        "name": "Helen Olive",
+        "original_name": "Helen Olive",
+        "popularity": 0.0755,
+        "profile_path": null,
+        "credit_id": "5fa10ba3bdc34c00366c6eea",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1618110,
+        "known_for_department": "Camera",
+        "name": "Javier Ruiz Gómez",
+        "original_name": "Javier Ruiz Gómez",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "602a69848258fc003f9cf265",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2199756,
+        "known_for_department": "Directing",
+        "name": "Thomas Bobrowski",
+        "original_name": "Thomas Bobrowski",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "602a69976517d6003e6313eb",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1903556,
+        "known_for_department": "Sound",
+        "name": "Amaury Arboun",
+        "original_name": "Amaury Arboun",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "602a69a16517d6003e6313f9",
+        "department": "Sound",
+        "job": "Sound Editor"
+      }
+    ]
+  }
+}

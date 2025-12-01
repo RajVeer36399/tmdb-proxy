@@ -1,0 +1,477 @@
+{
+  "adult": false,
+  "backdrop_path": "/f55x4vSuzQzeY01kVJ4iTAnrAmy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 268778,
+  "imdb_id": "tt3604950",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sophia Grace & Rosie's Royal Adventure",
+  "overview": "Sophia Grace and Rosie are sent to Switzelvania as special correspondents tasked with covering the coronation of a new queen. Once there, they encounter three very different princesses competing for the throne. Together, the girls hatch a royal plot to help the best candidate win.",
+  "popularity": 6.9228,
+  "poster_path": "/7MkKv2t6pK837LVX5JtisoZawi6.jpg",
+  "production_companies": [
+    {
+      "id": 43632,
+      "logo_path": "/f75STKHmzvi7bYmWSVFF0HVi67F.png",
+      "name": "A Very Good Production",
+      "origin_country": "US"
+    },
+    {
+      "id": 773,
+      "logo_path": "/qkcN6yZEyBw3cgO5DJu55LGEsf7.png",
+      "name": "Film Afrika",
+      "origin_country": "ZA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-05-20",
+  "revenue": 0,
+  "runtime": 70,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sophia Grace & Rosie's Royal Adventure",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1323540,
+        "known_for_department": "Acting",
+        "name": "Sophia Grace Brownlee",
+        "original_name": "Sophia Grace Brownlee",
+        "popularity": 1.1175,
+        "profile_path": "/5o2TLNWnshhhzj7GC1YwVLWpcJs.jpg",
+        "cast_id": 0,
+        "character": "Sophia Grace",
+        "credit_id": "5380258d0e0a2624b4006d46",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1323541,
+        "known_for_department": "Acting",
+        "name": "Rosie McClelland",
+        "original_name": "Rosie McClelland",
+        "popularity": 0.3175,
+        "profile_path": "/evKeHn3m5meL6ffC40XJNFumug1.jpg",
+        "cast_id": 1,
+        "character": "Rosie",
+        "credit_id": "538025b60e0a2624b7006d7f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 112894,
+        "known_for_department": "Acting",
+        "name": "Anna Skellern",
+        "original_name": "Anna Skellern",
+        "popularity": 0.5605,
+        "profile_path": "/69lS74LsxSi4U4jmQc4yce9aBJh.jpg",
+        "cast_id": 26,
+        "character": "Princess Imogen",
+        "credit_id": "565f15e4c3a3687504003816",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003249,
+        "known_for_department": "Acting",
+        "name": "Sven Ruygrok",
+        "original_name": "Sven Ruygrok",
+        "popularity": 0.5714,
+        "profile_path": "/dUr3VBQQ5n2nHmxkpsOnvBPm9Ri.jpg",
+        "cast_id": 28,
+        "character": "Studio Executive",
+        "credit_id": "565f1621c3a36874fe003827",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1543926,
+        "known_for_department": "Acting",
+        "name": "Amy Louise Wilson",
+        "original_name": "Amy Louise Wilson",
+        "popularity": 1.1142,
+        "profile_path": "/lWRPibUfN53CsTHhwZqb0ih7ifu.jpg",
+        "cast_id": 27,
+        "character": "Phyllis Bundt",
+        "credit_id": "565f15fe9251416efc003730",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30036,
+        "known_for_department": "Acting",
+        "name": "Rory Acton Burnell",
+        "original_name": "Rory Acton Burnell",
+        "popularity": 0.1039,
+        "profile_path": "/qxar3nAYjR6Mp5hTcjy1HEckgbP.jpg",
+        "cast_id": 29,
+        "character": "Reporter #2",
+        "credit_id": "56d7920792514162b7003da1",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13581,
+        "known_for_department": "Directing",
+        "name": "Brian Levant",
+        "original_name": "Brian Levant",
+        "popularity": 0.4383,
+        "profile_path": "/w5i30CI5PekRZry3AgME1ntEQSP.jpg",
+        "credit_id": "565f108bc3a36875020034ff",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112368,
+        "known_for_department": "Writing",
+        "name": "Erik Patterson",
+        "original_name": "Erik Patterson",
+        "popularity": 0.1653,
+        "profile_path": null,
+        "credit_id": "565f109bc3a36874fe00362f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 112369,
+        "known_for_department": "Writing",
+        "name": "Jessica Scott",
+        "original_name": "Jessica Scott",
+        "popularity": 0.1547,
+        "profile_path": null,
+        "credit_id": "565f10b3c3a36874fb003444",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27151,
+        "known_for_department": "Production",
+        "name": "Jeff Kleeman",
+        "original_name": "Jeff Kleeman",
+        "popularity": 0.1201,
+        "profile_path": null,
+        "credit_id": "565f10d99251416f07003458",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13581,
+        "known_for_department": "Directing",
+        "name": "Brian Levant",
+        "original_name": "Brian Levant",
+        "popularity": 0.4383,
+        "profile_path": "/w5i30CI5PekRZry3AgME1ntEQSP.jpg",
+        "credit_id": "565f10edc3a3687502003525",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543901,
+        "known_for_department": "Sound",
+        "name": "Eugene Mishustin",
+        "original_name": "Eugene Mishustin",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "565f10ff9251416eff0030be",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060,
+        "known_for_department": "Camera",
+        "name": "Dean Cundey",
+        "original_name": "Dean Cundey",
+        "popularity": 0.85,
+        "profile_path": "/5f95wKLwh4OTjGEzNkDhOdixDxU.jpg",
+        "credit_id": "565f11139251416f0e0033f0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49286,
+        "known_for_department": "Editing",
+        "name": "Lawrence Jordan",
+        "original_name": "Lawrence Jordan",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "credit_id": "565f12f3c3a36875020035cd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56972,
+        "known_for_department": "Editing",
+        "name": "Tony Lombardo",
+        "original_name": "Tony Lombardo",
+        "popularity": 0.112,
+        "profile_path": null,
+        "credit_id": "565f1316c3a36874fe0036f5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29940,
+        "known_for_department": "Production",
+        "name": "Gillian Hawser",
+        "original_name": "Gillian Hawser",
+        "popularity": 0.1482,
+        "profile_path": null,
+        "credit_id": "565f13279251416eff003134",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1300834,
+        "known_for_department": "Art",
+        "name": "Darryl Hammer",
+        "original_name": "Darryl Hammer",
+        "popularity": 0.0732,
+        "profile_path": null,
+        "credit_id": "565f1339c3a36874fb0034ff",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543902,
+        "known_for_department": "Art",
+        "name": "Di Sole",
+        "original_name": "Di Sole",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "565f134b9251416f02003623",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29694,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kate Carin",
+        "original_name": "Kate Carin",
+        "popularity": 0.0754,
+        "profile_path": null,
+        "credit_id": "565f1362c3a36874f40034da",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543903,
+        "known_for_department": "Art",
+        "name": "Nerissa Solomon",
+        "original_name": "Nerissa Solomon",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "565f137ec3a36875100033d8",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543905,
+        "known_for_department": "Visual Effects",
+        "name": "Kevin Bitters",
+        "original_name": "Kevin Bitters",
+        "popularity": 0.0868,
+        "profile_path": null,
+        "credit_id": "565f139b9251416f11003629",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543920,
+        "known_for_department": "Visual Effects",
+        "name": "Jonathan Alenskas",
+        "original_name": "Jonathan Alenskas",
+        "popularity": 0.0516,
+        "profile_path": null,
+        "credit_id": "565f13b8c3a36875100033f6",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1053822,
+        "known_for_department": "Visual Effects",
+        "name": "Simon Hansen",
+        "original_name": "Simon Hansen",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "565f13e9c3a36874f700375b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 23844,
+        "known_for_department": "Production",
+        "name": "Bonnie Rodini",
+        "original_name": "Bonnie Rodini",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "565f1443c3a3687502003630",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1536029,
+        "known_for_department": "Sound",
+        "name": "Dominick Certo",
+        "original_name": "Dominick Certo",
+        "popularity": 1.0318,
+        "profile_path": null,
+        "credit_id": "565f15209251416f0b003545",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1399327,
+        "known_for_department": "Sound",
+        "name": "Barbara McDermott",
+        "original_name": "Barbara McDermott",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "credit_id": "565f1534c3a36874fe0037bf",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543922,
+        "known_for_department": "Directing",
+        "name": "Melany Fuma",
+        "original_name": "Melany Fuma",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "565f154dc3a36875040037e4",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543923,
+        "known_for_department": "Crew",
+        "name": "Elvina Vee Sylvester",
+        "original_name": "Elvina Vee Sylvester",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "565f156ac3a36874f70037e1",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543924,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Natalie Hill",
+        "original_name": "Natalie Hill",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "565f15a4c3a3687509003707",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543925,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carla Fourie",
+        "original_name": "Carla Fourie",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "565f15b7c3a36875020036bc",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      }
+    ]
+  }
+}

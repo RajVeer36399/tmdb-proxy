@@ -1,0 +1,302 @@
+{
+  "adult": false,
+  "backdrop_path": "/bfUc3ZQBPgxVULY0i4bRN92WIGB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 564058,
+  "imdb_id": "tt6687432",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Yo niña",
+  "overview": "A couple moves to Patagonia escaping from the impositions of modern capitalist society. At first, the place, the people, the life seems to be what they are looking for. A new world away from everything. But soon they will discover that not everything is so magical or so simple, nor are they prepared to deal with that life. They will think about giving up. They will return to the city, but they do not fit there either: the place they left behind has already changed them. They will make a new attempt, a revealed truth, it will make everything stumble stronger than ever. But as they go through this, they will grow stronger to continue trying a new life.",
+  "popularity": 5.1573,
+  "poster_path": "/vm1W3xrklzTwxepxmbMd4TsJchk.jpg",
+  "production_companies": [
+    {
+      "id": 52952,
+      "logo_path": null,
+      "name": "AjiMolido Films",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2018-11-22",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I Girl",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1086359,
+        "known_for_department": "Acting",
+        "name": "Esteban Lamothe",
+        "original_name": "Esteban Lamothe",
+        "popularity": 1.5003,
+        "profile_path": "/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg",
+        "cast_id": 2,
+        "character": "Pablo",
+        "credit_id": "5bf89ce1c3a36813a6001958",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1203427,
+        "known_for_department": "Acting",
+        "name": "Andrea Carballo",
+        "original_name": "Andrea Carballo",
+        "popularity": 1.05,
+        "profile_path": "/wNKsnawsn0Vda8OfMqQst2gTvru.jpg",
+        "cast_id": 3,
+        "character": "Julia",
+        "credit_id": "5bf89ced0e0a263aba0016ac",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181963,
+        "known_for_department": "Acting",
+        "name": "Huenu Paz Paredes",
+        "original_name": "Huenu Paz Paredes",
+        "popularity": 0.1216,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Armonía",
+        "credit_id": "5bf89cfc0e0a263abe00169a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1503131,
+        "known_for_department": "Acting",
+        "name": "Emiliano Carrazzone",
+        "original_name": "Emiliano Carrazzone",
+        "popularity": 0.0798,
+        "profile_path": "/8Q1o1zrbzKsnQqKXl08o53jvMwG.jpg",
+        "cast_id": 8,
+        "character": "Damián",
+        "credit_id": "5ead0059ba131b001f43b854",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2371945,
+        "known_for_department": "Acting",
+        "name": "Bimbo Godoy",
+        "original_name": "Bimbo Godoy",
+        "popularity": 0.0407,
+        "profile_path": "/6N8KuXBIw3L1EexPqL6db0RCxWr.jpg",
+        "cast_id": 7,
+        "character": "Bety",
+        "credit_id": "5e1a5dd8459ad6001235d128",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1811966,
+        "known_for_department": "Directing",
+        "name": "Mariano González",
+        "original_name": "Mariano González",
+        "popularity": 0.051,
+        "profile_path": "/drjGHp7yQ71wv69jxJFVqh29ewT.jpg",
+        "cast_id": 9,
+        "character": "Rodrigo",
+        "credit_id": "5ead00d227d9cc001bcf3295",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64772,
+        "known_for_department": "Acting",
+        "name": "Marina Glezer",
+        "original_name": "Marina Glezer",
+        "popularity": 0.2222,
+        "profile_path": "/hNVG5wOFEeKrmVleRqsSBywGVzU.jpg",
+        "cast_id": 10,
+        "character": "Fátima",
+        "credit_id": "5ead00d960c51d00209184a9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3441514,
+        "known_for_department": "Acting",
+        "name": "Kimani Fuentes",
+        "original_name": "Kimani Fuentes",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Francisco",
+        "credit_id": "62174fd7a275020042701e34",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3441517,
+        "known_for_department": "Acting",
+        "name": "Raquel Oyarzo",
+        "original_name": "Raquel Oyarzo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Aime",
+        "credit_id": "62174fee88bbe6001ee7ad94",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2319686,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Victoria Nana",
+        "original_name": "Victoria Nana",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "621750533d4d96004103a805",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2230600,
+        "known_for_department": "Art",
+        "name": "Marina Raggio",
+        "original_name": "Marina Raggio",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6217503dd14443001beddd97",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122688,
+        "known_for_department": "Sound",
+        "name": "Martín Grignaschi",
+        "original_name": "Martín Grignaschi",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "credit_id": "6217502eafa1b0006cc093b2",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2181962,
+        "known_for_department": "Directing",
+        "name": "Natural Arpajou",
+        "original_name": "Natural Arpajou",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "621750057fcab30042c7d3db",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1509683,
+        "known_for_department": "Production",
+        "name": "Alejandro Israel",
+        "original_name": "Alejandro Israel",
+        "popularity": 0.0791,
+        "profile_path": "/8bk9ZTFdXCDG6EBP7S5YEsFnHHX.jpg",
+        "credit_id": "6217504888bbe6001ee7adeb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2322369,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Virginia Álvarez",
+        "original_name": "Virginia Álvarez",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "621750625be00e00420965ed",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2181962,
+        "known_for_department": "Directing",
+        "name": "Natural Arpajou",
+        "original_name": "Natural Arpajou",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "5bf89c9c92514104cc001468",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181965,
+        "known_for_department": "Editing",
+        "name": "Juan Pablo Docampo",
+        "original_name": "Juan Pablo Docampo",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5bf89d45c3a368139f001972",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1307339,
+        "known_for_department": "Camera",
+        "name": "Pablo Parra",
+        "original_name": "Pablo Parra",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5bf89d1f0e0a263ab60016c4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

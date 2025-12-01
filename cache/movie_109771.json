@@ -1,0 +1,176 @@
+{
+  "adult": false,
+  "backdrop_path": "/htuBrOu0z1fIsCViT3AMesy2nRq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 109771,
+  "imdb_id": "tt1070339",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Holunderblüte",
+  "overview": "The film tells the story of the East Prussian landscape and its inhabitants. At one time Germans, Poles, Lithuanians and Jews lived here alongside and with one another. After World War II and the expulsion of Germans by Stalin, the Prussian province turned into a Russian enclave. Volker Koepp’s fourth film about the Kaliningrad region is dedicated to the generation, born in the '90s, and familiar with the Soviet Union and East Prussia only from school books. Parents and grandparents who were forcefully resettled to where they are now have never really felt at home. In the meantime they have hopelessly succumbed to unemployment and alcohol. Their children can only rely on themselves. Older siblings look after the younger ones, they play with what lies around, and the girl Ljuda can’t wait to finally turn eighteen, to be able to take her brothers home from the orphanage.  The film has much confidence in the children. But what will become of them?",
+  "popularity": 6.1549,
+  "poster_path": "/rEoJHchly5vfkEkYL0NeNZJLgeo.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2007-06-26",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Elder Blossom",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17548,
+        "known_for_department": "Acting",
+        "name": "Fritzi Haberlandt",
+        "original_name": "Fritzi Haberlandt",
+        "popularity": 0.6151,
+        "profile_path": "/xx2zbZBCNWYBI1oD1QT5WLzQgbC.jpg",
+        "cast_id": 1,
+        "character": "Narrator (voice)",
+        "credit_id": "52fe4ac3c3a36847f81e04e1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1047379,
+        "known_for_department": "Directing",
+        "name": "Volker Koepp",
+        "original_name": "Volker Koepp",
+        "popularity": 0.4121,
+        "profile_path": "/f3Yb6zVCMsjIhncmcd10a9LvFdm.jpg",
+        "cast_id": 2,
+        "character": "Narrator (voice)",
+        "credit_id": "52fe4ac3c3a36847f81e04e5",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1047380,
+        "known_for_department": "Editing",
+        "name": "Beatrice Babin",
+        "original_name": "Beatrice Babin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe4ac3c3a36847f81e04f7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1047379,
+        "known_for_department": "Directing",
+        "name": "Volker Koepp",
+        "original_name": "Volker Koepp",
+        "popularity": 0.4121,
+        "profile_path": "/f3Yb6zVCMsjIhncmcd10a9LvFdm.jpg",
+        "credit_id": "52fe4ac3c3a36847f81e04eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1830417,
+        "known_for_department": "Writing",
+        "name": "Barbara Frankenstein",
+        "original_name": "Barbara Frankenstein",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "593943d6925141088e0110e7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 22650,
+        "known_for_department": "Sound",
+        "name": "Rainer Böhm",
+        "original_name": "Rainer Böhm",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "593943ef9251410895010935",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1047379,
+        "known_for_department": "Directing",
+        "name": "Volker Koepp",
+        "original_name": "Volker Koepp",
+        "popularity": 0.4121,
+        "profile_path": "/f3Yb6zVCMsjIhncmcd10a9LvFdm.jpg",
+        "credit_id": "593943b092514108b300f85f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1047379,
+        "known_for_department": "Directing",
+        "name": "Volker Koepp",
+        "original_name": "Volker Koepp",
+        "popularity": 0.4121,
+        "profile_path": "/f3Yb6zVCMsjIhncmcd10a9LvFdm.jpg",
+        "credit_id": "593943c89251410889010615",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38196,
+        "known_for_department": "Camera",
+        "name": "Thomas Plenert",
+        "original_name": "Thomas Plenert",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "68388fa5a9ea20aedf038666",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

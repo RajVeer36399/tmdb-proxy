@@ -1,0 +1,321 @@
+{
+  "adult": false,
+  "backdrop_path": "/4yGVdOJDBxcEKwJpFc3FUPdELJZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 210726,
+  "imdb_id": "tt0122701",
+  "origin_country": [],
+  "original_language": "it",
+  "original_title": "La seconda moglie",
+  "overview": "In the early 1960's, a Sicilian single mother marries an older, crass widowed truck driver. When he is arrested trying to smuggle an antique, she ends up falling in love with her handsome stepson.",
+  "popularity": 5.9644,
+  "poster_path": "/a2BGHPsGHgKBTq6HyAfA2jphXsh.jpg",
+  "production_companies": [
+    {
+      "id": 371,
+      "logo_path": "/caz3eGyRd4OW7oR31Aij5ZwjOXD.png",
+      "name": "Cecchi Gori Group Tiger Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1998-11-05",
+  "revenue": 0,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Second Wife",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10777,
+        "known_for_department": "Acting",
+        "name": "Maria Grazia Cucinotta",
+        "original_name": "Maria Grazia Cucinotta",
+        "popularity": 1.0312,
+        "profile_path": "/zZ46tuQnCEnYlfGiyuZTAb7w4BL.jpg",
+        "cast_id": 1,
+        "character": "Anna",
+        "credit_id": "52fe4d83c3a368484e1ed589",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70874,
+        "known_for_department": "Acting",
+        "name": "Lazar Ristovski",
+        "original_name": "Lazar Ristovski",
+        "popularity": 0.4646,
+        "profile_path": "/ejgCgIQGwOVEZwYjtr5OT1xa50b.jpg",
+        "cast_id": 2,
+        "character": "Fosco",
+        "credit_id": "52fe4d83c3a368484e1ed58d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1194404,
+        "known_for_department": "Acting",
+        "name": "Giorgio Noè",
+        "original_name": "Giorgio Noè",
+        "popularity": 0.2891,
+        "profile_path": "/2iIXNGh6iDJKNeX9zRmayLbDHbT.jpg",
+        "cast_id": 3,
+        "character": "livio",
+        "credit_id": "52fe4d83c3a368484e1ed591",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1194405,
+        "known_for_department": "Acting",
+        "name": "Jessica Auriemma",
+        "original_name": "Jessica Auriemma",
+        "popularity": 0.1198,
+        "profile_path": "/4qIY6M0sQQi1TW2gPlfj1mAo8ah.jpg",
+        "cast_id": 4,
+        "character": "Santina",
+        "credit_id": "52fe4d83c3a368484e1ed595",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1194406,
+        "known_for_department": "Acting",
+        "name": "Patrizia Corti",
+        "original_name": "Patrizia Corti",
+        "popularity": 0.2335,
+        "profile_path": "/9OQUpJBtL4CEfVWLBVILMnKtE9i.jpg",
+        "cast_id": 5,
+        "character": "Fernanda",
+        "credit_id": "52fe4d83c3a368484e1ed599",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1194407,
+        "known_for_department": "Acting",
+        "name": "Sergio Pierattini",
+        "original_name": "Sergio Pierattini",
+        "popularity": 1.1042,
+        "profile_path": "/gaxyTukKsStXmBLMGWoimU6JN1m.jpg",
+        "cast_id": 6,
+        "character": "zio Moreno",
+        "credit_id": "52fe4d83c3a368484e1ed59d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57877,
+        "known_for_department": "Acting",
+        "name": "Stefano Abbati",
+        "original_name": "Stefano Abbati",
+        "popularity": 0.117,
+        "profile_path": "/7bMgqpWQKi191Sbix9QORUQbE2g.jpg",
+        "cast_id": 7,
+        "character": "zio Umberto",
+        "credit_id": "52fe4d83c3a368484e1ed5a1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2722838,
+        "known_for_department": "Acting",
+        "name": "Dante Daddi",
+        "original_name": "Dante Daddi",
+        "popularity": 0.053,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Omero",
+        "credit_id": "5f1d3c290e597b00343b1472",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1035434,
+        "known_for_department": "Acting",
+        "name": "Pietro Fornaciari",
+        "original_name": "Pietro Fornaciari",
+        "popularity": 0.3203,
+        "profile_path": "/qVGtBNnv9I06sN4yXs1WM8evTZv.jpg",
+        "cast_id": 12,
+        "character": "Sirio",
+        "credit_id": "5f1d3c3466a7c30039003d49",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2722839,
+        "known_for_department": "Acting",
+        "name": "Floriano Nuti",
+        "original_name": "Floriano Nuti",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Papà Antonella",
+        "credit_id": "5f1d3c3f0bb0760035f43c03",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2613791,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giovanna Russo",
+        "original_name": "Giovanna Russo",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Cantante",
+        "credit_id": "5f1d3c560bb0760034f51705",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 243238,
+        "known_for_department": "Acting",
+        "name": "Franca Tamantini",
+        "original_name": "Franca Tamantini",
+        "popularity": 0.141,
+        "profile_path": "/fTDuzHxc3kkU9mptwVuyJyTE6PZ.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5f1d3c5d0e597b00333d1f93",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2722840,
+        "known_for_department": "Acting",
+        "name": "Patrizia Telara",
+        "original_name": "Patrizia Telara",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "5f1d3c640e597b003538db86",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72768,
+        "known_for_department": "Writing",
+        "name": "Ugo Chiti",
+        "original_name": "Ugo Chiti",
+        "popularity": 0.683,
+        "profile_path": "/gIU9n5RvVJVGgI1yOLsRIQrc3bJ.jpg",
+        "credit_id": "52fe4d83c3a368484e1ed5a7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1194408,
+        "known_for_department": "Writing",
+        "name": "Nicola Zavagli",
+        "original_name": "Nicola Zavagli",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "52fe4d83c3a368484e1ed5b3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72768,
+        "known_for_department": "Writing",
+        "name": "Ugo Chiti",
+        "original_name": "Ugo Chiti",
+        "popularity": 0.683,
+        "profile_path": "/gIU9n5RvVJVGgI1yOLsRIQrc3bJ.jpg",
+        "credit_id": "52fe4d83c3a368484e1ed5ad",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32817,
+        "known_for_department": "Sound",
+        "name": "Aldo De Scalzi",
+        "original_name": "Aldo De Scalzi",
+        "popularity": 0.5578,
+        "profile_path": "/3Spf3S7xgRrsB2mWnGoDIWtccjL.jpg",
+        "credit_id": "67cf35e0f9a48698e2e31fe7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32816,
+        "known_for_department": "Sound",
+        "name": "Pivio",
+        "original_name": "Pivio",
+        "popularity": 0.065,
+        "profile_path": "/cOvCfgCdNOZhuA28daUrYvwv9Yc.jpg",
+        "credit_id": "67cf35e6f9a48698e2e31ff1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23951,
+        "known_for_department": "Camera",
+        "name": "Raffaele Mertes",
+        "original_name": "Raffaele Mertes",
+        "popularity": 0.1403,
+        "profile_path": "/c79OXZe4qXgcrczqQMgMq31AGU3.jpg",
+        "credit_id": "67cf35efd95e411dd02a9009",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

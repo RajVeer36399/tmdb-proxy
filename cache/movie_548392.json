@@ -1,0 +1,515 @@
+{
+  "adult": false,
+  "backdrop_path": "/7sAGXGEiMXqS9xy03AH6CwcEnlZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 548392,
+  "imdb_id": "tt7240616",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Krew Boga",
+  "overview": "In the early Middle Ages, two Christian knights set off to christen a small pagan village hidden deep in the mountains. Despite the differences in their views and perspectives on religion, the two men become travel companions and create a father-son relationship. As they settle into the local community, their faith, belief system and the bond between them are all put to the test. Soon, love is confronted with hate, dialogue with violence, madness with rules and many will have to die.",
+  "popularity": 5.8165,
+  "poster_path": "/25VwWdsDu6g3anaYYANN6VRKnjf.jpg",
+  "production_companies": [
+    {
+      "id": 71114,
+      "logo_path": null,
+      "name": "Odra-Film",
+      "origin_country": "PL"
+    },
+    {
+      "id": 83894,
+      "logo_path": null,
+      "name": "Otter Films",
+      "origin_country": "PL"
+    },
+    {
+      "id": 138280,
+      "logo_path": null,
+      "name": "Coloroffon",
+      "origin_country": "PL"
+    },
+    {
+      "id": 65259,
+      "logo_path": null,
+      "name": "Earlybirds Films",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2020-07-23",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Our world has begun",
+  "title": "Sword of God",
+  "video": false,
+  "vote_average": 4,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24524,
+        "known_for_department": "Acting",
+        "name": "Krzysztof Pieczyński",
+        "original_name": "Krzysztof Pieczyński",
+        "popularity": 0.2291,
+        "profile_path": "/bDuLYhLgJi6DUqFyhUkqAwTqG39.jpg",
+        "cast_id": 0,
+        "character": "Willibrord",
+        "credit_id": "5b9cceb2c3a368034400b0a3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12210,
+        "known_for_department": "Acting",
+        "name": "Jacek Koman",
+        "original_name": "Jacek Koman",
+        "popularity": 0.6991,
+        "profile_path": "/t72LPCMYV7xkGeRel1tGPyP4V1r.jpg",
+        "cast_id": 1,
+        "character": "Geowold",
+        "credit_id": "5b9ccec50e0a26383e00b085",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2041894,
+        "known_for_department": "Acting",
+        "name": "Karol Bernacki",
+        "original_name": "Karol Bernacki",
+        "popularity": 0.4598,
+        "profile_path": "/7AckqjRL1PH4o2NoAitRiKf99t1.jpg",
+        "cast_id": 2,
+        "character": "Jan",
+        "credit_id": "5b9cced40e0a26383700bb57",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1106964,
+        "known_for_department": "Acting",
+        "name": "Jan Bijvoet",
+        "original_name": "Jan Bijvoet",
+        "popularity": 0.9505,
+        "profile_path": "/vEiLdWybj3tt92KN67JCIvYj6vP.jpg",
+        "cast_id": 22,
+        "character": "King",
+        "credit_id": "5bb90f379251410a2401388f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2143504,
+        "known_for_department": "Acting",
+        "name": "Wiktoria Gorodecka",
+        "original_name": "Wiktoria Gorodecka",
+        "popularity": 0.4445,
+        "profile_path": "/rEh1sQu3foZadEu5NVaCrSJKg5c.jpg",
+        "cast_id": 30,
+        "character": "Prahwe",
+        "credit_id": "655e6cd51dbc8800c687bb4c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236901,
+        "known_for_department": "Acting",
+        "name": "Jeroen Perceval",
+        "original_name": "Jeroen Perceval",
+        "popularity": 0.5225,
+        "profile_path": "/5qDLRP3DLFsEBZ6ZOUUSE1zsESX.jpg",
+        "cast_id": 23,
+        "character": "Karenga",
+        "credit_id": "5bb90f429251410a240138a8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2143508,
+        "known_for_department": "Acting",
+        "name": "Olivier De Sagazan",
+        "original_name": "Olivier De Sagazan",
+        "popularity": 0.3513,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Pem",
+        "credit_id": "5bb90f4d0e0a2634ea0141e0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 570243,
+        "known_for_department": "Acting",
+        "name": "Karolina Porcari",
+        "original_name": "Karolina Porcari",
+        "popularity": 0.192,
+        "profile_path": "/gGMSzD83Ew2FGBP4yzartEaKpUK.jpg",
+        "cast_id": 25,
+        "character": "Daina",
+        "credit_id": "5bb90f5a9251410a1a01497a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2458677,
+        "known_for_department": "Acting",
+        "name": "Mateusz Korsak",
+        "original_name": "Mateusz Korsak",
+        "popularity": 0.7926,
+        "profile_path": "/q8S8ERaiAPXyhyPtyeqec24tVEb.jpg",
+        "cast_id": 26,
+        "character": "Stanis",
+        "credit_id": "61125ec3394a870075863839",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3743106,
+        "known_for_department": "Acting",
+        "name": "Konrad Beta",
+        "original_name": "Konrad Beta",
+        "popularity": 0.1104,
+        "profile_path": "/yhgxJ1aGpTX2eEI1hPAnQvKDhuM.jpg",
+        "cast_id": 33,
+        "character": "Ateb",
+        "credit_id": "66c44acb818bd63d7b7120ad",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2128372,
+        "known_for_department": "Production",
+        "name": "Rafał Bubnicki",
+        "original_name": "Rafał Bubnicki",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6551871c25b95500e3be61bd",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2751064,
+        "known_for_department": "Directing",
+        "name": "Jakub Wielecki",
+        "original_name": "Jakub Wielecki",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "65ae88fbd100b6010c8265d2",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1454140,
+        "known_for_department": "Sound",
+        "name": "Tapio Liukkonen",
+        "original_name": "Tapio Liukkonen",
+        "popularity": 0.4674,
+        "profile_path": "/u4GIvS9DZzrB83VrXMF81vbU6KO.jpg",
+        "credit_id": "6474bf92dd731b2d7cd7ba05",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2552026,
+        "known_for_department": "Sound",
+        "name": "Krzysztof Wiśniewski",
+        "original_name": "Krzysztof Wiśniewski",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "credit_id": "668301d26a0e4f721e1b7a45",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1089399,
+        "known_for_department": "Directing",
+        "name": "Bartosz Konopka",
+        "original_name": "Bartosz Konopka",
+        "popularity": 0.1037,
+        "profile_path": "/eK82VrshUyAdQZkk5RyClsP7AF.jpg",
+        "credit_id": "5b9ccee9c3a368033b00bc6e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1610643,
+        "known_for_department": "Camera",
+        "name": "Jacek Podgórski",
+        "original_name": "Jacek Podgórski",
+        "popularity": 0.0641,
+        "profile_path": "/yDac1JQuGSEQ5ly7Wb2JsFXun0j.jpg",
+        "credit_id": "5b9ccf36c3a368035200bedf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2128370,
+        "known_for_department": "Editing",
+        "name": "Andrzej Dąbrowski",
+        "original_name": "Andrzej Dąbrowski",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5b9ccf43925141024300a666",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1576765,
+        "known_for_department": "Production",
+        "name": "Nadia Lebik",
+        "original_name": "Nadia Lebik",
+        "popularity": 0.1509,
+        "profile_path": null,
+        "credit_id": "5b9ccf4f0e0a26383b00b871",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2128371,
+        "known_for_department": "Production",
+        "name": "Andrzej Białas",
+        "original_name": "Andrzej Białas",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5b9ccf63925141024300a6a2",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2128373,
+        "known_for_department": "Production",
+        "name": "Melissa Dhondt",
+        "original_name": "Melissa Dhondt",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "credit_id": "5b9ccf7ac3a368033e00b79d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1521428,
+        "known_for_department": "Production",
+        "name": "Jurgen Willocx",
+        "original_name": "Jurgen Willocx",
+        "popularity": 0.0726,
+        "profile_path": null,
+        "credit_id": "5b9ccf85925141024300a6ce",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2128369,
+        "known_for_department": "Production",
+        "name": "Anna Wydra",
+        "original_name": "Anna Wydra",
+        "popularity": 0.7429,
+        "profile_path": null,
+        "credit_id": "5b9ccf93c3a368034400b192",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1819974,
+        "known_for_department": "Art",
+        "name": "Łukasz Trzciński",
+        "original_name": "Łukasz Trzciński",
+        "popularity": 0.0945,
+        "profile_path": "/nUgsHW0tEuHGOglcP61OsuFc6bW.jpg",
+        "credit_id": "5b9ccfa0925141023f00afca",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1768864,
+        "known_for_department": "Art",
+        "name": "Marek Warszewski",
+        "original_name": "Marek Warszewski",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "credit_id": "5b9ccfab0e0a26382900b93b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2128374,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marta Ostrowicz",
+        "original_name": "Marta Ostrowicz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5b9ccfb7925141024600ad01",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2128375,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dariusz Krysiak",
+        "original_name": "Dariusz Krysiak",
+        "popularity": 0.0877,
+        "profile_path": "/gAqw0IbT1BOgwoiBYGv0QULhJ9p.jpg",
+        "credit_id": "5b9ccfc2925141023800abc6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610590,
+        "known_for_department": "Sound",
+        "name": "Marcin Lenarczyk",
+        "original_name": "Marcin Lenarczyk",
+        "popularity": 0.0564,
+        "profile_path": null,
+        "credit_id": "5b9ccfd2925141023f00b000",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4704187,
+        "known_for_department": "Visual Effects",
+        "name": "Jarosław Gawroński",
+        "original_name": "Jarosław Gawroński",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "67164344bd91c83829d76055",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1720153,
+        "known_for_department": "Sound",
+        "name": "Jerzy Rogiewicz",
+        "original_name": "Jerzy Rogiewicz",
+        "popularity": 0.044,
+        "profile_path": null,
+        "credit_id": "68c2924b0502aac347948b9a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2128369,
+        "known_for_department": "Production",
+        "name": "Anna Wydra",
+        "original_name": "Anna Wydra",
+        "popularity": 0.7429,
+        "profile_path": null,
+        "credit_id": "68c2924e9d4617380e98d1d9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1089399,
+        "known_for_department": "Directing",
+        "name": "Bartosz Konopka",
+        "original_name": "Bartosz Konopka",
+        "popularity": 0.1037,
+        "profile_path": "/eK82VrshUyAdQZkk5RyClsP7AF.jpg",
+        "credit_id": "68c292507618bd35c11bdc8a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82309,
+        "known_for_department": "Writing",
+        "name": "Przemysław Nowakowski",
+        "original_name": "Przemysław Nowakowski",
+        "popularity": 0.045,
+        "profile_path": "/44b3rpcI09Rjq2imjFYek6OaSvW.jpg",
+        "credit_id": "68c292520459e37f171bde8d",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

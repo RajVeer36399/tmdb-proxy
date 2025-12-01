@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/bXfNVWqf2aPJi6qXT0oafvIbCjr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://www.cmajor-entertainment.com/movie/mythos-othello-8815",
+  "id": 1018891,
+  "imdb_id": "tt21036524",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Mythos Othello",
+  "overview": "A fascinating exploration of the literary — The Tragedy of Othello, the Moor of Venice, by English playwright William Shakespeare (1604) — and lyrical — Othello, by Italian opera composer Giuseppe Verdi (1887) — myth of Othello, the desperately tragic story of a Moorish general in the army of the Venetian Republic whose absurd jealousy poisons his love for his wife Desdemona.",
+  "popularity": 5.7168,
+  "poster_path": "/ywezJhChGeu983QMtXlmWfGjUAv.jpg",
+  "production_companies": [
+    {
+      "id": 94542,
+      "logo_path": null,
+      "name": "Signed Media",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 587,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2022-06-12",
+  "revenue": 0,
+  "runtime": 53,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Legacy of Othello",
+  "video": false,
+  "vote_average": 8,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3683274,
+        "known_for_department": "Acting",
+        "name": "Joel Schultze-Motel",
+        "original_name": "Joel Schultze-Motel",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Othello",
+        "credit_id": "630f2ad0126ec30092a05598",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3286755,
+        "known_for_department": "Acting",
+        "name": "Oliver Magda",
+        "original_name": "Oliver Magda",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Jago",
+        "credit_id": "630f2aeb126ec3007e17dad2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3286759,
+        "known_for_department": "Acting",
+        "name": "Katrin Katz Köbbert",
+        "original_name": "Katrin Katz Köbbert",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Desdemona",
+        "credit_id": "630f2c9f564ec7007a8d8c00",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1006158,
+        "known_for_department": "Acting",
+        "name": "Jonas Kaufmann",
+        "original_name": "Jonas Kaufmann",
+        "popularity": 0.5733,
+        "profile_path": "/phtOzy9kcTClC9mU7N6Mr2q1yFV.jpg",
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "63d5c9c722df2e00df3d124b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1814614,
+        "known_for_department": "Acting",
+        "name": "Jimmy Hartwig",
+        "original_name": "Jimmy Hartwig",
+        "popularity": 0.085,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "63d5c9d420e6a5007b00d25c",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1312013,
+        "known_for_department": "Directing",
+        "name": "Dag Freyer",
+        "original_name": "Dag Freyer",
+        "popularity": 0.7847,
+        "profile_path": null,
+        "credit_id": "630f2a887fcab3007fbd6a8b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1312013,
+        "known_for_department": "Directing",
+        "name": "Dag Freyer",
+        "original_name": "Dag Freyer",
+        "popularity": 0.7847,
+        "profile_path": null,
+        "credit_id": "630f22d0d7a70a007e1b8032",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "adult": false,
+  "backdrop_path": "/ipiEQXin26LRtLPwxkc9oZBjbn8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 350676,
+  "imdb_id": "tt0267605",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "L'italiano",
+  "overview": "August 1991. As post-Communist Albania starts falling apart, Giorgio seeks refuge in Italy.",
+  "popularity": 6.7104,
+  "poster_path": "/uXvfuyMPmo6An3PjrngipfHH26z.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2002-07-21",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Italian",
+  "video": false,
+  "vote_average": 4.3,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96977,
+        "known_for_department": "Acting",
+        "name": "Mehmet Günsür",
+        "original_name": "Mehmet Günsür",
+        "popularity": 1.3387,
+        "profile_path": "/guAQPsye0n5CoLvl0WrtDmbHKDM.jpg",
+        "cast_id": 0,
+        "character": "Giorgio",
+        "credit_id": "55ae289d9251411e0600a536",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1008756,
+        "known_for_department": "Acting",
+        "name": "Sonia Aquino",
+        "original_name": "Sonia Aquino",
+        "popularity": 0.3622,
+        "profile_path": "/tONmODWgJ5ET3jWNQXyPRsQ6NDb.jpg",
+        "cast_id": 1,
+        "character": "Luisa",
+        "credit_id": "55ae28b2c3a3682ff400bb8f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8774,
+        "known_for_department": "Acting",
+        "name": "Luca Lionello",
+        "original_name": "Luca Lionello",
+        "popularity": 0.4898,
+        "profile_path": "/tBjJS35BSvbPc0m5ApqTWq8St66.jpg",
+        "cast_id": 2,
+        "character": "Silvestre",
+        "credit_id": "55ae28c39251411e1100aa11",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89142,
+        "known_for_department": "Acting",
+        "name": "Yuliya Mayarchuk",
+        "original_name": "Yuliya Mayarchuk",
+        "popularity": 2.2675,
+        "profile_path": "/tUvJSGa8qF0Rqnl1VNJfT4LptqC.jpg",
+        "cast_id": 3,
+        "character": "prostituta",
+        "credit_id": "55ae28d2c3a368648e008db8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 238059,
+        "known_for_department": "Acting",
+        "name": "Varo Venturi",
+        "original_name": "Varo Venturi",
+        "popularity": 0.042,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Ivan",
+        "credit_id": "55ae28dec3a3682ff9009b13",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1489046,
+        "known_for_department": "Directing",
+        "name": "Ennio de Dominicis",
+        "original_name": "Ennio de Dominicis",
+        "popularity": 0.0459,
+        "profile_path": null,
+        "credit_id": "55ae290d9251411e1400a81c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1489046,
+        "known_for_department": "Directing",
+        "name": "Ennio de Dominicis",
+        "original_name": "Ennio de Dominicis",
+        "popularity": 0.0459,
+        "profile_path": null,
+        "credit_id": "5c335a99c3a3682915ad8b58",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 238060,
+        "known_for_department": "Writing",
+        "name": "M. Luisa Fusconi",
+        "original_name": "M. Luisa Fusconi",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5c335aad0e0a267eb340455a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 238059,
+        "known_for_department": "Acting",
+        "name": "Varo Venturi",
+        "original_name": "Varo Venturi",
+        "popularity": 0.042,
+        "profile_path": null,
+        "credit_id": "5c335aba9251415a987353fb",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

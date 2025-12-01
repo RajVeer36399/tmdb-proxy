@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/lRidOycOdmrvpCfvhNFwvMaC1BH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://kelassbintang.com/",
+  "id": 1135855,
+  "imdb_id": null,
+  "origin_country": [
+    "HN"
+  ],
+  "original_language": "mi",
+  "original_title": "Kelas Bintang - Mangga Muda",
+  "overview": "Kelas Bintang is back with this pack of drama called Mangga Muda.",
+  "popularity": 15.3062,
+  "poster_path": "/3H0p2Q631g09LJBG3JzuGzd0x50.jpg",
+  "production_companies": [
+    {
+      "id": 198702,
+      "logo_path": null,
+      "name": "Kelas Bintang",
+      "origin_country": ""
+    },
+    {
+      "id": 215214,
+      "logo_path": null,
+      "name": "Karya Bintang Bersama",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2023-05-10",
+  "revenue": 0,
+  "runtime": 42,
+  "spoken_languages": [
+    {
+      "english_name": "Albanian",
+      "iso_639_1": "sq",
+      "name": "shqip"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kelas Bintang - Mangga Muda",
+  "video": false,
+  "vote_average": 8,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 4401475,
+        "known_for_department": "Acting",
+        "name": "Virly Virginia",
+        "original_name": "Virly Virginia",
+        "popularity": 0.6,
+        "profile_path": "/hCJHdJ4uB6AJWUaCCiJih5JyXmy.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "670e071c0b800537d75ccb17",
+        "order": 0
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 4414181,
+        "known_for_department": "Acting",
+        "name": "Ariele Bellus",
+        "original_name": "Ariele Bellus",
+        "popularity": 5.8575,
+        "profile_path": "/aKwOac8I34kp9JvNQQvLXac5BWw.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "656f4f520859b400e29eb9c6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4414245,
+        "known_for_department": "Acting",
+        "name": "Bens",
+        "original_name": "Bens",
+        "popularity": 0.0626,
+        "profile_path": "/dDjLBSs5b9obappgcShGSWtefZV.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "656f4f5d88634800ade569f4",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 3185938,
+        "known_for_department": "Acting",
+        "name": "Bima Prawira",
+        "original_name": "Bima Prawira",
+        "popularity": 0.6,
+        "profile_path": "/wiZUdSMQnaXuet8sfxxSllZfKj7.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "656f4f6788634800ea49003e",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4029933,
+        "known_for_department": "Production",
+        "name": "Irwansyah",
+        "original_name": "Irwansyah",
+        "popularity": 0.6,
+        "profile_path": "/cNwwpVphUTHOM8dVdsFbF9t0wrE.jpg",
+        "credit_id": "656f4f830859b400e29eb9d4",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

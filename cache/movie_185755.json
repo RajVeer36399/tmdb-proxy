@@ -1,0 +1,201 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 13000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 185755,
+  "imdb_id": "tt2459028",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Taking",
+  "overview": "Two strangers must discover a way to escape a sinister family who wishes to sacrifice their souls to an evil presence.",
+  "popularity": 7.2896,
+  "poster_path": "/plZoBNIJxhuf8DOBRgYZlGauXoG.jpg",
+  "production_companies": [
+    {
+      "id": 54393,
+      "logo_path": null,
+      "name": "BAPart Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-04-12",
+  "revenue": 0,
+  "runtime": 77,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Taking",
+  "video": false,
+  "vote_average": 2.5,
+  "vote_count": 34,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1168339,
+        "known_for_department": "Acting",
+        "name": "John Halas",
+        "original_name": "John Halas",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Carl Young",
+        "credit_id": "52fe4cea9251416c75129b25",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1168340,
+        "known_for_department": "Acting",
+        "name": "Alana Jackler",
+        "original_name": "Alana Jackler",
+        "popularity": 0.8729,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Jade",
+        "credit_id": "52fe4cea9251416c75129b29",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1739891,
+        "known_for_department": "Acting",
+        "name": "Lynnette Gaza",
+        "original_name": "Lynnette Gaza",
+        "popularity": 1.4104,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Grandmother",
+        "credit_id": "5c46ce93c3a368477a8573d3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2223604,
+        "known_for_department": "Acting",
+        "name": "Linda Kennedy",
+        "original_name": "Linda Kennedy",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Carolina",
+        "credit_id": "5c46cea60e0a26494dc91318",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2223605,
+        "known_for_department": "Acting",
+        "name": "Frank Bliss",
+        "original_name": "Frank Bliss",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "5c46ceb5c3a3684793852fa6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1208578,
+        "known_for_department": "Acting",
+        "name": "Olivia Szego",
+        "original_name": "Olivia Szego",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Marilyn",
+        "credit_id": "5c46cecc0e0a260419c5f72f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1431705,
+        "known_for_department": "Acting",
+        "name": "Lynn Mastio Rice",
+        "original_name": "Lynn Mastio Rice",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Mother",
+        "credit_id": "5c46cede9251415e344fc004",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1345096,
+        "known_for_department": "Acting",
+        "name": "Gordon Price",
+        "original_name": "Gordon Price",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Father",
+        "credit_id": "5c46ceee92514105c14d4268",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1168337,
+        "known_for_department": "Directing",
+        "name": "Cezil Reed",
+        "original_name": "Cezil Reed",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4cea9251416c75129b1b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1168338,
+        "known_for_department": "Directing",
+        "name": "Lydelle Jackson",
+        "original_name": "Lydelle Jackson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4cea9251416c75129b21",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

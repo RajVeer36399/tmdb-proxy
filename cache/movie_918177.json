@@ -1,0 +1,460 @@
+{
+  "adult": false,
+  "backdrop_path": "/iHfYFteL7lRjhvZtpL1DsU4dkeU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://reeloneent.com/programming/10-truths-about-love/",
+  "id": 918177,
+  "imdb_id": "tt15483404",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "10 Truths About Love",
+  "overview": "Hannah, a thriving romance columnist, thinks she’s got life and love figured out… until her longtime boyfriend unexpectedly breaks up with her. At the same time, Hannah’s editor hires a new writer, Liam, to work with her and give the column a male perspective. The two clash over their approach and sparks fly. To prove himself, Liam offers to help Hannah get her ex-boyfriend back. But, in the process of proving each other wrong, they begin to realize they may be right for each other.",
+  "popularity": 6.4089,
+  "poster_path": "/61ftDeGj78WVYyYzBlmYVRKeiD1.jpg",
+  "production_companies": [
+    {
+      "id": 15645,
+      "logo_path": "/lUIW54MXFbB94IKiVzwTRu1R3UX.png",
+      "name": "Reel One Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 148674,
+      "logo_path": null,
+      "name": "CME Spring Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 140422,
+      "logo_path": "/bdzcN8jo9l77g5zKqPlxW3CkejM.png",
+      "name": "Champlain Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 114338,
+      "logo_path": "/iApSXPfwHZdtt3sR2y5VDoS2BRK.png",
+      "name": "Ontario Creates",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-08-31",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "10 Truths About Love",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38670,
+        "known_for_department": "Acting",
+        "name": "Camilla Belle",
+        "original_name": "Camilla Belle",
+        "popularity": 1.8422,
+        "profile_path": "/kYhpuTi1E3IvdHAmuijjth0lQNS.jpg",
+        "cast_id": 1,
+        "character": "Carina",
+        "credit_id": "61c10c7dc7176d001cd16069",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1842856,
+        "known_for_department": "Acting",
+        "name": "David Lafontaine",
+        "original_name": "David Lafontaine",
+        "popularity": 0.6828,
+        "profile_path": "/1jUM0Cj5DXMenTZfb2kMhmthzTK.jpg",
+        "cast_id": 2,
+        "character": "Liam",
+        "credit_id": "61c10c8c13af5f001b4356b9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1811040,
+        "known_for_department": "Acting",
+        "name": "Kristen Kurnik",
+        "original_name": "Kristen Kurnik",
+        "popularity": 0.9376,
+        "profile_path": "/g4btfBqZx5Jwo4XjnTPJIvpl70A.jpg",
+        "cast_id": 3,
+        "character": "Daphne",
+        "credit_id": "61c10c91b5bc210041524319",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5941,
+        "known_for_department": "Acting",
+        "name": "Neil Crone",
+        "original_name": "Neil Crone",
+        "popularity": 0.3933,
+        "profile_path": "/dSKEir3QWqSKJQjPIQftNZoD8Hs.jpg",
+        "cast_id": 4,
+        "character": "Milton",
+        "credit_id": "61c10c966517d6001a53285d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1708836,
+        "known_for_department": "Acting",
+        "name": "Karn Kalra",
+        "original_name": "Karn Kalra",
+        "popularity": 0.1462,
+        "profile_path": "/aj8qbsn5X0yAekJOfw5YT1yRsdB.jpg",
+        "cast_id": 5,
+        "character": "Tom",
+        "credit_id": "61c10c9b6517d6009617672b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44302,
+        "known_for_department": "Acting",
+        "name": "David Keeley",
+        "original_name": "David Keeley",
+        "popularity": 0.2872,
+        "profile_path": "/7UUyFsFukoTu51mBFNWCDgx4iki.jpg",
+        "cast_id": 6,
+        "character": "Frank",
+        "credit_id": "61c10ca1297338006b4c02cd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1393531,
+        "known_for_department": "Acting",
+        "name": "Carly Street",
+        "original_name": "Carly Street",
+        "popularity": 0.4353,
+        "profile_path": "/c4VHRtFuB90Ciq29xW9cArKz1US.jpg",
+        "cast_id": 7,
+        "character": "Ronda",
+        "credit_id": "61c10ca6e24b930096dc00d5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2864988,
+        "known_for_department": "Acting",
+        "name": "Robert Ifedi",
+        "original_name": "Robert Ifedi",
+        "popularity": 0.6886,
+        "profile_path": "/qX1pY1mi0FDNSa2MpIDKy1h5BHF.jpg",
+        "cast_id": 8,
+        "character": "Eliot",
+        "credit_id": "61c10caba284eb0098124481",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1384128,
+        "known_for_department": "Acting",
+        "name": "Paula Rivera",
+        "original_name": "Paula Rivera",
+        "popularity": 0.3273,
+        "profile_path": "/wvS4nYCHdYV4H9YARLZheqQ0M4s.jpg",
+        "cast_id": 9,
+        "character": "Marisa",
+        "credit_id": "61c10cb17f4f21001c259c9c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1008476,
+        "known_for_department": "Acting",
+        "name": "Jennifer de Lucia",
+        "original_name": "Jennifer de Lucia",
+        "popularity": 0.2406,
+        "profile_path": "/AriAESTyvMxFVdk8ADu3kj74QB9.jpg",
+        "cast_id": 10,
+        "character": "Julia",
+        "credit_id": "61c10cb7f2883800424c3936",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3353949,
+        "known_for_department": "Acting",
+        "name": "Danielle Verayo",
+        "original_name": "Danielle Verayo",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Alicia",
+        "credit_id": "61c10cc4699fb70060cd324d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3353950,
+        "known_for_department": "Acting",
+        "name": "Kelsey Verzotti",
+        "original_name": "Kelsey Verzotti",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Kimberly",
+        "credit_id": "61c10cc872c13e005f898672",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3353951,
+        "known_for_department": "Acting",
+        "name": "Sebastian Marziali",
+        "original_name": "Sebastian Marziali",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Nick",
+        "credit_id": "61c10ccdfcadb40060a3022a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3353952,
+        "known_for_department": "Acting",
+        "name": "Maya Cieszynska",
+        "original_name": "Maya Cieszynska",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Heidi",
+        "credit_id": "61c10cd33c4344005f916781",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 188824,
+        "known_for_department": "Acting",
+        "name": "Don LaFontaine",
+        "original_name": "Don LaFontaine",
+        "popularity": 0.2748,
+        "profile_path": "/y6idca1uWKZ5BY8wzn0aaXh0EMc.jpg",
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "687f99b781c1232eb18a54ab",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1845014,
+        "known_for_department": "Production",
+        "name": "Laurence Braun",
+        "original_name": "Laurence Braun",
+        "popularity": 0.1889,
+        "profile_path": null,
+        "credit_id": "61c10d02014325009a13fa20",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2966360,
+        "known_for_department": "Production",
+        "name": "Jayde Siwy",
+        "original_name": "Jayde Siwy",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "61c10d1f0143250065df8d02",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56982,
+        "known_for_department": "Production",
+        "name": "Tom Berry",
+        "original_name": "Tom Berry",
+        "popularity": 0.3864,
+        "profile_path": "/up0VPkoOUYFIeDrKGTsLSv0HAoE.jpg",
+        "credit_id": "61c10cfb6517d60096176853",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3060708,
+        "known_for_department": "Writing",
+        "name": "Shannon Latimer",
+        "original_name": "Shannon Latimer",
+        "popularity": 0.0966,
+        "profile_path": null,
+        "credit_id": "61c10cec72c13e001c0c01a2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153950,
+        "known_for_department": "Directing",
+        "name": "Brian K. Roberts",
+        "original_name": "Brian K. Roberts",
+        "popularity": 0.3706,
+        "profile_path": "/1DS8d5bxSkmAU6DnIr3JX5Bv7LL.jpg",
+        "credit_id": "61c10ce44da3d40040ccc076",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2168419,
+        "known_for_department": "Production",
+        "name": "Suzanne Chapman",
+        "original_name": "Suzanne Chapman",
+        "popularity": 0.8128,
+        "profile_path": null,
+        "credit_id": "61c10d0a1f331900612f91b4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2416461,
+        "known_for_department": "Production",
+        "name": "Barbara Fisher",
+        "original_name": "Barbara Fisher",
+        "popularity": 0.1225,
+        "profile_path": null,
+        "credit_id": "61c10d1113af5f001b4357ae",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3010152,
+        "known_for_department": "Editing",
+        "name": "Rob Chandler",
+        "original_name": "Rob Chandler",
+        "popularity": 0.0168,
+        "profile_path": "/e5LiDO6BF8jcUrxGVHXV6Orsfno.jpg",
+        "credit_id": "61c111380443c900411721cf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2063851,
+        "known_for_department": "Acting",
+        "name": "Mary Petryshyn",
+        "original_name": "Mary Petryshyn",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "61c10d18a284eb001dfac3c5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1114038,
+        "known_for_department": "Camera",
+        "name": "David Perrault",
+        "original_name": "David Perrault",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "64bfeaa86ee3d700c7fb1ded",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3336259,
+        "known_for_department": "Sound",
+        "name": "Joshua Ginsburg",
+        "original_name": "Joshua Ginsburg",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "687f9a06aaded2ad665294f2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3353960,
+        "known_for_department": "Sound",
+        "name": "Tim Kobza",
+        "original_name": "Tim Kobza",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "687f9a30ee4cb01c3fd9977b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

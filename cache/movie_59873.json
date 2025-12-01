@@ -1,0 +1,414 @@
+{
+  "adult": false,
+  "backdrop_path": "/gV2oZGINGEJ0gcEqKj4yGOT87Ll.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 59873,
+  "imdb_id": "tt0071135",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Amore libero",
+  "overview": "An engineer named Francesco arrives on Emerald Island in the Seychelles and is instantly smitten with the local girl Jeanine, whose sister ran off with the previous engineer -- neither of them to be seen again.",
+  "popularity": 5.6849,
+  "poster_path": "/loDZpyTmmAyCOuWvaryfr5Qcf78.jpg",
+  "production_companies": [
+    {
+      "id": 23852,
+      "logo_path": null,
+      "name": "Aquila Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1974-08-14",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Seductress.",
+  "title": "Free Love",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41127,
+        "known_for_department": "Acting",
+        "name": "Laura Gemser",
+        "original_name": "Laura Gemser",
+        "popularity": 1.5093,
+        "profile_path": "/zObMWYEHJkPEhmFsyW8uFCVRgfo.jpg",
+        "cast_id": 1,
+        "character": "Jeanine",
+        "credit_id": "52fe499ec3a36847f81a3d73",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1083211,
+        "known_for_department": "Acting",
+        "name": "Enzo Bottesini",
+        "original_name": "Enzo Bottesini",
+        "popularity": 0.0722,
+        "profile_path": "/1L1osaktUqpiVs6oq300qvNEANT.jpg",
+        "cast_id": 3,
+        "character": "Francesco",
+        "credit_id": "52fe499ec3a36847f81a3d7d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22312,
+        "known_for_department": "Acting",
+        "name": "Venantino Venantini",
+        "original_name": "Venantino Venantini",
+        "popularity": 0.486,
+        "profile_path": "/rjyM8jlWK6D3PF7PRNSdguo52a9.jpg",
+        "cast_id": 10,
+        "character": "Chavad",
+        "credit_id": "52fe499ec3a36847f81a3d95",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1065412,
+        "known_for_department": "Acting",
+        "name": "Ugo Cardea",
+        "original_name": "Ugo Cardea",
+        "popularity": 0.2003,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Giuseppe",
+        "credit_id": "52fe499ec3a36847f81a3d81",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10464,
+        "known_for_department": "Acting",
+        "name": "Olga Bisera",
+        "original_name": "Olga Bisera",
+        "popularity": 0.352,
+        "profile_path": "/nebHEiDf8Xx3Xdp1bL49umgj5uG.jpg",
+        "cast_id": 6,
+        "character": "Katia",
+        "credit_id": "52fe499ec3a36847f81a3d85",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1083212,
+        "known_for_department": "Acting",
+        "name": "Ogilvy Chiffon",
+        "original_name": "Ogilvy Chiffon",
+        "popularity": 0.042,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Antoine",
+        "credit_id": "52fe499ec3a36847f81a3d89",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556750,
+        "known_for_department": "Acting",
+        "name": "Lorenzo Piani",
+        "original_name": "Lorenzo Piani",
+        "popularity": 0.876,
+        "profile_path": "/fdF9wf0TQdWIujCKw2HijEaHJ6E.jpg",
+        "cast_id": 9,
+        "character": "Luigi",
+        "credit_id": "52fe499ec3a36847f81a3d91",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1083213,
+        "known_for_department": "Acting",
+        "name": "Rocky Laurence",
+        "original_name": "Rocky Laurence",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "(uncredited)",
+        "credit_id": "52fe499ec3a36847f81a3d8d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1706253,
+        "known_for_department": "Acting",
+        "name": "Paila Pavese",
+        "original_name": "Paila Pavese",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Opening Narrator (voice) (uncredited)",
+        "credit_id": "58239627c3a36801c60000ab",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083210,
+        "known_for_department": "Camera",
+        "name": "Pier Ludovico Pavoni",
+        "original_name": "Pier Ludovico Pavoni",
+        "popularity": 0.089,
+        "profile_path": null,
+        "credit_id": "52fe499ec3a36847f81a3d79",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1706254,
+        "known_for_department": "Writing",
+        "name": "Enzo Mancini",
+        "original_name": "Enzo Mancini",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5823969c9251415dd9000132",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 102115,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giuseppe Ferranti",
+        "original_name": "Giuseppe Ferranti",
+        "popularity": 0.0749,
+        "profile_path": null,
+        "credit_id": "582396ebc3a36801da00013c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1303450,
+        "known_for_department": "Directing",
+        "name": "Tomaso Sherman",
+        "original_name": "Tomaso Sherman",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "58239713c3a36801e200015f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1303450,
+        "known_for_department": "Directing",
+        "name": "Tomaso Sherman",
+        "original_name": "Tomaso Sherman",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "582396a6c3a36801c6000103",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59366,
+        "known_for_department": "Sound",
+        "name": "Fabio Frizzi",
+        "original_name": "Fabio Frizzi",
+        "popularity": 0.1441,
+        "profile_path": "/oern7qrqjQsvP9WU7Gg66QMP3KT.jpg",
+        "credit_id": "582396bec3a36801c6000115",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083210,
+        "known_for_department": "Camera",
+        "name": "Pier Ludovico Pavoni",
+        "original_name": "Pier Ludovico Pavoni",
+        "popularity": 0.089,
+        "profile_path": null,
+        "credit_id": "58239687c3a36801eb00010e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30820,
+        "known_for_department": "Writing",
+        "name": "Guido Leoni",
+        "original_name": "Guido Leoni",
+        "popularity": 0.0689,
+        "profile_path": null,
+        "credit_id": "58239691c3a36801bd000117",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1706255,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maura Turchi",
+        "original_name": "Maura Turchi",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "582396f8c3a36801c0000154",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1706257,
+        "known_for_department": "Sound",
+        "name": "Ferdinando Pescetelli",
+        "original_name": "Ferdinando Pescetelli",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "credit_id": "582397219251415dd4000177",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95656,
+        "known_for_department": "Camera",
+        "name": "Mimmo Cattarinich",
+        "original_name": "Mimmo Cattarinich",
+        "popularity": 0.9122,
+        "profile_path": null,
+        "credit_id": "5823972fc3a36801ca000177",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1130079,
+        "known_for_department": "Camera",
+        "name": "Otello Spila",
+        "original_name": "Otello Spila",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "credit_id": "5823973b9251415de1000192",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598651,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nadia Vitali",
+        "original_name": "Nadia Vitali",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "582396e09251415dcf000167",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1706256,
+        "known_for_department": "Production",
+        "name": "Claudio Cuomo",
+        "original_name": "Claudio Cuomo",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "582397069251415dd9000178",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52258,
+        "known_for_department": "Editing",
+        "name": "Franco Fraticelli",
+        "original_name": "Franco Fraticelli",
+        "popularity": 0.1404,
+        "profile_path": "/wGL7hkypYXMhPTWsq1QOwlEErbH.jpg",
+        "credit_id": "582396d3c3a36801eb000140",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99478,
+        "known_for_department": "Writing",
+        "name": "Mario Di Nardo",
+        "original_name": "Mario Di Nardo",
+        "popularity": 0.4378,
+        "profile_path": null,
+        "credit_id": "582396b09251415dcf000146",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 592057,
+        "known_for_department": "Camera",
+        "name": "Fausto Rossi",
+        "original_name": "Fausto Rossi",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "credit_id": "582396c99251415dd1000141",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

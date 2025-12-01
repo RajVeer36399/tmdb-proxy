@@ -1,0 +1,313 @@
+{
+  "adult": false,
+  "backdrop_path": "/8UxkbIKx4WDJlTOAJlxbEU9QATC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 336755,
+  "imdb_id": "tt0064967",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Sex-Business - Made in Pasing",
+  "overview": "Documentary film about the successful erotic film producer and author Alois Brummer. Documentary filmmaker Hans Jürgen Syberberg accompanies Brummer for six days in his daily business during the shooting of Brummer's film “Graf Porno und die liebesdurstigen Töchter” (Count Porno and the Love-Thirsty Daughters). In addition to Brummer, his employees and actors also have their say.",
+  "popularity": 5.8559,
+  "poster_path": "/jgjEUS97nwW0LwhnAz3z4W1KXRy.jpg",
+  "production_companies": [
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 26206,
+      "logo_path": null,
+      "name": "TMS Film GmbH",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1970-01-03",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sex-Business: Made in Pasing",
+  "video": false,
+  "vote_average": 4.4,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1200106,
+        "known_for_department": "Production",
+        "name": "Alois Brummer",
+        "original_name": "Alois Brummer",
+        "popularity": 1.4,
+        "profile_path": "/3yu9jlwyO79Gac6FsvuEI14KCBK.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "65c4b4be194186017b75fb98",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227824,
+        "known_for_department": "Directing",
+        "name": "Hans-Jürgen Syberberg",
+        "original_name": "Hans-Jürgen Syberberg",
+        "popularity": 0.0666,
+        "profile_path": "/hthqXKUzr2CADpHi1WWdakgHRmg.jpg",
+        "cast_id": 2,
+        "character": "Self - Interviewer",
+        "credit_id": "65c4b4cbf495ee01970c5a65",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51044,
+        "known_for_department": "Acting",
+        "name": "Rinaldo Talamonti",
+        "original_name": "Rinaldo Talamonti",
+        "popularity": 0.6626,
+        "profile_path": "/kYyPOFQCbZwU3iwzAxDfVSiX1Vm.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "65c4b5226dc5070163fc7d16",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1708647,
+        "known_for_department": "Acting",
+        "name": "Ricci Hohlt",
+        "original_name": "Ricci Hohlt",
+        "popularity": 0.081,
+        "profile_path": "/sX2SS2Nc6kOzdHdrwT2Y3F9vOw4.jpg",
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "65c4b55ffd6fa10187795b56",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1144890,
+        "known_for_department": "Directing",
+        "name": "Günter Hendel",
+        "original_name": "Günter Hendel",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "65c4b4d8db4ed60148d24007",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2054438,
+        "known_for_department": "Acting",
+        "name": "Rita Weinberg",
+        "original_name": "Rita Weinberg",
+        "popularity": 0.0587,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "65c4b51e713ed40185177ae8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1844252,
+        "known_for_department": "Acting",
+        "name": "Rolf Vogel",
+        "original_name": "Rolf Vogel",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "65c4b532194186017b75fc52",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37418,
+        "known_for_department": "Camera",
+        "name": "Atze Glanert",
+        "original_name": "Atze Glanert",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "65c4b546194186017b75fc65",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4524963,
+        "known_for_department": "Acting",
+        "name": "Gerda Kammerloher",
+        "original_name": "Gerda Kammerloher",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "65c4b54d07faa20163c2763e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4524964,
+        "known_for_department": "Acting",
+        "name": "Alois Kammerloher",
+        "original_name": "Alois Kammerloher",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "65c4b55407faa20163c2764e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2313947,
+        "known_for_department": "Acting",
+        "name": "Ursula Holstein",
+        "original_name": "Ursula Holstein",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "65c4b563021cee0183c32778",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4524966,
+        "known_for_department": "Acting",
+        "name": "Bruno Arnold",
+        "original_name": "Bruno Arnold",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "65c4b57bfd6fa10187795b6a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2237075,
+        "known_for_department": "Acting",
+        "name": "Sissy Engl",
+        "original_name": "Sissy Engl",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "65c4b57fdb4ed60148d2402a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4524967,
+        "known_for_department": "Acting",
+        "name": "Roland Beyer",
+        "original_name": "Roland Beyer",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "65c4b587fd6fa1016e791acb",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227824,
+        "known_for_department": "Directing",
+        "name": "Hans-Jürgen Syberberg",
+        "original_name": "Hans-Jürgen Syberberg",
+        "popularity": 0.0666,
+        "profile_path": "/hthqXKUzr2CADpHi1WWdakgHRmg.jpg",
+        "credit_id": "5535875792514142b2000030",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14174,
+        "known_for_department": "Directing",
+        "name": "Christian Blackwood",
+        "original_name": "Christian Blackwood",
+        "popularity": 0.6889,
+        "profile_path": null,
+        "credit_id": "65c4b5aa19418601487580b1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227824,
+        "known_for_department": "Directing",
+        "name": "Hans-Jürgen Syberberg",
+        "original_name": "Hans-Jürgen Syberberg",
+        "popularity": 0.0666,
+        "profile_path": "/hthqXKUzr2CADpHi1WWdakgHRmg.jpg",
+        "credit_id": "65c4b59a07faa2017dc2b4bb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227824,
+        "known_for_department": "Directing",
+        "name": "Hans-Jürgen Syberberg",
+        "original_name": "Hans-Jürgen Syberberg",
+        "popularity": 0.0666,
+        "profile_path": "/hthqXKUzr2CADpHi1WWdakgHRmg.jpg",
+        "credit_id": "65c4b593f495ee01540bfcd9",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

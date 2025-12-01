@@ -1,0 +1,315 @@
+{
+  "adult": false,
+  "backdrop_path": "/b7sp7fdf6jYuyasam7ffj1UX5Bi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://conic.film/dragonfly",
+  "id": 1291626,
+  "imdb_id": "tt32383425",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Dragonfly",
+  "overview": "Neglected pensioner Elsie finds an unexpected ally in her younger neighbour Colleen. Over time, a friendship grows but Elsie’s resentful, guilt-ridden son stirs up tensions that bring shocking consequences.",
+  "popularity": 8.0015,
+  "poster_path": "/sSs5l9p3BkK8fe7u6dCfQgs7puq.jpg",
+  "production_companies": [
+    {
+      "id": 158630,
+      "logo_path": null,
+      "name": "Giant Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 235165,
+      "logo_path": null,
+      "name": "Meraki Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 205567,
+      "logo_path": "/89nG8SIGkd1swJ7Gb36jqseLA4w.png",
+      "name": "DESMAR",
+      "origin_country": "SG"
+    },
+    {
+      "id": 253268,
+      "logo_path": null,
+      "name": "Eilene Davidson Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 2690,
+      "logo_path": "/9XXpd39mDfkWmcNB6R0tpvzo781.png",
+      "name": "Screen Yorkshire",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "SG",
+      "name": "Singapore"
+    }
+  ],
+  "release_date": "2025-11-07",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dragonfly",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 127558,
+        "known_for_department": "Acting",
+        "name": "Andrea Riseborough",
+        "original_name": "Andrea Riseborough",
+        "popularity": 1.866,
+        "profile_path": "/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg",
+        "cast_id": 2,
+        "character": "Colleen",
+        "credit_id": "6646fd1bcfb6275ad14c43dd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4154,
+        "known_for_department": "Acting",
+        "name": "Brenda Blethyn",
+        "original_name": "Brenda Blethyn",
+        "popularity": 1.6906,
+        "profile_path": "/mxENo8tEvN0998PrNidYkN4wGGO.jpg",
+        "cast_id": 13,
+        "character": "Elsie",
+        "credit_id": "67ac5d8947051c54beb0d514",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63608,
+        "known_for_department": "Acting",
+        "name": "Jason Watkins",
+        "original_name": "Jason Watkins",
+        "popularity": 1.5539,
+        "profile_path": "/jGQOdzZ1sCz7WKtYSROMWv4menu.jpg",
+        "cast_id": 14,
+        "character": "John",
+        "credit_id": "68005f33de5e4dec62aee0fe",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80384,
+        "known_for_department": "Directing",
+        "name": "Paul Andrew Williams",
+        "original_name": "Paul Andrew Williams",
+        "popularity": 0.2487,
+        "profile_path": "/AFWSf71j04V68O6yAhNCpvYV0.jpg",
+        "credit_id": "6646fd4162724628012f3370",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80384,
+        "known_for_department": "Directing",
+        "name": "Paul Andrew Williams",
+        "original_name": "Paul Andrew Williams",
+        "popularity": 0.2487,
+        "profile_path": "/AFWSf71j04V68O6yAhNCpvYV0.jpg",
+        "credit_id": "6646fd4bc0fa664adb25b9d5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1569554,
+        "known_for_department": "Acting",
+        "name": "Dominic Tighe",
+        "original_name": "Dominic Tighe",
+        "popularity": 0.8269,
+        "profile_path": "/r9kFCBgqvofTcA9x8rRYPSKg4Eh.jpg",
+        "credit_id": "6646fd5ffccec0ec3c3b2736",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2376536,
+        "known_for_department": "Production",
+        "name": "Marie-Elena Dyche",
+        "original_name": "Marie-Elena Dyche",
+        "popularity": 0.0644,
+        "profile_path": null,
+        "credit_id": "6646fd6de2ea0743a41cfc1a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4719219,
+        "known_for_department": "Production",
+        "name": "Eilene Davidson",
+        "original_name": "Eilene Davidson",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6646fd9df5eebd09ba413fcc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79665,
+        "known_for_department": "Production",
+        "name": "Naomi Despres",
+        "original_name": "Naomi Despres",
+        "popularity": 0.1079,
+        "profile_path": null,
+        "credit_id": "6646fda9a17f2bc5d62dff1e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4199199,
+        "known_for_department": "Writing",
+        "name": "Michele Marshall",
+        "original_name": "Michèle Marshall",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6646fdc1abe7563b15920c72",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1348753,
+        "known_for_department": "Production",
+        "name": "Caroline Cooper Charles",
+        "original_name": "Caroline Cooper Charles",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6646fdd1a1f373ab27345c7c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1964516,
+        "known_for_department": "Production",
+        "name": "Bruno Wang",
+        "original_name": "Bruno Wang",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6646fdde6b21ac6a5922abea",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4719222,
+        "known_for_department": "Production",
+        "name": "Jonathan Zimmern",
+        "original_name": "Jonathan Zimmern",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6646fdf5184a4631729205f8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482420,
+        "known_for_department": "Sound",
+        "name": "Raffertie",
+        "original_name": "Raffertie",
+        "popularity": 0.1125,
+        "profile_path": "/2yd29mxbHyMwn622nfWiIAvLWLk.jpg",
+        "credit_id": "68005f6583c6e567c7d96686",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3258667,
+        "known_for_department": "Editing",
+        "name": "Nina Annan",
+        "original_name": "Nina Annan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68005f6e83c6e567c7d9668c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1642622,
+        "known_for_department": "Camera",
+        "name": "Vanessa Whyte",
+        "original_name": "Vanessa Whyte",
+        "popularity": 0.7196,
+        "profile_path": null,
+        "credit_id": "68005f7ac77fd1df74ad138f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2243625,
+        "known_for_department": "Crew",
+        "name": "Elizabeth Donker Curtius",
+        "original_name": "Elizabeth Donker Curtius",
+        "popularity": 0.136,
+        "profile_path": "/pozEiagIFfqUSmu91GLMvUCg4I0.jpg",
+        "credit_id": "6884d7c7126c47dd6516c0b7",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  }
+}

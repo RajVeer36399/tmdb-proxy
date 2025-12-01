@@ -1,0 +1,472 @@
+{
+  "adult": false,
+  "backdrop_path": "/hCPJlvgNkFGj3IapQbYR0yes42h.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 246443,
+  "imdb_id": "tt2186574",
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "original_language": "de",
+  "original_title": "Die Spionin",
+  "overview": "Vera von Schalburg is a German prostitute working in Nazi Germany. In 1938, one year before the outbreak of World War II, Schalburg is arrested by the Berlin police. She is offered to work as a spy for the Abwehr, the German military intelligence service, instead of facing jail time. Completely unaware of the secret war preparations being conducted by her government, and unwilling to leave her teenage son who later joins the Hitler Youth, she accepts the offer.",
+  "popularity": 7.813,
+  "poster_path": "/dMZwZV4VUoetU1FGPdQBsrD0JNi.jpg",
+  "production_companies": [
+    {
+      "id": 17343,
+      "logo_path": "/r6scTkW365KphesDoe9OkCN9rpH.png",
+      "name": "Aspekt Telefilm",
+      "origin_country": "DE"
+    },
+    {
+      "id": 71080,
+      "logo_path": null,
+      "name": "Adrastea Film",
+      "origin_country": ""
+    },
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    },
+    {
+      "id": 986,
+      "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
+      "name": "ARD Degeto",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2013-12-27",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Spy",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36767,
+        "known_for_department": "Acting",
+        "name": "Valerie Niehaus",
+        "original_name": "Valerie Niehaus",
+        "popularity": 0.5583,
+        "profile_path": "/yFEyQm2W4MgQA2AE57pNXMEi6yo.jpg",
+        "cast_id": 1,
+        "character": "Vera von Schalburg",
+        "credit_id": "52fe4f13c3a36847f82bbf7b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18726,
+        "known_for_department": "Acting",
+        "name": "Fritz Karl",
+        "original_name": "Fritz Karl",
+        "popularity": 1.2234,
+        "profile_path": "/jvkg9ugmuCjAM4OOQyEmIeiVWn1.jpg",
+        "cast_id": 2,
+        "character": "Hilmar Dierks",
+        "credit_id": "52fe4f13c3a36847f82bbf7f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4936,
+        "known_for_department": "Acting",
+        "name": "Jochen Nickel",
+        "original_name": "Jochen Nickel",
+        "popularity": 0.5213,
+        "profile_path": "/mVNh33yMHoTneAF2OrsC4nvwBGL.jpg",
+        "cast_id": 6,
+        "character": "Walther Luthmann",
+        "credit_id": "544cfde1c3a36872b400245f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1082,
+        "known_for_department": "Acting",
+        "name": "Nina Petri",
+        "original_name": "Nina Petri",
+        "popularity": 0.6775,
+        "profile_path": "/pw6sA1kMJsJe8cSutLCJCFfZSX0.jpg",
+        "cast_id": 7,
+        "character": "Teresa Meier",
+        "credit_id": "544cfdefc3a36872d8002520",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4536,
+        "known_for_department": "Acting",
+        "name": "Hansa Czypionka",
+        "original_name": "Hansa Czypionka",
+        "popularity": 0.1704,
+        "profile_path": "/aiG4yZV7f93IQaiZCXA2vvbv0uj.jpg",
+        "cast_id": 8,
+        "character": "Oljakow / Wennemann",
+        "credit_id": "544cfe000e0a2608c5002340",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70457,
+        "known_for_department": "Acting",
+        "name": "Peter Kremer",
+        "original_name": "Peter Kremer",
+        "popularity": 0.2308,
+        "profile_path": "/ejVoS58S3LW0CakAW12ZDTsN8No.jpg",
+        "cast_id": 9,
+        "character": "Peter Haber",
+        "credit_id": "544cfe0f0e0a2608c800245d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63141,
+        "known_for_department": "Acting",
+        "name": "Ron Donachie",
+        "original_name": "Ron Donachie",
+        "popularity": 0.7841,
+        "profile_path": "/vnBM7idgiyXoat1E8IBKGekx2GS.jpg",
+        "cast_id": 26,
+        "character": "Major Bloomberg",
+        "credit_id": "5682ae2e9251414f6300dd3e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050,
+        "known_for_department": "Acting",
+        "name": "Noah Huntley",
+        "original_name": "Noah Huntley",
+        "popularity": 0.3611,
+        "profile_path": "/dAwfkCqQOFqADngR4vAE9lG7D8Z.jpg",
+        "cast_id": 27,
+        "character": "John Faber-Prentiss",
+        "credit_id": "5682ae4bc3a3684be9013f0a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1232063,
+        "known_for_department": "Acting",
+        "name": "Emma Davies",
+        "original_name": "Emma Davies",
+        "popularity": 0.4798,
+        "profile_path": "/66YRJDTJdy7bKTILNAkLVPv9VoS.jpg",
+        "cast_id": 28,
+        "character": "Lady Harvest",
+        "credit_id": "5682ae66c3a368227b00a60e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36755,
+        "known_for_department": "Acting",
+        "name": "Peter Prager",
+        "original_name": "Peter Prager",
+        "popularity": 0.5985,
+        "profile_path": "/6m9J6Quf648k6s9pDSPh46wB6pC.jpg",
+        "cast_id": 29,
+        "character": "Wilhelm Canaris",
+        "credit_id": "5adfb85d92514110720067f5",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50325,
+        "known_for_department": "Directing",
+        "name": "Miguel Alexandre",
+        "original_name": "Miguel Alexandre",
+        "popularity": 0.51,
+        "profile_path": "/rMqvYDAhsYLrpumIwG9yBrRHgYy.jpg",
+        "credit_id": "52fe4f14c3a36847f82bbf85",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20256,
+        "known_for_department": "Writing",
+        "name": "Annette Hess",
+        "original_name": "Annette Hess",
+        "popularity": 0.4026,
+        "profile_path": null,
+        "credit_id": "52fe4f14c3a36847f82bbf8b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1282341,
+        "known_for_department": "Writing",
+        "name": "Vera von Schalburg",
+        "original_name": "Vera von Schalburg",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "52fe4f14c3a36847f82bbf91",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 928997,
+        "known_for_department": "Editing",
+        "name": "Marcel Peragine",
+        "original_name": "Marcel Peragine",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "5682ac6ac3a3684bcc015bf2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1137223,
+        "known_for_department": "Sound",
+        "name": "Gregor Arnold",
+        "original_name": "Gregor Arnold",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "credit_id": "5682addfc3a36860e90143e1",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1555313,
+        "known_for_department": "Art",
+        "name": "Géza Kerti",
+        "original_name": "Géza Kerti",
+        "popularity": 0.0534,
+        "profile_path": null,
+        "credit_id": "5682ac96c3a3686075013337",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1327893,
+        "known_for_department": "Art",
+        "name": "Judit Varga",
+        "original_name": "Judit Varga",
+        "popularity": 0.1528,
+        "profile_path": null,
+        "credit_id": "5682ace6c3a368227b00a5d8",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1555314,
+        "known_for_department": "Visual Effects",
+        "name": "Tavis Larkham",
+        "original_name": "Tavis Larkham",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5682ad61c3a368227b00a5ee",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49469,
+        "known_for_department": "Production",
+        "name": "Doris Zander",
+        "original_name": "Doris Zander",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5682abe192514131df011f81",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 557706,
+        "known_for_department": "Sound",
+        "name": "Nic Raine",
+        "original_name": "Nic Raine",
+        "popularity": 0.4952,
+        "profile_path": null,
+        "credit_id": "5682abf4c3a3684bcc015be8",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1014915,
+        "known_for_department": "Production",
+        "name": "Kelly Valentine Hendry",
+        "original_name": "Kelly Valentine Hendry",
+        "popularity": 0.2465,
+        "profile_path": "/iod9xHLq1KN1mmpVuj9SRuY7Nxc.jpg",
+        "credit_id": "5682ad89c3a3685f8900075a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1162253,
+        "known_for_department": "Production",
+        "name": "Victor Jenkins",
+        "original_name": "Victor Jenkins",
+        "popularity": 0.0631,
+        "profile_path": null,
+        "credit_id": "5682ad99c3a36860e90143d9",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1555315,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kerstin Stattmann",
+        "original_name": "Kerstin Stattmann",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5682adf4c3a368227b00a5ff",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1099108,
+        "known_for_department": "Art",
+        "name": "Hans Wagner",
+        "original_name": "Hans Wagner",
+        "popularity": 0.0835,
+        "profile_path": null,
+        "credit_id": "5682acfbc3a3686075013345",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52223,
+        "known_for_department": "Visual Effects",
+        "name": "Frank Kaminski",
+        "original_name": "Frank Kaminski",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "5682ad47c3a3685f89000747",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40766,
+        "known_for_department": "Camera",
+        "name": "Jörg Widmer",
+        "original_name": "Jörg Widmer",
+        "popularity": 0.1973,
+        "profile_path": "/87qxEi4kkdwtNRIPvyg9BmD8eFW.jpg",
+        "credit_id": "5682ac58c3a3684be9013ecf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32841,
+        "known_for_department": "Sound",
+        "name": "Peter Deininger",
+        "original_name": "Peter Deininger",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5682adc89251417def014d8f",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1555312,
+        "known_for_department": "Art",
+        "name": "Matthias Klemme",
+        "original_name": "Matthias Klemme",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5682ac83925141133400be12",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "adult": false,
+  "backdrop_path": "/ti2UeYjTKVsvCba12rPCvulJmoV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 142386,
+  "imdb_id": "tt1880923",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "荒川アンダー ザ ブリッジ THE MOVIE",
+  "overview": "Riku, the heir to a corporate conglomerate, is determined to go through life never owing anything to anyone on principle. However, one day he nearly drowns in a river and is saved by a homeless girl named Nino. To repay his debt, he begins living together with her on the banks of the river as her lover.",
+  "popularity": 8.6714,
+  "poster_path": "/lKkjPQBvtZb30ZIAVJEpuvJpg4f.jpg",
+  "production_companies": [
+    {
+      "id": 118424,
+      "logo_path": null,
+      "name": "Smoke",
+      "origin_country": "JP"
+    },
+    {
+      "id": 27718,
+      "logo_path": "/xrxoUde9wwgQkX3NvnAWWIDv7Sk.png",
+      "name": "DUB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4673,
+      "logo_path": "/tXMheRYcKXCK1a90NRESqO1ibhQ.png",
+      "name": "King Records",
+      "origin_country": "JP"
+    },
+    {
+      "id": 648,
+      "logo_path": "/s811As3dkcqSgl4nEWEVYfJVVxh.png",
+      "name": "Sony Music Entertainment (Japan)",
+      "origin_country": "JP"
+    },
+    {
+      "id": 10038,
+      "logo_path": "/nCueXKwYIEXrZ5ofqSJBO1YcmRr.png",
+      "name": "Square Enix",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3363,
+      "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+      "name": "MBS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11846,
+      "logo_path": "/es3LvDA6wLWVDvZnAYYuAT6x8lJ.png",
+      "name": "Hakuhodo DY Media Partners",
+      "origin_country": "JP"
+    },
+    {
+      "id": 17392,
+      "logo_path": null,
+      "name": "Showgate",
+      "origin_country": "JP"
+    },
+    {
+      "id": 955,
+      "logo_path": "/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png",
+      "name": "Nikkatsu Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 257839,
+      "logo_path": "/yzbNSSKMWYxferuSFVVcsDJTBAV.png",
+      "name": "Channel NECO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2012-02-04",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Arakawa Under the Bridge",
+  "video": false,
+  "vote_average": 6.833,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146817,
+        "known_for_department": "Acting",
+        "name": "Kento Hayashi",
+        "original_name": "林遣都",
+        "popularity": 0.7048,
+        "profile_path": "/cOVo6xZ3FaFIdkQuzKrMiMmJdsh.jpg",
+        "cast_id": 4,
+        "character": "Riku",
+        "credit_id": "54a1e181c3a3682f1b00d853",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230120,
+        "known_for_department": "Acting",
+        "name": "Mirei Kiritani",
+        "original_name": "桐谷美玲",
+        "popularity": 1.3482,
+        "profile_path": "/ooz0OHsGb2mKNHVa9bjWhoUELZN.jpg",
+        "cast_id": 5,
+        "character": "Nino",
+        "credit_id": "54a1e189c3a3680b2700bc42",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46364,
+        "known_for_department": "Acting",
+        "name": "Shun Oguri",
+        "original_name": "小栗旬",
+        "popularity": 3.82,
+        "profile_path": "/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg",
+        "cast_id": 9,
+        "character": "Village Chief",
+        "credit_id": "54a1e1b79251414e280089e9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1044524,
+        "known_for_department": "Acting",
+        "name": "Nana Katase",
+        "original_name": "片瀬那奈",
+        "popularity": 1.1685,
+        "profile_path": "/5G1KIU3hEWMLPqwl9IudsRE4dQK.jpg",
+        "cast_id": 24,
+        "character": "Maria",
+        "credit_id": "569a9930c3a36872d000078c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127299,
+        "known_for_department": "Acting",
+        "name": "Yu Shirota",
+        "original_name": "城田優",
+        "popularity": 1.0528,
+        "profile_path": "/5Y2ZSggr1KWO88oaWuVF4nwtOIC.jpg",
+        "cast_id": 21,
+        "character": "Sister",
+        "credit_id": "54a1ecd19251414e28008b2a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74377,
+        "known_for_department": "Acting",
+        "name": "Takayuki Yamada",
+        "original_name": "山田孝之",
+        "popularity": 1.978,
+        "profile_path": "/jnz1GRkUbTjSbWSM4a6HfgyqbVp.jpg",
+        "cast_id": 10,
+        "character": "Hoshi",
+        "credit_id": "54a1e1c4925141198b002258",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1253405,
+        "known_for_department": "Acting",
+        "name": "Natsumi Abe",
+        "original_name": "安倍なつみ",
+        "popularity": 0.6459,
+        "profile_path": "/b1QS06wAGkOeEDXaAfo717UQmMh.jpg",
+        "cast_id": 8,
+        "character": "P-ko",
+        "credit_id": "54a1e1aec3a3682f1b00d859",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58609,
+        "known_for_department": "Acting",
+        "name": "Toru Tezuka",
+        "original_name": "手塚とおる",
+        "popularity": 0.9568,
+        "profile_path": "/pTh4Dc2qqdzRLYaWXEUQZp8bScA.jpg",
+        "cast_id": 11,
+        "character": "Shiro",
+        "credit_id": "54a1e1cbc3a368764f00a036",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132945,
+        "known_for_department": "Acting",
+        "name": "Kurume Arisaka",
+        "original_name": "有坂来瞳",
+        "popularity": 0.3507,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Jacqueline",
+        "credit_id": "54a1e1de9251414d27008528",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 142673,
+        "known_for_department": "Acting",
+        "name": "Eri Tokunaga",
+        "original_name": "徳永えり",
+        "popularity": 0.8678,
+        "profile_path": "/9LgNJkJdhu2h2WawUr9PSF5ZV7Q.jpg",
+        "cast_id": 13,
+        "character": "Stella",
+        "credit_id": "54a1e1e8925141313200d510",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1154045,
+        "known_for_department": "Acting",
+        "name": "Taro Suruga",
+        "original_name": "駿河太郎",
+        "popularity": 0.8397,
+        "profile_path": "/elr8ojjYno5LFTTE2lBUldiuHxg.jpg",
+        "cast_id": 14,
+        "character": "Last Samurai",
+        "credit_id": "54a1e1f3c3a368554200aba9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1248335,
+        "known_for_department": "Acting",
+        "name": "Takaya Kamikawa",
+        "original_name": "上川隆也",
+        "popularity": 1.3002,
+        "profile_path": "/ecgrhujjLwzqbYs83J4LIEqinfm.jpg",
+        "cast_id": 15,
+        "character": "Seki Ichinomiya",
+        "credit_id": "54a1e1fe9251414d2700852e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50653,
+        "known_for_department": "Acting",
+        "name": "Masahiro Takashima",
+        "original_name": "髙嶋政宏",
+        "popularity": 1.0021,
+        "profile_path": "/rvq7e2oeDXTXLPnxcPhe34KTbA8.jpg",
+        "cast_id": 16,
+        "character": "Takayashiki",
+        "credit_id": "54a1e209c3a3682f1e00d622",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1055759,
+        "known_for_department": "Acting",
+        "name": "Kazuyuki Asano",
+        "original_name": "浅野和之",
+        "popularity": 0.6579,
+        "profile_path": "/ArQb7bTT5fuN6g29qY6QmKDRYAS.jpg",
+        "cast_id": 17,
+        "character": "Takai",
+        "credit_id": "54a1e2149251414e280089ee",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1234171,
+        "known_for_department": "Acting",
+        "name": "Waka Inoue",
+        "original_name": "井上和香",
+        "popularity": 0.8923,
+        "profile_path": "/bb3aQhu5gWRCR1VM8QEGzwbl1aN.jpg",
+        "cast_id": 18,
+        "character": "Shimazaki",
+        "credit_id": "54a1e21b9251414e280089f0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405916,
+        "known_for_department": "Writing",
+        "name": "Norihisa Hiranuma",
+        "original_name": "平沼紀久",
+        "popularity": 1.1301,
+        "profile_path": "/xpXtn2OY9dYdjNe4BJwiRd6sd2j.jpg",
+        "cast_id": 19,
+        "character": "Billy",
+        "credit_id": "54a1e22a9251414d27008535",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1307868,
+        "known_for_department": "Acting",
+        "name": "Takuto Sueoka",
+        "original_name": "Takuto Sueoka",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Tetsuo",
+        "credit_id": "54a1e235925141313200d51f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498946,
+        "known_for_department": "Acting",
+        "name": "Raito Mashiko",
+        "original_name": "Raito Mashiko",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Tetsuro",
+        "credit_id": "55d72ed392514167010025bb",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117043,
+        "known_for_department": "Directing",
+        "name": "Ken Iizuka",
+        "original_name": "飯塚健",
+        "popularity": 0.669,
+        "profile_path": null,
+        "credit_id": "52fe4add9251416c750f0981",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117043,
+        "known_for_department": "Directing",
+        "name": "Ken Iizuka",
+        "original_name": "飯塚健",
+        "popularity": 0.669,
+        "profile_path": null,
+        "credit_id": "52fe4add9251416c750f098d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2258181,
+        "known_for_department": "Art",
+        "name": "Naoki Soma",
+        "original_name": "相馬直樹",
+        "popularity": 0.8665,
+        "profile_path": null,
+        "credit_id": "60f0bccac86b3a007e3f0f11",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117043,
+        "known_for_department": "Directing",
+        "name": "Ken Iizuka",
+        "original_name": "飯塚健",
+        "popularity": 0.669,
+        "profile_path": null,
+        "credit_id": "60f0bcd6c56d2d0048a6f2ec",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1117044,
+        "known_for_department": "Writing",
+        "name": "Hikaru Nakamura",
+        "original_name": "中村光",
+        "popularity": 1.1596,
+        "profile_path": null,
+        "credit_id": "61e8347bea37e000dcb61567",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1652750,
+        "known_for_department": "Camera",
+        "name": "Daisuke Soma",
+        "original_name": "相馬大輔",
+        "popularity": 0.8469,
+        "profile_path": null,
+        "credit_id": "61e834823faba0001d3b4965",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1179000,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tomo Hyakutake",
+        "original_name": "百武朋",
+        "popularity": 0.5424,
+        "profile_path": null,
+        "credit_id": "67e79bc7b5655aac4263743b",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3171407,
+        "known_for_department": "Visual Effects",
+        "name": "Kazuyori Kosaka",
+        "original_name": "小坂一順",
+        "popularity": 0.6077,
+        "profile_path": null,
+        "credit_id": "67e79be46deb8da720dda5e0",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212331,
+        "known_for_department": "Lighting",
+        "name": "Kôta Satô",
+        "original_name": "佐藤浩太",
+        "popularity": 0.3679,
+        "profile_path": null,
+        "credit_id": "67e79c25e243912e3567b179",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1117044,
+        "known_for_department": "Writing",
+        "name": "Hikaru Nakamura",
+        "original_name": "中村光",
+        "popularity": 1.1596,
+        "profile_path": null,
+        "credit_id": "67e79c3ef1f5376875dda7e2",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5086977,
+        "known_for_department": "Art",
+        "name": "Tetsuya Nomura",
+        "original_name": "野村哲也",
+        "popularity": 0.3181,
+        "profile_path": null,
+        "credit_id": "67e7a0a38f303d2f95dd9d8d",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1342698,
+        "known_for_department": "Production",
+        "name": "Toshie Tabata",
+        "original_name": "田端利江",
+        "popularity": 0.8091,
+        "profile_path": null,
+        "credit_id": "68bee99ba04c22fb97947bb1",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2336317,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Chieko Naijô",
+        "original_name": "内城千栄子",
+        "popularity": 0.223,
+        "profile_path": null,
+        "credit_id": "69023b628663b1278cf893ea",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      }
+    ]
+  }
+}

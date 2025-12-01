@@ -1,0 +1,414 @@
+{
+  "adult": false,
+  "backdrop_path": "/cbcgHdeqcZklpd7pL1if4fjNWn8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 412200,
+  "imdb_id": "tt4373956",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Tereddüt",
+  "overview": "Şehnaz, a young female psychiatrist from Istanbul, starts mandatory duty in a provincial town. Back in the city, she maintains a marriage that looks flawless on the outside. Elmas, a young woman on the verge of breakdown, opens a new path in her.",
+  "popularity": 9.4219,
+  "poster_path": "/um5XZsYoKCB2gt6I6dk7z1Yf01n.jpg",
+  "production_companies": [
+    {
+      "id": 7777,
+      "logo_path": "/vd6oWpxQXyaeWGfm0A5SnJi8pyo.png",
+      "name": "Slot Machine",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14547,
+      "logo_path": "/ubSOjyWFqQG4E1kaJmvPdOQ52qR.png",
+      "name": "unafilm",
+      "origin_country": "DE"
+    },
+    {
+      "id": 72742,
+      "logo_path": null,
+      "name": "Aeroplan Film",
+      "origin_country": ""
+    },
+    {
+      "id": 91141,
+      "logo_path": null,
+      "name": "Ustaoglu Production",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2017-12-07",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Clair Obscur",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 41,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059109,
+        "known_for_department": "Acting",
+        "name": "Funda Eryiğit",
+        "original_name": "Funda Eryiğit",
+        "popularity": 1.2848,
+        "profile_path": "/gS2Hh173nIRYeSljkOL8UhTWClS.jpg",
+        "cast_id": 5,
+        "character": "Şehnaz",
+        "credit_id": "5936ee9ec3a3684c0d000f8b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1673318,
+        "known_for_department": "Acting",
+        "name": "Ecem Uzun",
+        "original_name": "Ecem Uzun",
+        "popularity": 0.4184,
+        "profile_path": "/9LlMnfyU6V7or9hwvh3FXPXg1lD.jpg",
+        "cast_id": 6,
+        "character": "Elmas",
+        "credit_id": "5936eeb8c3a3684bfd001296",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5496,
+        "known_for_department": "Acting",
+        "name": "Mehmet Kurtuluş",
+        "original_name": "Mehmet Kurtuluş",
+        "popularity": 0.6082,
+        "profile_path": "/mHkq4abZoUbIPMEdNhHutkI5zxk.jpg",
+        "cast_id": 4,
+        "character": "Cem",
+        "credit_id": "5936ee84925141728500110a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121426,
+        "known_for_department": "Acting",
+        "name": "Okan Yalabık",
+        "original_name": "Okan Yalabık",
+        "popularity": 0.6677,
+        "profile_path": "/xWbbpbln5lL2nlaPKDzGrxWe10E.jpg",
+        "cast_id": 2,
+        "character": "Umut",
+        "credit_id": "5936ee42c3a3684bc10011c1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72154,
+        "known_for_department": "Acting",
+        "name": "Serkan Keskin",
+        "original_name": "Serkan Keskin",
+        "popularity": 0.7186,
+        "profile_path": "/tLnZN612GhFis8BGIlOTBjzPqHq.jpg",
+        "cast_id": 8,
+        "character": "Husband",
+        "credit_id": "5a5ec0940e0a264d330026ad",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1397450,
+        "known_for_department": "Acting",
+        "name": "Sema Poyraz",
+        "original_name": "Sema Poyraz",
+        "popularity": 0.4607,
+        "profile_path": "/bmLVHSDRCK0qGj27yGPqalJUL30.jpg",
+        "cast_id": 19,
+        "character": "Mother-in-Law",
+        "credit_id": "63b2dc04875d1a008a4bbbdf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1412798,
+        "known_for_department": "Acting",
+        "name": "Metin Akdülger",
+        "original_name": "Metin Akdülger",
+        "popularity": 3.5372,
+        "profile_path": "/70DE1rB7nGSECpFE6sQKxPU3mfQ.jpg",
+        "cast_id": 3,
+        "character": "Boy at the Party",
+        "credit_id": "5936ee659251417263001174",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 527095,
+        "known_for_department": "Acting",
+        "name": "Evren Duyal",
+        "original_name": "Evren Duyal",
+        "popularity": 0.2505,
+        "profile_path": "/mxwWAeT3uM9NfiWTJLw5RGcvTNa.jpg",
+        "cast_id": 7,
+        "character": "Asiye's Mother",
+        "credit_id": "5a5ec0880e0a264d3000254d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291746,
+        "known_for_department": "Acting",
+        "name": "Ahmet Rıfat Şungar",
+        "original_name": "Ahmet Rıfat Şungar",
+        "popularity": 1.9539,
+        "profile_path": "/7tgV1HWmTkPNzhCLzjX0aVX7ZEA.jpg",
+        "cast_id": 9,
+        "character": "Teacher",
+        "credit_id": "5a5ec09d9251415aa3002551",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 144174,
+        "known_for_department": "Acting",
+        "name": "Yasemin Baştan",
+        "original_name": "Yasemin Baştan",
+        "popularity": 0.1054,
+        "profile_path": "/uKaARzsEcrdt8tchZ4b1ZDBmK1H.jpg",
+        "cast_id": 10,
+        "character": "Elmas's Mother",
+        "credit_id": "5a5ec0a89251415a990021bd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1884910,
+        "known_for_department": "Acting",
+        "name": "Ilgaz Kocatürk",
+        "original_name": "Ilgaz Kocatürk",
+        "popularity": 0.0379,
+        "profile_path": "/5ikajGm5TA5dnSr98QrqBCXqzMC.jpg",
+        "cast_id": 13,
+        "character": "Acil Doktoru",
+        "credit_id": "63235113ae6f09007c1612de",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1972751,
+        "known_for_department": "Acting",
+        "name": "Fatih Dokgöz",
+        "original_name": "Fatih Dokgöz",
+        "popularity": 0.1084,
+        "profile_path": "/kT6P29kOszRTAe6NWNialpFotew.jpg",
+        "cast_id": 14,
+        "character": "Esma's Father",
+        "credit_id": "6336c1e5255dba0079feb923",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2375399,
+        "known_for_department": "Acting",
+        "name": "İpek Türktan",
+        "original_name": "İpek Türktan",
+        "popularity": 0.2615,
+        "profile_path": "/78LJ1s0bBoDfs6VQ0HNyBZwla9K.jpg",
+        "cast_id": 15,
+        "character": "Hemşire",
+        "credit_id": "6336c2020d11f2007acc183c",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4428967,
+        "known_for_department": "Editing",
+        "name": "Agnieszka Glińska",
+        "original_name": "Agnieszka Glińska",
+        "popularity": 0.09,
+        "profile_path": "/kHAA2X6AlqMixtRDHzG2DnJiDJw.jpg",
+        "credit_id": "657a610435a61e01000c6edf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 15261,
+        "known_for_department": "Editing",
+        "name": "Svetolik 'Mića' Zajc",
+        "original_name": "Svetolik Zajc",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "6389d1245690b50095f52076",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4630,
+        "known_for_department": "Camera",
+        "name": "Michael Hammon",
+        "original_name": "Michael Hammon",
+        "popularity": 0.0627,
+        "profile_path": null,
+        "credit_id": "6389d115f3b49a0079c342db",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145491,
+        "known_for_department": "Directing",
+        "name": "Yeşim Ustaoğlu",
+        "original_name": "Yeşim Ustaoğlu",
+        "popularity": 0.1129,
+        "profile_path": "/moT857p9AHichFKCow3rBgww1pw.jpg",
+        "credit_id": "57b96a82c3a3680e680000d9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145491,
+        "known_for_department": "Directing",
+        "name": "Yeşim Ustaoğlu",
+        "original_name": "Yeşim Ustaoğlu",
+        "popularity": 0.1129,
+        "profile_path": "/moT857p9AHichFKCow3rBgww1pw.jpg",
+        "credit_id": "5936ee12c3a3684c39001119",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1754497,
+        "known_for_department": "Production",
+        "name": "Klaudia Śmieja-Rostworowska",
+        "original_name": "Klaudia Śmieja-Rostworowska",
+        "popularity": 0.6393,
+        "profile_path": "/4tsyoPVU8CzmBUFspDKu8maupI3.jpg",
+        "credit_id": "6644e0e5243f2fd4193ac3da",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1761368,
+        "known_for_department": "Production",
+        "name": "Beata Rzeźniczek",
+        "original_name": "Beata Rzeźniczek",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "664502e426d2054bda584e0d",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145491,
+        "known_for_department": "Directing",
+        "name": "Yeşim Ustaoğlu",
+        "original_name": "Yeşim Ustaoğlu",
+        "popularity": 0.1129,
+        "profile_path": "/moT857p9AHichFKCow3rBgww1pw.jpg",
+        "credit_id": "5a5ec0cc9251415aa300256e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1425030,
+        "known_for_department": "Production",
+        "name": "Titus Kreyenberg",
+        "original_name": "Titus Kreyenberg",
+        "popularity": 0.0589,
+        "profile_path": "/6FnkLOq9tf1kjiObmmG85PvrCSF.jpg",
+        "credit_id": "5a5ec0bbc3a368384a002364",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74011,
+        "known_for_department": "Sound",
+        "name": "Antoni Łazarkiewicz",
+        "original_name": "Antoni Łazarkiewicz",
+        "popularity": 0.141,
+        "profile_path": "/oo53GN3S22X9eGXCENMCntb7CSc.jpg",
+        "credit_id": "66e3472f0000000000b95283",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4464002,
+        "known_for_department": "Visual Effects",
+        "name": "Maks Sikora",
+        "original_name": "Maks Sikora",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "66f51a3f2c361e9251ed37ee",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      }
+    ]
+  }
+}

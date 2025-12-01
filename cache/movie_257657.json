@@ -1,0 +1,182 @@
+{
+  "adult": false,
+  "backdrop_path": "/b2OUoQuBjSY7aKSfPMFzt4NTpaI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.roystuart.net/giuf.html",
+  "id": 257657,
+  "imdb_id": "tt0431785",
+  "origin_country": [
+    "IT",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Giulia",
+  "overview": "Giulia is an independent young woman who is prepared to offer her body and her spirit against all the religious taboos.",
+  "popularity": 6.5026,
+  "poster_path": "/k35vXTo16eCi0UDDRmtIhLR1Esi.jpg",
+  "production_companies": [
+    {
+      "id": 170968,
+      "logo_path": null,
+      "name": "Dame du Lac Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1999-01-01",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Julia",
+  "video": false,
+  "vote_average": 3.548,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 992738,
+        "known_for_department": "Acting",
+        "name": "Anna Bielska",
+        "original_name": "Anna Bielska",
+        "popularity": 3.473,
+        "profile_path": "/e2ETjuJ0pLQ9oAAPzam06WJoboy.jpg",
+        "cast_id": 0,
+        "character": "Giulia",
+        "credit_id": "5312fdc7c3a36829b8003df9",
+        "order": 0
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2262265,
+        "known_for_department": "Acting",
+        "name": "Genevieve Essesse",
+        "original_name": "Genevieve Essesse",
+        "popularity": 0.84,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "La Copine / Girlfriend",
+        "credit_id": "5c856a8a0e0a26430a65cb7d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 109142,
+        "known_for_department": "Acting",
+        "name": "Tina Aumont",
+        "original_name": "Tina Aumont",
+        "popularity": 0.9862,
+        "profile_path": "/od4EoqEt4c59lKkY2rKnRWxI7sD.jpg",
+        "cast_id": 5,
+        "character": "Madre",
+        "credit_id": "5c856ab7c3a3685f88d29842",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2262272,
+        "known_for_department": "Acting",
+        "name": "Christine Donval",
+        "original_name": "Christine Donval",
+        "popularity": 0.98,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Hermana",
+        "credit_id": "5c856ad59251417ad2167def",
+        "order": 3
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2262275,
+        "known_for_department": "Acting",
+        "name": "Pascal Mufflet",
+        "original_name": "Pascal Mufflet",
+        "popularity": 1.96,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Profesor de teatro",
+        "credit_id": "5c856af3c3a36839d4d4cf4d",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58021,
+        "known_for_department": "Directing",
+        "name": "Tinto Brass",
+        "original_name": "Tinto Brass",
+        "popularity": 3.9764,
+        "profile_path": "/adQ1j2FQ1FZ67hlZVhsUnALM4G4.jpg",
+        "credit_id": "62396a6834e1520073500716",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 992597,
+        "known_for_department": "Directing",
+        "name": "Roy Stuart",
+        "original_name": "Roy Stuart",
+        "popularity": 1.912,
+        "profile_path": "/f08bDiMSA1q5OJgTXSXOd6UHe3v.jpg",
+        "credit_id": "5312ffbac3a36829c4003e4c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58021,
+        "known_for_department": "Directing",
+        "name": "Tinto Brass",
+        "original_name": "Tinto Brass",
+        "popularity": 3.9764,
+        "profile_path": "/adQ1j2FQ1FZ67hlZVhsUnALM4G4.jpg",
+        "credit_id": "58d5d012c3a3681234033137",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

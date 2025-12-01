@@ -1,0 +1,146 @@
+{
+  "adult": false,
+  "backdrop_path": "/xiOpqgjTevHBQmsQp5p21xBoBtI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1291661,
+  "imdb_id": "tt26915157",
+  "origin_country": [],
+  "original_language": "en",
+  "original_title": "Tide",
+  "overview": "Four friends race against the tide in a bay famous for its quicksands, but a lurking threat will aggravate the situation.",
+  "popularity": 7.3998,
+  "poster_path": "/47sKhC5xyh9oUYz4icO4MB8ern8.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-09-12",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tide",
+  "video": false,
+  "vote_average": 4.333,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1363583,
+        "known_for_department": "Acting",
+        "name": "Alice Sanders",
+        "original_name": "Alice Sanders",
+        "popularity": 0.1071,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Charlotte",
+        "credit_id": "66b9cc713fbce68541309ff8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1344069,
+        "known_for_department": "Acting",
+        "name": "Edmund C. Short",
+        "original_name": "Edmund C. Short",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Xavier",
+        "credit_id": "66b9cccfab1bdb1c0cbdc1f5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3124497,
+        "known_for_department": "Acting",
+        "name": "Benjamin McMahon",
+        "original_name": "Benjamin McMahon",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Elliott",
+        "credit_id": "66b9cce0758d41940c078a43",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4021747,
+        "known_for_department": "Acting",
+        "name": "Isabella Colby Browne",
+        "original_name": "Isabella Colby Browne",
+        "popularity": 0.1925,
+        "profile_path": "/sRmhnOVRY3H6DH0fj0dELkUlafs.jpg",
+        "cast_id": 6,
+        "character": "Olivia",
+        "credit_id": "66b9ccf0664dbd1625aae086",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4880684,
+        "known_for_department": "Acting",
+        "name": "Kevin Sionneau",
+        "original_name": "Kevin Sionneau",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Guide",
+        "credit_id": "66b9cd0b382fc34d66aad923",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2081338,
+        "known_for_department": "Directing",
+        "name": "Berty Cadilhac",
+        "original_name": "Berty Cadilhac",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "66b9cc3590022a7fe86c4938",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2081338,
+        "known_for_department": "Directing",
+        "name": "Berty Cadilhac",
+        "original_name": "Berty Cadilhac",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "66b9cc534ab44202f0b76027",
+        "department": "Crew",
+        "job": "Script"
+      }
+    ]
+  }
+}

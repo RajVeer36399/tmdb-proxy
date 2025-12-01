@@ -1,0 +1,390 @@
+{
+  "adult": false,
+  "backdrop_path": "/hy2XBZrlhOhno7jkZVhquFiq5DN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 63069,
+  "imdb_id": "tt0029894",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Bank Holiday",
+  "overview": "A 1930s British summer Bank Holiday starts at midday on Saturday with a rush for the trains to the seaside. Doreen and Milly are off to a beauty contest, Geoffrey and Catherine are having an illicit weekend in the Grand Hotel and May and the kids are set for a more straightforward holiday of sea, sand, and pub. Meanwhile, the manager and performers on the pier are praying for rain.",
+  "popularity": 7.0323,
+  "poster_path": "/sDVhuIxY1KDC3qNcbjUHWUbEY2K.jpg",
+  "production_companies": [
+    {
+      "id": 1221,
+      "logo_path": null,
+      "name": "Gainsborough Pictures",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1938-01-27",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bank Holiday",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133470,
+        "known_for_department": "Acting",
+        "name": "John Lodge",
+        "original_name": "John Lodge",
+        "popularity": 0.5221,
+        "profile_path": "/zN02wJwWyhZid9UanZCTG14MLzX.jpg",
+        "cast_id": 1,
+        "character": "Stephen Howard",
+        "credit_id": "52fe4699c3a368484e0999b9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14298,
+        "known_for_department": "Acting",
+        "name": "Margaret Lockwood",
+        "original_name": "Margaret Lockwood",
+        "popularity": 0.188,
+        "profile_path": "/fJYOZdBuBjBd4Gi8yLsnoSaAfB5.jpg",
+        "cast_id": 2,
+        "character": "Catherine Lawrence",
+        "credit_id": "52fe4699c3a368484e0999bd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30227,
+        "known_for_department": "Acting",
+        "name": "Hugh Williams",
+        "original_name": "Hugh Williams",
+        "popularity": 0.5828,
+        "profile_path": "/wSfmQQLP2HRH3AnWrbUo19uIMwY.jpg",
+        "cast_id": 3,
+        "character": "Geoffrey",
+        "credit_id": "52fe4699c3a368484e0999c1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95612,
+        "known_for_department": "Acting",
+        "name": "Rène Ray",
+        "original_name": "Rène Ray",
+        "popularity": 0.5575,
+        "profile_path": "/oLTS0gV1SxgUMw8u0XlXNBt36JX.jpg",
+        "cast_id": 7,
+        "character": "Doreen Richards",
+        "credit_id": "52fe4699c3a368484e0999d7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97218,
+        "known_for_department": "Acting",
+        "name": "Merle Tottenham",
+        "original_name": "Merle Tottenham",
+        "popularity": 0.8866,
+        "profile_path": "/1HHkLBQ3RHFedpOcBypPOMbnQum.jpg",
+        "cast_id": 8,
+        "character": "Milly",
+        "credit_id": "52fe4699c3a368484e0999db",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14301,
+        "known_for_department": "Acting",
+        "name": "Linden Travers",
+        "original_name": "Linden Travers",
+        "popularity": 0.2137,
+        "profile_path": "/puioVV6iqtIJDnQdqcfQihGwbsb.jpg",
+        "cast_id": 9,
+        "character": "Ann Howard",
+        "credit_id": "52fe4699c3a368484e0999df",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 554381,
+        "known_for_department": "Acting",
+        "name": "Wally Patch",
+        "original_name": "Wally Patch",
+        "popularity": 0.088,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Arthur",
+        "credit_id": "52fe4699c3a368484e0999e3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96421,
+        "known_for_department": "Acting",
+        "name": "Kathleen Harrison",
+        "original_name": "Kathleen Harrison",
+        "popularity": 0.3346,
+        "profile_path": "/oOBrW8LyjZ6oCCtT1bc7bi1jaFd.jpg",
+        "cast_id": 11,
+        "character": "May",
+        "credit_id": "52fe4699c3a368484e0999e7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77673,
+        "known_for_department": "Acting",
+        "name": "Garry Marsh",
+        "original_name": "Garry Marsh",
+        "popularity": 0.7054,
+        "profile_path": "/zJz144HUdUc4cVuQma5ql9SZFXX.jpg",
+        "cast_id": 12,
+        "character": "Follies Manager",
+        "credit_id": "52fe4699c3a368484e0999eb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1068817,
+        "known_for_department": "Acting",
+        "name": "Jeanne Stuart",
+        "original_name": "Jeanne Stuart",
+        "popularity": 0.0856,
+        "profile_path": "/4iHcfPMD96UCpA6KwjxfmyfGwXm.jpg",
+        "cast_id": 13,
+        "character": "Miss Mayfair",
+        "credit_id": "52fe4699c3a368484e0999ef",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106154,
+        "known_for_department": "Acting",
+        "name": "Wilfrid Lawson",
+        "original_name": "Wilfrid Lawson",
+        "popularity": 0.7329,
+        "profile_path": "/k7XkIeyMYVgs2DjfVerAZ8jTY3O.jpg",
+        "cast_id": 14,
+        "character": "Police Sergeant",
+        "credit_id": "52fe4699c3a368484e0999f3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85345,
+        "known_for_department": "Acting",
+        "name": "Felix Aylmer",
+        "original_name": "Felix Aylmer",
+        "popularity": 0.8447,
+        "profile_path": "/egPIdaHTZMKdUDbdgFdUEGP4QCR.jpg",
+        "cast_id": 15,
+        "character": "Dr. Nichols",
+        "credit_id": "52fe4699c3a368484e0999f7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153066,
+        "known_for_department": "Acting",
+        "name": "Leonard Sharp",
+        "original_name": "Leonard Sharp",
+        "popularity": 0.293,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Jack",
+        "credit_id": "60f04bacab1bc70074170cd8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12282,
+        "known_for_department": "Acting",
+        "name": "Michael Rennie",
+        "original_name": "Michael Rennie",
+        "popularity": 0.6344,
+        "profile_path": "/gDEqpcYQDuKp35AF0ZrEfNwEujV.jpg",
+        "cast_id": 25,
+        "character": "Guardsman (uncredited)",
+        "credit_id": "60f04bd997fdec005da7e949",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15378,
+        "known_for_department": "Directing",
+        "name": "Carol Reed",
+        "original_name": "Carol Reed",
+        "popularity": 1.3428,
+        "profile_path": "/wpoGvHCNPM9hGVTYTOA2sDVqaZ4.jpg",
+        "credit_id": "52fe4699c3a368484e0999c7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236446,
+        "known_for_department": "Writing",
+        "name": "Rodney Ackland",
+        "original_name": "Rodney Ackland",
+        "popularity": 0.2251,
+        "profile_path": "/i5pry13VlfMQAkAAZkm6NtCin2u.jpg",
+        "credit_id": "52fe4699c3a368484e0999cd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236447,
+        "known_for_department": "Writing",
+        "name": "Roger Burford",
+        "original_name": "Roger Burford",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "52fe4699c3a368484e0999d3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14295,
+        "known_for_department": "Editing",
+        "name": "R. E. Dearing",
+        "original_name": "R. E. Dearing",
+        "popularity": 0.7216,
+        "profile_path": null,
+        "credit_id": "52fe4699c3a368484e099a03",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231090,
+        "known_for_department": "Art",
+        "name": "Alex Vetchinsky",
+        "original_name": "Alex Vetchinsky",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "52fe4699c3a368484e099a09",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103589,
+        "known_for_department": "Directing",
+        "name": "Arthur Crabtree",
+        "original_name": "Arthur Crabtree",
+        "popularity": 0.2438,
+        "profile_path": null,
+        "credit_id": "60a25ab362fcd3007846ab6b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14297,
+        "known_for_department": "Sound",
+        "name": "Sydney Wiles",
+        "original_name": "Sydney Wiles",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "credit_id": "60a25ad962fcd3007846ab90",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41010,
+        "known_for_department": "Writing",
+        "name": "Hans Wilhelm",
+        "original_name": "Hans Wilhelm",
+        "popularity": 0.1163,
+        "profile_path": null,
+        "credit_id": "5e544cc315959f0015a7168c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14294,
+        "known_for_department": "Production",
+        "name": "Edward Black",
+        "original_name": "Edward Black",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "5e544cdc15959f0013a72911",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3613,
+        "known_for_department": "Sound",
+        "name": "Louis Levy",
+        "original_name": "Louis Levy",
+        "popularity": 1.1207,
+        "profile_path": null,
+        "credit_id": "5e544d03f48b34001573b7ee",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "adult": false,
+  "backdrop_path": "/rt39YjmoS4ium2caMpRWso445Qz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 154537,
+  "imdb_id": "tt2056520",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Arcadia",
+  "overview": "Greta's dad Tom is moving the family cross-country in a dented station wagon, promising a California paradise to his kids. All that's missing is Mom.",
+  "popularity": 6.9794,
+  "poster_path": "/dGic2hlJe1MiTo3UfDpi5RysJuM.jpg",
+  "production_companies": [
+    {
+      "id": 16256,
+      "logo_path": null,
+      "name": "DViant Films",
+      "origin_country": ""
+    },
+    {
+      "id": 16257,
+      "logo_path": null,
+      "name": "Filament Productions LLC",
+      "origin_country": ""
+    },
+    {
+      "id": 16258,
+      "logo_path": null,
+      "name": "Madrose Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 16259,
+      "logo_path": null,
+      "name": "Poisson Rouge Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 16260,
+      "logo_path": null,
+      "name": "SHRINK Media Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 16261,
+      "logo_path": null,
+      "name": "Tricarico Chavez",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-02-13",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Arcadia",
+  "video": false,
+  "vote_average": 6.103,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 35027,
+        "known_for_department": "Acting",
+        "name": "Ryan Simpkins",
+        "original_name": "Ryan Simpkins",
+        "popularity": 0.9272,
+        "profile_path": "/iwbcrrYEGv9RWIV62vqcXNRYwXl.jpg",
+        "cast_id": 2,
+        "character": "Greta",
+        "credit_id": "52fe4b649251416c910d8e69",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16861,
+        "known_for_department": "Acting",
+        "name": "John Hawkes",
+        "original_name": "John Hawkes",
+        "popularity": 1.1622,
+        "profile_path": "/c0mDB6TApVcJ3LLM1gicjyUeD5A.jpg",
+        "cast_id": 3,
+        "character": "Tom",
+        "credit_id": "52fe4b649251416c910d8e6d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1135404,
+        "known_for_department": "Acting",
+        "name": "Kendall Toole",
+        "original_name": "Kendall Toole",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Caroline",
+        "credit_id": "52fe4b649251416c910d8e71",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17181,
+        "known_for_department": "Acting",
+        "name": "Ty Simpkins",
+        "original_name": "Ty Simpkins",
+        "popularity": 1.7772,
+        "profile_path": "/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg",
+        "cast_id": 5,
+        "character": "Nat",
+        "credit_id": "52fe4b649251416c910d8e75",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 174235,
+        "known_for_department": "Acting",
+        "name": "Colter Allison",
+        "original_name": "Colter Allison",
+        "popularity": 0.2147,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Park Ranger",
+        "credit_id": "52fe4b649251416c910d8e7f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19455,
+        "known_for_department": "Acting",
+        "name": "Julia Campbell",
+        "original_name": "Julia Campbell",
+        "popularity": 1.3234,
+        "profile_path": "/dYXj6EEG1IKfGYT4odotllTRmBQ.jpg",
+        "cast_id": 8,
+        "character": "Mrs. Acres",
+        "credit_id": "52fe4b649251416c910d8e83",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 168904,
+        "known_for_department": "Acting",
+        "name": "Chris Fogleman",
+        "original_name": "Chris Fogleman",
+        "popularity": 0.0878,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Cashier",
+        "credit_id": "52fe4b649251416c910d8e87",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1199478,
+        "known_for_department": "Art",
+        "name": "James C. Gentry",
+        "original_name": "James C. Gentry",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Police Officer #2",
+        "credit_id": "52fe4b649251416c910d8e8b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 62595,
+        "known_for_department": "Acting",
+        "name": "Mary Pat Gleason",
+        "original_name": "Mary Pat Gleason",
+        "popularity": 0.971,
+        "profile_path": "/zS07GnCViZj5XSHqjxqNcrIG9KC.jpg",
+        "cast_id": 11,
+        "character": "Agnes",
+        "credit_id": "52fe4b649251416c910d8e8f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92843,
+        "known_for_department": "Acting",
+        "name": "Darin Heames",
+        "original_name": "Darin Heames",
+        "popularity": 1.0756,
+        "profile_path": "/adCCvLBJAxjUCCaF1yGndkaycAP.jpg",
+        "cast_id": 12,
+        "character": "Vic",
+        "credit_id": "52fe4b649251416c910d8e93",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 990158,
+        "known_for_department": "Acting",
+        "name": "Drew Koles",
+        "original_name": "Drew Koles",
+        "popularity": 0.1009,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Evan",
+        "credit_id": "52fe4b649251416c910d8e97",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1199479,
+        "known_for_department": "Acting",
+        "name": "Mike Lutgen",
+        "original_name": "Mike Lutgen",
+        "popularity": 0.3461,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Sleezy Guy",
+        "credit_id": "52fe4b649251416c910d8e9b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 203048,
+        "known_for_department": "Acting",
+        "name": "Skyler Stone",
+        "original_name": "Skyler Stone",
+        "popularity": 0.7105,
+        "profile_path": "/hw0LkLeAn6wi4Avjx5sjTrAztQR.jpg",
+        "cast_id": 16,
+        "character": "Ted",
+        "credit_id": "52fe4b649251416c910d8ea3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84955,
+        "known_for_department": "Acting",
+        "name": "Myk Watford",
+        "original_name": "Myk Watford",
+        "popularity": 0.3704,
+        "profile_path": "/atyeOUzaR5f6Ew3gA2qE9N0Tvcr.jpg",
+        "cast_id": 17,
+        "character": "Officer Allen",
+        "credit_id": "52fe4b649251416c910d8ea7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1199481,
+        "known_for_department": "Acting",
+        "name": "Laci Kay",
+        "original_name": "Laci Kay",
+        "popularity": 0.4391,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Girl on Picnic Table",
+        "credit_id": "52fe4b649251416c910d8eab",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1199482,
+        "known_for_department": "Acting",
+        "name": "Cindy Schoonover",
+        "original_name": "Cindy Schoonover",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Mom on Picnic Table",
+        "credit_id": "52fe4b649251416c910d8eaf",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221701,
+        "known_for_department": "Acting",
+        "name": "Franklin Ruehl",
+        "original_name": "Franklin Ruehl",
+        "popularity": 0.0831,
+        "profile_path": "/ljINbhe5AXa0Xx6aFGoSIFmMFuI.jpg",
+        "cast_id": 21,
+        "character": "Motel Clerk",
+        "credit_id": "553cb32e92514158520006e3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1521243,
+        "known_for_department": "Acting",
+        "name": "Dan Lorge",
+        "original_name": "Dan Lorge",
+        "popularity": 0.0143,
+        "profile_path": "/nDbYLR7EYmDIrIT61GZi1iWhqN0.jpg",
+        "cast_id": 23,
+        "character": "Chief Greene",
+        "credit_id": "6642455b8d7e3d862a376258",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031598,
+        "known_for_department": "Camera",
+        "name": "Eric Lin",
+        "original_name": "Eric Lin",
+        "popularity": 0.1073,
+        "profile_path": null,
+        "credit_id": "52fe4b649251416c910d8eb5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1135403,
+        "known_for_department": "Writing",
+        "name": "Olivia Silver",
+        "original_name": "Olivia Silver",
+        "popularity": 0.0638,
+        "profile_path": null,
+        "credit_id": "52fe4b649251416c910d8e7b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1135403,
+        "known_for_department": "Writing",
+        "name": "Olivia Silver",
+        "original_name": "Olivia Silver",
+        "popularity": 0.0638,
+        "profile_path": null,
+        "credit_id": "52fe4b649251416c910d8e65",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33341,
+        "known_for_department": "Directing",
+        "name": "Rick Rosenthal",
+        "original_name": "Rick Rosenthal",
+        "popularity": 0.4673,
+        "profile_path": "/58Dpt3w7UBHDFpVExv9xaTgUlst.jpg",
+        "credit_id": "574e134dc3a368577d000252",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928952,
+        "known_for_department": "Sound",
+        "name": "Eric Milano",
+        "original_name": "Eric Milano",
+        "popularity": 0.2404,
+        "profile_path": null,
+        "credit_id": "687541c29fc67cab17f91b17",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      }
+    ]
+  }
+}

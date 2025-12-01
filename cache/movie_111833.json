@@ -1,0 +1,393 @@
+{
+  "adult": false,
+  "backdrop_path": "/eTw94VdDrGu93QaIyeSk4hbkleD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 111833,
+  "imdb_id": "tt1999845",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Boro in the Box",
+  "overview": "From its epic conception to its film death, the fantasized and fictitious portrait of the film-maker Walerian Borowczyk : Boro-in-the-box discovers a cruel and obscene world, crosses commonplace and colorful adventures, from Poland to Paris, caressing erotic birds and organic cameras in a phantasmagorical alphabet primer.",
+  "popularity": 5.1644,
+  "poster_path": "/ybTme70iKysvxDyjk2LTiZAzp00.jpg",
+  "production_companies": [
+    {
+      "id": 25522,
+      "logo_path": null,
+      "name": "Société Parisienne de Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6505,
+      "logo_path": "/tjpzIYXGAh8DXoMIzYtuuUpiqb3.png",
+      "name": "Coproduction Office",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2014-07-02",
+  "revenue": 0,
+  "runtime": 40,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Boro in the Box",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17257,
+        "known_for_department": "Acting",
+        "name": "Elina Löwensohn",
+        "original_name": "Elina Löwensohn",
+        "popularity": 0.5162,
+        "profile_path": "/pRFLUsONKzg0hnl2CLnNBE4AJZ1.jpg",
+        "cast_id": 1002,
+        "character": "Walerian Borowczyk (voice)",
+        "credit_id": "52fe4b03c3a36847f81ed9d9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1554282,
+        "known_for_department": "Acting",
+        "name": "Norbert Brondeau",
+        "original_name": "Norbert Brondeau",
+        "popularity": 0.0143,
+        "profile_path": "/kNQZlH4jtPggQJOLwjttqsEw8tu.jpg",
+        "cast_id": 1003,
+        "character": "The Bathtub Man",
+        "credit_id": "568005b3c3a3684bcc00e07f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 126731,
+        "known_for_department": "Acting",
+        "name": "Laure Lapeyre",
+        "original_name": "Laure Lapeyre",
+        "popularity": 0.0554,
+        "profile_path": "/tgveBvaFweYc4PBYlbsktO6qxwJ.jpg",
+        "cast_id": 1004,
+        "character": "Olga",
+        "credit_id": "585bfab79251416fad08df23",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 97069,
+        "known_for_department": "Acting",
+        "name": "Thierry Benoiton",
+        "original_name": "Thierry Benoiton",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 1005,
+        "character": "Jerzy",
+        "credit_id": "585bface92514162010165dc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726328,
+        "known_for_department": "Crew",
+        "name": "Jacques Malnou",
+        "original_name": "Jacques Malnou",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 1006,
+        "character": "Grandfather",
+        "credit_id": "585bfae1c3a3682f5808c4ac",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726329,
+        "known_for_department": "Acting",
+        "name": "Elise Hote",
+        "original_name": "Elise Hote",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 1007,
+        "character": "Emilia",
+        "credit_id": "585bfaf4c3a3683150086950",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1726330,
+        "known_for_department": "Acting",
+        "name": "Benoît Serre",
+        "original_name": "Benoît Serre",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 1008,
+        "character": "Man on the Train",
+        "credit_id": "585bfb05c3a368258c08a0eb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726331,
+        "known_for_department": "Acting",
+        "name": "Audrey Le Corre",
+        "original_name": "Audrey Le Corre",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 1009,
+        "character": "The Muse",
+        "credit_id": "585bfb1e9251416f630979d9",
+        "order": 7
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 1032074,
+        "known_for_department": "Acting",
+        "name": "Mikaela Fisher",
+        "original_name": "Mikaela Fisher",
+        "popularity": 1.4,
+        "profile_path": "/9tNtPW4KOFFaUOBnznNiike1GeT.jpg",
+        "cast_id": 1010,
+        "character": "Ligia",
+        "credit_id": "585bfb36c3a3682f5808c4e7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726332,
+        "known_for_department": "Acting",
+        "name": "Michel Lisowski",
+        "original_name": "Michel Lisowski",
+        "popularity": 0.0979,
+        "profile_path": null,
+        "cast_id": 1012,
+        "character": "Polish Man (voice)",
+        "credit_id": "585bfb7892514146c907f00a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726333,
+        "known_for_department": "Acting",
+        "name": "Laurène Faure",
+        "original_name": "Laurène Faure",
+        "popularity": 0.0845,
+        "profile_path": null,
+        "cast_id": 1013,
+        "character": "Bathtub Woman",
+        "credit_id": "585bfb8fc3a3683150086997",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64584,
+        "known_for_department": "Acting",
+        "name": "Valérie Moreau",
+        "original_name": "Valérie Moreau",
+        "popularity": 0.1408,
+        "profile_path": "/9vSiJnriRPiOK1EpwW8VoanFBna.jpg",
+        "cast_id": 1016,
+        "character": "Woman 2",
+        "credit_id": "5a0f05cec3a368628301310a",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1726330,
+        "known_for_department": "Acting",
+        "name": "Benoît Serre",
+        "original_name": "Benoît Serre",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "6272b149162bc317ab034976",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4284,
+        "known_for_department": "Art",
+        "name": "Stéphane Rozenbaum",
+        "original_name": "Stéphane Rozenbaum",
+        "popularity": 0.175,
+        "profile_path": "/pfst2G1aIWZQ9vfyAJjtYD3bpPD.jpg",
+        "credit_id": "6272b1396f53e158ec252914",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18824,
+        "known_for_department": "Production",
+        "name": "Philippe Bober",
+        "original_name": "Philippe Bober",
+        "popularity": 0.105,
+        "profile_path": "/kOkpmfKWQibXbJ2dh985JqiR4kY.jpg",
+        "credit_id": "6272b17ca93d250067149396",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2378085,
+        "known_for_department": "Production",
+        "name": "Isabell Wiegand",
+        "original_name": "Isabell Wiegand",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "6272b187162bc317aa353482",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1053172,
+        "known_for_department": "Directing",
+        "name": "Bertrand Mandico",
+        "original_name": "Bertrand Mandico",
+        "popularity": 0.7033,
+        "profile_path": "/up5eM3UBKcregFzZWI76YAZt0Ug.jpg",
+        "credit_id": "52fe4b03c3a36847f81ed9d5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1053172,
+        "known_for_department": "Directing",
+        "name": "Bertrand Mandico",
+        "original_name": "Bertrand Mandico",
+        "popularity": 0.7033,
+        "profile_path": "/up5eM3UBKcregFzZWI76YAZt0Ug.jpg",
+        "credit_id": "52fe4b03c3a36847f81ed9cf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1508270,
+        "known_for_department": "Camera",
+        "name": "Pascale Granel",
+        "original_name": "Pascale Granel",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "5bb63ce39251410dd101253d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183395,
+        "known_for_department": "Editing",
+        "name": "George Cragg",
+        "original_name": "George Cragg",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "5bb63d150e0a26339d011d41",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1508269,
+        "known_for_department": "Editing",
+        "name": "Laure Saint-Marc",
+        "original_name": "Laure Saint-Marc",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "5bb63d359251410dc101042d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2147568,
+        "known_for_department": "Sound",
+        "name": "Erwan Eyck",
+        "original_name": "Erwan Eyck",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "5bbf4b590e0a26232b00cbcd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2146738,
+        "known_for_department": "Sound",
+        "name": "Ghédalia Tazartès",
+        "original_name": "Ghédalia Tazartès",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5bbf4b6f0e0a2624c600ddaf",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570540,
+        "known_for_department": "Sound",
+        "name": "Simon Apostolou",
+        "original_name": "Simon Apostolou",
+        "popularity": 0.1121,
+        "profile_path": null,
+        "credit_id": "5bbf4bc2c3a3682b360133a3",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  }
+}

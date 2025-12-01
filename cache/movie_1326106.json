@@ -1,0 +1,312 @@
+{
+  "adult": false,
+  "backdrop_path": "/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.crunchyroll.com/watch/GG1UXVQZ3/kaiju-no-8-mission-recon",
+  "id": 1326106,
+  "imdb_id": "tt35636950",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "アニメ『怪獣８号』第１期総集編／同時上映「保科の休日」",
+  "overview": "In a Kaiju-filled Japan, Kafka Hibino works in monster disposal. After reuniting with his childhood friend Mina Ashiro, a rising star in the anti-Kaiju Defense Force, he decides to pursue his abandoned dream of joining the Force, when he suddenly transforms into the powerful \"Kaiju No. 8.\" An action-packed recap of the first season of Kaiju No. 8 and a new original episode, Hoshina's Day Off.",
+  "popularity": 13.5743,
+  "poster_path": "/2mU8qUbYKlHBdmDDbCmKLuqXd1m.jpg",
+  "production_companies": [
+    {
+      "id": 529,
+      "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+      "name": "Production I.G",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-03-28",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kaiju No. 8: Mission Recon",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 74,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2652077,
+        "known_for_department": "Acting",
+        "name": "Masaya Fukunishi",
+        "original_name": "福西勝也",
+        "popularity": 1.1441,
+        "profile_path": "/8paIbTobS6266x57pIhJCq3mBJh.jpg",
+        "cast_id": 1,
+        "character": "Kafka Hibino / Kaiju No. 8 (voice)",
+        "credit_id": "67473fcac46ebd1fd4a42eed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2410194,
+        "known_for_department": "Acting",
+        "name": "Wataru Katoh",
+        "original_name": "加藤渉",
+        "popularity": 0.7947,
+        "profile_path": "/7PUe94Ju0klZfEutSSbdOJyaV0y.jpg",
+        "cast_id": 3,
+        "character": "Reno Ichikawa (voice)",
+        "credit_id": "67685d686178fcbbeac4c504",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2359492,
+        "known_for_department": "Acting",
+        "name": "Fairouz Ai",
+        "original_name": "ファイルーズあい",
+        "popularity": 1.2735,
+        "profile_path": "/coFu6WOVBZvqd1fw89vbHkiC0zB.jpg",
+        "cast_id": 4,
+        "character": "Kikoru Shinomiya (voice)",
+        "credit_id": "67685da773da5bccc5c4c52e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1681,
+        "known_for_department": "Acting",
+        "name": "Tessyo Genda",
+        "original_name": "玄田哲章",
+        "popularity": 1.222,
+        "profile_path": "/7eJeYv2OCHKAadeFVdabVkpWldo.jpg",
+        "cast_id": 8,
+        "character": "Isao Shinomiya (voice)",
+        "credit_id": "67ec036a30abd41fa942accb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324472,
+        "known_for_department": "Acting",
+        "name": "Kengo Kawanishi",
+        "original_name": "河西健吾",
+        "popularity": 1.798,
+        "profile_path": "/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg",
+        "cast_id": 9,
+        "character": "Soshiro Hoshina (voice)",
+        "credit_id": "67ec03a39cbdf6a94af6344d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1555154,
+        "known_for_department": "Acting",
+        "name": "Keisuke Komoto",
+        "original_name": "河本啓佑",
+        "popularity": 0.8876,
+        "profile_path": "/iFObjSKN6ZXQ4qD2BeaDwVjRtuL.jpg",
+        "cast_id": 10,
+        "character": "Haruichi Izumo (voice)",
+        "credit_id": "67ec03b2ea459c32afdf91ea",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225603,
+        "known_for_department": "Acting",
+        "name": "Kenta Miyake",
+        "original_name": "三宅健太",
+        "popularity": 0.8209,
+        "profile_path": "/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg",
+        "cast_id": 11,
+        "character": "Kaiju No. 10 (voice)",
+        "credit_id": "67ec03c2ea459c32afdf91ef",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1407597,
+        "known_for_department": "Acting",
+        "name": "Sayaka Senbongi",
+        "original_name": "千本木彩花",
+        "popularity": 0.7334,
+        "profile_path": "/yLRKX9DPDGgTRKBQRFTUh3pvbU0.jpg",
+        "cast_id": 12,
+        "character": "Konomi Okonogi (voice)",
+        "credit_id": "67ec03d830abd41fa942acf6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1254672,
+        "known_for_department": "Acting",
+        "name": "Asami Seto",
+        "original_name": "瀬戸麻沙美",
+        "popularity": 1.4961,
+        "profile_path": "/iKKCPgKrNd4pJ0iBOC1SBZy2Y4Y.jpg",
+        "cast_id": 13,
+        "character": "Mina Ashiro (voice)",
+        "credit_id": "67ec03e9ea459c32afdf91f9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2603957,
+        "known_for_department": "Acting",
+        "name": "Yuuki Shin",
+        "original_name": "新祐樹",
+        "popularity": 0.8978,
+        "profile_path": "/pyOAlLSA9ZabbVy5HD8j9QuUdV8.jpg",
+        "cast_id": 18,
+        "character": "Iharu Furuhashi (voice)",
+        "credit_id": "68444e8a63a50f0ede341fd6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563016,
+        "known_for_department": "Acting",
+        "name": "Shunsuke Takeuchi",
+        "original_name": "武内駿輔",
+        "popularity": 1.0185,
+        "profile_path": "/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg",
+        "cast_id": 15,
+        "character": "Aoi Kaguragi (voice)",
+        "credit_id": "67ec0412ea459c32afdf920d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225996,
+        "known_for_department": "Acting",
+        "name": "Hiroyuki Yoshino",
+        "original_name": "吉野裕行",
+        "popularity": 0.73,
+        "profile_path": "/nZQbjjvAjPpjGYenY7kLDtW9e7N.jpg",
+        "cast_id": 16,
+        "character": "Kaiju No. 9 (voice)",
+        "credit_id": "67ec042a110abdc396f6320d",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3650123,
+        "known_for_department": "Writing",
+        "name": "Naoya Matsumoto",
+        "original_name": "松本直也",
+        "popularity": 0.1408,
+        "profile_path": null,
+        "credit_id": "67478ccc0938bb2966012c10",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1133664,
+        "known_for_department": "Directing",
+        "name": "Shigeyuki Miya",
+        "original_name": "宮繁之",
+        "popularity": 0.22,
+        "profile_path": "/uUuE49cGYG2L6b4Pm3mNqYo8qdO.jpg",
+        "credit_id": "67e42ad7e28af41cfc7658eb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1983702,
+        "known_for_department": "Directing",
+        "name": "Tomomi Kamiya",
+        "original_name": "神谷友美",
+        "popularity": 0.5012,
+        "profile_path": null,
+        "credit_id": "67e42b0fa63bcc4997dcaec8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1144162,
+        "known_for_department": "Writing",
+        "name": "Ichiro Okouchi",
+        "original_name": "大河内一楼",
+        "popularity": 0.4608,
+        "profile_path": "/bOACJgaqncJOSukAAErIlxBOor8.jpg",
+        "credit_id": "67e42b7e7b7313b5aef0ba08",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2496341,
+        "known_for_department": "Sound",
+        "name": "Yuta Bandoh",
+        "original_name": "坂東祐大",
+        "popularity": 0.2931,
+        "profile_path": null,
+        "credit_id": "67ec04a430abd41fa942ad4a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

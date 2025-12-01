@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 278126,
+  "imdb_id": "tt0246564",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Detectress",
+  "overview": "Detective Lizzie sets out to recover the stolen plans for an invention.",
+  "popularity": 5.0523,
+  "poster_path": "/pjQhOyAymZosuq1JMQNDlOOzmwe.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "1919-06-22",
+  "revenue": 0,
+  "runtime": 21,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Detectress",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1130795,
+        "known_for_department": "Acting",
+        "name": "Gale Henry",
+        "original_name": "Gale Henry",
+        "popularity": 0.1603,
+        "profile_path": "/dLa3f1fyHaUTPdXOJN0B6lixKlc.jpg",
+        "cast_id": 2,
+        "character": "Lizzie",
+        "credit_id": "53a6e67cc3a3687a430034b5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133101,
+        "known_for_department": "Acting",
+        "name": "Milburn Morante",
+        "original_name": "Milburn Morante",
+        "popularity": 0.0963,
+        "profile_path": "/ycgWDSANRrPr41nfYDhUbaXdmgc.jpg",
+        "cast_id": 3,
+        "character": "Policeman",
+        "credit_id": "53a6e68fc3a3687a430034b8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1332621,
+        "known_for_department": "Acting",
+        "name": "Hap Ward",
+        "original_name": "Hap Ward",
+        "popularity": 0.1222,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "One Lung",
+        "credit_id": "53a6e6a3c3a3687495002acc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1041513,
+        "known_for_department": "Acting",
+        "name": "Eddie Baker",
+        "original_name": "Eddie Baker",
+        "popularity": 0.2158,
+        "profile_path": "/yt5YM7KSkoaQ0L9819uNmyZ7pwV.jpg",
+        "cast_id": 5,
+        "character": "Jip Yu",
+        "credit_id": "53a6e6b8c3a3687a2e003683",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1332616,
+        "known_for_department": "Directing",
+        "name": "Bruno C. Becker",
+        "original_name": "Bruno C. Becker",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "53a6e630c3a3687a4000353d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1130795,
+        "known_for_department": "Acting",
+        "name": "Gale Henry",
+        "original_name": "Gale Henry",
+        "popularity": 0.1603,
+        "profile_path": "/dLa3f1fyHaUTPdXOJN0B6lixKlc.jpg",
+        "credit_id": "53a6e64cc3a3687a430034b0",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

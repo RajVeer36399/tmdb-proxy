@@ -1,0 +1,395 @@
+{
+  "adult": false,
+  "backdrop_path": "/i6y6gpQeOB1FnFPswye4q7PIypk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 79596,
+  "imdb_id": "tt0043410",
+  "origin_country": [
+    "XC"
+  ],
+  "original_language": "cs",
+  "original_title": "Císařův slavík",
+  "overview": "Adaptation of a fairy tale by Hans Christian Andersen, about an emperor who prefers the tinkling of a bejeweled mechanical bird to the song of a real nightingale. When the Emperor is near death, the nightingale's song restores his health.",
+  "popularity": 5.4323,
+  "poster_path": "/8xJG2OuNwpK1KgIV2wdbAuKoMpB.jpg",
+  "production_companies": [
+    {
+      "id": 97261,
+      "logo_path": null,
+      "name": "Loutkový film Praha",
+      "origin_country": "XC"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "XC",
+      "name": "Czechoslovakia"
+    }
+  ],
+  "release_date": "1949-04-15",
+  "revenue": 0,
+  "runtime": 72,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Now...a breathless experience brought to the screen! ...exquisite music! ...enchanting color!",
+  "title": "The Emperor's Nightingale",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 15,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 587539,
+        "known_for_department": "Acting",
+        "name": "Helena Patočková",
+        "original_name": "Helena Patočková",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "cast_id": 1007,
+        "character": "Girl",
+        "credit_id": "52fe49dbc3a368484e143b89",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587540,
+        "known_for_department": "Acting",
+        "name": "Jaromír Sobota",
+        "original_name": "Jaromír Sobota",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 1008,
+        "character": "Boy",
+        "credit_id": "52fe49dbc3a368484e143b8d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2922,
+        "known_for_department": "Acting",
+        "name": "Boris Karloff",
+        "original_name": "Boris Karloff",
+        "popularity": 1.1155,
+        "profile_path": "/fVi0QkiziavXB8HnWk5NzRcnCO1.jpg",
+        "cast_id": 1033,
+        "character": "Narrator (English version)",
+        "credit_id": "618422dcf8aee80026848739",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 929916,
+        "known_for_department": "Sound",
+        "name": "Václav Trojan",
+        "original_name": "Václav Trojan",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "604c9b3822e480003c1fa175",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587535,
+        "known_for_department": "Directing",
+        "name": "Jiří Trnka",
+        "original_name": "Jiří Trnka",
+        "popularity": 0.5475,
+        "profile_path": "/yVGVp15PzjlwGQUqmHij626nLjr.jpg",
+        "credit_id": "604c9b572cefc20054f70a35",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2735852,
+        "known_for_department": "Production",
+        "name": "Vladimír Janovský",
+        "original_name": "Vladimír Janovský",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "604c9b7d4284ea003deb6a4d",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587535,
+        "known_for_department": "Directing",
+        "name": "Jiří Trnka",
+        "original_name": "Jiří Trnka",
+        "popularity": 0.5475,
+        "profile_path": "/yVGVp15PzjlwGQUqmHij626nLjr.jpg",
+        "credit_id": "52fe49dbc3a368484e143b63",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587536,
+        "known_for_department": "Directing",
+        "name": "Miloš Makovec",
+        "original_name": "Miloš Makovec",
+        "popularity": 0.0666,
+        "profile_path": null,
+        "credit_id": "52fe49dbc3a368484e143b69",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587538,
+        "known_for_department": "Writing",
+        "name": "Vítězslav Nezval",
+        "original_name": "Vítězslav Nezval",
+        "popularity": 0.377,
+        "profile_path": null,
+        "credit_id": "52fe49dbc3a368484e143b81",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63977,
+        "known_for_department": "Writing",
+        "name": "Hans Christian Andersen",
+        "original_name": "Hans Christian Andersen",
+        "popularity": 0.2973,
+        "profile_path": "/azV6ZIGZh80eZpVCHAu2cDnytJb.jpg",
+        "credit_id": "5f2fad4f417aaf0037f94def",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137032,
+        "known_for_department": "Writing",
+        "name": "Jiří Brdečka",
+        "original_name": "Jiří Brdečka",
+        "popularity": 0.6934,
+        "profile_path": "/nwQKsWmyXf3i4SaykVcfFiIF2H4.jpg",
+        "credit_id": "5f2fad5c9a358d003691b033",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587535,
+        "known_for_department": "Directing",
+        "name": "Jiří Trnka",
+        "original_name": "Jiří Trnka",
+        "popularity": 0.5475,
+        "profile_path": "/yVGVp15PzjlwGQUqmHij626nLjr.jpg",
+        "credit_id": "5f2fad67417aaf0038f902f1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1831982,
+        "known_for_department": "Camera",
+        "name": "Ludvík Hájek",
+        "original_name": "Ludvík Hájek",
+        "popularity": 0.0629,
+        "profile_path": null,
+        "credit_id": "5f2fadaa9a358d0038901b1e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276744,
+        "known_for_department": "Camera",
+        "name": "Ferdinand Pečenka",
+        "original_name": "Ferdinand Pečenka",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5f2fadb3f1b5710034e859ff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587535,
+        "known_for_department": "Directing",
+        "name": "Jiří Trnka",
+        "original_name": "Jiří Trnka",
+        "popularity": 0.5475,
+        "profile_path": "/yVGVp15PzjlwGQUqmHij626nLjr.jpg",
+        "credit_id": "5f2fadcd9a358d003691b0c7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1512309,
+        "known_for_department": "Editing",
+        "name": "Helena Lebdušková",
+        "original_name": "Helena Lebdušková",
+        "popularity": 0.0676,
+        "profile_path": null,
+        "credit_id": "5f2fadd6559d220036738967",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2428844,
+        "known_for_department": "Sound",
+        "name": "Josef Zavadil",
+        "original_name": "Josef Zavadil",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5f2fadde559d220037748f08",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83965,
+        "known_for_department": "Visual Effects",
+        "name": "Bohuslav Šrámek",
+        "original_name": "Bohuslav Šrámek",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "5f2fadeecdf2e600371f5f8a",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938172,
+        "known_for_department": "Directing",
+        "name": "Břetislav Pojar",
+        "original_name": "Břetislav Pojar",
+        "popularity": 0.1682,
+        "profile_path": "/ouQ6vDl5btjmoOY8oqtjoZD2D5Q.jpg",
+        "credit_id": "5f2fadf83c3ab00037480a6e",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544675,
+        "known_for_department": "Directing",
+        "name": "Stanislav Látal",
+        "original_name": "Stanislav Látal",
+        "popularity": 0.0214,
+        "profile_path": "/hMSeTppv296GACmBn9KpKo24PU9.jpg",
+        "credit_id": "5f2fae01417aaf0037f94eb5",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2454035,
+        "known_for_department": "Visual Effects",
+        "name": "Jan Karpaš",
+        "original_name": "Jan Karpaš",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5f2fae0ccdf2e600371f5f9f",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2735848,
+        "known_for_department": "Visual Effects",
+        "name": "Zdeněk Hrabě",
+        "original_name": "Zdeněk Hrabě",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5f2fae153c3ab0003547aa93",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2735850,
+        "known_for_department": "Production",
+        "name": "Bohumír Buriánek",
+        "original_name": "Bohumír Buriánek",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "5f2fae229a358d003790ff60",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1601854,
+        "known_for_department": "Sound",
+        "name": "Otakar Pařík",
+        "original_name": "Otakar Pařík",
+        "popularity": 0.0957,
+        "profile_path": null,
+        "credit_id": "5f2fae3bcdf2e60039201fd0",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2604650,
+        "known_for_department": "Sound",
+        "name": "Jan Kühn",
+        "original_name": "Jan Kühn",
+        "popularity": 0.0964,
+        "profile_path": null,
+        "credit_id": "5f2fae46559d220037748f9b",
+        "department": "Sound",
+        "job": "Conductor"
+      }
+    ]
+  }
+}

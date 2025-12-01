@@ -1,0 +1,488 @@
+{
+  "adult": false,
+  "backdrop_path": "/nZRWCUd33UbKJqLYW1Pf0XFeSfC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.viktorfilm.com",
+  "id": 1320321,
+  "imdb_id": "tt33034110",
+  "origin_country": [
+    "DK",
+    "US"
+  ],
+  "original_language": "uk",
+  "original_title": "Viktor",
+  "overview": "Viktor, who was born deaf, worships the figure of the samurai warrior. When bombs start falling on his countryside home in Kharkiv, his quasi-romantic obsession with war is put to the test.",
+  "popularity": 6.2102,
+  "poster_path": "/ux6HrgOuWvxkHKnuwQdV5f3FsZH.jpg",
+  "production_companies": [
+    {
+      "id": 14909,
+      "logo_path": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+      "name": "Impact Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 156093,
+      "logo_path": "/t8POzVUpEWkennWeE4Jm7zDCQtL.png",
+      "name": "TIME Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 7503,
+      "logo_path": "/3K8wbNkTn7O4wX89ucnp1ZYR1XF.png",
+      "name": "Protozoa Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 168486,
+      "logo_path": "/wJIDzf771eSmtSRjBMi8vJBWz8t.png",
+      "name": "Real Lava",
+      "origin_country": "DK"
+    },
+    {
+      "id": 133099,
+      "logo_path": "/AfDjkSvejk5mv4ARVb4HEILVqh7.png",
+      "name": "Newen Studios",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    }
+  ],
+  "release_date": "2024-09-08",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "Український"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Viktor",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5586453,
+        "known_for_department": "Acting",
+        "name": "Viktor Korotovskyi",
+        "original_name": "Віктор Коротовський",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Self",
+        "credit_id": "6883ed7ba9c1f6893e38f248",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1920121,
+        "known_for_department": "Directing",
+        "name": "Olivier Sarbil",
+        "original_name": "Olivier Sarbil",
+        "popularity": 0.0863,
+        "profile_path": "/fKb60pTXgh2cLNd4HLlmX4gjoE9.jpg",
+        "credit_id": "669fb88a4b49618b492e7d38",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1161763,
+        "known_for_department": "Production",
+        "name": "Jenny Raskin",
+        "original_name": "Jenny Raskin",
+        "popularity": 0.6369,
+        "profile_path": "/o3EMS1cNq7dHpQSpp9o5fj2tggA.jpg",
+        "credit_id": "669fb896a5ab9d9f3d70384f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4845357,
+        "known_for_department": "Production",
+        "name": "Ilya Kaminsky",
+        "original_name": "Ilya Kaminsky",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "669fb8d232bd099917ddb028",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3797421,
+        "known_for_department": "Production",
+        "name": "Lani Levine",
+        "original_name": "Lani Levine",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "credit_id": "669fb8dcffec41ea134c0f08",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1920121,
+        "known_for_department": "Directing",
+        "name": "Olivier Sarbil",
+        "original_name": "Olivier Sarbil",
+        "popularity": 0.0863,
+        "profile_path": "/fKb60pTXgh2cLNd4HLlmX4gjoE9.jpg",
+        "credit_id": "669fb858d72f375cff52cfd6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1031133,
+        "known_for_department": "Production",
+        "name": "Sigrid Dyekjær",
+        "original_name": "Sigrid Dyekjær",
+        "popularity": 0.0446,
+        "profile_path": "/mlS7Yol3sEAzWlnTrUdaxeWqEeo.jpg",
+        "credit_id": "669fb87a22981dd12f5274b2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3783074,
+        "known_for_department": "Production",
+        "name": "Romain Bessi",
+        "original_name": "Romain Bessi",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "669fb8aa1570ed494f18915f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391202,
+        "known_for_department": "Production",
+        "name": "Dylan Golden",
+        "original_name": "Dylan Golden",
+        "popularity": 0.0775,
+        "profile_path": null,
+        "credit_id": "669fb869adc660b3fb2610a4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16836,
+        "known_for_department": "Production",
+        "name": "Ari Handel",
+        "original_name": "Ari Handel",
+        "popularity": 0.758,
+        "profile_path": "/i7wfVYOYxKdDDYdMX7W1EWUzeU6.jpg",
+        "credit_id": "669fb89091370429ef28a885",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1920121,
+        "known_for_department": "Directing",
+        "name": "Olivier Sarbil",
+        "original_name": "Olivier Sarbil",
+        "popularity": 0.0863,
+        "profile_path": "/fKb60pTXgh2cLNd4HLlmX4gjoE9.jpg",
+        "credit_id": "669fb8f06c6911f9b928a885",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1126877,
+        "known_for_department": "Production",
+        "name": "Geralyn White Dreyfous",
+        "original_name": "Geralyn White Dreyfous",
+        "popularity": 0.5418,
+        "profile_path": "/t25RCx0fyLkUJFOsc3uoPsPiIlM.jpg",
+        "credit_id": "669fb89e4b49618b492e7d3b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1769634,
+        "known_for_department": "Editing",
+        "name": "Atanas Georgiev",
+        "original_name": "Atanas Georgiev",
+        "popularity": 0.0261,
+        "profile_path": "/37TGQi5qUKP4W55xk6tZhxAHLcX.jpg",
+        "credit_id": "669fb8e9074fe317a9ddaf71",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1474925,
+        "known_for_department": "Production",
+        "name": "Philippe Levasseur",
+        "original_name": "Philippe Levasseur",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "669fb88362144ceecf52760f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3213435,
+        "known_for_department": "Production",
+        "name": "Mike Beck",
+        "original_name": "Mike Beck",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "669fb8b21dd010b55dddac34",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4845356,
+        "known_for_department": "Production",
+        "name": "Mariia Antypenko",
+        "original_name": "Mariia Antypenko",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "669fb8c56eb360941952cff0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6431,
+        "known_for_department": "Directing",
+        "name": "Darren Aronofsky",
+        "original_name": "Darren Aronofsky",
+        "popularity": 1.3402,
+        "profile_path": "/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg",
+        "credit_id": "669fb85f6aef695b11dd4eba",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3162740,
+        "known_for_department": "Production",
+        "name": "Brendan Naylor",
+        "original_name": "Brendan Naylor",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "669fb8706bdabd607f2e7c66",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3391201,
+        "known_for_department": "Production",
+        "name": "Loren Hammonds",
+        "original_name": "Loren Hammonds",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "669fb8b94308468a4652cf9e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1483629,
+        "known_for_department": "Sound",
+        "name": "Rich Vreeland",
+        "original_name": "Rich Vreeland",
+        "popularity": 1.2202,
+        "profile_path": "/iNwARedAFOhn4ActxVxI9tsYhwT.jpg",
+        "credit_id": "66bc1767a7e9318ae80ad592",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3059660,
+        "known_for_department": "Production",
+        "name": "Lynne Benioff",
+        "original_name": "Lynne Benioff",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "66c49f805f4e260b790ba3c8",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3286120,
+        "known_for_department": "Production",
+        "name": "Kelsey Koenig",
+        "original_name": "Kelsey Koenig",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "66c49f6610b4348dd3970a7d",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3062531,
+        "known_for_department": "Production",
+        "name": "Jennifer Pelling",
+        "original_name": "Jennifer Pelling",
+        "popularity": 0.0684,
+        "profile_path": "/6HGhlTo9wEfaT7k2aDJFZ6wtpRo.jpg",
+        "credit_id": "66c49f5e46dc927c7dd10b09",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4895886,
+        "known_for_department": "Production",
+        "name": "Michael Erlinger",
+        "original_name": "Michael Erlinger",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "66c49f92e8bc01a12b395961",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3413067,
+        "known_for_department": "Production",
+        "name": "Meadow Fund",
+        "original_name": "Meadow Fund",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "66c49f50ebb1e0b70da58c17",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1285838,
+        "known_for_department": "Production",
+        "name": "Dave O'Connor",
+        "original_name": "Dave O'Connor",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "credit_id": "66c49f993837329c7fd348d4",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1025682,
+        "known_for_department": "Acting",
+        "name": "Katrina vanden Heuvel",
+        "original_name": "Katrina vanden Heuvel",
+        "popularity": 0.1436,
+        "profile_path": "/rgXf2nIpEPX20mrAnJSajB6OqUV.jpg",
+        "credit_id": "66c49f7a8737001d5339594e",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3461933,
+        "known_for_department": "Production",
+        "name": "Marni E.J. Grossman",
+        "original_name": "Marni E.J. Grossman",
+        "popularity": 0.0382,
+        "profile_path": "/kVQNdIoB3OW9MjcQYr5QRDMQTWD.jpg",
+        "credit_id": "66c49f577be6559436d34900",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1732136,
+        "known_for_department": "Production",
+        "name": "Lauren Haber",
+        "original_name": "Lauren Haber",
+        "popularity": 0.0214,
+        "profile_path": "/6j8Qg2v2WVVFuNPPGLKKlhvCuLL.jpg",
+        "credit_id": "66c49f6cf740a6435e0ba2fc",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1520846,
+        "known_for_department": "Acting",
+        "name": "Kyle Hentschel",
+        "original_name": "Kyle Hentschel",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "credit_id": "66c49f89ef4106389724d8e2",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      }
+    ]
+  }
+}

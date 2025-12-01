@@ -1,0 +1,365 @@
+{
+  "adult": false,
+  "backdrop_path": "/v4qYzIO4qMyfUKuno37D6VUiLCp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1049171,
+  "imdb_id": "tt18274350",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Perfetta illusione",
+  "overview": "Toni leads a normal life with his wife Paola but full of enthusiasm and passion. The chance meeting with the young and wealthy Chiara will rekindle in him the desire to redeem himself and to realize his secret dream: to become an artist. The paths of the three will intertwine in a dangerous love triangle that will change the course of their lives forever.",
+  "popularity": 8.4733,
+  "poster_path": "/8ccC602WlexR43eoCscwIySfKVZ.jpg",
+  "production_companies": [
+    {
+      "id": 94370,
+      "logo_path": "/js6kgKVGM2sLtxS95IT3z8dBdIF.png",
+      "name": "Mompracem",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2022-12-15",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Temptation",
+  "video": false,
+  "vote_average": 5.217,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137801,
+        "known_for_department": "Acting",
+        "name": "Giuseppe Maggio",
+        "original_name": "Giuseppe Maggio",
+        "popularity": 1.2592,
+        "profile_path": "/1AJ9rhEcPhnEDotO4RbF6EvVbDT.jpg",
+        "cast_id": 1,
+        "character": "Toni",
+        "credit_id": "6374bec757d378008e9759cc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1373528,
+        "known_for_department": "Acting",
+        "name": "Margherita Vicario",
+        "original_name": "Margherita Vicario",
+        "popularity": 0.115,
+        "profile_path": "/agYVLChrWwKBRVGo08JlbWtysTb.jpg",
+        "cast_id": 2,
+        "character": "Paola",
+        "credit_id": "6374beddd7dcd200775ead62",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2520194,
+        "known_for_department": "Acting",
+        "name": "Carolina Sala",
+        "original_name": "Carolina Sala",
+        "popularity": 0.5127,
+        "profile_path": "/gL4Df2s9eZ6t2V3Wni3DWbabxiw.jpg",
+        "cast_id": 3,
+        "character": "Chiara",
+        "credit_id": "6374bef9c995ee00ad67dc9b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53423,
+        "known_for_department": "Acting",
+        "name": "Sandra Ceccarelli",
+        "original_name": "Sandra Ceccarelli",
+        "popularity": 0.1841,
+        "profile_path": "/nScFVzL03XvIqgSHWN2Tt2kSaj2.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "6378bc7ec2f44b00dcd836fa",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236080,
+        "known_for_department": "Acting",
+        "name": "Maurizio Donadoni",
+        "original_name": "Maurizio Donadoni",
+        "popularity": 1.0995,
+        "profile_path": "/vLmKmZ62l4yzrk7P05M4lIlaQ4a.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "6378bc86336e0100b4f9ddd4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128225,
+        "known_for_department": "Acting",
+        "name": "Giampiero Judica",
+        "original_name": "Giampiero Judica",
+        "popularity": 0.7933,
+        "profile_path": "/eldh49EkjXUqE2PpED8DsiKTRqf.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "6378bc8c5b2f4700d582c6bd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105339,
+        "known_for_department": "Acting",
+        "name": "Ivana Monti",
+        "original_name": "Ivana Monti",
+        "popularity": 0.1814,
+        "profile_path": "/A1WAUZxAj7tkGZEbxBbEj8AK0PS.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "6378bc93156cc7007f4fcb80",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7547,
+        "known_for_department": "Acting",
+        "name": "Daniela Piperno",
+        "original_name": "Daniela Piperno",
+        "popularity": 0.4812,
+        "profile_path": "/gvQKaVUjfmi8fnWIRKJbwd8UfRc.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "657abe2aea394900aab79ea5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4429352,
+        "known_for_department": "Acting",
+        "name": "Ruggero Franceschini",
+        "original_name": "Ruggero Franceschini",
+        "popularity": 0.0143,
+        "profile_path": "/f3exJjMNfCxuefQUDrgTthv6WNA.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "657abf104d23dd00c6ab1137",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 556985,
+        "known_for_department": "Editing",
+        "name": "Natalie Cristiani",
+        "original_name": "Natalie Cristiani",
+        "popularity": 0.1222,
+        "profile_path": "/nb2pyyUHSRauDDmWoilvIp4FOIO.jpg",
+        "credit_id": "65777670a1d33200febd9857",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64801,
+        "known_for_department": "Camera",
+        "name": "Rocco Marra",
+        "original_name": "Rocco Marra",
+        "popularity": 0.0701,
+        "profile_path": null,
+        "credit_id": "6374bf6e57d37800abb5555a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72193,
+        "known_for_department": "Directing",
+        "name": "Pappi Corsicato",
+        "original_name": "Pappi Corsicato",
+        "popularity": 0.8454,
+        "profile_path": "/xtDKW6LUCcqkPBm1s06D4TkA1hq.jpg",
+        "credit_id": "6374bf3ed7dcd20098cb6394",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112485,
+        "known_for_department": "Writing",
+        "name": "Luca Infascelli",
+        "original_name": "Luca Infascelli",
+        "popularity": 0.3495,
+        "profile_path": "/n5dwJJ0CAK2zmHJb4r7NN6tcqYU.jpg",
+        "credit_id": "6374bf4e229ae2009b027efe",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72193,
+        "known_for_department": "Directing",
+        "name": "Pappi Corsicato",
+        "original_name": "Pappi Corsicato",
+        "popularity": 0.8454,
+        "profile_path": "/xtDKW6LUCcqkPBm1s06D4TkA1hq.jpg",
+        "credit_id": "6374bf2ae6d3cc007fed5f61",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1822145,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Grazia Materia",
+        "original_name": "Grazia Materia",
+        "popularity": 0.3958,
+        "profile_path": "/uBNza4jbAiQaOnAmTU9TPzp8ZoS.jpg",
+        "credit_id": "6378bcdafab3fa00cd1026a5",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234821,
+        "known_for_department": "Acting",
+        "name": "Pier Giorgio Bellocchio",
+        "original_name": "Pier Giorgio Bellocchio",
+        "popularity": 0.2103,
+        "profile_path": "/hZTd1cLRnlB9eibCZTeBq1UvDOQ.jpg",
+        "credit_id": "6378bd3dc2f44b00c3553b46",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3793361,
+        "known_for_department": "Art",
+        "name": "Tina Pennisi",
+        "original_name": "Tina Pennisi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6378bcac5b2f4700d582c6d1",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2164822,
+        "known_for_department": "Sound",
+        "name": "Andrea Boccadoro",
+        "original_name": "Andrea Boccadoro",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6378bcfc5b2f470091443e47",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129628,
+        "known_for_department": "Directing",
+        "name": "Marco Manetti",
+        "original_name": "Marco Manetti",
+        "popularity": 0.8175,
+        "profile_path": "/hdTxWCnCr2BYXDkEcfs5beGNRD6.jpg",
+        "credit_id": "6378bd35976e4800dcd921b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1879748,
+        "known_for_department": "Production",
+        "name": "Carlo Macchitella",
+        "original_name": "Carlo Macchitella",
+        "popularity": 0.7247,
+        "profile_path": null,
+        "credit_id": "6378bd1a5b2f470075320e54",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142641,
+        "known_for_department": "Sound",
+        "name": "Gabriele Roberto",
+        "original_name": "Gabriele Roberto",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "6378bd03c2f44b007ab205a5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129627,
+        "known_for_department": "Directing",
+        "name": "Antonio Manetti",
+        "original_name": "Antonio Manetti",
+        "popularity": 0.8983,
+        "profile_path": "/isbb4gEK4AKp1JcD8tL4qEX8ku1.jpg",
+        "credit_id": "6378bd27976e4800aadb1996",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

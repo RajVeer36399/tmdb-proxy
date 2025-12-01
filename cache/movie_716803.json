@@ -1,0 +1,109 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 716803,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Business of Thought: A Recorded History of Artists Space",
+  "overview": "An oral history of Artists Space, the legendary New York artists organization. Told through the voices of the artists, critics and curators who formed it, the film is narrated by voiceover culled from 30 hours of archival cassette tape interviews over a 45 year period. Artists such as Laurie Anderson, Mike Kelley, Hito Steyerl and David Wojnarowicz walk us through the decades. A formally-experimental and raucously-told chronology composed of rare archival documentation, The Business of Thought... is a reminder of the radical potential of the arts and the importance of collective, cultural spaces.",
+  "popularity": 5.4689,
+  "poster_path": "/5ZUw9MNccBayOkUNPh2qzV9hsPs.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2020-06-10",
+  "revenue": 0,
+  "runtime": 11,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Business of Thought: A Recorded History of Artists Space",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68929,
+        "known_for_department": "Acting",
+        "name": "Laurie Anderson",
+        "original_name": "Laurie Anderson",
+        "popularity": 0.203,
+        "profile_path": "/qzYxlXRWKJSa8Qbwt4bcaaUVtle.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "5eeb3df7b04605003607ccab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1204210,
+        "known_for_department": "Directing",
+        "name": "Hito Steyerl",
+        "original_name": "Hito Steyerl",
+        "popularity": 0.0468,
+        "profile_path": "/dL8oPhT9JdVYfPqvGUK8CrODNgY.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "5eeb3e1e81da3900344f1d72",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1143741,
+        "known_for_department": "Acting",
+        "name": "David Wojnarowicz",
+        "original_name": "David Wojnarowicz",
+        "popularity": 0.384,
+        "profile_path": "/aUujpjc3jDZOdQSWnB4ZVmtjaBx.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "5eeb3e2bdb4ed60034cb1736",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 939444,
+        "known_for_department": "Directing",
+        "name": "Sierra Pettengill",
+        "original_name": "Sierra Pettengill",
+        "popularity": 0.1454,
+        "profile_path": null,
+        "credit_id": "5eeb3db70f1e580034b48d18",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2682850,
+        "known_for_department": "Production",
+        "name": "Alexander S.C. Rower",
+        "original_name": "Alexander S.C. Rower",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5eeb3dcb9661fc00365d59e5",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "adult": false,
+  "backdrop_path": "/z0aPAt0WQ4GXWj20eE90IMT1B6V.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1476453,
+  "imdb_id": "tt37790907",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Kirot",
+  "overview": "A conservative woman, engaged to her high school sweetheart, receives a life-saving heart transplant. But as she recovers, unexpected passions and desires begin to surface, pulling her into a world that threatens the life and identity she thought she wanted.",
+  "popularity": 10.0476,
+  "poster_path": "/l1vVrAs2dtxiSYnD1f5G8iFc6UH.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2025-09-30",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kirot",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4103293,
+        "known_for_department": "Acting",
+        "name": "Jenn Rosa",
+        "original_name": "Jenn Rosa",
+        "popularity": 7.6585,
+        "profile_path": "/f2EItX0kOXJjDzZFZSFmGOVS8HB.jpg",
+        "cast_id": 3,
+        "character": "Angelica",
+        "credit_id": "68295631e4b3f999dfe24641",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5420126,
+        "known_for_department": "Acting",
+        "name": "Ashley Lopez",
+        "original_name": "Ashley Lopez",
+        "popularity": 2.1658,
+        "profile_path": "/pRIF389pP8fCmkp7wlOusY9AlMQ.jpg",
+        "cast_id": 2,
+        "character": "Maita",
+        "credit_id": "68295625cb919f5b450bd227",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2996617,
+        "known_for_department": "Acting",
+        "name": "JC Tan",
+        "original_name": "JC Tan",
+        "popularity": 0.4419,
+        "profile_path": "/sSjBEtpEsMd5nHNaeum8R7450IO.jpg",
+        "cast_id": 5,
+        "character": "Rico",
+        "credit_id": "682956497d5cfbe96b0bd174",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5420135,
+        "known_for_department": "Acting",
+        "name": "Dio De Jesus",
+        "original_name": "Dio De Jesus",
+        "popularity": 0.18,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Alex",
+        "credit_id": "6829565a29b78a28ca8c008c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5420132,
+        "known_for_department": "Acting",
+        "name": "Rinoa Halili",
+        "original_name": "Rinoa Halili",
+        "popularity": 0.4471,
+        "profile_path": "/eEEKU8yEDerClctEXWozWP7XBkp.jpg",
+        "cast_id": 4,
+        "character": "Camille",
+        "credit_id": "6829563dbdfecb719a8c01ee",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4763645,
+        "known_for_department": "Acting",
+        "name": "Arjay Bautista",
+        "original_name": "Arjay Bautista",
+        "popularity": 0.0867,
+        "profile_path": "/lWLClg7KvJnHNmysxDoFczeW9br.jpg",
+        "cast_id": 18,
+        "character": "Sir Peter",
+        "credit_id": "68d6f7ab646a7ecc3cb408c1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1493836,
+        "known_for_department": "Acting",
+        "name": "Giovanni Baldisseri",
+        "original_name": "Giovanni Baldisseri",
+        "popularity": 0.1425,
+        "profile_path": "/iwX48EUf2c85LqcBSWoGzFgbJyc.jpg",
+        "cast_id": 19,
+        "character": "Pastor Orly",
+        "credit_id": "68d6f7ce55a3afdd632ddca6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5454036,
+        "known_for_department": "Acting",
+        "name": "Malou Canzana",
+        "original_name": "Malou Canzana",
+        "popularity": 0.0599,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Phylis",
+        "credit_id": "68d6f7f83f49357a46b992a0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5713475,
+        "known_for_department": "Acting",
+        "name": "Angel Durango",
+        "original_name": "Angel Durango",
+        "popularity": 0.0816,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Angel",
+        "credit_id": "68d6f812274522529752fa6b",
+        "order": 8
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 5713477,
+        "known_for_department": "Acting",
+        "name": "Angelique Maglinao",
+        "original_name": "Angelique Maglinao",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Coffeeshop Staff",
+        "credit_id": "68d6f83bcb55b90b23b408c1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2939645,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Janzeil Siachongco",
+        "original_name": "Janzeil Siachongco",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Coffeeshop Client",
+        "credit_id": "68d6f86af1b9ec124dc75730",
+        "order": 10
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2097900,
+        "known_for_department": "Production",
+        "name": "Lucky Jay De Guzman",
+        "original_name": "Lucky Jay De Guzman",
+        "popularity": 0.0541,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Coffeeshop Client",
+        "credit_id": "68d6f885bd66200ffd38b147",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2144356,
+        "known_for_department": "Directing",
+        "name": "Bobby Bonifacio",
+        "original_name": "Bobby Bonifacio",
+        "popularity": 0.5774,
+        "profile_path": "/ilVvkXRj4On7lPslEIDaUD8PuxM.jpg",
+        "credit_id": "6819f8e568d93c220e640501",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570617,
+        "known_for_department": "Sound",
+        "name": "Norman Buena",
+        "original_name": "Norman Buena",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "68d6f581fe854a57b552fa4c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3308478,
+        "known_for_department": "Sound",
+        "name": "Dek Margaja",
+        "original_name": "Dek Margaja",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "68d6f5a2d3e94966c02ddc16",
+        "department": "Writing",
+        "job": "Musical"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4926475,
+        "known_for_department": "Editing",
+        "name": "Glenn Lumba",
+        "original_name": "Glenn Lumba",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "68d6f5c176719c573ee1ba50",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1199212,
+        "known_for_department": "Art",
+        "name": "Ericson Navarro",
+        "original_name": "Ericson Navarro",
+        "popularity": 0.0683,
+        "profile_path": "/qli3Uk4R6rhnKwN6ANgbZI9NhCH.jpg",
+        "credit_id": "68d6f5e9769d7ac1322ddc39",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4052528,
+        "known_for_department": "Production",
+        "name": "Jackie Lyn Barcebal",
+        "original_name": "Jackie Lyn Barcebal",
+        "popularity": 0.0773,
+        "profile_path": "/2rT2KeqDrOXoagbh070sWsN0TEy.jpg",
+        "credit_id": "68d6f607a9e928635d38b1a3",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4419785,
+        "known_for_department": "Camera",
+        "name": "Mark Joshua Tirona",
+        "original_name": "Mark Joshua Tirona",
+        "popularity": 0.0459,
+        "profile_path": null,
+        "credit_id": "68d6f62b97e02aea2ebafd93",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 4558679,
+        "known_for_department": "Production",
+        "name": "Helen Antikainen",
+        "original_name": "Helen Antikainen",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "credit_id": "68d6f6559dfaa2792dc75659",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 5713463,
+        "known_for_department": "Production",
+        "name": "Albert Steven Kho",
+        "original_name": "Albert Steven Kho",
+        "popularity": 0.1411,
+        "profile_path": null,
+        "credit_id": "68d6f6b3506c444dbec7564f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2144356,
+        "known_for_department": "Directing",
+        "name": "Bobby Bonifacio",
+        "original_name": "Bobby Bonifacio",
+        "popularity": 0.5774,
+        "profile_path": "/ilVvkXRj4On7lPslEIDaUD8PuxM.jpg",
+        "credit_id": "68d6f6ce138454397fc756ad",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1942263,
+        "known_for_department": "Writing",
+        "name": "Juvy Galamiton",
+        "original_name": "Juvy Galamiton",
+        "popularity": 0.1698,
+        "profile_path": null,
+        "credit_id": "68d6f6f229ae93b87bb992f0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2144356,
+        "known_for_department": "Directing",
+        "name": "Bobby Bonifacio",
+        "original_name": "Bobby Bonifacio",
+        "popularity": 0.5774,
+        "profile_path": "/ilVvkXRj4On7lPslEIDaUD8PuxM.jpg",
+        "credit_id": "68d6f700cb55b90b23b40899",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

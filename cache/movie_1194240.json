@@ -1,0 +1,472 @@
+{
+  "adult": false,
+  "backdrop_path": "/tag4ELjJWx5b5kZ9ta80BFbekRv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81992626",
+  "id": 1194240,
+  "imdb_id": "tt30835190",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Songs from the Hole",
+  "overview": "Sentenced to life in prison at 15, musician JJ'88 finds hope by writing songs during solitary confinement in this award-winning documentary visual album.",
+  "popularity": 6.3397,
+  "poster_path": "/nwanTjeUvyHD1dBj1938Xhbgltq.jpg",
+  "production_companies": [
+    {
+      "id": 14909,
+      "logo_path": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+      "name": "Impact Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 66478,
+      "logo_path": "/u7WmMkfo9MqsqfD5cuDAbd0u1qY.png",
+      "name": "Artemis Rising",
+      "origin_country": "US"
+    },
+    {
+      "id": 208126,
+      "logo_path": null,
+      "name": "Cocomotion Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-09",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Songs from the Hole",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4147433,
+        "known_for_department": "Acting",
+        "name": "James \"JJ'88\" Jacobs",
+        "original_name": "James \"JJ'88\" Jacobs",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "688439b187b981279c55e926",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5626860,
+        "known_for_department": "Acting",
+        "name": "Indigo Mateo",
+        "original_name": "Indigo Mateo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Self",
+        "credit_id": "689e99f99890b05dcf8dbf6c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2037042,
+        "known_for_department": "Acting",
+        "name": "richie reseda",
+        "original_name": "richie reseda",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "689e99d5f679f1f9808ec8e0",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1414693,
+        "known_for_department": "Directing",
+        "name": "David Felix Sutcliffe",
+        "original_name": "David Felix Sutcliffe",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6534043c8cfcc7010af59c05",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1161763,
+        "known_for_department": "Production",
+        "name": "Jenny Raskin",
+        "original_name": "Jenny Raskin",
+        "popularity": 0.6369,
+        "profile_path": "/o3EMS1cNq7dHpQSpp9o5fj2tggA.jpg",
+        "credit_id": "65340474c8a5ac00ac38a8f8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1108551,
+        "known_for_department": "Directing",
+        "name": "dream hampton",
+        "original_name": "dream hampton",
+        "popularity": 0.1179,
+        "profile_path": "/2vtURc50bxWb1ffZIf56VvLIrbO.jpg",
+        "credit_id": "653404888cfcc700c83d8439",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2037039,
+        "known_for_department": "Directing",
+        "name": "Contessa Gayles",
+        "original_name": "Contessa Gayles",
+        "popularity": 0.1286,
+        "profile_path": null,
+        "credit_id": "653404202b2108013f5a4b33",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1126877,
+        "known_for_department": "Production",
+        "name": "Geralyn White Dreyfous",
+        "original_name": "Geralyn White Dreyfous",
+        "popularity": 0.5418,
+        "profile_path": "/t25RCx0fyLkUJFOsc3uoPsPiIlM.jpg",
+        "credit_id": "6534044542d837010ba8a647",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2037042,
+        "known_for_department": "Acting",
+        "name": "richie reseda",
+        "original_name": "richie reseda",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6534042ca0be2800e238343d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147955,
+        "known_for_department": "Production",
+        "name": "Regina K. Scully",
+        "original_name": "Regina K. Scully",
+        "popularity": 0.2763,
+        "profile_path": "/dZPx8pJ9mi6UYLPZHZUgcyhy5Jf.jpg",
+        "credit_id": "65340481a0be2800c5686f71",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2037039,
+        "known_for_department": "Directing",
+        "name": "Contessa Gayles",
+        "original_name": "Contessa Gayles",
+        "popularity": 0.1286,
+        "profile_path": null,
+        "credit_id": "653404138cfcc7014c8d643d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1732136,
+        "known_for_department": "Production",
+        "name": "Lauren Haber",
+        "original_name": "Lauren Haber",
+        "popularity": 0.0214,
+        "profile_path": "/6j8Qg2v2WVVFuNPPGLKKlhvCuLL.jpg",
+        "credit_id": "6534047a8cfcc700aa02262e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3461935,
+        "known_for_department": "Production",
+        "name": "John Driscoll",
+        "original_name": "John Driscoll",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "659ef8f1fc5f0600eec06921",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3062531,
+        "known_for_department": "Production",
+        "name": "Jennifer Pelling",
+        "original_name": "Jennifer Pelling",
+        "popularity": 0.0684,
+        "profile_path": "/6HGhlTo9wEfaT7k2aDJFZ6wtpRo.jpg",
+        "credit_id": "659ef8f7fc5f060094b66626",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3461934,
+        "known_for_department": "Production",
+        "name": "Lauren Driscoll",
+        "original_name": "Lauren Driscoll",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "659ef8ea8e8d3000952fa89c",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2624382,
+        "known_for_department": "Production",
+        "name": "Robina Riccitiello",
+        "original_name": "Robina Riccitiello",
+        "popularity": 0.0974,
+        "profile_path": "/nK4SqqwX5Ky2Sgw70uOh0hFHiC.jpg",
+        "credit_id": "659ef8e30f526501471d8ecd",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3286120,
+        "known_for_department": "Production",
+        "name": "Kelsey Koenig",
+        "original_name": "Kelsey Koenig",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "659ef8dcf706de00eecfe227",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3242995,
+        "known_for_department": "Editing",
+        "name": "Princess A. Hairston",
+        "original_name": "Princess A. Hairston",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "65c4394b99259c017da518ff",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2037039,
+        "known_for_department": "Directing",
+        "name": "Contessa Gayles",
+        "original_name": "Contessa Gayles",
+        "popularity": 0.1286,
+        "profile_path": null,
+        "credit_id": "65c4392117c4430187cd002b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3413067,
+        "known_for_department": "Production",
+        "name": "Meadow Fund",
+        "original_name": "Meadow Fund",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "65c43906706b9f01642d8a7d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3928447,
+        "known_for_department": "Camera",
+        "name": "Rafe Scobey-Thal",
+        "original_name": "Rafe Scobey-Thal",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65c439440102c901845083d3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1098038,
+        "known_for_department": "Directing",
+        "name": "Malika Zouhali-Worrall",
+        "original_name": "Malika Zouhali-Worrall",
+        "popularity": 0.4922,
+        "profile_path": null,
+        "credit_id": "669430224b6757c42c896885",
+        "department": "Editing",
+        "job": "Consulting Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4829755,
+        "known_for_department": "Production",
+        "name": "Noura Ahmed",
+        "original_name": "Noura Ahmed",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "66943014a44fdcfc689c66f9",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4147433,
+        "known_for_department": "Acting",
+        "name": "James \"JJ'88\" Jacobs",
+        "original_name": "James \"JJ'88\" Jacobs",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6716e05145cd676223588205",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2037039,
+        "known_for_department": "Directing",
+        "name": "Contessa Gayles",
+        "original_name": "Contessa Gayles",
+        "popularity": 0.1286,
+        "profile_path": null,
+        "credit_id": "6716e05755ecf7a940f78a05",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2037039,
+        "known_for_department": "Directing",
+        "name": "Contessa Gayles",
+        "original_name": "Contessa Gayles",
+        "popularity": 0.1286,
+        "profile_path": null,
+        "credit_id": "689e8331eb6a82e99e2693ce",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2315768,
+        "known_for_department": "Camera",
+        "name": "Michelle Kwong",
+        "original_name": "Michelle Kwong",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "689e835f4848151129b717ab",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2037042,
+        "known_for_department": "Acting",
+        "name": "richie reseda",
+        "original_name": "richie reseda",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "689e9a229200b850a15d283f",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4147433,
+        "known_for_department": "Acting",
+        "name": "James \"JJ'88\" Jacobs",
+        "original_name": "James \"JJ'88\" Jacobs",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "689e9a2a05dd2479715e4ca1",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4147433,
+        "known_for_department": "Acting",
+        "name": "James \"JJ'88\" Jacobs",
+        "original_name": "James \"JJ'88\" Jacobs",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "689e9a356650cc05aac70cfb",
+        "department": "Sound",
+        "job": "Songs"
+      }
+    ]
+  }
+}

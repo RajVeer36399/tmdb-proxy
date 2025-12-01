@@ -1,0 +1,189 @@
+{
+  "adult": false,
+  "backdrop_path": "/sgZ8HOIYvEHsguCjYolkwz5iZAq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 516698,
+  "imdb_id": "tt4600558",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Superjuffie",
+  "overview": "Josje, a primary school teacher, is a secret super hero saving animals: Superteacher. When animals of a zoo are in danger she has to choose: rescue them or run.",
+  "popularity": 6.2932,
+  "poster_path": "/iAnXnGdV5Yn0dWIgSBnIUVvpJsd.jpg",
+  "production_companies": [
+    {
+      "id": 55367,
+      "logo_path": null,
+      "name": "PVPictures",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2018-10-10",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Super Miss",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2165724,
+        "known_for_department": "Acting",
+        "name": "Diewertje Dir",
+        "original_name": "Diewertje Dir",
+        "popularity": 0.1818,
+        "profile_path": "/8F08gQh36Vggg3g6cmSxIqColgm.jpg",
+        "cast_id": 3,
+        "character": "Superjuffie",
+        "credit_id": "5bda09ad0e0a265086015275",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1253744,
+        "known_for_department": "Acting",
+        "name": "Hassan Slaby",
+        "original_name": "Hassan Slaby",
+        "popularity": 0.3204,
+        "profile_path": "/aCDzO5k3F33idGzSmcrN3C220VT.jpg",
+        "cast_id": 4,
+        "character": "Hakim",
+        "credit_id": "5bda09dac3a3683cef0162fa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1275977,
+        "known_for_department": "Acting",
+        "name": "Harry Piekema",
+        "original_name": "Harry Piekema",
+        "popularity": 0.0636,
+        "profile_path": "/bcn6vkm4VqfXeaWUCRnpClOWIG2.jpg",
+        "cast_id": 5,
+        "character": "Meester Snor",
+        "credit_id": "5bda09f30e0a26506a0157ff",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1967413,
+        "known_for_department": "Acting",
+        "name": "Ilse Warringa",
+        "original_name": "Ilse Warringa",
+        "popularity": 0.5717,
+        "profile_path": "/hWuf8E4IqAnFYamSEpxJlOHnC8i.jpg",
+        "cast_id": 6,
+        "character": "Kat (voice)",
+        "credit_id": "5bda0a73c3a3683cc5014c63",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 211114,
+        "known_for_department": "Acting",
+        "name": "Carly Wijs",
+        "original_name": "Carly Wijs",
+        "popularity": 0.6945,
+        "profile_path": "/dWs6BWb6DqZDaT7t8a3ET0xKolw.jpg",
+        "cast_id": 7,
+        "character": "Edna",
+        "credit_id": "5d122787c3a36857301f2354",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2533949,
+        "known_for_department": "Art",
+        "name": "Cecile Hanrath",
+        "original_name": "Cecile Hanrath",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65d61561e6d3cc017bc0a84a",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1150816,
+        "known_for_department": "Directing",
+        "name": "Martijn Smits",
+        "original_name": "Martijn Smits",
+        "popularity": 0.0613,
+        "profile_path": null,
+        "credit_id": "5b16b8ca0e0a262dd3016a2c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 566895,
+        "known_for_department": "Writing",
+        "name": "Tijs van Marle",
+        "original_name": "Tijs van Marle",
+        "popularity": 0.0462,
+        "profile_path": null,
+        "credit_id": "5bda08f59251411563012caf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2165716,
+        "known_for_department": "Writing",
+        "name": "Janneke Schotveld",
+        "original_name": "Janneke Schotveld",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5bda09289251411570013828",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

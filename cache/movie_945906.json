@@ -1,0 +1,142 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 945906,
+  "imdb_id": "tt0012200",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Galathea",
+  "overview": "",
+  "popularity": 4.5495,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "1922-10-22",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Galathea",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 932465,
+        "known_for_department": "Acting",
+        "name": "Vilma Banky",
+        "original_name": "Vilma Banky",
+        "popularity": 6.7423,
+        "profile_path": "/runsDppoL2p3wcVRE56flRP8MmV.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "62226febeea34d006809f5e0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3452619,
+        "known_for_department": "Acting",
+        "name": "Erzsi Kürti",
+        "original_name": "Erzsi Kürti",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "62226ff31d1bf4006beb3281",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15398,
+        "known_for_department": "Acting",
+        "name": "Iván Petrovich",
+        "original_name": "Iván Petrovich",
+        "popularity": 0.4536,
+        "profile_path": "/tQhvxrmgTwrdDyb5Hof9jfmWHZM.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "622270671d1bf4006beb340c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1262063,
+        "known_for_department": "Acting",
+        "name": "Gyula Margittai",
+        "original_name": "Gyula Margittai",
+        "popularity": 0.0379,
+        "profile_path": "/dyhFeBUcT1Y83u5LFIaIcVZpgZs.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6222706e42bf01001d0a5b2d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3452629,
+        "known_for_department": "Acting",
+        "name": "Gyula Mészáros",
+        "original_name": "Gyula Mészáros",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6222709f7719d70044fec6ee",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1324492,
+        "known_for_department": "Writing",
+        "name": "Ede Sas",
+        "original_name": "Ede Sas",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "622271011d1bf4001ce90713",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1157305,
+        "known_for_department": "Directing",
+        "name": "Béla Balogh",
+        "original_name": "Béla Balogh",
+        "popularity": 0.0911,
+        "profile_path": "/D9W1Ec8Eia5skPZ0HwNkAfBABU.jpg",
+        "credit_id": "622270f67719d7001d7c6af2",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

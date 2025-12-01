@@ -1,0 +1,180 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 278771,
+  "imdb_id": "tt2505856",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Infliction",
+  "overview": "\"Infliction\" is the actual assembled footage taken from the cameras belonging to two brothers, who documented a murder spree in North Carolina.",
+  "popularity": 10.5976,
+  "poster_path": "/iwW7kvyOX4b1xwRQvFw3CjZKMCp.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-03-16",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Infliction",
+  "video": false,
+  "vote_average": 3.6,
+  "vote_count": 15,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1344782,
+        "known_for_department": "Acting",
+        "name": "Jason Mac",
+        "original_name": "Jason Mac",
+        "popularity": 1.2177,
+        "profile_path": "/kdYOxra9VQKeAQzVYvJniZSbu8d.jpg",
+        "cast_id": 0,
+        "character": "John Stiles",
+        "credit_id": "53cdf7d2c3a3687771003f10",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1344783,
+        "known_for_department": "Acting",
+        "name": "Elliott Armstrong",
+        "original_name": "Elliott Armstrong",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Kenny Stiles",
+        "credit_id": "53cdf7e1c3a3687771003f15",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1344784,
+        "known_for_department": "Acting",
+        "name": "Ana Shaw",
+        "original_name": "Ana Shaw",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Andrea",
+        "credit_id": "53cdf7eec3a3687764003ed4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3166203,
+        "known_for_department": "Acting",
+        "name": "Catherine Trail",
+        "original_name": "Catherine Trail",
+        "popularity": 0.0143,
+        "profile_path": "/2cCXPSdb8MHq19rsYg7EdJjYzvK.jpg",
+        "cast_id": 4,
+        "character": "Patti Stiles",
+        "credit_id": "66228cd678570e014a1004c9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107406,
+        "known_for_department": "Acting",
+        "name": "Don Henderson Baker",
+        "original_name": "Don Henderson Baker",
+        "popularity": 0.4526,
+        "profile_path": "/coHsghqDc48iiGktWI7VWJbkigN.jpg",
+        "cast_id": 5,
+        "character": "Joe Stiles",
+        "credit_id": "66228cfa0443c90187774fae",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125050,
+        "known_for_department": "Acting",
+        "name": "Darren Kendrick",
+        "original_name": "Darren Kendrick",
+        "popularity": 0.5763,
+        "profile_path": "/7IloyS6nJlylYgoDTIFjNM1ll90.jpg",
+        "cast_id": 6,
+        "character": "Alan McGrath",
+        "credit_id": "66228d1878570e014a1004cf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2809258,
+        "known_for_department": "Acting",
+        "name": "Mahri Shelton",
+        "original_name": "Mahri Shelton",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Linda Hallett",
+        "credit_id": "66228d3d3f48330186757403",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4662924,
+        "known_for_department": "Writing",
+        "name": "Jack Thomas Smith",
+        "original_name": "Jack Thomas Smith",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "66228de00443c90164765b9f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 239754,
+        "known_for_department": "Writing",
+        "name": "Jack Thomas Smith",
+        "original_name": "Jack Thomas Smith",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "6443c7f3a06efe059ea486e1",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

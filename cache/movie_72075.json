@@ -1,0 +1,296 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 72075,
+  "imdb_id": "tt0056831",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Apartmentzauber",
+  "overview": "Because factory owner's son and womanizer Karl Fischer is constantly avoiding his rich fiancée Almut, his father Waldemar sends the flighty little boy to Italy, where he is supposed to work in his future father-in-law's business and come to his senses. The business is a beach hotel where Karl, booked by the drunken janitor as \"Carla\", ends up in a triple room where two girls are billeted. Karl finds the woman of his life in the beautiful black-haired Karin.",
+  "popularity": 5.7819,
+  "poster_path": "/1FmhzzGIgrLycmv7Q0mSEa7ngys.jpg",
+  "production_companies": [
+    {
+      "id": 26929,
+      "logo_path": null,
+      "name": "Piran-Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1963-12-20",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Apartmentzauber",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50281,
+        "known_for_department": "Acting",
+        "name": "Rex Gildo",
+        "original_name": "Rex Gildo",
+        "popularity": 0.5757,
+        "profile_path": "/bhif04vok47DAfq1z373n4X5vrr.jpg",
+        "cast_id": 1,
+        "character": "Karl Fischer",
+        "credit_id": "52fe4856c3a368484e0f3cd3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26419,
+        "known_for_department": "Acting",
+        "name": "Gunnar Möller",
+        "original_name": "Gunnar Möller",
+        "popularity": 0.0799,
+        "profile_path": "/cy3x8rbepYxfdqdqyhNJWWsywPr.jpg",
+        "cast_id": 2,
+        "character": "Thomas Butterfield jr.",
+        "credit_id": "52fe4856c3a368484e0f3cd7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 48867,
+        "known_for_department": "Acting",
+        "name": "Helga Sommerfeld",
+        "original_name": "Helga Sommerfeld",
+        "popularity": 0.1516,
+        "profile_path": "/wAXPM0EQ1v5mHQmJHzbnuVodeeI.jpg",
+        "cast_id": 3,
+        "character": "Karin",
+        "credit_id": "52fe4856c3a368484e0f3cdb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2549704,
+        "known_for_department": "Acting",
+        "name": "Gitta Winter",
+        "original_name": "Gitta Winter",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Elfi",
+        "credit_id": "5e54e03ca76ac50013a8b8d4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47033,
+        "known_for_department": "Acting",
+        "name": "Heinz Erhardt",
+        "original_name": "Heinz Erhardt",
+        "popularity": 0.1089,
+        "profile_path": "/l0JuD0qugg08DLNdeZXiiW6ucst.jpg",
+        "cast_id": 4,
+        "character": "Waldemar Fischer",
+        "credit_id": "52fe4856c3a368484e0f3cdf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 50088,
+        "known_for_department": "Acting",
+        "name": "Lotte Ledl",
+        "original_name": "Lotte Ledl",
+        "popularity": 0.1812,
+        "profile_path": "/9S7R1sOzGloZlHDXxdTCOinkQGQ.jpg",
+        "cast_id": 6,
+        "character": "Mabel",
+        "credit_id": "53408eb60e0a2679ad000a6a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39047,
+        "known_for_department": "Acting",
+        "name": "Carola Höhn",
+        "original_name": "Carola Höhn",
+        "popularity": 0.1522,
+        "profile_path": "/AlRenogTA3QVL4HFUbMDGxXz3jn.jpg",
+        "cast_id": 7,
+        "character": "Frau Fischer",
+        "credit_id": "53408edd0e0a26799e000a58",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2730,
+        "known_for_department": "Acting",
+        "name": "Elma Karlowa",
+        "original_name": "Elma Karlowa",
+        "popularity": 0.283,
+        "profile_path": "/zCjJn98UgeI8eK3Y4fbTaDfxVTl.jpg",
+        "cast_id": 8,
+        "character": "Geschäftsinhaberin",
+        "credit_id": "53408f120e0a2679bf000a3c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10170,
+        "known_for_department": "Acting",
+        "name": "Ilse Steppat",
+        "original_name": "Ilse Steppat",
+        "popularity": 0.341,
+        "profile_path": "/i7vozT464DswFdYJJ3bFUacWdLR.jpg",
+        "cast_id": 9,
+        "character": "Sittenkommissarin",
+        "credit_id": "53408f250e0a2679aa000a7e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26248,
+        "known_for_department": "Acting",
+        "name": "Horst Naumann",
+        "original_name": "Horst Naumann",
+        "popularity": 0.1934,
+        "profile_path": "/roqKCi4Eqhtk6IWdLE0mBJZUmFI.jpg",
+        "cast_id": 10,
+        "character": "Barbesitzer Nino",
+        "credit_id": "53408f980e0a2679bf000a42",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46549,
+        "known_for_department": "Acting",
+        "name": "Mario del Marius",
+        "original_name": "Mario del Marius",
+        "popularity": 0.048,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Baldrian",
+        "credit_id": "5e54e05735811d00155a9fd4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1580714,
+        "known_for_department": "Acting",
+        "name": "Gerti Gordon",
+        "original_name": "Gerti Gordon",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Almut Behringer",
+        "credit_id": "5e54e06b15959f0015a8286e",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48851,
+        "known_for_department": "Writing",
+        "name": "Helmuth M. Backhaus",
+        "original_name": "Helmuth M. Backhaus",
+        "popularity": 0.384,
+        "profile_path": null,
+        "credit_id": "52fe4856c3a368484e0f3ce5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 40988,
+        "known_for_department": "Camera",
+        "name": "Gerhard Krüger",
+        "original_name": "Gerhard Krüger",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "660427ec197de401861e1097",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48851,
+        "known_for_department": "Writing",
+        "name": "Helmuth M. Backhaus",
+        "original_name": "Helmuth M. Backhaus",
+        "popularity": 0.384,
+        "profile_path": null,
+        "credit_id": "5d613cbc7f6c8d0015ecdd97",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1357258,
+        "known_for_department": "Sound",
+        "name": "Christian Bruhn",
+        "original_name": "Christian Bruhn",
+        "popularity": 0.0564,
+        "profile_path": null,
+        "credit_id": "5e1f34b9e24e3a0010e7b0e8",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 38260,
+        "known_for_department": "Editing",
+        "name": "Anneliese Artelt",
+        "original_name": "Anneliese Artelt",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5e54e02215959f0013a80758",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

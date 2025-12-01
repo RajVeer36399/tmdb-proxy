@@ -1,0 +1,164 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 409753,
+  "imdb_id": "tt3002584",
+  "origin_country": [
+    "IL"
+  ],
+  "original_language": "he",
+  "original_title": "הורה 79",
+  "overview": "The Hora 79 dance troupe was the face of Israeli folk dancing. Following a traumatic event. An accident? A murder? A suicide? The group ceased its activity and the members went their own ways. Now, 33 years later, the Karmiel Dance Festival initiates a reunion for a tribute to Hebrew dance. The encounter brims with nostalgia, tension, and guilt. Will they be able to overcome the dark ghosts of the past, the old conflicts, the betrayal of the body and of the memory?",
+  "popularity": 4.4932,
+  "poster_path": "/9dDvvD1HWPlweCXBQT6gQdWtmiC.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    }
+  ],
+  "release_date": "2013-05-22",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hora 79",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8787,
+        "known_for_department": "Acting",
+        "name": "Gila Almagor",
+        "original_name": "Gila Almagor",
+        "popularity": 0.837,
+        "profile_path": "/w5X2yS6tgVVbYUwRjFenWeN25I3.jpg",
+        "cast_id": 1,
+        "character": "Sara B",
+        "credit_id": "641cad5ad75bd62436f027d0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 585248,
+        "known_for_department": "Directing",
+        "name": "Eli Cohen",
+        "original_name": "Eli Cohen",
+        "popularity": 0.1033,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Yoske",
+        "credit_id": "641cad64f9aa4700cde744cb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090752,
+        "known_for_department": "Acting",
+        "name": "Nathan Dattner",
+        "original_name": "Nathan Dattner",
+        "popularity": 0.0256,
+        "profile_path": "/lvAa8OTEfZngP1ZS5mtNSNj4XTA.jpg",
+        "cast_id": 3,
+        "character": "Nahum",
+        "credit_id": "641cad76d75bd624d53594ea",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034805,
+        "known_for_department": "Acting",
+        "name": "Yossi Graber",
+        "original_name": "Yossi Graber",
+        "popularity": 0.3041,
+        "profile_path": "/o5TmJIXjjJJ7Ko4yx9MhTizftkR.jpg",
+        "cast_id": 4,
+        "character": "Dori",
+        "credit_id": "641cad81d75bd6243e4fa96b",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 585248,
+        "known_for_department": "Directing",
+        "name": "Eli Cohen",
+        "original_name": "Eli Cohen",
+        "popularity": 0.1033,
+        "profile_path": null,
+        "credit_id": "57af00c3c3a36803590015ec",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2971068,
+        "known_for_department": "Sound",
+        "name": "Tal Yardeni",
+        "original_name": "Tal Yardeni",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "641cada5142ef100837f9044",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3176792,
+        "known_for_department": "Editing",
+        "name": "Shlomo Hazan",
+        "original_name": "Shlomo Hazan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "641cadc3a3e4ba00e71f069e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 119299,
+        "known_for_department": "Crew",
+        "name": "Daniel Schneor",
+        "original_name": "Daniel Schneor",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "641cadb5142ef100d9bbe91d",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1374605,
+  "imdb_id": "tt0200751",
+  "origin_country": [
+    "YU"
+  ],
+  "original_language": "sh",
+  "original_title": "Jelena Gavanski",
+  "overview": "A melodrama that analyzes social changes after the Second World War, a story about dreams and unfulfilled romance of a middle-aged couple.",
+  "popularity": 5.5968,
+  "poster_path": "/uiMDmwAxm869gNJJOzFsAgELQPr.jpg",
+  "production_companies": [
+    {
+      "id": 11613,
+      "logo_path": null,
+      "name": "Radiotelevizija Beograd",
+      "origin_country": "RS"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "release_date": "1982-01-01",
+  "revenue": 0,
+  "runtime": 58,
+  "spoken_languages": [
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jelena Gavanski",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1311546,
+        "known_for_department": "Acting",
+        "name": "Radmila Andrić",
+        "original_name": "Radmila Andrić",
+        "popularity": 0.4667,
+        "profile_path": "/d837s8F0aXzW8i1KEC1VLRdEunV.jpg",
+        "cast_id": 3,
+        "character": "Jelena Gavanski",
+        "credit_id": "671630c54bf37c883cb703f8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1047688,
+        "known_for_department": "Acting",
+        "name": "Olivera Katarina",
+        "original_name": "Olivera Katarina",
+        "popularity": 0.6525,
+        "profile_path": "/1bvjL3XKW4IgmranqyTqDP9Z6ek.jpg",
+        "cast_id": 4,
+        "character": "Lina",
+        "credit_id": "671630cccef14628fef632cb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15272,
+        "known_for_department": "Acting",
+        "name": "Predrag Laković",
+        "original_name": "Predrag Laković",
+        "popularity": 0.1143,
+        "profile_path": "/dG11bWuzNG1VFMQnEi4Cjz3XrI6.jpg",
+        "cast_id": 5,
+        "character": "Ariško",
+        "credit_id": "671630d6e6edc3bad61043a6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119947,
+        "known_for_department": "Acting",
+        "name": "Petar Kralj",
+        "original_name": "Petar Kralj",
+        "popularity": 0.2536,
+        "profile_path": "/n1wsJNqHxO0GEzNm5Mjv1f8LSg9.jpg",
+        "cast_id": 6,
+        "character": "Stojan Brankov",
+        "credit_id": "671630e1bd91c83829d758ce",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3313577,
+        "known_for_department": "Directing",
+        "name": "Milenko Maričić",
+        "original_name": "Milenko Maričić",
+        "popularity": 0.0402,
+        "profile_path": null,
+        "credit_id": "671630aee6edc3bad6104381",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1579803,
+        "known_for_department": "Writing",
+        "name": "Aleksandar Tišma",
+        "original_name": "Aleksandar Tišma",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "671630b6e6edc3bad6104386",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

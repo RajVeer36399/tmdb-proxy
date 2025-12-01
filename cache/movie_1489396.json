@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1489396,
+  "imdb_id": null,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Eetha",
+  "overview": "",
+  "popularity": 8.033,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 86699,
+      "logo_path": null,
+      "name": "Maddock Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [],
+  "status": "In Production",
+  "tagline": "",
+  "title": "Eetha",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130991,
+        "known_for_department": "Acting",
+        "name": "Shraddha Kapoor",
+        "original_name": "Shraddha Kapoor",
+        "popularity": 2.0582,
+        "profile_path": "/zimQFv5XDBK7MxQrQsUABONO71L.jpg",
+        "cast_id": 1,
+        "character": "Vithabai",
+        "credit_id": "6837f1524cf65dea8083913b",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102246,
+        "known_for_department": "Production",
+        "name": "Dinesh Vijan",
+        "original_name": "Dinesh Vijan",
+        "popularity": 2.0068,
+        "profile_path": "/mYKpPjxkGvyCXMhId8HXZKAyePb.jpg",
+        "credit_id": "6837f1618a750b1501eb4492",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1118108,
+        "known_for_department": "Camera",
+        "name": "Laxman Utekar",
+        "original_name": "Laxman Utekar",
+        "popularity": 0.6734,
+        "profile_path": null,
+        "credit_id": "6837f16bbc1e644c7a838fed",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2835649,
+        "known_for_department": "Camera",
+        "name": "Akash Agrawal",
+        "original_name": "Akash Agrawal",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "69088e658bed197c31472f5a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2061181,
+        "known_for_department": "Sound",
+        "name": "Ajay Gogavale",
+        "original_name": "Ajay Gogavale",
+        "popularity": 0.3867,
+        "profile_path": "/lzcGuYPJSIopatcL5aNWuUeaZVQ.jpg",
+        "credit_id": "6909a9c213298ac3addb8d2f",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1055967,
+        "known_for_department": "Sound",
+        "name": "Atul Gogavale",
+        "original_name": "Atul Gogavale",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "6909a9ce2c078c3abbc96678",
+        "department": "Sound",
+        "job": "Music Director"
+      }
+    ]
+  }
+}

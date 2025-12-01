@@ -1,0 +1,377 @@
+{
+  "adult": false,
+  "backdrop_path": "/j20Alu1NbdsENg7VipwszVBxenA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.tigermilch-film.de/",
+  "id": 427028,
+  "imdb_id": "tt6007398",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Tigermilch",
+  "overview": "Best friends Nini and Jameelah are both 14 years old and live in the same housing complex in Berlin. Jameelah's family is from Iraq and might be deported if their application for citizenship isn't approved, but right now, the girls try not to worry about these existential problems. They look forward to the Berlin summer and the school holidays.",
+  "popularity": 8.1464,
+  "poster_path": "/jKyhCDAVuY1h9XhcAG8TdZBr5nV.jpg",
+  "production_companies": [
+    {
+      "id": 15107,
+      "logo_path": "/pi0wEtEk6ul0n7NAg0GWNuKQdKy.png",
+      "name": "Akzente Film & Fernsehproduktion GmbH",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1478,
+      "logo_path": "/plHEkpGkULYqiLRpYsUak8uYmhU.png",
+      "name": "Sat.1",
+      "origin_country": "DE"
+    },
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2017-08-17",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tiger Milk",
+  "video": false,
+  "vote_average": 6.063,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1405775,
+        "known_for_department": "Acting",
+        "name": "Flora Thiemann",
+        "original_name": "Flora Thiemann",
+        "popularity": 1.0962,
+        "profile_path": "/wx2C7OBj8ksCmS2ZtIZpTd4oGIC.jpg",
+        "cast_id": 4,
+        "character": "Nini",
+        "credit_id": "59720eca9251412d4c04dde8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1270320,
+        "known_for_department": "Acting",
+        "name": "Emily Kusche",
+        "original_name": "Emily Kusche",
+        "popularity": 0.704,
+        "profile_path": "/2XNP9PWe11LlI1hmHN42SAOdaGU.jpg",
+        "cast_id": 5,
+        "character": "Jameelah",
+        "credit_id": "59720efbc3a3684bfc009386",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7161,
+        "known_for_department": "Acting",
+        "name": "Eva Löbau",
+        "original_name": "Eva Löbau",
+        "popularity": 0.2424,
+        "profile_path": "/iHZVFa0GLXU5MeU4SUN20SgYWVS.jpg",
+        "cast_id": 2,
+        "character": "Frau Struck",
+        "credit_id": "583d7781c3a36835a20102d9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1087,
+        "known_for_department": "Acting",
+        "name": "Lars Rudolph",
+        "original_name": "Lars Rudolph",
+        "popularity": 0.5796,
+        "profile_path": "/1C1tHlJpvWmyfnfqjpi5tHDs4jn.jpg",
+        "cast_id": 3,
+        "character": "Herr Wittner",
+        "credit_id": "583d77a1c3a36835a20102f7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44533,
+        "known_for_department": "Acting",
+        "name": "Ludwig Trepte",
+        "original_name": "Ludwig Trepte",
+        "popularity": 0.2742,
+        "profile_path": "/8O9S7wIJdNxNyMkhMJ82WlmfdjX.jpg",
+        "cast_id": 1,
+        "character": "Afghanistan Veteran",
+        "credit_id": "583d764d92514110df00efb0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225907,
+        "known_for_department": "Acting",
+        "name": "Heiko Pinkowski",
+        "original_name": "Heiko Pinkowski",
+        "popularity": 0.0591,
+        "profile_path": "/oegbhEGwKoMRdqvuDgQ4T9ZiBNT.jpg",
+        "cast_id": 6,
+        "character": "Rainer Maas",
+        "credit_id": "59c302129251415b6e002f53",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4620,
+        "known_for_department": "Acting",
+        "name": "Thorsten Merten",
+        "original_name": "Thorsten Merten",
+        "popularity": 0.6565,
+        "profile_path": "/4BC0mf9zU8R73O9nDGoaYQqljGX.jpg",
+        "cast_id": 7,
+        "character": "Stefan",
+        "credit_id": "59fb01abc3a3681adf00c9bb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1072105,
+        "known_for_department": "Acting",
+        "name": "Narges Rashidi",
+        "original_name": "Narges Rashidi",
+        "popularity": 0.4808,
+        "profile_path": "/fCh3rJkIKvvTfLQa8y1UClyNC3R.jpg",
+        "cast_id": 13,
+        "character": "Noura",
+        "credit_id": "5ab8e290c3a36817a000c4a3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1109604,
+        "known_for_department": "Acting",
+        "name": "Gisa Flake",
+        "original_name": "Gisa Flake",
+        "popularity": 0.2834,
+        "profile_path": "/2JR9DXrAAALAkjVXC4lTbmHX9kd.jpg",
+        "cast_id": 14,
+        "character": "Annika",
+        "credit_id": "5ab8e2d7925141490600c0b4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4636,
+        "known_for_department": "Acting",
+        "name": "Luna Mijović",
+        "original_name": "Luna Mijović",
+        "popularity": 1.2463,
+        "profile_path": "/aWFsLqnf3MTbcOmrRJvuHFj6lBH.jpg",
+        "cast_id": 15,
+        "character": "Jasna",
+        "credit_id": "5ab8e2ed0e0a261fe20328d0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1141080,
+        "known_for_department": "Acting",
+        "name": "Alexandru Cirneala",
+        "original_name": "Alexandru Cirneala",
+        "popularity": 0.0932,
+        "profile_path": "/gIz6Tz3mkvDgNNft11682R96fmD.jpg",
+        "cast_id": 16,
+        "character": "Tarik",
+        "credit_id": "5ab8e301925141490600c0e0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1546087,
+        "known_for_department": "Acting",
+        "name": "Emil Belton",
+        "original_name": "Emil Belton",
+        "popularity": 0.2488,
+        "profile_path": "/hiYgnRFVhztKORTMlJe5bHmSTSu.jpg",
+        "cast_id": 17,
+        "character": "Nico",
+        "credit_id": "5ab8e33f0e0a261fdf033f4c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1546091,
+        "known_for_department": "Acting",
+        "name": "August Carter",
+        "original_name": "August Carter",
+        "popularity": 0.1426,
+        "profile_path": "/sYu2AdNSaErZYscrpnc7fH47UL9.jpg",
+        "cast_id": 18,
+        "character": "Lukas",
+        "credit_id": "5ab8e3570e0a26302d00bfea",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2007947,
+        "known_for_department": "Acting",
+        "name": "Anna Büttner",
+        "original_name": "Anna Büttner",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Jessi",
+        "credit_id": "5ab8e3930e0a26303b00da82",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324551,
+        "known_for_department": "Acting",
+        "name": "Joachim Foerster",
+        "original_name": "Joachim Foerster",
+        "popularity": 0.2082,
+        "profile_path": "/49xAYJTSyONfEyQSwg3rUQL6Ldm.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "5ab8e3a20e0a26303b00da95",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2763425,
+        "known_for_department": "Acting",
+        "name": "Virginia Boholle",
+        "original_name": "Virginia Boholle",
+        "popularity": 0.0566,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Viktoria",
+        "credit_id": "5f4f657deea34d00349ec064",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19912,
+        "known_for_department": "Directing",
+        "name": "Ute Wieland",
+        "original_name": "Ute Wieland",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "583d763992514110d900e675",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1996123,
+        "known_for_department": "Camera",
+        "name": "Felix Cramer",
+        "original_name": "Felix Cramer",
+        "popularity": 0.0487,
+        "profile_path": "/gzXJop10kkzHCLrDxD3ch8HtG1Z.jpg",
+        "credit_id": "6654ec2a29833c7daab7df89",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 54546,
+        "known_for_department": "Production",
+        "name": "Susanne Freyer",
+        "original_name": "Susanne Freyer",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5ab8e21e0e0a261fe5030ad4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19912,
+        "known_for_department": "Directing",
+        "name": "Ute Wieland",
+        "original_name": "Ute Wieland",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "5ab8e1e992514148f100c0da",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 43216,
+        "known_for_department": "Editing",
+        "name": "Anna Kappelmann",
+        "original_name": "Anna Kappelmann",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "credit_id": "5ab8e239925141396402d178",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2007944,
+        "known_for_department": "Writing",
+        "name": "Stefanie de Velasco",
+        "original_name": "Stefanie de Velasco",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "credit_id": "5ab8e20e0e0a261fe5030abf",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  }
+}

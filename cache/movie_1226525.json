@@ -1,0 +1,311 @@
+{
+  "adult": false,
+  "backdrop_path": "/urBM87njFpq8xMswPEFyziWxd1q.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1226525,
+  "imdb_id": "tt31324190",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Seu Cavalcanti",
+  "overview": "The sequence of graduation of law graduates in Seu Cavalcanti helps to understand the Sergio Moro phenomenon in Brazil.",
+  "popularity": 7.6046,
+  "poster_path": "/3vA29RJmQx2DWuBS9mNzEam82Qv.jpg",
+  "production_companies": [
+    {
+      "id": 30409,
+      "logo_path": null,
+      "name": "Trincheira FIlmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 30408,
+      "logo_path": null,
+      "name": "Plano 9 Produções Audiovisuais",
+      "origin_country": "BR"
+    },
+    {
+      "id": 9171,
+      "logo_path": "/5EGVvPhTETMM9oJYY6TqkZ49MZV.png",
+      "name": "CinemaScópio",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2024-01-26",
+  "revenue": 0,
+  "runtime": 78,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Seu Cavalcanti",
+  "video": false,
+  "vote_average": 10,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4493382,
+        "known_for_department": "Acting",
+        "name": "Severino Cavalcanti",
+        "original_name": "Severino Cavalcanti",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Seu Cavalcanti",
+        "credit_id": "65add56109c24c00eab04288",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4493385,
+        "known_for_department": "Acting",
+        "name": "Tereza Cavalcanti",
+        "original_name": "Tereza Cavalcanti",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Teka (Tereza)",
+        "credit_id": "65add576158c8500ac1c26db",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3718045,
+        "known_for_department": "Acting",
+        "name": "Isabel Novaes",
+        "original_name": "Isabel Novaes",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Tia Bel",
+        "credit_id": "65add59c848eb900ca4e082c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1016242,
+        "known_for_department": "Acting",
+        "name": "Maeve Jinkings",
+        "original_name": "Maeve Jinkings",
+        "popularity": 0.7531,
+        "profile_path": "/s1pZd8CgUIll9ALVcgtUJhsB8uF.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "65b13200be6d88015043a7e3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4497686,
+        "known_for_department": "Acting",
+        "name": "Tânia Maria",
+        "original_name": "Tânia Maria",
+        "popularity": 0.0561,
+        "profile_path": "/73QyA2htiMJ01sFo25KLCDyPtWF.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "65b132238c315901943269a8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497688,
+        "known_for_department": "Acting",
+        "name": "Jácylla Kennya",
+        "original_name": "Jácylla Kennya",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "65b132312fe2fa01933d16c6",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1377594,
+        "known_for_department": "Directing",
+        "name": "Leonardo Lacca",
+        "original_name": "Leonardo Lacca",
+        "popularity": 0.0362,
+        "profile_path": "/2Lt1UNQkWzVUKmusEuuh7BvG7KY.jpg",
+        "credit_id": "659745130e64af0bae8c1904",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1099992,
+        "known_for_department": "Sound",
+        "name": "Tomaz Alves de Souza",
+        "original_name": "Tomaz Alves de Souza",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65b1317fa3144001725ac5c4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1377594,
+        "known_for_department": "Directing",
+        "name": "Leonardo Lacca",
+        "original_name": "Leonardo Lacca",
+        "popularity": 0.0362,
+        "profile_path": "/2Lt1UNQkWzVUKmusEuuh7BvG7KY.jpg",
+        "credit_id": "65b131bab9a0bd01934521e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1016227,
+        "known_for_department": "Production",
+        "name": "Emilie Lesclaux",
+        "original_name": "Emilie Lesclaux",
+        "popularity": 0.8288,
+        "profile_path": "/hXDYzC1PJsVuNdd4G6Pkb5Eh4Zj.jpg",
+        "credit_id": "65b131532fe2fa01933d1645",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1016215,
+        "known_for_department": "Camera",
+        "name": "Pedro Sotero",
+        "original_name": "Pedro Sotero",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "credit_id": "65b13117a3144001935ae56e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2271282,
+        "known_for_department": "Production",
+        "name": "Mannu Costa",
+        "original_name": "Mannu Costa",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "65b131b099c96401511f5664",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1377594,
+        "known_for_department": "Directing",
+        "name": "Leonardo Lacca",
+        "original_name": "Leonardo Lacca",
+        "popularity": 0.0362,
+        "profile_path": "/2Lt1UNQkWzVUKmusEuuh7BvG7KY.jpg",
+        "credit_id": "65b131f215c6360172aab0bd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1377594,
+        "known_for_department": "Directing",
+        "name": "Leonardo Lacca",
+        "original_name": "Leonardo Lacca",
+        "popularity": 0.0362,
+        "profile_path": "/2Lt1UNQkWzVUKmusEuuh7BvG7KY.jpg",
+        "credit_id": "65b13109dd926a01944d4b5b",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1016214,
+        "known_for_department": "Directing",
+        "name": "Kleber Mendonça Filho",
+        "original_name": "Kleber Mendonça Filho",
+        "popularity": 0.6118,
+        "profile_path": "/7jOzp98FiL6C22tphTHEPWAhK11.jpg",
+        "credit_id": "65b1315f99c96401511f564c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175826,
+        "known_for_department": "Directing",
+        "name": "Ricardo Pretti",
+        "original_name": "Ricardo Pretti",
+        "popularity": 0.051,
+        "profile_path": "/jVY078t7gWjhcgywmTC5LneLvd.jpg",
+        "credit_id": "65b131ccbe6d88017143d1b4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1393605,
+        "known_for_department": "Sound",
+        "name": "Roberto Espinoza",
+        "original_name": "Roberto Espinoza",
+        "popularity": 0.3615,
+        "profile_path": null,
+        "credit_id": "65b1313ca3144001935ae580",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1175827,
+        "known_for_department": "Directing",
+        "name": "Luiz Pretti",
+        "original_name": "Luiz Pretti",
+        "popularity": 0.0409,
+        "profile_path": "/c2HMEOAItWMAcCUKYhwcQhqvmXh.jpg",
+        "credit_id": "65b131d5be6d88017143d1bf",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

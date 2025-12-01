@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 315654,
+  "imdb_id": "tt0056132",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Die Kaiserin",
+  "overview": "",
+  "popularity": 5.649,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1962-06-10",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Die Kaiserin",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39043,
+        "known_for_department": "Acting",
+        "name": "Gerlinde Locker",
+        "original_name": "Gerlinde Locker",
+        "popularity": 0.3949,
+        "profile_path": "/q7J9tSUUGYj9FcFgzekpXDtq0Ls.jpg",
+        "cast_id": 1,
+        "character": "Maria-Theresia",
+        "credit_id": "54a9c120c3a3680c1c0054e9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48334,
+        "known_for_department": "Acting",
+        "name": "Gerhard Riedmann",
+        "original_name": "Gerhard Riedmann",
+        "popularity": 0.0795,
+        "profile_path": "/qmMiRBOLnaZzlDpXq9k2QlwXLZn.jpg",
+        "cast_id": 2,
+        "character": "Franz von Lothringen",
+        "credit_id": "54a9c1329251414d70004cbf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47353,
+        "known_for_department": "Acting",
+        "name": "Waltraut Haas",
+        "original_name": "Waltraut Haas",
+        "popularity": 0.0702,
+        "profile_path": "/vkuWSpRRslZT9SzgU43AQHUTY1x.jpg",
+        "cast_id": 3,
+        "character": "Richette",
+        "credit_id": "54a9c1499251414d600052f2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136022,
+        "known_for_department": "Acting",
+        "name": "Hans Thimig",
+        "original_name": "Hans Thimig",
+        "popularity": 0.0624,
+        "profile_path": "/g6wjssXC0Ddzow99VZmZI08MSf8.jpg",
+        "cast_id": 4,
+        "character": "Kaiser Karl VI.",
+        "credit_id": "54a9c15f9251417e06002588",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51135,
+        "known_for_department": "Acting",
+        "name": "Gretl Schörg",
+        "original_name": "Gretl Schörg",
+        "popularity": 0.1283,
+        "profile_path": "/4gjQdnVSR3kUc0Et1Us6WU1wJop.jpg",
+        "cast_id": 5,
+        "character": "Gräfin Fuchs",
+        "credit_id": "54a9c179c3a3680c1c0054f1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37914,
+        "known_for_department": "Acting",
+        "name": "Gerd Frickhöffer",
+        "original_name": "Gerd Frickhöffer",
+        "popularity": 0.4646,
+        "profile_path": "/sLhOB9Rl8q2hK84feoNGGAGH9VK.jpg",
+        "cast_id": 6,
+        "character": "Graf Kottek",
+        "credit_id": "54a9c18bc3a3680c2100598c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51131,
+        "known_for_department": "Acting",
+        "name": "Ernst Waldbrunn",
+        "original_name": "Ernst Waldbrunn",
+        "popularity": 0.4905,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Kleespitz",
+        "credit_id": "54a9c1a1c3a3680c2900559f",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29148,
+        "known_for_department": "Directing",
+        "name": "Arthur Maria Rabenalt",
+        "original_name": "Arthur Maria Rabenalt",
+        "popularity": 0.2854,
+        "profile_path": null,
+        "credit_id": "54a9c105c3a3680c33004a4b",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

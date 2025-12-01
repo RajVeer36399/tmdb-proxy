@@ -1,0 +1,368 @@
+{
+  "adult": false,
+  "backdrop_path": "/bpaqCAOREREJxL3FuDFsN7NDWip.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 213120,
+  "imdb_id": "tt0261107",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Ninfas Diabólicas",
+  "overview": "Two hitchhiking young women involve the men who give them a lift in a game of sex, telepathy and death.",
+  "popularity": 5.5155,
+  "poster_path": "/z7AEEL6V69Zt9y9kiOMUksx28mc.jpg",
+  "production_companies": [
+    {
+      "id": 221377,
+      "logo_path": null,
+      "name": "Presença Filmes",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "1978-05-24",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Devil Nymphs",
+  "video": false,
+  "vote_average": 8,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39158,
+        "known_for_department": "Acting",
+        "name": "Sérgio Hingst",
+        "original_name": "Sérgio Hingst",
+        "popularity": 0.0917,
+        "profile_path": "/80UW8OJgvTKyBCmUeBiPjTbG5FY.jpg",
+        "cast_id": 1,
+        "character": "Rodrigo",
+        "credit_id": "52fe4dbec3a368484e1fabb9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1032018,
+        "known_for_department": "Acting",
+        "name": "Aldine Müller",
+        "original_name": "Aldine Müller",
+        "popularity": 0.1373,
+        "profile_path": "/25rRPE7GzGgdwvpFPXTpvQtkZeE.jpg",
+        "cast_id": 2,
+        "character": "Ursula",
+        "credit_id": "52fe4dbec3a368484e1fabbd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1175608,
+        "known_for_department": "Acting",
+        "name": "Patrícia Scalvi",
+        "original_name": "Patrícia Scalvi",
+        "popularity": 0.5796,
+        "profile_path": "/nPzwyReCmOQMGxiXWTn96fciyyt.jpg",
+        "cast_id": 3,
+        "character": "Circe",
+        "credit_id": "52fe4dbec3a368484e1fabc1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1508324,
+        "known_for_department": "Acting",
+        "name": "Mii Saki",
+        "original_name": "Mii Saki",
+        "popularity": 0.1231,
+        "profile_path": "/gRHLUXwNVdSo8WhXcWfRFIQN3DF.jpg",
+        "cast_id": 7,
+        "character": "Moça da carona",
+        "credit_id": "593507b69251417ddc03140a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228031,
+        "known_for_department": "Acting",
+        "name": "Ewerton de Castro",
+        "original_name": "Ewerton de Castro",
+        "popularity": 0.1731,
+        "profile_path": "/bHBE9DH5ppxJtec98rL7E2Zqga0.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "593507ca9251417ddc031420",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 553532,
+        "known_for_department": "Acting",
+        "name": "Selma Egrei",
+        "original_name": "Selma Egrei",
+        "popularity": 0.143,
+        "profile_path": "/qv2Mq3tfMVWzyySTwrGlyz4Sh35.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "593507dcc3a3685a0b030dcd",
+        "order": 5
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1016247,
+        "known_for_department": "Acting",
+        "name": "John Doo",
+        "original_name": "John Doo",
+        "popularity": 0.694,
+        "profile_path": "/rOd5HTnE9AiEh7bp6wc3q9NRlRI.jpg",
+        "cast_id": 20,
+        "character": "Segunda vítima",
+        "credit_id": "65d5f19fea37e001606e619c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1789855,
+        "known_for_department": "Acting",
+        "name": "Luiz Carlos Viana",
+        "original_name": "Luiz Carlos Viana",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Atropelado",
+        "credit_id": "65d5f1bde6d3cc017bc07f7c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4124050,
+        "known_for_department": "Camera",
+        "name": "Paulo Iwakiri",
+        "original_name": "Paulo Iwakiri",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Dono da barraca",
+        "credit_id": "65d5f1cbea37e001606e61c9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4373880,
+        "known_for_department": "Acting",
+        "name": "Dorothy Leirner",
+        "original_name": "Dorothy Leirner",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Mulher de Rodrigo",
+        "credit_id": "65d5f1de6097500185237b91",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1016247,
+        "known_for_department": "Acting",
+        "name": "John Doo",
+        "original_name": "John Doo",
+        "popularity": 0.694,
+        "profile_path": "/rOd5HTnE9AiEh7bp6wc3q9NRlRI.jpg",
+        "credit_id": "52fe4dbec3a368484e1fabcd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1016247,
+        "known_for_department": "Acting",
+        "name": "John Doo",
+        "original_name": "John Doo",
+        "popularity": 0.694,
+        "profile_path": "/rOd5HTnE9AiEh7bp6wc3q9NRlRI.jpg",
+        "credit_id": "52fe4dbec3a368484e1fabc7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1016248,
+        "known_for_department": "Writing",
+        "name": "Ody Fraga",
+        "original_name": "Ody Fraga",
+        "popularity": 0.5389,
+        "profile_path": "/jP8mK99QdAtT3bnjBUHewm3TcSR.jpg",
+        "credit_id": "52fe4dbec3a368484e1fabd3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267737,
+        "known_for_department": "Editing",
+        "name": "Máximo Barro",
+        "original_name": "Máximo Barro",
+        "popularity": 0.0143,
+        "profile_path": "/6R1Ki3qYVMiPWhnZGHwxtaCCiSK.jpg",
+        "credit_id": "65d5f0deed2ac2017c34ed3f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2446118,
+        "known_for_department": "Production",
+        "name": "Heron D'Ávila",
+        "original_name": "Heron D'Ávila",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "65d5f0baf29d66014ae8780e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1016247,
+        "known_for_department": "Acting",
+        "name": "John Doo",
+        "original_name": "John Doo",
+        "popularity": 0.694,
+        "profile_path": "/rOd5HTnE9AiEh7bp6wc3q9NRlRI.jpg",
+        "credit_id": "65d5f0ac6097500185237a99",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4124050,
+        "known_for_department": "Camera",
+        "name": "Paulo Iwakiri",
+        "original_name": "Paulo Iwakiri",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "65d5f105c8a5ac0148e0fdef",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4549440,
+        "known_for_department": "Directing",
+        "name": "Eliana Monteiro Tu",
+        "original_name": "Eliana Monteiro Tu",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "65d5f112ea37e001836efcf6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1184636,
+        "known_for_department": "Sound",
+        "name": "Rogério Duprat",
+        "original_name": "Rogério Duprat",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "65d5f0c86097500146227232",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1076801,
+        "known_for_department": "Directing",
+        "name": "Ozualdo Ribeiro Candeias",
+        "original_name": "Ozualdo Ribeiro Candeias",
+        "popularity": 0.0929,
+        "profile_path": "/o9VlecVKS4roDrZWAm5acE3xrMk.jpg",
+        "credit_id": "65d5f0d225cd8501637dfabc",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1171260,
+        "known_for_department": "Acting",
+        "name": "Heitor Gaiotti",
+        "original_name": "Heitor Gaiotti",
+        "popularity": 0.0502,
+        "profile_path": "/mhd3SWaT2EL9WJLiBvadpWp81sM.jpg",
+        "credit_id": "65d5f11fffd44d01872b26f2",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2705839,
+        "known_for_department": "Sound",
+        "name": "Benedito de Oliveira",
+        "original_name": "Benedito de Oliveira",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "65d5f12d6097500185237b0c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4549439,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shirley de Castro",
+        "original_name": "Shirley de Castro",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "65d5f0ea6097500146227251",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  }
+}
