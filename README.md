@@ -1,9 +1,9 @@
-⚡ TMDb Proxy Cache Server
+# TMDb Proxy Cache Server
 
 A lightweight Node.js + Express caching proxy that mirrors TMDb responses and serves them instantly from JSON files.
 Used for Movie Matrix, avoids TMDb rate limits, improves speed, and makes the frontend deployment 100% stable.
 
-🚀 Features
+# Features
 
 🔥 Instant cached responses
 
@@ -17,37 +17,44 @@ Used for Movie Matrix, avoids TMDb rate limits, improves speed, and makes the fr
 
 🌐 Works perfectly with Netlify/Render deployments
 
-📦 Installation
+# Installation
 npm install
 
-▶️ Start Server
+# Start Server
 node server.js
 
 
 Default port: 3000
 
-📁 Folder Structure
+# Folder Structure
 tmdb-proxy/
+ 
  ├── cache/               # JSON data for all movies
+ 
  ├── server.js            # Express app
+ 
  ├── .env                 # TMDb API key (never commit)
+ 
  └── package.json
 
-⚙️ Environment Variables
+# Environment Variables
 
 Create .env:
 
 TMDB_API_KEY=your_key_here
 
-🔍 Endpoints
+# Endpoints
+
 Health Check
+
 GET /ping
 
-Cached Files
-GET /cache/popular_page_1.json
-GET /cache/movie_12345.json
+# Cached Files
+ GET /cache/popular_page_1.json
+ 
+ GET /cache/movie_12345.json
 
-🚀 Deployment
+# Deployment
 
 Deploy to Render (Free Instance)
 
@@ -60,6 +67,6 @@ Add /ping as health check endpoint
 
 Add TMDB_API_KEY in Render's Dashboard
 
-📄 License
+# License
 
 MIT License.
